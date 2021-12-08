@@ -62,7 +62,7 @@ A flow chart is shown below to explain it better-
                 ```
         - Example of Unsuccessful response(404 Not Found)
             - ```json
-                {"detail":"Error on Finding Champ/Element on AUNTM.ai"}
+                {"detail":"Error on Finding Champ/Element on AUNTM.ai and/or Database"}
               ```       
 
 - ### find
