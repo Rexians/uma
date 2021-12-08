@@ -98,8 +98,7 @@ A flow chart is shown below to explain it better-
                 "status":200,
                 "detail":"Successful"
                 }
-            ```
-
+       ```
         - Example of Unsuccessful response(404 Not Found)
             - ```json
                 {"detail":"Error on Finding Champ/Element on AUNTM.ai"}
