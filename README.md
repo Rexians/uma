@@ -82,7 +82,8 @@ A flow chart is shown below to explain it better-
     - **Response**
         - Example of Successful response of  Abomination(200 OK)
            - ```json
-                {"name":"ABOMINATION",
+                {
+                "name":"ABOMINATION",
                 "url_page":"https://auntm.ai/champions/abomination",
                 "img_potrait":"https://auntm.ai/resources/ui/uigacha/featured/gachachaseprize_256x256_abomination.png",
                 "quests":{
