@@ -41,22 +41,22 @@ A flow chart is shown below to explain it better-
         - Example of Successful response of 6 star Abomination(200 OK)
            - ```json
                 {	
-                name:"ABOMINATION"
-                prestige:"9882"
-                hp:"49894"
-                attack:"3859"
-                crit_rate:"359"
-                crit_dmge:"550"
-                armor:"621"
-                block_prof:"2801"
-                energy_resist:"0"
-                physical_resist:"0"
-                crit_resist:"0"
-                sig_info:"Contact with the Abomination's gamma-irradiated body has a 5.29 to 25.03% chance to Poison the target, reducing their Health recovery by 30% and dealing 3087.2 Direct Damage over 12 seconds."
-                url_page:"https://auntm.ai/champions/abomination/tier/6"
-                img_potrait:"https://auntm.ai/resources/ui/uigacha/featured/gachachaseprize_256x256_abomination.png"
-                champid:"abomination+6"
-                status:200
+                name:"ABOMINATION",
+                prestige:"9882",
+                hp:"49894",
+                attack:"3859",
+                crit_rate:"359",
+                crit_dmge:"550",
+                armor:"621",
+                block_prof:"2801",
+                energy_resist:"0",
+                physical_resist:"0",
+                crit_resist:"0",
+                sig_info:"Contact with the Abomination's gamma-irradiated body has a 5.29 to 25.03% chance to Poison the target, reducing their Health recovery by 30% and dealing 3087.2 Direct Damage over 12 seconds.",
+                url_page:"https://auntm.ai/champions/abomination/tier/6",
+                img_potrait:"https://auntm.ai/resources/ui/uigacha/featured/gachachaseprize_256x256_abomination.png",
+                champid:"abomination+6",
+                status:200,
                 detail:"Successful"
                 }
                 ```
