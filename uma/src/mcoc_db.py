@@ -30,7 +30,7 @@ class ChampsDB:
         self.champid = None
 
     def champs_info(self, champname:str, tier_str:int):
-        cluster_code = os.getenv('cluster')
+        cluster_code = os.environ.get('cluster')
         cluster = MongoClient(cluster_code)
         db = cluster["MCOC"]["ChampsInfo"]  
         info = f"{champname}+{tier_str}"
