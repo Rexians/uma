@@ -1,5 +1,5 @@
 from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome import options
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
 from pymongo import MongoClient
@@ -43,7 +43,7 @@ class ChampsDB:
                 opts.add_argument("--disable-dev-shm-usage");
                 opts.add_argument(" --headless");
                 opts.add_argument("--disable-gpu")        
-                browser = webdriver.Chrome(chrome_options=opts)
+                browser = webdriver.Chrome(options=opts)
                 browser.get(url)
                 name_acc = browser.find_element(By.CSS_SELECTOR, '.sc-bZSQDF')
                 link_acc = browser.find_element(By.CSS_SELECTOR, 'div.sc-bkzZxe:nth-child(1) > img:nth-child(1) ').get_attribute("src")
