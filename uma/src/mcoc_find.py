@@ -107,7 +107,11 @@ class champs_detailed:
             self.error = {
                         "detail" : "Error on Finding Champ/Element on AUNTM.ai",
                         "status" : 404}
-        except NoSuchElementException:
-            raise NoSuchElementException
+        except Exception as e:
+            self.error = {
+                        "detail" : e,
+                        "status" : 404}
+            browser.close()
+            browser.quit()                        
                 
 
