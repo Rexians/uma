@@ -197,6 +197,8 @@
 |THOR JANE FOSTER | janefoster |
 |THOR RAGNAROK | thorragnarok |
 |TIGRA | tigra |
+|TOAD | toad |
+|SAURON | sauron |
 |ULTRON(LOL) | ultronlol |
 |ULTRON | ultron
 |UNSTOPPABLE COLOSSUS | unstoppablecolossus |
