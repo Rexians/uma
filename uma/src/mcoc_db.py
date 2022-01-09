@@ -48,7 +48,7 @@ class ChampsDB:
                 name_acc = browser.find_element(By.CSS_SELECTOR, '.sc-bZSQDF')
                 link_acc = browser.find_element(By.CSS_SELECTOR, 'div.sc-bkzZxe:nth-child(1) > img:nth-child(1) ').get_attribute("src")
                 prestige_access = browser.find_element(By.CSS_SELECTOR, 'div.sc-dmlrTW:nth-child(9) > div:nth-child(2)')
-                hp_access = browser.find_element(By.CSS_SELECTOR, 'div.sc-dmlrTW:nth-child(10) > div:nth-child(2)')
+                hp_access = browser.find_element(By.CSS_SELECTOR, 'div.sc-hHftDr:nth-child(1) > div:nth-child(10) > div:nth-child(2)')
                 attack_access = browser.find_element(By.CSS_SELECTOR, 'div.sc-dmlrTW:nth-child(11) > div:nth-child(2)')
                 crit_rate_access = browser.find_element(By.CSS_SELECTOR, 'div.sc-dmlrTW:nth-child(12) > div:nth-child(2)')
                 crit_dmge_access = browser.find_element(By.CSS_SELECTOR, 'div.sc-dmlrTW:nth-child(13) > div:nth-child(2)')
