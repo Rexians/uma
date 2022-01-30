@@ -7,9 +7,9 @@
 UMA is a API created for the developers who like and play MCOC(Marvel Contest of Champions).
 It gives various information about champs like for ex- their PI, Prestige etc...
 
-## URI 
+## URI(New)
 
-The base URI for the API is currently- `http://mcoc-api.herokuapp.com` and all the requests are to be made on this.
+The base URI for the API is now- `https://api.rexians.tk/` and all the requests are to be made on this.
 
 ## Working
 
