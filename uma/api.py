@@ -3,9 +3,13 @@ from fastapi.middleware.cors import CORSMiddleware
 from selenium.common.exceptions import NoSuchElementException
 from src.mcoc_find import champs_detailed
 from src.mcoc_db import ChampsDB
+from src.mcoc_roster import Roster
+from pydantic import BaseModel
+
 app = FastAPI()
 find = champs_detailed()
-info2 = ChampsDB()
+info = ChampsDB()
+roster = Roster()
 
 app.add_middleware(
     CORSMiddleware,
@@ -127,23 +131,23 @@ def champsfunc(champ:str, tier:int ):
     elif champ=="howard":
         champurl="howardmech"
     try:
-        info2.champs_info(champurl,tier)
+        info.champs_info(champurl,tier)
         champs_dict = {
-            "name": f"{info2.name}",
-            "prestige" : f"{info2.prestige}" ,
-            "hp" : f"{info2.hp}" ,
-            "attack" : f"{info2.attack}" ,
-            "crit_rate" : f"{info2.crit_rate}" ,
-            "crit_dmge" : f"{info2.crit_dmge}" ,
-            "armor" : f"{info2.armor}" ,
-            "block_prof" : f"{info2.block_prof}" ,
-            "energy_resist" : f"{info2.energy_resist}" ,
-            "physical_resist" : f"{info2.physical_resist}" ,
-            "crit_resist" : f"{info2.crit_resist}" ,
-            "sig_info" : f"{info2.sig_info}" ,
-            "url_page" : f"{info2.url_page}",
-            "img_potrait" : f"{info2.link}",
-            "champid" : f"{info2.champid}",
+            "name": f"{info.name}",
+            "prestige" : f"{info.prestige}" ,
+            "hp" : f"{info.hp}" ,
+            "attack" : f"{info.attack}" ,
+            "crit_rate" : f"{info.crit_rate}" ,
+            "crit_dmge" : f"{info.crit_dmge}" ,
+            "armor" : f"{info.armor}" ,
+            "block_prof" : f"{info.block_prof}" ,
+            "energy_resist" : f"{info.energy_resist}" ,
+            "physical_resist" : f"{info.physical_resist}" ,
+            "crit_resist" : f"{info.crit_resist}" ,
+            "sig_info" : f"{info.sig_info}" ,
+            "url_page" : f"{info.url_page}",
+            "img_potrait" : f"{info.link}",
+            "champid" : f"{info.champid}",
             "status" : 200,
             "detail" : "Successful",
             }
@@ -289,3 +293,159 @@ def findfunc(champ:str):
     except NoSuchElementException:
         raise HTTPException(status_code=404,detail='Error on Finding Champ/Element on AUNTM.ai')
  
+@app.get("/roster/create")
+def roster_createfunc(gamename:str):
+    roster.create_roster(gamename)
+    if roster.error == 'None':
+        detail = {
+            'status':200,
+            'detail':'Successful',
+            }
+        return(detail)
+    else:
+        raise HTTPException(status_code=404, detail=roster.error)  
+
+@app.get("/roster/get")
+def roster_getfunc(gamename:str):
+    roster.get_roster(gamename)
+    if roster.error == 'None':
+        roster_dict = roster.roster_dict
+        roster_dict['status']=200
+        roster_dict['detail']='Successful'
+        return(roster_dict)
+    else:
+        raise HTTPException(status_code=404, detail=roster.error)    
+
+@app.get("/roster/addchamp")
+def roster_updatefunc(gamename:str, champname:str, tier:int, signature:int):
+
+    champnameurl = champname
+    if champname == "bwcv":
+        champnameurl="blackwidow_timely"
+    elif champname == "redgoblin":
+        champnameurl="red_goblin"        
+    elif champname == "bwdo":
+        champnameurl="blackwidow_movie"
+    elif champname == "ultron":
+        champnameurl="ultron_prime"    
+    elif champname == "ultronlol":
+        champnameurl="ultron"        
+    elif champname == "spidersymbiote":
+        champnameurl="spiderman_black"
+    elif champname == "mordo":
+        champnameurl="karlmordo"    
+    elif champname == "sorcerersupreme":
+        champnameurl="drstrange_realm"  
+    elif champname == "oml":
+        champnameurl="wolverine_oldman"          
+    elif champname == "hulkbuster":
+        champnameurl="hulkbuster_movie"
+    elif champname == "ironfistimmortal":
+        champnameurl="ironfist_white"        
+    elif champname == "cyclops_blue":
+        champnameurl="cyclops_90s"        
+    elif champname == "cmm":
+        champnameurl="captainmarvel_movie"
+    elif champname == "caiw":
+        champnameurl="captainamerica_movie"
+    elif champname == "caww2":
+        champnameurl="captainamerica_ww2"        
+    elif champname == "imiw":
+        champnameurl="ironman_movie"
+    elif champname == "jabaripanther":
+        champnameurl="blackpanther_realm"
+    elif champname =="kinggroot":
+        champnameurl="groot_king"
+    elif champname =="misterfantastic":
+        champnameurl="mrfantastic"
+    elif champnameurl =="bpcw":
+        champnameurl="blackpanther_cw"
+    elif champname=="punisher2099":
+        champnameurl="punisher_2099"
+    elif champname=="rocketracoon":
+        champnameurl="rocket"
+    elif champname=="spiderman2099":
+        champnameurl="spiderman_2099"
+    elif champname=="overseer":
+        champnameurl="maestro_overseer"
+    elif champname=="unstoppablecolossus" :
+        champnameurl="colossus_unstoppable"
+    elif champname=="visionaarkus":
+        champnameurl=="vision_timely"
+    elif champname=="visionmovie":
+        champnameurl="vision_movie"
+    elif champname=="vulture":
+        champnameurl="vulture_movie"
+    elif champname=="wolverinex":
+        champnameurl="wolverine_weaponx"
+    elif champname=="spidermorales":
+        champnameurl="spiderman_morales"
+    elif champname=="starkspiderman":
+        champnameurl="spiderman_movie"
+    elif champname=="spiderstealth ":
+        champnameurl="spiderman_stealth"
+    elif champname=="redmagneto":
+        champnameurl="magneto"
+    elif champname=="magnetowhite":
+        champnameurl="magneto_marvelnow" 
+    elif champname=="kamalakhan":
+        champnameurl="msmarvel_kamala"
+    elif champname=="platinumpool":
+        champnameurl="deadpool_platinumpool"
+    elif champname=="scarletwitchnew":
+        champnameurl="scarletwitch_current"
+    elif champname=="silvercenturion":
+        champnameurl="ironman_silvercenturion"
+    elif champname=="stormpyramidx":
+        champnameurl="storm_realm"
+    elif champname=="superskrull":
+        champnameurl="skrull_super"
+    elif champname=="superiorironman":
+        champnameurl="ironman_superior"
+    elif champname=="janefoster":
+        champnameurl="thor_janefoster"                                        
+    elif champname=="thorragnarok":
+        champnameurl="thor_ragnarok"
+    elif champname=="ibom":
+        champnameurl="abomination_immortal"
+    elif champname=="doctorvoodoo":
+        champnameurl="brothervoodoo"
+    elif champname=="daredevil netflix":
+        champnameurl="daredevil_netflix"
+    elif champname=="goldpool":
+        champnameurl="deadpool_goldpool"
+    elif champname=="cgr":
+        champnameurl="ghostrider_cosmic"
+    elif champname=="docock":
+        champnameurl="doc_ock"
+    elif champname=="greengoblin":
+        champnameurl="green_goblin"
+    elif champname=="howard":
+        champnameurl="howardmech"
+
+    roster.add_champ(gamename, champnameurl, tier, signature)
+    if roster.error == 'None':
+        detail = {
+            'status':200,
+            'detail':'Successful',
+            }
+        return(detail)    
+    else:
+        raise HTTPException(status_code=404, detail=roster.error)   
+
+class BulkUpdate(BaseModel):
+    gamename: str
+    roster_dict: list
+
+@app.post('/roster/bulkadd')
+def roster_bulkfunc(roster_bulk:BulkUpdate):
+    roster.bulk_add(roster_bulk.gamename, roster_bulk.roster_dict)
+    if roster.error == 'None':
+        detail = {
+            'status':200,
+            'detail':'Successful',
+            }
+        return(detail)
+    else:
+        raise HTTPException(status_code=404, detail=roster.error)   
+
