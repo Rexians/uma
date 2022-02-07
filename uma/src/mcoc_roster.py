@@ -1,5 +1,4 @@
 from pymongo import MongoClient
-from src.mcoc_db import ChampsDB
 import os
 from dotenv import load_dotenv
 
