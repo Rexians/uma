@@ -5,6 +5,8 @@ from src.mcoc_find import champs_detailed
 from src.mcoc_db import ChampsDB
 from src.mcoc_roster import Roster
 from pydantic import BaseModel
+from dotenv import load_dotenv
+import os
 
 app = FastAPI()
 find = champs_detailed()
@@ -126,6 +128,19 @@ def champurl_getter(champ):
         champurl="howardmech"
     return(champurl)    
 
+@app.get("/")
+def home():
+    '''
+    Home Page to get Information, and version
+    '''
+    version = os.environ.get('version')
+    home_dict = {
+        'information': 'Unofficial MCOC API, Abbreviated as UMA, Is a API developed for MCOC Players. It has various features including Champs Info, Champs Finder and many features are being developed like Roster and Masteries. Reach out to https://indorex.gitbook.io/uma-docs for Documentation.',
+        'documentation': 'https://indorex.gitbook.io/uma-docs',
+        'version': version
+    }
+    return(home_dict)
+
 @app.get("/champs/")
 def champsfunc(champ:str, tier:int ):
 
@@ -236,13 +251,13 @@ def roster_updatefunc(gamename:str, champname:str, tier:int, signature:int):
     if roster.error == '':
         detail = {
             'status':200,
-            'detail':'Successful',
+            'detail':roster.details,
             }
         return(detail)    
     else:
         raise HTTPException(status_code=404, detail=roster.error)   
 
-#Heavily Bugged Feature
+#Heavily Bugged Feature! Still developing...
 class BulkUpdate(BaseModel):
     gamename: str
     roster_dict: list
