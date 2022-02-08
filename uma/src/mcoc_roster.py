@@ -48,7 +48,6 @@ class Roster():
         create_new = True  
         for roster_dict in player_check['roster']:
             if roster_dict['champ_name'] == champ_details['name'] and roster_dict['tier'] == int(tier):
-                print('Yes')
                 create_new = False
             break
         if player_check is not None:
@@ -76,22 +75,23 @@ class Roster():
                         }
                         player_check['roster'].append(champ_info)
                         rosterdb.find_one_and_replace({"game_name":gamename}, player_check)
-                        self.error = ''
+                        self.details = f'Added {tier} star {champ_details["name"]} of signature {signature}'
                 else:
+                    #Updates the signature and champid
                     for roster_dict in player_check['roster']:
                         if roster_dict['champ_name'] == champ_details['name'] and roster_dict['tier'] == int(tier): 
+                            self.details = f'Updated {tier} star {champ_details["name"]} of previous signature {roster_dict["sig_number"]} to new signature {signature}'
                             roster_dict['sig_number'] = signature
                             roster_dict['champid'] = f'{champ_details["champid"]}+{signature}'
-                        break    
-                    print(player_check)        
+                            
+                        break        
                     rosterdb.find_one_and_replace({"game_name":gamename}, player_check)                         
             else:
                 self.error = 'Champname is incorrect. Refer to https://github.com/Rexians/uma/blob/master/champnames.md for correct champnames.'    
         else:
             self.error = 'Player with this name doesn\'t exists.'                                  
 
-#Heavily Bugged feature!  
-
+#Heavily Bugged feature! Still Developing...
     def bulk_add(self, gamename, roster_dict):
         for x in roster_dict:
             if x['tier'] >=7:
@@ -113,8 +113,7 @@ class Roster():
                         break
                     else:    
                         continue
-                if champ_found is False:      
-                    print('champ_check is None')           
+                if champ_found is False:               
                     if correct_check is not None:
                         if x['tier'] >=7:
                             self.error = self.error+f'{x["champname"]}+{x["tier"]}- Tier can\'t be greater than 6\n'
