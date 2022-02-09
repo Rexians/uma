@@ -210,21 +210,6 @@ def findfunc(champ:str):
         return(champs_dict)
     except NoSuchElementException:
         raise HTTPException(status_code=404,detail='Error on Finding Champ/Element on AUNTM.ai')
- 
-@app.get("/roster/create")
-def roster_createfunc(gamename:str):
-    '''
-    Create your Account in the Database
-    '''
-    roster.create_roster(gamename)
-    if roster.error == '':
-        detail = {
-            'status':200,
-            'detail':'Successful',
-            }
-        return(detail)
-    else:
-        raise HTTPException(status_code=404, detail=roster.error)  
 
 @app.get("/roster/get")
 def roster_getfunc(gamename:str):
