@@ -14,12 +14,12 @@ class Roster():
     def create_roster(self, gamename):
         cluster_code = os.environ.get('cluster')
         cluster = MongoClient(cluster_code)
-        db = cluster["MCOC"]["Roster"]  
+        db = cluster["MCOC"]["Account"]  
         x = db.find_one({"game_name":gamename})   
         if x is None:
             player_info = {
                 'game_name':gamename,
-                'discord': 'None',
+                'discord_id': 'None',
                 'roster': []
             }     
             db.insert_one(player_info)
@@ -41,7 +41,7 @@ class Roster():
     def add_champ(self, gamename, champname, tier, signature):
         cluster_code = os.environ.get('cluster')
         cluster = MongoClient(cluster_code)
-        rosterdb = cluster["MCOC"]["Roster"]  
+        rosterdb = cluster["MCOC"]["Account"]  
         infodb = cluster['MCOC']['ChampsInfo']
         player_check = rosterdb.find_one({"game_name":gamename}, {'_id': 0}) 
         champ_details = infodb.find_one({'champid':f'{champname}+{tier}'})
