@@ -11,22 +11,6 @@ class Roster():
         self.details = ''
         self.roster_dict = None
 
-    def create_roster(self, gamename):
-        cluster_code = os.environ.get('cluster')
-        cluster = MongoClient(cluster_code)
-        db = cluster["MCOC"]["Account"]  
-        x = db.find_one({"game_name":gamename})   
-        if x is None:
-            player_info = {
-                'game_name':gamename,
-                'discord_id': 'None',
-                'roster': []
-            }     
-            db.insert_one(player_info)
-            self.error = ''
-        else:
-            self.error = 'Player with this name already exists.'
-
     def get_roster(self, gamename):
         cluster_code = os.environ.get('cluster')
         cluster = MongoClient(cluster_code)
