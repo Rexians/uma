@@ -1,4 +1,10 @@
-# UMA (Unofficial MCOC API)
+<div align="center">
+    <h1>UMA (Unofficial MCOC API)</h1>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"/>
+    <img src="https://img.shields.io/static/v1?label=v3&message=UMA&color=purple" alt="uma"/>
+  </p>
+</div>
 
 ![UMA Banner](blob/UMA_Banner.png)
 
@@ -24,83 +30,104 @@ A flow chart is shown below to explain it better-
 
 - ### champs
 
-    - **Base URL**-> `https://mcoc-api.herokuapp.com/champs`
+    - **Base URL**-> `https://api.rexians.tk/champs`
 
     - **Query Params**-> 
         - 1- `champ`
         - 2- `tier`
+        - 2- `rank`
 
     - **Overview**
         - This endpoint is used to get basic information about champs like HP, Prestige etc...
-        - The `champs` endpoint needs two query parameters- `champ` which is a specific code for each champ, and `tier` which is the tier or star for the champ.
+        - The `champs` endpoint needs three query parameters- `champ` which is a specific code for each champ, `tier` which is the tier or star for the champ and the `rank` being the the rank of the champ.
         - The `champ` list can be found [here](champnames.md)
-        - The `tier` should be from 1 to 6
-        - Ex. To get the info on 6 star Abomination, the URI will be `https://mcoc-api.herokuapp.com/champs/?champ=abomination&tier=6`
+        - The `tier` should be from 1 to 6.
+        - The `rank` varies according to the tier. 
+            - 6* shouldn't have more than 4.
+            - 5* shouldn't have more than 5.
+            - 4* shouldn't have more than 4.
+            - 3* shouldn't have more than 4.
+            - 2* shouldn't have more than 3.
+        - Ex. To get the info on 6 star Abomination of rank 3, the URI will be `https://api.rexians.tk/champs/?champ=abomination&tier=6&rank=3`
 
     - **Response**
         - Example of Successful response of 6 star Abomination(200 OK)
            - ```json
-                {	
-                "name":"ABOMINATION",
-                "prestige":"9882",
-                "hp":"49894",
-                "attack":"3859",
-                "crit_rate":"359",
-                "crit_dmge":"550",
-                "armor":"621",
-                "block_prof":"2801",
-                "energy_resist":"0",
-                "physical_resist":"0",
-                "crit_resist":"0",
-                "sig_info":"Contact with the Abomination's gamma-irradiated body has a 5.29 to 25.03% chance to Poison the target, reducing their Health recovery by 30% and dealing 3087.2 Direct Damage over 12 seconds.",
-                "url_page":"https://auntm.ai/champions/abomination/tier/6",
-                "img_potrait":"https://auntm.ai/resources/ui/uigacha/featured/gachachaseprize_256x256_abomination.png",
-                "champid":"abomination+6",
-                "status":200,
-                "detail":"Successful"
-                }
+                    {
+                    "name": "ABOMINATION",
+                    "prestige": 8636,
+                    "hp": 43600,
+                    "attack": 3372,
+                    "crit_rate": 351,
+                    "crit_dmge": 538,
+                    "armor": 572,
+                    "block_prof": 2737,
+                    "energy_resist": 0,
+                    "physical_resist": 0,
+                    "crit_resist": 0,
+                    "sig_info": "Contact with the Abomination's gamma-irradiated body has a 5.29 to 25.03% chance to Poison the target, reducing their Health recovery by 30% and dealing 2697.6 Direct Damage over 12 seconds.",
+                    "url_page": "https://auntm.ai/champions/abomination/tier/6",
+                    "img_potrait": "https://auntm.ai/resources/ui/uigacha/featured/gachachaseprize_256x256_abomination.png",
+                    "champid": "abomination+6+3",
+                    "status": 200,
+                    "detail": "Successful"
+                    }
                 ```
         - Example of Unsuccessful response(404 Not Found)
             - ```json
-                {"detail":"Error on Finding Champ/Element on AUNTM.ai and/or Database"}
+                {"detail":"404: Data with the champid: {champid} doesn't exist in the API Database!"}
               ```       
 
 - ### find
+    - **This route has been deprecated**
+        - This route was deprecated as this used to live data scrape which was very much CPU consuming, So this feature has been removed for now. It might come in a upgraded way a later time.
 
-    - **Base URL**-> `https://mcoc-api.herokuapp.com/find`
+
+# ROSTER
+
+Roster is a new feature and cannot be controlled from only the API. So, A new method has been made for working with the roster. The Rexians website has a cool new feature which can be accessed from [**here**](https://mcoc.rexians.tk/login). After logging in, You will be redirected to your Profile where you will have a button to Add Champs. Click that, fill it and the data will be added the the Database. The data then can also be accessed from the following route(s) to work with.
+
+- ## get
+    - **BASE URI** -> `https://api.rexians.tk/roster/get` 
 
     - **Query Params**-> 
-        - 1- `champ`
+        - 1- `gamename`
 
     - **Overview**
-        - This endpoint is used to get the info where a specific champ can be found like in Story quest or where.
-        - The `find` endpoint needs one query parameters- `champ` which is a specific code for each champ.
-        - The `champ` list can be found [here](champnames.md)
-        - Ex. To get the info on where a Abomination can be found, the URI will be `https://mcoc-api.herokuapp.com/find/?champ=abomination`
-        - This Endpoint is slower than the previous one because there is not a Database for this one.
+        - This endpoint is used to get the information of a user who is registered in the [Rexians Web](https://mcoc.rexians.tk/login).
+        - The `roster.get` endpoint needs one query parameters- `gamename` which is a gamename user specified while logging in for the first time in the Web.
+        - Ex. To get the info on user of gamename: `The Indominus`, the URI will be `https://api.rexians.tk/roster/get?gamename=The Indominus`
 
     - **Response**
-        - Example of Successful response of  Abomination(200 OK)
+        - Example of Successful response of `The Indominus`(200 OK)
            - ```json
                 {
-                "name":"ABOMINATION",
-                "url_page":"https://auntm.ai/champions/abomination",
-                "img_potrait":"https://auntm.ai/resources/ui/uigacha/featured/gachachaseprize_256x256_abomination.png",
-                "quests":{
-                    "story_quests":"2.1.3, 3.2.2, 3.2.6, 4.1.1, 4.1.2, 4.2.1, 4.2.2, 4.3.1, 4.3.2, 4.3.5, 4.3.6, 4.4.1, 4.4.2, 4.4.3, 4.4.4, 4.4.5, 4.4.6, 5.1.4, 5.2.3, 5.2.6, 5.3.1, 5.3.3, 5.3.5, 5.3.6, 5.4.1, 5.4.2, 5.4.4, 5.4.5, 5.4.6, 6.1.1, 6.1.4, 6.1.5, 6.1.6, 6.2.3, 6.2.5, 6.2.6, 6.3.4, 6.3.5, 6.4.3, 7.1.4, 7.1.5",
-                    "event_quests":"KINGS OF THE JUNGLE, 1.1, 1.2, 2.1, 2.2, 3.1, 3.2",
-                    "alliance_quests":"MAP 6: Futuristic Termination, MAP 7: Suited Destruction, MAP 8: Supernova",
-                    "incursions":"SCIENCE SLAUGHTER, Easy, SCIENCE SLAUGHTER, Medium, SCIENCE SLAUGHTER, Hard, SCIENCE SLAUGHTER, Expert",
-                    "daily_quests":"SCIENCE SLAUGHTER, Easy, SCIENCE SLAUGHTER, Medium, SCIENCE SLAUGHTER, Hard, SCIENCE SLAUGHTER, Expert",
-                    "special_quests":"ROAD TO THE LABYRINTH, 1.1, 2.4, 3.2, 4.2, 4.6, LABYRINTH OF LEGENDS",
-                    "back_quests":"DEADPOOLOOZA, 2.1, 3.2, ARACHNID ACTION, 1.1, 2.2, CONTAMINATION, 1.1, 1.2, 2.1, 3.1, BLOOD AND VENOM, 1.2, 3.1, POLAR OPPOSITES, 1.1, 2.1, 3.1, MYSTERY IN THE MICRO-REALMS, 1.1, 1.3, 2.1, 2.2, 3.3, ULTRON'S ASSAULT, 2.1, 3.3"
-                    },
-                "champid":"abomination",
-                "status":200,
-                "detail":"Successful"
+                "game_name": "The Indominus",
+                "discord_id": 706033276493758600,
+                "avatar_url": "https://cdn.discordapp.com/avatars/706033276493758545/76219b3a57f0a57f52b72eeaf4ae89ab.png",
+                "prestige": 7225,
+                "roster": [
+                    {
+                    "champ_name": "HYPERION",
+                    "tier": 5,
+                    "rank": 5,
+                    "prestige": 7225,
+                    "sig_number": 100,
+                    "img_link": "https://auntm.ai/resources/ui/uigacha/featured/gachachaseprize_256x256_hyperion.png",
+                    "champid": "hyperion+100+5+5",
+                    "url_page": "https://auntm.ai/champions/hyperion/tier/5"
+                    }
+                ],
+                "status": 200,
+                "detail": "Successful"
                 }
                 ```
         - Example of Unsuccessful response(404 Not Found)
             - ```json
-                {"detail":"Error on Finding Champ/Element on AUNTM.ai"}
-              ```
+                {"detail":"Player with this name doesn't exists."}
+              ```      
+
+## Contributing
+
+For contribution guidelines please refer to the [Contributing.md](CONTRIBUTING.md)
+

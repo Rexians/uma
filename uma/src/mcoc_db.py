@@ -1,11 +1,121 @@
+import json
 from selenium import webdriver
-from selenium.webdriver.chrome import options
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
 from pymongo import MongoClient
 import os
 from dotenv import load_dotenv
 load_dotenv()
+
+    
+def champurl_getter(champ):
+    champurl = champ
+
+    if champ == "bwcv":
+        champurl="blackwidow_timely"
+    elif champ == "redgoblin":
+        champurl="red_goblin"        
+    elif champ == "bwdo":
+        champurl="blackwidow_movie"
+    elif champ == "ultron":
+        champurl="ultron_prime"    
+    elif champ == "ultronlol":
+        champurl="ultron"        
+    elif champ == "spidersymbiote":
+        champurl="spiderman_black"
+    elif champ == "mordo":
+        champurl="karlmordo"    
+    elif champ == "sorcerersupreme":
+        champurl="drstrange_realm"  
+    elif champ == "oml":
+        champurl="wolverine_oldman"          
+    elif champ == "hulkbuster":
+        champurl="hulkbuster_movie"
+    elif champ == "ironfistimmortal":
+        champurl="ironfist_white"        
+    elif champ == "cyclops_blue":
+        champurl="cyclops_90s"        
+    elif champ == "cmm":
+        champurl="captainmarvel_movie"
+    elif champ == "caiw":
+        champurl="captainamerica_movie"
+    elif champ == "casw":
+        champurl = "captainamerica_samwilson"    
+    elif champ == "caww2":
+        champurl="captainamerica_ww2"        
+    elif champ == "imiw":
+        champurl="ironman_movie"
+    elif champ == "jabaripanther":
+        champurl="blackpanther_realm"
+    elif champ =="kinggroot":
+        champurl="groot_king"
+    elif champ =="misterfantastic":
+        champurl="mrfantastic"
+    elif champurl =="bpcw":
+        champurl="blackpanther_cw"
+    elif champ=="punisher2099":
+        champurl="punisher_2099"
+    elif champ=="rocketracoon":
+        champurl="rocket"
+    elif champ=="spiderman2099":
+        champurl="spiderman_2099"
+    elif champ=="overseer":
+        champurl="maestro_overseer"
+    elif champ=="unstoppablecolossus" :
+        champurl="colossus_unstoppable"
+    elif champ=="visionaarkus":
+        champurl=="vision_timely"
+    elif champ=="visionmovie":
+        champurl="vision_movie"
+    elif champ=="vulture":
+        champurl="vulture_movie"
+    elif champ=="wolverinex":
+        champurl="wolverine_weaponx"
+    elif champ=="spidermorales":
+        champurl="spiderman_morales"
+    elif champ=="starkspiderman":
+        champurl="spiderman_movie"
+    elif champ=="spiderstealth ":
+        champurl="spiderman_stealth"
+    elif champ=="redmagneto":
+        champurl="magneto"
+    elif champ=="magnetowhite":
+        champurl="magneto_marvelnow" 
+    elif champ=="kamalakhan":
+        champurl="msmarvel_kamala"
+    elif champ=="platinumpool":
+        champurl="deadpool_platinumpool"
+    elif champ=="scarletwitchnew":
+        champurl="scarletwitch_current"
+    elif champ=="silvercenturion":
+        champurl="ironman_silvercenturion"
+    elif champ=="stormpyramidx":
+        champurl="storm_realm"
+    elif champ=="superskrull":
+        champurl="skrull_super"
+    elif champ=="superiorironman":
+        champurl="ironman_superior"
+    elif champ=="janefoster":
+        champurl="thor_janefoster"                                        
+    elif champ=="thorragnarok":
+        champurl="thor_ragnarok"
+    elif champ=="ibom":
+        champurl="abomination_immortal"
+    elif champ=="doctorvoodoo":
+        champurl="brothervoodoo"
+    elif champ=="daredevil netflix":
+        champurl="daredevil_netflix"
+    elif champ=="goldpool":
+        champurl="deadpool_goldpool"
+    elif champ=="cgr":
+        champurl="ghostrider_cosmic"
+    elif champ=="docock":
+        champurl="doc_ock"
+    elif champ=="greengoblin":
+        champurl="green_goblin"
+    elif champ=="howard":
+        champurl="howardmech"
+    return(champurl)    
 
 class ChampsDB:
     '''
@@ -115,3 +225,80 @@ class ChampsDB:
             self.url_page = prevx['url_page']
             self.champid = prevx['champid']
             self.link = prevx['img_potrait']   
+
+class NewChampsDB:
+    '''
+    Class for getting Champs Info with ranks
+    '''
+    def __init__(self):
+        self.champid = None         
+        self.error = None
+        self.url_page = None
+        self.img_potrait = None                  
+        self.name = None
+        self.tier = None
+        self.rank = None
+        self.prestige = None
+        self.hp = None
+        self.attack = None
+        self.crit_rate = None
+        self.crit_dmge = None
+        self.armor = None
+        self.block_prof = None
+        self.energy_resist = None
+        self.physical_resist = None
+        self.crit_resist = None
+        self.sig_info = None
+
+    def get_data(self, champid:str, tier:int, rank:int):
+        if tier>6:
+            self.error = 'Tier should not be above than 6'
+            raise KeyError
+        elif tier == 6 and rank >4:
+            self.error = 'Rank of a 6 star should not be above than 4.'
+            raise KeyError
+        elif tier == 5 and rank>5: 
+            self.error = 'Rank of a 5 star should not be above than 5.'  
+            raise KeyError
+        elif tier == 4 and rank>4:
+            self.error = 'Rank of a 4 star should not be above than 5.'   
+            raise KeyError
+        elif tier == 3 and rank>4:
+            self.error = 'Rank of a 3 star should not be above than 4.' 
+            raise KeyError
+        elif tier == 2 and rank>3: 
+            self.error = 'Rank of a 2 star should not be above than 3.' 
+            raise KeyError
+        elif tier == 1:
+            self.error = '1 star champs are not supported.'        
+            raise KeyError
+        else:    
+            try:
+                champid = champurl_getter(champid)
+                with open(f'../files/{champid}.json', 'r') as f: 
+                    data = json.load(f)  
+                try:     
+                    champ_dict = data['data'][f'{tier}+{rank}']  
+                    self.champid = data['data'][f'{tier}+{rank}']['champid']  
+                    self.url_page = champ_dict['url_page']
+                    self.img_potrait = champ_dict['img_potrait']
+                    self.name = champ_dict['name']
+                    self.tier = tier
+                    self.rank = champ_dict['rank']
+                    self.prestige = int(champ_dict['prestige'])
+                    self.hp = int(champ_dict['hp'])
+                    self.attack = int(champ_dict['attack'])
+                    self.crit_rate = int(champ_dict['crit_rate'])
+                    self.crit_dmge = int(champ_dict['crit_dmge'])
+                    self.armor = int(champ_dict['armor'])
+                    self.block_prof = int(champ_dict['block_prof'])
+                    self.energy_resist = int(champ_dict['energy_resist'])
+                    self.physical_resist = int(champ_dict['physical_resist'])
+                    self.crit_resist = int(champ_dict['crit_resist'])
+                    self.sig_info = champ_dict['sig_info']
+                except KeyError:
+                    self.error = f'{champid} doesnt support tier {tier} of rank {rank}'   
+                    raise KeyError
+            except FileNotFoundError:
+                self.error = f'Data with the champid: {champid} doesn\'t exist in the API Database!'
+                raise FileNotFoundError
