@@ -1,16 +1,22 @@
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-from selenium.common.exceptions import NoSuchElementException
+from fastapi.responses import JSONResponse
 from src.mcoc_find import champs_detailed
-from src.mcoc_db import ChampsDB
+from src.mcoc_db import NewChampsDB
 from src.mcoc_roster import Roster
 from pydantic import BaseModel
 from dotenv import load_dotenv
 import os
 
-app = FastAPI()
+async def not_found(request, exc):
+    return JSONResponse(content={'detail':'404: Route not found!'}, status_code=exc.status_code)
+
+exceptions = {
+    404: not_found,
+}
+app = FastAPI(exception_handlers=exceptions)
 find = champs_detailed()
-info = ChampsDB()
+info = NewChampsDB()
 roster = Roster()
 
 app.add_middleware(
@@ -52,6 +58,8 @@ def champurl_getter(champ):
         champurl="captainmarvel_movie"
     elif champ == "caiw":
         champurl="captainamerica_movie"
+    elif champ == "casw":
+        champurl = "captainamerica_samwilson"    
     elif champ == "caww2":
         champurl="captainamerica_ww2"        
     elif champ == "imiw":
@@ -142,7 +150,7 @@ def home():
     return(home_dict)
 
 @app.get("/champs/")
-def champsfunc(champ:str, tier:int ):
+def champsfunc(champ:str, tier:int, rank:int ):
 
     '''
     Gives Champ Info
@@ -151,65 +159,34 @@ def champsfunc(champ:str, tier:int ):
     champurl = champurl_getter(champ)
 
     try:
-        info.champs_info(champurl,tier)
+        info.get_data(champ, tier, rank)
         champs_dict = {
             "name": f"{info.name}",
-            "prestige" : f"{info.prestige}" ,
-            "hp" : f"{info.hp}" ,
-            "attack" : f"{info.attack}" ,
-            "crit_rate" : f"{info.crit_rate}" ,
-            "crit_dmge" : f"{info.crit_dmge}" ,
-            "armor" : f"{info.armor}" ,
-            "block_prof" : f"{info.block_prof}" ,
-            "energy_resist" : f"{info.energy_resist}" ,
-            "physical_resist" : f"{info.physical_resist}" ,
-            "crit_resist" : f"{info.crit_resist}" ,
+            "prestige" : info.prestige ,
+            "hp" : info.hp ,
+            "attack" : info.attack ,
+            "crit_rate" : info.crit_rate ,
+            "crit_dmge" : info.crit_dmge ,
+            "armor" : info.armor ,
+            "block_prof" : info.block_prof ,
+            "energy_resist" : info.energy_resist ,
+            "physical_resist" : info.physical_resist ,
+            "crit_resist" : info.crit_resist ,
             "sig_info" : f"{info.sig_info}" ,
             "url_page" : f"{info.url_page}",
-            "img_potrait" : f"{info.link}",
+            "img_potrait" : f"{info.img_potrait}",
             "champid" : f"{info.champid}",
             "status" : 200,
             "detail" : "Successful",
             }
-
         return(champs_dict)
-    except NoSuchElementException:
-        raise HTTPException(status_code=404,detail='Error on Finding Champ/Element on AUNTM.ai and/or Database')
- 
-@app.get("/find/")
-def findfunc(champ:str):
-
-    '''
-    Tells where a champ can be found
-    '''
-
-    champurl = champurl_getter(champ)   
-
-    try:
-
-        find.champs_find(f"{champurl}")
-        champs_dict = {
-            "name": f"{find.name}",
-            "url_page" : f"{find.url_page}",
-            "img_potrait" : f"{find.img_potrait}",
-            "quests":{
-                "story_quests": f'{find.story_quest}',
-                "event_quests": f'{find.event_quest}',
-                "alliance_quests": f'{find.alliance_quest}',
-                "incursions": f'{find.incursions}',
-                "daily_quests": f'{find.daily_quests}',
-                "special_quests": f'{find.special_quests}',
-                "back_quests": f'{find.back_quests}'
-                },
-
-            "champid" : f"{champ}",
-            "status" : 200,
-            "detail" : "Successful",
-            }
-
-        return(champs_dict)
-    except NoSuchElementException:
-        raise HTTPException(status_code=404,detail='Error on Finding Champ/Element on AUNTM.ai')
+    except Exception as e:
+        if isinstance(e, FileNotFoundError):
+            raise HTTPException(status_code=404,detail='404: '+info.error)
+        elif isinstance(e, KeyError):
+            raise HTTPException(status_code=400, detail='400: '+info.error)
+        else:
+            raise e    
 
 @app.get("/roster/get")
 def roster_getfunc(gamename:str):
@@ -225,37 +202,5 @@ def roster_getfunc(gamename:str):
     else:
         raise HTTPException(status_code=404, detail=roster.error)    
 
-@app.get("/roster/addchamp")
-def roster_updatefunc(gamename:str, champname:str, tier:int, signature:int):
-    '''
-    Add/Update Roster in Database
-    '''
-    champnameurl = champurl_getter(champname)
 
-    roster.add_champ(gamename, champnameurl, tier, signature)
-    if roster.error == '':
-        detail = {
-            'status':200,
-            'detail':roster.details,
-            }
-        return(detail)    
-    else:
-        raise HTTPException(status_code=404, detail=roster.error)   
-
-#Heavily Bugged Feature! Still developing...
-class BulkUpdate(BaseModel):
-    gamename: str
-    roster_dict: list
-
-@app.post('/roster/bulkadd')
-def roster_bulkfunc(roster_bulk:BulkUpdate):
-    roster.bulk_add(roster_bulk.gamename, roster_bulk.roster_dict)
-    if roster.error == '':
-        detail = {
-            'status':200,
-            'detail':'Successful',
-            }
-        return(detail)
-    else:
-        raise HTTPException(status_code=404, detail=roster.error)   
 
