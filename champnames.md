@@ -27,6 +27,7 @@
 |CABLE | cable |
 |CAPTAIN AMERICA | captainamerica |
 |CAPTAIN AMERICA CIVIL WAR | caiw |
+|CAPTAIN AMERICA(SAM WILSON) | casw |
 |CAPTAIN AMERICA WW2 | caww2 |
 |CAPTAIN MARVEL MOVIE | cmm |
 |CAPTAIN MARVEL OG | captainmarvel |
@@ -119,6 +120,7 @@
 |MISTER FANTASTIC | misterfantastic |
 |MISETER NEGATIVE | misternegative |
 |MISTER SINISTER | mistersinister | 
+|MISTY KNIGHT | mistyknight |
 |MOJO | mojo |
 |MOLE-MAN | moleman |
 |MOONKNIGHT | moonknight |
