@@ -1,6 +1,5 @@
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import JSONResponse
 from src.mcoc_find import champs_detailed
 from src.mcoc_db import NewChampsDB
 from src.mcoc_roster import Roster
@@ -8,13 +7,7 @@ from pydantic import BaseModel
 from dotenv import load_dotenv
 import os
 
-async def not_found(request, exc):
-    return JSONResponse(content={'detail':'404: Route not found!'}, status_code=exc.status_code)
-
-exceptions = {
-    404: not_found,
-}
-app = FastAPI(exception_handlers=exceptions)
+app = FastAPI()
 find = champs_detailed()
 info = NewChampsDB()
 roster = Roster()
