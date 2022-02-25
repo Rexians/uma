@@ -19,8 +19,8 @@ The base URI for the API is now- `https://api.rexians.tk/` and all the requests 
 
 ## Working
 
-The working of this API is kind-of different from others. Rather than always accessing from a Database, it has to choose whether to do the same or scrape from a website.
-So, as UMA is in beta phase, It's database isn't still complete. Whenever a user requests data from the endpoints, the API checks if the information is available in the database, if it isn't, It actually live scrapes the data from the [auntm.ai website](https://auntm.ai/) and then sends you the information while putting it in the database too. Even though, This makes the API Slow, this is the best method I have come up with. 
+The working of this API has been changed from the previous version. Rather than accessing from a Database, it now accesses the files folder.
+This has now made the API to run 5x faster which is good! 
 
 A flow chart is shown below to explain it better-
 
