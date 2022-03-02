@@ -17,6 +17,10 @@ class Roster():
         db = cluster["MCOC"]["Account"]  
         x = db.find_one({"game_name":gamename}, {'_id': 0})   
         if x is not None:
+            try:
+                x.pop('alliance')
+            except:
+                pass    
             self.roster_dict = x     
             self.error = ''
         else:
