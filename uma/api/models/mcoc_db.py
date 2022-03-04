@@ -1,8 +1,5 @@
 import json
-import os
-from dotenv import load_dotenv
 from ..helpers.champurl import champurl_getter
-load_dotenv()
 
 class NewChampsDB:
     '''
