@@ -1,6 +1,8 @@
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI
+from fastapi.exceptions import RequestValidationError
 from fastapi.middleware.cors import CORSMiddleware
-from api.endpoints.api import router as api_router
+from fastapi.responses import JSONResponse
+from api.routes.api import router as api_router
 # from pydantic import BaseModel
 from dotenv import load_dotenv
 import os
@@ -15,6 +17,18 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+@app.exception_handler(RequestValidationError)
+async def validation_exception_handler(request, exc:RequestValidationError):
+    errors = exc.errors()
+    error_content = 'The following arguments are missing: '
+    for error in errors:
+        if error['type'] == 'value_error.missing':
+            field = f"{error['loc'][1]},"
+            error_content += field
+    error_content = error_content.removesuffix(',')      
+            
+    return JSONResponse({'detail':error_content}, status_code=422)
 
 @app.get("/")
 def home():
