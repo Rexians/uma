@@ -6,7 +6,7 @@ import os
 
 router = APIRouter()
 
-@router.get("/roster/")
+@router.get("/roster/get/")
 def roster_getfunc(gamename:str):
     '''
     Get Roster Details
