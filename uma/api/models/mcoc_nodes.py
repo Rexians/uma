@@ -16,6 +16,7 @@ class Nodes:
         try:
             with open('./files/nodes/nodes.json', 'r') as f:
                 all_nodes = json.load(f)
+            all_nodes['data'].pop('0')    
             return all_nodes
         except FileNotFoundError:
             self.error = f'File not found. Please report the bug'
