@@ -6,7 +6,7 @@ router = APIRouter()
 @router.get("/nodes")
 def read_all_nodes():
     """
-    Reads all the nodes
+    Get all the nodes and their node ids.
     """
 
     nodes_info = Nodes()
@@ -25,7 +25,9 @@ def read_all_nodes():
 
 @router.get("/nodes/{node_id}")
 def read_node(node_id):
-
+    '''
+    Get node details by node id.
+    '''
     node = Nodes()
     try:
         node.read_node(node_id)
