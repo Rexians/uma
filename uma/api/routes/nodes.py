@@ -25,7 +25,11 @@ def read_all_nodes():
 
 @router.get("/nodes/{node_id}")
 def read_node(node_id):
-
+    """
+    Read specific node
+    Parameters: node_id
+    """
+    
     node = Nodes()
     try:
         node.read_node(node_id)

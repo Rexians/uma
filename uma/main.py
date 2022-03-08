@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from fastapi.exceptions import RequestValidationError
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
-from api.routes import champ_info, roster, nodes
+from api.routes import champ_info, roster, nodes, war
 # from pydantic import BaseModel
 from dotenv import load_dotenv
 import os
@@ -11,6 +11,7 @@ app = FastAPI()
 app.include_router(champ_info.router)
 app.include_router(roster.router)
 app.include_router(nodes.router)
+app.include_router(war.router)
 
 app.add_middleware(
     CORSMiddleware,
