@@ -19,6 +19,9 @@ class War:
 
 
     def match_nodes(self, diff):
+        """
+        Convert all the ids of the nodes into their corresponding names
+        """
         try:
             with open('./files/nodes/nodes.json', 'r') as file:
                 nodes = json.load(file)
@@ -39,6 +42,9 @@ class War:
 
     def read_tier(self, tier):
 
+        """
+        Read information about war with specific tier
+        """
         found = False
         diff = None
         try:

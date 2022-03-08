@@ -6,6 +6,10 @@ router = APIRouter()
 @router.get('/war/{tier}')
 def get_war_info(tier):
 
+    """
+    Get information of war based on tier
+    """
+
     war = War()
     war.read_tier(tier)
     if war.error == None:
