@@ -7,7 +7,7 @@ router = APIRouter()
 def champsfunc(champ:str, tier:int, rank:int ):
 
     '''
-    Gives Champ Information
+    Gives Champ Information by their champname, tier, and rank.
     '''
 
     champ_info = NewChampsDB()

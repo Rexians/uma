@@ -9,7 +9,7 @@ router = APIRouter()
 @router.get("/roster/get/")
 def roster_getfunc(gamename:str):
     '''
-    Get Roster Details
+    Get Roster Details of a user by Gamename
     '''
     print(gamename)
     roster = Roster()
