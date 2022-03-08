@@ -54,7 +54,7 @@ class War:
                     found = True
                     break
         except ValueError as e:
-            self.error = f'Incorrect type for paramter (tier). Should be integer'
+            self.error = f'Incorrect type for parameter (tier). Should be integer'
             return
         if not found:
             self.error = f'Tier {tier} not found in the file'
