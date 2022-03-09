@@ -44,8 +44,8 @@ class NewChampsDB:
         elif tier == 2 and rank>3: 
             self.error = 'Rank of a 2 star should not be above than 3.' 
             raise KeyError
-        elif tier == 1:
-            self.error = '1 star champs are not supported.'        
+        elif tier == 1 and rank>2:
+            self.error = 'Rank of a 1 star should not be above than 3.'        
             raise KeyError
         else:    
             try:
