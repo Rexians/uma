@@ -9,8 +9,9 @@ class NewChampsDB:
         self.champid = None         
         self.error = None
         self.url_page = None
-        self.img_potrait = None                  
+        self.img_portrait = None                  
         self.name = None
+        self.class_type = None
         self.tier = None
         self.rank = None
         self.prestige = None
@@ -27,25 +28,28 @@ class NewChampsDB:
 
     def get_data(self, champid:str, tier:int, rank:int):
         if tier>6:
-            self.error = 'Tier should not be above than 6'
+            self.error = 'Tier should not be above 6'
             raise KeyError
         elif tier == 6 and rank >4:
-            self.error = 'Rank of a 6 star should not be above than 4.'
+            self.error = 'Rank of a 6 star should not be above 4.'
             raise KeyError
         elif tier == 5 and rank>5: 
-            self.error = 'Rank of a 5 star should not be above than 5.'  
+            self.error = 'Rank of a 5 star should not be above 5.'  
             raise KeyError
-        elif tier == 4 and rank>4:
-            self.error = 'Rank of a 4 star should not be above than 5.'   
+        elif tier == 4 and rank>5:
+            self.error = 'Rank of a 4 star should not be above 5.'   
             raise KeyError
         elif tier == 3 and rank>4:
-            self.error = 'Rank of a 3 star should not be above than 4.' 
+            self.error = 'Rank of a 3 star should not be above 4.' 
             raise KeyError
         elif tier == 2 and rank>3: 
-            self.error = 'Rank of a 2 star should not be above than 3.' 
+            self.error = 'Rank of a 2 star should not be above 3.' 
             raise KeyError
         elif tier == 1 and rank>2:
-            self.error = 'Rank of a 1 star should not be above than 3.'        
+            self.error = 'Rank of a 1 star should not be above 3.'        
+            raise KeyError
+        if tier<0:
+            self.error = 'Tier should not be below 0'
             raise KeyError
         else:    
             try:
@@ -56,9 +60,10 @@ class NewChampsDB:
                     champ_dict = data['data'][f'{tier}+{rank}']  
                     self.champid = data['data'][f'{tier}+{rank}']['champid']  
                     self.url_page = champ_dict['url_page']
-                    self.img_potrait = champ_dict['img_potrait']
-                    self.name = champ_dict['name']
+                    self.img_portrait = data['img_portrait']
+                    self.name = data['name']
                     self.tier = tier
+                    self.class_type = data['class']
                     self.rank = champ_dict['rank']
                     self.prestige = int(champ_dict['prestige'])
                     self.hp = int(champ_dict['hp'])

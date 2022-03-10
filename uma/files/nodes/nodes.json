@@ -170,7 +170,7 @@
         },
         "42": {
             "node_name": "Bane",
-            "node_info": "Whichever Champion lands the first hit will place a Curse on the opposing Champion which deals X% of their current Health as Direct Damage per second. Whenever a Champion with the Curse strikes the other Champion or if the Curse has been on the same Champion for X seconds, it passes to the other Champion."
+            "node_info": "Whichever Champion lands the first hit will place a Curse on the opposing Champion which deals 0.5% of their current Health as Direct Damage per second. Whenever a Champion with the Curse strikes the other Champion or if the Curse has been on the same Champion for 10 seconds, it passes to the other Champion."
         },
         "43": {
             "node_name": "Bane of Damballah",
@@ -1558,7 +1558,7 @@
         },
         "389": {
             "node_name": "Power Efficiency",
-            "node_info": "The Defender's Special Attacks cost X% less Power."
+            "node_info": "The Defender's Special Attacks cost 50% less Power."
         },
         "390": {
             "node_name": "Power Focus",
@@ -1570,7 +1570,7 @@
         },
         "392": {
             "node_name": "Power Focus 2",
-            "node_info": "The Defender gains X% Power Rate while below X Bar of Power but suffers X% Power Rate while above."
+            "node_info": "The Defender gains 60% Power Rate while below 2 Bar of Power but suffers 80% Power Rate while above."
         },
         "393": {
             "node_name": "Power Gain",
@@ -2663,6 +2663,30 @@
         "665": {
             "node_name": "Improved Power Gain 200%",
             "node_info": "Increases all Power this Defender receives from Power Gain Effects by 200%."
+        },
+        "666": {
+            "node_name": "Prowess Puncture - 1",
+            "node_info": "Each time the Defender gains Prowess they also gain a non-stacking Passive Impact charge, granting 20% Block Penetration for 5 seconds."
+        },
+        "667": {
+            "node_name": "Ionized Armor - 2",
+            "node_info": "When the Defender finishes a Special Attack, they gain an indefinite Armor Up Buff granting +10% Armor."
+        },
+        "668": {
+            "node_name": "Static Defence",
+            "node_info": "If the Attacker strikes the opponent with an active Armor Up Buff, there is 15% chance for the player to be afflicted with a shock debuff, dealing 5% of Modified Attack in Direct Damage over 10 seconds."
+        },
+        "669": {
+            "node_name": "Static Defence - 2",
+            "node_info": "If the Attacker strikes the opponent with an active Armor Up Buff, there is 15% chance for the player to be afflicted with a shock debuff, dealing 20% of Modified Attack in Direct Damage over 10 seconds."
+        },
+        "670": {
+            "node_name": "Passively Special - 1",
+            "node_info": "After the Defender throws a Special Attack, they gain +1 Passive Prowess for each hit that was blocked. If the Attacker performs a Well-Timed block they gain this Prowess for themself instead. Each Prowess increases Special Attack Damage by 10% and lasts until the end of the next Special Attack that makes contact."
+        },
+        "671": {
+            "node_name": "Nerves of Steel - 1",
+            "node_info": "Every 10 second(s) the Defender gains an indefinite Armor Up Passive, increasing Armor Rating by 15%. Max stacks 10. Striking the Defender's Block removes an Armor Up."
         }
     }
 }

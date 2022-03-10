@@ -15,6 +15,9 @@ def champsfunc(champ:str, tier:int, rank:int ):
         champ_info.get_data(champ, tier, rank)
         champs_dict = {
             "name": f"{champ_info.name}",
+            "class": champ_info.class_type,
+            "tier": champ_info.tier,
+            "rank": champ_info.rank,
             "prestige" : champ_info.prestige ,
             "hp" : champ_info.hp ,
             "attack" : champ_info.attack ,
@@ -27,7 +30,7 @@ def champsfunc(champ:str, tier:int, rank:int ):
             "crit_resist" : champ_info.crit_resist ,
             "sig_info" : f"{champ_info.sig_info}" ,
             "url_page" : f"{champ_info.url_page}",
-            "img_potrait" : f"{champ_info.img_potrait}",
+            "img_portrait" : f"{champ_info.img_portrait}",
             "champid" : f"{champ_info.champid}",
             "status" : 200,
             "detail" : "Successful",

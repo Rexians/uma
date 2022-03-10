@@ -64,7 +64,7 @@ class War:
                     tier_data = json.load(file)
                 tier_data = tier_data['data'][str(tier)]
                 nodes = self.match_nodes(diff)
-                self.tier = tier
+                self.tier = int(tier)
                 self.nodes = nodes
                 self.difficulty = diff
                 self.tier_multiplier = tier_data['tier_multiplier']
