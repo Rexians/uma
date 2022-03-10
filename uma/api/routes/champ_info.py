@@ -28,7 +28,7 @@ def champsfunc(champ:str, tier:int, rank:int ):
             "energy_resist" : champ_info.energy_resist ,
             "physical_resist" : champ_info.physical_resist ,
             "crit_resist" : champ_info.crit_resist ,
-            "sig_info" : f"{champ_info.sig_info}" ,
+            "sig_info" : champ_info.sig_info ,
             "url_page" : f"{champ_info.url_page}",
             "img_portrait" : f"{champ_info.img_portrait}",
             "champid" : f"{champ_info.champid}",
