@@ -30,7 +30,7 @@ def champsfunc(champ:str, tier:int, rank:int ):
             "crit_resist" : champ_info.crit_resist ,
             "sig_info" : champ_info.sig_info ,
             "url_page" : f"{champ_info.url_page}",
-            "img_portrait" : f"{champ_info.img_portrait}",
+            "img_potrait" : f"{champ_info.img_portrait}",
             "champid" : f"{champ_info.champid}",
             "status" : 200,
             "detail" : "Successful",
