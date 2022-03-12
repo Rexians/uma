@@ -39,5 +39,5 @@ class Nodes:
             self.error = f'File not found. Please report the bug'
             raise FileNotFoundError
         except KeyError:
-            self.error = f'Node id {node_id} not found in the file'
+            self.error = f'Node id {node_id} not found in the API Database'
             raise KeyError
