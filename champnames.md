@@ -29,6 +29,7 @@
 |CAPTAIN AMERICA CIVIL WAR | caiw |
 |CAPTAIN AMERICA(SAM WILSON) | casw |
 |CAPTAIN AMERICA WW2 | caww2 |
+|CAPTAIN BRITAIN | captainbritain |
 |CAPTAIN MARVEL MOVIE | cmm |
 |CAPTAIN MARVEL OG | captainmarvel |
 |CARNAGE | carnage |
@@ -139,6 +140,7 @@
 |ODIN | odin |
 |OLD MAN LOGAN | oml |
 |OMEGA RED | omegared |
+|OMEGA SENTINEL | omegasentinel |
 |PENI PARKER | peniparker |
 |PHOENIX | phoenix |
 |PLATINUMPOOL | platinumpool |
