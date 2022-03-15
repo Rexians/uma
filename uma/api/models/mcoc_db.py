@@ -25,6 +25,7 @@ class NewChampsDB:
         self.physical_resist = None
         self.crit_resist = None
         self.sig_info = None
+        self.challenger_rating = None
 
     def get_data(self, champid:str, tier:int, rank:int):
         if tier>6:
@@ -76,6 +77,7 @@ class NewChampsDB:
                     self.physical_resist = int(champ_dict['physical_resist'])
                     self.crit_resist = int(champ_dict['crit_resist'])
                     self.sig_info = champ_dict['sig_info']
+                    self.challenger_rating = champ_dict['challenger_rating']
                 except KeyError:
                     self.error = f'{champid} doesnt support tier {tier} of rank {rank}'   
                     raise KeyError

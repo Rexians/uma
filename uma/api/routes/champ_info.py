@@ -32,6 +32,7 @@ def champsfunc(champ:str, tier:int, rank:int ):
             "url_page" : f"{champ_info.url_page}",
             "img_portrait" : f"{champ_info.img_portrait}",
             "champid" : f"{champ_info.champid}",
+            "challenger_rating" : f"{champ_info.challenger_rating}",
             "status" : 200,
             "detail" : "Successful",
             }
