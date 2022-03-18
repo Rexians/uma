@@ -35,7 +35,7 @@ def champurl_getter(champ):
         "wolverinex": "wolverine_weaponx",
         "spidermorales": "spiderman_morales",
         "starkspiderman": "spiderman_movie",
-        "spiderstealth ": "spiderman_stealth",
+        "spiderstealth": "spiderman_stealth",
         "redmagneto": "magneto",
         "magnetowhite": "magneto_marvelnow", 
         "kamalakhan": "msmarvel_kamala",
