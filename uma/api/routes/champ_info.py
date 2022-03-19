@@ -29,14 +29,26 @@ def champsfunc(champ:str, tier:int, rank:int ):
             "physical_resist" : champ_info.physical_resist ,
             "crit_resist" : champ_info.crit_resist ,
             "sig_info" : champ_info.sig_info ,
+            "challenger_rating" : champ_info.challenger_rating,
+            "tags": champ_info.tags,
+            "contact": champ_info.contact,
             "url_page" : f"{champ_info.url_page}",
             "img_portrait" : f"{champ_info.img_portrait}",
             "champid" : f"{champ_info.champid}",
-            "challenger_rating" : champ_info.challenger_rating,
-            "status" : 200,
-            "detail" : "Successful",
             }
+        # Change key based on if already released or estimated to be released
+        if champ_info.released != None:
+            champs_dict.update({'released':champ_info.released})
+        elif champ_info.est_release != None:
+            champs_dict.update({'est. release':champ_info.est_release})
+
+        champs_dict.update({
+                "status" : 200,
+                "detail" : "Successful"
+                })   
+
         return(champs_dict)
+
     except Exception as e:
         if isinstance(e, FileNotFoundError):
             raise HTTPException(status_code=404,detail='404: '+champ_info.error)

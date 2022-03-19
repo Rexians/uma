@@ -26,6 +26,10 @@ class NewChampsDB:
         self.crit_resist = None
         self.sig_info = None
         self.challenger_rating = None
+        self.contact = None
+        self.tags = None
+        self.released = None
+        self.est_release = None
 
     def get_data(self, champid:str, tier:int, rank:int):
         if tier>6:
@@ -57,8 +61,11 @@ class NewChampsDB:
                 champid = champurl_getter(champid)
                 with open(f'./files/champ_stats/{champid}.json', 'r') as f: 
                     data = json.load(f)  
-                try:     
+                try:
                     champ_dict = data['data'][f'{tier}+{rank}']  
+
+                    self.released = data.get('released', None)
+                    self.est_release = data.get('est. release', None)
                     self.champid = data['data'][f'{tier}+{rank}']['champid']  
                     self.url_page = champ_dict['url_page']
                     self.img_portrait = data['img_portrait']
@@ -78,6 +85,8 @@ class NewChampsDB:
                     self.crit_resist = int(champ_dict['crit_resist'])
                     self.sig_info = champ_dict['sig_info']
                     self.challenger_rating = champ_dict['challenger_rating']
+                    self.contact = data['contact']
+                    self.tags = data['tags']
                 except KeyError:
                     self.error = f'{champid} doesnt support tier {tier} of rank {rank}'   
                     raise KeyError
