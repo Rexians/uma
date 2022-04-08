@@ -64,8 +64,7 @@ class NewChampsDB:
                 try:
                     champ_dict = data['data'][f'{tier}+{rank}']  
 
-                    self.released = data.get('released', None)
-                    self.est_release = data.get('est. release', None)
+                    self.released = data.get('released', None)                    
                     self.champid = data['data'][f'{tier}+{rank}']['champid']  
                     self.url_page = champ_dict['url_page']
                     self.img_portrait = data['img_portrait']
