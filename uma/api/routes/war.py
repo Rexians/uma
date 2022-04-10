@@ -18,7 +18,9 @@ def get_war_info(tier):
                     "nodes": war.nodes,
                     "difficulty": war.difficulty,
                     "tier_multiplier": war.tier_multiplier,
-                    "tier_rank": war.tier_rank
+                    "tier_rank": war.tier_rank,
+                    "status": 200,
+                    "detail": "Successful"
                 }
         return war_dict
     else:
