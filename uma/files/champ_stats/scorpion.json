@@ -15,7 +15,42 @@
       "crit_resist": 0,
       "sig_info": [],
       "url_page": "https://auntm.ai/champions/scorpion/tier/1",
-      "champid": "scorpion+1+1"
+      "champid": "scorpion+1+1",
+      "Abilities": {
+        "PRE-FIGHT: STING DEBUFF - MAX 30 STACKS": [
+          "Sting Debuffs are Damage over Time Debuffs that Scorpion inflicts on Medium Attacks. His default Sting Debuff is a Poison Debuff, but he can choose between Shock and Rupture Debuffs in the Pre-Fight Screen.",
+          "Poison: inflict 2.28 Direct Damage Damage over 13 seconds and reducing health recovery by 30%.",
+          "Shock: inflict 5.32 Energy Damage over 13 seconds.",
+          "Rupture: inflict 5.32 Physical Damage over 13 seconds.",
+          "On fight entry Scorpion gains Immunity to the Damage over Time effects he did not select with this Pre-Fight, Shock and Rupture Immune by default.",
+          "If the Opponent triggers a Special Attack while suffering from his personal Sting Debuffs inflict a burst of 30.4 Sting Debuff Damage per stack of Sting Debuff."
+        ],
+        "SCORPION-SENSE": [
+          "When the Opponent Evades or at the end of their Special Attacks, Scorpion gains a non-stacking Scorpion-Sense Passive, granting 20% chance to Evade for 15 second(s). When Scorpion-Sense expires it goes on a cooldown for 10 seconds.",
+          "When an Evade would trigger, Scorpion inflicts a Sting Debuff. On a successful Evade, Scorpion counterattacks, consumes Scorpion-Sense and inflicts a burst of Sting Debuff Damage, but this damage scales with Base Attack only. Evade does not trigger while blocking.",
+          "As a defender Scorpion gains Scorpion-Sense every 15 second(s) unless the Attacker gains another 20 Combos by the end of this duration. Reaching the targeted Combo Count removes any existing Scorpion-Sense and triggers its cooldown."
+        ],
+        "TORMENT DEBUFF - WHILE HEAVY CHARGING": [
+          "Charging a Heavy Attack grants a Torment Charge, however holding the Heavy Attack grants a Torment Charge every 0.40 second(s)",
+          "Landing a Heavy Attack converts all Charges into Torment Debuffs. Landing Special Attack 1 or 2 while charging converts one extra Debuff per Charge.",
+          "Torment Debuffs lasts for 10 second(s) but pauses during Specials, and causes all damaging Debuffs to last 1 second(s) longer."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit inflicts a Sting Debuff. This effect has a 50% chance to go through block.",
+          "Final Hit: Inflict a Taunt Debuff for 12 seconds, reducing Attack Rating by 15%.",
+          "If the Opponent fails to launch a Special Attack before the Taunt Debuff expires, Scorpion inflicts a non-stacking Suppression Debuff, reducing Combat Power Rate by 25% for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "All Sting Debuffs are Paused for the duration of the Special, and refreshed by the end of it.",
+          "Final Hit inflicts 2 Bursts of Sting Debuff Damage per Sting Debuff on the Opponent, and also inflicts a Petrify Debuff of 40% Potency that lasts for 20 seconds. The Petrify can be inflicted through Block.",
+          "The Potency of the Sting Debuff Bursts are increased by 10% for each stack of Torment Debuff converted during this Special."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict the Opponent with a Stun Debuff, stunning the Opponent for 3 seconds, and inflict 10 Torment Debuffs that last for 15 seconds.",
+          "While these Torments are active, charging Heavy grants a Fury Charge instead of Torment Charges.",
+          "Attacking from Heavy Charge grants a Fury Buff per charge, max 20 stacks, increasing Attack Rating by 15.2 for 20 second(s). While charging, Torment and Fury stacks are paused."
+        ]
+      }
     },
     "1+2": {
       "challenger_rating": 20,
@@ -32,7 +67,42 @@
       "crit_resist": 0,
       "sig_info": [],
       "url_page": "https://auntm.ai/champions/scorpion/tier/1",
-      "champid": "scorpion+1+2"
+      "champid": "scorpion+1+2",
+      "Abilities": {
+        "PRE-FIGHT: STING DEBUFF - MAX 30 STACKS": [
+          "Sting Debuffs are Damage over Time Debuffs that Scorpion inflicts on Medium Attacks. His default Sting Debuff is a Poison Debuff, but he can choose between Shock and Rupture Debuffs in the Pre-Fight Screen.",
+          "Poison: inflict 3.12 Direct Damage Damage over 13 seconds and reducing health recovery by 30%.",
+          "Shock: inflict 7.28 Energy Damage over 13 seconds.",
+          "Rupture: inflict 7.28 Physical Damage over 13 seconds.",
+          "On fight entry Scorpion gains Immunity to the Damage over Time effects he did not select with this Pre-Fight, Shock and Rupture Immune by default.",
+          "If the Opponent triggers a Special Attack while suffering from his personal Sting Debuffs inflict a burst of 41.6 Sting Debuff Damage per stack of Sting Debuff."
+        ],
+        "SCORPION-SENSE": [
+          "When the Opponent Evades or at the end of their Special Attacks, Scorpion gains a non-stacking Scorpion-Sense Passive, granting 20% chance to Evade for 15 second(s). When Scorpion-Sense expires it goes on a cooldown for 10 seconds.",
+          "When an Evade would trigger, Scorpion inflicts a Sting Debuff. On a successful Evade, Scorpion counterattacks, consumes Scorpion-Sense and inflicts a burst of Sting Debuff Damage, but this damage scales with Base Attack only. Evade does not trigger while blocking.",
+          "As a defender Scorpion gains Scorpion-Sense every 15 second(s) unless the Attacker gains another 20 Combos by the end of this duration. Reaching the targeted Combo Count removes any existing Scorpion-Sense and triggers its cooldown."
+        ],
+        "TORMENT DEBUFF - WHILE HEAVY CHARGING": [
+          "Charging a Heavy Attack grants a Torment Charge, however holding the Heavy Attack grants a Torment Charge every 0.40 second(s)",
+          "Landing a Heavy Attack converts all Charges into Torment Debuffs. Landing Special Attack 1 or 2 while charging converts one extra Debuff per Charge.",
+          "Torment Debuffs lasts for 10 second(s) but pauses during Specials, and causes all damaging Debuffs to last 1 second(s) longer."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit inflicts a Sting Debuff. This effect has a 50% chance to go through block.",
+          "Final Hit: Inflict a Taunt Debuff for 12 seconds, reducing Attack Rating by 15%.",
+          "If the Opponent fails to launch a Special Attack before the Taunt Debuff expires, Scorpion inflicts a non-stacking Suppression Debuff, reducing Combat Power Rate by 25% for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "All Sting Debuffs are Paused for the duration of the Special, and refreshed by the end of it.",
+          "Final Hit inflicts 2 Bursts of Sting Debuff Damage per Sting Debuff on the Opponent, and also inflicts a Petrify Debuff of 40% Potency that lasts for 20 seconds. The Petrify can be inflicted through Block.",
+          "The Potency of the Sting Debuff Bursts are increased by 10% for each stack of Torment Debuff converted during this Special."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict the Opponent with a Stun Debuff, stunning the Opponent for 3 seconds, and inflict 10 Torment Debuffs that last for 15 seconds.",
+          "While these Torments are active, charging Heavy grants a Fury Charge instead of Torment Charges.",
+          "Attacking from Heavy Charge grants a Fury Buff per charge, max 20 stacks, increasing Attack Rating by 20.8 for 20 second(s). While charging, Torment and Fury stacks are paused."
+        ]
+      }
     },
     "2+1": {
       "challenger_rating": 20,
@@ -52,7 +122,42 @@
         "If the Opponent is inflicted with Petrify and they attempt to Heal, Scorpion gains 10 to 80% of the Health denied from them. Each tick of this healing cannot exceed 1.89 health, this value scales with Base Health."
       ],
       "url_page": "https://auntm.ai/champions/scorpion/tier/2",
-      "champid": "scorpion+2+1"
+      "champid": "scorpion+2+1",
+      "Abilities": {
+        "PRE-FIGHT: STING DEBUFF - MAX 30 STACKS": [
+          "Sting Debuffs are Damage over Time Debuffs that Scorpion inflicts on Medium Attacks. His default Sting Debuff is a Poison Debuff, but he can choose between Shock and Rupture Debuffs in the Pre-Fight Screen.",
+          "Poison: inflict 2.88 Direct Damage Damage over 13 seconds and reducing health recovery by 30%.",
+          "Shock: inflict 6.72 Energy Damage over 13 seconds.",
+          "Rupture: inflict 6.72 Physical Damage over 13 seconds.",
+          "On fight entry Scorpion gains Immunity to the Damage over Time effects he did not select with this Pre-Fight, Shock and Rupture Immune by default.",
+          "If the Opponent triggers a Special Attack while suffering from his personal Sting Debuffs inflict a burst of 38.4 Sting Debuff Damage per stack of Sting Debuff."
+        ],
+        "SCORPION-SENSE": [
+          "When the Opponent Evades or at the end of their Special Attacks, Scorpion gains a non-stacking Scorpion-Sense Passive, granting 20% chance to Evade for 15 second(s). When Scorpion-Sense expires it goes on a cooldown for 10 seconds.",
+          "When an Evade would trigger, Scorpion inflicts a Sting Debuff. On a successful Evade, Scorpion counterattacks, consumes Scorpion-Sense and inflicts a burst of Sting Debuff Damage, but this damage scales with Base Attack only. Evade does not trigger while blocking.",
+          "As a defender Scorpion gains Scorpion-Sense every 15 second(s) unless the Attacker gains another 20 Combos by the end of this duration. Reaching the targeted Combo Count removes any existing Scorpion-Sense and triggers its cooldown."
+        ],
+        "TORMENT DEBUFF - WHILE HEAVY CHARGING": [
+          "Charging a Heavy Attack grants a Torment Charge, however holding the Heavy Attack grants a Torment Charge every 0.40 second(s)",
+          "Landing a Heavy Attack converts all Charges into Torment Debuffs. Landing Special Attack 1 or 2 while charging converts one extra Debuff per Charge.",
+          "Torment Debuffs lasts for 10 second(s) but pauses during Specials, and causes all damaging Debuffs to last 1 second(s) longer."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit inflicts a Sting Debuff. This effect has a 50% chance to go through block.",
+          "Final Hit: Inflict a Taunt Debuff for 12 seconds, reducing Attack Rating by 15%.",
+          "If the Opponent fails to launch a Special Attack before the Taunt Debuff expires, Scorpion inflicts a non-stacking Suppression Debuff, reducing Combat Power Rate by 25% for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "All Sting Debuffs are Paused for the duration of the Special, and refreshed by the end of it.",
+          "Final Hit inflicts 2 Bursts of Sting Debuff Damage per Sting Debuff on the Opponent, and also inflicts a Petrify Debuff of 40% Potency that lasts for 20 seconds. The Petrify can be inflicted through Block.",
+          "The Potency of the Sting Debuff Bursts are increased by 10% for each stack of Torment Debuff converted during this Special."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict the Opponent with a Stun Debuff, stunning the Opponent for 3 seconds, and inflict 10 Torment Debuffs that last for 15 seconds.",
+          "While these Torments are active, charging Heavy grants a Fury Charge instead of Torment Charges.",
+          "Attacking from Heavy Charge grants a Fury Buff per charge, max 20 stacks, increasing Attack Rating by 19.2 for 20 second(s). While charging, Torment and Fury stacks are paused."
+        ]
+      }
     },
     "2+2": {
       "challenger_rating": 30,
@@ -72,7 +177,42 @@
         "If the Opponent is inflicted with Petrify and they attempt to Heal, Scorpion gains 10 to 80% of the Health denied from them. Each tick of this healing cannot exceed 2.5 health, this value scales with Base Health."
       ],
       "url_page": "https://auntm.ai/champions/scorpion/tier/2",
-      "champid": "scorpion+2+2"
+      "champid": "scorpion+2+2",
+      "Abilities": {
+        "PRE-FIGHT: STING DEBUFF - MAX 30 STACKS": [
+          "Sting Debuffs are Damage over Time Debuffs that Scorpion inflicts on Medium Attacks. His default Sting Debuff is a Poison Debuff, but he can choose between Shock and Rupture Debuffs in the Pre-Fight Screen.",
+          "Poison: inflict 3.81 Direct Damage Damage over 13 seconds and reducing health recovery by 30%.",
+          "Shock: inflict 8.89 Energy Damage over 13 seconds.",
+          "Rupture: inflict 8.89 Physical Damage over 13 seconds.",
+          "On fight entry Scorpion gains Immunity to the Damage over Time effects he did not select with this Pre-Fight, Shock and Rupture Immune by default.",
+          "If the Opponent triggers a Special Attack while suffering from his personal Sting Debuffs inflict a burst of 50.8 Sting Debuff Damage per stack of Sting Debuff."
+        ],
+        "SCORPION-SENSE": [
+          "When the Opponent Evades or at the end of their Special Attacks, Scorpion gains a non-stacking Scorpion-Sense Passive, granting 20% chance to Evade for 15 second(s). When Scorpion-Sense expires it goes on a cooldown for 10 seconds.",
+          "When an Evade would trigger, Scorpion inflicts a Sting Debuff. On a successful Evade, Scorpion counterattacks, consumes Scorpion-Sense and inflicts a burst of Sting Debuff Damage, but this damage scales with Base Attack only. Evade does not trigger while blocking.",
+          "As a defender Scorpion gains Scorpion-Sense every 15 second(s) unless the Attacker gains another 20 Combos by the end of this duration. Reaching the targeted Combo Count removes any existing Scorpion-Sense and triggers its cooldown."
+        ],
+        "TORMENT DEBUFF - WHILE HEAVY CHARGING": [
+          "Charging a Heavy Attack grants a Torment Charge, however holding the Heavy Attack grants a Torment Charge every 0.40 second(s)",
+          "Landing a Heavy Attack converts all Charges into Torment Debuffs. Landing Special Attack 1 or 2 while charging converts one extra Debuff per Charge.",
+          "Torment Debuffs lasts for 10 second(s) but pauses during Specials, and causes all damaging Debuffs to last 1 second(s) longer."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit inflicts a Sting Debuff. This effect has a 50% chance to go through block.",
+          "Final Hit: Inflict a Taunt Debuff for 12 seconds, reducing Attack Rating by 15%.",
+          "If the Opponent fails to launch a Special Attack before the Taunt Debuff expires, Scorpion inflicts a non-stacking Suppression Debuff, reducing Combat Power Rate by 25% for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "All Sting Debuffs are Paused for the duration of the Special, and refreshed by the end of it.",
+          "Final Hit inflicts 2 Bursts of Sting Debuff Damage per Sting Debuff on the Opponent, and also inflicts a Petrify Debuff of 40% Potency that lasts for 20 seconds. The Petrify can be inflicted through Block.",
+          "The Potency of the Sting Debuff Bursts are increased by 10% for each stack of Torment Debuff converted during this Special."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict the Opponent with a Stun Debuff, stunning the Opponent for 3 seconds, and inflict 10 Torment Debuffs that last for 15 seconds.",
+          "While these Torments are active, charging Heavy grants a Fury Charge instead of Torment Charges.",
+          "Attacking from Heavy Charge grants a Fury Buff per charge, max 20 stacks, increasing Attack Rating by 25.4 for 20 second(s). While charging, Torment and Fury stacks are paused."
+        ]
+      }
     },
     "2+3": {
       "challenger_rating": 40,
@@ -92,7 +232,42 @@
         "If the Opponent is inflicted with Petrify and they attempt to Heal, Scorpion gains 10 to 80% of the Health denied from them. Each tick of this healing cannot exceed 3.97 health, this value scales with Base Health."
       ],
       "url_page": "https://auntm.ai/champions/scorpion/tier/2",
-      "champid": "scorpion+2+3"
+      "champid": "scorpion+2+3",
+      "Abilities": {
+        "PRE-FIGHT: STING DEBUFF - MAX 30 STACKS": [
+          "Sting Debuffs are Damage over Time Debuffs that Scorpion inflicts on Medium Attacks. His default Sting Debuff is a Poison Debuff, but he can choose between Shock and Rupture Debuffs in the Pre-Fight Screen.",
+          "Poison: inflict 6.03 Direct Damage Damage over 13 seconds and reducing health recovery by 30%.",
+          "Shock: inflict 14.07 Energy Damage over 13 seconds.",
+          "Rupture: inflict 14.07 Physical Damage over 13 seconds.",
+          "On fight entry Scorpion gains Immunity to the Damage over Time effects he did not select with this Pre-Fight, Shock and Rupture Immune by default.",
+          "If the Opponent triggers a Special Attack while suffering from his personal Sting Debuffs inflict a burst of 80.4 Sting Debuff Damage per stack of Sting Debuff."
+        ],
+        "SCORPION-SENSE": [
+          "When the Opponent Evades or at the end of their Special Attacks, Scorpion gains a non-stacking Scorpion-Sense Passive, granting 20% chance to Evade for 15 second(s). When Scorpion-Sense expires it goes on a cooldown for 10 seconds.",
+          "When an Evade would trigger, Scorpion inflicts a Sting Debuff. On a successful Evade, Scorpion counterattacks, consumes Scorpion-Sense and inflicts a burst of Sting Debuff Damage, but this damage scales with Base Attack only. Evade does not trigger while blocking.",
+          "As a defender Scorpion gains Scorpion-Sense every 15 second(s) unless the Attacker gains another 20 Combos by the end of this duration. Reaching the targeted Combo Count removes any existing Scorpion-Sense and triggers its cooldown."
+        ],
+        "TORMENT DEBUFF - WHILE HEAVY CHARGING": [
+          "Charging a Heavy Attack grants a Torment Charge, however holding the Heavy Attack grants a Torment Charge every 0.40 second(s)",
+          "Landing a Heavy Attack converts all Charges into Torment Debuffs. Landing Special Attack 1 or 2 while charging converts one extra Debuff per Charge.",
+          "Torment Debuffs lasts for 10 second(s) but pauses during Specials, and causes all damaging Debuffs to last 1 second(s) longer."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit inflicts a Sting Debuff. This effect has a 50% chance to go through block.",
+          "Final Hit: Inflict a Taunt Debuff for 12 seconds, reducing Attack Rating by 15%.",
+          "If the Opponent fails to launch a Special Attack before the Taunt Debuff expires, Scorpion inflicts a non-stacking Suppression Debuff, reducing Combat Power Rate by 25% for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "All Sting Debuffs are Paused for the duration of the Special, and refreshed by the end of it.",
+          "Final Hit inflicts 2 Bursts of Sting Debuff Damage per Sting Debuff on the Opponent, and also inflicts a Petrify Debuff of 40% Potency that lasts for 20 seconds. The Petrify can be inflicted through Block.",
+          "The Potency of the Sting Debuff Bursts are increased by 10% for each stack of Torment Debuff converted during this Special."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict the Opponent with a Stun Debuff, stunning the Opponent for 3 seconds, and inflict 10 Torment Debuffs that last for 15 seconds.",
+          "While these Torments are active, charging Heavy grants a Fury Charge instead of Torment Charges.",
+          "Attacking from Heavy Charge grants a Fury Buff per charge, max 20 stacks, increasing Attack Rating by 40.2 for 20 second(s). While charging, Torment and Fury stacks are paused."
+        ]
+      }
     },
     "3+1": {
       "challenger_rating": 40,
@@ -112,7 +287,42 @@
         "If the Opponent is inflicted with Petrify and they attempt to Heal, Scorpion gains 10 to 80% of the Health denied from them. Each tick of this healing cannot exceed 3.43 health, this value scales with Base Health."
       ],
       "url_page": "https://auntm.ai/champions/scorpion/tier/3",
-      "champid": "scorpion+3+1"
+      "champid": "scorpion+3+1",
+      "Abilities": {
+        "PRE-FIGHT: STING DEBUFF - MAX 30 STACKS": [
+          "Sting Debuffs are Damage over Time Debuffs that Scorpion inflicts on Medium Attacks. His default Sting Debuff is a Poison Debuff, but he can choose between Shock and Rupture Debuffs in the Pre-Fight Screen.",
+          "Poison: inflict 5.22 Direct Damage Damage over 13 seconds and reducing health recovery by 30%.",
+          "Shock: inflict 12.18 Energy Damage over 13 seconds.",
+          "Rupture: inflict 12.18 Physical Damage over 13 seconds.",
+          "On fight entry Scorpion gains Immunity to the Damage over Time effects he did not select with this Pre-Fight, Shock and Rupture Immune by default.",
+          "If the Opponent triggers a Special Attack while suffering from his personal Sting Debuffs inflict a burst of 69.6 Sting Debuff Damage per stack of Sting Debuff."
+        ],
+        "SCORPION-SENSE": [
+          "When the Opponent Evades or at the end of their Special Attacks, Scorpion gains a non-stacking Scorpion-Sense Passive, granting 20% chance to Evade for 15 second(s). When Scorpion-Sense expires it goes on a cooldown for 10 seconds.",
+          "When an Evade would trigger, Scorpion inflicts a Sting Debuff. On a successful Evade, Scorpion counterattacks, consumes Scorpion-Sense and inflicts a burst of Sting Debuff Damage, but this damage scales with Base Attack only. Evade does not trigger while blocking.",
+          "As a defender Scorpion gains Scorpion-Sense every 15 second(s) unless the Attacker gains another 20 Combos by the end of this duration. Reaching the targeted Combo Count removes any existing Scorpion-Sense and triggers its cooldown."
+        ],
+        "TORMENT DEBUFF - WHILE HEAVY CHARGING": [
+          "Charging a Heavy Attack grants a Torment Charge, however holding the Heavy Attack grants a Torment Charge every 0.40 second(s)",
+          "Landing a Heavy Attack converts all Charges into Torment Debuffs. Landing Special Attack 1 or 2 while charging converts one extra Debuff per Charge.",
+          "Torment Debuffs lasts for 10 second(s) but pauses during Specials, and causes all damaging Debuffs to last 1 second(s) longer."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit inflicts a Sting Debuff. This effect has a 50% chance to go through block.",
+          "Final Hit: Inflict a Taunt Debuff for 12 seconds, reducing Attack Rating by 15%.",
+          "If the Opponent fails to launch a Special Attack before the Taunt Debuff expires, Scorpion inflicts a non-stacking Suppression Debuff, reducing Combat Power Rate by 25% for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "All Sting Debuffs are Paused for the duration of the Special, and refreshed by the end of it.",
+          "Final Hit inflicts 2 Bursts of Sting Debuff Damage per Sting Debuff on the Opponent, and also inflicts a Petrify Debuff of 40% Potency that lasts for 20 seconds. The Petrify can be inflicted through Block.",
+          "The Potency of the Sting Debuff Bursts are increased by 10% for each stack of Torment Debuff converted during this Special."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict the Opponent with a Stun Debuff, stunning the Opponent for 3 seconds, and inflict 10 Torment Debuffs that last for 15 seconds.",
+          "While these Torments are active, charging Heavy grants a Fury Charge instead of Torment Charges.",
+          "Attacking from Heavy Charge grants a Fury Buff per charge, max 20 stacks, increasing Attack Rating by 34.8 for 20 second(s). While charging, Torment and Fury stacks are paused."
+        ]
+      }
     },
     "3+2": {
       "challenger_rating": 50,
@@ -132,7 +342,42 @@
         "If the Opponent is inflicted with Petrify and they attempt to Heal, Scorpion gains 10 to 80% of the Health denied from them. Each tick of this healing cannot exceed 5.49 health, this value scales with Base Health."
       ],
       "url_page": "https://auntm.ai/champions/scorpion/tier/3",
-      "champid": "scorpion+3+2"
+      "champid": "scorpion+3+2",
+      "Abilities": {
+        "PRE-FIGHT: STING DEBUFF - MAX 30 STACKS": [
+          "Sting Debuffs are Damage over Time Debuffs that Scorpion inflicts on Medium Attacks. His default Sting Debuff is a Poison Debuff, but he can choose between Shock and Rupture Debuffs in the Pre-Fight Screen.",
+          "Poison: inflict 8.34 Direct Damage Damage over 13 seconds and reducing health recovery by 30%.",
+          "Shock: inflict 19.46 Energy Damage over 13 seconds.",
+          "Rupture: inflict 19.46 Physical Damage over 13 seconds.",
+          "On fight entry Scorpion gains Immunity to the Damage over Time effects he did not select with this Pre-Fight, Shock and Rupture Immune by default.",
+          "If the Opponent triggers a Special Attack while suffering from his personal Sting Debuffs inflict a burst of 111.2 Sting Debuff Damage per stack of Sting Debuff."
+        ],
+        "SCORPION-SENSE": [
+          "When the Opponent Evades or at the end of their Special Attacks, Scorpion gains a non-stacking Scorpion-Sense Passive, granting 20% chance to Evade for 15 second(s). When Scorpion-Sense expires it goes on a cooldown for 10 seconds.",
+          "When an Evade would trigger, Scorpion inflicts a Sting Debuff. On a successful Evade, Scorpion counterattacks, consumes Scorpion-Sense and inflicts a burst of Sting Debuff Damage, but this damage scales with Base Attack only. Evade does not trigger while blocking.",
+          "As a defender Scorpion gains Scorpion-Sense every 15 second(s) unless the Attacker gains another 20 Combos by the end of this duration. Reaching the targeted Combo Count removes any existing Scorpion-Sense and triggers its cooldown."
+        ],
+        "TORMENT DEBUFF - WHILE HEAVY CHARGING": [
+          "Charging a Heavy Attack grants a Torment Charge, however holding the Heavy Attack grants a Torment Charge every 0.40 second(s)",
+          "Landing a Heavy Attack converts all Charges into Torment Debuffs. Landing Special Attack 1 or 2 while charging converts one extra Debuff per Charge.",
+          "Torment Debuffs lasts for 10 second(s) but pauses during Specials, and causes all damaging Debuffs to last 1 second(s) longer."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit inflicts a Sting Debuff. This effect has a 50% chance to go through block.",
+          "Final Hit: Inflict a Taunt Debuff for 12 seconds, reducing Attack Rating by 15%.",
+          "If the Opponent fails to launch a Special Attack before the Taunt Debuff expires, Scorpion inflicts a non-stacking Suppression Debuff, reducing Combat Power Rate by 25% for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "All Sting Debuffs are Paused for the duration of the Special, and refreshed by the end of it.",
+          "Final Hit inflicts 2 Bursts of Sting Debuff Damage per Sting Debuff on the Opponent, and also inflicts a Petrify Debuff of 40% Potency that lasts for 20 seconds. The Petrify can be inflicted through Block.",
+          "The Potency of the Sting Debuff Bursts are increased by 10% for each stack of Torment Debuff converted during this Special."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict the Opponent with a Stun Debuff, stunning the Opponent for 3 seconds, and inflict 10 Torment Debuffs that last for 15 seconds.",
+          "While these Torments are active, charging Heavy grants a Fury Charge instead of Torment Charges.",
+          "Attacking from Heavy Charge grants a Fury Buff per charge, max 20 stacks, increasing Attack Rating by 55.6 for 20 second(s). While charging, Torment and Fury stacks are paused."
+        ]
+      }
     },
     "3+3": {
       "challenger_rating": 60,
@@ -152,7 +397,42 @@
         "If the Opponent is inflicted with Petrify and they attempt to Heal, Scorpion gains 10 to 80% of the Health denied from them. Each tick of this healing cannot exceed 7.68 health, this value scales with Base Health."
       ],
       "url_page": "https://auntm.ai/champions/scorpion/tier/3",
-      "champid": "scorpion+3+3"
+      "champid": "scorpion+3+3",
+      "Abilities": {
+        "PRE-FIGHT: STING DEBUFF - MAX 30 STACKS": [
+          "Sting Debuffs are Damage over Time Debuffs that Scorpion inflicts on Medium Attacks. His default Sting Debuff is a Poison Debuff, but he can choose between Shock and Rupture Debuffs in the Pre-Fight Screen.",
+          "Poison: inflict 11.67 Direct Damage Damage over 13 seconds and reducing health recovery by 30%.",
+          "Shock: inflict 27.23 Energy Damage over 13 seconds.",
+          "Rupture: inflict 27.23 Physical Damage over 13 seconds.",
+          "On fight entry Scorpion gains Immunity to the Damage over Time effects he did not select with this Pre-Fight, Shock and Rupture Immune by default.",
+          "If the Opponent triggers a Special Attack while suffering from his personal Sting Debuffs inflict a burst of 155.6 Sting Debuff Damage per stack of Sting Debuff."
+        ],
+        "SCORPION-SENSE": [
+          "When the Opponent Evades or at the end of their Special Attacks, Scorpion gains a non-stacking Scorpion-Sense Passive, granting 20% chance to Evade for 15 second(s). When Scorpion-Sense expires it goes on a cooldown for 10 seconds.",
+          "When an Evade would trigger, Scorpion inflicts a Sting Debuff. On a successful Evade, Scorpion counterattacks, consumes Scorpion-Sense and inflicts a burst of Sting Debuff Damage, but this damage scales with Base Attack only. Evade does not trigger while blocking.",
+          "As a defender Scorpion gains Scorpion-Sense every 15 second(s) unless the Attacker gains another 20 Combos by the end of this duration. Reaching the targeted Combo Count removes any existing Scorpion-Sense and triggers its cooldown."
+        ],
+        "TORMENT DEBUFF - WHILE HEAVY CHARGING": [
+          "Charging a Heavy Attack grants a Torment Charge, however holding the Heavy Attack grants a Torment Charge every 0.40 second(s)",
+          "Landing a Heavy Attack converts all Charges into Torment Debuffs. Landing Special Attack 1 or 2 while charging converts one extra Debuff per Charge.",
+          "Torment Debuffs lasts for 10 second(s) but pauses during Specials, and causes all damaging Debuffs to last 1 second(s) longer."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit inflicts a Sting Debuff. This effect has a 50% chance to go through block.",
+          "Final Hit: Inflict a Taunt Debuff for 12 seconds, reducing Attack Rating by 15%.",
+          "If the Opponent fails to launch a Special Attack before the Taunt Debuff expires, Scorpion inflicts a non-stacking Suppression Debuff, reducing Combat Power Rate by 25% for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "All Sting Debuffs are Paused for the duration of the Special, and refreshed by the end of it.",
+          "Final Hit inflicts 2 Bursts of Sting Debuff Damage per Sting Debuff on the Opponent, and also inflicts a Petrify Debuff of 40% Potency that lasts for 20 seconds. The Petrify can be inflicted through Block.",
+          "The Potency of the Sting Debuff Bursts are increased by 10% for each stack of Torment Debuff converted during this Special."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict the Opponent with a Stun Debuff, stunning the Opponent for 3 seconds, and inflict 10 Torment Debuffs that last for 15 seconds.",
+          "While these Torments are active, charging Heavy grants a Fury Charge instead of Torment Charges.",
+          "Attacking from Heavy Charge grants a Fury Buff per charge, max 20 stacks, increasing Attack Rating by 77.8 for 20 second(s). While charging, Torment and Fury stacks are paused."
+        ]
+      }
     },
     "3+4": {
       "challenger_rating": 70,
@@ -172,7 +452,42 @@
         "If the Opponent is inflicted with Petrify and they attempt to Heal, Scorpion gains 10 to 80% of the Health denied from them. Each tick of this healing cannot exceed 10.55 health, this value scales with Base Health."
       ],
       "url_page": "https://auntm.ai/champions/scorpion/tier/3",
-      "champid": "scorpion+3+4"
+      "champid": "scorpion+3+4",
+      "Abilities": {
+        "PRE-FIGHT: STING DEBUFF - MAX 30 STACKS": [
+          "Sting Debuffs are Damage over Time Debuffs that Scorpion inflicts on Medium Attacks. His default Sting Debuff is a Poison Debuff, but he can choose between Shock and Rupture Debuffs in the Pre-Fight Screen.",
+          "Poison: inflict 16.02 Direct Damage Damage over 13 seconds and reducing health recovery by 30%.",
+          "Shock: inflict 37.38 Energy Damage over 13 seconds.",
+          "Rupture: inflict 37.38 Physical Damage over 13 seconds.",
+          "On fight entry Scorpion gains Immunity to the Damage over Time effects he did not select with this Pre-Fight, Shock and Rupture Immune by default.",
+          "If the Opponent triggers a Special Attack while suffering from his personal Sting Debuffs inflict a burst of 213.6 Sting Debuff Damage per stack of Sting Debuff."
+        ],
+        "SCORPION-SENSE": [
+          "When the Opponent Evades or at the end of their Special Attacks, Scorpion gains a non-stacking Scorpion-Sense Passive, granting 20% chance to Evade for 15 second(s). When Scorpion-Sense expires it goes on a cooldown for 10 seconds.",
+          "When an Evade would trigger, Scorpion inflicts a Sting Debuff. On a successful Evade, Scorpion counterattacks, consumes Scorpion-Sense and inflicts a burst of Sting Debuff Damage, but this damage scales with Base Attack only. Evade does not trigger while blocking.",
+          "As a defender Scorpion gains Scorpion-Sense every 15 second(s) unless the Attacker gains another 20 Combos by the end of this duration. Reaching the targeted Combo Count removes any existing Scorpion-Sense and triggers its cooldown."
+        ],
+        "TORMENT DEBUFF - WHILE HEAVY CHARGING": [
+          "Charging a Heavy Attack grants a Torment Charge, however holding the Heavy Attack grants a Torment Charge every 0.40 second(s)",
+          "Landing a Heavy Attack converts all Charges into Torment Debuffs. Landing Special Attack 1 or 2 while charging converts one extra Debuff per Charge.",
+          "Torment Debuffs lasts for 10 second(s) but pauses during Specials, and causes all damaging Debuffs to last 1 second(s) longer."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit inflicts a Sting Debuff. This effect has a 50% chance to go through block.",
+          "Final Hit: Inflict a Taunt Debuff for 12 seconds, reducing Attack Rating by 15%.",
+          "If the Opponent fails to launch a Special Attack before the Taunt Debuff expires, Scorpion inflicts a non-stacking Suppression Debuff, reducing Combat Power Rate by 25% for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "All Sting Debuffs are Paused for the duration of the Special, and refreshed by the end of it.",
+          "Final Hit inflicts 2 Bursts of Sting Debuff Damage per Sting Debuff on the Opponent, and also inflicts a Petrify Debuff of 40% Potency that lasts for 20 seconds. The Petrify can be inflicted through Block.",
+          "The Potency of the Sting Debuff Bursts are increased by 10% for each stack of Torment Debuff converted during this Special."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict the Opponent with a Stun Debuff, stunning the Opponent for 3 seconds, and inflict 10 Torment Debuffs that last for 15 seconds.",
+          "While these Torments are active, charging Heavy grants a Fury Charge instead of Torment Charges.",
+          "Attacking from Heavy Charge grants a Fury Buff per charge, max 20 stacks, increasing Attack Rating by 106.8 for 20 second(s). While charging, Torment and Fury stacks are paused."
+        ]
+      }
     },
     "4+1": {
       "challenger_rating": 60,
@@ -192,7 +507,42 @@
         "If the Opponent is inflicted with Petrify and they attempt to Heal, Scorpion gains 10 to 80% of the Health denied from them. Each tick of this healing cannot exceed 7.68 health, this value scales with Base Health."
       ],
       "url_page": "https://auntm.ai/champions/scorpion/tier/4",
-      "champid": "scorpion+4+1"
+      "champid": "scorpion+4+1",
+      "Abilities": {
+        "PRE-FIGHT: STING DEBUFF - MAX 30 STACKS": [
+          "Sting Debuffs are Damage over Time Debuffs that Scorpion inflicts on Medium Attacks. His default Sting Debuff is a Poison Debuff, but he can choose between Shock and Rupture Debuffs in the Pre-Fight Screen.",
+          "Poison: inflict 11.67 Direct Damage Damage over 13 seconds and reducing health recovery by 30%.",
+          "Shock: inflict 27.23 Energy Damage over 13 seconds.",
+          "Rupture: inflict 27.23 Physical Damage over 13 seconds.",
+          "On fight entry Scorpion gains Immunity to the Damage over Time effects he did not select with this Pre-Fight, Shock and Rupture Immune by default.",
+          "If the Opponent triggers a Special Attack while suffering from his personal Sting Debuffs inflict a burst of 155.6 Sting Debuff Damage per stack of Sting Debuff."
+        ],
+        "SCORPION-SENSE": [
+          "When the Opponent Evades or at the end of their Special Attacks, Scorpion gains a non-stacking Scorpion-Sense Passive, granting 20% chance to Evade for 15 second(s). When Scorpion-Sense expires it goes on a cooldown for 10 seconds.",
+          "When an Evade would trigger, Scorpion inflicts a Sting Debuff. On a successful Evade, Scorpion counterattacks, consumes Scorpion-Sense and inflicts a burst of Sting Debuff Damage, but this damage scales with Base Attack only. Evade does not trigger while blocking.",
+          "As a defender Scorpion gains Scorpion-Sense every 15 second(s) unless the Attacker gains another 20 Combos by the end of this duration. Reaching the targeted Combo Count removes any existing Scorpion-Sense and triggers its cooldown."
+        ],
+        "TORMENT DEBUFF - WHILE HEAVY CHARGING": [
+          "Charging a Heavy Attack grants a Torment Charge, however holding the Heavy Attack grants a Torment Charge every 0.40 second(s)",
+          "Landing a Heavy Attack converts all Charges into Torment Debuffs. Landing Special Attack 1 or 2 while charging converts one extra Debuff per Charge.",
+          "Torment Debuffs lasts for 10 second(s) but pauses during Specials, and causes all damaging Debuffs to last 1 second(s) longer."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit inflicts a Sting Debuff. This effect has a 50% chance to go through block.",
+          "Final Hit: Inflict a Taunt Debuff for 12 seconds, reducing Attack Rating by 15%.",
+          "If the Opponent fails to launch a Special Attack before the Taunt Debuff expires, Scorpion inflicts a non-stacking Suppression Debuff, reducing Combat Power Rate by 25% for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "All Sting Debuffs are Paused for the duration of the Special, and refreshed by the end of it.",
+          "Final Hit inflicts 2 Bursts of Sting Debuff Damage per Sting Debuff on the Opponent, and also inflicts a Petrify Debuff of 40% Potency that lasts for 20 seconds. The Petrify can be inflicted through Block.",
+          "The Potency of the Sting Debuff Bursts are increased by 10% for each stack of Torment Debuff converted during this Special."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict the Opponent with a Stun Debuff, stunning the Opponent for 3 seconds, and inflict 10 Torment Debuffs that last for 15 seconds.",
+          "While these Torments are active, charging Heavy grants a Fury Charge instead of Torment Charges.",
+          "Attacking from Heavy Charge grants a Fury Buff per charge, max 20 stacks, increasing Attack Rating by 77.8 for 20 second(s). While charging, Torment and Fury stacks are paused."
+        ]
+      }
     },
     "4+2": {
       "challenger_rating": 70,
@@ -212,7 +562,42 @@
         "If the Opponent is inflicted with Petrify and they attempt to Heal, Scorpion gains 10 to 80% of the Health denied from them. Each tick of this healing cannot exceed 10.77 health, this value scales with Base Health."
       ],
       "url_page": "https://auntm.ai/champions/scorpion/tier/4",
-      "champid": "scorpion+4+2"
+      "champid": "scorpion+4+2",
+      "Abilities": {
+        "PRE-FIGHT: STING DEBUFF - MAX 30 STACKS": [
+          "Sting Debuffs are Damage over Time Debuffs that Scorpion inflicts on Medium Attacks. His default Sting Debuff is a Poison Debuff, but he can choose between Shock and Rupture Debuffs in the Pre-Fight Screen.",
+          "Poison: inflict 16.35 Direct Damage Damage over 13 seconds and reducing health recovery by 30%.",
+          "Shock: inflict 38.15 Energy Damage over 13 seconds.",
+          "Rupture: inflict 38.15 Physical Damage over 13 seconds.",
+          "On fight entry Scorpion gains Immunity to the Damage over Time effects he did not select with this Pre-Fight, Shock and Rupture Immune by default.",
+          "If the Opponent triggers a Special Attack while suffering from his personal Sting Debuffs inflict a burst of 218 Sting Debuff Damage per stack of Sting Debuff."
+        ],
+        "SCORPION-SENSE": [
+          "When the Opponent Evades or at the end of their Special Attacks, Scorpion gains a non-stacking Scorpion-Sense Passive, granting 20% chance to Evade for 15 second(s). When Scorpion-Sense expires it goes on a cooldown for 10 seconds.",
+          "When an Evade would trigger, Scorpion inflicts a Sting Debuff. On a successful Evade, Scorpion counterattacks, consumes Scorpion-Sense and inflicts a burst of Sting Debuff Damage, but this damage scales with Base Attack only. Evade does not trigger while blocking.",
+          "As a defender Scorpion gains Scorpion-Sense every 15 second(s) unless the Attacker gains another 20 Combos by the end of this duration. Reaching the targeted Combo Count removes any existing Scorpion-Sense and triggers its cooldown."
+        ],
+        "TORMENT DEBUFF - WHILE HEAVY CHARGING": [
+          "Charging a Heavy Attack grants a Torment Charge, however holding the Heavy Attack grants a Torment Charge every 0.40 second(s)",
+          "Landing a Heavy Attack converts all Charges into Torment Debuffs. Landing Special Attack 1 or 2 while charging converts one extra Debuff per Charge.",
+          "Torment Debuffs lasts for 10 second(s) but pauses during Specials, and causes all damaging Debuffs to last 1 second(s) longer."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit inflicts a Sting Debuff. This effect has a 50% chance to go through block.",
+          "Final Hit: Inflict a Taunt Debuff for 12 seconds, reducing Attack Rating by 15%.",
+          "If the Opponent fails to launch a Special Attack before the Taunt Debuff expires, Scorpion inflicts a non-stacking Suppression Debuff, reducing Combat Power Rate by 25% for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "All Sting Debuffs are Paused for the duration of the Special, and refreshed by the end of it.",
+          "Final Hit inflicts 2 Bursts of Sting Debuff Damage per Sting Debuff on the Opponent, and also inflicts a Petrify Debuff of 40% Potency that lasts for 20 seconds. The Petrify can be inflicted through Block.",
+          "The Potency of the Sting Debuff Bursts are increased by 10% for each stack of Torment Debuff converted during this Special."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict the Opponent with a Stun Debuff, stunning the Opponent for 3 seconds, and inflict 10 Torment Debuffs that last for 15 seconds.",
+          "While these Torments are active, charging Heavy grants a Fury Charge instead of Torment Charges.",
+          "Attacking from Heavy Charge grants a Fury Buff per charge, max 20 stacks, increasing Attack Rating by 109 for 20 second(s). While charging, Torment and Fury stacks are paused."
+        ]
+      }
     },
     "4+3": {
       "challenger_rating": 80,
@@ -232,7 +617,42 @@
         "If the Opponent is inflicted with Petrify and they attempt to Heal, Scorpion gains 10 to 80% of the Health denied from them. Each tick of this healing cannot exceed 15.09 health, this value scales with Base Health."
       ],
       "url_page": "https://auntm.ai/champions/scorpion/tier/4",
-      "champid": "scorpion+4+3"
+      "champid": "scorpion+4+3",
+      "Abilities": {
+        "PRE-FIGHT: STING DEBUFF - MAX 30 STACKS": [
+          "Sting Debuffs are Damage over Time Debuffs that Scorpion inflicts on Medium Attacks. His default Sting Debuff is a Poison Debuff, but he can choose between Shock and Rupture Debuffs in the Pre-Fight Screen.",
+          "Poison: inflict 22.92 Direct Damage Damage over 13 seconds and reducing health recovery by 30%.",
+          "Shock: inflict 53.48 Energy Damage over 13 seconds.",
+          "Rupture: inflict 53.48 Physical Damage over 13 seconds.",
+          "On fight entry Scorpion gains Immunity to the Damage over Time effects he did not select with this Pre-Fight, Shock and Rupture Immune by default.",
+          "If the Opponent triggers a Special Attack while suffering from his personal Sting Debuffs inflict a burst of 305.6 Sting Debuff Damage per stack of Sting Debuff."
+        ],
+        "SCORPION-SENSE": [
+          "When the Opponent Evades or at the end of their Special Attacks, Scorpion gains a non-stacking Scorpion-Sense Passive, granting 20% chance to Evade for 15 second(s). When Scorpion-Sense expires it goes on a cooldown for 10 seconds.",
+          "When an Evade would trigger, Scorpion inflicts a Sting Debuff. On a successful Evade, Scorpion counterattacks, consumes Scorpion-Sense and inflicts a burst of Sting Debuff Damage, but this damage scales with Base Attack only. Evade does not trigger while blocking.",
+          "As a defender Scorpion gains Scorpion-Sense every 15 second(s) unless the Attacker gains another 20 Combos by the end of this duration. Reaching the targeted Combo Count removes any existing Scorpion-Sense and triggers its cooldown."
+        ],
+        "TORMENT DEBUFF - WHILE HEAVY CHARGING": [
+          "Charging a Heavy Attack grants a Torment Charge, however holding the Heavy Attack grants a Torment Charge every 0.40 second(s)",
+          "Landing a Heavy Attack converts all Charges into Torment Debuffs. Landing Special Attack 1 or 2 while charging converts one extra Debuff per Charge.",
+          "Torment Debuffs lasts for 10 second(s) but pauses during Specials, and causes all damaging Debuffs to last 1 second(s) longer."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit inflicts a Sting Debuff. This effect has a 50% chance to go through block.",
+          "Final Hit: Inflict a Taunt Debuff for 12 seconds, reducing Attack Rating by 15%.",
+          "If the Opponent fails to launch a Special Attack before the Taunt Debuff expires, Scorpion inflicts a non-stacking Suppression Debuff, reducing Combat Power Rate by 25% for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "All Sting Debuffs are Paused for the duration of the Special, and refreshed by the end of it.",
+          "Final Hit inflicts 2 Bursts of Sting Debuff Damage per Sting Debuff on the Opponent, and also inflicts a Petrify Debuff of 40% Potency that lasts for 20 seconds. The Petrify can be inflicted through Block.",
+          "The Potency of the Sting Debuff Bursts are increased by 10% for each stack of Torment Debuff converted during this Special."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict the Opponent with a Stun Debuff, stunning the Opponent for 3 seconds, and inflict 10 Torment Debuffs that last for 15 seconds.",
+          "While these Torments are active, charging Heavy grants a Fury Charge instead of Torment Charges.",
+          "Attacking from Heavy Charge grants a Fury Buff per charge, max 20 stacks, increasing Attack Rating by 152.8 for 20 second(s). While charging, Torment and Fury stacks are paused."
+        ]
+      }
     },
     "4+4": {
       "challenger_rating": 90,
@@ -252,7 +672,42 @@
         "If the Opponent is inflicted with Petrify and they attempt to Heal, Scorpion gains 10 to 80% of the Health denied from them. Each tick of this healing cannot exceed 19.83 health, this value scales with Base Health."
       ],
       "url_page": "https://auntm.ai/champions/scorpion/tier/4",
-      "champid": "scorpion+4+4"
+      "champid": "scorpion+4+4",
+      "Abilities": {
+        "PRE-FIGHT: STING DEBUFF - MAX 30 STACKS": [
+          "Sting Debuffs are Damage over Time Debuffs that Scorpion inflicts on Medium Attacks. His default Sting Debuff is a Poison Debuff, but he can choose between Shock and Rupture Debuffs in the Pre-Fight Screen.",
+          "Poison: inflict 30.12 Direct Damage Damage over 13 seconds and reducing health recovery by 30%.",
+          "Shock: inflict 70.28 Energy Damage over 13 seconds.",
+          "Rupture: inflict 70.28 Physical Damage over 13 seconds.",
+          "On fight entry Scorpion gains Immunity to the Damage over Time effects he did not select with this Pre-Fight, Shock and Rupture Immune by default.",
+          "If the Opponent triggers a Special Attack while suffering from his personal Sting Debuffs inflict a burst of 401.6 Sting Debuff Damage per stack of Sting Debuff."
+        ],
+        "SCORPION-SENSE": [
+          "When the Opponent Evades or at the end of their Special Attacks, Scorpion gains a non-stacking Scorpion-Sense Passive, granting 20% chance to Evade for 15 second(s). When Scorpion-Sense expires it goes on a cooldown for 10 seconds.",
+          "When an Evade would trigger, Scorpion inflicts a Sting Debuff. On a successful Evade, Scorpion counterattacks, consumes Scorpion-Sense and inflicts a burst of Sting Debuff Damage, but this damage scales with Base Attack only. Evade does not trigger while blocking.",
+          "As a defender Scorpion gains Scorpion-Sense every 15 second(s) unless the Attacker gains another 20 Combos by the end of this duration. Reaching the targeted Combo Count removes any existing Scorpion-Sense and triggers its cooldown."
+        ],
+        "TORMENT DEBUFF - WHILE HEAVY CHARGING": [
+          "Charging a Heavy Attack grants a Torment Charge, however holding the Heavy Attack grants a Torment Charge every 0.40 second(s)",
+          "Landing a Heavy Attack converts all Charges into Torment Debuffs. Landing Special Attack 1 or 2 while charging converts one extra Debuff per Charge.",
+          "Torment Debuffs lasts for 10 second(s) but pauses during Specials, and causes all damaging Debuffs to last 1 second(s) longer."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit inflicts a Sting Debuff. This effect has a 50% chance to go through block.",
+          "Final Hit: Inflict a Taunt Debuff for 12 seconds, reducing Attack Rating by 15%.",
+          "If the Opponent fails to launch a Special Attack before the Taunt Debuff expires, Scorpion inflicts a non-stacking Suppression Debuff, reducing Combat Power Rate by 25% for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "All Sting Debuffs are Paused for the duration of the Special, and refreshed by the end of it.",
+          "Final Hit inflicts 2 Bursts of Sting Debuff Damage per Sting Debuff on the Opponent, and also inflicts a Petrify Debuff of 40% Potency that lasts for 20 seconds. The Petrify can be inflicted through Block.",
+          "The Potency of the Sting Debuff Bursts are increased by 10% for each stack of Torment Debuff converted during this Special."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict the Opponent with a Stun Debuff, stunning the Opponent for 3 seconds, and inflict 10 Torment Debuffs that last for 15 seconds.",
+          "While these Torments are active, charging Heavy grants a Fury Charge instead of Torment Charges.",
+          "Attacking from Heavy Charge grants a Fury Buff per charge, max 20 stacks, increasing Attack Rating by 200.8 for 20 second(s). While charging, Torment and Fury stacks are paused."
+        ]
+      }
     },
     "4+5": {
       "challenger_rating": 100,
@@ -272,7 +727,42 @@
         "If the Opponent is inflicted with Petrify and they attempt to Heal, Scorpion gains 10 to 80% of the Health denied from them. Each tick of this healing cannot exceed 26.45 health, this value scales with Base Health."
       ],
       "url_page": "https://auntm.ai/champions/scorpion/tier/4",
-      "champid": "scorpion+4+5"
+      "champid": "scorpion+4+5",
+      "Abilities": {
+        "PRE-FIGHT: STING DEBUFF - MAX 30 STACKS": [
+          "Sting Debuffs are Damage over Time Debuffs that Scorpion inflicts on Medium Attacks. His default Sting Debuff is a Poison Debuff, but he can choose between Shock and Rupture Debuffs in the Pre-Fight Screen.",
+          "Poison: inflict 40.17 Direct Damage Damage over 13 seconds and reducing health recovery by 30%.",
+          "Shock: inflict 93.73 Energy Damage over 13 seconds.",
+          "Rupture: inflict 93.73 Physical Damage over 13 seconds.",
+          "On fight entry Scorpion gains Immunity to the Damage over Time effects he did not select with this Pre-Fight, Shock and Rupture Immune by default.",
+          "If the Opponent triggers a Special Attack while suffering from his personal Sting Debuffs inflict a burst of 535.6 Sting Debuff Damage per stack of Sting Debuff."
+        ],
+        "SCORPION-SENSE": [
+          "When the Opponent Evades or at the end of their Special Attacks, Scorpion gains a non-stacking Scorpion-Sense Passive, granting 20% chance to Evade for 15 second(s). When Scorpion-Sense expires it goes on a cooldown for 10 seconds.",
+          "When an Evade would trigger, Scorpion inflicts a Sting Debuff. On a successful Evade, Scorpion counterattacks, consumes Scorpion-Sense and inflicts a burst of Sting Debuff Damage, but this damage scales with Base Attack only. Evade does not trigger while blocking.",
+          "As a defender Scorpion gains Scorpion-Sense every 15 second(s) unless the Attacker gains another 20 Combos by the end of this duration. Reaching the targeted Combo Count removes any existing Scorpion-Sense and triggers its cooldown."
+        ],
+        "TORMENT DEBUFF - WHILE HEAVY CHARGING": [
+          "Charging a Heavy Attack grants a Torment Charge, however holding the Heavy Attack grants a Torment Charge every 0.40 second(s)",
+          "Landing a Heavy Attack converts all Charges into Torment Debuffs. Landing Special Attack 1 or 2 while charging converts one extra Debuff per Charge.",
+          "Torment Debuffs lasts for 10 second(s) but pauses during Specials, and causes all damaging Debuffs to last 1 second(s) longer."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit inflicts a Sting Debuff. This effect has a 50% chance to go through block.",
+          "Final Hit: Inflict a Taunt Debuff for 12 seconds, reducing Attack Rating by 15%.",
+          "If the Opponent fails to launch a Special Attack before the Taunt Debuff expires, Scorpion inflicts a non-stacking Suppression Debuff, reducing Combat Power Rate by 25% for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "All Sting Debuffs are Paused for the duration of the Special, and refreshed by the end of it.",
+          "Final Hit inflicts 2 Bursts of Sting Debuff Damage per Sting Debuff on the Opponent, and also inflicts a Petrify Debuff of 40% Potency that lasts for 20 seconds. The Petrify can be inflicted through Block.",
+          "The Potency of the Sting Debuff Bursts are increased by 10% for each stack of Torment Debuff converted during this Special."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict the Opponent with a Stun Debuff, stunning the Opponent for 3 seconds, and inflict 10 Torment Debuffs that last for 15 seconds.",
+          "While these Torments are active, charging Heavy grants a Fury Charge instead of Torment Charges.",
+          "Attacking from Heavy Charge grants a Fury Buff per charge, max 20 stacks, increasing Attack Rating by 267.8 for 20 second(s). While charging, Torment and Fury stacks are paused."
+        ]
+      }
     },
     "5+1": {
       "challenger_rating": 80,
@@ -292,7 +782,42 @@
         "If the Opponent is inflicted with Petrify and they attempt to Heal, Scorpion gains 12.21 to 100% of the Health denied from them. Each tick of this healing cannot exceed 15.79 health, this value scales with Base Health."
       ],
       "url_page": "https://auntm.ai/champions/scorpion/tier/5",
-      "champid": "scorpion+5+1"
+      "champid": "scorpion+5+1",
+      "Abilities": {
+        "PRE-FIGHT: STING DEBUFF - MAX 30 STACKS": [
+          "Sting Debuffs are Damage over Time Debuffs that Scorpion inflicts on Medium Attacks. His default Sting Debuff is a Poison Debuff, but he can choose between Shock and Rupture Debuffs in the Pre-Fight Screen.",
+          "Poison: inflict 23.97 Direct Damage Damage over 13 seconds and reducing health recovery by 30%.",
+          "Shock: inflict 55.93 Energy Damage over 13 seconds.",
+          "Rupture: inflict 55.93 Physical Damage over 13 seconds.",
+          "On fight entry Scorpion gains Immunity to the Damage over Time effects he did not select with this Pre-Fight, Shock and Rupture Immune by default.",
+          "If the Opponent triggers a Special Attack while suffering from his personal Sting Debuffs inflict a burst of 319.6 Sting Debuff Damage per stack of Sting Debuff."
+        ],
+        "SCORPION-SENSE": [
+          "When the Opponent Evades or at the end of their Special Attacks, Scorpion gains a non-stacking Scorpion-Sense Passive, granting 20% chance to Evade for 15 second(s). When Scorpion-Sense expires it goes on a cooldown for 10 seconds.",
+          "When an Evade would trigger, Scorpion inflicts a Sting Debuff. On a successful Evade, Scorpion counterattacks, consumes Scorpion-Sense and inflicts a burst of Sting Debuff Damage, but this damage scales with Base Attack only. Evade does not trigger while blocking.",
+          "As a defender Scorpion gains Scorpion-Sense every 15 second(s) unless the Attacker gains another 20 Combos by the end of this duration. Reaching the targeted Combo Count removes any existing Scorpion-Sense and triggers its cooldown."
+        ],
+        "TORMENT DEBUFF - WHILE HEAVY CHARGING": [
+          "Charging a Heavy Attack grants a Torment Charge, however holding the Heavy Attack grants a Torment Charge every 0.40 second(s)",
+          "Landing a Heavy Attack converts all Charges into Torment Debuffs. Landing Special Attack 1 or 2 while charging converts one extra Debuff per Charge.",
+          "Torment Debuffs lasts for 10 second(s) but pauses during Specials, and causes all damaging Debuffs to last 1 second(s) longer."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit inflicts a Sting Debuff. This effect has a 50% chance to go through block.",
+          "Final Hit: Inflict a Taunt Debuff for 12 seconds, reducing Attack Rating by 15%.",
+          "If the Opponent fails to launch a Special Attack before the Taunt Debuff expires, Scorpion inflicts a non-stacking Suppression Debuff, reducing Combat Power Rate by 25% for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "All Sting Debuffs are Paused for the duration of the Special, and refreshed by the end of it.",
+          "Final Hit inflicts 2 Bursts of Sting Debuff Damage per Sting Debuff on the Opponent, and also inflicts a Petrify Debuff of 40% Potency that lasts for 20 seconds. The Petrify can be inflicted through Block.",
+          "The Potency of the Sting Debuff Bursts are increased by 10% for each stack of Torment Debuff converted during this Special."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict the Opponent with a Stun Debuff, stunning the Opponent for 3 seconds, and inflict 10 Torment Debuffs that last for 15 seconds.",
+          "While these Torments are active, charging Heavy grants a Fury Charge instead of Torment Charges.",
+          "Attacking from Heavy Charge grants a Fury Buff per charge, max 20 stacks, increasing Attack Rating by 159.8 for 20 second(s). While charging, Torment and Fury stacks are paused."
+        ]
+      }
     },
     "5+2": {
       "challenger_rating": 90,
@@ -312,7 +837,42 @@
         "If the Opponent is inflicted with Petrify and they attempt to Heal, Scorpion gains 12.21 to 100% of the Health denied from them. Each tick of this healing cannot exceed 20.85 health, this value scales with Base Health."
       ],
       "url_page": "https://auntm.ai/champions/scorpion/tier/5",
-      "champid": "scorpion+5+2"
+      "champid": "scorpion+5+2",
+      "Abilities": {
+        "PRE-FIGHT: STING DEBUFF - MAX 30 STACKS": [
+          "Sting Debuffs are Damage over Time Debuffs that Scorpion inflicts on Medium Attacks. His default Sting Debuff is a Poison Debuff, but he can choose between Shock and Rupture Debuffs in the Pre-Fight Screen.",
+          "Poison: inflict 31.68 Direct Damage Damage over 13 seconds and reducing health recovery by 30%.",
+          "Shock: inflict 73.92 Energy Damage over 13 seconds.",
+          "Rupture: inflict 73.92 Physical Damage over 13 seconds.",
+          "On fight entry Scorpion gains Immunity to the Damage over Time effects he did not select with this Pre-Fight, Shock and Rupture Immune by default.",
+          "If the Opponent triggers a Special Attack while suffering from his personal Sting Debuffs inflict a burst of 422.4 Sting Debuff Damage per stack of Sting Debuff."
+        ],
+        "SCORPION-SENSE": [
+          "When the Opponent Evades or at the end of their Special Attacks, Scorpion gains a non-stacking Scorpion-Sense Passive, granting 20% chance to Evade for 15 second(s). When Scorpion-Sense expires it goes on a cooldown for 10 seconds.",
+          "When an Evade would trigger, Scorpion inflicts a Sting Debuff. On a successful Evade, Scorpion counterattacks, consumes Scorpion-Sense and inflicts a burst of Sting Debuff Damage, but this damage scales with Base Attack only. Evade does not trigger while blocking.",
+          "As a defender Scorpion gains Scorpion-Sense every 15 second(s) unless the Attacker gains another 20 Combos by the end of this duration. Reaching the targeted Combo Count removes any existing Scorpion-Sense and triggers its cooldown."
+        ],
+        "TORMENT DEBUFF - WHILE HEAVY CHARGING": [
+          "Charging a Heavy Attack grants a Torment Charge, however holding the Heavy Attack grants a Torment Charge every 0.40 second(s)",
+          "Landing a Heavy Attack converts all Charges into Torment Debuffs. Landing Special Attack 1 or 2 while charging converts one extra Debuff per Charge.",
+          "Torment Debuffs lasts for 10 second(s) but pauses during Specials, and causes all damaging Debuffs to last 1 second(s) longer."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit inflicts a Sting Debuff. This effect has a 50% chance to go through block.",
+          "Final Hit: Inflict a Taunt Debuff for 12 seconds, reducing Attack Rating by 15%.",
+          "If the Opponent fails to launch a Special Attack before the Taunt Debuff expires, Scorpion inflicts a non-stacking Suppression Debuff, reducing Combat Power Rate by 25% for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "All Sting Debuffs are Paused for the duration of the Special, and refreshed by the end of it.",
+          "Final Hit inflicts 2 Bursts of Sting Debuff Damage per Sting Debuff on the Opponent, and also inflicts a Petrify Debuff of 40% Potency that lasts for 20 seconds. The Petrify can be inflicted through Block.",
+          "The Potency of the Sting Debuff Bursts are increased by 10% for each stack of Torment Debuff converted during this Special."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict the Opponent with a Stun Debuff, stunning the Opponent for 3 seconds, and inflict 10 Torment Debuffs that last for 15 seconds.",
+          "While these Torments are active, charging Heavy grants a Fury Charge instead of Torment Charges.",
+          "Attacking from Heavy Charge grants a Fury Buff per charge, max 20 stacks, increasing Attack Rating by 211.2 for 20 second(s). While charging, Torment and Fury stacks are paused."
+        ]
+      }
     },
     "5+3": {
       "challenger_rating": 100,
@@ -332,7 +892,42 @@
         "If the Opponent is inflicted with Petrify and they attempt to Heal, Scorpion gains 12.21 to 100% of the Health denied from them. Each tick of this healing cannot exceed 29.15 health, this value scales with Base Health."
       ],
       "url_page": "https://auntm.ai/champions/scorpion/tier/5",
-      "champid": "scorpion+5+3"
+      "champid": "scorpion+5+3",
+      "Abilities": {
+        "PRE-FIGHT: STING DEBUFF - MAX 30 STACKS": [
+          "Sting Debuffs are Damage over Time Debuffs that Scorpion inflicts on Medium Attacks. His default Sting Debuff is a Poison Debuff, but he can choose between Shock and Rupture Debuffs in the Pre-Fight Screen.",
+          "Poison: inflict 44.28 Direct Damage Damage over 13 seconds and reducing health recovery by 30%.",
+          "Shock: inflict 103.32 Energy Damage over 13 seconds.",
+          "Rupture: inflict 103.32 Physical Damage over 13 seconds.",
+          "On fight entry Scorpion gains Immunity to the Damage over Time effects he did not select with this Pre-Fight, Shock and Rupture Immune by default.",
+          "If the Opponent triggers a Special Attack while suffering from his personal Sting Debuffs inflict a burst of 590.4 Sting Debuff Damage per stack of Sting Debuff."
+        ],
+        "SCORPION-SENSE": [
+          "When the Opponent Evades or at the end of their Special Attacks, Scorpion gains a non-stacking Scorpion-Sense Passive, granting 20% chance to Evade for 15 second(s). When Scorpion-Sense expires it goes on a cooldown for 10 seconds.",
+          "When an Evade would trigger, Scorpion inflicts a Sting Debuff. On a successful Evade, Scorpion counterattacks, consumes Scorpion-Sense and inflicts a burst of Sting Debuff Damage, but this damage scales with Base Attack only. Evade does not trigger while blocking.",
+          "As a defender Scorpion gains Scorpion-Sense every 15 second(s) unless the Attacker gains another 20 Combos by the end of this duration. Reaching the targeted Combo Count removes any existing Scorpion-Sense and triggers its cooldown."
+        ],
+        "TORMENT DEBUFF - WHILE HEAVY CHARGING": [
+          "Charging a Heavy Attack grants a Torment Charge, however holding the Heavy Attack grants a Torment Charge every 0.40 second(s)",
+          "Landing a Heavy Attack converts all Charges into Torment Debuffs. Landing Special Attack 1 or 2 while charging converts one extra Debuff per Charge.",
+          "Torment Debuffs lasts for 10 second(s) but pauses during Specials, and causes all damaging Debuffs to last 1 second(s) longer."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit inflicts a Sting Debuff. This effect has a 50% chance to go through block.",
+          "Final Hit: Inflict a Taunt Debuff for 12 seconds, reducing Attack Rating by 15%.",
+          "If the Opponent fails to launch a Special Attack before the Taunt Debuff expires, Scorpion inflicts a non-stacking Suppression Debuff, reducing Combat Power Rate by 25% for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "All Sting Debuffs are Paused for the duration of the Special, and refreshed by the end of it.",
+          "Final Hit inflicts 2 Bursts of Sting Debuff Damage per Sting Debuff on the Opponent, and also inflicts a Petrify Debuff of 40% Potency that lasts for 20 seconds. The Petrify can be inflicted through Block.",
+          "The Potency of the Sting Debuff Bursts are increased by 10% for each stack of Torment Debuff converted during this Special."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict the Opponent with a Stun Debuff, stunning the Opponent for 3 seconds, and inflict 10 Torment Debuffs that last for 15 seconds.",
+          "While these Torments are active, charging Heavy grants a Fury Charge instead of Torment Charges.",
+          "Attacking from Heavy Charge grants a Fury Buff per charge, max 20 stacks, increasing Attack Rating by 295.2 for 20 second(s). While charging, Torment and Fury stacks are paused."
+        ]
+      }
     },
     "5+4": {
       "challenger_rating": 110,
@@ -352,7 +947,42 @@
         "If the Opponent is inflicted with Petrify and they attempt to Heal, Scorpion gains 12.21 to 100% of the Health denied from them. Each tick of this healing cannot exceed 39.29 health, this value scales with Base Health."
       ],
       "url_page": "https://auntm.ai/champions/scorpion/tier/5",
-      "champid": "scorpion+5+4"
+      "champid": "scorpion+5+4",
+      "Abilities": {
+        "PRE-FIGHT: STING DEBUFF - MAX 30 STACKS": [
+          "Sting Debuffs are Damage over Time Debuffs that Scorpion inflicts on Medium Attacks. His default Sting Debuff is a Poison Debuff, but he can choose between Shock and Rupture Debuffs in the Pre-Fight Screen.",
+          "Poison: inflict 59.67 Direct Damage Damage over 13 seconds and reducing health recovery by 30%.",
+          "Shock: inflict 139.23 Energy Damage over 13 seconds.",
+          "Rupture: inflict 139.23 Physical Damage over 13 seconds.",
+          "On fight entry Scorpion gains Immunity to the Damage over Time effects he did not select with this Pre-Fight, Shock and Rupture Immune by default.",
+          "If the Opponent triggers a Special Attack while suffering from his personal Sting Debuffs inflict a burst of 795.6 Sting Debuff Damage per stack of Sting Debuff."
+        ],
+        "SCORPION-SENSE": [
+          "When the Opponent Evades or at the end of their Special Attacks, Scorpion gains a non-stacking Scorpion-Sense Passive, granting 20% chance to Evade for 15 second(s). When Scorpion-Sense expires it goes on a cooldown for 10 seconds.",
+          "When an Evade would trigger, Scorpion inflicts a Sting Debuff. On a successful Evade, Scorpion counterattacks, consumes Scorpion-Sense and inflicts a burst of Sting Debuff Damage, but this damage scales with Base Attack only. Evade does not trigger while blocking.",
+          "As a defender Scorpion gains Scorpion-Sense every 15 second(s) unless the Attacker gains another 20 Combos by the end of this duration. Reaching the targeted Combo Count removes any existing Scorpion-Sense and triggers its cooldown."
+        ],
+        "TORMENT DEBUFF - WHILE HEAVY CHARGING": [
+          "Charging a Heavy Attack grants a Torment Charge, however holding the Heavy Attack grants a Torment Charge every 0.40 second(s)",
+          "Landing a Heavy Attack converts all Charges into Torment Debuffs. Landing Special Attack 1 or 2 while charging converts one extra Debuff per Charge.",
+          "Torment Debuffs lasts for 10 second(s) but pauses during Specials, and causes all damaging Debuffs to last 1 second(s) longer."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit inflicts a Sting Debuff. This effect has a 50% chance to go through block.",
+          "Final Hit: Inflict a Taunt Debuff for 12 seconds, reducing Attack Rating by 15%.",
+          "If the Opponent fails to launch a Special Attack before the Taunt Debuff expires, Scorpion inflicts a non-stacking Suppression Debuff, reducing Combat Power Rate by 25% for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "All Sting Debuffs are Paused for the duration of the Special, and refreshed by the end of it.",
+          "Final Hit inflicts 2 Bursts of Sting Debuff Damage per Sting Debuff on the Opponent, and also inflicts a Petrify Debuff of 40% Potency that lasts for 20 seconds. The Petrify can be inflicted through Block.",
+          "The Potency of the Sting Debuff Bursts are increased by 10% for each stack of Torment Debuff converted during this Special."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict the Opponent with a Stun Debuff, stunning the Opponent for 3 seconds, and inflict 10 Torment Debuffs that last for 15 seconds.",
+          "While these Torments are active, charging Heavy grants a Fury Charge instead of Torment Charges.",
+          "Attacking from Heavy Charge grants a Fury Buff per charge, max 20 stacks, increasing Attack Rating by 397.8 for 20 second(s). While charging, Torment and Fury stacks are paused."
+        ]
+      }
     },
     "5+5": {
       "challenger_rating": 120,
@@ -372,7 +1002,42 @@
         "If the Opponent is inflicted with Petrify and they attempt to Heal, Scorpion gains 12.21 to 100% of the Health denied from them. Each tick of this healing cannot exceed 53.04 health, this value scales with Base Health."
       ],
       "url_page": "https://auntm.ai/champions/scorpion/tier/5",
-      "champid": "scorpion+5+5"
+      "champid": "scorpion+5+5",
+      "Abilities": {
+        "PRE-FIGHT: STING DEBUFF - MAX 30 STACKS": [
+          "Sting Debuffs are Damage over Time Debuffs that Scorpion inflicts on Medium Attacks. His default Sting Debuff is a Poison Debuff, but he can choose between Shock and Rupture Debuffs in the Pre-Fight Screen.",
+          "Poison: inflict 80.55 Direct Damage Damage over 13 seconds and reducing health recovery by 30%.",
+          "Shock: inflict 187.95 Energy Damage over 13 seconds.",
+          "Rupture: inflict 187.95 Physical Damage over 13 seconds.",
+          "On fight entry Scorpion gains Immunity to the Damage over Time effects he did not select with this Pre-Fight, Shock and Rupture Immune by default.",
+          "If the Opponent triggers a Special Attack while suffering from his personal Sting Debuffs inflict a burst of 1074 Sting Debuff Damage per stack of Sting Debuff."
+        ],
+        "SCORPION-SENSE": [
+          "When the Opponent Evades or at the end of their Special Attacks, Scorpion gains a non-stacking Scorpion-Sense Passive, granting 20% chance to Evade for 15 second(s). When Scorpion-Sense expires it goes on a cooldown for 10 seconds.",
+          "When an Evade would trigger, Scorpion inflicts a Sting Debuff. On a successful Evade, Scorpion counterattacks, consumes Scorpion-Sense and inflicts a burst of Sting Debuff Damage, but this damage scales with Base Attack only. Evade does not trigger while blocking.",
+          "As a defender Scorpion gains Scorpion-Sense every 15 second(s) unless the Attacker gains another 20 Combos by the end of this duration. Reaching the targeted Combo Count removes any existing Scorpion-Sense and triggers its cooldown."
+        ],
+        "TORMENT DEBUFF - WHILE HEAVY CHARGING": [
+          "Charging a Heavy Attack grants a Torment Charge, however holding the Heavy Attack grants a Torment Charge every 0.40 second(s)",
+          "Landing a Heavy Attack converts all Charges into Torment Debuffs. Landing Special Attack 1 or 2 while charging converts one extra Debuff per Charge.",
+          "Torment Debuffs lasts for 10 second(s) but pauses during Specials, and causes all damaging Debuffs to last 1 second(s) longer."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit inflicts a Sting Debuff. This effect has a 50% chance to go through block.",
+          "Final Hit: Inflict a Taunt Debuff for 12 seconds, reducing Attack Rating by 15%.",
+          "If the Opponent fails to launch a Special Attack before the Taunt Debuff expires, Scorpion inflicts a non-stacking Suppression Debuff, reducing Combat Power Rate by 25% for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "All Sting Debuffs are Paused for the duration of the Special, and refreshed by the end of it.",
+          "Final Hit inflicts 2 Bursts of Sting Debuff Damage per Sting Debuff on the Opponent, and also inflicts a Petrify Debuff of 40% Potency that lasts for 20 seconds. The Petrify can be inflicted through Block.",
+          "The Potency of the Sting Debuff Bursts are increased by 10% for each stack of Torment Debuff converted during this Special."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict the Opponent with a Stun Debuff, stunning the Opponent for 3 seconds, and inflict 10 Torment Debuffs that last for 15 seconds.",
+          "While these Torments are active, charging Heavy grants a Fury Charge instead of Torment Charges.",
+          "Attacking from Heavy Charge grants a Fury Buff per charge, max 20 stacks, increasing Attack Rating by 537 for 20 second(s). While charging, Torment and Fury stacks are paused."
+        ]
+      }
     },
     "6+1": {
       "challenger_rating": 110,
@@ -392,7 +1057,42 @@
         "If the Opponent is inflicted with Petrify and they attempt to Heal, Scorpion gains 12.21 to 100% of the Health denied from them. Each tick of this healing cannot exceed 41.71 health, this value scales with Base Health."
       ],
       "url_page": "https://auntm.ai/champions/scorpion/tier/6",
-      "champid": "scorpion+6+1"
+      "champid": "scorpion+6+1",
+      "Abilities": {
+        "PRE-FIGHT: STING DEBUFF - MAX 30 STACKS": [
+          "Sting Debuffs are Damage over Time Debuffs that Scorpion inflicts on Medium Attacks. His default Sting Debuff is a Poison Debuff, but he can choose between Shock and Rupture Debuffs in the Pre-Fight Screen.",
+          "Poison: inflict 63.33 Direct Damage Damage over 13 seconds and reducing health recovery by 30%.",
+          "Shock: inflict 147.77 Energy Damage over 13 seconds.",
+          "Rupture: inflict 147.77 Physical Damage over 13 seconds.",
+          "On fight entry Scorpion gains Immunity to the Damage over Time effects he did not select with this Pre-Fight, Shock and Rupture Immune by default.",
+          "If the Opponent triggers a Special Attack while suffering from his personal Sting Debuffs inflict a burst of 844.4 Sting Debuff Damage per stack of Sting Debuff."
+        ],
+        "SCORPION-SENSE": [
+          "When the Opponent Evades or at the end of their Special Attacks, Scorpion gains a non-stacking Scorpion-Sense Passive, granting 20% chance to Evade for 15 second(s). When Scorpion-Sense expires it goes on a cooldown for 10 seconds.",
+          "When an Evade would trigger, Scorpion inflicts a Sting Debuff. On a successful Evade, Scorpion counterattacks, consumes Scorpion-Sense and inflicts a burst of Sting Debuff Damage, but this damage scales with Base Attack only. Evade does not trigger while blocking.",
+          "As a defender Scorpion gains Scorpion-Sense every 15 second(s) unless the Attacker gains another 20 Combos by the end of this duration. Reaching the targeted Combo Count removes any existing Scorpion-Sense and triggers its cooldown."
+        ],
+        "TORMENT DEBUFF - WHILE HEAVY CHARGING": [
+          "Charging a Heavy Attack grants a Torment Charge, however holding the Heavy Attack grants a Torment Charge every 0.40 second(s)",
+          "Landing a Heavy Attack converts all Charges into Torment Debuffs. Landing Special Attack 1 or 2 while charging converts one extra Debuff per Charge.",
+          "Torment Debuffs lasts for 10 second(s) but pauses during Specials, and causes all damaging Debuffs to last 1 second(s) longer."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit inflicts a Sting Debuff. This effect has a 50% chance to go through block.",
+          "Final Hit: Inflict a Taunt Debuff for 12 seconds, reducing Attack Rating by 15%.",
+          "If the Opponent fails to launch a Special Attack before the Taunt Debuff expires, Scorpion inflicts a non-stacking Suppression Debuff, reducing Combat Power Rate by 25% for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "All Sting Debuffs are Paused for the duration of the Special, and refreshed by the end of it.",
+          "Final Hit inflicts 2 Bursts of Sting Debuff Damage per Sting Debuff on the Opponent, and also inflicts a Petrify Debuff of 40% Potency that lasts for 20 seconds. The Petrify can be inflicted through Block.",
+          "The Potency of the Sting Debuff Bursts are increased by 10% for each stack of Torment Debuff converted during this Special."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict the Opponent with a Stun Debuff, stunning the Opponent for 3 seconds, and inflict 10 Torment Debuffs that last for 15 seconds.",
+          "While these Torments are active, charging Heavy grants a Fury Charge instead of Torment Charges.",
+          "Attacking from Heavy Charge grants a Fury Buff per charge, max 20 stacks, increasing Attack Rating by 422.2 for 20 second(s). While charging, Torment and Fury stacks are paused."
+        ]
+      }
     },
     "6+2": {
       "challenger_rating": 120,
@@ -412,7 +1112,42 @@
         "If the Opponent is inflicted with Petrify and they attempt to Heal, Scorpion gains 12.21 to 100% of the Health denied from them. Each tick of this healing cannot exceed 57.61 health, this value scales with Base Health."
       ],
       "url_page": "https://auntm.ai/champions/scorpion/tier/6",
-      "champid": "scorpion+6+2"
+      "champid": "scorpion+6+2",
+      "Abilities": {
+        "PRE-FIGHT: STING DEBUFF - MAX 30 STACKS": [
+          "Sting Debuffs are Damage over Time Debuffs that Scorpion inflicts on Medium Attacks. His default Sting Debuff is a Poison Debuff, but he can choose between Shock and Rupture Debuffs in the Pre-Fight Screen.",
+          "Poison: inflict 87.48 Direct Damage Damage over 13 seconds and reducing health recovery by 30%.",
+          "Shock: inflict 204.12 Energy Damage over 13 seconds.",
+          "Rupture: inflict 204.12 Physical Damage over 13 seconds.",
+          "On fight entry Scorpion gains Immunity to the Damage over Time effects he did not select with this Pre-Fight, Shock and Rupture Immune by default.",
+          "If the Opponent triggers a Special Attack while suffering from his personal Sting Debuffs inflict a burst of 1166.4 Sting Debuff Damage per stack of Sting Debuff."
+        ],
+        "SCORPION-SENSE": [
+          "When the Opponent Evades or at the end of their Special Attacks, Scorpion gains a non-stacking Scorpion-Sense Passive, granting 20% chance to Evade for 15 second(s). When Scorpion-Sense expires it goes on a cooldown for 10 seconds.",
+          "When an Evade would trigger, Scorpion inflicts a Sting Debuff. On a successful Evade, Scorpion counterattacks, consumes Scorpion-Sense and inflicts a burst of Sting Debuff Damage, but this damage scales with Base Attack only. Evade does not trigger while blocking.",
+          "As a defender Scorpion gains Scorpion-Sense every 15 second(s) unless the Attacker gains another 20 Combos by the end of this duration. Reaching the targeted Combo Count removes any existing Scorpion-Sense and triggers its cooldown."
+        ],
+        "TORMENT DEBUFF - WHILE HEAVY CHARGING": [
+          "Charging a Heavy Attack grants a Torment Charge, however holding the Heavy Attack grants a Torment Charge every 0.40 second(s)",
+          "Landing a Heavy Attack converts all Charges into Torment Debuffs. Landing Special Attack 1 or 2 while charging converts one extra Debuff per Charge.",
+          "Torment Debuffs lasts for 10 second(s) but pauses during Specials, and causes all damaging Debuffs to last 1 second(s) longer."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit inflicts a Sting Debuff. This effect has a 50% chance to go through block.",
+          "Final Hit: Inflict a Taunt Debuff for 12 seconds, reducing Attack Rating by 15%.",
+          "If the Opponent fails to launch a Special Attack before the Taunt Debuff expires, Scorpion inflicts a non-stacking Suppression Debuff, reducing Combat Power Rate by 25% for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "All Sting Debuffs are Paused for the duration of the Special, and refreshed by the end of it.",
+          "Final Hit inflicts 2 Bursts of Sting Debuff Damage per Sting Debuff on the Opponent, and also inflicts a Petrify Debuff of 40% Potency that lasts for 20 seconds. The Petrify can be inflicted through Block.",
+          "The Potency of the Sting Debuff Bursts are increased by 10% for each stack of Torment Debuff converted during this Special."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict the Opponent with a Stun Debuff, stunning the Opponent for 3 seconds, and inflict 10 Torment Debuffs that last for 15 seconds.",
+          "While these Torments are active, charging Heavy grants a Fury Charge instead of Torment Charges.",
+          "Attacking from Heavy Charge grants a Fury Buff per charge, max 20 stacks, increasing Attack Rating by 583.2 for 20 second(s). While charging, Torment and Fury stacks are paused."
+        ]
+      }
     },
     "6+3": {
       "challenger_rating": 130,
@@ -432,7 +1167,42 @@
         "If the Opponent is inflicted with Petrify and they attempt to Heal, Scorpion gains 12.21 to 100% of the Health denied from them. Each tick of this healing cannot exceed 68.35 health, this value scales with Base Health."
       ],
       "url_page": "https://auntm.ai/champions/scorpion/tier/6",
-      "champid": "scorpion+6+3"
+      "champid": "scorpion+6+3",
+      "Abilities": {
+        "PRE-FIGHT: STING DEBUFF - MAX 30 STACKS": [
+          "Sting Debuffs are Damage over Time Debuffs that Scorpion inflicts on Medium Attacks. His default Sting Debuff is a Poison Debuff, but he can choose between Shock and Rupture Debuffs in the Pre-Fight Screen.",
+          "Poison: inflict 103.77 Direct Damage Damage over 13 seconds and reducing health recovery by 30%.",
+          "Shock: inflict 242.13 Energy Damage over 13 seconds.",
+          "Rupture: inflict 242.13 Physical Damage over 13 seconds.",
+          "On fight entry Scorpion gains Immunity to the Damage over Time effects he did not select with this Pre-Fight, Shock and Rupture Immune by default.",
+          "If the Opponent triggers a Special Attack while suffering from his personal Sting Debuffs inflict a burst of 1383.6 Sting Debuff Damage per stack of Sting Debuff."
+        ],
+        "SCORPION-SENSE": [
+          "When the Opponent Evades or at the end of their Special Attacks, Scorpion gains a non-stacking Scorpion-Sense Passive, granting 20% chance to Evade for 15 second(s). When Scorpion-Sense expires it goes on a cooldown for 10 seconds.",
+          "When an Evade would trigger, Scorpion inflicts a Sting Debuff. On a successful Evade, Scorpion counterattacks, consumes Scorpion-Sense and inflicts a burst of Sting Debuff Damage, but this damage scales with Base Attack only. Evade does not trigger while blocking.",
+          "As a defender Scorpion gains Scorpion-Sense every 15 second(s) unless the Attacker gains another 20 Combos by the end of this duration. Reaching the targeted Combo Count removes any existing Scorpion-Sense and triggers its cooldown."
+        ],
+        "TORMENT DEBUFF - WHILE HEAVY CHARGING": [
+          "Charging a Heavy Attack grants a Torment Charge, however holding the Heavy Attack grants a Torment Charge every 0.40 second(s)",
+          "Landing a Heavy Attack converts all Charges into Torment Debuffs. Landing Special Attack 1 or 2 while charging converts one extra Debuff per Charge.",
+          "Torment Debuffs lasts for 10 second(s) but pauses during Specials, and causes all damaging Debuffs to last 1 second(s) longer."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit inflicts a Sting Debuff. This effect has a 50% chance to go through block.",
+          "Final Hit: Inflict a Taunt Debuff for 12 seconds, reducing Attack Rating by 15%.",
+          "If the Opponent fails to launch a Special Attack before the Taunt Debuff expires, Scorpion inflicts a non-stacking Suppression Debuff, reducing Combat Power Rate by 25% for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "All Sting Debuffs are Paused for the duration of the Special, and refreshed by the end of it.",
+          "Final Hit inflicts 2 Bursts of Sting Debuff Damage per Sting Debuff on the Opponent, and also inflicts a Petrify Debuff of 40% Potency that lasts for 20 seconds. The Petrify can be inflicted through Block.",
+          "The Potency of the Sting Debuff Bursts are increased by 10% for each stack of Torment Debuff converted during this Special."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict the Opponent with a Stun Debuff, stunning the Opponent for 3 seconds, and inflict 10 Torment Debuffs that last for 15 seconds.",
+          "While these Torments are active, charging Heavy grants a Fury Charge instead of Torment Charges.",
+          "Attacking from Heavy Charge grants a Fury Buff per charge, max 20 stacks, increasing Attack Rating by 691.8 for 20 second(s). While charging, Torment and Fury stacks are paused."
+        ]
+      }
     },
     "6+4": {
       "challenger_rating": 140,
@@ -452,7 +1222,42 @@
         "If the Opponent is inflicted with Petrify and they attempt to Heal, Scorpion gains 12.21 to 100% of the Health denied from them. Each tick of this healing cannot exceed 78.21 health, this value scales with Base Health."
       ],
       "url_page": "https://auntm.ai/champions/scorpion/tier/6",
-      "champid": "scorpion+6+4"
+      "champid": "scorpion+6+4",
+      "Abilities": {
+        "PRE-FIGHT: STING DEBUFF - MAX 30 STACKS": [
+          "Sting Debuffs are Damage over Time Debuffs that Scorpion inflicts on Medium Attacks. His default Sting Debuff is a Poison Debuff, but he can choose between Shock and Rupture Debuffs in the Pre-Fight Screen.",
+          "Poison: inflict 118.77 Direct Damage Damage over 13 seconds and reducing health recovery by 30%.",
+          "Shock: inflict 277.13 Energy Damage over 13 seconds.",
+          "Rupture: inflict 277.13 Physical Damage over 13 seconds.",
+          "On fight entry Scorpion gains Immunity to the Damage over Time effects he did not select with this Pre-Fight, Shock and Rupture Immune by default.",
+          "If the Opponent triggers a Special Attack while suffering from his personal Sting Debuffs inflict a burst of 1583.6 Sting Debuff Damage per stack of Sting Debuff."
+        ],
+        "SCORPION-SENSE": [
+          "When the Opponent Evades or at the end of their Special Attacks, Scorpion gains a non-stacking Scorpion-Sense Passive, granting 20% chance to Evade for 15 second(s). When Scorpion-Sense expires it goes on a cooldown for 10 seconds.",
+          "When an Evade would trigger, Scorpion inflicts a Sting Debuff. On a successful Evade, Scorpion counterattacks, consumes Scorpion-Sense and inflicts a burst of Sting Debuff Damage, but this damage scales with Base Attack only. Evade does not trigger while blocking.",
+          "As a defender Scorpion gains Scorpion-Sense every 15 second(s) unless the Attacker gains another 20 Combos by the end of this duration. Reaching the targeted Combo Count removes any existing Scorpion-Sense and triggers its cooldown."
+        ],
+        "TORMENT DEBUFF - WHILE HEAVY CHARGING": [
+          "Charging a Heavy Attack grants a Torment Charge, however holding the Heavy Attack grants a Torment Charge every 0.40 second(s)",
+          "Landing a Heavy Attack converts all Charges into Torment Debuffs. Landing Special Attack 1 or 2 while charging converts one extra Debuff per Charge.",
+          "Torment Debuffs lasts for 10 second(s) but pauses during Specials, and causes all damaging Debuffs to last 1 second(s) longer."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit inflicts a Sting Debuff. This effect has a 50% chance to go through block.",
+          "Final Hit: Inflict a Taunt Debuff for 12 seconds, reducing Attack Rating by 15%.",
+          "If the Opponent fails to launch a Special Attack before the Taunt Debuff expires, Scorpion inflicts a non-stacking Suppression Debuff, reducing Combat Power Rate by 25% for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "All Sting Debuffs are Paused for the duration of the Special, and refreshed by the end of it.",
+          "Final Hit inflicts 2 Bursts of Sting Debuff Damage per Sting Debuff on the Opponent, and also inflicts a Petrify Debuff of 40% Potency that lasts for 20 seconds. The Petrify can be inflicted through Block.",
+          "The Potency of the Sting Debuff Bursts are increased by 10% for each stack of Torment Debuff converted during this Special."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict the Opponent with a Stun Debuff, stunning the Opponent for 3 seconds, and inflict 10 Torment Debuffs that last for 15 seconds.",
+          "While these Torments are active, charging Heavy grants a Fury Charge instead of Torment Charges.",
+          "Attacking from Heavy Charge grants a Fury Buff per charge, max 20 stacks, increasing Attack Rating by 791.8 for 20 second(s). While charging, Torment and Fury stacks are paused."
+        ]
+      }
     }
   },
   "name": "SCORPION",
