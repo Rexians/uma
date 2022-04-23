@@ -1,1471 +1,1534 @@
 {
-  "champid": "magneto",
-  "data": {
-    "2+1": {
-      "rank": 1,
-      "prestige": "272",
-      "hp": "1121",
-      "attack": "79",
-      "crit_rate": "478",
-      "crit_dmge": "563",
-      "armor": "33",
-      "block_prof": "2845",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 448.4 to 159.94 Health from any single damage source, excluding damage from a Special 3 Attack.",
-        "He also gains +84.21 to 130.24 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
-        "Heavy Attacks now deal a burst of 15.8 to 78.96 Energy Damage."
-      ],
-      "url_page": "https://auntm.ai/champions/magneto/tier/2",
-      "champid": "magneto+2+1",
-      "challenger_rating": 20,
-      "Abilities": {
-        "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
-          "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
-          "-70% Ability Accuracy & -105% Regeneration rate.",
-          "Magneto\u2019s abilities gain special bonuses."
-        ],
-        "MUTATION - ALWAYS ACTIVE": [
-          "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
-          "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
-          "+50% Perfect Block Chance.",
-          "+23.7 Attack rating.",
-          "Attacks cannot be Auto-Blocked or Miss."
-        ],
-        "IGNORE CLASS DISADVANTAGE": [
-          "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
-        ],
-        "KNOCK THE OPPONENT DOWN": [
-          "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
-          "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
-        ],
-        "ENHANCED BLEED DEBUFFS": [
-          "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 55.3 Physical damage when they end.",
-          "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 400 for 12 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to inflict Bleed, dealing 59.25 Direct Damage over 6 seconds.",
-          "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
-          "Inflict an additional Bleed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1066.67 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
-          "This Debuff triggers when the Special Attack is launched."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +59.25 Attack.",
-          "100% chance to gain a 30 second Fury Buff, granting +59.25 Attack.",
-          "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 43.45 direct damage over 8 seconds."
-        ]
-      }
+    "champid": "magneto",
+    "data": {
+        "2+1": {
+            "rank": 1,
+            "prestige": "272",
+            "hp": "1121",
+            "attack": "79",
+            "crit_rate": "478",
+            "crit_dmge": "563",
+            "armor": "33",
+            "block_prof": "2845",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 448.4 to 159.94 Health from any single damage source, excluding damage from a Special 3 Attack.",
+                "He also gains +84.21 to 130.24 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
+                "Heavy Attacks now deal a burst of 15.8 to 78.96 Energy Damage."
+            ],
+            "url_page": "https://auntm.ai/champions/magneto/tier/2",
+            "champid": "magneto+2+1",
+            "challenger_rating": 20,
+            "Abilities": {
+                "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
+                    "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
+                    "-70% Ability Accuracy & -105% Regeneration rate.",
+                    "Magneto\u2019s abilities gain special bonuses."
+                ],
+                "MUTATION - ALWAYS ACTIVE": [
+                    "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
+                    "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
+                    "+50% Perfect Block Chance.",
+                    "+23.7 Attack rating.",
+                    "Attacks cannot be Auto-Blocked or Miss."
+                ],
+                "IGNORE CLASS DISADVANTAGE": [
+                    "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
+                ],
+                "KNOCK THE OPPONENT DOWN": [
+                    "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
+                    "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
+                ],
+                "ENHANCED BLEED DEBUFFS": [
+                    "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 55.3 Physical damage when they end.",
+                    "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 400 for 12 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to inflict Bleed, dealing 59.25 Direct Damage over 6 seconds.",
+                    "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
+                    "Inflict an additional Bleed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1066.67 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
+                    "This Debuff triggers when the Special Attack is launched."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +59.25 Attack.",
+                    "100% chance to gain a 30 second Fury Buff, granting +59.25 Attack.",
+                    "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 43.45 direct damage over 8 seconds."
+                ]
+            }
+        },
+        "2+2": {
+            "rank": 2,
+            "prestige": "360",
+            "hp": "1481",
+            "attack": "104",
+            "crit_rate": "493",
+            "crit_dmge": "580",
+            "armor": "52",
+            "block_prof": "2934",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 592.4 to 211.3 Health from any single damage source, excluding damage from a Special 3 Attack.",
+                "He also gains +86.84 to 134.31 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
+                "Heavy Attacks now deal a burst of 20.8 to 103.95 Energy Damage."
+            ],
+            "url_page": "https://auntm.ai/champions/magneto/tier/2",
+            "champid": "magneto+2+2",
+            "challenger_rating": 30,
+            "Abilities": {
+                "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
+                    "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
+                    "-70% Ability Accuracy & -105% Regeneration rate.",
+                    "Magneto\u2019s abilities gain special bonuses."
+                ],
+                "MUTATION - ALWAYS ACTIVE": [
+                    "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
+                    "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
+                    "+50% Perfect Block Chance.",
+                    "+31.2 Attack rating.",
+                    "Attacks cannot be Auto-Blocked or Miss."
+                ],
+                "IGNORE CLASS DISADVANTAGE": [
+                    "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
+                ],
+                "KNOCK THE OPPONENT DOWN": [
+                    "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
+                    "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
+                ],
+                "ENHANCED BLEED DEBUFFS": [
+                    "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 72.8 Physical damage when they end.",
+                    "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 412.5 for 12 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to inflict Bleed, dealing 78 Direct Damage over 6 seconds.",
+                    "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
+                    "Inflict an additional Bleed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1100 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
+                    "This Debuff triggers when the Special Attack is launched."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +78 Attack.",
+                    "100% chance to gain a 30 second Fury Buff, granting +78 Attack.",
+                    "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 57.2 direct damage over 8 seconds."
+                ]
+            }
+        },
+        "2+3": {
+            "rank": 3,
+            "prestige": "569",
+            "hp": "2350",
+            "attack": "164",
+            "crit_rate": "508",
+            "crit_dmge": "598",
+            "armor": "71",
+            "block_prof": "3023",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 940 to 335.28 Health from any single damage source, excluding damage from a Special 3 Attack.",
+                "He also gains +89.47 to 138.38 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
+                "Heavy Attacks now deal a burst of 32.8 to 163.93 Energy Damage."
+            ],
+            "url_page": "https://auntm.ai/champions/magneto/tier/2",
+            "champid": "magneto+2+3",
+            "challenger_rating": 40,
+            "Abilities": {
+                "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
+                    "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
+                    "-70% Ability Accuracy & -105% Regeneration rate.",
+                    "Magneto\u2019s abilities gain special bonuses."
+                ],
+                "MUTATION - ALWAYS ACTIVE": [
+                    "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
+                    "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
+                    "+50% Perfect Block Chance.",
+                    "+49.2 Attack rating.",
+                    "Attacks cannot be Auto-Blocked or Miss."
+                ],
+                "IGNORE CLASS DISADVANTAGE": [
+                    "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
+                ],
+                "KNOCK THE OPPONENT DOWN": [
+                    "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
+                    "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
+                ],
+                "ENHANCED BLEED DEBUFFS": [
+                    "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 114.8 Physical damage when they end.",
+                    "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 425 for 12 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to inflict Bleed, dealing 123 Direct Damage over 6 seconds.",
+                    "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
+                    "Inflict an additional Bleed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1133.33 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
+                    "This Debuff triggers when the Special Attack is launched."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +123 Attack.",
+                    "100% chance to gain a 30 second Fury Buff, granting +123 Attack.",
+                    "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 90.2 direct damage over 8 seconds."
+                ]
+            }
+        },
+        "3+1": {
+            "rank": 1,
+            "prestige": "495",
+            "hp": "2032",
+            "attack": "142",
+            "crit_rate": "508",
+            "crit_dmge": "598",
+            "armor": "71",
+            "block_prof": "3023",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 812.8 to 289.91 Health from any single damage source, excluding damage from a Special 3 Attack.",
+                "He also gains +89.47 to 138.38 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
+                "Heavy Attacks now deal a burst of 28.4 to 141.94 Energy Damage."
+            ],
+            "url_page": "https://auntm.ai/champions/magneto/tier/3",
+            "champid": "magneto+3+1",
+            "challenger_rating": 40,
+            "Abilities": {
+                "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
+                    "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
+                    "-70% Ability Accuracy & -105% Regeneration rate.",
+                    "Magneto\u2019s abilities gain special bonuses."
+                ],
+                "MUTATION - ALWAYS ACTIVE": [
+                    "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
+                    "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
+                    "+50% Perfect Block Chance.",
+                    "+42.6 Attack rating.",
+                    "Attacks cannot be Auto-Blocked or Miss."
+                ],
+                "IGNORE CLASS DISADVANTAGE": [
+                    "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
+                ],
+                "KNOCK THE OPPONENT DOWN": [
+                    "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
+                    "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
+                ],
+                "ENHANCED BLEED DEBUFFS": [
+                    "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 99.4 Physical damage when they end.",
+                    "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 425 for 12 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to inflict Bleed, dealing 106.5 Direct Damage over 6 seconds.",
+                    "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
+                    "Inflict an additional Bleed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1133.33 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
+                    "This Debuff triggers when the Special Attack is launched."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +106.5 Attack.",
+                    "100% chance to gain a 30 second Fury Buff, granting +106.5 Attack.",
+                    "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 78.1 direct damage over 8 seconds."
+                ]
+            }
+        },
+        "3+2": {
+            "rank": 2,
+            "prestige": "789",
+            "hp": "3251",
+            "attack": "227",
+            "crit_rate": "523",
+            "crit_dmge": "615",
+            "armor": "93",
+            "block_prof": "3112",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 1300.4 to 463.83 Health from any single damage source, excluding damage from a Special 3 Attack.",
+                "He also gains +92.11 to 142.45 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
+                "Heavy Attacks now deal a burst of 45.4 to 226.9 Energy Damage."
+            ],
+            "url_page": "https://auntm.ai/champions/magneto/tier/3",
+            "champid": "magneto+3+2",
+            "challenger_rating": 50,
+            "Abilities": {
+                "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
+                    "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
+                    "-70% Ability Accuracy & -105% Regeneration rate.",
+                    "Magneto\u2019s abilities gain special bonuses."
+                ],
+                "MUTATION - ALWAYS ACTIVE": [
+                    "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
+                    "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
+                    "+50% Perfect Block Chance.",
+                    "+68.1 Attack rating.",
+                    "Attacks cannot be Auto-Blocked or Miss."
+                ],
+                "IGNORE CLASS DISADVANTAGE": [
+                    "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
+                ],
+                "KNOCK THE OPPONENT DOWN": [
+                    "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
+                    "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
+                ],
+                "ENHANCED BLEED DEBUFFS": [
+                    "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 158.9 Physical damage when they end.",
+                    "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 437.5 for 12 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to inflict Bleed, dealing 170.25 Direct Damage over 6 seconds.",
+                    "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
+                    "Inflict an additional Bleed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1166.67 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
+                    "This Debuff triggers when the Special Attack is launched."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +170.25 Attack.",
+                    "100% chance to gain a 30 second Fury Buff, granting +170.25 Attack.",
+                    "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 124.85 direct damage over 8 seconds."
+                ]
+            }
+        },
+        "3+3": {
+            "rank": 3,
+            "prestige": "1103",
+            "hp": "4548",
+            "attack": "317",
+            "crit_rate": "538",
+            "crit_dmge": "633",
+            "armor": "115",
+            "block_prof": "3200",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 1819.2 to 648.88 Health from any single damage source, excluding damage from a Special 3 Attack.",
+                "He also gains +94.74 to 146.52 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
+                "Heavy Attacks now deal a burst of 63.4 to 316.86 Energy Damage."
+            ],
+            "url_page": "https://auntm.ai/champions/magneto/tier/3",
+            "champid": "magneto+3+3",
+            "challenger_rating": 60,
+            "Abilities": {
+                "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
+                    "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
+                    "-70% Ability Accuracy & -105% Regeneration rate.",
+                    "Magneto\u2019s abilities gain special bonuses."
+                ],
+                "MUTATION - ALWAYS ACTIVE": [
+                    "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
+                    "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
+                    "+50% Perfect Block Chance.",
+                    "+95.1 Attack rating.",
+                    "Attacks cannot be Auto-Blocked or Miss."
+                ],
+                "IGNORE CLASS DISADVANTAGE": [
+                    "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
+                ],
+                "KNOCK THE OPPONENT DOWN": [
+                    "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
+                    "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
+                ],
+                "ENHANCED BLEED DEBUFFS": [
+                    "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 221.9 Physical damage when they end.",
+                    "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 450 for 12 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to inflict Bleed, dealing 237.75 Direct Damage over 6 seconds.",
+                    "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
+                    "Inflict an additional Bleed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1200 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
+                    "This Debuff triggers when the Special Attack is launched."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +237.75 Attack.",
+                    "100% chance to gain a 30 second Fury Buff, granting +237.75 Attack.",
+                    "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 174.35 direct damage over 8 seconds."
+                ]
+            }
+        },
+        "3+4": {
+            "rank": 4,
+            "prestige": "1521",
+            "hp": "6245",
+            "attack": "436",
+            "crit_rate": "553",
+            "crit_dmge": "650",
+            "armor": "140",
+            "block_prof": "3289",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 2498 to 890.99 Health from any single damage source, excluding damage from a Special 3 Attack.",
+                "He also gains +97.37 to 150.59 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
+                "Heavy Attacks now deal a burst of 87.2 to 435.8 Energy Damage."
+            ],
+            "url_page": "https://auntm.ai/champions/magneto/tier/3",
+            "champid": "magneto+3+4",
+            "challenger_rating": 70,
+            "Abilities": {
+                "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
+                    "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
+                    "-70% Ability Accuracy & -105% Regeneration rate.",
+                    "Magneto\u2019s abilities gain special bonuses."
+                ],
+                "MUTATION - ALWAYS ACTIVE": [
+                    "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
+                    "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
+                    "+50% Perfect Block Chance.",
+                    "+130.8 Attack rating.",
+                    "Attacks cannot be Auto-Blocked or Miss."
+                ],
+                "IGNORE CLASS DISADVANTAGE": [
+                    "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
+                ],
+                "KNOCK THE OPPONENT DOWN": [
+                    "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
+                    "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
+                ],
+                "ENHANCED BLEED DEBUFFS": [
+                    "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 305.2 Physical damage when they end.",
+                    "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 462.5 for 12 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to inflict Bleed, dealing 327 Direct Damage over 6 seconds.",
+                    "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
+                    "Inflict an additional Bleed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1233.33 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
+                    "This Debuff triggers when the Special Attack is launched."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +327 Attack.",
+                    "100% chance to gain a 30 second Fury Buff, granting +327 Attack.",
+                    "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 239.8 direct damage over 8 seconds."
+                ]
+            }
+        },
+        "4+1": {
+            "rank": 1,
+            "prestige": "1106",
+            "hp": "4545",
+            "attack": "317",
+            "crit_rate": "538",
+            "crit_dmge": "633",
+            "armor": "157",
+            "block_prof": "3200",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 1818 to 648.45 Health from any single damage source, excluding damage from a Special 3 Attack.",
+                "He also gains +94.74 to 146.52 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
+                "Heavy Attacks now deal a burst of 63.4 to 316.86 Energy Damage."
+            ],
+            "url_page": "https://auntm.ai/champions/magneto/tier/4",
+            "champid": "magneto+4+1",
+            "challenger_rating": 60,
+            "Abilities": {
+                "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
+                    "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
+                    "-70% Ability Accuracy & -105% Regeneration rate.",
+                    "Magneto\u2019s abilities gain special bonuses."
+                ],
+                "MUTATION - ALWAYS ACTIVE": [
+                    "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
+                    "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
+                    "+50% Perfect Block Chance.",
+                    "+95.1 Attack rating.",
+                    "Attacks cannot be Auto-Blocked or Miss."
+                ],
+                "IGNORE CLASS DISADVANTAGE": [
+                    "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
+                ],
+                "KNOCK THE OPPONENT DOWN": [
+                    "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
+                    "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
+                ],
+                "ENHANCED BLEED DEBUFFS": [
+                    "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 221.9 Physical damage when they end.",
+                    "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 450 for 12 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to inflict Bleed, dealing 237.75 Direct Damage over 6 seconds.",
+                    "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
+                    "Inflict an additional Bleed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1200 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
+                    "This Debuff triggers when the Special Attack is launched."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +237.75 Attack.",
+                    "100% chance to gain a 30 second Fury Buff, granting +237.75 Attack.",
+                    "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 174.35 direct damage over 8 seconds."
+                ]
+            }
+        },
+        "4+2": {
+            "rank": 2,
+            "prestige": "1554",
+            "hp": "6375",
+            "attack": "445",
+            "crit_rate": "553",
+            "crit_dmge": "650",
+            "armor": "183",
+            "block_prof": "3289",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 2550 to 909.54 Health from any single damage source, excluding damage from a Special 3 Attack.",
+                "He also gains +97.37 to 150.59 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
+                "Heavy Attacks now deal a burst of 89 to 444.8 Energy Damage."
+            ],
+            "url_page": "https://auntm.ai/champions/magneto/tier/4",
+            "champid": "magneto+4+2",
+            "challenger_rating": 70,
+            "Abilities": {
+                "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
+                    "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
+                    "-70% Ability Accuracy & -105% Regeneration rate.",
+                    "Magneto\u2019s abilities gain special bonuses."
+                ],
+                "MUTATION - ALWAYS ACTIVE": [
+                    "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
+                    "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
+                    "+50% Perfect Block Chance.",
+                    "+133.5 Attack rating.",
+                    "Attacks cannot be Auto-Blocked or Miss."
+                ],
+                "IGNORE CLASS DISADVANTAGE": [
+                    "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
+                ],
+                "KNOCK THE OPPONENT DOWN": [
+                    "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
+                    "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
+                ],
+                "ENHANCED BLEED DEBUFFS": [
+                    "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 311.5 Physical damage when they end.",
+                    "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 462.5 for 12 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to inflict Bleed, dealing 333.75 Direct Damage over 6 seconds.",
+                    "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
+                    "Inflict an additional Bleed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1233.33 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
+                    "This Debuff triggers when the Special Attack is launched."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +333.75 Attack.",
+                    "100% chance to gain a 30 second Fury Buff, granting +333.75 Attack.",
+                    "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 244.75 direct damage over 8 seconds."
+                ]
+            }
+        },
+        "4+3": {
+            "rank": 3,
+            "prestige": "2175",
+            "hp": "8932",
+            "attack": "623",
+            "crit_rate": "568",
+            "crit_dmge": "668",
+            "armor": "212",
+            "block_prof": "3378",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 3572.8 to 1274.36 Health from any single damage source, excluding damage from a Special 3 Attack.",
+                "He also gains +100 to 154.66 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
+                "Heavy Attacks now deal a burst of 124.6 to 622.72 Energy Damage."
+            ],
+            "url_page": "https://auntm.ai/champions/magneto/tier/4",
+            "champid": "magneto+4+3",
+            "challenger_rating": 80,
+            "Abilities": {
+                "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
+                    "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
+                    "-70% Ability Accuracy & -105% Regeneration rate.",
+                    "Magneto\u2019s abilities gain special bonuses."
+                ],
+                "MUTATION - ALWAYS ACTIVE": [
+                    "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
+                    "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
+                    "+50% Perfect Block Chance.",
+                    "+186.9 Attack rating.",
+                    "Attacks cannot be Auto-Blocked or Miss."
+                ],
+                "IGNORE CLASS DISADVANTAGE": [
+                    "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
+                ],
+                "KNOCK THE OPPONENT DOWN": [
+                    "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
+                    "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
+                ],
+                "ENHANCED BLEED DEBUFFS": [
+                    "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 436.1 Physical damage when they end.",
+                    "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 475 for 12 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to inflict Bleed, dealing 467.25 Direct Damage over 6 seconds.",
+                    "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
+                    "Inflict an additional Bleed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1266.67 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
+                    "This Debuff triggers when the Special Attack is launched."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +467.25 Attack.",
+                    "100% chance to gain a 30 second Fury Buff, granting +467.25 Attack.",
+                    "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 342.65 direct damage over 8 seconds."
+                ]
+            }
+        },
+        "4+4": {
+            "rank": 4,
+            "prestige": "2866",
+            "hp": "11736",
+            "attack": "818",
+            "crit_rate": "583",
+            "crit_dmge": "686",
+            "armor": "242",
+            "block_prof": "3467",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 4694.4 to 1674.41 Health from any single damage source, excluding damage from a Special 3 Attack.",
+                "He also gains +102.63 to 158.73 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
+                "Heavy Attacks now deal a burst of 163.6 to 817.63 Energy Damage."
+            ],
+            "url_page": "https://auntm.ai/champions/magneto/tier/4",
+            "champid": "magneto+4+4",
+            "challenger_rating": 90,
+            "Abilities": {
+                "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
+                    "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
+                    "-70% Ability Accuracy & -105% Regeneration rate.",
+                    "Magneto\u2019s abilities gain special bonuses."
+                ],
+                "MUTATION - ALWAYS ACTIVE": [
+                    "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
+                    "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
+                    "+50% Perfect Block Chance.",
+                    "+245.4 Attack rating.",
+                    "Attacks cannot be Auto-Blocked or Miss."
+                ],
+                "IGNORE CLASS DISADVANTAGE": [
+                    "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
+                ],
+                "KNOCK THE OPPONENT DOWN": [
+                    "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
+                    "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
+                ],
+                "ENHANCED BLEED DEBUFFS": [
+                    "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 572.6 Physical damage when they end.",
+                    "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 487.5 for 12 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to inflict Bleed, dealing 613.5 Direct Damage over 6 seconds.",
+                    "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
+                    "Inflict an additional Bleed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1300 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
+                    "This Debuff triggers when the Special Attack is launched."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +613.5 Attack.",
+                    "100% chance to gain a 30 second Fury Buff, granting +613.5 Attack.",
+                    "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 449.9 direct damage over 8 seconds."
+                ]
+            }
+        },
+        "4+5": {
+            "rank": 5,
+            "prestige": "3824",
+            "hp": "15660",
+            "attack": "1092",
+            "crit_rate": "598",
+            "crit_dmge": "703",
+            "armor": "273",
+            "block_prof": "3556",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 6264 to 2234.26 Health from any single damage source, excluding damage from a Special 3 Attack.",
+                "He also gains +105.26 to 162.8 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
+                "Heavy Attacks now deal a burst of 218.4 to 1091.51 Energy Damage."
+            ],
+            "url_page": "https://auntm.ai/champions/magneto/tier/4",
+            "champid": "magneto+4+5",
+            "challenger_rating": 100,
+            "Abilities": {
+                "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
+                    "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
+                    "-70% Ability Accuracy & -105% Regeneration rate.",
+                    "Magneto\u2019s abilities gain special bonuses."
+                ],
+                "MUTATION - ALWAYS ACTIVE": [
+                    "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
+                    "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
+                    "+50% Perfect Block Chance.",
+                    "+327.6 Attack rating.",
+                    "Attacks cannot be Auto-Blocked or Miss."
+                ],
+                "IGNORE CLASS DISADVANTAGE": [
+                    "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
+                ],
+                "KNOCK THE OPPONENT DOWN": [
+                    "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
+                    "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
+                ],
+                "ENHANCED BLEED DEBUFFS": [
+                    "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 764.4 Physical damage when they end.",
+                    "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 500 for 12 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to inflict Bleed, dealing 819 Direct Damage over 6 seconds.",
+                    "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
+                    "Inflict an additional Bleed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1333.33 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
+                    "This Debuff triggers when the Special Attack is launched."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +819 Attack.",
+                    "100% chance to gain a 30 second Fury Buff, granting +819 Attack.",
+                    "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 600.6 direct damage over 8 seconds."
+                ]
+            }
+        },
+        "5+1": {
+            "rank": 1,
+            "prestige": "2289",
+            "hp": "9345",
+            "attack": "652",
+            "crit_rate": "568",
+            "crit_dmge": "668",
+            "armor": "362",
+            "block_prof": "3378",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 3766.04 to 933.66 Health from any single damage source, excluding damage from a Special 3 Attack.",
+                "He also gains +100.04 to 210.6 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
+                "Heavy Attacks now deal a burst of 137.05 to 652.15 Energy Damage."
+            ],
+            "url_page": "https://auntm.ai/champions/magneto/tier/5",
+            "champid": "magneto+5+1",
+            "challenger_rating": 80,
+            "Abilities": {
+                "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
+                    "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
+                    "-70% Ability Accuracy & -105% Regeneration rate.",
+                    "Magneto\u2019s abilities gain special bonuses."
+                ],
+                "MUTATION - ALWAYS ACTIVE": [
+                    "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
+                    "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
+                    "+50% Perfect Block Chance.",
+                    "+195.6 Attack rating.",
+                    "Attacks cannot be Auto-Blocked or Miss."
+                ],
+                "IGNORE CLASS DISADVANTAGE": [
+                    "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
+                ],
+                "KNOCK THE OPPONENT DOWN": [
+                    "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
+                    "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
+                ],
+                "ENHANCED BLEED DEBUFFS": [
+                    "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 456.4 Physical damage when they end.",
+                    "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 475 for 12 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to inflict Bleed, dealing 489 Direct Damage over 6 seconds.",
+                    "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
+                    "Inflict an additional Bleed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1266.67 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
+                    "This Debuff triggers when the Special Attack is launched."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +489 Attack.",
+                    "100% chance to gain a 30 second Fury Buff, granting +489 Attack.",
+                    "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 358.6 direct damage over 8 seconds."
+                ]
+            }
+        },
+        "5+2": {
+            "rank": 2,
+            "prestige": "3023",
+            "hp": "12345",
+            "attack": "861",
+            "crit_rate": "583",
+            "crit_dmge": "686",
+            "armor": "400",
+            "block_prof": "3467",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 4975.04 to 1233.39 Health from any single damage source, excluding damage from a Special 3 Attack.",
+                "He also gains +102.67 to 216.14 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
+                "Heavy Attacks now deal a burst of 180.98 to 861.2 Energy Damage."
+            ],
+            "url_page": "https://auntm.ai/champions/magneto/tier/5",
+            "champid": "magneto+5+2",
+            "challenger_rating": 90,
+            "Abilities": {
+                "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
+                    "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
+                    "-70% Ability Accuracy & -105% Regeneration rate.",
+                    "Magneto\u2019s abilities gain special bonuses."
+                ],
+                "MUTATION - ALWAYS ACTIVE": [
+                    "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
+                    "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
+                    "+50% Perfect Block Chance.",
+                    "+258.3 Attack rating.",
+                    "Attacks cannot be Auto-Blocked or Miss."
+                ],
+                "IGNORE CLASS DISADVANTAGE": [
+                    "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
+                ],
+                "KNOCK THE OPPONENT DOWN": [
+                    "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
+                    "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
+                ],
+                "ENHANCED BLEED DEBUFFS": [
+                    "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 602.7 Physical damage when they end.",
+                    "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 487.5 for 12 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to inflict Bleed, dealing 645.75 Direct Damage over 6 seconds.",
+                    "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
+                    "Inflict an additional Bleed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1300 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
+                    "This Debuff triggers when the Special Attack is launched."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +645.75 Attack.",
+                    "100% chance to gain a 30 second Fury Buff, granting +645.75 Attack.",
+                    "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 473.55 direct damage over 8 seconds."
+                ]
+            }
+        },
+        "5+3": {
+            "rank": 3,
+            "prestige": "4236",
+            "hp": "17258",
+            "attack": "1203",
+            "crit_rate": "598",
+            "crit_dmge": "703",
+            "armor": "440",
+            "block_prof": "3556",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 6954.97 to 1724.24 Health from any single damage source, excluding damage from a Special 3 Attack.",
+                "He also gains +105.3 to 221.68 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
+                "Heavy Attacks now deal a burst of 252.87 to 1203.29 Energy Damage."
+            ],
+            "url_page": "https://auntm.ai/champions/magneto/tier/5",
+            "champid": "magneto+5+3",
+            "challenger_rating": 100,
+            "Abilities": {
+                "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
+                    "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
+                    "-70% Ability Accuracy & -105% Regeneration rate.",
+                    "Magneto\u2019s abilities gain special bonuses."
+                ],
+                "MUTATION - ALWAYS ACTIVE": [
+                    "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
+                    "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
+                    "+50% Perfect Block Chance.",
+                    "+360.9 Attack rating.",
+                    "Attacks cannot be Auto-Blocked or Miss."
+                ],
+                "IGNORE CLASS DISADVANTAGE": [
+                    "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
+                ],
+                "KNOCK THE OPPONENT DOWN": [
+                    "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
+                    "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
+                ],
+                "ENHANCED BLEED DEBUFFS": [
+                    "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 842.1 Physical damage when they end.",
+                    "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 500 for 12 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to inflict Bleed, dealing 902.25 Direct Damage over 6 seconds.",
+                    "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
+                    "Inflict an additional Bleed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1333.33 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
+                    "This Debuff triggers when the Special Attack is launched."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +902.25 Attack.",
+                    "100% chance to gain a 30 second Fury Buff, granting +902.25 Attack.",
+                    "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 661.65 direct damage over 8 seconds."
+                ]
+            }
+        },
+        "5+4": {
+            "rank": 4,
+            "prestige": "5706",
+            "hp": "23255",
+            "attack": "1621",
+            "crit_rate": "613",
+            "crit_dmge": "721",
+            "armor": "481",
+            "block_prof": "3645",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 9371.77 to 2323.4 Health from any single damage source, excluding damage from a Special 3 Attack.",
+                "He also gains +107.93 to 227.22 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
+                "Heavy Attacks now deal a burst of 340.73 to 1621.39 Energy Damage."
+            ],
+            "url_page": "https://auntm.ai/champions/magneto/tier/5",
+            "champid": "magneto+5+4",
+            "challenger_rating": 110,
+            "Abilities": {
+                "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
+                    "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
+                    "-70% Ability Accuracy & -105% Regeneration rate.",
+                    "Magneto\u2019s abilities gain special bonuses."
+                ],
+                "MUTATION - ALWAYS ACTIVE": [
+                    "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
+                    "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
+                    "+50% Perfect Block Chance.",
+                    "+486.3 Attack rating.",
+                    "Attacks cannot be Auto-Blocked or Miss."
+                ],
+                "IGNORE CLASS DISADVANTAGE": [
+                    "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
+                ],
+                "KNOCK THE OPPONENT DOWN": [
+                    "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
+                    "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
+                ],
+                "ENHANCED BLEED DEBUFFS": [
+                    "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 1134.7 Physical damage when they end.",
+                    "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 512.5 for 12 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to inflict Bleed, dealing 1215.75 Direct Damage over 6 seconds.",
+                    "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
+                    "Inflict an additional Bleed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1366.67 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
+                    "This Debuff triggers when the Special Attack is launched."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +1215.75 Attack.",
+                    "100% chance to gain a 30 second Fury Buff, granting +1215.75 Attack.",
+                    "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 891.55 direct damage over 8 seconds."
+                ]
+            }
+        },
+        "5+5": {
+            "rank": 5,
+            "prestige": "7725",
+            "hp": "31398",
+            "attack": "2189",
+            "crit_rate": "628",
+            "crit_dmge": "738",
+            "armor": "525",
+            "block_prof": "3734",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 12653.39 to 3136.97 Health from any single damage source, excluding damage from a Special 3 Attack.",
+                "He also gains +110.57 to 232.76 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
+                "Heavy Attacks now deal a burst of 460.13 to 2189.52 Energy Damage."
+            ],
+            "url_page": "https://auntm.ai/champions/magneto/tier/5",
+            "champid": "magneto+5+5",
+            "challenger_rating": 120,
+            "Abilities": {
+                "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
+                    "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
+                    "-70% Ability Accuracy & -105% Regeneration rate.",
+                    "Magneto\u2019s abilities gain special bonuses."
+                ],
+                "MUTATION - ALWAYS ACTIVE": [
+                    "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
+                    "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
+                    "+50% Perfect Block Chance.",
+                    "+656.7 Attack rating.",
+                    "Attacks cannot be Auto-Blocked or Miss."
+                ],
+                "IGNORE CLASS DISADVANTAGE": [
+                    "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
+                ],
+                "KNOCK THE OPPONENT DOWN": [
+                    "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
+                    "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
+                ],
+                "ENHANCED BLEED DEBUFFS": [
+                    "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 1532.3 Physical damage when they end.",
+                    "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 525 for 12 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to inflict Bleed, dealing 1641.75 Direct Damage over 6 seconds.",
+                    "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
+                    "Inflict an additional Bleed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1400 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
+                    "This Debuff triggers when the Special Attack is launched."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +1641.75 Attack.",
+                    "100% chance to gain a 30 second Fury Buff, granting +1641.75 Attack.",
+                    "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 1203.95 direct damage over 8 seconds."
+                ]
+            }
+        },
+        "6+1": {
+            "rank": 1,
+            "prestige": "6042",
+            "hp": "24689",
+            "attack": "1721",
+            "crit_rate": "613",
+            "crit_dmge": "721",
+            "armor": "391",
+            "block_prof": "3645",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 9949.67 to 2466.67 Health from any single damage source, excluding damage from a Special 3 Attack.",
+                "He also gains +107.93 to 227.22 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
+                "Heavy Attacks now deal a burst of 361.75 to 1721.41 Energy Damage."
+            ],
+            "url_page": "https://auntm.ai/champions/magneto/tier/6",
+            "champid": "magneto+6+1",
+            "challenger_rating": 110,
+            "Abilities": {
+                "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
+                    "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
+                    "-70% Ability Accuracy & -105% Regeneration rate.",
+                    "Magneto\u2019s abilities gain special bonuses."
+                ],
+                "MUTATION - ALWAYS ACTIVE": [
+                    "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
+                    "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
+                    "+50% Perfect Block Chance.",
+                    "+516.3 Attack rating.",
+                    "Attacks cannot be Auto-Blocked or Miss."
+                ],
+                "IGNORE CLASS DISADVANTAGE": [
+                    "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
+                ],
+                "KNOCK THE OPPONENT DOWN": [
+                    "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
+                    "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
+                ],
+                "ENHANCED BLEED DEBUFFS": [
+                    "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 1204.7 Physical damage when they end.",
+                    "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 512.5 for 12 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to inflict Bleed, dealing 1290.75 Direct Damage over 6 seconds.",
+                    "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
+                    "Inflict an additional Bleed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1366.67 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
+                    "This Debuff triggers when the Special Attack is launched."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +1290.75 Attack.",
+                    "100% chance to gain a 30 second Fury Buff, granting +1290.75 Attack.",
+                    "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 946.55 direct damage over 8 seconds."
+                ]
+            }
+        },
+        "6+2": {
+            "rank": 2,
+            "prestige": "8344",
+            "hp": "34103",
+            "attack": "2377",
+            "crit_rate": "628",
+            "crit_dmge": "738",
+            "armor": "431",
+            "block_prof": "3734",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 13743.51 to 3407.22 Health from any single damage source, excluding damage from a Special 3 Attack.",
+                "He also gains +110.57 to 232.76 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
+                "Heavy Attacks now deal a burst of 499.65 to 2377.56 Energy Damage."
+            ],
+            "url_page": "https://auntm.ai/champions/magneto/tier/6",
+            "champid": "magneto+6+2",
+            "challenger_rating": 120,
+            "Abilities": {
+                "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
+                    "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
+                    "-70% Ability Accuracy & -105% Regeneration rate.",
+                    "Magneto\u2019s abilities gain special bonuses."
+                ],
+                "MUTATION - ALWAYS ACTIVE": [
+                    "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
+                    "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
+                    "+50% Perfect Block Chance.",
+                    "+713.1 Attack rating.",
+                    "Attacks cannot be Auto-Blocked or Miss."
+                ],
+                "IGNORE CLASS DISADVANTAGE": [
+                    "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
+                ],
+                "KNOCK THE OPPONENT DOWN": [
+                    "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
+                    "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
+                ],
+                "ENHANCED BLEED DEBUFFS": [
+                    "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 1663.9 Physical damage when they end.",
+                    "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 525 for 12 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to inflict Bleed, dealing 1782.75 Direct Damage over 6 seconds.",
+                    "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
+                    "Inflict an additional Bleed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1400 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
+                    "This Debuff triggers when the Special Attack is launched."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +1782.75 Attack.",
+                    "100% chance to gain a 30 second Fury Buff, granting +1782.75 Attack.",
+                    "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 1307.35 direct damage over 8 seconds."
+                ]
+            }
+        },
+        "6+3": {
+            "rank": 3,
+            "prestige": "9925",
+            "hp": "40458",
+            "attack": "2820",
+            "crit_rate": "643",
+            "crit_dmge": "756",
+            "armor": "472",
+            "block_prof": "3823",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 16304.57 to 4042.15 Health from any single damage source, excluding damage from a Special 3 Attack.",
+                "He also gains +113.2 to 238.31 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
+                "Heavy Attacks now deal a burst of 592.76 to 2820.67 Energy Damage."
+            ],
+            "url_page": "https://auntm.ai/champions/magneto/tier/6",
+            "champid": "magneto+6+3",
+            "challenger_rating": 130,
+            "Abilities": {
+                "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
+                    "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
+                    "-70% Ability Accuracy & -105% Regeneration rate.",
+                    "Magneto\u2019s abilities gain special bonuses."
+                ],
+                "MUTATION - ALWAYS ACTIVE": [
+                    "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
+                    "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
+                    "+50% Perfect Block Chance.",
+                    "+846 Attack rating.",
+                    "Attacks cannot be Auto-Blocked or Miss."
+                ],
+                "IGNORE CLASS DISADVANTAGE": [
+                    "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
+                ],
+                "KNOCK THE OPPONENT DOWN": [
+                    "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
+                    "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
+                ],
+                "ENHANCED BLEED DEBUFFS": [
+                    "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 1974 Physical damage when they end.",
+                    "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 537.5 for 12 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to inflict Bleed, dealing 2115 Direct Damage over 6 seconds.",
+                    "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
+                    "Inflict an additional Bleed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1433.33 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
+                    "This Debuff triggers when the Special Attack is launched."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +2115 Attack.",
+                    "100% chance to gain a 30 second Fury Buff, granting +2115 Attack.",
+                    "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 1551 direct damage over 8 seconds."
+                ]
+            }
+        },
+        "6+4": {
+            "rank": 4,
+            "prestige": "11360",
+            "hp": "46298",
+            "attack": "3227",
+            "crit_rate": "658",
+            "crit_dmge": "773",
+            "armor": "517",
+            "block_prof": "3912",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 18658.09 to 4625.62 Health from any single damage source, excluding damage from a Special 3 Attack.",
+                "He also gains +115.83 to 243.85 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
+                "Heavy Attacks now deal a burst of 678.32 to 3227.77 Energy Damage."
+            ],
+            "url_page": "https://auntm.ai/champions/magneto/tier/6",
+            "champid": "magneto+6+4",
+            "challenger_rating": 140,
+            "Abilities": {
+                "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
+                    "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
+                    "-70% Ability Accuracy & -105% Regeneration rate.",
+                    "Magneto\u2019s abilities gain special bonuses."
+                ],
+                "MUTATION - ALWAYS ACTIVE": [
+                    "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
+                    "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
+                    "+50% Perfect Block Chance.",
+                    "+968.1 Attack rating.",
+                    "Attacks cannot be Auto-Blocked or Miss."
+                ],
+                "IGNORE CLASS DISADVANTAGE": [
+                    "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
+                ],
+                "KNOCK THE OPPONENT DOWN": [
+                    "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
+                    "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
+                ],
+                "ENHANCED BLEED DEBUFFS": [
+                    "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 2258.9 Physical damage when they end.",
+                    "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 550 for 12 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to inflict Bleed, dealing 2420.25 Direct Damage over 6 seconds.",
+                    "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
+                    "Inflict an additional Bleed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1466.67 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
+                    "This Debuff triggers when the Special Attack is launched."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +2420.25 Attack.",
+                    "100% chance to gain a 30 second Fury Buff, granting +2420.25 Attack.",
+                    "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 1774.85 direct damage over 8 seconds."
+                ]
+            }
+        },
+        "1+1": {
+            "rank": 1,
+            "prestige": 167,
+            "hp": 878,
+            "attack": 62,
+            "crit_rate": 463,
+            "crit_dmge": 545,
+            "armor": 0,
+            "block_prof": 2756,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": null,
+            "url_page": "https://auntm.ai/champions/magneto/tier/1",
+            "champid": "magneto+1+1",
+            "challenger_rating": 10,
+            "Abilities": {
+                "SPECIAL ATTACKS": [
+                    "55% chance to inflict Bleed, dealing 130.2 Direct Damage over 10 seconds."
+                ],
+                "PASSIVE": [
+                    "Enemies reliant on metal suffer 40% reduced Ability Accuracy."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict Heal Block, preventing the target from recovering Health for 10 seconds.",
+                    "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1033.33 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
+                    "This Debuff triggers when the Special Attack is launched."
+                ],
+                "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
+                    "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
+                    "-70% Ability Accuracy & -105% Regeneration rate.",
+                    "Magneto\u2019s abilities gain special bonuses."
+                ],
+                "MUTATION - ALWAYS ACTIVE": [
+                    "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
+                    "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
+                    "+50% Perfect Block Chance.",
+                    "+18.6 Attack rating.",
+                    "Attacks cannot be Auto-Blocked or Miss."
+                ],
+                "IGNORE CLASS DISADVANTAGE": [
+                    "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
+                ],
+                "KNOCK THE OPPONENT DOWN": [
+                    "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
+                    "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
+                ],
+                "ENHANCED BLEED DEBUFFS": [
+                    "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 43.4 Physical damage when they end.",
+                    "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 387.5 for 12 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to inflict Bleed, dealing 46.5 Direct Damage over 6 seconds.",
+                    "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
+                    "Inflict an additional Bleed."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +46.5 Attack.",
+                    "100% chance to gain a 30 second Fury Buff, granting +46.5 Attack.",
+                    "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 34.1 direct damage over 8 seconds."
+                ]
+            }
+        },
+        "1+2": {
+            "rank": 2,
+            "prestige": 242,
+            "hp": 1214,
+            "attack": 85,
+            "crit_rate": 478,
+            "crit_dmge": 563,
+            "armor": 0,
+            "block_prof": 2845,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": null,
+            "url_page": "https://auntm.ai/champions/magneto/tier/1",
+            "champid": "magneto+1+2",
+            "challenger_rating": 20,
+            "Abilities": {
+                "SPECIAL ATTACKS": [
+                    "55% chance to inflict Bleed, dealing 178.5 Direct Damage over 10 seconds."
+                ],
+                "PASSIVE": [
+                    "Enemies reliant on metal suffer 40% reduced Ability Accuracy."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict Heal Block, preventing the target from recovering Health for 10 seconds.",
+                    "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1066.67 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
+                    "This Debuff triggers when the Special Attack is launched."
+                ],
+                "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
+                    "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
+                    "-70% Ability Accuracy & -105% Regeneration rate.",
+                    "Magneto\u2019s abilities gain special bonuses."
+                ],
+                "MUTATION - ALWAYS ACTIVE": [
+                    "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
+                    "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
+                    "+50% Perfect Block Chance.",
+                    "+25.5 Attack rating.",
+                    "Attacks cannot be Auto-Blocked or Miss."
+                ],
+                "IGNORE CLASS DISADVANTAGE": [
+                    "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
+                ],
+                "KNOCK THE OPPONENT DOWN": [
+                    "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
+                    "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
+                ],
+                "ENHANCED BLEED DEBUFFS": [
+                    "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 59.5 Physical damage when they end.",
+                    "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 400 for 12 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to inflict Bleed, dealing 63.75 Direct Damage over 6 seconds.",
+                    "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
+                    "Inflict an additional Bleed."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +63.75 Attack.",
+                    "100% chance to gain a 30 second Fury Buff, granting +63.75 Attack.",
+                    "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 46.75 direct damage over 8 seconds."
+                ]
+            }
+        },
+        "find": {
+            "story_quests": {
+                "act_1": [],
+                "act_2": [],
+                "act_3": [
+                    "3.2.6"
+                ],
+                "act_4": [
+                    "4.1.2",
+                    "4.1.4",
+                    "4.1.5",
+                    "4.1.6",
+                    "4.2.2",
+                    "4.2.4",
+                    "4.2.5",
+                    "4.2.6",
+                    "4.3.1",
+                    "4.3.2",
+                    "4.3.3",
+                    "4.3.4",
+                    "4.3.5",
+                    "4.3.6",
+                    "4.4.1",
+                    "4.4.2",
+                    "4.4.3",
+                    "4.4.4",
+                    "4.4.5"
+                ],
+                "act_5": [
+                    "5.1.1",
+                    "5.1.2",
+                    "5.1.4",
+                    "5.1.6",
+                    "5.2.1",
+                    "5.2.5",
+                    "5.2.6",
+                    "5.3.2",
+                    "5.3.3",
+                    "5.3.4",
+                    "5.4.2",
+                    "5.4.4",
+                    "5.4.5"
+                ],
+                "act_6": [
+                    "6.1.1",
+                    "6.1.2",
+                    "6.1.3",
+                    "6.1.5",
+                    "6.2.1",
+                    "6.2.5"
+                ],
+                "act_7": [
+                    "7.1.2",
+                    "7.1.5",
+                    "7.2.1",
+                    "7.3.1",
+                    "7.3.3",
+                    "7.3.5",
+                    "7.4.2",
+                    "7.4.5"
+                ]
+            }
+        }
     },
-    "2+2": {
-      "rank": 2,
-      "prestige": "360",
-      "hp": "1481",
-      "attack": "104",
-      "crit_rate": "493",
-      "crit_dmge": "580",
-      "armor": "52",
-      "block_prof": "2934",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 592.4 to 211.3 Health from any single damage source, excluding damage from a Special 3 Attack.",
-        "He also gains +86.84 to 134.31 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
-        "Heavy Attacks now deal a burst of 20.8 to 103.95 Energy Damage."
-      ],
-      "url_page": "https://auntm.ai/champions/magneto/tier/2",
-      "champid": "magneto+2+2",
-      "challenger_rating": 30,
-      "Abilities": {
-        "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
-          "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
-          "-70% Ability Accuracy & -105% Regeneration rate.",
-          "Magneto\u2019s abilities gain special bonuses."
-        ],
-        "MUTATION - ALWAYS ACTIVE": [
-          "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
-          "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
-          "+50% Perfect Block Chance.",
-          "+31.2 Attack rating.",
-          "Attacks cannot be Auto-Blocked or Miss."
-        ],
-        "IGNORE CLASS DISADVANTAGE": [
-          "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
-        ],
-        "KNOCK THE OPPONENT DOWN": [
-          "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
-          "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
-        ],
-        "ENHANCED BLEED DEBUFFS": [
-          "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 72.8 Physical damage when they end.",
-          "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 412.5 for 12 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to inflict Bleed, dealing 78 Direct Damage over 6 seconds.",
-          "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
-          "Inflict an additional Bleed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1100 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
-          "This Debuff triggers when the Special Attack is launched."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +78 Attack.",
-          "100% chance to gain a 30 second Fury Buff, granting +78 Attack.",
-          "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 57.2 direct damage over 8 seconds."
-        ]
-      }
-    },
-    "2+3": {
-      "rank": 3,
-      "prestige": "569",
-      "hp": "2350",
-      "attack": "164",
-      "crit_rate": "508",
-      "crit_dmge": "598",
-      "armor": "71",
-      "block_prof": "3023",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 940 to 335.28 Health from any single damage source, excluding damage from a Special 3 Attack.",
-        "He also gains +89.47 to 138.38 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
-        "Heavy Attacks now deal a burst of 32.8 to 163.93 Energy Damage."
-      ],
-      "url_page": "https://auntm.ai/champions/magneto/tier/2",
-      "champid": "magneto+2+3",
-      "challenger_rating": 40,
-      "Abilities": {
-        "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
-          "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
-          "-70% Ability Accuracy & -105% Regeneration rate.",
-          "Magneto\u2019s abilities gain special bonuses."
-        ],
-        "MUTATION - ALWAYS ACTIVE": [
-          "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
-          "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
-          "+50% Perfect Block Chance.",
-          "+49.2 Attack rating.",
-          "Attacks cannot be Auto-Blocked or Miss."
-        ],
-        "IGNORE CLASS DISADVANTAGE": [
-          "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
-        ],
-        "KNOCK THE OPPONENT DOWN": [
-          "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
-          "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
-        ],
-        "ENHANCED BLEED DEBUFFS": [
-          "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 114.8 Physical damage when they end.",
-          "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 425 for 12 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to inflict Bleed, dealing 123 Direct Damage over 6 seconds.",
-          "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
-          "Inflict an additional Bleed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1133.33 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
-          "This Debuff triggers when the Special Attack is launched."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +123 Attack.",
-          "100% chance to gain a 30 second Fury Buff, granting +123 Attack.",
-          "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 90.2 direct damage over 8 seconds."
-        ]
-      }
-    },
-    "3+1": {
-      "rank": 1,
-      "prestige": "495",
-      "hp": "2032",
-      "attack": "142",
-      "crit_rate": "508",
-      "crit_dmge": "598",
-      "armor": "71",
-      "block_prof": "3023",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 812.8 to 289.91 Health from any single damage source, excluding damage from a Special 3 Attack.",
-        "He also gains +89.47 to 138.38 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
-        "Heavy Attacks now deal a burst of 28.4 to 141.94 Energy Damage."
-      ],
-      "url_page": "https://auntm.ai/champions/magneto/tier/3",
-      "champid": "magneto+3+1",
-      "challenger_rating": 40,
-      "Abilities": {
-        "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
-          "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
-          "-70% Ability Accuracy & -105% Regeneration rate.",
-          "Magneto\u2019s abilities gain special bonuses."
-        ],
-        "MUTATION - ALWAYS ACTIVE": [
-          "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
-          "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
-          "+50% Perfect Block Chance.",
-          "+42.6 Attack rating.",
-          "Attacks cannot be Auto-Blocked or Miss."
-        ],
-        "IGNORE CLASS DISADVANTAGE": [
-          "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
-        ],
-        "KNOCK THE OPPONENT DOWN": [
-          "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
-          "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
-        ],
-        "ENHANCED BLEED DEBUFFS": [
-          "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 99.4 Physical damage when they end.",
-          "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 425 for 12 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to inflict Bleed, dealing 106.5 Direct Damage over 6 seconds.",
-          "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
-          "Inflict an additional Bleed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1133.33 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
-          "This Debuff triggers when the Special Attack is launched."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +106.5 Attack.",
-          "100% chance to gain a 30 second Fury Buff, granting +106.5 Attack.",
-          "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 78.1 direct damage over 8 seconds."
-        ]
-      }
-    },
-    "3+2": {
-      "rank": 2,
-      "prestige": "789",
-      "hp": "3251",
-      "attack": "227",
-      "crit_rate": "523",
-      "crit_dmge": "615",
-      "armor": "93",
-      "block_prof": "3112",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 1300.4 to 463.83 Health from any single damage source, excluding damage from a Special 3 Attack.",
-        "He also gains +92.11 to 142.45 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
-        "Heavy Attacks now deal a burst of 45.4 to 226.9 Energy Damage."
-      ],
-      "url_page": "https://auntm.ai/champions/magneto/tier/3",
-      "champid": "magneto+3+2",
-      "challenger_rating": 50,
-      "Abilities": {
-        "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
-          "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
-          "-70% Ability Accuracy & -105% Regeneration rate.",
-          "Magneto\u2019s abilities gain special bonuses."
-        ],
-        "MUTATION - ALWAYS ACTIVE": [
-          "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
-          "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
-          "+50% Perfect Block Chance.",
-          "+68.1 Attack rating.",
-          "Attacks cannot be Auto-Blocked or Miss."
-        ],
-        "IGNORE CLASS DISADVANTAGE": [
-          "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
-        ],
-        "KNOCK THE OPPONENT DOWN": [
-          "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
-          "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
-        ],
-        "ENHANCED BLEED DEBUFFS": [
-          "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 158.9 Physical damage when they end.",
-          "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 437.5 for 12 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to inflict Bleed, dealing 170.25 Direct Damage over 6 seconds.",
-          "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
-          "Inflict an additional Bleed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1166.67 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
-          "This Debuff triggers when the Special Attack is launched."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +170.25 Attack.",
-          "100% chance to gain a 30 second Fury Buff, granting +170.25 Attack.",
-          "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 124.85 direct damage over 8 seconds."
-        ]
-      }
-    },
-    "3+3": {
-      "rank": 3,
-      "prestige": "1103",
-      "hp": "4548",
-      "attack": "317",
-      "crit_rate": "538",
-      "crit_dmge": "633",
-      "armor": "115",
-      "block_prof": "3200",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 1819.2 to 648.88 Health from any single damage source, excluding damage from a Special 3 Attack.",
-        "He also gains +94.74 to 146.52 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
-        "Heavy Attacks now deal a burst of 63.4 to 316.86 Energy Damage."
-      ],
-      "url_page": "https://auntm.ai/champions/magneto/tier/3",
-      "champid": "magneto+3+3",
-      "challenger_rating": 60,
-      "Abilities": {
-        "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
-          "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
-          "-70% Ability Accuracy & -105% Regeneration rate.",
-          "Magneto\u2019s abilities gain special bonuses."
-        ],
-        "MUTATION - ALWAYS ACTIVE": [
-          "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
-          "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
-          "+50% Perfect Block Chance.",
-          "+95.1 Attack rating.",
-          "Attacks cannot be Auto-Blocked or Miss."
-        ],
-        "IGNORE CLASS DISADVANTAGE": [
-          "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
-        ],
-        "KNOCK THE OPPONENT DOWN": [
-          "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
-          "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
-        ],
-        "ENHANCED BLEED DEBUFFS": [
-          "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 221.9 Physical damage when they end.",
-          "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 450 for 12 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to inflict Bleed, dealing 237.75 Direct Damage over 6 seconds.",
-          "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
-          "Inflict an additional Bleed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1200 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
-          "This Debuff triggers when the Special Attack is launched."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +237.75 Attack.",
-          "100% chance to gain a 30 second Fury Buff, granting +237.75 Attack.",
-          "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 174.35 direct damage over 8 seconds."
-        ]
-      }
-    },
-    "3+4": {
-      "rank": 4,
-      "prestige": "1521",
-      "hp": "6245",
-      "attack": "436",
-      "crit_rate": "553",
-      "crit_dmge": "650",
-      "armor": "140",
-      "block_prof": "3289",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 2498 to 890.99 Health from any single damage source, excluding damage from a Special 3 Attack.",
-        "He also gains +97.37 to 150.59 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
-        "Heavy Attacks now deal a burst of 87.2 to 435.8 Energy Damage."
-      ],
-      "url_page": "https://auntm.ai/champions/magneto/tier/3",
-      "champid": "magneto+3+4",
-      "challenger_rating": 70,
-      "Abilities": {
-        "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
-          "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
-          "-70% Ability Accuracy & -105% Regeneration rate.",
-          "Magneto\u2019s abilities gain special bonuses."
-        ],
-        "MUTATION - ALWAYS ACTIVE": [
-          "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
-          "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
-          "+50% Perfect Block Chance.",
-          "+130.8 Attack rating.",
-          "Attacks cannot be Auto-Blocked or Miss."
-        ],
-        "IGNORE CLASS DISADVANTAGE": [
-          "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
-        ],
-        "KNOCK THE OPPONENT DOWN": [
-          "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
-          "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
-        ],
-        "ENHANCED BLEED DEBUFFS": [
-          "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 305.2 Physical damage when they end.",
-          "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 462.5 for 12 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to inflict Bleed, dealing 327 Direct Damage over 6 seconds.",
-          "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
-          "Inflict an additional Bleed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1233.33 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
-          "This Debuff triggers when the Special Attack is launched."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +327 Attack.",
-          "100% chance to gain a 30 second Fury Buff, granting +327 Attack.",
-          "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 239.8 direct damage over 8 seconds."
-        ]
-      }
-    },
-    "4+1": {
-      "rank": 1,
-      "prestige": "1106",
-      "hp": "4545",
-      "attack": "317",
-      "crit_rate": "538",
-      "crit_dmge": "633",
-      "armor": "157",
-      "block_prof": "3200",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 1818 to 648.45 Health from any single damage source, excluding damage from a Special 3 Attack.",
-        "He also gains +94.74 to 146.52 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
-        "Heavy Attacks now deal a burst of 63.4 to 316.86 Energy Damage."
-      ],
-      "url_page": "https://auntm.ai/champions/magneto/tier/4",
-      "champid": "magneto+4+1",
-      "challenger_rating": 60,
-      "Abilities": {
-        "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
-          "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
-          "-70% Ability Accuracy & -105% Regeneration rate.",
-          "Magneto\u2019s abilities gain special bonuses."
-        ],
-        "MUTATION - ALWAYS ACTIVE": [
-          "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
-          "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
-          "+50% Perfect Block Chance.",
-          "+95.1 Attack rating.",
-          "Attacks cannot be Auto-Blocked or Miss."
-        ],
-        "IGNORE CLASS DISADVANTAGE": [
-          "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
-        ],
-        "KNOCK THE OPPONENT DOWN": [
-          "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
-          "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
-        ],
-        "ENHANCED BLEED DEBUFFS": [
-          "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 221.9 Physical damage when they end.",
-          "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 450 for 12 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to inflict Bleed, dealing 237.75 Direct Damage over 6 seconds.",
-          "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
-          "Inflict an additional Bleed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1200 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
-          "This Debuff triggers when the Special Attack is launched."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +237.75 Attack.",
-          "100% chance to gain a 30 second Fury Buff, granting +237.75 Attack.",
-          "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 174.35 direct damage over 8 seconds."
-        ]
-      }
-    },
-    "4+2": {
-      "rank": 2,
-      "prestige": "1554",
-      "hp": "6375",
-      "attack": "445",
-      "crit_rate": "553",
-      "crit_dmge": "650",
-      "armor": "183",
-      "block_prof": "3289",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 2550 to 909.54 Health from any single damage source, excluding damage from a Special 3 Attack.",
-        "He also gains +97.37 to 150.59 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
-        "Heavy Attacks now deal a burst of 89 to 444.8 Energy Damage."
-      ],
-      "url_page": "https://auntm.ai/champions/magneto/tier/4",
-      "champid": "magneto+4+2",
-      "challenger_rating": 70,
-      "Abilities": {
-        "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
-          "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
-          "-70% Ability Accuracy & -105% Regeneration rate.",
-          "Magneto\u2019s abilities gain special bonuses."
-        ],
-        "MUTATION - ALWAYS ACTIVE": [
-          "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
-          "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
-          "+50% Perfect Block Chance.",
-          "+133.5 Attack rating.",
-          "Attacks cannot be Auto-Blocked or Miss."
-        ],
-        "IGNORE CLASS DISADVANTAGE": [
-          "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
-        ],
-        "KNOCK THE OPPONENT DOWN": [
-          "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
-          "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
-        ],
-        "ENHANCED BLEED DEBUFFS": [
-          "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 311.5 Physical damage when they end.",
-          "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 462.5 for 12 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to inflict Bleed, dealing 333.75 Direct Damage over 6 seconds.",
-          "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
-          "Inflict an additional Bleed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1233.33 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
-          "This Debuff triggers when the Special Attack is launched."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +333.75 Attack.",
-          "100% chance to gain a 30 second Fury Buff, granting +333.75 Attack.",
-          "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 244.75 direct damage over 8 seconds."
-        ]
-      }
-    },
-    "4+3": {
-      "rank": 3,
-      "prestige": "2175",
-      "hp": "8932",
-      "attack": "623",
-      "crit_rate": "568",
-      "crit_dmge": "668",
-      "armor": "212",
-      "block_prof": "3378",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 3572.8 to 1274.36 Health from any single damage source, excluding damage from a Special 3 Attack.",
-        "He also gains +100 to 154.66 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
-        "Heavy Attacks now deal a burst of 124.6 to 622.72 Energy Damage."
-      ],
-      "url_page": "https://auntm.ai/champions/magneto/tier/4",
-      "champid": "magneto+4+3",
-      "challenger_rating": 80,
-      "Abilities": {
-        "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
-          "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
-          "-70% Ability Accuracy & -105% Regeneration rate.",
-          "Magneto\u2019s abilities gain special bonuses."
-        ],
-        "MUTATION - ALWAYS ACTIVE": [
-          "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
-          "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
-          "+50% Perfect Block Chance.",
-          "+186.9 Attack rating.",
-          "Attacks cannot be Auto-Blocked or Miss."
-        ],
-        "IGNORE CLASS DISADVANTAGE": [
-          "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
-        ],
-        "KNOCK THE OPPONENT DOWN": [
-          "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
-          "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
-        ],
-        "ENHANCED BLEED DEBUFFS": [
-          "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 436.1 Physical damage when they end.",
-          "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 475 for 12 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to inflict Bleed, dealing 467.25 Direct Damage over 6 seconds.",
-          "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
-          "Inflict an additional Bleed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1266.67 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
-          "This Debuff triggers when the Special Attack is launched."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +467.25 Attack.",
-          "100% chance to gain a 30 second Fury Buff, granting +467.25 Attack.",
-          "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 342.65 direct damage over 8 seconds."
-        ]
-      }
-    },
-    "4+4": {
-      "rank": 4,
-      "prestige": "2866",
-      "hp": "11736",
-      "attack": "818",
-      "crit_rate": "583",
-      "crit_dmge": "686",
-      "armor": "242",
-      "block_prof": "3467",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 4694.4 to 1674.41 Health from any single damage source, excluding damage from a Special 3 Attack.",
-        "He also gains +102.63 to 158.73 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
-        "Heavy Attacks now deal a burst of 163.6 to 817.63 Energy Damage."
-      ],
-      "url_page": "https://auntm.ai/champions/magneto/tier/4",
-      "champid": "magneto+4+4",
-      "challenger_rating": 90,
-      "Abilities": {
-        "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
-          "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
-          "-70% Ability Accuracy & -105% Regeneration rate.",
-          "Magneto\u2019s abilities gain special bonuses."
-        ],
-        "MUTATION - ALWAYS ACTIVE": [
-          "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
-          "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
-          "+50% Perfect Block Chance.",
-          "+245.4 Attack rating.",
-          "Attacks cannot be Auto-Blocked or Miss."
-        ],
-        "IGNORE CLASS DISADVANTAGE": [
-          "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
-        ],
-        "KNOCK THE OPPONENT DOWN": [
-          "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
-          "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
-        ],
-        "ENHANCED BLEED DEBUFFS": [
-          "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 572.6 Physical damage when they end.",
-          "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 487.5 for 12 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to inflict Bleed, dealing 613.5 Direct Damage over 6 seconds.",
-          "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
-          "Inflict an additional Bleed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1300 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
-          "This Debuff triggers when the Special Attack is launched."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +613.5 Attack.",
-          "100% chance to gain a 30 second Fury Buff, granting +613.5 Attack.",
-          "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 449.9 direct damage over 8 seconds."
-        ]
-      }
-    },
-    "4+5": {
-      "rank": 5,
-      "prestige": "3824",
-      "hp": "15660",
-      "attack": "1092",
-      "crit_rate": "598",
-      "crit_dmge": "703",
-      "armor": "273",
-      "block_prof": "3556",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 6264 to 2234.26 Health from any single damage source, excluding damage from a Special 3 Attack.",
-        "He also gains +105.26 to 162.8 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
-        "Heavy Attacks now deal a burst of 218.4 to 1091.51 Energy Damage."
-      ],
-      "url_page": "https://auntm.ai/champions/magneto/tier/4",
-      "champid": "magneto+4+5",
-      "challenger_rating": 100,
-      "Abilities": {
-        "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
-          "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
-          "-70% Ability Accuracy & -105% Regeneration rate.",
-          "Magneto\u2019s abilities gain special bonuses."
-        ],
-        "MUTATION - ALWAYS ACTIVE": [
-          "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
-          "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
-          "+50% Perfect Block Chance.",
-          "+327.6 Attack rating.",
-          "Attacks cannot be Auto-Blocked or Miss."
-        ],
-        "IGNORE CLASS DISADVANTAGE": [
-          "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
-        ],
-        "KNOCK THE OPPONENT DOWN": [
-          "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
-          "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
-        ],
-        "ENHANCED BLEED DEBUFFS": [
-          "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 764.4 Physical damage when they end.",
-          "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 500 for 12 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to inflict Bleed, dealing 819 Direct Damage over 6 seconds.",
-          "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
-          "Inflict an additional Bleed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1333.33 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
-          "This Debuff triggers when the Special Attack is launched."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +819 Attack.",
-          "100% chance to gain a 30 second Fury Buff, granting +819 Attack.",
-          "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 600.6 direct damage over 8 seconds."
-        ]
-      }
-    },
-    "5+1": {
-      "rank": 1,
-      "prestige": "2289",
-      "hp": "9345",
-      "attack": "652",
-      "crit_rate": "568",
-      "crit_dmge": "668",
-      "armor": "362",
-      "block_prof": "3378",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 3766.04 to 933.66 Health from any single damage source, excluding damage from a Special 3 Attack.",
-        "He also gains +100.04 to 210.6 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
-        "Heavy Attacks now deal a burst of 137.05 to 652.15 Energy Damage."
-      ],
-      "url_page": "https://auntm.ai/champions/magneto/tier/5",
-      "champid": "magneto+5+1",
-      "challenger_rating": 80,
-      "Abilities": {
-        "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
-          "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
-          "-70% Ability Accuracy & -105% Regeneration rate.",
-          "Magneto\u2019s abilities gain special bonuses."
-        ],
-        "MUTATION - ALWAYS ACTIVE": [
-          "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
-          "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
-          "+50% Perfect Block Chance.",
-          "+195.6 Attack rating.",
-          "Attacks cannot be Auto-Blocked or Miss."
-        ],
-        "IGNORE CLASS DISADVANTAGE": [
-          "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
-        ],
-        "KNOCK THE OPPONENT DOWN": [
-          "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
-          "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
-        ],
-        "ENHANCED BLEED DEBUFFS": [
-          "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 456.4 Physical damage when they end.",
-          "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 475 for 12 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to inflict Bleed, dealing 489 Direct Damage over 6 seconds.",
-          "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
-          "Inflict an additional Bleed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1266.67 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
-          "This Debuff triggers when the Special Attack is launched."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +489 Attack.",
-          "100% chance to gain a 30 second Fury Buff, granting +489 Attack.",
-          "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 358.6 direct damage over 8 seconds."
-        ]
-      }
-    },
-    "5+2": {
-      "rank": 2,
-      "prestige": "3023",
-      "hp": "12345",
-      "attack": "861",
-      "crit_rate": "583",
-      "crit_dmge": "686",
-      "armor": "400",
-      "block_prof": "3467",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 4975.04 to 1233.39 Health from any single damage source, excluding damage from a Special 3 Attack.",
-        "He also gains +102.67 to 216.14 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
-        "Heavy Attacks now deal a burst of 180.98 to 861.2 Energy Damage."
-      ],
-      "url_page": "https://auntm.ai/champions/magneto/tier/5",
-      "champid": "magneto+5+2",
-      "challenger_rating": 90,
-      "Abilities": {
-        "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
-          "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
-          "-70% Ability Accuracy & -105% Regeneration rate.",
-          "Magneto\u2019s abilities gain special bonuses."
-        ],
-        "MUTATION - ALWAYS ACTIVE": [
-          "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
-          "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
-          "+50% Perfect Block Chance.",
-          "+258.3 Attack rating.",
-          "Attacks cannot be Auto-Blocked or Miss."
-        ],
-        "IGNORE CLASS DISADVANTAGE": [
-          "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
-        ],
-        "KNOCK THE OPPONENT DOWN": [
-          "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
-          "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
-        ],
-        "ENHANCED BLEED DEBUFFS": [
-          "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 602.7 Physical damage when they end.",
-          "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 487.5 for 12 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to inflict Bleed, dealing 645.75 Direct Damage over 6 seconds.",
-          "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
-          "Inflict an additional Bleed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1300 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
-          "This Debuff triggers when the Special Attack is launched."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +645.75 Attack.",
-          "100% chance to gain a 30 second Fury Buff, granting +645.75 Attack.",
-          "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 473.55 direct damage over 8 seconds."
-        ]
-      }
-    },
-    "5+3": {
-      "rank": 3,
-      "prestige": "4236",
-      "hp": "17258",
-      "attack": "1203",
-      "crit_rate": "598",
-      "crit_dmge": "703",
-      "armor": "440",
-      "block_prof": "3556",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 6954.97 to 1724.24 Health from any single damage source, excluding damage from a Special 3 Attack.",
-        "He also gains +105.3 to 221.68 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
-        "Heavy Attacks now deal a burst of 252.87 to 1203.29 Energy Damage."
-      ],
-      "url_page": "https://auntm.ai/champions/magneto/tier/5",
-      "champid": "magneto+5+3",
-      "challenger_rating": 100,
-      "Abilities": {
-        "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
-          "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
-          "-70% Ability Accuracy & -105% Regeneration rate.",
-          "Magneto\u2019s abilities gain special bonuses."
-        ],
-        "MUTATION - ALWAYS ACTIVE": [
-          "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
-          "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
-          "+50% Perfect Block Chance.",
-          "+360.9 Attack rating.",
-          "Attacks cannot be Auto-Blocked or Miss."
-        ],
-        "IGNORE CLASS DISADVANTAGE": [
-          "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
-        ],
-        "KNOCK THE OPPONENT DOWN": [
-          "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
-          "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
-        ],
-        "ENHANCED BLEED DEBUFFS": [
-          "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 842.1 Physical damage when they end.",
-          "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 500 for 12 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to inflict Bleed, dealing 902.25 Direct Damage over 6 seconds.",
-          "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
-          "Inflict an additional Bleed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1333.33 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
-          "This Debuff triggers when the Special Attack is launched."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +902.25 Attack.",
-          "100% chance to gain a 30 second Fury Buff, granting +902.25 Attack.",
-          "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 661.65 direct damage over 8 seconds."
-        ]
-      }
-    },
-    "5+4": {
-      "rank": 4,
-      "prestige": "5706",
-      "hp": "23255",
-      "attack": "1621",
-      "crit_rate": "613",
-      "crit_dmge": "721",
-      "armor": "481",
-      "block_prof": "3645",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 9371.77 to 2323.4 Health from any single damage source, excluding damage from a Special 3 Attack.",
-        "He also gains +107.93 to 227.22 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
-        "Heavy Attacks now deal a burst of 340.73 to 1621.39 Energy Damage."
-      ],
-      "url_page": "https://auntm.ai/champions/magneto/tier/5",
-      "champid": "magneto+5+4",
-      "challenger_rating": 110,
-      "Abilities": {
-        "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
-          "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
-          "-70% Ability Accuracy & -105% Regeneration rate.",
-          "Magneto\u2019s abilities gain special bonuses."
-        ],
-        "MUTATION - ALWAYS ACTIVE": [
-          "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
-          "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
-          "+50% Perfect Block Chance.",
-          "+486.3 Attack rating.",
-          "Attacks cannot be Auto-Blocked or Miss."
-        ],
-        "IGNORE CLASS DISADVANTAGE": [
-          "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
-        ],
-        "KNOCK THE OPPONENT DOWN": [
-          "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
-          "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
-        ],
-        "ENHANCED BLEED DEBUFFS": [
-          "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 1134.7 Physical damage when they end.",
-          "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 512.5 for 12 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to inflict Bleed, dealing 1215.75 Direct Damage over 6 seconds.",
-          "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
-          "Inflict an additional Bleed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1366.67 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
-          "This Debuff triggers when the Special Attack is launched."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +1215.75 Attack.",
-          "100% chance to gain a 30 second Fury Buff, granting +1215.75 Attack.",
-          "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 891.55 direct damage over 8 seconds."
-        ]
-      }
-    },
-    "5+5": {
-      "rank": 5,
-      "prestige": "7725",
-      "hp": "31398",
-      "attack": "2189",
-      "crit_rate": "628",
-      "crit_dmge": "738",
-      "armor": "525",
-      "block_prof": "3734",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 12653.39 to 3136.97 Health from any single damage source, excluding damage from a Special 3 Attack.",
-        "He also gains +110.57 to 232.76 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
-        "Heavy Attacks now deal a burst of 460.13 to 2189.52 Energy Damage."
-      ],
-      "url_page": "https://auntm.ai/champions/magneto/tier/5",
-      "champid": "magneto+5+5",
-      "challenger_rating": 120,
-      "Abilities": {
-        "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
-          "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
-          "-70% Ability Accuracy & -105% Regeneration rate.",
-          "Magneto\u2019s abilities gain special bonuses."
-        ],
-        "MUTATION - ALWAYS ACTIVE": [
-          "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
-          "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
-          "+50% Perfect Block Chance.",
-          "+656.7 Attack rating.",
-          "Attacks cannot be Auto-Blocked or Miss."
-        ],
-        "IGNORE CLASS DISADVANTAGE": [
-          "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
-        ],
-        "KNOCK THE OPPONENT DOWN": [
-          "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
-          "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
-        ],
-        "ENHANCED BLEED DEBUFFS": [
-          "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 1532.3 Physical damage when they end.",
-          "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 525 for 12 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to inflict Bleed, dealing 1641.75 Direct Damage over 6 seconds.",
-          "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
-          "Inflict an additional Bleed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1400 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
-          "This Debuff triggers when the Special Attack is launched."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +1641.75 Attack.",
-          "100% chance to gain a 30 second Fury Buff, granting +1641.75 Attack.",
-          "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 1203.95 direct damage over 8 seconds."
-        ]
-      }
-    },
-    "6+1": {
-      "rank": 1,
-      "prestige": "6042",
-      "hp": "24689",
-      "attack": "1721",
-      "crit_rate": "613",
-      "crit_dmge": "721",
-      "armor": "391",
-      "block_prof": "3645",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 9949.67 to 2466.67 Health from any single damage source, excluding damage from a Special 3 Attack.",
-        "He also gains +107.93 to 227.22 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
-        "Heavy Attacks now deal a burst of 361.75 to 1721.41 Energy Damage."
-      ],
-      "url_page": "https://auntm.ai/champions/magneto/tier/6",
-      "champid": "magneto+6+1",
-      "challenger_rating": 110,
-      "Abilities": {
-        "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
-          "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
-          "-70% Ability Accuracy & -105% Regeneration rate.",
-          "Magneto\u2019s abilities gain special bonuses."
-        ],
-        "MUTATION - ALWAYS ACTIVE": [
-          "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
-          "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
-          "+50% Perfect Block Chance.",
-          "+516.3 Attack rating.",
-          "Attacks cannot be Auto-Blocked or Miss."
-        ],
-        "IGNORE CLASS DISADVANTAGE": [
-          "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
-        ],
-        "KNOCK THE OPPONENT DOWN": [
-          "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
-          "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
-        ],
-        "ENHANCED BLEED DEBUFFS": [
-          "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 1204.7 Physical damage when they end.",
-          "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 512.5 for 12 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to inflict Bleed, dealing 1290.75 Direct Damage over 6 seconds.",
-          "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
-          "Inflict an additional Bleed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1366.67 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
-          "This Debuff triggers when the Special Attack is launched."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +1290.75 Attack.",
-          "100% chance to gain a 30 second Fury Buff, granting +1290.75 Attack.",
-          "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 946.55 direct damage over 8 seconds."
-        ]
-      }
-    },
-    "6+2": {
-      "rank": 2,
-      "prestige": "8344",
-      "hp": "34103",
-      "attack": "2377",
-      "crit_rate": "628",
-      "crit_dmge": "738",
-      "armor": "431",
-      "block_prof": "3734",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 13743.51 to 3407.22 Health from any single damage source, excluding damage from a Special 3 Attack.",
-        "He also gains +110.57 to 232.76 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
-        "Heavy Attacks now deal a burst of 499.65 to 2377.56 Energy Damage."
-      ],
-      "url_page": "https://auntm.ai/champions/magneto/tier/6",
-      "champid": "magneto+6+2",
-      "challenger_rating": 120,
-      "Abilities": {
-        "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
-          "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
-          "-70% Ability Accuracy & -105% Regeneration rate.",
-          "Magneto\u2019s abilities gain special bonuses."
-        ],
-        "MUTATION - ALWAYS ACTIVE": [
-          "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
-          "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
-          "+50% Perfect Block Chance.",
-          "+713.1 Attack rating.",
-          "Attacks cannot be Auto-Blocked or Miss."
-        ],
-        "IGNORE CLASS DISADVANTAGE": [
-          "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
-        ],
-        "KNOCK THE OPPONENT DOWN": [
-          "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
-          "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
-        ],
-        "ENHANCED BLEED DEBUFFS": [
-          "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 1663.9 Physical damage when they end.",
-          "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 525 for 12 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to inflict Bleed, dealing 1782.75 Direct Damage over 6 seconds.",
-          "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
-          "Inflict an additional Bleed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1400 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
-          "This Debuff triggers when the Special Attack is launched."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +1782.75 Attack.",
-          "100% chance to gain a 30 second Fury Buff, granting +1782.75 Attack.",
-          "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 1307.35 direct damage over 8 seconds."
-        ]
-      }
-    },
-    "6+3": {
-      "rank": 3,
-      "prestige": "9925",
-      "hp": "40458",
-      "attack": "2820",
-      "crit_rate": "643",
-      "crit_dmge": "756",
-      "armor": "472",
-      "block_prof": "3823",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 16304.57 to 4042.15 Health from any single damage source, excluding damage from a Special 3 Attack.",
-        "He also gains +113.2 to 238.31 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
-        "Heavy Attacks now deal a burst of 592.76 to 2820.67 Energy Damage."
-      ],
-      "url_page": "https://auntm.ai/champions/magneto/tier/6",
-      "champid": "magneto+6+3",
-      "challenger_rating": 130,
-      "Abilities": {
-        "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
-          "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
-          "-70% Ability Accuracy & -105% Regeneration rate.",
-          "Magneto\u2019s abilities gain special bonuses."
-        ],
-        "MUTATION - ALWAYS ACTIVE": [
-          "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
-          "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
-          "+50% Perfect Block Chance.",
-          "+846 Attack rating.",
-          "Attacks cannot be Auto-Blocked or Miss."
-        ],
-        "IGNORE CLASS DISADVANTAGE": [
-          "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
-        ],
-        "KNOCK THE OPPONENT DOWN": [
-          "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
-          "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
-        ],
-        "ENHANCED BLEED DEBUFFS": [
-          "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 1974 Physical damage when they end.",
-          "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 537.5 for 12 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to inflict Bleed, dealing 2115 Direct Damage over 6 seconds.",
-          "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
-          "Inflict an additional Bleed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1433.33 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
-          "This Debuff triggers when the Special Attack is launched."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +2115 Attack.",
-          "100% chance to gain a 30 second Fury Buff, granting +2115 Attack.",
-          "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 1551 direct damage over 8 seconds."
-        ]
-      }
-    },
-    "6+4": {
-      "rank": 4,
-      "prestige": "11360",
-      "hp": "46298",
-      "attack": "3227",
-      "crit_rate": "658",
-      "crit_dmge": "773",
-      "armor": "517",
-      "block_prof": "3912",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Magneto\u2019s mutation reaches Omega level, preventing him from losing more than 18658.09 to 4625.62 Health from any single damage source, excluding damage from a Special 3 Attack.",
-        "He also gains +115.83 to 243.85 Critical Resistance and Block Penetration.\nThis attribute bonus is increased by +100%.",
-        "Heavy Attacks now deal a burst of 678.32 to 3227.77 Energy Damage."
-      ],
-      "url_page": "https://auntm.ai/champions/magneto/tier/6",
-      "champid": "magneto+6+4",
-      "challenger_rating": 140,
-      "Abilities": {
-        "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
-          "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
-          "-70% Ability Accuracy & -105% Regeneration rate.",
-          "Magneto\u2019s abilities gain special bonuses."
-        ],
-        "MUTATION - ALWAYS ACTIVE": [
-          "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
-          "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
-          "+50% Perfect Block Chance.",
-          "+968.1 Attack rating.",
-          "Attacks cannot be Auto-Blocked or Miss."
-        ],
-        "IGNORE CLASS DISADVANTAGE": [
-          "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
-        ],
-        "KNOCK THE OPPONENT DOWN": [
-          "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
-          "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
-        ],
-        "ENHANCED BLEED DEBUFFS": [
-          "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 2258.9 Physical damage when they end.",
-          "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 550 for 12 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to inflict Bleed, dealing 2420.25 Direct Damage over 6 seconds.",
-          "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
-          "Inflict an additional Bleed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1466.67 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
-          "This Debuff triggers when the Special Attack is launched."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +2420.25 Attack.",
-          "100% chance to gain a 30 second Fury Buff, granting +2420.25 Attack.",
-          "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 1774.85 direct damage over 8 seconds."
-        ]
-      }
-    },
-    "1+1": {
-      "rank": 1,
-      "prestige": 167,
-      "hp": 878,
-      "attack": 62,
-      "crit_rate": 463,
-      "crit_dmge": 545,
-      "armor": 0,
-      "block_prof": 2756,
-      "energy_resist": 0,
-      "physical_resist": 0,
-      "crit_resist": 0,
-      "sig_info": null,
-      "url_page": "https://auntm.ai/champions/magneto/tier/1",
-      "champid": "magneto+1+1",
-      "challenger_rating": 10,
-      "Abilities": {
-        "SPECIAL ATTACKS": [
-          "55% chance to inflict Bleed, dealing 130.2 Direct Damage over 10 seconds."
-        ],
-        "PASSIVE": [
-          "Enemies reliant on metal suffer 40% reduced Ability Accuracy."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict Heal Block, preventing the target from recovering Health for 10 seconds.",
-          "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1033.33 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
-          "This Debuff triggers when the Special Attack is launched."
-        ],
-        "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
-          "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
-          "-70% Ability Accuracy & -105% Regeneration rate.",
-          "Magneto\u2019s abilities gain special bonuses."
-        ],
-        "MUTATION - ALWAYS ACTIVE": [
-          "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
-          "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
-          "+50% Perfect Block Chance.",
-          "+18.6 Attack rating.",
-          "Attacks cannot be Auto-Blocked or Miss."
-        ],
-        "IGNORE CLASS DISADVANTAGE": [
-          "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
-        ],
-        "KNOCK THE OPPONENT DOWN": [
-          "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
-          "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
-        ],
-        "ENHANCED BLEED DEBUFFS": [
-          "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 43.4 Physical damage when they end.",
-          "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 387.5 for 12 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to inflict Bleed, dealing 46.5 Direct Damage over 6 seconds.",
-          "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
-          "Inflict an additional Bleed."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +46.5 Attack.",
-          "100% chance to gain a 30 second Fury Buff, granting +46.5 Attack.",
-          "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 34.1 direct damage over 8 seconds."
-        ]
-      }
-    },
-    "1+2": {
-      "rank": 2,
-      "prestige": 242,
-      "hp": 1214,
-      "attack": 85,
-      "crit_rate": 478,
-      "crit_dmge": 563,
-      "armor": 0,
-      "block_prof": 2845,
-      "energy_resist": 0,
-      "physical_resist": 0,
-      "crit_resist": 0,
-      "sig_info": null,
-      "url_page": "https://auntm.ai/champions/magneto/tier/1",
-      "champid": "magneto+1+2",
-      "challenger_rating": 20,
-      "Abilities": {
-        "SPECIAL ATTACKS": [
-          "55% chance to inflict Bleed, dealing 178.5 Direct Damage over 10 seconds."
-        ],
-        "PASSIVE": [
-          "Enemies reliant on metal suffer 40% reduced Ability Accuracy."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict Heal Block, preventing the target from recovering Health for 10 seconds.",
-          "100% chance to inflict an Armor Break Debuff, reducing Armor Rating by 1066.67 for 10 seconds. This Armor Break does not stack but is Re-applied each time Magneto gains a Prowess effect.",
-          "This Debuff triggers when the Special Attack is launched."
-        ],
-        "MAGNETISM - FIGHTING #METAL CHAMPIONS": [
-          "#Metal opponents suffer an indefinite Magnetized Passive which is applied 1 second(s) after the start of the fight and does the following:",
-          "-70% Ability Accuracy & -105% Regeneration rate.",
-          "Magneto\u2019s abilities gain special bonuses."
-        ],
-        "MUTATION - ALWAYS ACTIVE": [
-          "Magneto\u2019s attacks deal Energy damage instead of Physical. Additionally, he gains +10% base Special Attack damage.",
-          "Incoming Bleed & Shock Debuffs suffer -90% Potency.",
-          "+50% Perfect Block Chance.",
-          "+25.5 Attack rating.",
-          "Attacks cannot be Auto-Blocked or Miss."
-        ],
-        "IGNORE CLASS DISADVANTAGE": [
-          "During fights where Magneto has a Class Disadvantage, he removes his Attack Penalty and his opponent loses their Attack Bonus."
-        ],
-        "KNOCK THE OPPONENT DOWN": [
-          "100% chance to gain an indefinite Prowess Buff, which is removed after Magneto\u2019s next Special Attack and grants +20% Special Attack damage. Max Stacks: 5. No Max Stack limit."
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "Magneto\u2019s force field grants him an Unstoppable Buff during the attack. If struck during a Heavy Attack, this effect goes on cooldown for 14 seconds. Cooldown shortened by 10 seconds.",
-          "If held for 0.7 seconds, 100% chance per Prowess Buff to gain another Prowess Buff lasting 10 seconds and granting +5% Special Attack damage. Max Stacks: 30."
-        ],
-        "ENHANCED BLEED DEBUFFS": [
-          "Personal Bleed Debuffs are upgraded into Shrapnel Bleeds which inflict 59.5 Physical damage when they end.",
-          "If the opponent is Immune to a Bleed Debuff, inflict an Armor Break Debuff, reducing Armor Rating by 400 for 12 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to inflict Bleed, dealing 63.75 Direct Damage over 6 seconds.",
-          "If the opponent has an Armor Break Debuff, inflict an additional Bleed.",
-          "Inflict an additional Bleed."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If the opponent is a #Hero Champion, 100% chance to gain a 30 second Fury Buff, granting +63.75 Attack.",
-          "100% chance to gain a 30 second Fury Buff, granting +63.75 Attack.",
-          "Each Prowess Buff on Magneto has a 70% chance to inflict 1 Bleed Debuff, causing 46.75 direct damage over 8 seconds."
-        ]
-      }
-    }
-  },
-  "name": "MAGNETO",
-  "class": "Mutant",
-  "img_portrait": "https://mcoc.rexians.tk/assets/portraits/magneto.png",
-  "contact": "ENERGY",
-  "tags": [
-    "Villain",
-    "Illuminati",
-    "X-Force",
-    "Size: M"
-  ],
-  "released": "6/18/2015"
+    "name": "MAGNETO",
+    "class": "Mutant",
+    "img_portrait": "https://mcoc.rexians.tk/assets/portraits/magneto.png",
+    "contact": "ENERGY",
+    "tags": [
+        "Villain",
+        "Illuminati",
+        "X-Force",
+        "Size: M"
+    ],
+    "released": "6/18/2015"
 }

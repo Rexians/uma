@@ -1,1298 +1,1356 @@
 {
-  "champid": "blackpanther",
-  "data": {
-    "2+1": {
-      "rank": 1,
-      "prestige": "288",
-      "hp": "1121",
-      "attack": "83",
-      "crit_rate": "478",
-      "crit_dmge": "563",
-      "armor": "33",
-      "block_prof": "2845",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 15 to 2.04 seconds.",
-        "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 7.93%. Max 5 Bleeds."
-      ],
-      "url_page": "https://auntm.ai/champions/blackpanther/tier/2",
-      "champid": "blackpanther+2+1",
-      "challenger_rating": 20,
-      "Abilities": {
-        "CRITICAL HITS": [
-          "100% chance to inflict Bleed, dealing 37.35 Direct Damage over 6 seconds."
-        ],
-        "ALL ATTACKS": [
-          "100% Chance to gain a Cruelty Passive granting +120.43 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
-          "When striking into an Auto-Block, Panther is Immune to Stun."
-        ],
-        "PANTHER'S MIGHT - INACTIVE CHARGES": [
-          "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
-          "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
-        ],
-        "PANTHER'S MIGHT": [
-          "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
-          "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +75.39.",
-          "Pause all Personal Cruelty Passives.",
-          "While Active:",
-          "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
-          "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
-        ],
-        "SPECIAL ATTACKS 1 AND 2": [
-          "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "This Attack gains +4.15 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
-        ],
-        "SPECIAL ATTACK 3": [
-          "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 29.05 Direct Damage over 15 seconds.",
-          "Refresh the Duration of Panther's Might."
-        ]
-      }
+    "champid": "blackpanther",
+    "data": {
+        "2+1": {
+            "rank": 1,
+            "prestige": "288",
+            "hp": "1121",
+            "attack": "83",
+            "crit_rate": "478",
+            "crit_dmge": "563",
+            "armor": "33",
+            "block_prof": "2845",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 15 to 2.04 seconds.",
+                "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 7.93%. Max 5 Bleeds."
+            ],
+            "url_page": "https://auntm.ai/champions/blackpanther/tier/2",
+            "champid": "blackpanther+2+1",
+            "challenger_rating": 20,
+            "Abilities": {
+                "CRITICAL HITS": [
+                    "100% chance to inflict Bleed, dealing 37.35 Direct Damage over 6 seconds."
+                ],
+                "ALL ATTACKS": [
+                    "100% Chance to gain a Cruelty Passive granting +120.43 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
+                    "When striking into an Auto-Block, Panther is Immune to Stun."
+                ],
+                "PANTHER'S MIGHT - INACTIVE CHARGES": [
+                    "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
+                    "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
+                ],
+                "PANTHER'S MIGHT": [
+                    "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
+                    "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +75.39.",
+                    "Pause all Personal Cruelty Passives.",
+                    "While Active:",
+                    "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
+                    "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
+                ],
+                "SPECIAL ATTACKS 1 AND 2": [
+                    "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "This Attack gains +4.15 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 29.05 Direct Damage over 15 seconds.",
+                    "Refresh the Duration of Panther's Might."
+                ]
+            }
+        },
+        "2+2": {
+            "rank": 2,
+            "prestige": "373",
+            "hp": "1481",
+            "attack": "109",
+            "crit_rate": "493",
+            "crit_dmge": "580",
+            "armor": "52",
+            "block_prof": "2934",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 15 to 2.04 seconds.",
+                "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 7.93%. Max 5 Bleeds."
+            ],
+            "url_page": "https://auntm.ai/champions/blackpanther/tier/2",
+            "champid": "blackpanther+2+2",
+            "challenger_rating": 30,
+            "Abilities": {
+                "CRITICAL HITS": [
+                    "100% chance to inflict Bleed, dealing 49.05 Direct Damage over 6 seconds."
+                ],
+                "ALL ATTACKS": [
+                    "100% Chance to gain a Cruelty Passive granting +124.19 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
+                    "When striking into an Auto-Block, Panther is Immune to Stun."
+                ],
+                "PANTHER'S MIGHT - INACTIVE CHARGES": [
+                    "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
+                    "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
+                ],
+                "PANTHER'S MIGHT": [
+                    "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
+                    "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +77.75.",
+                    "Pause all Personal Cruelty Passives.",
+                    "While Active:",
+                    "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
+                    "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
+                ],
+                "SPECIAL ATTACKS 1 AND 2": [
+                    "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "This Attack gains +5.45 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 38.15 Direct Damage over 15 seconds.",
+                    "Refresh the Duration of Panther's Might."
+                ]
+            }
+        },
+        "2+3": {
+            "rank": 3,
+            "prestige": "594",
+            "hp": "2350",
+            "attack": "173",
+            "crit_rate": "508",
+            "crit_dmge": "598",
+            "armor": "71",
+            "block_prof": "3023",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 15 to 2.04 seconds.",
+                "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 7.93%. Max 5 Bleeds."
+            ],
+            "url_page": "https://auntm.ai/champions/blackpanther/tier/2",
+            "champid": "blackpanther+2+3",
+            "challenger_rating": 40,
+            "Abilities": {
+                "CRITICAL HITS": [
+                    "100% chance to inflict Bleed, dealing 77.85 Direct Damage over 6 seconds."
+                ],
+                "ALL ATTACKS": [
+                    "100% Chance to gain a Cruelty Passive granting +127.96 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
+                    "When striking into an Auto-Block, Panther is Immune to Stun."
+                ],
+                "PANTHER'S MIGHT - INACTIVE CHARGES": [
+                    "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
+                    "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
+                ],
+                "PANTHER'S MIGHT": [
+                    "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
+                    "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +80.1.",
+                    "Pause all Personal Cruelty Passives.",
+                    "While Active:",
+                    "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
+                    "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
+                ],
+                "SPECIAL ATTACKS 1 AND 2": [
+                    "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "This Attack gains +8.65 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 60.55 Direct Damage over 15 seconds.",
+                    "Refresh the Duration of Panther's Might."
+                ]
+            }
+        },
+        "3+1": {
+            "rank": 1,
+            "prestige": "511",
+            "hp": "2032",
+            "attack": "149",
+            "crit_rate": "508",
+            "crit_dmge": "598",
+            "armor": "71",
+            "block_prof": "3023",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 15 to 2.04 seconds.",
+                "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 7.93%. Max 5 Bleeds."
+            ],
+            "url_page": "https://auntm.ai/champions/blackpanther/tier/3",
+            "champid": "blackpanther+3+1",
+            "challenger_rating": 40,
+            "Abilities": {
+                "CRITICAL HITS": [
+                    "100% chance to inflict Bleed, dealing 67.05 Direct Damage over 6 seconds."
+                ],
+                "ALL ATTACKS": [
+                    "100% Chance to gain a Cruelty Passive granting +127.96 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
+                    "When striking into an Auto-Block, Panther is Immune to Stun."
+                ],
+                "PANTHER'S MIGHT - INACTIVE CHARGES": [
+                    "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
+                    "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
+                ],
+                "PANTHER'S MIGHT": [
+                    "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
+                    "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +80.1.",
+                    "Pause all Personal Cruelty Passives.",
+                    "While Active:",
+                    "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
+                    "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
+                ],
+                "SPECIAL ATTACKS 1 AND 2": [
+                    "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "This Attack gains +7.45 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 52.15 Direct Damage over 15 seconds.",
+                    "Refresh the Duration of Panther's Might."
+                ]
+            }
+        },
+        "3+2": {
+            "rank": 2,
+            "prestige": "816",
+            "hp": "3251",
+            "attack": "239",
+            "crit_rate": "523",
+            "crit_dmge": "615",
+            "armor": "93",
+            "block_prof": "3112",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 15 to 2.04 seconds.",
+                "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 7.93%. Max 5 Bleeds."
+            ],
+            "url_page": "https://auntm.ai/champions/blackpanther/tier/3",
+            "champid": "blackpanther+3+2",
+            "challenger_rating": 50,
+            "Abilities": {
+                "CRITICAL HITS": [
+                    "100% chance to inflict Bleed, dealing 107.55 Direct Damage over 6 seconds."
+                ],
+                "ALL ATTACKS": [
+                    "100% Chance to gain a Cruelty Passive granting +131.72 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
+                    "When striking into an Auto-Block, Panther is Immune to Stun."
+                ],
+                "PANTHER'S MIGHT - INACTIVE CHARGES": [
+                    "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
+                    "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
+                ],
+                "PANTHER'S MIGHT": [
+                    "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
+                    "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +82.46.",
+                    "Pause all Personal Cruelty Passives.",
+                    "While Active:",
+                    "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
+                    "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
+                ],
+                "SPECIAL ATTACKS 1 AND 2": [
+                    "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "This Attack gains +11.95 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 83.65 Direct Damage over 15 seconds.",
+                    "Refresh the Duration of Panther's Might."
+                ]
+            }
+        },
+        "3+3": {
+            "rank": 3,
+            "prestige": "1138",
+            "hp": "4548",
+            "attack": "334",
+            "crit_rate": "538",
+            "crit_dmge": "633",
+            "armor": "115",
+            "block_prof": "3200",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 15 to 2.04 seconds.",
+                "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 7.93%. Max 5 Bleeds."
+            ],
+            "url_page": "https://auntm.ai/champions/blackpanther/tier/3",
+            "champid": "blackpanther+3+3",
+            "challenger_rating": 60,
+            "Abilities": {
+                "CRITICAL HITS": [
+                    "100% chance to inflict Bleed, dealing 150.3 Direct Damage over 6 seconds."
+                ],
+                "ALL ATTACKS": [
+                    "100% Chance to gain a Cruelty Passive granting +135.48 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
+                    "When striking into an Auto-Block, Panther is Immune to Stun."
+                ],
+                "PANTHER'S MIGHT - INACTIVE CHARGES": [
+                    "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
+                    "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
+                ],
+                "PANTHER'S MIGHT": [
+                    "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
+                    "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +84.82.",
+                    "Pause all Personal Cruelty Passives.",
+                    "While Active:",
+                    "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
+                    "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
+                ],
+                "SPECIAL ATTACKS 1 AND 2": [
+                    "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "This Attack gains +16.7 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 116.9 Direct Damage over 15 seconds.",
+                    "Refresh the Duration of Panther's Might."
+                ]
+            }
+        },
+        "3+4": {
+            "rank": 4,
+            "prestige": "1563",
+            "hp": "6245",
+            "attack": "458",
+            "crit_rate": "553",
+            "crit_dmge": "650",
+            "armor": "140",
+            "block_prof": "3289",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 15 to 2.04 seconds.",
+                "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 7.93%. Max 5 Bleeds."
+            ],
+            "url_page": "https://auntm.ai/champions/blackpanther/tier/3",
+            "champid": "blackpanther+3+4",
+            "challenger_rating": 70,
+            "Abilities": {
+                "CRITICAL HITS": [
+                    "100% chance to inflict Bleed, dealing 206.1 Direct Damage over 6 seconds."
+                ],
+                "ALL ATTACKS": [
+                    "100% Chance to gain a Cruelty Passive granting +139.25 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
+                    "When striking into an Auto-Block, Panther is Immune to Stun."
+                ],
+                "PANTHER'S MIGHT - INACTIVE CHARGES": [
+                    "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
+                    "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
+                ],
+                "PANTHER'S MIGHT": [
+                    "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
+                    "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +87.17.",
+                    "Pause all Personal Cruelty Passives.",
+                    "While Active:",
+                    "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
+                    "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
+                ],
+                "SPECIAL ATTACKS 1 AND 2": [
+                    "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "This Attack gains +22.9 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 160.3 Direct Damage over 15 seconds.",
+                    "Refresh the Duration of Panther's Might."
+                ]
+            }
+        },
+        "4+1": {
+            "rank": 1,
+            "prestige": "1140",
+            "hp": "4545",
+            "attack": "334",
+            "crit_rate": "538",
+            "crit_dmge": "633",
+            "armor": "157",
+            "block_prof": "3200",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 15 to 2.04 seconds.",
+                "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 7.93%. Max 5 Bleeds."
+            ],
+            "url_page": "https://auntm.ai/champions/blackpanther/tier/4",
+            "champid": "blackpanther+4+1",
+            "challenger_rating": 60,
+            "Abilities": {
+                "CRITICAL HITS": [
+                    "100% chance to inflict Bleed, dealing 150.3 Direct Damage over 6 seconds."
+                ],
+                "ALL ATTACKS": [
+                    "100% Chance to gain a Cruelty Passive granting +135.48 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
+                    "When striking into an Auto-Block, Panther is Immune to Stun."
+                ],
+                "PANTHER'S MIGHT - INACTIVE CHARGES": [
+                    "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
+                    "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
+                ],
+                "PANTHER'S MIGHT": [
+                    "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
+                    "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +84.82.",
+                    "Pause all Personal Cruelty Passives.",
+                    "While Active:",
+                    "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
+                    "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
+                ],
+                "SPECIAL ATTACKS 1 AND 2": [
+                    "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "This Attack gains +16.7 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 116.9 Direct Damage over 15 seconds.",
+                    "Refresh the Duration of Panther's Might."
+                ]
+            }
+        },
+        "4+2": {
+            "rank": 2,
+            "prestige": "1598",
+            "hp": "6375",
+            "attack": "468",
+            "crit_rate": "553",
+            "crit_dmge": "650",
+            "armor": "183",
+            "block_prof": "3289",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 15 to 2.04 seconds.",
+                "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 7.93%. Max 5 Bleeds."
+            ],
+            "url_page": "https://auntm.ai/champions/blackpanther/tier/4",
+            "champid": "blackpanther+4+2",
+            "challenger_rating": 70,
+            "Abilities": {
+                "CRITICAL HITS": [
+                    "100% chance to inflict Bleed, dealing 210.6 Direct Damage over 6 seconds."
+                ],
+                "ALL ATTACKS": [
+                    "100% Chance to gain a Cruelty Passive granting +139.25 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
+                    "When striking into an Auto-Block, Panther is Immune to Stun."
+                ],
+                "PANTHER'S MIGHT - INACTIVE CHARGES": [
+                    "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
+                    "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
+                ],
+                "PANTHER'S MIGHT": [
+                    "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
+                    "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +87.17.",
+                    "Pause all Personal Cruelty Passives.",
+                    "While Active:",
+                    "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
+                    "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
+                ],
+                "SPECIAL ATTACKS 1 AND 2": [
+                    "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "This Attack gains +23.4 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 163.8 Direct Damage over 15 seconds.",
+                    "Refresh the Duration of Panther's Might."
+                ]
+            }
+        },
+        "4+3": {
+            "rank": 3,
+            "prestige": "2236",
+            "hp": "8932",
+            "attack": "655",
+            "crit_rate": "568",
+            "crit_dmge": "668",
+            "armor": "212",
+            "block_prof": "3378",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 15 to 2.04 seconds.",
+                "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 7.93%. Max 5 Bleeds."
+            ],
+            "url_page": "https://auntm.ai/champions/blackpanther/tier/4",
+            "champid": "blackpanther+4+3",
+            "challenger_rating": 80,
+            "Abilities": {
+                "CRITICAL HITS": [
+                    "100% chance to inflict Bleed, dealing 294.75 Direct Damage over 6 seconds."
+                ],
+                "ALL ATTACKS": [
+                    "100% Chance to gain a Cruelty Passive granting +143.01 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
+                    "When striking into an Auto-Block, Panther is Immune to Stun."
+                ],
+                "PANTHER'S MIGHT - INACTIVE CHARGES": [
+                    "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
+                    "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
+                ],
+                "PANTHER'S MIGHT": [
+                    "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
+                    "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +89.53.",
+                    "Pause all Personal Cruelty Passives.",
+                    "While Active:",
+                    "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
+                    "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
+                ],
+                "SPECIAL ATTACKS 1 AND 2": [
+                    "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "This Attack gains +32.75 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 229.25 Direct Damage over 15 seconds.",
+                    "Refresh the Duration of Panther's Might."
+                ]
+            }
+        },
+        "4+4": {
+            "rank": 4,
+            "prestige": "2942",
+            "hp": "11736",
+            "attack": "861",
+            "crit_rate": "583",
+            "crit_dmge": "686",
+            "armor": "242",
+            "block_prof": "3467",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 15 to 2.04 seconds.",
+                "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 7.93%. Max 5 Bleeds."
+            ],
+            "url_page": "https://auntm.ai/champions/blackpanther/tier/4",
+            "champid": "blackpanther+4+4",
+            "challenger_rating": 90,
+            "Abilities": {
+                "CRITICAL HITS": [
+                    "100% chance to inflict Bleed, dealing 387.45 Direct Damage over 6 seconds."
+                ],
+                "ALL ATTACKS": [
+                    "100% Chance to gain a Cruelty Passive granting +146.77 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
+                    "When striking into an Auto-Block, Panther is Immune to Stun."
+                ],
+                "PANTHER'S MIGHT - INACTIVE CHARGES": [
+                    "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
+                    "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
+                ],
+                "PANTHER'S MIGHT": [
+                    "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
+                    "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +91.88.",
+                    "Pause all Personal Cruelty Passives.",
+                    "While Active:",
+                    "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
+                    "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
+                ],
+                "SPECIAL ATTACKS 1 AND 2": [
+                    "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "This Attack gains +43.05 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 301.35 Direct Damage over 15 seconds.",
+                    "Refresh the Duration of Panther's Might."
+                ]
+            }
+        },
+        "4+5": {
+            "rank": 5,
+            "prestige": "3920",
+            "hp": "15660",
+            "attack": "1148",
+            "crit_rate": "598",
+            "crit_dmge": "703",
+            "armor": "273",
+            "block_prof": "3556",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 15 to 2.04 seconds.",
+                "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 7.93%. Max 5 Bleeds."
+            ],
+            "url_page": "https://auntm.ai/champions/blackpanther/tier/4",
+            "champid": "blackpanther+4+5",
+            "challenger_rating": 100,
+            "Abilities": {
+                "CRITICAL HITS": [
+                    "100% chance to inflict Bleed, dealing 516.6 Direct Damage over 6 seconds."
+                ],
+                "ALL ATTACKS": [
+                    "100% Chance to gain a Cruelty Passive granting +150.54 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
+                    "When striking into an Auto-Block, Panther is Immune to Stun."
+                ],
+                "PANTHER'S MIGHT - INACTIVE CHARGES": [
+                    "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
+                    "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
+                ],
+                "PANTHER'S MIGHT": [
+                    "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
+                    "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +94.24.",
+                    "Pause all Personal Cruelty Passives.",
+                    "While Active:",
+                    "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
+                    "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
+                ],
+                "SPECIAL ATTACKS 1 AND 2": [
+                    "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "This Attack gains +57.4 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 401.8 Direct Damage over 15 seconds.",
+                    "Refresh the Duration of Panther's Might."
+                ]
+            }
+        },
+        "5+1": {
+            "rank": 1,
+            "prestige": "2348",
+            "hp": "9345",
+            "attack": "685",
+            "crit_rate": "568",
+            "crit_dmge": "668",
+            "armor": "362",
+            "block_prof": "3378",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 14.18 to 1.04 seconds.",
+                "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 10.05%. Max 5 Bleeds."
+            ],
+            "url_page": "https://auntm.ai/champions/blackpanther/tier/5",
+            "champid": "blackpanther+5+1",
+            "challenger_rating": 80,
+            "Abilities": {
+                "CRITICAL HITS": [
+                    "100% chance to inflict Bleed, dealing 308.25 Direct Damage over 6 seconds."
+                ],
+                "ALL ATTACKS": [
+                    "100% Chance to gain a Cruelty Passive granting +143.01 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
+                    "When striking into an Auto-Block, Panther is Immune to Stun."
+                ],
+                "PANTHER'S MIGHT - INACTIVE CHARGES": [
+                    "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
+                    "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
+                ],
+                "PANTHER'S MIGHT": [
+                    "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
+                    "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +89.53.",
+                    "Pause all Personal Cruelty Passives.",
+                    "While Active:",
+                    "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
+                    "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
+                ],
+                "SPECIAL ATTACKS 1 AND 2": [
+                    "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "This Attack gains +34.25 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 239.75 Direct Damage over 15 seconds.",
+                    "Refresh the Duration of Panther's Might."
+                ]
+            }
+        },
+        "5+2": {
+            "rank": 2,
+            "prestige": "3098",
+            "hp": "12345",
+            "attack": "905",
+            "crit_rate": "583",
+            "crit_dmge": "686",
+            "armor": "400",
+            "block_prof": "3467",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 14.18 to 1.04 seconds.",
+                "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 10.05%. Max 5 Bleeds."
+            ],
+            "url_page": "https://auntm.ai/champions/blackpanther/tier/5",
+            "champid": "blackpanther+5+2",
+            "challenger_rating": 90,
+            "Abilities": {
+                "CRITICAL HITS": [
+                    "100% chance to inflict Bleed, dealing 407.25 Direct Damage over 6 seconds."
+                ],
+                "ALL ATTACKS": [
+                    "100% Chance to gain a Cruelty Passive granting +146.77 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
+                    "When striking into an Auto-Block, Panther is Immune to Stun."
+                ],
+                "PANTHER'S MIGHT - INACTIVE CHARGES": [
+                    "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
+                    "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
+                ],
+                "PANTHER'S MIGHT": [
+                    "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
+                    "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +91.88.",
+                    "Pause all Personal Cruelty Passives.",
+                    "While Active:",
+                    "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
+                    "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
+                ],
+                "SPECIAL ATTACKS 1 AND 2": [
+                    "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "This Attack gains +45.25 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 316.75 Direct Damage over 15 seconds.",
+                    "Refresh the Duration of Panther's Might."
+                ]
+            }
+        },
+        "5+3": {
+            "rank": 3,
+            "prestige": "4339",
+            "hp": "17258",
+            "attack": "1265",
+            "crit_rate": "598",
+            "crit_dmge": "703",
+            "armor": "440",
+            "block_prof": "3556",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 14.18 to 1.04 seconds.",
+                "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 10.05%. Max 5 Bleeds."
+            ],
+            "url_page": "https://auntm.ai/champions/blackpanther/tier/5",
+            "champid": "blackpanther+5+3",
+            "challenger_rating": 100,
+            "Abilities": {
+                "CRITICAL HITS": [
+                    "100% chance to inflict Bleed, dealing 569.25 Direct Damage over 6 seconds."
+                ],
+                "ALL ATTACKS": [
+                    "100% Chance to gain a Cruelty Passive granting +150.54 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
+                    "When striking into an Auto-Block, Panther is Immune to Stun."
+                ],
+                "PANTHER'S MIGHT - INACTIVE CHARGES": [
+                    "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
+                    "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
+                ],
+                "PANTHER'S MIGHT": [
+                    "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
+                    "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +94.24.",
+                    "Pause all Personal Cruelty Passives.",
+                    "While Active:",
+                    "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
+                    "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
+                ],
+                "SPECIAL ATTACKS 1 AND 2": [
+                    "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "This Attack gains +63.25 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 442.75 Direct Damage over 15 seconds.",
+                    "Refresh the Duration of Panther's Might."
+                ]
+            }
+        },
+        "5+4": {
+            "rank": 4,
+            "prestige": "5844",
+            "hp": "23255",
+            "attack": "1705",
+            "crit_rate": "613",
+            "crit_dmge": "721",
+            "armor": "481",
+            "block_prof": "3645",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 14.18 to 1.04 seconds.",
+                "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 10.05%. Max 5 Bleeds."
+            ],
+            "url_page": "https://auntm.ai/champions/blackpanther/tier/5",
+            "champid": "blackpanther+5+4",
+            "challenger_rating": 110,
+            "Abilities": {
+                "CRITICAL HITS": [
+                    "100% chance to inflict Bleed, dealing 767.25 Direct Damage over 6 seconds."
+                ],
+                "ALL ATTACKS": [
+                    "100% Chance to gain a Cruelty Passive granting +154.3 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
+                    "When striking into an Auto-Block, Panther is Immune to Stun."
+                ],
+                "PANTHER'S MIGHT - INACTIVE CHARGES": [
+                    "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
+                    "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
+                ],
+                "PANTHER'S MIGHT": [
+                    "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
+                    "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +96.6.",
+                    "Pause all Personal Cruelty Passives.",
+                    "While Active:",
+                    "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
+                    "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
+                ],
+                "SPECIAL ATTACKS 1 AND 2": [
+                    "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "This Attack gains +85.25 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 596.75 Direct Damage over 15 seconds.",
+                    "Refresh the Duration of Panther's Might."
+                ]
+            }
+        },
+        "5+5": {
+            "rank": 5,
+            "prestige": "7902",
+            "hp": "31398",
+            "attack": "2301",
+            "crit_rate": "628",
+            "crit_dmge": "738",
+            "armor": "525",
+            "block_prof": "3734",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 14.18 to 1.04 seconds.",
+                "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 10.05%. Max 5 Bleeds."
+            ],
+            "url_page": "https://auntm.ai/champions/blackpanther/tier/5",
+            "champid": "blackpanther+5+5",
+            "challenger_rating": 120,
+            "Abilities": {
+                "CRITICAL HITS": [
+                    "100% chance to inflict Bleed, dealing 1035.45 Direct Damage over 6 seconds."
+                ],
+                "ALL ATTACKS": [
+                    "100% Chance to gain a Cruelty Passive granting +158.06 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
+                    "When striking into an Auto-Block, Panther is Immune to Stun."
+                ],
+                "PANTHER'S MIGHT - INACTIVE CHARGES": [
+                    "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
+                    "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
+                ],
+                "PANTHER'S MIGHT": [
+                    "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
+                    "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +98.95.",
+                    "Pause all Personal Cruelty Passives.",
+                    "While Active:",
+                    "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
+                    "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
+                ],
+                "SPECIAL ATTACKS 1 AND 2": [
+                    "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "This Attack gains +115.05 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 805.35 Direct Damage over 15 seconds.",
+                    "Refresh the Duration of Panther's Might."
+                ]
+            }
+        },
+        "6+1": {
+            "rank": 1,
+            "prestige": "6190",
+            "hp": "24689",
+            "attack": "1810",
+            "crit_rate": "613",
+            "crit_dmge": "721",
+            "armor": "391",
+            "block_prof": "3645",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 14.18 to 1.04 seconds.",
+                "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 10.05%. Max 5 Bleeds."
+            ],
+            "url_page": "https://auntm.ai/champions/blackpanther/tier/6",
+            "champid": "blackpanther+6+1",
+            "challenger_rating": 110,
+            "Abilities": {
+                "CRITICAL HITS": [
+                    "100% chance to inflict Bleed, dealing 814.5 Direct Damage over 6 seconds."
+                ],
+                "ALL ATTACKS": [
+                    "100% Chance to gain a Cruelty Passive granting +154.3 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
+                    "When striking into an Auto-Block, Panther is Immune to Stun."
+                ],
+                "PANTHER'S MIGHT - INACTIVE CHARGES": [
+                    "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
+                    "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
+                ],
+                "PANTHER'S MIGHT": [
+                    "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
+                    "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +96.6.",
+                    "Pause all Personal Cruelty Passives.",
+                    "While Active:",
+                    "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
+                    "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
+                ],
+                "SPECIAL ATTACKS 1 AND 2": [
+                    "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "This Attack gains +90.5 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 633.5 Direct Damage over 15 seconds.",
+                    "Refresh the Duration of Panther's Might."
+                ]
+            }
+        },
+        "6+2": {
+            "rank": 2,
+            "prestige": "8546",
+            "hp": "34103",
+            "attack": "2500",
+            "crit_rate": "628",
+            "crit_dmge": "738",
+            "armor": "431",
+            "block_prof": "3734",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 14.18 to 1.04 seconds.",
+                "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 10.05%. Max 5 Bleeds."
+            ],
+            "url_page": "https://auntm.ai/champions/blackpanther/tier/6",
+            "champid": "blackpanther+6+2",
+            "challenger_rating": 120,
+            "Abilities": {
+                "CRITICAL HITS": [
+                    "100% chance to inflict Bleed, dealing 1125 Direct Damage over 6 seconds."
+                ],
+                "ALL ATTACKS": [
+                    "100% Chance to gain a Cruelty Passive granting +158.06 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
+                    "When striking into an Auto-Block, Panther is Immune to Stun."
+                ],
+                "PANTHER'S MIGHT - INACTIVE CHARGES": [
+                    "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
+                    "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
+                ],
+                "PANTHER'S MIGHT": [
+                    "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
+                    "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +98.95.",
+                    "Pause all Personal Cruelty Passives.",
+                    "While Active:",
+                    "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
+                    "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
+                ],
+                "SPECIAL ATTACKS 1 AND 2": [
+                    "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "This Attack gains +125 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 875 Direct Damage over 15 seconds.",
+                    "Refresh the Duration of Panther's Might."
+                ]
+            }
+        },
+        "6+3": {
+            "rank": 3,
+            "prestige": "10159",
+            "hp": "40458",
+            "attack": "2965",
+            "crit_rate": "643",
+            "crit_dmge": "756",
+            "armor": "472",
+            "block_prof": "3823",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 14.18 to 1.04 seconds.",
+                "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 10.05%. Max 5 Bleeds."
+            ],
+            "url_page": "https://auntm.ai/champions/blackpanther/tier/6",
+            "champid": "blackpanther+6+3",
+            "challenger_rating": 130,
+            "Abilities": {
+                "CRITICAL HITS": [
+                    "100% chance to inflict Bleed, dealing 1334.25 Direct Damage over 6 seconds."
+                ],
+                "ALL ATTACKS": [
+                    "100% Chance to gain a Cruelty Passive granting +161.83 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
+                    "When striking into an Auto-Block, Panther is Immune to Stun."
+                ],
+                "PANTHER'S MIGHT - INACTIVE CHARGES": [
+                    "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
+                    "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
+                ],
+                "PANTHER'S MIGHT": [
+                    "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
+                    "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +101.31.",
+                    "Pause all Personal Cruelty Passives.",
+                    "While Active:",
+                    "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
+                    "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
+                ],
+                "SPECIAL ATTACKS 1 AND 2": [
+                    "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "This Attack gains +148.25 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 1037.75 Direct Damage over 15 seconds.",
+                    "Refresh the Duration of Panther's Might."
+                ]
+            }
+        },
+        "6+4": {
+            "rank": 4,
+            "prestige": "11624",
+            "hp": "46298",
+            "attack": "3393",
+            "crit_rate": "658",
+            "crit_dmge": "773",
+            "armor": "517",
+            "block_prof": "3912",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 14.18 to 1.04 seconds.",
+                "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 10.05%. Max 5 Bleeds."
+            ],
+            "url_page": "https://auntm.ai/champions/blackpanther/tier/6",
+            "champid": "blackpanther+6+4",
+            "challenger_rating": 140,
+            "Abilities": {
+                "CRITICAL HITS": [
+                    "100% chance to inflict Bleed, dealing 1526.85 Direct Damage over 6 seconds."
+                ],
+                "ALL ATTACKS": [
+                    "100% Chance to gain a Cruelty Passive granting +165.59 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
+                    "When striking into an Auto-Block, Panther is Immune to Stun."
+                ],
+                "PANTHER'S MIGHT - INACTIVE CHARGES": [
+                    "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
+                    "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
+                ],
+                "PANTHER'S MIGHT": [
+                    "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
+                    "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +103.66.",
+                    "Pause all Personal Cruelty Passives.",
+                    "While Active:",
+                    "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
+                    "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
+                ],
+                "SPECIAL ATTACKS 1 AND 2": [
+                    "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "This Attack gains +169.65 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 1187.55 Direct Damage over 15 seconds.",
+                    "Refresh the Duration of Panther's Might."
+                ]
+            }
+        },
+        "1+1": {
+            "rank": 1,
+            "prestige": 224,
+            "hp": 878,
+            "attack": 65,
+            "crit_rate": 463,
+            "crit_dmge": 545,
+            "armor": 0,
+            "block_prof": 2756,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": null,
+            "url_page": "https://auntm.ai/champions/blackpanther/tier/1",
+            "champid": "blackpanther+1+1",
+            "challenger_rating": 10,
+            "Abilities": {
+                "CRITICAL HITS": [
+                    "100% chance to inflict Bleed, dealing 29.25 Direct Damage over 6 seconds."
+                ],
+                "ALL ATTACKS": [
+                    "100% Chance to gain a Cruelty Passive granting +116.67 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
+                    "When striking into an Auto-Block, Panther is Immune to Stun."
+                ],
+                "PANTHER'S MIGHT - INACTIVE CHARGES": [
+                    "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
+                    "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
+                ],
+                "PANTHER'S MIGHT": [
+                    "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
+                    "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +73.04.",
+                    "Pause all Personal Cruelty Passives.",
+                    "While Active:",
+                    "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
+                    "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
+                ],
+                "SPECIAL ATTACKS 1 AND 2": [
+                    "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "This Attack gains +3.25 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 22.75 Direct Damage over 15 seconds.",
+                    "Refresh the Duration of Panther's Might."
+                ]
+            }
+        },
+        "1+2": {
+            "rank": 2,
+            "prestige": 303,
+            "hp": 1214,
+            "attack": 89,
+            "crit_rate": 478,
+            "crit_dmge": 563,
+            "armor": 0,
+            "block_prof": 2845,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": null,
+            "url_page": "https://auntm.ai/champions/blackpanther/tier/1",
+            "champid": "blackpanther+1+2",
+            "challenger_rating": 20,
+            "Abilities": {
+                "CRITICAL HITS": [
+                    "100% chance to inflict Bleed, dealing 40.05 Direct Damage over 6 seconds."
+                ],
+                "ALL ATTACKS": [
+                    "100% Chance to gain a Cruelty Passive granting +120.43 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
+                    "When striking into an Auto-Block, Panther is Immune to Stun."
+                ],
+                "PANTHER'S MIGHT - INACTIVE CHARGES": [
+                    "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
+                    "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
+                ],
+                "PANTHER'S MIGHT": [
+                    "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
+                    "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
+                    "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +75.39.",
+                    "Pause all Personal Cruelty Passives.",
+                    "While Active:",
+                    "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
+                    "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
+                ],
+                "SPECIAL ATTACKS 1 AND 2": [
+                    "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "This Attack gains +4.45 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 31.15 Direct Damage over 15 seconds.",
+                    "Refresh the Duration of Panther's Might."
+                ]
+            }
+        },
+        "find": {
+            "story_quests": {
+                "act_1": [
+                    "1.1.1"
+                ],
+                "act_2": [
+                    "2.1.2"
+                ],
+                "act_3": [
+                    "3.1.1"
+                ],
+                "act_4": [
+                    "4.1.1",
+                    "4.1.2",
+                    "4.1.3",
+                    "4.1.4",
+                    "4.1.5",
+                    "4.1.6",
+                    "4.2.1",
+                    "4.2.2",
+                    "4.2.3",
+                    "4.2.4",
+                    "4.2.5",
+                    "4.2.6",
+                    "4.3.1",
+                    "4.3.2",
+                    "4.3.3",
+                    "4.3.4",
+                    "4.3.5",
+                    "4.3.6",
+                    "4.4.1",
+                    "4.4.2",
+                    "4.4.3",
+                    "4.4.4",
+                    "4.4.5"
+                ],
+                "act_5": [
+                    "5.1.5",
+                    "5.2.1",
+                    "5.2.5",
+                    "5.3.5",
+                    "5.3.6",
+                    "5.4.2"
+                ],
+                "act_6": [
+                    "6.1.2",
+                    "6.1.4",
+                    "6.2.4",
+                    "6.3.6",
+                    "6.4.2"
+                ],
+                "act_7": [
+                    "7.1.2",
+                    "7.3.3",
+                    "7.3.5"
+                ]
+            }
+        }
     },
-    "2+2": {
-      "rank": 2,
-      "prestige": "373",
-      "hp": "1481",
-      "attack": "109",
-      "crit_rate": "493",
-      "crit_dmge": "580",
-      "armor": "52",
-      "block_prof": "2934",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 15 to 2.04 seconds.",
-        "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 7.93%. Max 5 Bleeds."
-      ],
-      "url_page": "https://auntm.ai/champions/blackpanther/tier/2",
-      "champid": "blackpanther+2+2",
-      "challenger_rating": 30,
-      "Abilities": {
-        "CRITICAL HITS": [
-          "100% chance to inflict Bleed, dealing 49.05 Direct Damage over 6 seconds."
-        ],
-        "ALL ATTACKS": [
-          "100% Chance to gain a Cruelty Passive granting +124.19 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
-          "When striking into an Auto-Block, Panther is Immune to Stun."
-        ],
-        "PANTHER'S MIGHT - INACTIVE CHARGES": [
-          "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
-          "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
-        ],
-        "PANTHER'S MIGHT": [
-          "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
-          "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +77.75.",
-          "Pause all Personal Cruelty Passives.",
-          "While Active:",
-          "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
-          "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
-        ],
-        "SPECIAL ATTACKS 1 AND 2": [
-          "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "This Attack gains +5.45 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
-        ],
-        "SPECIAL ATTACK 3": [
-          "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 38.15 Direct Damage over 15 seconds.",
-          "Refresh the Duration of Panther's Might."
-        ]
-      }
-    },
-    "2+3": {
-      "rank": 3,
-      "prestige": "594",
-      "hp": "2350",
-      "attack": "173",
-      "crit_rate": "508",
-      "crit_dmge": "598",
-      "armor": "71",
-      "block_prof": "3023",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 15 to 2.04 seconds.",
-        "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 7.93%. Max 5 Bleeds."
-      ],
-      "url_page": "https://auntm.ai/champions/blackpanther/tier/2",
-      "champid": "blackpanther+2+3",
-      "challenger_rating": 40,
-      "Abilities": {
-        "CRITICAL HITS": [
-          "100% chance to inflict Bleed, dealing 77.85 Direct Damage over 6 seconds."
-        ],
-        "ALL ATTACKS": [
-          "100% Chance to gain a Cruelty Passive granting +127.96 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
-          "When striking into an Auto-Block, Panther is Immune to Stun."
-        ],
-        "PANTHER'S MIGHT - INACTIVE CHARGES": [
-          "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
-          "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
-        ],
-        "PANTHER'S MIGHT": [
-          "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
-          "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +80.1.",
-          "Pause all Personal Cruelty Passives.",
-          "While Active:",
-          "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
-          "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
-        ],
-        "SPECIAL ATTACKS 1 AND 2": [
-          "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "This Attack gains +8.65 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
-        ],
-        "SPECIAL ATTACK 3": [
-          "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 60.55 Direct Damage over 15 seconds.",
-          "Refresh the Duration of Panther's Might."
-        ]
-      }
-    },
-    "3+1": {
-      "rank": 1,
-      "prestige": "511",
-      "hp": "2032",
-      "attack": "149",
-      "crit_rate": "508",
-      "crit_dmge": "598",
-      "armor": "71",
-      "block_prof": "3023",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 15 to 2.04 seconds.",
-        "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 7.93%. Max 5 Bleeds."
-      ],
-      "url_page": "https://auntm.ai/champions/blackpanther/tier/3",
-      "champid": "blackpanther+3+1",
-      "challenger_rating": 40,
-      "Abilities": {
-        "CRITICAL HITS": [
-          "100% chance to inflict Bleed, dealing 67.05 Direct Damage over 6 seconds."
-        ],
-        "ALL ATTACKS": [
-          "100% Chance to gain a Cruelty Passive granting +127.96 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
-          "When striking into an Auto-Block, Panther is Immune to Stun."
-        ],
-        "PANTHER'S MIGHT - INACTIVE CHARGES": [
-          "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
-          "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
-        ],
-        "PANTHER'S MIGHT": [
-          "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
-          "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +80.1.",
-          "Pause all Personal Cruelty Passives.",
-          "While Active:",
-          "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
-          "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
-        ],
-        "SPECIAL ATTACKS 1 AND 2": [
-          "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "This Attack gains +7.45 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
-        ],
-        "SPECIAL ATTACK 3": [
-          "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 52.15 Direct Damage over 15 seconds.",
-          "Refresh the Duration of Panther's Might."
-        ]
-      }
-    },
-    "3+2": {
-      "rank": 2,
-      "prestige": "816",
-      "hp": "3251",
-      "attack": "239",
-      "crit_rate": "523",
-      "crit_dmge": "615",
-      "armor": "93",
-      "block_prof": "3112",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 15 to 2.04 seconds.",
-        "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 7.93%. Max 5 Bleeds."
-      ],
-      "url_page": "https://auntm.ai/champions/blackpanther/tier/3",
-      "champid": "blackpanther+3+2",
-      "challenger_rating": 50,
-      "Abilities": {
-        "CRITICAL HITS": [
-          "100% chance to inflict Bleed, dealing 107.55 Direct Damage over 6 seconds."
-        ],
-        "ALL ATTACKS": [
-          "100% Chance to gain a Cruelty Passive granting +131.72 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
-          "When striking into an Auto-Block, Panther is Immune to Stun."
-        ],
-        "PANTHER'S MIGHT - INACTIVE CHARGES": [
-          "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
-          "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
-        ],
-        "PANTHER'S MIGHT": [
-          "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
-          "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +82.46.",
-          "Pause all Personal Cruelty Passives.",
-          "While Active:",
-          "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
-          "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
-        ],
-        "SPECIAL ATTACKS 1 AND 2": [
-          "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "This Attack gains +11.95 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
-        ],
-        "SPECIAL ATTACK 3": [
-          "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 83.65 Direct Damage over 15 seconds.",
-          "Refresh the Duration of Panther's Might."
-        ]
-      }
-    },
-    "3+3": {
-      "rank": 3,
-      "prestige": "1138",
-      "hp": "4548",
-      "attack": "334",
-      "crit_rate": "538",
-      "crit_dmge": "633",
-      "armor": "115",
-      "block_prof": "3200",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 15 to 2.04 seconds.",
-        "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 7.93%. Max 5 Bleeds."
-      ],
-      "url_page": "https://auntm.ai/champions/blackpanther/tier/3",
-      "champid": "blackpanther+3+3",
-      "challenger_rating": 60,
-      "Abilities": {
-        "CRITICAL HITS": [
-          "100% chance to inflict Bleed, dealing 150.3 Direct Damage over 6 seconds."
-        ],
-        "ALL ATTACKS": [
-          "100% Chance to gain a Cruelty Passive granting +135.48 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
-          "When striking into an Auto-Block, Panther is Immune to Stun."
-        ],
-        "PANTHER'S MIGHT - INACTIVE CHARGES": [
-          "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
-          "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
-        ],
-        "PANTHER'S MIGHT": [
-          "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
-          "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +84.82.",
-          "Pause all Personal Cruelty Passives.",
-          "While Active:",
-          "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
-          "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
-        ],
-        "SPECIAL ATTACKS 1 AND 2": [
-          "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "This Attack gains +16.7 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
-        ],
-        "SPECIAL ATTACK 3": [
-          "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 116.9 Direct Damage over 15 seconds.",
-          "Refresh the Duration of Panther's Might."
-        ]
-      }
-    },
-    "3+4": {
-      "rank": 4,
-      "prestige": "1563",
-      "hp": "6245",
-      "attack": "458",
-      "crit_rate": "553",
-      "crit_dmge": "650",
-      "armor": "140",
-      "block_prof": "3289",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 15 to 2.04 seconds.",
-        "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 7.93%. Max 5 Bleeds."
-      ],
-      "url_page": "https://auntm.ai/champions/blackpanther/tier/3",
-      "champid": "blackpanther+3+4",
-      "challenger_rating": 70,
-      "Abilities": {
-        "CRITICAL HITS": [
-          "100% chance to inflict Bleed, dealing 206.1 Direct Damage over 6 seconds."
-        ],
-        "ALL ATTACKS": [
-          "100% Chance to gain a Cruelty Passive granting +139.25 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
-          "When striking into an Auto-Block, Panther is Immune to Stun."
-        ],
-        "PANTHER'S MIGHT - INACTIVE CHARGES": [
-          "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
-          "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
-        ],
-        "PANTHER'S MIGHT": [
-          "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
-          "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +87.17.",
-          "Pause all Personal Cruelty Passives.",
-          "While Active:",
-          "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
-          "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
-        ],
-        "SPECIAL ATTACKS 1 AND 2": [
-          "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "This Attack gains +22.9 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
-        ],
-        "SPECIAL ATTACK 3": [
-          "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 160.3 Direct Damage over 15 seconds.",
-          "Refresh the Duration of Panther's Might."
-        ]
-      }
-    },
-    "4+1": {
-      "rank": 1,
-      "prestige": "1140",
-      "hp": "4545",
-      "attack": "334",
-      "crit_rate": "538",
-      "crit_dmge": "633",
-      "armor": "157",
-      "block_prof": "3200",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 15 to 2.04 seconds.",
-        "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 7.93%. Max 5 Bleeds."
-      ],
-      "url_page": "https://auntm.ai/champions/blackpanther/tier/4",
-      "champid": "blackpanther+4+1",
-      "challenger_rating": 60,
-      "Abilities": {
-        "CRITICAL HITS": [
-          "100% chance to inflict Bleed, dealing 150.3 Direct Damage over 6 seconds."
-        ],
-        "ALL ATTACKS": [
-          "100% Chance to gain a Cruelty Passive granting +135.48 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
-          "When striking into an Auto-Block, Panther is Immune to Stun."
-        ],
-        "PANTHER'S MIGHT - INACTIVE CHARGES": [
-          "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
-          "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
-        ],
-        "PANTHER'S MIGHT": [
-          "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
-          "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +84.82.",
-          "Pause all Personal Cruelty Passives.",
-          "While Active:",
-          "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
-          "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
-        ],
-        "SPECIAL ATTACKS 1 AND 2": [
-          "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "This Attack gains +16.7 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
-        ],
-        "SPECIAL ATTACK 3": [
-          "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 116.9 Direct Damage over 15 seconds.",
-          "Refresh the Duration of Panther's Might."
-        ]
-      }
-    },
-    "4+2": {
-      "rank": 2,
-      "prestige": "1598",
-      "hp": "6375",
-      "attack": "468",
-      "crit_rate": "553",
-      "crit_dmge": "650",
-      "armor": "183",
-      "block_prof": "3289",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 15 to 2.04 seconds.",
-        "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 7.93%. Max 5 Bleeds."
-      ],
-      "url_page": "https://auntm.ai/champions/blackpanther/tier/4",
-      "champid": "blackpanther+4+2",
-      "challenger_rating": 70,
-      "Abilities": {
-        "CRITICAL HITS": [
-          "100% chance to inflict Bleed, dealing 210.6 Direct Damage over 6 seconds."
-        ],
-        "ALL ATTACKS": [
-          "100% Chance to gain a Cruelty Passive granting +139.25 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
-          "When striking into an Auto-Block, Panther is Immune to Stun."
-        ],
-        "PANTHER'S MIGHT - INACTIVE CHARGES": [
-          "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
-          "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
-        ],
-        "PANTHER'S MIGHT": [
-          "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
-          "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +87.17.",
-          "Pause all Personal Cruelty Passives.",
-          "While Active:",
-          "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
-          "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
-        ],
-        "SPECIAL ATTACKS 1 AND 2": [
-          "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "This Attack gains +23.4 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
-        ],
-        "SPECIAL ATTACK 3": [
-          "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 163.8 Direct Damage over 15 seconds.",
-          "Refresh the Duration of Panther's Might."
-        ]
-      }
-    },
-    "4+3": {
-      "rank": 3,
-      "prestige": "2236",
-      "hp": "8932",
-      "attack": "655",
-      "crit_rate": "568",
-      "crit_dmge": "668",
-      "armor": "212",
-      "block_prof": "3378",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 15 to 2.04 seconds.",
-        "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 7.93%. Max 5 Bleeds."
-      ],
-      "url_page": "https://auntm.ai/champions/blackpanther/tier/4",
-      "champid": "blackpanther+4+3",
-      "challenger_rating": 80,
-      "Abilities": {
-        "CRITICAL HITS": [
-          "100% chance to inflict Bleed, dealing 294.75 Direct Damage over 6 seconds."
-        ],
-        "ALL ATTACKS": [
-          "100% Chance to gain a Cruelty Passive granting +143.01 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
-          "When striking into an Auto-Block, Panther is Immune to Stun."
-        ],
-        "PANTHER'S MIGHT - INACTIVE CHARGES": [
-          "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
-          "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
-        ],
-        "PANTHER'S MIGHT": [
-          "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
-          "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +89.53.",
-          "Pause all Personal Cruelty Passives.",
-          "While Active:",
-          "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
-          "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
-        ],
-        "SPECIAL ATTACKS 1 AND 2": [
-          "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "This Attack gains +32.75 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
-        ],
-        "SPECIAL ATTACK 3": [
-          "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 229.25 Direct Damage over 15 seconds.",
-          "Refresh the Duration of Panther's Might."
-        ]
-      }
-    },
-    "4+4": {
-      "rank": 4,
-      "prestige": "2942",
-      "hp": "11736",
-      "attack": "861",
-      "crit_rate": "583",
-      "crit_dmge": "686",
-      "armor": "242",
-      "block_prof": "3467",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 15 to 2.04 seconds.",
-        "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 7.93%. Max 5 Bleeds."
-      ],
-      "url_page": "https://auntm.ai/champions/blackpanther/tier/4",
-      "champid": "blackpanther+4+4",
-      "challenger_rating": 90,
-      "Abilities": {
-        "CRITICAL HITS": [
-          "100% chance to inflict Bleed, dealing 387.45 Direct Damage over 6 seconds."
-        ],
-        "ALL ATTACKS": [
-          "100% Chance to gain a Cruelty Passive granting +146.77 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
-          "When striking into an Auto-Block, Panther is Immune to Stun."
-        ],
-        "PANTHER'S MIGHT - INACTIVE CHARGES": [
-          "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
-          "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
-        ],
-        "PANTHER'S MIGHT": [
-          "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
-          "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +91.88.",
-          "Pause all Personal Cruelty Passives.",
-          "While Active:",
-          "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
-          "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
-        ],
-        "SPECIAL ATTACKS 1 AND 2": [
-          "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "This Attack gains +43.05 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
-        ],
-        "SPECIAL ATTACK 3": [
-          "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 301.35 Direct Damage over 15 seconds.",
-          "Refresh the Duration of Panther's Might."
-        ]
-      }
-    },
-    "4+5": {
-      "rank": 5,
-      "prestige": "3920",
-      "hp": "15660",
-      "attack": "1148",
-      "crit_rate": "598",
-      "crit_dmge": "703",
-      "armor": "273",
-      "block_prof": "3556",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 15 to 2.04 seconds.",
-        "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 7.93%. Max 5 Bleeds."
-      ],
-      "url_page": "https://auntm.ai/champions/blackpanther/tier/4",
-      "champid": "blackpanther+4+5",
-      "challenger_rating": 100,
-      "Abilities": {
-        "CRITICAL HITS": [
-          "100% chance to inflict Bleed, dealing 516.6 Direct Damage over 6 seconds."
-        ],
-        "ALL ATTACKS": [
-          "100% Chance to gain a Cruelty Passive granting +150.54 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
-          "When striking into an Auto-Block, Panther is Immune to Stun."
-        ],
-        "PANTHER'S MIGHT - INACTIVE CHARGES": [
-          "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
-          "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
-        ],
-        "PANTHER'S MIGHT": [
-          "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
-          "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +94.24.",
-          "Pause all Personal Cruelty Passives.",
-          "While Active:",
-          "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
-          "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
-        ],
-        "SPECIAL ATTACKS 1 AND 2": [
-          "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "This Attack gains +57.4 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
-        ],
-        "SPECIAL ATTACK 3": [
-          "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 401.8 Direct Damage over 15 seconds.",
-          "Refresh the Duration of Panther's Might."
-        ]
-      }
-    },
-    "5+1": {
-      "rank": 1,
-      "prestige": "2348",
-      "hp": "9345",
-      "attack": "685",
-      "crit_rate": "568",
-      "crit_dmge": "668",
-      "armor": "362",
-      "block_prof": "3378",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 14.18 to 1.04 seconds.",
-        "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 10.05%. Max 5 Bleeds."
-      ],
-      "url_page": "https://auntm.ai/champions/blackpanther/tier/5",
-      "champid": "blackpanther+5+1",
-      "challenger_rating": 80,
-      "Abilities": {
-        "CRITICAL HITS": [
-          "100% chance to inflict Bleed, dealing 308.25 Direct Damage over 6 seconds."
-        ],
-        "ALL ATTACKS": [
-          "100% Chance to gain a Cruelty Passive granting +143.01 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
-          "When striking into an Auto-Block, Panther is Immune to Stun."
-        ],
-        "PANTHER'S MIGHT - INACTIVE CHARGES": [
-          "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
-          "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
-        ],
-        "PANTHER'S MIGHT": [
-          "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
-          "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +89.53.",
-          "Pause all Personal Cruelty Passives.",
-          "While Active:",
-          "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
-          "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
-        ],
-        "SPECIAL ATTACKS 1 AND 2": [
-          "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "This Attack gains +34.25 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
-        ],
-        "SPECIAL ATTACK 3": [
-          "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 239.75 Direct Damage over 15 seconds.",
-          "Refresh the Duration of Panther's Might."
-        ]
-      }
-    },
-    "5+2": {
-      "rank": 2,
-      "prestige": "3098",
-      "hp": "12345",
-      "attack": "905",
-      "crit_rate": "583",
-      "crit_dmge": "686",
-      "armor": "400",
-      "block_prof": "3467",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 14.18 to 1.04 seconds.",
-        "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 10.05%. Max 5 Bleeds."
-      ],
-      "url_page": "https://auntm.ai/champions/blackpanther/tier/5",
-      "champid": "blackpanther+5+2",
-      "challenger_rating": 90,
-      "Abilities": {
-        "CRITICAL HITS": [
-          "100% chance to inflict Bleed, dealing 407.25 Direct Damage over 6 seconds."
-        ],
-        "ALL ATTACKS": [
-          "100% Chance to gain a Cruelty Passive granting +146.77 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
-          "When striking into an Auto-Block, Panther is Immune to Stun."
-        ],
-        "PANTHER'S MIGHT - INACTIVE CHARGES": [
-          "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
-          "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
-        ],
-        "PANTHER'S MIGHT": [
-          "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
-          "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +91.88.",
-          "Pause all Personal Cruelty Passives.",
-          "While Active:",
-          "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
-          "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
-        ],
-        "SPECIAL ATTACKS 1 AND 2": [
-          "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "This Attack gains +45.25 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
-        ],
-        "SPECIAL ATTACK 3": [
-          "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 316.75 Direct Damage over 15 seconds.",
-          "Refresh the Duration of Panther's Might."
-        ]
-      }
-    },
-    "5+3": {
-      "rank": 3,
-      "prestige": "4339",
-      "hp": "17258",
-      "attack": "1265",
-      "crit_rate": "598",
-      "crit_dmge": "703",
-      "armor": "440",
-      "block_prof": "3556",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 14.18 to 1.04 seconds.",
-        "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 10.05%. Max 5 Bleeds."
-      ],
-      "url_page": "https://auntm.ai/champions/blackpanther/tier/5",
-      "champid": "blackpanther+5+3",
-      "challenger_rating": 100,
-      "Abilities": {
-        "CRITICAL HITS": [
-          "100% chance to inflict Bleed, dealing 569.25 Direct Damage over 6 seconds."
-        ],
-        "ALL ATTACKS": [
-          "100% Chance to gain a Cruelty Passive granting +150.54 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
-          "When striking into an Auto-Block, Panther is Immune to Stun."
-        ],
-        "PANTHER'S MIGHT - INACTIVE CHARGES": [
-          "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
-          "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
-        ],
-        "PANTHER'S MIGHT": [
-          "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
-          "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +94.24.",
-          "Pause all Personal Cruelty Passives.",
-          "While Active:",
-          "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
-          "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
-        ],
-        "SPECIAL ATTACKS 1 AND 2": [
-          "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "This Attack gains +63.25 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
-        ],
-        "SPECIAL ATTACK 3": [
-          "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 442.75 Direct Damage over 15 seconds.",
-          "Refresh the Duration of Panther's Might."
-        ]
-      }
-    },
-    "5+4": {
-      "rank": 4,
-      "prestige": "5844",
-      "hp": "23255",
-      "attack": "1705",
-      "crit_rate": "613",
-      "crit_dmge": "721",
-      "armor": "481",
-      "block_prof": "3645",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 14.18 to 1.04 seconds.",
-        "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 10.05%. Max 5 Bleeds."
-      ],
-      "url_page": "https://auntm.ai/champions/blackpanther/tier/5",
-      "champid": "blackpanther+5+4",
-      "challenger_rating": 110,
-      "Abilities": {
-        "CRITICAL HITS": [
-          "100% chance to inflict Bleed, dealing 767.25 Direct Damage over 6 seconds."
-        ],
-        "ALL ATTACKS": [
-          "100% Chance to gain a Cruelty Passive granting +154.3 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
-          "When striking into an Auto-Block, Panther is Immune to Stun."
-        ],
-        "PANTHER'S MIGHT - INACTIVE CHARGES": [
-          "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
-          "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
-        ],
-        "PANTHER'S MIGHT": [
-          "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
-          "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +96.6.",
-          "Pause all Personal Cruelty Passives.",
-          "While Active:",
-          "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
-          "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
-        ],
-        "SPECIAL ATTACKS 1 AND 2": [
-          "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "This Attack gains +85.25 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
-        ],
-        "SPECIAL ATTACK 3": [
-          "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 596.75 Direct Damage over 15 seconds.",
-          "Refresh the Duration of Panther's Might."
-        ]
-      }
-    },
-    "5+5": {
-      "rank": 5,
-      "prestige": "7902",
-      "hp": "31398",
-      "attack": "2301",
-      "crit_rate": "628",
-      "crit_dmge": "738",
-      "armor": "525",
-      "block_prof": "3734",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 14.18 to 1.04 seconds.",
-        "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 10.05%. Max 5 Bleeds."
-      ],
-      "url_page": "https://auntm.ai/champions/blackpanther/tier/5",
-      "champid": "blackpanther+5+5",
-      "challenger_rating": 120,
-      "Abilities": {
-        "CRITICAL HITS": [
-          "100% chance to inflict Bleed, dealing 1035.45 Direct Damage over 6 seconds."
-        ],
-        "ALL ATTACKS": [
-          "100% Chance to gain a Cruelty Passive granting +158.06 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
-          "When striking into an Auto-Block, Panther is Immune to Stun."
-        ],
-        "PANTHER'S MIGHT - INACTIVE CHARGES": [
-          "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
-          "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
-        ],
-        "PANTHER'S MIGHT": [
-          "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
-          "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +98.95.",
-          "Pause all Personal Cruelty Passives.",
-          "While Active:",
-          "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
-          "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
-        ],
-        "SPECIAL ATTACKS 1 AND 2": [
-          "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "This Attack gains +115.05 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
-        ],
-        "SPECIAL ATTACK 3": [
-          "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 805.35 Direct Damage over 15 seconds.",
-          "Refresh the Duration of Panther's Might."
-        ]
-      }
-    },
-    "6+1": {
-      "rank": 1,
-      "prestige": "6190",
-      "hp": "24689",
-      "attack": "1810",
-      "crit_rate": "613",
-      "crit_dmge": "721",
-      "armor": "391",
-      "block_prof": "3645",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 14.18 to 1.04 seconds.",
-        "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 10.05%. Max 5 Bleeds."
-      ],
-      "url_page": "https://auntm.ai/champions/blackpanther/tier/6",
-      "champid": "blackpanther+6+1",
-      "challenger_rating": 110,
-      "Abilities": {
-        "CRITICAL HITS": [
-          "100% chance to inflict Bleed, dealing 814.5 Direct Damage over 6 seconds."
-        ],
-        "ALL ATTACKS": [
-          "100% Chance to gain a Cruelty Passive granting +154.3 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
-          "When striking into an Auto-Block, Panther is Immune to Stun."
-        ],
-        "PANTHER'S MIGHT - INACTIVE CHARGES": [
-          "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
-          "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
-        ],
-        "PANTHER'S MIGHT": [
-          "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
-          "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +96.6.",
-          "Pause all Personal Cruelty Passives.",
-          "While Active:",
-          "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
-          "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
-        ],
-        "SPECIAL ATTACKS 1 AND 2": [
-          "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "This Attack gains +90.5 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
-        ],
-        "SPECIAL ATTACK 3": [
-          "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 633.5 Direct Damage over 15 seconds.",
-          "Refresh the Duration of Panther's Might."
-        ]
-      }
-    },
-    "6+2": {
-      "rank": 2,
-      "prestige": "8546",
-      "hp": "34103",
-      "attack": "2500",
-      "crit_rate": "628",
-      "crit_dmge": "738",
-      "armor": "431",
-      "block_prof": "3734",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 14.18 to 1.04 seconds.",
-        "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 10.05%. Max 5 Bleeds."
-      ],
-      "url_page": "https://auntm.ai/champions/blackpanther/tier/6",
-      "champid": "blackpanther+6+2",
-      "challenger_rating": 120,
-      "Abilities": {
-        "CRITICAL HITS": [
-          "100% chance to inflict Bleed, dealing 1125 Direct Damage over 6 seconds."
-        ],
-        "ALL ATTACKS": [
-          "100% Chance to gain a Cruelty Passive granting +158.06 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
-          "When striking into an Auto-Block, Panther is Immune to Stun."
-        ],
-        "PANTHER'S MIGHT - INACTIVE CHARGES": [
-          "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
-          "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
-        ],
-        "PANTHER'S MIGHT": [
-          "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
-          "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +98.95.",
-          "Pause all Personal Cruelty Passives.",
-          "While Active:",
-          "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
-          "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
-        ],
-        "SPECIAL ATTACKS 1 AND 2": [
-          "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "This Attack gains +125 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
-        ],
-        "SPECIAL ATTACK 3": [
-          "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 875 Direct Damage over 15 seconds.",
-          "Refresh the Duration of Panther's Might."
-        ]
-      }
-    },
-    "6+3": {
-      "rank": 3,
-      "prestige": "10159",
-      "hp": "40458",
-      "attack": "2965",
-      "crit_rate": "643",
-      "crit_dmge": "756",
-      "armor": "472",
-      "block_prof": "3823",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 14.18 to 1.04 seconds.",
-        "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 10.05%. Max 5 Bleeds."
-      ],
-      "url_page": "https://auntm.ai/champions/blackpanther/tier/6",
-      "champid": "blackpanther+6+3",
-      "challenger_rating": 130,
-      "Abilities": {
-        "CRITICAL HITS": [
-          "100% chance to inflict Bleed, dealing 1334.25 Direct Damage over 6 seconds."
-        ],
-        "ALL ATTACKS": [
-          "100% Chance to gain a Cruelty Passive granting +161.83 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
-          "When striking into an Auto-Block, Panther is Immune to Stun."
-        ],
-        "PANTHER'S MIGHT - INACTIVE CHARGES": [
-          "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
-          "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
-        ],
-        "PANTHER'S MIGHT": [
-          "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
-          "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +101.31.",
-          "Pause all Personal Cruelty Passives.",
-          "While Active:",
-          "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
-          "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
-        ],
-        "SPECIAL ATTACKS 1 AND 2": [
-          "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "This Attack gains +148.25 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
-        ],
-        "SPECIAL ATTACK 3": [
-          "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 1037.75 Direct Damage over 15 seconds.",
-          "Refresh the Duration of Panther's Might."
-        ]
-      }
-    },
-    "6+4": {
-      "rank": 4,
-      "prestige": "11624",
-      "hp": "46298",
-      "attack": "3393",
-      "crit_rate": "658",
-      "crit_dmge": "773",
-      "armor": "517",
-      "block_prof": "3912",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 14.18 to 1.04 seconds.",
-        "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 10.05%. Max 5 Bleeds."
-      ],
-      "url_page": "https://auntm.ai/champions/blackpanther/tier/6",
-      "champid": "blackpanther+6+4",
-      "challenger_rating": 140,
-      "Abilities": {
-        "CRITICAL HITS": [
-          "100% chance to inflict Bleed, dealing 1526.85 Direct Damage over 6 seconds."
-        ],
-        "ALL ATTACKS": [
-          "100% Chance to gain a Cruelty Passive granting +165.59 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
-          "When striking into an Auto-Block, Panther is Immune to Stun."
-        ],
-        "PANTHER'S MIGHT - INACTIVE CHARGES": [
-          "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
-          "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
-        ],
-        "PANTHER'S MIGHT": [
-          "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
-          "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +103.66.",
-          "Pause all Personal Cruelty Passives.",
-          "While Active:",
-          "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
-          "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
-        ],
-        "SPECIAL ATTACKS 1 AND 2": [
-          "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "This Attack gains +169.65 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
-        ],
-        "SPECIAL ATTACK 3": [
-          "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 1187.55 Direct Damage over 15 seconds.",
-          "Refresh the Duration of Panther's Might."
-        ]
-      }
-    },
-    "1+1": {
-      "rank": 1,
-      "prestige": 224,
-      "hp": 878,
-      "attack": 65,
-      "crit_rate": 463,
-      "crit_dmge": 545,
-      "armor": 0,
-      "block_prof": 2756,
-      "energy_resist": 0,
-      "physical_resist": 0,
-      "crit_resist": 0,
-      "sig_info": null,
-      "url_page": "https://auntm.ai/champions/blackpanther/tier/1",
-      "champid": "blackpanther+1+1",
-      "challenger_rating": 10,
-      "Abilities": {
-        "CRITICAL HITS": [
-          "100% chance to inflict Bleed, dealing 29.25 Direct Damage over 6 seconds."
-        ],
-        "ALL ATTACKS": [
-          "100% Chance to gain a Cruelty Passive granting +116.67 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
-          "When striking into an Auto-Block, Panther is Immune to Stun."
-        ],
-        "PANTHER'S MIGHT - INACTIVE CHARGES": [
-          "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
-          "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
-        ],
-        "PANTHER'S MIGHT": [
-          "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
-          "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +73.04.",
-          "Pause all Personal Cruelty Passives.",
-          "While Active:",
-          "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
-          "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
-        ],
-        "SPECIAL ATTACKS 1 AND 2": [
-          "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "This Attack gains +3.25 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
-        ],
-        "SPECIAL ATTACK 3": [
-          "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 22.75 Direct Damage over 15 seconds.",
-          "Refresh the Duration of Panther's Might."
-        ]
-      }
-    },
-    "1+2": {
-      "rank": 2,
-      "prestige": 303,
-      "hp": 1214,
-      "attack": 89,
-      "crit_rate": 478,
-      "crit_dmge": 563,
-      "armor": 0,
-      "block_prof": 2845,
-      "energy_resist": 0,
-      "physical_resist": 0,
-      "crit_resist": 0,
-      "sig_info": null,
-      "url_page": "https://auntm.ai/champions/blackpanther/tier/1",
-      "champid": "blackpanther+1+2",
-      "challenger_rating": 20,
-      "Abilities": {
-        "CRITICAL HITS": [
-          "100% chance to inflict Bleed, dealing 40.05 Direct Damage over 6 seconds."
-        ],
-        "ALL ATTACKS": [
-          "100% Chance to gain a Cruelty Passive granting +120.43 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
-          "When striking into an Auto-Block, Panther is Immune to Stun."
-        ],
-        "PANTHER'S MIGHT - INACTIVE CHARGES": [
-          "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
-          "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
-        ],
-        "PANTHER'S MIGHT": [
-          "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
-          "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
-          "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +75.39.",
-          "Pause all Personal Cruelty Passives.",
-          "While Active:",
-          "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
-          "All Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
-        ],
-        "SPECIAL ATTACKS 1 AND 2": [
-          "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
-        ],
-        "SPECIAL ATTACK 2": [
-          "This Attack gains +4.45 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
-        ],
-        "SPECIAL ATTACK 3": [
-          "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 31.15 Direct Damage over 15 seconds.",
-          "Refresh the Duration of Panther's Might."
-        ]
-      }
-    }
-  },
-  "name": "BLACK PANTHER",
-  "class": "Skill",
-  "img_portrait": "https://mcoc.rexians.tk/assets/portraits/black_panther.png",
-  "contact": "PHYSICAL",
-  "tags": [
-    "Hero",
-    "Illuminati",
-    "Avengers",
-    "Size: M"
-  ],
-  "released": "12/10/2014"
+    "name": "BLACK PANTHER",
+    "class": "Skill",
+    "img_portrait": "https://mcoc.rexians.tk/assets/portraits/black_panther.png",
+    "contact": "PHYSICAL",
+    "tags": [
+        "Hero",
+        "Illuminati",
+        "Avengers",
+        "Size: M"
+    ],
+    "released": "12/10/2014"
 }
