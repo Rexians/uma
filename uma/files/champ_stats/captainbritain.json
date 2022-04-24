@@ -1,1238 +1,1251 @@
 {
-  "champid": "captainbritain",
-  "name": "CAPTAIN BRITAIN",
-  "class": "Mutant",
-  "img_portrait": "https://mcoc.rexians.tk/assets/portraits/captainbritain.png",
-  "data": {
-    "2+1": {
-      "rank": 1,
-      "prestige": "272",
-      "hp": "1072",
-      "attack": "87",
-      "crit_rate": "0",
-      "crit_dmge": "686",
-      "armor": "33",
-      "block_prof": "2303",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 297.31 to 442.55 lasts 20 seconds. Max Stacks 6.",
-      "url_page": "https://auntm.ai/champions/captainbritain/tier/2",
-      "champid": "captainbritain+2+1",
-      "challenger_rating": 20,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Special Attacks have +6400 Critical Rating, but base Critical Rate is 0.",
-          "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 369.23 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
-          "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
-          "Basic attacks deal Energy Damage instead of Physical."
-        ],
-        "PSIONIC MODE": [
-          "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
-          "Gain 1600 Physical Resistance.",
-          "Deal a Burst of 43.5 Energy Damage on each hit, scaling with Base Attack only.",
-          "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 369.23 for 10 seconds.",
-          "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
-          "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
-        ],
-        "PURIFICATION": [
-          "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
-          "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
-          "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 177.78.",
-          "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
-          "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 8.7."
-        ],
-        "ALL SPECIAL ATTACKS": [
-          "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain a 30% Energize Buff for 15 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Increase Attack Rating by 8.7 per Unique Buff currently on Captain Britain."
-        ],
-        "SPECIAL ATTACK 3": [
-          "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
-          "This Special Attack will always default to Psionic Mode off when entering or exiting."
-        ]
-      }
+    "champid": "captainbritain",
+    "name": "CAPTAIN BRITAIN",
+    "class": "Mutant",
+    "img_portrait": "https://mcoc.rexians.tk/assets/portraits/captainbritain.png",
+    "data": {
+        "2+1": {
+            "rank": 1,
+            "prestige": "272",
+            "hp": "1072",
+            "attack": "87",
+            "crit_rate": "0",
+            "crit_dmge": "686",
+            "armor": "33",
+            "block_prof": "2303",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 297.31 to 442.55 lasts 20 seconds. Max Stacks 6.",
+            "url_page": "https://auntm.ai/champions/captainbritain/tier/2",
+            "champid": "captainbritain+2+1",
+            "challenger_rating": 20,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Special Attacks have +6400 Critical Rating, but base Critical Rate is 0.",
+                    "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 369.23 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
+                    "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
+                    "Basic attacks deal Energy Damage instead of Physical."
+                ],
+                "PSIONIC MODE": [
+                    "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
+                    "Gain 1600 Physical Resistance.",
+                    "Deal a Burst of 43.5 Energy Damage on each hit, scaling with Base Attack only.",
+                    "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 369.23 for 10 seconds.",
+                    "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
+                    "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
+                ],
+                "PURIFICATION": [
+                    "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
+                    "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
+                    "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 177.78.",
+                    "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
+                    "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 8.7."
+                ],
+                "ALL SPECIAL ATTACKS": [
+                    "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain a 30% Energize Buff for 15 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Increase Attack Rating by 8.7 per Unique Buff currently on Captain Britain."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
+                    "This Special Attack will always default to Psionic Mode off when entering or exiting."
+                ]
+            }
+        },
+        "2+2": {
+            "rank": 2,
+            "prestige": "358",
+            "hp": "1416",
+            "attack": "115",
+            "crit_rate": "0",
+            "crit_dmge": "708",
+            "armor": "52",
+            "block_prof": "2375",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 306.6 to 456.38 lasts 20 seconds. Max Stacks 6.",
+            "url_page": "https://auntm.ai/champions/captainbritain/tier/2",
+            "champid": "captainbritain+2+2",
+            "challenger_rating": 30,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Special Attacks have +6600 Critical Rating, but base Critical Rate is 0.",
+                    "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 380.77 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
+                    "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
+                    "Basic attacks deal Energy Damage instead of Physical."
+                ],
+                "PSIONIC MODE": [
+                    "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
+                    "Gain 1650 Physical Resistance.",
+                    "Deal a Burst of 57.5 Energy Damage on each hit, scaling with Base Attack only.",
+                    "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 380.77 for 10 seconds.",
+                    "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
+                    "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
+                ],
+                "PURIFICATION": [
+                    "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
+                    "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
+                    "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 183.33.",
+                    "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
+                    "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 11.5."
+                ],
+                "ALL SPECIAL ATTACKS": [
+                    "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain a 30% Energize Buff for 15 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Increase Attack Rating by 11.5 per Unique Buff currently on Captain Britain."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
+                    "This Special Attack will always default to Psionic Mode off when entering or exiting."
+                ]
+            }
+        },
+        "2+3": {
+            "rank": 3,
+            "prestige": "580",
+            "hp": "2248",
+            "attack": "183",
+            "crit_rate": "0",
+            "crit_dmge": "729",
+            "armor": "71",
+            "block_prof": "2447",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 315.89 to 470.21 lasts 20 seconds. Max Stacks 6.",
+            "url_page": "https://auntm.ai/champions/captainbritain/tier/2",
+            "champid": "captainbritain+2+3",
+            "challenger_rating": 40,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Special Attacks have +6800 Critical Rating, but base Critical Rate is 0.",
+                    "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 392.31 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
+                    "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
+                    "Basic attacks deal Energy Damage instead of Physical."
+                ],
+                "PSIONIC MODE": [
+                    "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
+                    "Gain 1700 Physical Resistance.",
+                    "Deal a Burst of 91.5 Energy Damage on each hit, scaling with Base Attack only.",
+                    "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 392.31 for 10 seconds.",
+                    "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
+                    "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
+                ],
+                "PURIFICATION": [
+                    "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
+                    "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
+                    "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 188.89.",
+                    "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
+                    "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 18.3."
+                ],
+                "ALL SPECIAL ATTACKS": [
+                    "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain a 30% Energize Buff for 15 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Increase Attack Rating by 18.3 per Unique Buff currently on Captain Britain."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
+                    "This Special Attack will always default to Psionic Mode off when entering or exiting."
+                ]
+            }
+        },
+        "3+1": {
+            "rank": 1,
+            "prestige": "501",
+            "hp": "1943",
+            "attack": "158",
+            "crit_rate": "0",
+            "crit_dmge": "729",
+            "armor": "71",
+            "block_prof": "2447",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 315.89 to 470.21 lasts 20 seconds. Max Stacks 6.",
+            "url_page": "https://auntm.ai/champions/captainbritain/tier/3",
+            "champid": "captainbritain+3+1",
+            "challenger_rating": 40,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Special Attacks have +6800 Critical Rating, but base Critical Rate is 0.",
+                    "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 392.31 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
+                    "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
+                    "Basic attacks deal Energy Damage instead of Physical."
+                ],
+                "PSIONIC MODE": [
+                    "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
+                    "Gain 1700 Physical Resistance.",
+                    "Deal a Burst of 79 Energy Damage on each hit, scaling with Base Attack only.",
+                    "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 392.31 for 10 seconds.",
+                    "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
+                    "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
+                ],
+                "PURIFICATION": [
+                    "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
+                    "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
+                    "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 188.89.",
+                    "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
+                    "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 15.8."
+                ],
+                "ALL SPECIAL ATTACKS": [
+                    "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain a 30% Energize Buff for 15 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Increase Attack Rating by 15.8 per Unique Buff currently on Captain Britain."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
+                    "This Special Attack will always default to Psionic Mode off when entering or exiting."
+                ]
+            }
+        },
+        "3+2": {
+            "rank": 2,
+            "prestige": "804",
+            "hp": "3109",
+            "attack": "253",
+            "crit_rate": "0",
+            "crit_dmge": "750",
+            "armor": "93",
+            "block_prof": "2519",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 325.18 to 484.04 lasts 20 seconds. Max Stacks 6.",
+            "url_page": "https://auntm.ai/champions/captainbritain/tier/3",
+            "champid": "captainbritain+3+2",
+            "challenger_rating": 50,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Special Attacks have +7000 Critical Rating, but base Critical Rate is 0.",
+                    "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 403.85 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
+                    "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
+                    "Basic attacks deal Energy Damage instead of Physical."
+                ],
+                "PSIONIC MODE": [
+                    "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
+                    "Gain 1750 Physical Resistance.",
+                    "Deal a Burst of 126.5 Energy Damage on each hit, scaling with Base Attack only.",
+                    "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 403.85 for 10 seconds.",
+                    "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
+                    "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
+                ],
+                "PURIFICATION": [
+                    "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
+                    "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
+                    "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 194.44.",
+                    "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
+                    "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 25.3."
+                ],
+                "ALL SPECIAL ATTACKS": [
+                    "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain a 30% Energize Buff for 15 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Increase Attack Rating by 25.3 per Unique Buff currently on Captain Britain."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
+                    "This Special Attack will always default to Psionic Mode off when entering or exiting."
+                ]
+            }
+        },
+        "3+3": {
+            "rank": 3,
+            "prestige": "1120",
+            "hp": "4349",
+            "attack": "353",
+            "crit_rate": "0",
+            "crit_dmge": "772",
+            "armor": "115",
+            "block_prof": "2591",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 334.47 to 497.86 lasts 20 seconds. Max Stacks 6.",
+            "url_page": "https://auntm.ai/champions/captainbritain/tier/3",
+            "champid": "captainbritain+3+3",
+            "challenger_rating": 60,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Special Attacks have +7200 Critical Rating, but base Critical Rate is 0.",
+                    "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 415.38 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
+                    "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
+                    "Basic attacks deal Energy Damage instead of Physical."
+                ],
+                "PSIONIC MODE": [
+                    "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
+                    "Gain 1800 Physical Resistance.",
+                    "Deal a Burst of 176.5 Energy Damage on each hit, scaling with Base Attack only.",
+                    "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 415.38 for 10 seconds.",
+                    "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
+                    "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
+                ],
+                "PURIFICATION": [
+                    "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
+                    "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
+                    "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 200.",
+                    "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
+                    "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 35.3."
+                ],
+                "ALL SPECIAL ATTACKS": [
+                    "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain a 30% Energize Buff for 15 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Increase Attack Rating by 35.3 per Unique Buff currently on Captain Britain."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
+                    "This Special Attack will always default to Psionic Mode off when entering or exiting."
+                ]
+            }
+        },
+        "3+4": {
+            "rank": 4,
+            "prestige": "1542",
+            "hp": "5972",
+            "attack": "485",
+            "crit_rate": "0",
+            "crit_dmge": "793",
+            "armor": "140",
+            "block_prof": "2663",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 343.76 to 511.69 lasts 20 seconds. Max Stacks 6.",
+            "url_page": "https://auntm.ai/champions/captainbritain/tier/3",
+            "champid": "captainbritain+3+4",
+            "challenger_rating": 70,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Special Attacks have +7400 Critical Rating, but base Critical Rate is 0.",
+                    "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 426.92 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
+                    "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
+                    "Basic attacks deal Energy Damage instead of Physical."
+                ],
+                "PSIONIC MODE": [
+                    "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
+                    "Gain 1850 Physical Resistance.",
+                    "Deal a Burst of 242.5 Energy Damage on each hit, scaling with Base Attack only.",
+                    "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 426.92 for 10 seconds.",
+                    "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
+                    "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
+                ],
+                "PURIFICATION": [
+                    "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
+                    "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
+                    "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 205.56.",
+                    "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
+                    "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 48.5."
+                ],
+                "ALL SPECIAL ATTACKS": [
+                    "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain a 30% Energize Buff for 15 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Increase Attack Rating by 48.5 per Unique Buff currently on Captain Britain."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
+                    "This Special Attack will always default to Psionic Mode off when entering or exiting."
+                ]
+            }
+        },
+        "4+1": {
+            "rank": 1,
+            "prestige": "1122",
+            "hp": "4346",
+            "attack": "353",
+            "crit_rate": "0",
+            "crit_dmge": "772",
+            "armor": "157",
+            "block_prof": "2591",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 334.47 to 497.86 lasts 20 seconds. Max Stacks 6.",
+            "url_page": "https://auntm.ai/champions/captainbritain/tier/4",
+            "champid": "captainbritain+4+1",
+            "challenger_rating": 60,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Special Attacks have +7200 Critical Rating, but base Critical Rate is 0.",
+                    "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 415.38 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
+                    "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
+                    "Basic attacks deal Energy Damage instead of Physical."
+                ],
+                "PSIONIC MODE": [
+                    "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
+                    "Gain 1800 Physical Resistance.",
+                    "Deal a Burst of 176.5 Energy Damage on each hit, scaling with Base Attack only.",
+                    "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 415.38 for 10 seconds.",
+                    "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
+                    "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
+                ],
+                "PURIFICATION": [
+                    "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
+                    "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
+                    "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 200.",
+                    "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
+                    "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 35.3."
+                ],
+                "ALL SPECIAL ATTACKS": [
+                    "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain a 30% Energize Buff for 15 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Increase Attack Rating by 35.3 per Unique Buff currently on Captain Britain."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
+                    "This Special Attack will always default to Psionic Mode off when entering or exiting."
+                ]
+            }
+        },
+        "4+2": {
+            "rank": 2,
+            "prestige": "1578",
+            "hp": "6097",
+            "attack": "495",
+            "crit_rate": "0",
+            "crit_dmge": "793",
+            "armor": "183",
+            "block_prof": "2663",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 343.76 to 511.69 lasts 20 seconds. Max Stacks 6.",
+            "url_page": "https://auntm.ai/champions/captainbritain/tier/4",
+            "champid": "captainbritain+4+2",
+            "challenger_rating": 70,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Special Attacks have +7400 Critical Rating, but base Critical Rate is 0.",
+                    "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 426.92 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
+                    "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
+                    "Basic attacks deal Energy Damage instead of Physical."
+                ],
+                "PSIONIC MODE": [
+                    "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
+                    "Gain 1850 Physical Resistance.",
+                    "Deal a Burst of 247.5 Energy Damage on each hit, scaling with Base Attack only.",
+                    "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 426.92 for 10 seconds.",
+                    "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
+                    "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
+                ],
+                "PURIFICATION": [
+                    "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
+                    "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
+                    "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 205.56.",
+                    "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
+                    "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 49.5."
+                ],
+                "ALL SPECIAL ATTACKS": [
+                    "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain a 30% Energize Buff for 15 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Increase Attack Rating by 49.5 per Unique Buff currently on Captain Britain."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
+                    "This Special Attack will always default to Psionic Mode off when entering or exiting."
+                ]
+            }
+        },
+        "4+3": {
+            "rank": 3,
+            "prestige": "2211",
+            "hp": "8542",
+            "attack": "694",
+            "crit_rate": "0",
+            "crit_dmge": "815",
+            "armor": "212",
+            "block_prof": "2735",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 353.05 to 525.52 lasts 20 seconds. Max Stacks 6.",
+            "url_page": "https://auntm.ai/champions/captainbritain/tier/4",
+            "champid": "captainbritain+4+3",
+            "challenger_rating": 80,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Special Attacks have +7600 Critical Rating, but base Critical Rate is 0.",
+                    "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 438.46 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
+                    "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
+                    "Basic attacks deal Energy Damage instead of Physical."
+                ],
+                "PSIONIC MODE": [
+                    "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
+                    "Gain 1900 Physical Resistance.",
+                    "Deal a Burst of 347 Energy Damage on each hit, scaling with Base Attack only.",
+                    "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 438.46 for 10 seconds.",
+                    "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
+                    "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
+                ],
+                "PURIFICATION": [
+                    "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
+                    "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
+                    "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 211.11.",
+                    "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
+                    "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 69.4."
+                ],
+                "ALL SPECIAL ATTACKS": [
+                    "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain a 30% Energize Buff for 15 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Increase Attack Rating by 69.4 per Unique Buff currently on Captain Britain."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
+                    "This Special Attack will always default to Psionic Mode off when entering or exiting."
+                ]
+            }
+        },
+        "4+4": {
+            "rank": 4,
+            "prestige": "2908",
+            "hp": "11224",
+            "attack": "911",
+            "crit_rate": "0",
+            "crit_dmge": "836",
+            "armor": "242",
+            "block_prof": "2807",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 362.34 to 539.35 lasts 20 seconds. Max Stacks 6.",
+            "url_page": "https://auntm.ai/champions/captainbritain/tier/4",
+            "champid": "captainbritain+4+4",
+            "challenger_rating": 90,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Special Attacks have +7800 Critical Rating, but base Critical Rate is 0.",
+                    "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 450 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
+                    "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
+                    "Basic attacks deal Energy Damage instead of Physical."
+                ],
+                "PSIONIC MODE": [
+                    "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
+                    "Gain 1950 Physical Resistance.",
+                    "Deal a Burst of 455.5 Energy Damage on each hit, scaling with Base Attack only.",
+                    "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 450 for 10 seconds.",
+                    "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
+                    "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
+                ],
+                "PURIFICATION": [
+                    "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
+                    "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
+                    "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 216.67.",
+                    "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
+                    "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 91.1."
+                ],
+                "ALL SPECIAL ATTACKS": [
+                    "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain a 30% Energize Buff for 15 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Increase Attack Rating by 91.1 per Unique Buff currently on Captain Britain."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
+                    "This Special Attack will always default to Psionic Mode off when entering or exiting."
+                ]
+            }
+        },
+        "4+5": {
+            "rank": 5,
+            "prestige": "3880",
+            "hp": "14976",
+            "attack": "1216",
+            "crit_rate": "0",
+            "crit_dmge": "858",
+            "armor": "273",
+            "block_prof": "2879",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 371.64 to 553.18 lasts 20 seconds. Max Stacks 6.",
+            "url_page": "https://auntm.ai/champions/captainbritain/tier/4",
+            "champid": "captainbritain+4+5",
+            "challenger_rating": 100,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Special Attacks have +8000 Critical Rating, but base Critical Rate is 0.",
+                    "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 461.54 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
+                    "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
+                    "Basic attacks deal Energy Damage instead of Physical."
+                ],
+                "PSIONIC MODE": [
+                    "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
+                    "Gain 2000 Physical Resistance.",
+                    "Deal a Burst of 608 Energy Damage on each hit, scaling with Base Attack only.",
+                    "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 461.54 for 10 seconds.",
+                    "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
+                    "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
+                ],
+                "PURIFICATION": [
+                    "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
+                    "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
+                    "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 222.22.",
+                    "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
+                    "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 121.6."
+                ],
+                "ALL SPECIAL ATTACKS": [
+                    "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain a 30% Energize Buff for 15 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Increase Attack Rating by 121.6 per Unique Buff currently on Captain Britain."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
+                    "This Special Attack will always default to Psionic Mode off when entering or exiting."
+                ]
+            }
+        },
+        "5+1": {
+            "rank": 1,
+            "prestige": "2323",
+            "hp": "8937",
+            "attack": "726",
+            "crit_rate": "0",
+            "crit_dmge": "815",
+            "armor": "362",
+            "block_prof": "2735",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 353.45 to 622.72 lasts 20 seconds. Max Stacks 6.",
+            "url_page": "https://auntm.ai/champions/captainbritain/tier/5",
+            "champid": "captainbritain+5+1",
+            "challenger_rating": 80,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Special Attacks have +7600 Critical Rating, but base Critical Rate is 0.",
+                    "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 438.46 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
+                    "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
+                    "Basic attacks deal Energy Damage instead of Physical."
+                ],
+                "PSIONIC MODE": [
+                    "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
+                    "Gain 1900 Physical Resistance.",
+                    "Deal a Burst of 363 Energy Damage on each hit, scaling with Base Attack only.",
+                    "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 438.46 for 10 seconds.",
+                    "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
+                    "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
+                ],
+                "PURIFICATION": [
+                    "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
+                    "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
+                    "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 211.11.",
+                    "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
+                    "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 72.6."
+                ],
+                "ALL SPECIAL ATTACKS": [
+                    "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain a 30% Energize Buff for 15 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Increase Attack Rating by 72.6 per Unique Buff currently on Captain Britain."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
+                    "This Special Attack will always default to Psionic Mode off when entering or exiting."
+                ]
+            }
+        },
+        "5+2": {
+            "rank": 2,
+            "prestige": "3064",
+            "hp": "11805",
+            "attack": "958",
+            "crit_rate": "0",
+            "crit_dmge": "836",
+            "armor": "400",
+            "block_prof": "2807",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 362.75 to 639.11 lasts 20 seconds. Max Stacks 6.",
+            "url_page": "https://auntm.ai/champions/captainbritain/tier/5",
+            "champid": "captainbritain+5+2",
+            "challenger_rating": 90,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Special Attacks have +7800 Critical Rating, but base Critical Rate is 0.",
+                    "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 450 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
+                    "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
+                    "Basic attacks deal Energy Damage instead of Physical."
+                ],
+                "PSIONIC MODE": [
+                    "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
+                    "Gain 1950 Physical Resistance.",
+                    "Deal a Burst of 479 Energy Damage on each hit, scaling with Base Attack only.",
+                    "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 450 for 10 seconds.",
+                    "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
+                    "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
+                ],
+                "PURIFICATION": [
+                    "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
+                    "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
+                    "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 216.67.",
+                    "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
+                    "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 95.8."
+                ],
+                "ALL SPECIAL ATTACKS": [
+                    "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain a 30% Energize Buff for 15 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Increase Attack Rating by 95.8 per Unique Buff currently on Captain Britain."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
+                    "This Special Attack will always default to Psionic Mode off when entering or exiting."
+                ]
+            }
+        },
+        "5+3": {
+            "rank": 3,
+            "prestige": "4293",
+            "hp": "16504",
+            "attack": "1340",
+            "crit_rate": "0",
+            "crit_dmge": "858",
+            "armor": "440",
+            "block_prof": "2879",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 372.05 to 655.5 lasts 20 seconds. Max Stacks 6.",
+            "url_page": "https://auntm.ai/champions/captainbritain/tier/5",
+            "champid": "captainbritain+5+3",
+            "challenger_rating": 100,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Special Attacks have +8000 Critical Rating, but base Critical Rate is 0.",
+                    "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 461.54 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
+                    "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
+                    "Basic attacks deal Energy Damage instead of Physical."
+                ],
+                "PSIONIC MODE": [
+                    "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
+                    "Gain 2000 Physical Resistance.",
+                    "Deal a Burst of 670 Energy Damage on each hit, scaling with Base Attack only.",
+                    "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 461.54 for 10 seconds.",
+                    "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
+                    "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
+                ],
+                "PURIFICATION": [
+                    "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
+                    "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
+                    "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 222.22.",
+                    "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
+                    "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 134."
+                ],
+                "ALL SPECIAL ATTACKS": [
+                    "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain a 30% Energize Buff for 15 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Increase Attack Rating by 134 per Unique Buff currently on Captain Britain."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
+                    "This Special Attack will always default to Psionic Mode off when entering or exiting."
+                ]
+            }
+        },
+        "5+4": {
+            "rank": 4,
+            "prestige": "5783",
+            "hp": "22239",
+            "attack": "1805",
+            "crit_rate": "0",
+            "crit_dmge": "879",
+            "armor": "481",
+            "block_prof": "2950",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 381.35 to 671.88 lasts 20 seconds. Max Stacks 6.",
+            "url_page": "https://auntm.ai/champions/captainbritain/tier/5",
+            "champid": "captainbritain+5+4",
+            "challenger_rating": 110,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Special Attacks have +8200 Critical Rating, but base Critical Rate is 0.",
+                    "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 473.08 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
+                    "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
+                    "Basic attacks deal Energy Damage instead of Physical."
+                ],
+                "PSIONIC MODE": [
+                    "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
+                    "Gain 2050 Physical Resistance.",
+                    "Deal a Burst of 902.5 Energy Damage on each hit, scaling with Base Attack only.",
+                    "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 473.08 for 10 seconds.",
+                    "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
+                    "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
+                ],
+                "PURIFICATION": [
+                    "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
+                    "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
+                    "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 227.78.",
+                    "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
+                    "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 180.5."
+                ],
+                "ALL SPECIAL ATTACKS": [
+                    "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain a 30% Energize Buff for 15 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Increase Attack Rating by 180.5 per Unique Buff currently on Captain Britain."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
+                    "This Special Attack will always default to Psionic Mode off when entering or exiting."
+                ]
+            }
+        },
+        "5+5": {
+            "rank": 5,
+            "prestige": "7821",
+            "hp": "30027",
+            "attack": "2437",
+            "crit_rate": "0",
+            "crit_dmge": "900",
+            "armor": "525",
+            "block_prof": "3022",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 390.65 to 688.27 lasts 20 seconds. Max Stacks 6.",
+            "url_page": "https://auntm.ai/champions/captainbritain/tier/5",
+            "champid": "captainbritain+5+5",
+            "challenger_rating": 120,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Special Attacks have +8400 Critical Rating, but base Critical Rate is 0.",
+                    "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 484.62 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
+                    "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
+                    "Basic attacks deal Energy Damage instead of Physical."
+                ],
+                "PSIONIC MODE": [
+                    "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
+                    "Gain 2100 Physical Resistance.",
+                    "Deal a Burst of 1218.5 Energy Damage on each hit, scaling with Base Attack only.",
+                    "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 484.62 for 10 seconds.",
+                    "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
+                    "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
+                ],
+                "PURIFICATION": [
+                    "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
+                    "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
+                    "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 233.33.",
+                    "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
+                    "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 243.7."
+                ],
+                "ALL SPECIAL ATTACKS": [
+                    "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain a 30% Energize Buff for 15 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Increase Attack Rating by 243.7 per Unique Buff currently on Captain Britain."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
+                    "This Special Attack will always default to Psionic Mode off when entering or exiting."
+                ]
+            }
+        },
+        "6+1": {
+            "rank": 1,
+            "prestige": "6126",
+            "hp": "23611",
+            "attack": "1916",
+            "crit_rate": "0",
+            "crit_dmge": "879",
+            "armor": "391",
+            "block_prof": "2950",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 381.35 to 671.88 lasts 20 seconds. Max Stacks 6.",
+            "url_page": "https://auntm.ai/champions/captainbritain/tier/6",
+            "champid": "captainbritain+6+1",
+            "challenger_rating": 110,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Special Attacks have +8200 Critical Rating, but base Critical Rate is 0.",
+                    "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 473.08 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
+                    "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
+                    "Basic attacks deal Energy Damage instead of Physical."
+                ],
+                "PSIONIC MODE": [
+                    "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
+                    "Gain 2050 Physical Resistance.",
+                    "Deal a Burst of 958 Energy Damage on each hit, scaling with Base Attack only.",
+                    "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 473.08 for 10 seconds.",
+                    "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
+                    "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
+                ],
+                "PURIFICATION": [
+                    "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
+                    "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
+                    "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 227.78.",
+                    "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
+                    "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 191.6."
+                ],
+                "ALL SPECIAL ATTACKS": [
+                    "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain a 30% Energize Buff for 15 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Increase Attack Rating by 191.6 per Unique Buff currently on Captain Britain."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
+                    "This Special Attack will always default to Psionic Mode off when entering or exiting."
+                ]
+            }
+        },
+        "6+2": {
+            "rank": 2,
+            "prestige": "8461",
+            "hp": "32613",
+            "attack": "2647",
+            "crit_rate": "0",
+            "crit_dmge": "900",
+            "armor": "431",
+            "block_prof": "3022",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 390.65 to 688.27 lasts 20 seconds. Max Stacks 6.",
+            "url_page": "https://auntm.ai/champions/captainbritain/tier/6",
+            "champid": "captainbritain+6+2",
+            "challenger_rating": 120,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Special Attacks have +8400 Critical Rating, but base Critical Rate is 0.",
+                    "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 484.62 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
+                    "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
+                    "Basic attacks deal Energy Damage instead of Physical."
+                ],
+                "PSIONIC MODE": [
+                    "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
+                    "Gain 2100 Physical Resistance.",
+                    "Deal a Burst of 1323.5 Energy Damage on each hit, scaling with Base Attack only.",
+                    "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 484.62 for 10 seconds.",
+                    "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
+                    "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
+                ],
+                "PURIFICATION": [
+                    "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
+                    "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
+                    "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 233.33.",
+                    "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
+                    "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 264.7."
+                ],
+                "ALL SPECIAL ATTACKS": [
+                    "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain a 30% Energize Buff for 15 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Increase Attack Rating by 264.7 per Unique Buff currently on Captain Britain."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
+                    "This Special Attack will always default to Psionic Mode off when entering or exiting."
+                ]
+            }
+        },
+        "6+3": {
+            "rank": 3,
+            "prestige": "10059",
+            "hp": "38690",
+            "attack": "3140",
+            "crit_rate": "0",
+            "crit_dmge": "922",
+            "armor": "472",
+            "block_prof": "3094",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 399.96 to 704.66 lasts 20 seconds. Max Stacks 6.",
+            "url_page": "https://auntm.ai/champions/captainbritain/tier/6",
+            "champid": "captainbritain+6+3",
+            "challenger_rating": 130,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Special Attacks have +8600 Critical Rating, but base Critical Rate is 0.",
+                    "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 496.15 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
+                    "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
+                    "Basic attacks deal Energy Damage instead of Physical."
+                ],
+                "PSIONIC MODE": [
+                    "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
+                    "Gain 2150 Physical Resistance.",
+                    "Deal a Burst of 1570 Energy Damage on each hit, scaling with Base Attack only.",
+                    "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 496.15 for 10 seconds.",
+                    "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
+                    "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
+                ],
+                "PURIFICATION": [
+                    "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
+                    "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
+                    "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 238.89.",
+                    "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
+                    "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 314."
+                ],
+                "ALL SPECIAL ATTACKS": [
+                    "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain a 30% Energize Buff for 15 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Increase Attack Rating by 314 per Unique Buff currently on Captain Britain."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
+                    "This Special Attack will always default to Psionic Mode off when entering or exiting."
+                ]
+            }
+        },
+        "6+4": {
+            "rank": 4,
+            "prestige": "11510",
+            "hp": "44275",
+            "attack": "3593",
+            "crit_rate": "0",
+            "crit_dmge": "943",
+            "armor": "517",
+            "block_prof": "3166",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 409.26 to 721.05 lasts 20 seconds. Max Stacks 6.",
+            "url_page": "https://auntm.ai/champions/captainbritain/tier/6",
+            "champid": "captainbritain+6+4",
+            "challenger_rating": 140,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Special Attacks have +8800 Critical Rating, but base Critical Rate is 0.",
+                    "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 507.69 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
+                    "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
+                    "Basic attacks deal Energy Damage instead of Physical."
+                ],
+                "PSIONIC MODE": [
+                    "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
+                    "Gain 2200 Physical Resistance.",
+                    "Deal a Burst of 1796.5 Energy Damage on each hit, scaling with Base Attack only.",
+                    "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 507.69 for 10 seconds.",
+                    "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
+                    "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
+                ],
+                "PURIFICATION": [
+                    "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
+                    "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
+                    "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 244.45.",
+                    "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
+                    "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 359.3."
+                ],
+                "ALL SPECIAL ATTACKS": [
+                    "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain a 30% Energize Buff for 15 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Increase Attack Rating by 359.3 per Unique Buff currently on Captain Britain."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
+                    "This Special Attack will always default to Psionic Mode off when entering or exiting."
+                ]
+            }
+        },
+        "1+1": {
+            "name": "CAPTAIN BRITAIN",
+            "rank": 1,
+            "prestige": 215,
+            "hp": 840,
+            "attack": 69,
+            "crit_rate": 0,
+            "crit_dmge": 665,
+            "armor": 0,
+            "block_prof": 2231,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": null,
+            "url_page": "https://auntm.ai/champions/captainbritain/tier/1",
+            "champid": "captainbritain+1+1",
+            "img_potrait": null,
+            "challenger_rating": 10,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Special Attacks have +6200 Critical Rating, but base Critical Rate is 0.",
+                    "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 357.69 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
+                    "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
+                    "Basic attacks deal Energy Damage instead of Physical."
+                ],
+                "PSIONIC MODE": [
+                    "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
+                    "Gain 1550 Physical Resistance.",
+                    "Deal a Burst of 34.5 Energy Damage on each hit, scaling with Base Attack only.",
+                    "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 357.69 for 10 seconds.",
+                    "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
+                    "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
+                ],
+                "PURIFICATION": [
+                    "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
+                    "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
+                    "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 172.22.",
+                    "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
+                    "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 6.9."
+                ],
+                "ALL SPECIAL ATTACKS": [
+                    "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain a 30% Energize Buff for 15 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Increase Attack Rating by 6.9 per Unique Buff currently on Captain Britain."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
+                    "This Special Attack will always default to Psionic Mode off when entering or exiting."
+                ]
+            }
+        },
+        "1+2": {
+            "name": "CAPTAIN BRITAIN",
+            "rank": 2,
+            "prestige": 295,
+            "hp": 1161,
+            "attack": 95,
+            "crit_rate": 0,
+            "crit_dmge": 686,
+            "armor": 0,
+            "block_prof": 2303,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": null,
+            "url_page": "https://auntm.ai/champions/captainbritain/tier/1",
+            "champid": "captainbritain+1+2",
+            "img_potrait": null,
+            "challenger_rating": 20,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Special Attacks have +6400 Critical Rating, but base Critical Rate is 0.",
+                    "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 369.23 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
+                    "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
+                    "Basic attacks deal Energy Damage instead of Physical."
+                ],
+                "PSIONIC MODE": [
+                    "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
+                    "Gain 1600 Physical Resistance.",
+                    "Deal a Burst of 47.5 Energy Damage on each hit, scaling with Base Attack only.",
+                    "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 369.23 for 10 seconds.",
+                    "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
+                    "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
+                ],
+                "PURIFICATION": [
+                    "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
+                    "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
+                    "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 177.78.",
+                    "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
+                    "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 9.5."
+                ],
+                "ALL SPECIAL ATTACKS": [
+                    "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Gain a 30% Energize Buff for 15 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Increase Attack Rating by 9.5 per Unique Buff currently on Captain Britain."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
+                    "This Special Attack will always default to Psionic Mode off when entering or exiting."
+                ]
+            }
+        },
+        "find": {
+            "story_quests": {
+                "act_1": [],
+                "act_2": [],
+                "act_3": [
+                    "3.1"
+                ],
+                "act_4": [],
+                "act_5": [],
+                "act_6": [],
+                "act_7": []
+            }
+        }
     },
-    "2+2": {
-      "rank": 2,
-      "prestige": "358",
-      "hp": "1416",
-      "attack": "115",
-      "crit_rate": "0",
-      "crit_dmge": "708",
-      "armor": "52",
-      "block_prof": "2375",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 306.6 to 456.38 lasts 20 seconds. Max Stacks 6.",
-      "url_page": "https://auntm.ai/champions/captainbritain/tier/2",
-      "champid": "captainbritain+2+2",
-      "challenger_rating": 30,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Special Attacks have +6600 Critical Rating, but base Critical Rate is 0.",
-          "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 380.77 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
-          "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
-          "Basic attacks deal Energy Damage instead of Physical."
-        ],
-        "PSIONIC MODE": [
-          "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
-          "Gain 1650 Physical Resistance.",
-          "Deal a Burst of 57.5 Energy Damage on each hit, scaling with Base Attack only.",
-          "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 380.77 for 10 seconds.",
-          "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
-          "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
-        ],
-        "PURIFICATION": [
-          "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
-          "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
-          "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 183.33.",
-          "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
-          "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 11.5."
-        ],
-        "ALL SPECIAL ATTACKS": [
-          "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain a 30% Energize Buff for 15 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Increase Attack Rating by 11.5 per Unique Buff currently on Captain Britain."
-        ],
-        "SPECIAL ATTACK 3": [
-          "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
-          "This Special Attack will always default to Psionic Mode off when entering or exiting."
-        ]
-      }
-    },
-    "2+3": {
-      "rank": 3,
-      "prestige": "580",
-      "hp": "2248",
-      "attack": "183",
-      "crit_rate": "0",
-      "crit_dmge": "729",
-      "armor": "71",
-      "block_prof": "2447",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 315.89 to 470.21 lasts 20 seconds. Max Stacks 6.",
-      "url_page": "https://auntm.ai/champions/captainbritain/tier/2",
-      "champid": "captainbritain+2+3",
-      "challenger_rating": 40,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Special Attacks have +6800 Critical Rating, but base Critical Rate is 0.",
-          "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 392.31 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
-          "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
-          "Basic attacks deal Energy Damage instead of Physical."
-        ],
-        "PSIONIC MODE": [
-          "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
-          "Gain 1700 Physical Resistance.",
-          "Deal a Burst of 91.5 Energy Damage on each hit, scaling with Base Attack only.",
-          "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 392.31 for 10 seconds.",
-          "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
-          "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
-        ],
-        "PURIFICATION": [
-          "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
-          "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
-          "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 188.89.",
-          "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
-          "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 18.3."
-        ],
-        "ALL SPECIAL ATTACKS": [
-          "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain a 30% Energize Buff for 15 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Increase Attack Rating by 18.3 per Unique Buff currently on Captain Britain."
-        ],
-        "SPECIAL ATTACK 3": [
-          "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
-          "This Special Attack will always default to Psionic Mode off when entering or exiting."
-        ]
-      }
-    },
-    "3+1": {
-      "rank": 1,
-      "prestige": "501",
-      "hp": "1943",
-      "attack": "158",
-      "crit_rate": "0",
-      "crit_dmge": "729",
-      "armor": "71",
-      "block_prof": "2447",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 315.89 to 470.21 lasts 20 seconds. Max Stacks 6.",
-      "url_page": "https://auntm.ai/champions/captainbritain/tier/3",
-      "champid": "captainbritain+3+1",
-      "challenger_rating": 40,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Special Attacks have +6800 Critical Rating, but base Critical Rate is 0.",
-          "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 392.31 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
-          "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
-          "Basic attacks deal Energy Damage instead of Physical."
-        ],
-        "PSIONIC MODE": [
-          "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
-          "Gain 1700 Physical Resistance.",
-          "Deal a Burst of 79 Energy Damage on each hit, scaling with Base Attack only.",
-          "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 392.31 for 10 seconds.",
-          "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
-          "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
-        ],
-        "PURIFICATION": [
-          "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
-          "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
-          "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 188.89.",
-          "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
-          "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 15.8."
-        ],
-        "ALL SPECIAL ATTACKS": [
-          "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain a 30% Energize Buff for 15 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Increase Attack Rating by 15.8 per Unique Buff currently on Captain Britain."
-        ],
-        "SPECIAL ATTACK 3": [
-          "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
-          "This Special Attack will always default to Psionic Mode off when entering or exiting."
-        ]
-      }
-    },
-    "3+2": {
-      "rank": 2,
-      "prestige": "804",
-      "hp": "3109",
-      "attack": "253",
-      "crit_rate": "0",
-      "crit_dmge": "750",
-      "armor": "93",
-      "block_prof": "2519",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 325.18 to 484.04 lasts 20 seconds. Max Stacks 6.",
-      "url_page": "https://auntm.ai/champions/captainbritain/tier/3",
-      "champid": "captainbritain+3+2",
-      "challenger_rating": 50,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Special Attacks have +7000 Critical Rating, but base Critical Rate is 0.",
-          "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 403.85 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
-          "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
-          "Basic attacks deal Energy Damage instead of Physical."
-        ],
-        "PSIONIC MODE": [
-          "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
-          "Gain 1750 Physical Resistance.",
-          "Deal a Burst of 126.5 Energy Damage on each hit, scaling with Base Attack only.",
-          "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 403.85 for 10 seconds.",
-          "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
-          "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
-        ],
-        "PURIFICATION": [
-          "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
-          "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
-          "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 194.44.",
-          "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
-          "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 25.3."
-        ],
-        "ALL SPECIAL ATTACKS": [
-          "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain a 30% Energize Buff for 15 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Increase Attack Rating by 25.3 per Unique Buff currently on Captain Britain."
-        ],
-        "SPECIAL ATTACK 3": [
-          "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
-          "This Special Attack will always default to Psionic Mode off when entering or exiting."
-        ]
-      }
-    },
-    "3+3": {
-      "rank": 3,
-      "prestige": "1120",
-      "hp": "4349",
-      "attack": "353",
-      "crit_rate": "0",
-      "crit_dmge": "772",
-      "armor": "115",
-      "block_prof": "2591",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 334.47 to 497.86 lasts 20 seconds. Max Stacks 6.",
-      "url_page": "https://auntm.ai/champions/captainbritain/tier/3",
-      "champid": "captainbritain+3+3",
-      "challenger_rating": 60,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Special Attacks have +7200 Critical Rating, but base Critical Rate is 0.",
-          "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 415.38 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
-          "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
-          "Basic attacks deal Energy Damage instead of Physical."
-        ],
-        "PSIONIC MODE": [
-          "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
-          "Gain 1800 Physical Resistance.",
-          "Deal a Burst of 176.5 Energy Damage on each hit, scaling with Base Attack only.",
-          "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 415.38 for 10 seconds.",
-          "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
-          "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
-        ],
-        "PURIFICATION": [
-          "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
-          "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
-          "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 200.",
-          "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
-          "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 35.3."
-        ],
-        "ALL SPECIAL ATTACKS": [
-          "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain a 30% Energize Buff for 15 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Increase Attack Rating by 35.3 per Unique Buff currently on Captain Britain."
-        ],
-        "SPECIAL ATTACK 3": [
-          "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
-          "This Special Attack will always default to Psionic Mode off when entering or exiting."
-        ]
-      }
-    },
-    "3+4": {
-      "rank": 4,
-      "prestige": "1542",
-      "hp": "5972",
-      "attack": "485",
-      "crit_rate": "0",
-      "crit_dmge": "793",
-      "armor": "140",
-      "block_prof": "2663",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 343.76 to 511.69 lasts 20 seconds. Max Stacks 6.",
-      "url_page": "https://auntm.ai/champions/captainbritain/tier/3",
-      "champid": "captainbritain+3+4",
-      "challenger_rating": 70,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Special Attacks have +7400 Critical Rating, but base Critical Rate is 0.",
-          "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 426.92 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
-          "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
-          "Basic attacks deal Energy Damage instead of Physical."
-        ],
-        "PSIONIC MODE": [
-          "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
-          "Gain 1850 Physical Resistance.",
-          "Deal a Burst of 242.5 Energy Damage on each hit, scaling with Base Attack only.",
-          "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 426.92 for 10 seconds.",
-          "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
-          "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
-        ],
-        "PURIFICATION": [
-          "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
-          "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
-          "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 205.56.",
-          "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
-          "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 48.5."
-        ],
-        "ALL SPECIAL ATTACKS": [
-          "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain a 30% Energize Buff for 15 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Increase Attack Rating by 48.5 per Unique Buff currently on Captain Britain."
-        ],
-        "SPECIAL ATTACK 3": [
-          "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
-          "This Special Attack will always default to Psionic Mode off when entering or exiting."
-        ]
-      }
-    },
-    "4+1": {
-      "rank": 1,
-      "prestige": "1122",
-      "hp": "4346",
-      "attack": "353",
-      "crit_rate": "0",
-      "crit_dmge": "772",
-      "armor": "157",
-      "block_prof": "2591",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 334.47 to 497.86 lasts 20 seconds. Max Stacks 6.",
-      "url_page": "https://auntm.ai/champions/captainbritain/tier/4",
-      "champid": "captainbritain+4+1",
-      "challenger_rating": 60,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Special Attacks have +7200 Critical Rating, but base Critical Rate is 0.",
-          "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 415.38 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
-          "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
-          "Basic attacks deal Energy Damage instead of Physical."
-        ],
-        "PSIONIC MODE": [
-          "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
-          "Gain 1800 Physical Resistance.",
-          "Deal a Burst of 176.5 Energy Damage on each hit, scaling with Base Attack only.",
-          "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 415.38 for 10 seconds.",
-          "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
-          "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
-        ],
-        "PURIFICATION": [
-          "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
-          "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
-          "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 200.",
-          "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
-          "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 35.3."
-        ],
-        "ALL SPECIAL ATTACKS": [
-          "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain a 30% Energize Buff for 15 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Increase Attack Rating by 35.3 per Unique Buff currently on Captain Britain."
-        ],
-        "SPECIAL ATTACK 3": [
-          "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
-          "This Special Attack will always default to Psionic Mode off when entering or exiting."
-        ]
-      }
-    },
-    "4+2": {
-      "rank": 2,
-      "prestige": "1578",
-      "hp": "6097",
-      "attack": "495",
-      "crit_rate": "0",
-      "crit_dmge": "793",
-      "armor": "183",
-      "block_prof": "2663",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 343.76 to 511.69 lasts 20 seconds. Max Stacks 6.",
-      "url_page": "https://auntm.ai/champions/captainbritain/tier/4",
-      "champid": "captainbritain+4+2",
-      "challenger_rating": 70,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Special Attacks have +7400 Critical Rating, but base Critical Rate is 0.",
-          "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 426.92 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
-          "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
-          "Basic attacks deal Energy Damage instead of Physical."
-        ],
-        "PSIONIC MODE": [
-          "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
-          "Gain 1850 Physical Resistance.",
-          "Deal a Burst of 247.5 Energy Damage on each hit, scaling with Base Attack only.",
-          "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 426.92 for 10 seconds.",
-          "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
-          "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
-        ],
-        "PURIFICATION": [
-          "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
-          "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
-          "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 205.56.",
-          "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
-          "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 49.5."
-        ],
-        "ALL SPECIAL ATTACKS": [
-          "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain a 30% Energize Buff for 15 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Increase Attack Rating by 49.5 per Unique Buff currently on Captain Britain."
-        ],
-        "SPECIAL ATTACK 3": [
-          "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
-          "This Special Attack will always default to Psionic Mode off when entering or exiting."
-        ]
-      }
-    },
-    "4+3": {
-      "rank": 3,
-      "prestige": "2211",
-      "hp": "8542",
-      "attack": "694",
-      "crit_rate": "0",
-      "crit_dmge": "815",
-      "armor": "212",
-      "block_prof": "2735",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 353.05 to 525.52 lasts 20 seconds. Max Stacks 6.",
-      "url_page": "https://auntm.ai/champions/captainbritain/tier/4",
-      "champid": "captainbritain+4+3",
-      "challenger_rating": 80,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Special Attacks have +7600 Critical Rating, but base Critical Rate is 0.",
-          "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 438.46 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
-          "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
-          "Basic attacks deal Energy Damage instead of Physical."
-        ],
-        "PSIONIC MODE": [
-          "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
-          "Gain 1900 Physical Resistance.",
-          "Deal a Burst of 347 Energy Damage on each hit, scaling with Base Attack only.",
-          "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 438.46 for 10 seconds.",
-          "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
-          "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
-        ],
-        "PURIFICATION": [
-          "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
-          "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
-          "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 211.11.",
-          "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
-          "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 69.4."
-        ],
-        "ALL SPECIAL ATTACKS": [
-          "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain a 30% Energize Buff for 15 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Increase Attack Rating by 69.4 per Unique Buff currently on Captain Britain."
-        ],
-        "SPECIAL ATTACK 3": [
-          "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
-          "This Special Attack will always default to Psionic Mode off when entering or exiting."
-        ]
-      }
-    },
-    "4+4": {
-      "rank": 4,
-      "prestige": "2908",
-      "hp": "11224",
-      "attack": "911",
-      "crit_rate": "0",
-      "crit_dmge": "836",
-      "armor": "242",
-      "block_prof": "2807",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 362.34 to 539.35 lasts 20 seconds. Max Stacks 6.",
-      "url_page": "https://auntm.ai/champions/captainbritain/tier/4",
-      "champid": "captainbritain+4+4",
-      "challenger_rating": 90,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Special Attacks have +7800 Critical Rating, but base Critical Rate is 0.",
-          "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 450 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
-          "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
-          "Basic attacks deal Energy Damage instead of Physical."
-        ],
-        "PSIONIC MODE": [
-          "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
-          "Gain 1950 Physical Resistance.",
-          "Deal a Burst of 455.5 Energy Damage on each hit, scaling with Base Attack only.",
-          "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 450 for 10 seconds.",
-          "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
-          "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
-        ],
-        "PURIFICATION": [
-          "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
-          "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
-          "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 216.67.",
-          "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
-          "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 91.1."
-        ],
-        "ALL SPECIAL ATTACKS": [
-          "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain a 30% Energize Buff for 15 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Increase Attack Rating by 91.1 per Unique Buff currently on Captain Britain."
-        ],
-        "SPECIAL ATTACK 3": [
-          "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
-          "This Special Attack will always default to Psionic Mode off when entering or exiting."
-        ]
-      }
-    },
-    "4+5": {
-      "rank": 5,
-      "prestige": "3880",
-      "hp": "14976",
-      "attack": "1216",
-      "crit_rate": "0",
-      "crit_dmge": "858",
-      "armor": "273",
-      "block_prof": "2879",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 371.64 to 553.18 lasts 20 seconds. Max Stacks 6.",
-      "url_page": "https://auntm.ai/champions/captainbritain/tier/4",
-      "champid": "captainbritain+4+5",
-      "challenger_rating": 100,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Special Attacks have +8000 Critical Rating, but base Critical Rate is 0.",
-          "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 461.54 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
-          "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
-          "Basic attacks deal Energy Damage instead of Physical."
-        ],
-        "PSIONIC MODE": [
-          "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
-          "Gain 2000 Physical Resistance.",
-          "Deal a Burst of 608 Energy Damage on each hit, scaling with Base Attack only.",
-          "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 461.54 for 10 seconds.",
-          "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
-          "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
-        ],
-        "PURIFICATION": [
-          "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
-          "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
-          "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 222.22.",
-          "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
-          "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 121.6."
-        ],
-        "ALL SPECIAL ATTACKS": [
-          "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain a 30% Energize Buff for 15 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Increase Attack Rating by 121.6 per Unique Buff currently on Captain Britain."
-        ],
-        "SPECIAL ATTACK 3": [
-          "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
-          "This Special Attack will always default to Psionic Mode off when entering or exiting."
-        ]
-      }
-    },
-    "5+1": {
-      "rank": 1,
-      "prestige": "2323",
-      "hp": "8937",
-      "attack": "726",
-      "crit_rate": "0",
-      "crit_dmge": "815",
-      "armor": "362",
-      "block_prof": "2735",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 353.45 to 622.72 lasts 20 seconds. Max Stacks 6.",
-      "url_page": "https://auntm.ai/champions/captainbritain/tier/5",
-      "champid": "captainbritain+5+1",
-      "challenger_rating": 80,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Special Attacks have +7600 Critical Rating, but base Critical Rate is 0.",
-          "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 438.46 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
-          "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
-          "Basic attacks deal Energy Damage instead of Physical."
-        ],
-        "PSIONIC MODE": [
-          "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
-          "Gain 1900 Physical Resistance.",
-          "Deal a Burst of 363 Energy Damage on each hit, scaling with Base Attack only.",
-          "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 438.46 for 10 seconds.",
-          "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
-          "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
-        ],
-        "PURIFICATION": [
-          "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
-          "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
-          "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 211.11.",
-          "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
-          "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 72.6."
-        ],
-        "ALL SPECIAL ATTACKS": [
-          "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain a 30% Energize Buff for 15 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Increase Attack Rating by 72.6 per Unique Buff currently on Captain Britain."
-        ],
-        "SPECIAL ATTACK 3": [
-          "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
-          "This Special Attack will always default to Psionic Mode off when entering or exiting."
-        ]
-      }
-    },
-    "5+2": {
-      "rank": 2,
-      "prestige": "3064",
-      "hp": "11805",
-      "attack": "958",
-      "crit_rate": "0",
-      "crit_dmge": "836",
-      "armor": "400",
-      "block_prof": "2807",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 362.75 to 639.11 lasts 20 seconds. Max Stacks 6.",
-      "url_page": "https://auntm.ai/champions/captainbritain/tier/5",
-      "champid": "captainbritain+5+2",
-      "challenger_rating": 90,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Special Attacks have +7800 Critical Rating, but base Critical Rate is 0.",
-          "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 450 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
-          "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
-          "Basic attacks deal Energy Damage instead of Physical."
-        ],
-        "PSIONIC MODE": [
-          "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
-          "Gain 1950 Physical Resistance.",
-          "Deal a Burst of 479 Energy Damage on each hit, scaling with Base Attack only.",
-          "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 450 for 10 seconds.",
-          "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
-          "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
-        ],
-        "PURIFICATION": [
-          "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
-          "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
-          "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 216.67.",
-          "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
-          "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 95.8."
-        ],
-        "ALL SPECIAL ATTACKS": [
-          "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain a 30% Energize Buff for 15 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Increase Attack Rating by 95.8 per Unique Buff currently on Captain Britain."
-        ],
-        "SPECIAL ATTACK 3": [
-          "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
-          "This Special Attack will always default to Psionic Mode off when entering or exiting."
-        ]
-      }
-    },
-    "5+3": {
-      "rank": 3,
-      "prestige": "4293",
-      "hp": "16504",
-      "attack": "1340",
-      "crit_rate": "0",
-      "crit_dmge": "858",
-      "armor": "440",
-      "block_prof": "2879",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 372.05 to 655.5 lasts 20 seconds. Max Stacks 6.",
-      "url_page": "https://auntm.ai/champions/captainbritain/tier/5",
-      "champid": "captainbritain+5+3",
-      "challenger_rating": 100,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Special Attacks have +8000 Critical Rating, but base Critical Rate is 0.",
-          "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 461.54 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
-          "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
-          "Basic attacks deal Energy Damage instead of Physical."
-        ],
-        "PSIONIC MODE": [
-          "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
-          "Gain 2000 Physical Resistance.",
-          "Deal a Burst of 670 Energy Damage on each hit, scaling with Base Attack only.",
-          "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 461.54 for 10 seconds.",
-          "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
-          "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
-        ],
-        "PURIFICATION": [
-          "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
-          "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
-          "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 222.22.",
-          "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
-          "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 134."
-        ],
-        "ALL SPECIAL ATTACKS": [
-          "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain a 30% Energize Buff for 15 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Increase Attack Rating by 134 per Unique Buff currently on Captain Britain."
-        ],
-        "SPECIAL ATTACK 3": [
-          "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
-          "This Special Attack will always default to Psionic Mode off when entering or exiting."
-        ]
-      }
-    },
-    "5+4": {
-      "rank": 4,
-      "prestige": "5783",
-      "hp": "22239",
-      "attack": "1805",
-      "crit_rate": "0",
-      "crit_dmge": "879",
-      "armor": "481",
-      "block_prof": "2950",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 381.35 to 671.88 lasts 20 seconds. Max Stacks 6.",
-      "url_page": "https://auntm.ai/champions/captainbritain/tier/5",
-      "champid": "captainbritain+5+4",
-      "challenger_rating": 110,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Special Attacks have +8200 Critical Rating, but base Critical Rate is 0.",
-          "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 473.08 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
-          "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
-          "Basic attacks deal Energy Damage instead of Physical."
-        ],
-        "PSIONIC MODE": [
-          "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
-          "Gain 2050 Physical Resistance.",
-          "Deal a Burst of 902.5 Energy Damage on each hit, scaling with Base Attack only.",
-          "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 473.08 for 10 seconds.",
-          "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
-          "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
-        ],
-        "PURIFICATION": [
-          "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
-          "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
-          "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 227.78.",
-          "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
-          "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 180.5."
-        ],
-        "ALL SPECIAL ATTACKS": [
-          "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain a 30% Energize Buff for 15 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Increase Attack Rating by 180.5 per Unique Buff currently on Captain Britain."
-        ],
-        "SPECIAL ATTACK 3": [
-          "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
-          "This Special Attack will always default to Psionic Mode off when entering or exiting."
-        ]
-      }
-    },
-    "5+5": {
-      "rank": 5,
-      "prestige": "7821",
-      "hp": "30027",
-      "attack": "2437",
-      "crit_rate": "0",
-      "crit_dmge": "900",
-      "armor": "525",
-      "block_prof": "3022",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 390.65 to 688.27 lasts 20 seconds. Max Stacks 6.",
-      "url_page": "https://auntm.ai/champions/captainbritain/tier/5",
-      "champid": "captainbritain+5+5",
-      "challenger_rating": 120,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Special Attacks have +8400 Critical Rating, but base Critical Rate is 0.",
-          "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 484.62 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
-          "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
-          "Basic attacks deal Energy Damage instead of Physical."
-        ],
-        "PSIONIC MODE": [
-          "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
-          "Gain 2100 Physical Resistance.",
-          "Deal a Burst of 1218.5 Energy Damage on each hit, scaling with Base Attack only.",
-          "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 484.62 for 10 seconds.",
-          "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
-          "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
-        ],
-        "PURIFICATION": [
-          "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
-          "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
-          "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 233.33.",
-          "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
-          "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 243.7."
-        ],
-        "ALL SPECIAL ATTACKS": [
-          "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain a 30% Energize Buff for 15 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Increase Attack Rating by 243.7 per Unique Buff currently on Captain Britain."
-        ],
-        "SPECIAL ATTACK 3": [
-          "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
-          "This Special Attack will always default to Psionic Mode off when entering or exiting."
-        ]
-      }
-    },
-    "6+1": {
-      "rank": 1,
-      "prestige": "6126",
-      "hp": "23611",
-      "attack": "1916",
-      "crit_rate": "0",
-      "crit_dmge": "879",
-      "armor": "391",
-      "block_prof": "2950",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 381.35 to 671.88 lasts 20 seconds. Max Stacks 6.",
-      "url_page": "https://auntm.ai/champions/captainbritain/tier/6",
-      "champid": "captainbritain+6+1",
-      "challenger_rating": 110,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Special Attacks have +8200 Critical Rating, but base Critical Rate is 0.",
-          "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 473.08 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
-          "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
-          "Basic attacks deal Energy Damage instead of Physical."
-        ],
-        "PSIONIC MODE": [
-          "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
-          "Gain 2050 Physical Resistance.",
-          "Deal a Burst of 958 Energy Damage on each hit, scaling with Base Attack only.",
-          "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 473.08 for 10 seconds.",
-          "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
-          "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
-        ],
-        "PURIFICATION": [
-          "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
-          "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
-          "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 227.78.",
-          "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
-          "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 191.6."
-        ],
-        "ALL SPECIAL ATTACKS": [
-          "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain a 30% Energize Buff for 15 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Increase Attack Rating by 191.6 per Unique Buff currently on Captain Britain."
-        ],
-        "SPECIAL ATTACK 3": [
-          "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
-          "This Special Attack will always default to Psionic Mode off when entering or exiting."
-        ]
-      }
-    },
-    "6+2": {
-      "rank": 2,
-      "prestige": "8461",
-      "hp": "32613",
-      "attack": "2647",
-      "crit_rate": "0",
-      "crit_dmge": "900",
-      "armor": "431",
-      "block_prof": "3022",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 390.65 to 688.27 lasts 20 seconds. Max Stacks 6.",
-      "url_page": "https://auntm.ai/champions/captainbritain/tier/6",
-      "champid": "captainbritain+6+2",
-      "challenger_rating": 120,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Special Attacks have +8400 Critical Rating, but base Critical Rate is 0.",
-          "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 484.62 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
-          "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
-          "Basic attacks deal Energy Damage instead of Physical."
-        ],
-        "PSIONIC MODE": [
-          "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
-          "Gain 2100 Physical Resistance.",
-          "Deal a Burst of 1323.5 Energy Damage on each hit, scaling with Base Attack only.",
-          "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 484.62 for 10 seconds.",
-          "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
-          "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
-        ],
-        "PURIFICATION": [
-          "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
-          "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
-          "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 233.33.",
-          "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
-          "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 264.7."
-        ],
-        "ALL SPECIAL ATTACKS": [
-          "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain a 30% Energize Buff for 15 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Increase Attack Rating by 264.7 per Unique Buff currently on Captain Britain."
-        ],
-        "SPECIAL ATTACK 3": [
-          "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
-          "This Special Attack will always default to Psionic Mode off when entering or exiting."
-        ]
-      }
-    },
-    "6+3": {
-      "rank": 3,
-      "prestige": "10059",
-      "hp": "38690",
-      "attack": "3140",
-      "crit_rate": "0",
-      "crit_dmge": "922",
-      "armor": "472",
-      "block_prof": "3094",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 399.96 to 704.66 lasts 20 seconds. Max Stacks 6.",
-      "url_page": "https://auntm.ai/champions/captainbritain/tier/6",
-      "champid": "captainbritain+6+3",
-      "challenger_rating": 130,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Special Attacks have +8600 Critical Rating, but base Critical Rate is 0.",
-          "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 496.15 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
-          "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
-          "Basic attacks deal Energy Damage instead of Physical."
-        ],
-        "PSIONIC MODE": [
-          "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
-          "Gain 2150 Physical Resistance.",
-          "Deal a Burst of 1570 Energy Damage on each hit, scaling with Base Attack only.",
-          "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 496.15 for 10 seconds.",
-          "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
-          "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
-        ],
-        "PURIFICATION": [
-          "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
-          "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
-          "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 238.89.",
-          "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
-          "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 314."
-        ],
-        "ALL SPECIAL ATTACKS": [
-          "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain a 30% Energize Buff for 15 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Increase Attack Rating by 314 per Unique Buff currently on Captain Britain."
-        ],
-        "SPECIAL ATTACK 3": [
-          "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
-          "This Special Attack will always default to Psionic Mode off when entering or exiting."
-        ]
-      }
-    },
-    "6+4": {
-      "rank": 4,
-      "prestige": "11510",
-      "hp": "44275",
-      "attack": "3593",
-      "crit_rate": "0",
-      "crit_dmge": "943",
-      "armor": "517",
-      "block_prof": "3166",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Whenever a Debuff is Purified, gain a Bulwark Passive, increasing Block Proficiency by 409.26 to 721.05 lasts 20 seconds. Max Stacks 6.",
-      "url_page": "https://auntm.ai/champions/captainbritain/tier/6",
-      "champid": "captainbritain+6+4",
-      "challenger_rating": 140,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Special Attacks have +8800 Critical Rating, but base Critical Rate is 0.",
-          "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 507.69 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
-          "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
-          "Basic attacks deal Energy Damage instead of Physical."
-        ],
-        "PSIONIC MODE": [
-          "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
-          "Gain 2200 Physical Resistance.",
-          "Deal a Burst of 1796.5 Energy Damage on each hit, scaling with Base Attack only.",
-          "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 507.69 for 10 seconds.",
-          "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
-          "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
-        ],
-        "PURIFICATION": [
-          "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
-          "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
-          "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 244.45.",
-          "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
-          "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 359.3."
-        ],
-        "ALL SPECIAL ATTACKS": [
-          "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain a 30% Energize Buff for 15 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Increase Attack Rating by 359.3 per Unique Buff currently on Captain Britain."
-        ],
-        "SPECIAL ATTACK 3": [
-          "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
-          "This Special Attack will always default to Psionic Mode off when entering or exiting."
-        ]
-      }
-    },
-    "1+1": {
-      "name": "CAPTAIN BRITAIN",
-      "rank": 1,
-      "prestige": 215,
-      "hp": 840,
-      "attack": 69,
-      "crit_rate": 0,
-      "crit_dmge": 665,
-      "armor": 0,
-      "block_prof": 2231,
-      "energy_resist": 0,
-      "physical_resist": 0,
-      "crit_resist": 0,
-      "sig_info": null,
-      "url_page": "https://auntm.ai/champions/captainbritain/tier/1",
-      "champid": "captainbritain+1+1",
-      "img_potrait": null,
-      "challenger_rating": 10,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Special Attacks have +6200 Critical Rating, but base Critical Rate is 0.",
-          "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 357.69 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
-          "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
-          "Basic attacks deal Energy Damage instead of Physical."
-        ],
-        "PSIONIC MODE": [
-          "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
-          "Gain 1550 Physical Resistance.",
-          "Deal a Burst of 34.5 Energy Damage on each hit, scaling with Base Attack only.",
-          "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 357.69 for 10 seconds.",
-          "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
-          "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
-        ],
-        "PURIFICATION": [
-          "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
-          "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
-          "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 172.22.",
-          "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
-          "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 6.9."
-        ],
-        "ALL SPECIAL ATTACKS": [
-          "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain a 30% Energize Buff for 15 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Increase Attack Rating by 6.9 per Unique Buff currently on Captain Britain."
-        ],
-        "SPECIAL ATTACK 3": [
-          "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
-          "This Special Attack will always default to Psionic Mode off when entering or exiting."
-        ]
-      }
-    },
-    "1+2": {
-      "name": "CAPTAIN BRITAIN",
-      "rank": 2,
-      "prestige": 295,
-      "hp": 1161,
-      "attack": 95,
-      "crit_rate": 0,
-      "crit_dmge": 686,
-      "armor": 0,
-      "block_prof": 2303,
-      "energy_resist": 0,
-      "physical_resist": 0,
-      "crit_resist": 0,
-      "sig_info": null,
-      "url_page": "https://auntm.ai/champions/captainbritain/tier/1",
-      "champid": "captainbritain+1+2",
-      "img_potrait": null,
-      "challenger_rating": 20,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Special Attacks have +6400 Critical Rating, but base Critical Rate is 0.",
-          "When Captain Britain is struck by a Critical Hit or it hits her Block, 80% chance to inflict Exhaustion, reducing Critical Damage Rating by 369.23 for 10 seconds. Max Stack 4. This includes Exhaustion inflicted through Psionic Mode.",
-          "For each Prowess effect on Captain Britain, her Defensive Ability Accuracy is increased by 10%.",
-          "Basic attacks deal Energy Damage instead of Physical."
-        ],
-        "PSIONIC MODE": [
-          "Captain Britain activates Psionic Mode when she activates a Special Attack. If it was already on, she deactivates it instead. Psionic Mode grants the following:",
-          "Gain 1600 Physical Resistance.",
-          "Deal a Burst of 47.5 Energy Damage on each hit, scaling with Base Attack only.",
-          "On the first Light Attack, inflict an Exhaustion Debuff, reducing Critical Damage Rating by 369.23 for 10 seconds.",
-          "On the second Medium Attack, inflict a non-stacking Slow Debuff for 10 seconds.",
-          "On the first hit of the Heavy Attack, inflict a non-stacking Weakness Debuff, reducing Attack Rating by 30% for 10 seconds."
-        ],
-        "PURIFICATION": [
-          "Whenever Psionic Mode is activated or deactivated, Captain Britain will Purify all Exhaustion, Slow, and Weakness Debuffs off the Opponent.",
-          "Whenever a Debuff is Purified off the Opponent, gain an indefinite Passive Prowess, increasing Special Attack damage by 10%. Max Stacks 25. Captain Britain also gains an additional Buff if the Debuff was an Exhaustion, Slow, or Weakness.",
-          "Purified Exhaustions grant a Cruelty Buff for 30 second(s), increasing Critical Damage Rating by 177.78.",
-          "Purified Slows grant an Unstoppable Buff for 3 second(s). This does not trigger against Tech Opponents.",
-          "Purified Weaknesses grant a Fury Buff for 30 second(s) increasing Attack Rating by 9.5."
-        ],
-        "ALL SPECIAL ATTACKS": [
-          "On Activate, Pause all of Captain Britain\u2019s personal Buffs for 5 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Gain a 30% Energize Buff for 15 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Increase Attack Rating by 9.5 per Unique Buff currently on Captain Britain."
-        ],
-        "SPECIAL ATTACK 3": [
-          "On Activate, exit Psionic Mode, gain 1 of each Buff, and inflict 1 of each Debuff.",
-          "This Special Attack will always default to Psionic Mode off when entering or exiting."
-        ]
-      }
-    }
-  },
-  "contact": "ENERGY",
-  "tags": [
-    "Hero",
-    "X-Men",
-    "Size: S"
-  ],
-  "released": "3/10/2022"
+    "contact": "ENERGY",
+    "tags": [
+        "Hero",
+        "X-Men",
+        "Size: S"
+    ],
+    "released": "3/10/2022"
 }

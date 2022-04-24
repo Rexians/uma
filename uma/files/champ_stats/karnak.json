@@ -1,1180 +1,1216 @@
 {
-  "champid": "karnak",
-  "data": {
-    "2+1": {
-      "rank": 1,
-      "prestige": "273",
-      "hp": "1132",
-      "attack": "85",
-      "crit_rate": "283",
-      "crit_dmge": "400",
-      "armor": "0",
-      "block_prof": "2845",
-      "energy_resist": "0",
-      "physical_resist": "478",
-      "crit_resist": "0",
-      "sig_info": [
-        "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
-        "Ignore 25 to 90% of the opponent\u2019s positive Physical Resistance.",
-        "Striking the opponent\u2019s Block grants Karnak 60 to 90% of the Power an unblocked attack would have granted."
-      ],
-      "url_page": "https://auntm.ai/champions/karnak/tier/2",
-      "champid": "karnak+2+1",
-      "challenger_rating": 20,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Karnak\u2019s training and unmatched focus grants him the following:",
-          "+477.92 Physical Resistance.",
-          "+139.13 Block Proficiency against Basic Attacks.",
-          "Incoming non-damaging Debuffs suffer -60% duration.",
-          "Incoming Poison effects deal -65% damage."
-        ],
-        "FOCUS CHARGES": [
-          "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
-          "1+ Charge: +1955.56 Critical Rating.",
-          "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
-          "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
-        ],
-        "HEAVY ATTACKS": [
-          "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +400 Critical Damage Rating and reduces Block Proficiency by 50%.",
-          "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
-          "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to gain a Passive Fury effect, increasing attack by 42.5 for 30 seconds.",
-          "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
-        ]
-      }
+    "champid": "karnak",
+    "data": {
+        "2+1": {
+            "rank": 1,
+            "prestige": "273",
+            "hp": "1132",
+            "attack": "85",
+            "crit_rate": "283",
+            "crit_dmge": "400",
+            "armor": "0",
+            "block_prof": "2845",
+            "energy_resist": "0",
+            "physical_resist": "478",
+            "crit_resist": "0",
+            "sig_info": [
+                "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
+                "Ignore 25 to 90% of the opponent\u2019s positive Physical Resistance.",
+                "Striking the opponent\u2019s Block grants Karnak 60 to 90% of the Power an unblocked attack would have granted."
+            ],
+            "url_page": "https://auntm.ai/champions/karnak/tier/2",
+            "champid": "karnak+2+1",
+            "challenger_rating": 20,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Karnak\u2019s training and unmatched focus grants him the following:",
+                    "+477.92 Physical Resistance.",
+                    "+139.13 Block Proficiency against Basic Attacks.",
+                    "Incoming non-damaging Debuffs suffer -60% duration.",
+                    "Incoming Poison effects deal -65% damage."
+                ],
+                "FOCUS CHARGES": [
+                    "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
+                    "1+ Charge: +1955.56 Critical Rating.",
+                    "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
+                    "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +400 Critical Damage Rating and reduces Block Proficiency by 50%.",
+                    "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
+                    "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to gain a Passive Fury effect, increasing attack by 42.5 for 30 seconds.",
+                    "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
+                ]
+            }
+        },
+        "2+2": {
+            "rank": 2,
+            "prestige": "359",
+            "hp": "1495",
+            "attack": "112",
+            "crit_rate": "292",
+            "crit_dmge": "413",
+            "armor": "0",
+            "block_prof": "2934",
+            "energy_resist": "0",
+            "physical_resist": "493",
+            "crit_resist": "0",
+            "sig_info": [
+                "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
+                "Ignore 25 to 90% of the opponent\u2019s positive Physical Resistance.",
+                "Striking the opponent\u2019s Block grants Karnak 60 to 90% of the Power an unblocked attack would have granted."
+            ],
+            "url_page": "https://auntm.ai/champions/karnak/tier/2",
+            "champid": "karnak+2+2",
+            "challenger_rating": 30,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Karnak\u2019s training and unmatched focus grants him the following:",
+                    "+492.86 Physical Resistance.",
+                    "+143.48 Block Proficiency against Basic Attacks.",
+                    "Incoming non-damaging Debuffs suffer -60% duration.",
+                    "Incoming Poison effects deal -65% damage."
+                ],
+                "FOCUS CHARGES": [
+                    "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
+                    "1+ Charge: +2016.67 Critical Rating.",
+                    "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
+                    "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +412.5 Critical Damage Rating and reduces Block Proficiency by 50%.",
+                    "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
+                    "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to gain a Passive Fury effect, increasing attack by 56 for 30 seconds.",
+                    "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
+                ]
+            }
+        },
+        "2+3": {
+            "rank": 3,
+            "prestige": "568",
+            "hp": "2373",
+            "attack": "177",
+            "crit_rate": "301",
+            "crit_dmge": "425",
+            "armor": "0",
+            "block_prof": "3023",
+            "energy_resist": "0",
+            "physical_resist": "508",
+            "crit_resist": "0",
+            "sig_info": [
+                "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
+                "Ignore 25 to 90% of the opponent\u2019s positive Physical Resistance.",
+                "Striking the opponent\u2019s Block grants Karnak 60 to 90% of the Power an unblocked attack would have granted."
+            ],
+            "url_page": "https://auntm.ai/champions/karnak/tier/2",
+            "champid": "karnak+2+3",
+            "challenger_rating": 40,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Karnak\u2019s training and unmatched focus grants him the following:",
+                    "+507.79 Physical Resistance.",
+                    "+147.83 Block Proficiency against Basic Attacks.",
+                    "Incoming non-damaging Debuffs suffer -60% duration.",
+                    "Incoming Poison effects deal -65% damage."
+                ],
+                "FOCUS CHARGES": [
+                    "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
+                    "1+ Charge: +2077.78 Critical Rating.",
+                    "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
+                    "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +425 Critical Damage Rating and reduces Block Proficiency by 50%.",
+                    "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
+                    "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to gain a Passive Fury effect, increasing attack by 88.5 for 30 seconds.",
+                    "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
+                ]
+            }
+        },
+        "3+1": {
+            "rank": 1,
+            "prestige": "492",
+            "hp": "2052",
+            "attack": "153",
+            "crit_rate": "301",
+            "crit_dmge": "425",
+            "armor": "0",
+            "block_prof": "3023",
+            "energy_resist": "0",
+            "physical_resist": "508",
+            "crit_resist": "0",
+            "sig_info": [
+                "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
+                "Ignore 25 to 90% of the opponent\u2019s positive Physical Resistance.",
+                "Striking the opponent\u2019s Block grants Karnak 60 to 90% of the Power an unblocked attack would have granted."
+            ],
+            "url_page": "https://auntm.ai/champions/karnak/tier/3",
+            "champid": "karnak+3+1",
+            "challenger_rating": 40,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Karnak\u2019s training and unmatched focus grants him the following:",
+                    "+507.79 Physical Resistance.",
+                    "+147.83 Block Proficiency against Basic Attacks.",
+                    "Incoming non-damaging Debuffs suffer -60% duration.",
+                    "Incoming Poison effects deal -65% damage."
+                ],
+                "FOCUS CHARGES": [
+                    "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
+                    "1+ Charge: +2077.78 Critical Rating.",
+                    "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
+                    "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +425 Critical Damage Rating and reduces Block Proficiency by 50%.",
+                    "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
+                    "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to gain a Passive Fury effect, increasing attack by 76.5 for 30 seconds.",
+                    "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
+                ]
+            }
+        },
+        "3+2": {
+            "rank": 2,
+            "prestige": "786",
+            "hp": "3283",
+            "attack": "245",
+            "crit_rate": "309",
+            "crit_dmge": "438",
+            "armor": "0",
+            "block_prof": "3112",
+            "energy_resist": "0",
+            "physical_resist": "523",
+            "crit_resist": "0",
+            "sig_info": [
+                "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
+                "Ignore 25 to 90% of the opponent\u2019s positive Physical Resistance.",
+                "Striking the opponent\u2019s Block grants Karnak 60 to 90% of the Power an unblocked attack would have granted."
+            ],
+            "url_page": "https://auntm.ai/champions/karnak/tier/3",
+            "champid": "karnak+3+2",
+            "challenger_rating": 50,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Karnak\u2019s training and unmatched focus grants him the following:",
+                    "+522.73 Physical Resistance.",
+                    "+152.17 Block Proficiency against Basic Attacks.",
+                    "Incoming non-damaging Debuffs suffer -60% duration.",
+                    "Incoming Poison effects deal -65% damage."
+                ],
+                "FOCUS CHARGES": [
+                    "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
+                    "1+ Charge: +2138.89 Critical Rating.",
+                    "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
+                    "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +437.5 Critical Damage Rating and reduces Block Proficiency by 50%.",
+                    "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
+                    "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to gain a Passive Fury effect, increasing attack by 122.5 for 30 seconds.",
+                    "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
+                ]
+            }
+        },
+        "3+3": {
+            "rank": 3,
+            "prestige": "1096",
+            "hp": "4592",
+            "attack": "342",
+            "crit_rate": "318",
+            "crit_dmge": "450",
+            "armor": "0",
+            "block_prof": "3200",
+            "energy_resist": "0",
+            "physical_resist": "538",
+            "crit_resist": "0",
+            "sig_info": [
+                "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
+                "Ignore 25 to 90% of the opponent\u2019s positive Physical Resistance.",
+                "Striking the opponent\u2019s Block grants Karnak 60 to 90% of the Power an unblocked attack would have granted."
+            ],
+            "url_page": "https://auntm.ai/champions/karnak/tier/3",
+            "champid": "karnak+3+3",
+            "challenger_rating": 60,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Karnak\u2019s training and unmatched focus grants him the following:",
+                    "+537.66 Physical Resistance.",
+                    "+156.52 Block Proficiency against Basic Attacks.",
+                    "Incoming non-damaging Debuffs suffer -60% duration.",
+                    "Incoming Poison effects deal -65% damage."
+                ],
+                "FOCUS CHARGES": [
+                    "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
+                    "1+ Charge: +2200 Critical Rating.",
+                    "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
+                    "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +450 Critical Damage Rating and reduces Block Proficiency by 50%.",
+                    "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
+                    "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to gain a Passive Fury effect, increasing attack by 171 for 30 seconds.",
+                    "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
+                ]
+            }
+        },
+        "3+4": {
+            "rank": 4,
+            "prestige": "1506",
+            "hp": "6306",
+            "attack": "469",
+            "crit_rate": "327",
+            "crit_dmge": "463",
+            "armor": "0",
+            "block_prof": "3289",
+            "energy_resist": "0",
+            "physical_resist": "553",
+            "crit_resist": "0",
+            "sig_info": [
+                "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
+                "Ignore 25 to 90% of the opponent\u2019s positive Physical Resistance.",
+                "Striking the opponent\u2019s Block grants Karnak 60 to 90% of the Power an unblocked attack would have granted."
+            ],
+            "url_page": "https://auntm.ai/champions/karnak/tier/3",
+            "champid": "karnak+3+4",
+            "challenger_rating": 70,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Karnak\u2019s training and unmatched focus grants him the following:",
+                    "+552.6 Physical Resistance.",
+                    "+160.87 Block Proficiency against Basic Attacks.",
+                    "Incoming non-damaging Debuffs suffer -60% duration.",
+                    "Incoming Poison effects deal -65% damage."
+                ],
+                "FOCUS CHARGES": [
+                    "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
+                    "1+ Charge: +2261.11 Critical Rating.",
+                    "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
+                    "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +462.5 Critical Damage Rating and reduces Block Proficiency by 50%.",
+                    "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
+                    "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to gain a Passive Fury effect, increasing attack by 234.5 for 30 seconds.",
+                    "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
+                ]
+            }
+        },
+        "4+1": {
+            "rank": 1,
+            "prestige": "1098",
+            "hp": "4589",
+            "attack": "342",
+            "crit_rate": "318",
+            "crit_dmge": "450",
+            "armor": "0",
+            "block_prof": "3200",
+            "energy_resist": "0",
+            "physical_resist": "538",
+            "crit_resist": "0",
+            "sig_info": [
+                "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
+                "Ignore 25 to 90% of the opponent\u2019s positive Physical Resistance.",
+                "Striking the opponent\u2019s Block grants Karnak 60 to 90% of the Power an unblocked attack would have granted."
+            ],
+            "url_page": "https://auntm.ai/champions/karnak/tier/4",
+            "champid": "karnak+4+1",
+            "challenger_rating": 60,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Karnak\u2019s training and unmatched focus grants him the following:",
+                    "+537.66 Physical Resistance.",
+                    "+156.52 Block Proficiency against Basic Attacks.",
+                    "Incoming non-damaging Debuffs suffer -60% duration.",
+                    "Incoming Poison effects deal -65% damage."
+                ],
+                "FOCUS CHARGES": [
+                    "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
+                    "1+ Charge: +2200 Critical Rating.",
+                    "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
+                    "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +450 Critical Damage Rating and reduces Block Proficiency by 50%.",
+                    "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
+                    "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to gain a Passive Fury effect, increasing attack by 171 for 30 seconds.",
+                    "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
+                ]
+            }
+        },
+        "4+2": {
+            "rank": 2,
+            "prestige": "1540",
+            "hp": "6437",
+            "attack": "479",
+            "crit_rate": "327",
+            "crit_dmge": "463",
+            "armor": "0",
+            "block_prof": "3289",
+            "energy_resist": "0",
+            "physical_resist": "553",
+            "crit_resist": "0",
+            "sig_info": [
+                "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
+                "Ignore 25 to 90% of the opponent\u2019s positive Physical Resistance.",
+                "Striking the opponent\u2019s Block grants Karnak 60 to 90% of the Power an unblocked attack would have granted."
+            ],
+            "url_page": "https://auntm.ai/champions/karnak/tier/4",
+            "champid": "karnak+4+2",
+            "challenger_rating": 70,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Karnak\u2019s training and unmatched focus grants him the following:",
+                    "+552.6 Physical Resistance.",
+                    "+160.87 Block Proficiency against Basic Attacks.",
+                    "Incoming non-damaging Debuffs suffer -60% duration.",
+                    "Incoming Poison effects deal -65% damage."
+                ],
+                "FOCUS CHARGES": [
+                    "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
+                    "1+ Charge: +2261.11 Critical Rating.",
+                    "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
+                    "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +462.5 Critical Damage Rating and reduces Block Proficiency by 50%.",
+                    "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
+                    "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to gain a Passive Fury effect, increasing attack by 239.5 for 30 seconds.",
+                    "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
+                ]
+            }
+        },
+        "4+3": {
+            "rank": 3,
+            "prestige": "2157",
+            "hp": "9019",
+            "attack": "671",
+            "crit_rate": "336",
+            "crit_dmge": "475",
+            "armor": "0",
+            "block_prof": "3378",
+            "energy_resist": "0",
+            "physical_resist": "568",
+            "crit_resist": "0",
+            "sig_info": [
+                "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
+                "Ignore 25 to 90% of the opponent\u2019s positive Physical Resistance.",
+                "Striking the opponent\u2019s Block grants Karnak 60 to 90% of the Power an unblocked attack would have granted."
+            ],
+            "url_page": "https://auntm.ai/champions/karnak/tier/4",
+            "champid": "karnak+4+3",
+            "challenger_rating": 80,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Karnak\u2019s training and unmatched focus grants him the following:",
+                    "+567.53 Physical Resistance.",
+                    "+165.22 Block Proficiency against Basic Attacks.",
+                    "Incoming non-damaging Debuffs suffer -60% duration.",
+                    "Incoming Poison effects deal -65% damage."
+                ],
+                "FOCUS CHARGES": [
+                    "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
+                    "1+ Charge: +2322.22 Critical Rating.",
+                    "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
+                    "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +475 Critical Damage Rating and reduces Block Proficiency by 50%.",
+                    "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
+                    "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to gain a Passive Fury effect, increasing attack by 335.5 for 30 seconds.",
+                    "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
+                ]
+            }
+        },
+        "4+4": {
+            "rank": 4,
+            "prestige": "2838",
+            "hp": "11850",
+            "attack": "882",
+            "crit_rate": "345",
+            "crit_dmge": "488",
+            "armor": "0",
+            "block_prof": "3467",
+            "energy_resist": "0",
+            "physical_resist": "583",
+            "crit_resist": "0",
+            "sig_info": [
+                "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
+                "Ignore 25 to 90% of the opponent\u2019s positive Physical Resistance.",
+                "Striking the opponent\u2019s Block grants Karnak 60 to 90% of the Power an unblocked attack would have granted."
+            ],
+            "url_page": "https://auntm.ai/champions/karnak/tier/4",
+            "champid": "karnak+4+4",
+            "challenger_rating": 90,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Karnak\u2019s training and unmatched focus grants him the following:",
+                    "+582.47 Physical Resistance.",
+                    "+169.57 Block Proficiency against Basic Attacks.",
+                    "Incoming non-damaging Debuffs suffer -60% duration.",
+                    "Incoming Poison effects deal -65% damage."
+                ],
+                "FOCUS CHARGES": [
+                    "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
+                    "1+ Charge: +2383.33 Critical Rating.",
+                    "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
+                    "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +487.5 Critical Damage Rating and reduces Block Proficiency by 50%.",
+                    "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
+                    "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to gain a Passive Fury effect, increasing attack by 441 for 30 seconds.",
+                    "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
+                ]
+            }
+        },
+        "4+5": {
+            "rank": 5,
+            "prestige": "3783",
+            "hp": "15812",
+            "attack": "1176",
+            "crit_rate": "353",
+            "crit_dmge": "500",
+            "armor": "0",
+            "block_prof": "3556",
+            "energy_resist": "0",
+            "physical_resist": "598",
+            "crit_resist": "0",
+            "sig_info": [
+                "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
+                "Ignore 25 to 90% of the opponent\u2019s positive Physical Resistance.",
+                "Striking the opponent\u2019s Block grants Karnak 60 to 90% of the Power an unblocked attack would have granted."
+            ],
+            "url_page": "https://auntm.ai/champions/karnak/tier/4",
+            "champid": "karnak+4+5",
+            "challenger_rating": 100,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Karnak\u2019s training and unmatched focus grants him the following:",
+                    "+597.4 Physical Resistance.",
+                    "+173.91 Block Proficiency against Basic Attacks.",
+                    "Incoming non-damaging Debuffs suffer -60% duration.",
+                    "Incoming Poison effects deal -65% damage."
+                ],
+                "FOCUS CHARGES": [
+                    "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
+                    "1+ Charge: +2444.44 Critical Rating.",
+                    "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
+                    "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +500 Critical Damage Rating and reduces Block Proficiency by 50%.",
+                    "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
+                    "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to gain a Passive Fury effect, increasing attack by 588 for 30 seconds.",
+                    "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
+                ]
+            }
+        },
+        "5+1": {
+            "rank": 1,
+            "prestige": "2267",
+            "hp": "9436",
+            "attack": "702",
+            "crit_rate": "336",
+            "crit_dmge": "475",
+            "armor": "0",
+            "block_prof": "3378",
+            "energy_resist": "0",
+            "physical_resist": "568",
+            "crit_resist": "0",
+            "sig_info": [
+                "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
+                "Ignore 30 to 100% of the opponent\u2019s positive Physical Resistance.",
+                "Striking the opponent\u2019s Block grants Karnak 65 to 110% of the Power an unblocked attack would have granted."
+            ],
+            "url_page": "https://auntm.ai/champions/karnak/tier/5",
+            "champid": "karnak+5+1",
+            "challenger_rating": 80,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Karnak\u2019s training and unmatched focus grants him the following:",
+                    "+567.53 Physical Resistance.",
+                    "+165.22 Block Proficiency against Basic Attacks.",
+                    "Incoming non-damaging Debuffs suffer -60% duration.",
+                    "Incoming Poison effects deal -65% damage."
+                ],
+                "FOCUS CHARGES": [
+                    "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
+                    "1+ Charge: +2322.22 Critical Rating.",
+                    "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
+                    "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +475 Critical Damage Rating and reduces Block Proficiency by 50%.",
+                    "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
+                    "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to gain a Passive Fury effect, increasing attack by 351 for 30 seconds.",
+                    "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
+                ]
+            }
+        },
+        "5+2": {
+            "rank": 2,
+            "prestige": "2990",
+            "hp": "12465",
+            "attack": "927",
+            "crit_rate": "345",
+            "crit_dmge": "488",
+            "armor": "0",
+            "block_prof": "3467",
+            "energy_resist": "0",
+            "physical_resist": "583",
+            "crit_resist": "0",
+            "sig_info": [
+                "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
+                "Ignore 30 to 100% of the opponent\u2019s positive Physical Resistance.",
+                "Striking the opponent\u2019s Block grants Karnak 65 to 110% of the Power an unblocked attack would have granted."
+            ],
+            "url_page": "https://auntm.ai/champions/karnak/tier/5",
+            "champid": "karnak+5+2",
+            "challenger_rating": 90,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Karnak\u2019s training and unmatched focus grants him the following:",
+                    "+582.47 Physical Resistance.",
+                    "+169.57 Block Proficiency against Basic Attacks.",
+                    "Incoming non-damaging Debuffs suffer -60% duration.",
+                    "Incoming Poison effects deal -65% damage."
+                ],
+                "FOCUS CHARGES": [
+                    "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
+                    "1+ Charge: +2383.33 Critical Rating.",
+                    "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
+                    "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +487.5 Critical Damage Rating and reduces Block Proficiency by 50%.",
+                    "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
+                    "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to gain a Passive Fury effect, increasing attack by 463.5 for 30 seconds.",
+                    "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
+                ]
+            }
+        },
+        "5+3": {
+            "rank": 3,
+            "prestige": "4184",
+            "hp": "17425",
+            "attack": "1296",
+            "crit_rate": "353",
+            "crit_dmge": "500",
+            "armor": "0",
+            "block_prof": "3556",
+            "energy_resist": "0",
+            "physical_resist": "598",
+            "crit_resist": "0",
+            "sig_info": [
+                "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
+                "Ignore 30 to 100% of the opponent\u2019s positive Physical Resistance.",
+                "Striking the opponent\u2019s Block grants Karnak 65 to 110% of the Power an unblocked attack would have granted."
+            ],
+            "url_page": "https://auntm.ai/champions/karnak/tier/5",
+            "champid": "karnak+5+3",
+            "challenger_rating": 100,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Karnak\u2019s training and unmatched focus grants him the following:",
+                    "+597.4 Physical Resistance.",
+                    "+173.91 Block Proficiency against Basic Attacks.",
+                    "Incoming non-damaging Debuffs suffer -60% duration.",
+                    "Incoming Poison effects deal -65% damage."
+                ],
+                "FOCUS CHARGES": [
+                    "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
+                    "1+ Charge: +2444.44 Critical Rating.",
+                    "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
+                    "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +500 Critical Damage Rating and reduces Block Proficiency by 50%.",
+                    "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
+                    "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to gain a Passive Fury effect, increasing attack by 648 for 30 seconds.",
+                    "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
+                ]
+            }
+        },
+        "5+4": {
+            "rank": 4,
+            "prestige": "5636",
+            "hp": "23481",
+            "attack": "1746",
+            "crit_rate": "362",
+            "crit_dmge": "513",
+            "armor": "0",
+            "block_prof": "3645",
+            "energy_resist": "0",
+            "physical_resist": "613",
+            "crit_resist": "0",
+            "sig_info": [
+                "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
+                "Ignore 30 to 100% of the opponent\u2019s positive Physical Resistance.",
+                "Striking the opponent\u2019s Block grants Karnak 65 to 110% of the Power an unblocked attack would have granted."
+            ],
+            "url_page": "https://auntm.ai/champions/karnak/tier/5",
+            "champid": "karnak+5+4",
+            "challenger_rating": 110,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Karnak\u2019s training and unmatched focus grants him the following:",
+                    "+612.34 Physical Resistance.",
+                    "+178.26 Block Proficiency against Basic Attacks.",
+                    "Incoming non-damaging Debuffs suffer -60% duration.",
+                    "Incoming Poison effects deal -65% damage."
+                ],
+                "FOCUS CHARGES": [
+                    "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
+                    "1+ Charge: +2505.56 Critical Rating.",
+                    "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
+                    "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +512.5 Critical Damage Rating and reduces Block Proficiency by 50%.",
+                    "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
+                    "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to gain a Passive Fury effect, increasing attack by 873 for 30 seconds.",
+                    "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
+                ]
+            }
+        },
+        "5+5": {
+            "rank": 5,
+            "prestige": "7626",
+            "hp": "31703",
+            "attack": "2358",
+            "crit_rate": "371",
+            "crit_dmge": "525",
+            "armor": "0",
+            "block_prof": "3734",
+            "energy_resist": "0",
+            "physical_resist": "628",
+            "crit_resist": "0",
+            "sig_info": [
+                "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
+                "Ignore 30 to 100% of the opponent\u2019s positive Physical Resistance.",
+                "Striking the opponent\u2019s Block grants Karnak 65 to 110% of the Power an unblocked attack would have granted."
+            ],
+            "url_page": "https://auntm.ai/champions/karnak/tier/5",
+            "champid": "karnak+5+5",
+            "challenger_rating": 120,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Karnak\u2019s training and unmatched focus grants him the following:",
+                    "+627.27 Physical Resistance.",
+                    "+182.61 Block Proficiency against Basic Attacks.",
+                    "Incoming non-damaging Debuffs suffer -60% duration.",
+                    "Incoming Poison effects deal -65% damage."
+                ],
+                "FOCUS CHARGES": [
+                    "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
+                    "1+ Charge: +2566.67 Critical Rating.",
+                    "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
+                    "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +525 Critical Damage Rating and reduces Block Proficiency by 50%.",
+                    "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
+                    "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to gain a Passive Fury effect, increasing attack by 1179 for 30 seconds.",
+                    "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
+                ]
+            }
+        },
+        "6+1": {
+            "rank": 1,
+            "prestige": "5973",
+            "hp": "24929",
+            "attack": "1854",
+            "crit_rate": "362",
+            "crit_dmge": "513",
+            "armor": "0",
+            "block_prof": "3645",
+            "energy_resist": "0",
+            "physical_resist": "613",
+            "crit_resist": "0",
+            "sig_info": [
+                "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
+                "Ignore 30 to 100% of the opponent\u2019s positive Physical Resistance.",
+                "Striking the opponent\u2019s Block grants Karnak 65 to 110% of the Power an unblocked attack would have granted."
+            ],
+            "url_page": "https://auntm.ai/champions/karnak/tier/6",
+            "champid": "karnak+6+1",
+            "challenger_rating": 110,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Karnak\u2019s training and unmatched focus grants him the following:",
+                    "+612.34 Physical Resistance.",
+                    "+178.26 Block Proficiency against Basic Attacks.",
+                    "Incoming non-damaging Debuffs suffer -60% duration.",
+                    "Incoming Poison effects deal -65% damage."
+                ],
+                "FOCUS CHARGES": [
+                    "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
+                    "1+ Charge: +2505.56 Critical Rating.",
+                    "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
+                    "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +512.5 Critical Damage Rating and reduces Block Proficiency by 50%.",
+                    "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
+                    "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to gain a Passive Fury effect, increasing attack by 927 for 30 seconds.",
+                    "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
+                ]
+            }
+        },
+        "6+2": {
+            "rank": 2,
+            "prestige": "8249",
+            "hp": "34434",
+            "attack": "2561",
+            "crit_rate": "371",
+            "crit_dmge": "525",
+            "armor": "0",
+            "block_prof": "3734",
+            "energy_resist": "0",
+            "physical_resist": "628",
+            "crit_resist": "0",
+            "sig_info": [
+                "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
+                "Ignore 30 to 100% of the opponent\u2019s positive Physical Resistance.",
+                "Striking the opponent\u2019s Block grants Karnak 65 to 110% of the Power an unblocked attack would have granted."
+            ],
+            "url_page": "https://auntm.ai/champions/karnak/tier/6",
+            "champid": "karnak+6+2",
+            "challenger_rating": 120,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Karnak\u2019s training and unmatched focus grants him the following:",
+                    "+627.27 Physical Resistance.",
+                    "+182.61 Block Proficiency against Basic Attacks.",
+                    "Incoming non-damaging Debuffs suffer -60% duration.",
+                    "Incoming Poison effects deal -65% damage."
+                ],
+                "FOCUS CHARGES": [
+                    "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
+                    "1+ Charge: +2566.67 Critical Rating.",
+                    "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
+                    "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +525 Critical Damage Rating and reduces Block Proficiency by 50%.",
+                    "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
+                    "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to gain a Passive Fury effect, increasing attack by 1280.5 for 30 seconds.",
+                    "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
+                ]
+            }
+        },
+        "6+3": {
+            "rank": 3,
+            "prestige": "9802",
+            "hp": "40851",
+            "attack": "3038",
+            "crit_rate": "380",
+            "crit_dmge": "538",
+            "armor": "0",
+            "block_prof": "3823",
+            "energy_resist": "0",
+            "physical_resist": "643",
+            "crit_resist": "0",
+            "sig_info": [
+                "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
+                "Ignore 30 to 100% of the opponent\u2019s positive Physical Resistance.",
+                "Striking the opponent\u2019s Block grants Karnak 65 to 110% of the Power an unblocked attack would have granted."
+            ],
+            "url_page": "https://auntm.ai/champions/karnak/tier/6",
+            "champid": "karnak+6+3",
+            "challenger_rating": 130,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Karnak\u2019s training and unmatched focus grants him the following:",
+                    "+642.21 Physical Resistance.",
+                    "+186.96 Block Proficiency against Basic Attacks.",
+                    "Incoming non-damaging Debuffs suffer -60% duration.",
+                    "Incoming Poison effects deal -65% damage."
+                ],
+                "FOCUS CHARGES": [
+                    "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
+                    "1+ Charge: +2627.78 Critical Rating.",
+                    "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
+                    "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +537.5 Critical Damage Rating and reduces Block Proficiency by 50%.",
+                    "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
+                    "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to gain a Passive Fury effect, increasing attack by 1519 for 30 seconds.",
+                    "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
+                ]
+            }
+        },
+        "6+4": {
+            "rank": 4,
+            "prestige": "11218",
+            "hp": "46747",
+            "attack": "3476",
+            "crit_rate": "389",
+            "crit_dmge": "550",
+            "armor": "0",
+            "block_prof": "3912",
+            "energy_resist": "0",
+            "physical_resist": "658",
+            "crit_resist": "0",
+            "sig_info": [
+                "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
+                "Ignore 30 to 100% of the opponent\u2019s positive Physical Resistance.",
+                "Striking the opponent\u2019s Block grants Karnak 65 to 110% of the Power an unblocked attack would have granted."
+            ],
+            "url_page": "https://auntm.ai/champions/karnak/tier/6",
+            "champid": "karnak+6+4",
+            "challenger_rating": 140,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Karnak\u2019s training and unmatched focus grants him the following:",
+                    "+657.14 Physical Resistance.",
+                    "+191.3 Block Proficiency against Basic Attacks.",
+                    "Incoming non-damaging Debuffs suffer -60% duration.",
+                    "Incoming Poison effects deal -65% damage."
+                ],
+                "FOCUS CHARGES": [
+                    "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
+                    "1+ Charge: +2688.89 Critical Rating.",
+                    "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
+                    "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +550 Critical Damage Rating and reduces Block Proficiency by 50%.",
+                    "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
+                    "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to gain a Passive Fury effect, increasing attack by 1738 for 30 seconds.",
+                    "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
+                ]
+            }
+        },
+        "1+1": {
+            "rank": 1,
+            "prestige": 215,
+            "hp": 886,
+            "attack": 66,
+            "crit_rate": 274,
+            "crit_dmge": 388,
+            "armor": 0,
+            "block_prof": 2756,
+            "energy_resist": 0,
+            "physical_resist": 463,
+            "crit_resist": 0,
+            "sig_info": null,
+            "url_page": "https://auntm.ai/champions/karnak/tier/1",
+            "champid": "karnak+1+1",
+            "challenger_rating": 10,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Karnak\u2019s training and unmatched focus grants him the following:",
+                    "+462.99 Physical Resistance.",
+                    "+134.78 Block Proficiency against Basic Attacks.",
+                    "Incoming non-damaging Debuffs suffer -60% duration.",
+                    "Incoming Poison effects deal -65% damage."
+                ],
+                "FOCUS CHARGES": [
+                    "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
+                    "1+ Charge: +1894.44 Critical Rating.",
+                    "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
+                    "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +387.5 Critical Damage Rating and reduces Block Proficiency by 50%.",
+                    "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
+                    "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to gain a Passive Fury effect, increasing attack by 33 for 30 seconds.",
+                    "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
+                ]
+            }
+        },
+        "1+2": {
+            "rank": 2,
+            "prestige": 295,
+            "hp": 1226,
+            "attack": 92,
+            "crit_rate": 283,
+            "crit_dmge": 400,
+            "armor": 0,
+            "block_prof": 2845,
+            "energy_resist": 0,
+            "physical_resist": 478,
+            "crit_resist": 0,
+            "sig_info": null,
+            "url_page": "https://auntm.ai/champions/karnak/tier/1",
+            "champid": "karnak+1+2",
+            "challenger_rating": 20,
+            "Abilities": {
+                "ALWAYS ACTIVE": [
+                    "Karnak\u2019s training and unmatched focus grants him the following:",
+                    "+477.92 Physical Resistance.",
+                    "+139.13 Block Proficiency against Basic Attacks.",
+                    "Incoming non-damaging Debuffs suffer -60% duration.",
+                    "Incoming Poison effects deal -65% damage."
+                ],
+                "FOCUS CHARGES": [
+                    "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
+                    "1+ Charge: +1955.56 Critical Rating.",
+                    "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
+                    "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +400 Critical Damage Rating and reduces Block Proficiency by 50%.",
+                    "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
+                    "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to gain a Passive Fury effect, increasing attack by 46 for 30 seconds.",
+                    "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
+                ]
+            }
+        },
+        "find": {
+            "story_quests": {
+                "act_1": [],
+                "act_2": [
+                    "2.1.3"
+                ],
+                "act_3": [
+                    "3.2.2",
+                    "3.2.5"
+                ],
+                "act_4": [],
+                "act_5": [
+                    "5.1.5",
+                    "5.2.1",
+                    "5.2.2",
+                    "5.2.5",
+                    "5.2.6",
+                    "5.3.1",
+                    "5.3.3",
+                    "5.3.6",
+                    "5.4.1",
+                    "5.4.2",
+                    "5.4.4"
+                ],
+                "act_6": [
+                    "6.1.4",
+                    "6.2.5",
+                    "6.2.6",
+                    "6.4.2"
+                ],
+                "act_7": [
+                    "7.1.3",
+                    "7.4.3"
+                ]
+            }
+        }
     },
-    "2+2": {
-      "rank": 2,
-      "prestige": "359",
-      "hp": "1495",
-      "attack": "112",
-      "crit_rate": "292",
-      "crit_dmge": "413",
-      "armor": "0",
-      "block_prof": "2934",
-      "energy_resist": "0",
-      "physical_resist": "493",
-      "crit_resist": "0",
-      "sig_info": [
-        "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
-        "Ignore 25 to 90% of the opponent\u2019s positive Physical Resistance.",
-        "Striking the opponent\u2019s Block grants Karnak 60 to 90% of the Power an unblocked attack would have granted."
-      ],
-      "url_page": "https://auntm.ai/champions/karnak/tier/2",
-      "champid": "karnak+2+2",
-      "challenger_rating": 30,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Karnak\u2019s training and unmatched focus grants him the following:",
-          "+492.86 Physical Resistance.",
-          "+143.48 Block Proficiency against Basic Attacks.",
-          "Incoming non-damaging Debuffs suffer -60% duration.",
-          "Incoming Poison effects deal -65% damage."
-        ],
-        "FOCUS CHARGES": [
-          "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
-          "1+ Charge: +2016.67 Critical Rating.",
-          "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
-          "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
-        ],
-        "HEAVY ATTACKS": [
-          "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +412.5 Critical Damage Rating and reduces Block Proficiency by 50%.",
-          "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
-          "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to gain a Passive Fury effect, increasing attack by 56 for 30 seconds.",
-          "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
-        ]
-      }
-    },
-    "2+3": {
-      "rank": 3,
-      "prestige": "568",
-      "hp": "2373",
-      "attack": "177",
-      "crit_rate": "301",
-      "crit_dmge": "425",
-      "armor": "0",
-      "block_prof": "3023",
-      "energy_resist": "0",
-      "physical_resist": "508",
-      "crit_resist": "0",
-      "sig_info": [
-        "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
-        "Ignore 25 to 90% of the opponent\u2019s positive Physical Resistance.",
-        "Striking the opponent\u2019s Block grants Karnak 60 to 90% of the Power an unblocked attack would have granted."
-      ],
-      "url_page": "https://auntm.ai/champions/karnak/tier/2",
-      "champid": "karnak+2+3",
-      "challenger_rating": 40,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Karnak\u2019s training and unmatched focus grants him the following:",
-          "+507.79 Physical Resistance.",
-          "+147.83 Block Proficiency against Basic Attacks.",
-          "Incoming non-damaging Debuffs suffer -60% duration.",
-          "Incoming Poison effects deal -65% damage."
-        ],
-        "FOCUS CHARGES": [
-          "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
-          "1+ Charge: +2077.78 Critical Rating.",
-          "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
-          "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
-        ],
-        "HEAVY ATTACKS": [
-          "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +425 Critical Damage Rating and reduces Block Proficiency by 50%.",
-          "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
-          "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to gain a Passive Fury effect, increasing attack by 88.5 for 30 seconds.",
-          "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
-        ]
-      }
-    },
-    "3+1": {
-      "rank": 1,
-      "prestige": "492",
-      "hp": "2052",
-      "attack": "153",
-      "crit_rate": "301",
-      "crit_dmge": "425",
-      "armor": "0",
-      "block_prof": "3023",
-      "energy_resist": "0",
-      "physical_resist": "508",
-      "crit_resist": "0",
-      "sig_info": [
-        "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
-        "Ignore 25 to 90% of the opponent\u2019s positive Physical Resistance.",
-        "Striking the opponent\u2019s Block grants Karnak 60 to 90% of the Power an unblocked attack would have granted."
-      ],
-      "url_page": "https://auntm.ai/champions/karnak/tier/3",
-      "champid": "karnak+3+1",
-      "challenger_rating": 40,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Karnak\u2019s training and unmatched focus grants him the following:",
-          "+507.79 Physical Resistance.",
-          "+147.83 Block Proficiency against Basic Attacks.",
-          "Incoming non-damaging Debuffs suffer -60% duration.",
-          "Incoming Poison effects deal -65% damage."
-        ],
-        "FOCUS CHARGES": [
-          "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
-          "1+ Charge: +2077.78 Critical Rating.",
-          "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
-          "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
-        ],
-        "HEAVY ATTACKS": [
-          "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +425 Critical Damage Rating and reduces Block Proficiency by 50%.",
-          "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
-          "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to gain a Passive Fury effect, increasing attack by 76.5 for 30 seconds.",
-          "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
-        ]
-      }
-    },
-    "3+2": {
-      "rank": 2,
-      "prestige": "786",
-      "hp": "3283",
-      "attack": "245",
-      "crit_rate": "309",
-      "crit_dmge": "438",
-      "armor": "0",
-      "block_prof": "3112",
-      "energy_resist": "0",
-      "physical_resist": "523",
-      "crit_resist": "0",
-      "sig_info": [
-        "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
-        "Ignore 25 to 90% of the opponent\u2019s positive Physical Resistance.",
-        "Striking the opponent\u2019s Block grants Karnak 60 to 90% of the Power an unblocked attack would have granted."
-      ],
-      "url_page": "https://auntm.ai/champions/karnak/tier/3",
-      "champid": "karnak+3+2",
-      "challenger_rating": 50,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Karnak\u2019s training and unmatched focus grants him the following:",
-          "+522.73 Physical Resistance.",
-          "+152.17 Block Proficiency against Basic Attacks.",
-          "Incoming non-damaging Debuffs suffer -60% duration.",
-          "Incoming Poison effects deal -65% damage."
-        ],
-        "FOCUS CHARGES": [
-          "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
-          "1+ Charge: +2138.89 Critical Rating.",
-          "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
-          "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
-        ],
-        "HEAVY ATTACKS": [
-          "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +437.5 Critical Damage Rating and reduces Block Proficiency by 50%.",
-          "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
-          "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to gain a Passive Fury effect, increasing attack by 122.5 for 30 seconds.",
-          "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
-        ]
-      }
-    },
-    "3+3": {
-      "rank": 3,
-      "prestige": "1096",
-      "hp": "4592",
-      "attack": "342",
-      "crit_rate": "318",
-      "crit_dmge": "450",
-      "armor": "0",
-      "block_prof": "3200",
-      "energy_resist": "0",
-      "physical_resist": "538",
-      "crit_resist": "0",
-      "sig_info": [
-        "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
-        "Ignore 25 to 90% of the opponent\u2019s positive Physical Resistance.",
-        "Striking the opponent\u2019s Block grants Karnak 60 to 90% of the Power an unblocked attack would have granted."
-      ],
-      "url_page": "https://auntm.ai/champions/karnak/tier/3",
-      "champid": "karnak+3+3",
-      "challenger_rating": 60,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Karnak\u2019s training and unmatched focus grants him the following:",
-          "+537.66 Physical Resistance.",
-          "+156.52 Block Proficiency against Basic Attacks.",
-          "Incoming non-damaging Debuffs suffer -60% duration.",
-          "Incoming Poison effects deal -65% damage."
-        ],
-        "FOCUS CHARGES": [
-          "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
-          "1+ Charge: +2200 Critical Rating.",
-          "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
-          "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
-        ],
-        "HEAVY ATTACKS": [
-          "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +450 Critical Damage Rating and reduces Block Proficiency by 50%.",
-          "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
-          "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to gain a Passive Fury effect, increasing attack by 171 for 30 seconds.",
-          "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
-        ]
-      }
-    },
-    "3+4": {
-      "rank": 4,
-      "prestige": "1506",
-      "hp": "6306",
-      "attack": "469",
-      "crit_rate": "327",
-      "crit_dmge": "463",
-      "armor": "0",
-      "block_prof": "3289",
-      "energy_resist": "0",
-      "physical_resist": "553",
-      "crit_resist": "0",
-      "sig_info": [
-        "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
-        "Ignore 25 to 90% of the opponent\u2019s positive Physical Resistance.",
-        "Striking the opponent\u2019s Block grants Karnak 60 to 90% of the Power an unblocked attack would have granted."
-      ],
-      "url_page": "https://auntm.ai/champions/karnak/tier/3",
-      "champid": "karnak+3+4",
-      "challenger_rating": 70,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Karnak\u2019s training and unmatched focus grants him the following:",
-          "+552.6 Physical Resistance.",
-          "+160.87 Block Proficiency against Basic Attacks.",
-          "Incoming non-damaging Debuffs suffer -60% duration.",
-          "Incoming Poison effects deal -65% damage."
-        ],
-        "FOCUS CHARGES": [
-          "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
-          "1+ Charge: +2261.11 Critical Rating.",
-          "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
-          "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
-        ],
-        "HEAVY ATTACKS": [
-          "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +462.5 Critical Damage Rating and reduces Block Proficiency by 50%.",
-          "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
-          "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to gain a Passive Fury effect, increasing attack by 234.5 for 30 seconds.",
-          "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
-        ]
-      }
-    },
-    "4+1": {
-      "rank": 1,
-      "prestige": "1098",
-      "hp": "4589",
-      "attack": "342",
-      "crit_rate": "318",
-      "crit_dmge": "450",
-      "armor": "0",
-      "block_prof": "3200",
-      "energy_resist": "0",
-      "physical_resist": "538",
-      "crit_resist": "0",
-      "sig_info": [
-        "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
-        "Ignore 25 to 90% of the opponent\u2019s positive Physical Resistance.",
-        "Striking the opponent\u2019s Block grants Karnak 60 to 90% of the Power an unblocked attack would have granted."
-      ],
-      "url_page": "https://auntm.ai/champions/karnak/tier/4",
-      "champid": "karnak+4+1",
-      "challenger_rating": 60,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Karnak\u2019s training and unmatched focus grants him the following:",
-          "+537.66 Physical Resistance.",
-          "+156.52 Block Proficiency against Basic Attacks.",
-          "Incoming non-damaging Debuffs suffer -60% duration.",
-          "Incoming Poison effects deal -65% damage."
-        ],
-        "FOCUS CHARGES": [
-          "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
-          "1+ Charge: +2200 Critical Rating.",
-          "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
-          "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
-        ],
-        "HEAVY ATTACKS": [
-          "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +450 Critical Damage Rating and reduces Block Proficiency by 50%.",
-          "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
-          "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to gain a Passive Fury effect, increasing attack by 171 for 30 seconds.",
-          "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
-        ]
-      }
-    },
-    "4+2": {
-      "rank": 2,
-      "prestige": "1540",
-      "hp": "6437",
-      "attack": "479",
-      "crit_rate": "327",
-      "crit_dmge": "463",
-      "armor": "0",
-      "block_prof": "3289",
-      "energy_resist": "0",
-      "physical_resist": "553",
-      "crit_resist": "0",
-      "sig_info": [
-        "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
-        "Ignore 25 to 90% of the opponent\u2019s positive Physical Resistance.",
-        "Striking the opponent\u2019s Block grants Karnak 60 to 90% of the Power an unblocked attack would have granted."
-      ],
-      "url_page": "https://auntm.ai/champions/karnak/tier/4",
-      "champid": "karnak+4+2",
-      "challenger_rating": 70,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Karnak\u2019s training and unmatched focus grants him the following:",
-          "+552.6 Physical Resistance.",
-          "+160.87 Block Proficiency against Basic Attacks.",
-          "Incoming non-damaging Debuffs suffer -60% duration.",
-          "Incoming Poison effects deal -65% damage."
-        ],
-        "FOCUS CHARGES": [
-          "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
-          "1+ Charge: +2261.11 Critical Rating.",
-          "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
-          "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
-        ],
-        "HEAVY ATTACKS": [
-          "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +462.5 Critical Damage Rating and reduces Block Proficiency by 50%.",
-          "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
-          "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to gain a Passive Fury effect, increasing attack by 239.5 for 30 seconds.",
-          "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
-        ]
-      }
-    },
-    "4+3": {
-      "rank": 3,
-      "prestige": "2157",
-      "hp": "9019",
-      "attack": "671",
-      "crit_rate": "336",
-      "crit_dmge": "475",
-      "armor": "0",
-      "block_prof": "3378",
-      "energy_resist": "0",
-      "physical_resist": "568",
-      "crit_resist": "0",
-      "sig_info": [
-        "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
-        "Ignore 25 to 90% of the opponent\u2019s positive Physical Resistance.",
-        "Striking the opponent\u2019s Block grants Karnak 60 to 90% of the Power an unblocked attack would have granted."
-      ],
-      "url_page": "https://auntm.ai/champions/karnak/tier/4",
-      "champid": "karnak+4+3",
-      "challenger_rating": 80,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Karnak\u2019s training and unmatched focus grants him the following:",
-          "+567.53 Physical Resistance.",
-          "+165.22 Block Proficiency against Basic Attacks.",
-          "Incoming non-damaging Debuffs suffer -60% duration.",
-          "Incoming Poison effects deal -65% damage."
-        ],
-        "FOCUS CHARGES": [
-          "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
-          "1+ Charge: +2322.22 Critical Rating.",
-          "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
-          "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
-        ],
-        "HEAVY ATTACKS": [
-          "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +475 Critical Damage Rating and reduces Block Proficiency by 50%.",
-          "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
-          "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to gain a Passive Fury effect, increasing attack by 335.5 for 30 seconds.",
-          "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
-        ]
-      }
-    },
-    "4+4": {
-      "rank": 4,
-      "prestige": "2838",
-      "hp": "11850",
-      "attack": "882",
-      "crit_rate": "345",
-      "crit_dmge": "488",
-      "armor": "0",
-      "block_prof": "3467",
-      "energy_resist": "0",
-      "physical_resist": "583",
-      "crit_resist": "0",
-      "sig_info": [
-        "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
-        "Ignore 25 to 90% of the opponent\u2019s positive Physical Resistance.",
-        "Striking the opponent\u2019s Block grants Karnak 60 to 90% of the Power an unblocked attack would have granted."
-      ],
-      "url_page": "https://auntm.ai/champions/karnak/tier/4",
-      "champid": "karnak+4+4",
-      "challenger_rating": 90,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Karnak\u2019s training and unmatched focus grants him the following:",
-          "+582.47 Physical Resistance.",
-          "+169.57 Block Proficiency against Basic Attacks.",
-          "Incoming non-damaging Debuffs suffer -60% duration.",
-          "Incoming Poison effects deal -65% damage."
-        ],
-        "FOCUS CHARGES": [
-          "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
-          "1+ Charge: +2383.33 Critical Rating.",
-          "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
-          "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
-        ],
-        "HEAVY ATTACKS": [
-          "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +487.5 Critical Damage Rating and reduces Block Proficiency by 50%.",
-          "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
-          "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to gain a Passive Fury effect, increasing attack by 441 for 30 seconds.",
-          "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
-        ]
-      }
-    },
-    "4+5": {
-      "rank": 5,
-      "prestige": "3783",
-      "hp": "15812",
-      "attack": "1176",
-      "crit_rate": "353",
-      "crit_dmge": "500",
-      "armor": "0",
-      "block_prof": "3556",
-      "energy_resist": "0",
-      "physical_resist": "598",
-      "crit_resist": "0",
-      "sig_info": [
-        "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
-        "Ignore 25 to 90% of the opponent\u2019s positive Physical Resistance.",
-        "Striking the opponent\u2019s Block grants Karnak 60 to 90% of the Power an unblocked attack would have granted."
-      ],
-      "url_page": "https://auntm.ai/champions/karnak/tier/4",
-      "champid": "karnak+4+5",
-      "challenger_rating": 100,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Karnak\u2019s training and unmatched focus grants him the following:",
-          "+597.4 Physical Resistance.",
-          "+173.91 Block Proficiency against Basic Attacks.",
-          "Incoming non-damaging Debuffs suffer -60% duration.",
-          "Incoming Poison effects deal -65% damage."
-        ],
-        "FOCUS CHARGES": [
-          "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
-          "1+ Charge: +2444.44 Critical Rating.",
-          "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
-          "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
-        ],
-        "HEAVY ATTACKS": [
-          "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +500 Critical Damage Rating and reduces Block Proficiency by 50%.",
-          "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
-          "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to gain a Passive Fury effect, increasing attack by 588 for 30 seconds.",
-          "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
-        ]
-      }
-    },
-    "5+1": {
-      "rank": 1,
-      "prestige": "2267",
-      "hp": "9436",
-      "attack": "702",
-      "crit_rate": "336",
-      "crit_dmge": "475",
-      "armor": "0",
-      "block_prof": "3378",
-      "energy_resist": "0",
-      "physical_resist": "568",
-      "crit_resist": "0",
-      "sig_info": [
-        "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
-        "Ignore 30 to 100% of the opponent\u2019s positive Physical Resistance.",
-        "Striking the opponent\u2019s Block grants Karnak 65 to 110% of the Power an unblocked attack would have granted."
-      ],
-      "url_page": "https://auntm.ai/champions/karnak/tier/5",
-      "champid": "karnak+5+1",
-      "challenger_rating": 80,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Karnak\u2019s training and unmatched focus grants him the following:",
-          "+567.53 Physical Resistance.",
-          "+165.22 Block Proficiency against Basic Attacks.",
-          "Incoming non-damaging Debuffs suffer -60% duration.",
-          "Incoming Poison effects deal -65% damage."
-        ],
-        "FOCUS CHARGES": [
-          "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
-          "1+ Charge: +2322.22 Critical Rating.",
-          "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
-          "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
-        ],
-        "HEAVY ATTACKS": [
-          "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +475 Critical Damage Rating and reduces Block Proficiency by 50%.",
-          "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
-          "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to gain a Passive Fury effect, increasing attack by 351 for 30 seconds.",
-          "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
-        ]
-      }
-    },
-    "5+2": {
-      "rank": 2,
-      "prestige": "2990",
-      "hp": "12465",
-      "attack": "927",
-      "crit_rate": "345",
-      "crit_dmge": "488",
-      "armor": "0",
-      "block_prof": "3467",
-      "energy_resist": "0",
-      "physical_resist": "583",
-      "crit_resist": "0",
-      "sig_info": [
-        "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
-        "Ignore 30 to 100% of the opponent\u2019s positive Physical Resistance.",
-        "Striking the opponent\u2019s Block grants Karnak 65 to 110% of the Power an unblocked attack would have granted."
-      ],
-      "url_page": "https://auntm.ai/champions/karnak/tier/5",
-      "champid": "karnak+5+2",
-      "challenger_rating": 90,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Karnak\u2019s training and unmatched focus grants him the following:",
-          "+582.47 Physical Resistance.",
-          "+169.57 Block Proficiency against Basic Attacks.",
-          "Incoming non-damaging Debuffs suffer -60% duration.",
-          "Incoming Poison effects deal -65% damage."
-        ],
-        "FOCUS CHARGES": [
-          "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
-          "1+ Charge: +2383.33 Critical Rating.",
-          "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
-          "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
-        ],
-        "HEAVY ATTACKS": [
-          "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +487.5 Critical Damage Rating and reduces Block Proficiency by 50%.",
-          "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
-          "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to gain a Passive Fury effect, increasing attack by 463.5 for 30 seconds.",
-          "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
-        ]
-      }
-    },
-    "5+3": {
-      "rank": 3,
-      "prestige": "4184",
-      "hp": "17425",
-      "attack": "1296",
-      "crit_rate": "353",
-      "crit_dmge": "500",
-      "armor": "0",
-      "block_prof": "3556",
-      "energy_resist": "0",
-      "physical_resist": "598",
-      "crit_resist": "0",
-      "sig_info": [
-        "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
-        "Ignore 30 to 100% of the opponent\u2019s positive Physical Resistance.",
-        "Striking the opponent\u2019s Block grants Karnak 65 to 110% of the Power an unblocked attack would have granted."
-      ],
-      "url_page": "https://auntm.ai/champions/karnak/tier/5",
-      "champid": "karnak+5+3",
-      "challenger_rating": 100,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Karnak\u2019s training and unmatched focus grants him the following:",
-          "+597.4 Physical Resistance.",
-          "+173.91 Block Proficiency against Basic Attacks.",
-          "Incoming non-damaging Debuffs suffer -60% duration.",
-          "Incoming Poison effects deal -65% damage."
-        ],
-        "FOCUS CHARGES": [
-          "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
-          "1+ Charge: +2444.44 Critical Rating.",
-          "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
-          "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
-        ],
-        "HEAVY ATTACKS": [
-          "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +500 Critical Damage Rating and reduces Block Proficiency by 50%.",
-          "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
-          "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to gain a Passive Fury effect, increasing attack by 648 for 30 seconds.",
-          "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
-        ]
-      }
-    },
-    "5+4": {
-      "rank": 4,
-      "prestige": "5636",
-      "hp": "23481",
-      "attack": "1746",
-      "crit_rate": "362",
-      "crit_dmge": "513",
-      "armor": "0",
-      "block_prof": "3645",
-      "energy_resist": "0",
-      "physical_resist": "613",
-      "crit_resist": "0",
-      "sig_info": [
-        "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
-        "Ignore 30 to 100% of the opponent\u2019s positive Physical Resistance.",
-        "Striking the opponent\u2019s Block grants Karnak 65 to 110% of the Power an unblocked attack would have granted."
-      ],
-      "url_page": "https://auntm.ai/champions/karnak/tier/5",
-      "champid": "karnak+5+4",
-      "challenger_rating": 110,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Karnak\u2019s training and unmatched focus grants him the following:",
-          "+612.34 Physical Resistance.",
-          "+178.26 Block Proficiency against Basic Attacks.",
-          "Incoming non-damaging Debuffs suffer -60% duration.",
-          "Incoming Poison effects deal -65% damage."
-        ],
-        "FOCUS CHARGES": [
-          "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
-          "1+ Charge: +2505.56 Critical Rating.",
-          "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
-          "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
-        ],
-        "HEAVY ATTACKS": [
-          "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +512.5 Critical Damage Rating and reduces Block Proficiency by 50%.",
-          "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
-          "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to gain a Passive Fury effect, increasing attack by 873 for 30 seconds.",
-          "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
-        ]
-      }
-    },
-    "5+5": {
-      "rank": 5,
-      "prestige": "7626",
-      "hp": "31703",
-      "attack": "2358",
-      "crit_rate": "371",
-      "crit_dmge": "525",
-      "armor": "0",
-      "block_prof": "3734",
-      "energy_resist": "0",
-      "physical_resist": "628",
-      "crit_resist": "0",
-      "sig_info": [
-        "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
-        "Ignore 30 to 100% of the opponent\u2019s positive Physical Resistance.",
-        "Striking the opponent\u2019s Block grants Karnak 65 to 110% of the Power an unblocked attack would have granted."
-      ],
-      "url_page": "https://auntm.ai/champions/karnak/tier/5",
-      "champid": "karnak+5+5",
-      "challenger_rating": 120,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Karnak\u2019s training and unmatched focus grants him the following:",
-          "+627.27 Physical Resistance.",
-          "+182.61 Block Proficiency against Basic Attacks.",
-          "Incoming non-damaging Debuffs suffer -60% duration.",
-          "Incoming Poison effects deal -65% damage."
-        ],
-        "FOCUS CHARGES": [
-          "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
-          "1+ Charge: +2566.67 Critical Rating.",
-          "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
-          "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
-        ],
-        "HEAVY ATTACKS": [
-          "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +525 Critical Damage Rating and reduces Block Proficiency by 50%.",
-          "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
-          "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to gain a Passive Fury effect, increasing attack by 1179 for 30 seconds.",
-          "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
-        ]
-      }
-    },
-    "6+1": {
-      "rank": 1,
-      "prestige": "5973",
-      "hp": "24929",
-      "attack": "1854",
-      "crit_rate": "362",
-      "crit_dmge": "513",
-      "armor": "0",
-      "block_prof": "3645",
-      "energy_resist": "0",
-      "physical_resist": "613",
-      "crit_resist": "0",
-      "sig_info": [
-        "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
-        "Ignore 30 to 100% of the opponent\u2019s positive Physical Resistance.",
-        "Striking the opponent\u2019s Block grants Karnak 65 to 110% of the Power an unblocked attack would have granted."
-      ],
-      "url_page": "https://auntm.ai/champions/karnak/tier/6",
-      "champid": "karnak+6+1",
-      "challenger_rating": 110,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Karnak\u2019s training and unmatched focus grants him the following:",
-          "+612.34 Physical Resistance.",
-          "+178.26 Block Proficiency against Basic Attacks.",
-          "Incoming non-damaging Debuffs suffer -60% duration.",
-          "Incoming Poison effects deal -65% damage."
-        ],
-        "FOCUS CHARGES": [
-          "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
-          "1+ Charge: +2505.56 Critical Rating.",
-          "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
-          "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
-        ],
-        "HEAVY ATTACKS": [
-          "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +512.5 Critical Damage Rating and reduces Block Proficiency by 50%.",
-          "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
-          "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to gain a Passive Fury effect, increasing attack by 927 for 30 seconds.",
-          "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
-        ]
-      }
-    },
-    "6+2": {
-      "rank": 2,
-      "prestige": "8249",
-      "hp": "34434",
-      "attack": "2561",
-      "crit_rate": "371",
-      "crit_dmge": "525",
-      "armor": "0",
-      "block_prof": "3734",
-      "energy_resist": "0",
-      "physical_resist": "628",
-      "crit_resist": "0",
-      "sig_info": [
-        "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
-        "Ignore 30 to 100% of the opponent\u2019s positive Physical Resistance.",
-        "Striking the opponent\u2019s Block grants Karnak 65 to 110% of the Power an unblocked attack would have granted."
-      ],
-      "url_page": "https://auntm.ai/champions/karnak/tier/6",
-      "champid": "karnak+6+2",
-      "challenger_rating": 120,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Karnak\u2019s training and unmatched focus grants him the following:",
-          "+627.27 Physical Resistance.",
-          "+182.61 Block Proficiency against Basic Attacks.",
-          "Incoming non-damaging Debuffs suffer -60% duration.",
-          "Incoming Poison effects deal -65% damage."
-        ],
-        "FOCUS CHARGES": [
-          "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
-          "1+ Charge: +2566.67 Critical Rating.",
-          "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
-          "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
-        ],
-        "HEAVY ATTACKS": [
-          "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +525 Critical Damage Rating and reduces Block Proficiency by 50%.",
-          "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
-          "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to gain a Passive Fury effect, increasing attack by 1280.5 for 30 seconds.",
-          "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
-        ]
-      }
-    },
-    "6+3": {
-      "rank": 3,
-      "prestige": "9802",
-      "hp": "40851",
-      "attack": "3038",
-      "crit_rate": "380",
-      "crit_dmge": "538",
-      "armor": "0",
-      "block_prof": "3823",
-      "energy_resist": "0",
-      "physical_resist": "643",
-      "crit_resist": "0",
-      "sig_info": [
-        "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
-        "Ignore 30 to 100% of the opponent\u2019s positive Physical Resistance.",
-        "Striking the opponent\u2019s Block grants Karnak 65 to 110% of the Power an unblocked attack would have granted."
-      ],
-      "url_page": "https://auntm.ai/champions/karnak/tier/6",
-      "champid": "karnak+6+3",
-      "challenger_rating": 130,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Karnak\u2019s training and unmatched focus grants him the following:",
-          "+642.21 Physical Resistance.",
-          "+186.96 Block Proficiency against Basic Attacks.",
-          "Incoming non-damaging Debuffs suffer -60% duration.",
-          "Incoming Poison effects deal -65% damage."
-        ],
-        "FOCUS CHARGES": [
-          "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
-          "1+ Charge: +2627.78 Critical Rating.",
-          "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
-          "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
-        ],
-        "HEAVY ATTACKS": [
-          "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +537.5 Critical Damage Rating and reduces Block Proficiency by 50%.",
-          "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
-          "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to gain a Passive Fury effect, increasing attack by 1519 for 30 seconds.",
-          "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
-        ]
-      }
-    },
-    "6+4": {
-      "rank": 4,
-      "prestige": "11218",
-      "hp": "46747",
-      "attack": "3476",
-      "crit_rate": "389",
-      "crit_dmge": "550",
-      "armor": "0",
-      "block_prof": "3912",
-      "energy_resist": "0",
-      "physical_resist": "658",
-      "crit_resist": "0",
-      "sig_info": [
-        "A stricter training regimen allows Karnak to begin the fight with 1 Focus Charge. Additionally, his Basic Attacks are enhanced in the following ways:",
-        "Ignore 30 to 100% of the opponent\u2019s positive Physical Resistance.",
-        "Striking the opponent\u2019s Block grants Karnak 65 to 110% of the Power an unblocked attack would have granted."
-      ],
-      "url_page": "https://auntm.ai/champions/karnak/tier/6",
-      "champid": "karnak+6+4",
-      "challenger_rating": 140,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Karnak\u2019s training and unmatched focus grants him the following:",
-          "+657.14 Physical Resistance.",
-          "+191.3 Block Proficiency against Basic Attacks.",
-          "Incoming non-damaging Debuffs suffer -60% duration.",
-          "Incoming Poison effects deal -65% damage."
-        ],
-        "FOCUS CHARGES": [
-          "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
-          "1+ Charge: +2688.89 Critical Rating.",
-          "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
-          "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
-        ],
-        "HEAVY ATTACKS": [
-          "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +550 Critical Damage Rating and reduces Block Proficiency by 50%.",
-          "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
-          "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to gain a Passive Fury effect, increasing attack by 1738 for 30 seconds.",
-          "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
-        ]
-      }
-    },
-    "1+1": {
-      "rank": 1,
-      "prestige": 215,
-      "hp": 886,
-      "attack": 66,
-      "crit_rate": 274,
-      "crit_dmge": 388,
-      "armor": 0,
-      "block_prof": 2756,
-      "energy_resist": 0,
-      "physical_resist": 463,
-      "crit_resist": 0,
-      "sig_info": null,
-      "url_page": "https://auntm.ai/champions/karnak/tier/1",
-      "champid": "karnak+1+1",
-      "challenger_rating": 10,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Karnak\u2019s training and unmatched focus grants him the following:",
-          "+462.99 Physical Resistance.",
-          "+134.78 Block Proficiency against Basic Attacks.",
-          "Incoming non-damaging Debuffs suffer -60% duration.",
-          "Incoming Poison effects deal -65% damage."
-        ],
-        "FOCUS CHARGES": [
-          "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
-          "1+ Charge: +1894.44 Critical Rating.",
-          "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
-          "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
-        ],
-        "HEAVY ATTACKS": [
-          "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +387.5 Critical Damage Rating and reduces Block Proficiency by 50%.",
-          "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
-          "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to gain a Passive Fury effect, increasing attack by 33 for 30 seconds.",
-          "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
-        ]
-      }
-    },
-    "1+2": {
-      "rank": 2,
-      "prestige": 295,
-      "hp": 1226,
-      "attack": 92,
-      "crit_rate": 283,
-      "crit_dmge": 400,
-      "armor": 0,
-      "block_prof": 2845,
-      "energy_resist": 0,
-      "physical_resist": 478,
-      "crit_resist": 0,
-      "sig_info": null,
-      "url_page": "https://auntm.ai/champions/karnak/tier/1",
-      "champid": "karnak+1+2",
-      "challenger_rating": 20,
-      "Abilities": {
-        "ALWAYS ACTIVE": [
-          "Karnak\u2019s training and unmatched focus grants him the following:",
-          "+477.92 Physical Resistance.",
-          "+139.13 Block Proficiency against Basic Attacks.",
-          "Incoming non-damaging Debuffs suffer -60% duration.",
-          "Incoming Poison effects deal -65% damage."
-        ],
-        "FOCUS CHARGES": [
-          "Every 12 seconds, Karnak gains a Focus Charge to a max of 3. Karnak\u2019s Focus timer is Paused for 10 seconds each time he\u2019s struck and he loses a Charge of Focus if struck by a Special Attack.",
-          "1+ Charge: +1955.56 Critical Rating.",
-          "2+ Charges: Basic attacks can land Critical Hits into the opponent\u2019s Block. Critical Hit based abilities will not trigger through a Block.",
-          "3+ Charges: Basic attacks have a 50% chance to inflict a burst of Bleed Damage equal to 35% of the damage dealt by the attack."
-        ],
-        "HEAVY ATTACKS": [
-          "Consumes 1 Focus Charge to inflict a stacking 20 second Fragility Debuff. Attacking a Fragile opponent grants +400 Critical Damage Rating and reduces Block Proficiency by 50%.",
-          "This attack does not consume a Focus Charge if the opponent is intercepted, recovering from the use of a Special Attack, or charging or executing a Heavy Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% chance to gain a True Strike Passive lasting 15 seconds, allowing attacks to ignore Armor, Resistances, Auto-Block and Evade effects. Knocking down the opponent will pause the True Strike Passive for 3 seconds.",
-          "While this True Strike is active, Karnak will not stop gaining Focus if he\u2019s struck."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to gain a Passive Fury effect, increasing attack by 46 for 30 seconds.",
-          "This Fury is Paused for 5 seconds each time the opponent is Knocked Down."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to inflict a Disorient Debuff, reducing Block Proficiency by 50% and Defensive Ability Accuracy by 80% for 30 seconds."
-        ]
-      }
-    }
-  },
-  "name": "KARNAK",
-  "class": "Skill",
-  "img_portrait": "https://mcoc.rexians.tk/assets/portraits/karnak.png",
-  "contact": "PHYSICAL",
-  "tags": [
-    "Mercenary",
-    "Inhuman",
-    "Size: M"
-  ],
-  "released": "9/1/2016"
+    "name": "KARNAK",
+    "class": "Skill",
+    "img_portrait": "https://mcoc.rexians.tk/assets/portraits/karnak.png",
+    "contact": "PHYSICAL",
+    "tags": [
+        "Mercenary",
+        "Inhuman",
+        "Size: M"
+    ],
+    "released": "9/1/2016"
 }

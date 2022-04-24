@@ -5,7 +5,7 @@ router = APIRouter()
 
 
 @router.get("/champs/")
-def champsfunc(champ: str, tier: int, rank: int):
+def get_champ_data(champ: str, tier: int, rank: int):
 
     """
     Gives Champ Information by their champname, tier, and rank.

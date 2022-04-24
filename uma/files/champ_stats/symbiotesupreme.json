@@ -1,1348 +1,1379 @@
 {
-  "champid": "symbiotesupreme",
-  "data": {
-    "2+1": {
-      "rank": 1,
-      "prestige": "279",
-      "hp": "958",
-      "attack": "79",
-      "crit_rate": "478",
-      "crit_dmge": "563",
-      "armor": "33",
-      "block_prof": "2845",
-      "energy_resist": "400",
-      "physical_resist": "-282",
-      "crit_resist": "0",
-      "sig_info": "Every 20 to 12.51 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
-      "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/2",
-      "champid": "symbiotesupreme+2+1",
-      "challenger_rating": 20,
-      "Abilities": {
-        "PASSIVE": [
-          "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
-        ],
-        "GENETIC POTENTIAL - PASSIVE": [
-          "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
-          "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
-        ],
-        "GENETIC BLESSINGS - PASSIVE": [
-          "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
-          "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
-        ],
-        "CHTHON'S CUNNING - PASSIVE": [
-          "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
-          "51.35 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
-          "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
-        ],
-        "NULL'S SHADOW - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
-          "1066.67 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
-          "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
-        ],
-        "SET'S FANGS - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 80.97 for 10 Seconds, based on Genetic Potential.",
-          "100% chance to cause a Bleed Debuff on every Hit, dealing up to 67.15 Direct Damage based on Genetic Potential and lasting 8 seconds.",
-          "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
-          "Switch to the next Blessing."
-        ],
-        "SPECIAL ATTACK 2": [
-          "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
-          "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
-          "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 1600 for 10 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
-          "+100 Genetic Potential."
-        ]
-      }
+    "champid": "symbiotesupreme",
+    "data": {
+        "2+1": {
+            "rank": 1,
+            "prestige": "279",
+            "hp": "958",
+            "attack": "79",
+            "crit_rate": "478",
+            "crit_dmge": "563",
+            "armor": "33",
+            "block_prof": "2845",
+            "energy_resist": "400",
+            "physical_resist": "-282",
+            "crit_resist": "0",
+            "sig_info": "Every 20 to 12.51 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
+            "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/2",
+            "champid": "symbiotesupreme+2+1",
+            "challenger_rating": 20,
+            "Abilities": {
+                "PASSIVE": [
+                    "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
+                ],
+                "GENETIC POTENTIAL - PASSIVE": [
+                    "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
+                    "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
+                ],
+                "GENETIC BLESSINGS - PASSIVE": [
+                    "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
+                    "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
+                ],
+                "CHTHON'S CUNNING - PASSIVE": [
+                    "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
+                    "51.35 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
+                    "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
+                ],
+                "NULL'S SHADOW - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
+                    "1066.67 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
+                    "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
+                ],
+                "SET'S FANGS - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 80.97 for 10 Seconds, based on Genetic Potential.",
+                    "100% chance to cause a Bleed Debuff on every Hit, dealing up to 67.15 Direct Damage based on Genetic Potential and lasting 8 seconds.",
+                    "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
+                    "Switch to the next Blessing."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
+                    "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
+                    "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 1600 for 10 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
+                    "+100 Genetic Potential."
+                ]
+            }
+        },
+        "2+2": {
+            "rank": 2,
+            "prestige": "368",
+            "hp": "1265",
+            "attack": "104",
+            "crit_rate": "493",
+            "crit_dmge": "580",
+            "armor": "52",
+            "block_prof": "2934",
+            "energy_resist": "413",
+            "physical_resist": "-291",
+            "crit_resist": "0",
+            "sig_info": "Every 20 to 12.51 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
+            "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/2",
+            "champid": "symbiotesupreme+2+2",
+            "challenger_rating": 30,
+            "Abilities": {
+                "PASSIVE": [
+                    "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
+                ],
+                "GENETIC POTENTIAL - PASSIVE": [
+                    "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
+                    "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
+                ],
+                "GENETIC BLESSINGS - PASSIVE": [
+                    "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
+                    "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
+                ],
+                "CHTHON'S CUNNING - PASSIVE": [
+                    "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
+                    "67.6 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
+                    "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
+                ],
+                "NULL'S SHADOW - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
+                    "1100 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
+                    "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
+                ],
+                "SET'S FANGS - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 106.6 for 10 Seconds, based on Genetic Potential.",
+                    "100% chance to cause a Bleed Debuff on every Hit, dealing up to 88.4 Direct Damage based on Genetic Potential and lasting 8 seconds.",
+                    "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
+                    "Switch to the next Blessing."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
+                    "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
+                    "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 1650 for 10 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
+                    "+100 Genetic Potential."
+                ]
+            }
+        },
+        "2+3": {
+            "rank": 3,
+            "prestige": "581",
+            "hp": "2008",
+            "attack": "164",
+            "crit_rate": "508",
+            "crit_dmge": "598",
+            "armor": "71",
+            "block_prof": "3023",
+            "energy_resist": "425",
+            "physical_resist": "-300",
+            "crit_resist": "0",
+            "sig_info": "Every 20 to 12.51 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
+            "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/2",
+            "champid": "symbiotesupreme+2+3",
+            "challenger_rating": 40,
+            "Abilities": {
+                "PASSIVE": [
+                    "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
+                ],
+                "GENETIC POTENTIAL - PASSIVE": [
+                    "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
+                    "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
+                ],
+                "GENETIC BLESSINGS - PASSIVE": [
+                    "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
+                    "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
+                ],
+                "CHTHON'S CUNNING - PASSIVE": [
+                    "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
+                    "106.6 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
+                    "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
+                ],
+                "NULL'S SHADOW - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
+                    "1133.33 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
+                    "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
+                ],
+                "SET'S FANGS - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 168.1 for 10 Seconds, based on Genetic Potential.",
+                    "100% chance to cause a Bleed Debuff on every Hit, dealing up to 139.4 Direct Damage based on Genetic Potential and lasting 8 seconds.",
+                    "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
+                    "Switch to the next Blessing."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
+                    "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
+                    "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 1700 for 10 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
+                    "+100 Genetic Potential."
+                ]
+            }
+        },
+        "3+1": {
+            "rank": 1,
+            "prestige": "501",
+            "hp": "1736",
+            "attack": "142",
+            "crit_rate": "508",
+            "crit_dmge": "598",
+            "armor": "71",
+            "block_prof": "3023",
+            "energy_resist": "425",
+            "physical_resist": "-300",
+            "crit_resist": "0",
+            "sig_info": "Every 20 to 12.51 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
+            "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/3",
+            "champid": "symbiotesupreme+3+1",
+            "challenger_rating": 40,
+            "Abilities": {
+                "PASSIVE": [
+                    "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
+                ],
+                "GENETIC POTENTIAL - PASSIVE": [
+                    "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
+                    "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
+                ],
+                "GENETIC BLESSINGS - PASSIVE": [
+                    "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
+                    "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
+                ],
+                "CHTHON'S CUNNING - PASSIVE": [
+                    "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
+                    "92.3 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
+                    "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
+                ],
+                "NULL'S SHADOW - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
+                    "1133.33 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
+                    "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
+                ],
+                "SET'S FANGS - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 145.55 for 10 Seconds, based on Genetic Potential.",
+                    "100% chance to cause a Bleed Debuff on every Hit, dealing up to 120.7 Direct Damage based on Genetic Potential and lasting 8 seconds.",
+                    "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
+                    "Switch to the next Blessing."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
+                    "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
+                    "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 1700 for 10 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
+                    "+100 Genetic Potential."
+                ]
+            }
+        },
+        "3+2": {
+            "rank": 2,
+            "prestige": "800",
+            "hp": "2778",
+            "attack": "227",
+            "crit_rate": "523",
+            "crit_dmge": "615",
+            "armor": "93",
+            "block_prof": "3112",
+            "energy_resist": "438",
+            "physical_resist": "-308",
+            "crit_resist": "0",
+            "sig_info": "Every 20 to 12.51 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
+            "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/3",
+            "champid": "symbiotesupreme+3+2",
+            "challenger_rating": 50,
+            "Abilities": {
+                "PASSIVE": [
+                    "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
+                ],
+                "GENETIC POTENTIAL - PASSIVE": [
+                    "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
+                    "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
+                ],
+                "GENETIC BLESSINGS - PASSIVE": [
+                    "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
+                    "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
+                ],
+                "CHTHON'S CUNNING - PASSIVE": [
+                    "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
+                    "147.55 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
+                    "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
+                ],
+                "NULL'S SHADOW - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
+                    "1166.67 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
+                    "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
+                ],
+                "SET'S FANGS - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 232.68 for 10 Seconds, based on Genetic Potential.",
+                    "100% chance to cause a Bleed Debuff on every Hit, dealing up to 192.95 Direct Damage based on Genetic Potential and lasting 8 seconds.",
+                    "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
+                    "Switch to the next Blessing."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
+                    "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
+                    "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 1750 for 10 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
+                    "+100 Genetic Potential."
+                ]
+            }
+        },
+        "3+3": {
+            "rank": 3,
+            "prestige": "1113",
+            "hp": "3886",
+            "attack": "317",
+            "crit_rate": "538",
+            "crit_dmge": "633",
+            "armor": "115",
+            "block_prof": "3200",
+            "energy_resist": "450",
+            "physical_resist": "-317",
+            "crit_resist": "0",
+            "sig_info": "Every 20 to 12.51 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
+            "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/3",
+            "champid": "symbiotesupreme+3+3",
+            "challenger_rating": 60,
+            "Abilities": {
+                "PASSIVE": [
+                    "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
+                ],
+                "GENETIC POTENTIAL - PASSIVE": [
+                    "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
+                    "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
+                ],
+                "GENETIC BLESSINGS - PASSIVE": [
+                    "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
+                    "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
+                ],
+                "CHTHON'S CUNNING - PASSIVE": [
+                    "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
+                    "206.05 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
+                    "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
+                ],
+                "NULL'S SHADOW - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
+                    "1200 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
+                    "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
+                ],
+                "SET'S FANGS - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 324.92 for 10 Seconds, based on Genetic Potential.",
+                    "100% chance to cause a Bleed Debuff on every Hit, dealing up to 269.45 Direct Damage based on Genetic Potential and lasting 8 seconds.",
+                    "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
+                    "Switch to the next Blessing."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
+                    "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
+                    "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 1800 for 10 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
+                    "+100 Genetic Potential."
+                ]
+            }
+        },
+        "3+4": {
+            "rank": 4,
+            "prestige": "1528",
+            "hp": "5336",
+            "attack": "436",
+            "crit_rate": "553",
+            "crit_dmge": "650",
+            "armor": "140",
+            "block_prof": "3289",
+            "energy_resist": "463",
+            "physical_resist": "-326",
+            "crit_resist": "0",
+            "sig_info": "Every 20 to 12.51 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
+            "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/3",
+            "champid": "symbiotesupreme+3+4",
+            "challenger_rating": 70,
+            "Abilities": {
+                "PASSIVE": [
+                    "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
+                ],
+                "GENETIC POTENTIAL - PASSIVE": [
+                    "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
+                    "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
+                ],
+                "GENETIC BLESSINGS - PASSIVE": [
+                    "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
+                    "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
+                ],
+                "CHTHON'S CUNNING - PASSIVE": [
+                    "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
+                    "283.4 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
+                    "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
+                ],
+                "NULL'S SHADOW - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
+                    "1233.33 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
+                    "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
+                ],
+                "SET'S FANGS - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 446.9 for 10 Seconds, based on Genetic Potential.",
+                    "100% chance to cause a Bleed Debuff on every Hit, dealing up to 370.6 Direct Damage based on Genetic Potential and lasting 8 seconds.",
+                    "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
+                    "Switch to the next Blessing."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
+                    "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
+                    "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 1850 for 10 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
+                    "+100 Genetic Potential."
+                ]
+            }
+        },
+        "4+1": {
+            "rank": 1,
+            "prestige": "1115",
+            "hp": "3883",
+            "attack": "317",
+            "crit_rate": "538",
+            "crit_dmge": "633",
+            "armor": "157",
+            "block_prof": "3200",
+            "energy_resist": "450",
+            "physical_resist": "-317",
+            "crit_resist": "0",
+            "sig_info": "Every 20 to 12.51 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
+            "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/4",
+            "champid": "symbiotesupreme+4+1",
+            "challenger_rating": 60,
+            "Abilities": {
+                "PASSIVE": [
+                    "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
+                ],
+                "GENETIC POTENTIAL - PASSIVE": [
+                    "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
+                    "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
+                ],
+                "GENETIC BLESSINGS - PASSIVE": [
+                    "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
+                    "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
+                ],
+                "CHTHON'S CUNNING - PASSIVE": [
+                    "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
+                    "206.05 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
+                    "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
+                ],
+                "NULL'S SHADOW - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
+                    "1200 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
+                    "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
+                ],
+                "SET'S FANGS - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 324.92 for 10 Seconds, based on Genetic Potential.",
+                    "100% chance to cause a Bleed Debuff on every Hit, dealing up to 269.45 Direct Damage based on Genetic Potential and lasting 8 seconds.",
+                    "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
+                    "Switch to the next Blessing."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
+                    "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
+                    "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 1800 for 10 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
+                    "+100 Genetic Potential."
+                ]
+            }
+        },
+        "4+2": {
+            "rank": 2,
+            "prestige": "1564",
+            "hp": "5447",
+            "attack": "445",
+            "crit_rate": "553",
+            "crit_dmge": "650",
+            "armor": "183",
+            "block_prof": "3289",
+            "energy_resist": "463",
+            "physical_resist": "-326",
+            "crit_resist": "0",
+            "sig_info": "Every 20 to 12.51 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
+            "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/4",
+            "champid": "symbiotesupreme+4+2",
+            "challenger_rating": 70,
+            "Abilities": {
+                "PASSIVE": [
+                    "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
+                ],
+                "GENETIC POTENTIAL - PASSIVE": [
+                    "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
+                    "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
+                ],
+                "GENETIC BLESSINGS - PASSIVE": [
+                    "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
+                    "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
+                ],
+                "CHTHON'S CUNNING - PASSIVE": [
+                    "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
+                    "289.25 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
+                    "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
+                ],
+                "NULL'S SHADOW - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
+                    "1233.33 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
+                    "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
+                ],
+                "SET'S FANGS - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 456.12 for 10 Seconds, based on Genetic Potential.",
+                    "100% chance to cause a Bleed Debuff on every Hit, dealing up to 378.25 Direct Damage based on Genetic Potential and lasting 8 seconds.",
+                    "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
+                    "Switch to the next Blessing."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
+                    "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
+                    "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 1850 for 10 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
+                    "+100 Genetic Potential."
+                ]
+            }
+        },
+        "4+3": {
+            "rank": 3,
+            "prestige": "2186",
+            "hp": "7631",
+            "attack": "623",
+            "crit_rate": "568",
+            "crit_dmge": "668",
+            "armor": "212",
+            "block_prof": "3378",
+            "energy_resist": "475",
+            "physical_resist": "-335",
+            "crit_resist": "0",
+            "sig_info": "Every 20 to 12.51 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
+            "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/4",
+            "champid": "symbiotesupreme+4+3",
+            "challenger_rating": 80,
+            "Abilities": {
+                "PASSIVE": [
+                    "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
+                ],
+                "GENETIC POTENTIAL - PASSIVE": [
+                    "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
+                    "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
+                ],
+                "GENETIC BLESSINGS - PASSIVE": [
+                    "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
+                    "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
+                ],
+                "CHTHON'S CUNNING - PASSIVE": [
+                    "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
+                    "404.95 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
+                    "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
+                ],
+                "NULL'S SHADOW - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
+                    "1266.67 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
+                    "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
+                ],
+                "SET'S FANGS - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 638.57 for 10 Seconds, based on Genetic Potential.",
+                    "100% chance to cause a Bleed Debuff on every Hit, dealing up to 529.55 Direct Damage based on Genetic Potential and lasting 8 seconds.",
+                    "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
+                    "Switch to the next Blessing."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
+                    "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
+                    "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 1900 for 10 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
+                    "+100 Genetic Potential."
+                ]
+            }
+        },
+        "4+4": {
+            "rank": 4,
+            "prestige": "2874",
+            "hp": "10027",
+            "attack": "818",
+            "crit_rate": "583",
+            "crit_dmge": "686",
+            "armor": "242",
+            "block_prof": "3467",
+            "energy_resist": "488",
+            "physical_resist": "-344",
+            "crit_resist": "0",
+            "sig_info": "Every 20 to 12.51 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
+            "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/4",
+            "champid": "symbiotesupreme+4+4",
+            "challenger_rating": 90,
+            "Abilities": {
+                "PASSIVE": [
+                    "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
+                ],
+                "GENETIC POTENTIAL - PASSIVE": [
+                    "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
+                    "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
+                ],
+                "GENETIC BLESSINGS - PASSIVE": [
+                    "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
+                    "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
+                ],
+                "CHTHON'S CUNNING - PASSIVE": [
+                    "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
+                    "531.7 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
+                    "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
+                ],
+                "NULL'S SHADOW - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
+                    "1300 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
+                    "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
+                ],
+                "SET'S FANGS - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 838.45 for 10 Seconds, based on Genetic Potential.",
+                    "100% chance to cause a Bleed Debuff on every Hit, dealing up to 695.3 Direct Damage based on Genetic Potential and lasting 8 seconds.",
+                    "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
+                    "Switch to the next Blessing."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
+                    "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
+                    "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 1950 for 10 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
+                    "+100 Genetic Potential."
+                ]
+            }
+        },
+        "4+5": {
+            "rank": 5,
+            "prestige": "3833",
+            "hp": "13379",
+            "attack": "1092",
+            "crit_rate": "598",
+            "crit_dmge": "703",
+            "armor": "273",
+            "block_prof": "3556",
+            "energy_resist": "500",
+            "physical_resist": "-352",
+            "crit_resist": "0",
+            "sig_info": "Every 20 to 12.51 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
+            "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/4",
+            "champid": "symbiotesupreme+4+5",
+            "challenger_rating": 100,
+            "Abilities": {
+                "PASSIVE": [
+                    "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
+                ],
+                "GENETIC POTENTIAL - PASSIVE": [
+                    "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
+                    "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
+                ],
+                "GENETIC BLESSINGS - PASSIVE": [
+                    "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
+                    "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
+                ],
+                "CHTHON'S CUNNING - PASSIVE": [
+                    "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
+                    "709.8 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
+                    "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
+                ],
+                "NULL'S SHADOW - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
+                    "1333.33 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
+                    "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
+                ],
+                "SET'S FANGS - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 1119.3 for 10 Seconds, based on Genetic Potential.",
+                    "100% chance to cause a Bleed Debuff on every Hit, dealing up to 928.2 Direct Damage based on Genetic Potential and lasting 8 seconds.",
+                    "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
+                    "Switch to the next Blessing."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
+                    "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
+                    "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 2000 for 10 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
+                    "+100 Genetic Potential."
+                ]
+            }
+        },
+        "5+1": {
+            "rank": 1,
+            "prestige": "2294",
+            "hp": "7985",
+            "attack": "652",
+            "crit_rate": "568",
+            "crit_dmge": "668",
+            "armor": "362",
+            "block_prof": "3378",
+            "energy_resist": "475",
+            "physical_resist": "-335",
+            "crit_resist": "0",
+            "sig_info": "Every 19 to 10 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
+            "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/5",
+            "champid": "symbiotesupreme+5+1",
+            "challenger_rating": 80,
+            "Abilities": {
+                "PASSIVE": [
+                    "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
+                ],
+                "GENETIC POTENTIAL - PASSIVE": [
+                    "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
+                    "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
+                ],
+                "GENETIC BLESSINGS - PASSIVE": [
+                    "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
+                    "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
+                ],
+                "CHTHON'S CUNNING - PASSIVE": [
+                    "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
+                    "423.8 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
+                    "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
+                ],
+                "NULL'S SHADOW - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
+                    "1266.67 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
+                    "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
+                ],
+                "SET'S FANGS - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 668.3 for 10 Seconds, based on Genetic Potential.",
+                    "100% chance to cause a Bleed Debuff on every Hit, dealing up to 554.2 Direct Damage based on Genetic Potential and lasting 8 seconds.",
+                    "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
+                    "Switch to the next Blessing."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
+                    "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
+                    "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 1900 for 10 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
+                    "+100 Genetic Potential."
+                ]
+            }
+        },
+        "5+2": {
+            "rank": 2,
+            "prestige": "3032",
+            "hp": "10547",
+            "attack": "861",
+            "crit_rate": "583",
+            "crit_dmge": "686",
+            "armor": "400",
+            "block_prof": "3467",
+            "energy_resist": "488",
+            "physical_resist": "-344",
+            "crit_resist": "0",
+            "sig_info": "Every 19 to 10 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
+            "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/5",
+            "champid": "symbiotesupreme+5+2",
+            "challenger_rating": 90,
+            "Abilities": {
+                "PASSIVE": [
+                    "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
+                ],
+                "GENETIC POTENTIAL - PASSIVE": [
+                    "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
+                    "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
+                ],
+                "GENETIC BLESSINGS - PASSIVE": [
+                    "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
+                    "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
+                ],
+                "CHTHON'S CUNNING - PASSIVE": [
+                    "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
+                    "559.65 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
+                    "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
+                ],
+                "NULL'S SHADOW - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
+                    "1300 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
+                    "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
+                ],
+                "SET'S FANGS - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 882.53 for 10 Seconds, based on Genetic Potential.",
+                    "100% chance to cause a Bleed Debuff on every Hit, dealing up to 731.85 Direct Damage based on Genetic Potential and lasting 8 seconds.",
+                    "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
+                    "Switch to the next Blessing."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
+                    "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
+                    "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 1950 for 10 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
+                    "+100 Genetic Potential."
+                ]
+            }
+        },
+        "5+3": {
+            "rank": 3,
+            "prestige": "4241",
+            "hp": "14745",
+            "attack": "1203",
+            "crit_rate": "598",
+            "crit_dmge": "703",
+            "armor": "440",
+            "block_prof": "3556",
+            "energy_resist": "500",
+            "physical_resist": "-352",
+            "crit_resist": "0",
+            "sig_info": "Every 19 to 10 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
+            "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/5",
+            "champid": "symbiotesupreme+5+3",
+            "challenger_rating": 100,
+            "Abilities": {
+                "PASSIVE": [
+                    "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
+                ],
+                "GENETIC POTENTIAL - PASSIVE": [
+                    "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
+                    "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
+                ],
+                "GENETIC BLESSINGS - PASSIVE": [
+                    "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
+                    "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
+                ],
+                "CHTHON'S CUNNING - PASSIVE": [
+                    "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
+                    "781.95 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
+                    "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
+                ],
+                "NULL'S SHADOW - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
+                    "1333.33 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
+                    "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
+                ],
+                "SET'S FANGS - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 1233.07 for 10 Seconds, based on Genetic Potential.",
+                    "100% chance to cause a Bleed Debuff on every Hit, dealing up to 1022.55 Direct Damage based on Genetic Potential and lasting 8 seconds.",
+                    "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
+                    "Switch to the next Blessing."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
+                    "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
+                    "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 2000 for 10 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
+                    "+100 Genetic Potential."
+                ]
+            }
+        },
+        "5+4": {
+            "rank": 4,
+            "prestige": "5707",
+            "hp": "19869",
+            "attack": "1621",
+            "crit_rate": "613",
+            "crit_dmge": "721",
+            "armor": "481",
+            "block_prof": "3645",
+            "energy_resist": "513",
+            "physical_resist": "-361",
+            "crit_resist": "0",
+            "sig_info": "Every 19 to 10 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
+            "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/5",
+            "champid": "symbiotesupreme+5+4",
+            "challenger_rating": 110,
+            "Abilities": {
+                "PASSIVE": [
+                    "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
+                ],
+                "GENETIC POTENTIAL - PASSIVE": [
+                    "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
+                    "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
+                ],
+                "GENETIC BLESSINGS - PASSIVE": [
+                    "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
+                    "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
+                ],
+                "CHTHON'S CUNNING - PASSIVE": [
+                    "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
+                    "1053.65 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
+                    "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
+                ],
+                "NULL'S SHADOW - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
+                    "1366.67 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
+                    "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
+                ],
+                "SET'S FANGS - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 1661.53 for 10 Seconds, based on Genetic Potential.",
+                    "100% chance to cause a Bleed Debuff on every Hit, dealing up to 1377.85 Direct Damage based on Genetic Potential and lasting 8 seconds.",
+                    "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
+                    "Switch to the next Blessing."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
+                    "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
+                    "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 2050 for 10 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
+                    "+100 Genetic Potential."
+                ]
+            }
+        },
+        "5+5": {
+            "rank": 5,
+            "prestige": "7720",
+            "hp": "26826",
+            "attack": "2189",
+            "crit_rate": "628",
+            "crit_dmge": "738",
+            "armor": "525",
+            "block_prof": "3734",
+            "energy_resist": "525",
+            "physical_resist": "-370",
+            "crit_resist": "0",
+            "sig_info": "Every 19 to 10 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
+            "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/5",
+            "champid": "symbiotesupreme+5+5",
+            "challenger_rating": 120,
+            "Abilities": {
+                "PASSIVE": [
+                    "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
+                ],
+                "GENETIC POTENTIAL - PASSIVE": [
+                    "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
+                    "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
+                ],
+                "GENETIC BLESSINGS - PASSIVE": [
+                    "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
+                    "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
+                ],
+                "CHTHON'S CUNNING - PASSIVE": [
+                    "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
+                    "1422.85 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
+                    "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
+                ],
+                "NULL'S SHADOW - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
+                    "1400 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
+                    "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
+                ],
+                "SET'S FANGS - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 2243.73 for 10 Seconds, based on Genetic Potential.",
+                    "100% chance to cause a Bleed Debuff on every Hit, dealing up to 1860.65 Direct Damage based on Genetic Potential and lasting 8 seconds.",
+                    "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
+                    "Switch to the next Blessing."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
+                    "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
+                    "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 2100 for 10 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
+                    "+100 Genetic Potential."
+                ]
+            }
+        },
+        "6+1": {
+            "rank": 1,
+            "prestige": "6047",
+            "hp": "21094",
+            "attack": "1721",
+            "crit_rate": "613",
+            "crit_dmge": "721",
+            "armor": "391",
+            "block_prof": "3645",
+            "energy_resist": "513",
+            "physical_resist": "-361",
+            "crit_resist": "0",
+            "sig_info": "Every 19 to 10 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
+            "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/6",
+            "champid": "symbiotesupreme+6+1",
+            "challenger_rating": 110,
+            "Abilities": {
+                "PASSIVE": [
+                    "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
+                ],
+                "GENETIC POTENTIAL - PASSIVE": [
+                    "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
+                    "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
+                ],
+                "GENETIC BLESSINGS - PASSIVE": [
+                    "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
+                    "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
+                ],
+                "CHTHON'S CUNNING - PASSIVE": [
+                    "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
+                    "1118.65 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
+                    "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
+                ],
+                "NULL'S SHADOW - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
+                    "1366.67 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
+                    "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
+                ],
+                "SET'S FANGS - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 1764.03 for 10 Seconds, based on Genetic Potential.",
+                    "100% chance to cause a Bleed Debuff on every Hit, dealing up to 1462.85 Direct Damage based on Genetic Potential and lasting 8 seconds.",
+                    "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
+                    "Switch to the next Blessing."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
+                    "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
+                    "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 2050 for 10 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
+                    "+100 Genetic Potential."
+                ]
+            }
+        },
+        "6+2": {
+            "rank": 2,
+            "prestige": "8353",
+            "hp": "29137",
+            "attack": "2377",
+            "crit_rate": "628",
+            "crit_dmge": "738",
+            "armor": "431",
+            "block_prof": "3734",
+            "energy_resist": "525",
+            "physical_resist": "-370",
+            "crit_resist": "0",
+            "sig_info": "Every 19 to 10 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
+            "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/6",
+            "champid": "symbiotesupreme+6+2",
+            "challenger_rating": 120,
+            "Abilities": {
+                "PASSIVE": [
+                    "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
+                ],
+                "GENETIC POTENTIAL - PASSIVE": [
+                    "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
+                    "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
+                ],
+                "GENETIC BLESSINGS - PASSIVE": [
+                    "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
+                    "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
+                ],
+                "CHTHON'S CUNNING - PASSIVE": [
+                    "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
+                    "1545.05 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
+                    "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
+                ],
+                "NULL'S SHADOW - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
+                    "1400 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
+                    "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
+                ],
+                "SET'S FANGS - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 2436.42 for 10 Seconds, based on Genetic Potential.",
+                    "100% chance to cause a Bleed Debuff on every Hit, dealing up to 2020.45 Direct Damage based on Genetic Potential and lasting 8 seconds.",
+                    "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
+                    "Switch to the next Blessing."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
+                    "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
+                    "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 2100 for 10 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
+                    "+100 Genetic Potential."
+                ]
+            }
+        },
+        "6+3": {
+            "rank": 3,
+            "prestige": "9923",
+            "hp": "34566",
+            "attack": "2820",
+            "crit_rate": "643",
+            "crit_dmge": "756",
+            "armor": "472",
+            "block_prof": "3823",
+            "energy_resist": "538",
+            "physical_resist": "-379",
+            "crit_resist": "0",
+            "sig_info": "Every 19 to 10 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
+            "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/6",
+            "champid": "symbiotesupreme+6+3",
+            "challenger_rating": 130,
+            "Abilities": {
+                "PASSIVE": [
+                    "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
+                ],
+                "GENETIC POTENTIAL - PASSIVE": [
+                    "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
+                    "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
+                ],
+                "GENETIC BLESSINGS - PASSIVE": [
+                    "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
+                    "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
+                ],
+                "CHTHON'S CUNNING - PASSIVE": [
+                    "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
+                    "1833 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
+                    "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
+                ],
+                "NULL'S SHADOW - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
+                    "1433.33 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
+                    "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
+                ],
+                "SET'S FANGS - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 2890.5 for 10 Seconds, based on Genetic Potential.",
+                    "100% chance to cause a Bleed Debuff on every Hit, dealing up to 2397 Direct Damage based on Genetic Potential and lasting 8 seconds.",
+                    "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
+                    "Switch to the next Blessing."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
+                    "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
+                    "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 2150 for 10 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
+                    "+100 Genetic Potential."
+                ]
+            }
+        },
+        "6+4": {
+            "rank": 4,
+            "prestige": "11356",
+            "hp": "39556",
+            "attack": "3227",
+            "crit_rate": "658",
+            "crit_dmge": "773",
+            "armor": "517",
+            "block_prof": "3912",
+            "energy_resist": "550",
+            "physical_resist": "-388",
+            "crit_resist": "0",
+            "sig_info": "Every 19 to 10 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
+            "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/6",
+            "champid": "symbiotesupreme+6+4",
+            "challenger_rating": 140,
+            "Abilities": {
+                "PASSIVE": [
+                    "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
+                ],
+                "GENETIC POTENTIAL - PASSIVE": [
+                    "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
+                    "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
+                ],
+                "GENETIC BLESSINGS - PASSIVE": [
+                    "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
+                    "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
+                ],
+                "CHTHON'S CUNNING - PASSIVE": [
+                    "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
+                    "2097.55 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
+                    "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
+                ],
+                "NULL'S SHADOW - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
+                    "1466.67 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
+                    "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
+                ],
+                "SET'S FANGS - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 3307.68 for 10 Seconds, based on Genetic Potential.",
+                    "100% chance to cause a Bleed Debuff on every Hit, dealing up to 2742.95 Direct Damage based on Genetic Potential and lasting 8 seconds.",
+                    "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
+                    "Switch to the next Blessing."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
+                    "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
+                    "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 2200 for 10 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
+                    "+100 Genetic Potential."
+                ]
+            }
+        },
+        "1+1": {
+            "rank": 1,
+            "prestige": 223,
+            "hp": 750,
+            "attack": 62,
+            "crit_rate": 463,
+            "crit_dmge": 545,
+            "armor": 0,
+            "block_prof": 2756,
+            "energy_resist": 388,
+            "physical_resist": -273,
+            "crit_resist": 0,
+            "sig_info": null,
+            "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/1",
+            "champid": "symbiotesupreme+1+1",
+            "challenger_rating": 10,
+            "Abilities": {
+                "PASSIVE": [
+                    "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
+                ],
+                "GENETIC POTENTIAL - PASSIVE": [
+                    "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
+                    "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
+                ],
+                "GENETIC BLESSINGS - PASSIVE": [
+                    "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
+                    "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
+                ],
+                "CHTHON'S CUNNING - PASSIVE": [
+                    "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
+                    "40.3 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
+                    "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
+                ],
+                "NULL'S SHADOW - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
+                    "1033.33 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
+                    "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
+                ],
+                "SET'S FANGS - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 63.55 for 10 Seconds, based on Genetic Potential.",
+                    "100% chance to cause a Bleed Debuff on every Hit, dealing up to 52.7 Direct Damage based on Genetic Potential and lasting 8 seconds.",
+                    "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
+                    "Switch to the next Blessing."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
+                    "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
+                    "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 1550 for 10 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
+                    "+100 Genetic Potential."
+                ]
+            }
+        },
+        "1+2": {
+            "rank": 2,
+            "prestige": 303,
+            "hp": 1038,
+            "attack": 85,
+            "crit_rate": 478,
+            "crit_dmge": 563,
+            "armor": 0,
+            "block_prof": 2845,
+            "energy_resist": 400,
+            "physical_resist": -282,
+            "crit_resist": 0,
+            "sig_info": null,
+            "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/1",
+            "champid": "symbiotesupreme+1+2",
+            "challenger_rating": 20,
+            "Abilities": {
+                "PASSIVE": [
+                    "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
+                ],
+                "GENETIC POTENTIAL - PASSIVE": [
+                    "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
+                    "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
+                ],
+                "GENETIC BLESSINGS - PASSIVE": [
+                    "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
+                    "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
+                ],
+                "CHTHON'S CUNNING - PASSIVE": [
+                    "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
+                    "55.25 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
+                    "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
+                ],
+                "NULL'S SHADOW - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
+                    "1066.67 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
+                    "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
+                ],
+                "SET'S FANGS - PASSIVE": [
+                    "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 87.12 for 10 Seconds, based on Genetic Potential.",
+                    "100% chance to cause a Bleed Debuff on every Hit, dealing up to 72.25 Direct Damage based on Genetic Potential and lasting 8 seconds.",
+                    "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
+                    "Switch to the next Blessing."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
+                    "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
+                    "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 1600 for 10 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
+                    "+100 Genetic Potential."
+                ]
+            }
+        },
+        "find": {
+            "story_quests": {
+                "act_1": [],
+                "act_2": [],
+                "act_3": [
+                    "3.2.4"
+                ],
+                "act_4": [],
+                "act_5": [],
+                "act_6": [
+                    "6.1.1",
+                    "6.1.2",
+                    "6.1.6",
+                    "6.2.1",
+                    "6.2.3",
+                    "6.2.4",
+                    "6.3.1",
+                    "6.3.6",
+                    "6.4.1",
+                    "6.4.3",
+                    "6.4.6"
+                ],
+                "act_7": [
+                    "7.1.5",
+                    "7.2.1",
+                    "7.2.6",
+                    "7.3.4",
+                    "7.4.5"
+                ]
+            }
+        }
     },
-    "2+2": {
-      "rank": 2,
-      "prestige": "368",
-      "hp": "1265",
-      "attack": "104",
-      "crit_rate": "493",
-      "crit_dmge": "580",
-      "armor": "52",
-      "block_prof": "2934",
-      "energy_resist": "413",
-      "physical_resist": "-291",
-      "crit_resist": "0",
-      "sig_info": "Every 20 to 12.51 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
-      "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/2",
-      "champid": "symbiotesupreme+2+2",
-      "challenger_rating": 30,
-      "Abilities": {
-        "PASSIVE": [
-          "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
-        ],
-        "GENETIC POTENTIAL - PASSIVE": [
-          "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
-          "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
-        ],
-        "GENETIC BLESSINGS - PASSIVE": [
-          "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
-          "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
-        ],
-        "CHTHON'S CUNNING - PASSIVE": [
-          "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
-          "67.6 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
-          "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
-        ],
-        "NULL'S SHADOW - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
-          "1100 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
-          "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
-        ],
-        "SET'S FANGS - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 106.6 for 10 Seconds, based on Genetic Potential.",
-          "100% chance to cause a Bleed Debuff on every Hit, dealing up to 88.4 Direct Damage based on Genetic Potential and lasting 8 seconds.",
-          "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
-          "Switch to the next Blessing."
-        ],
-        "SPECIAL ATTACK 2": [
-          "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
-          "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
-          "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 1650 for 10 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
-          "+100 Genetic Potential."
-        ]
-      }
-    },
-    "2+3": {
-      "rank": 3,
-      "prestige": "581",
-      "hp": "2008",
-      "attack": "164",
-      "crit_rate": "508",
-      "crit_dmge": "598",
-      "armor": "71",
-      "block_prof": "3023",
-      "energy_resist": "425",
-      "physical_resist": "-300",
-      "crit_resist": "0",
-      "sig_info": "Every 20 to 12.51 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
-      "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/2",
-      "champid": "symbiotesupreme+2+3",
-      "challenger_rating": 40,
-      "Abilities": {
-        "PASSIVE": [
-          "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
-        ],
-        "GENETIC POTENTIAL - PASSIVE": [
-          "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
-          "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
-        ],
-        "GENETIC BLESSINGS - PASSIVE": [
-          "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
-          "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
-        ],
-        "CHTHON'S CUNNING - PASSIVE": [
-          "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
-          "106.6 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
-          "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
-        ],
-        "NULL'S SHADOW - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
-          "1133.33 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
-          "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
-        ],
-        "SET'S FANGS - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 168.1 for 10 Seconds, based on Genetic Potential.",
-          "100% chance to cause a Bleed Debuff on every Hit, dealing up to 139.4 Direct Damage based on Genetic Potential and lasting 8 seconds.",
-          "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
-          "Switch to the next Blessing."
-        ],
-        "SPECIAL ATTACK 2": [
-          "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
-          "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
-          "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 1700 for 10 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
-          "+100 Genetic Potential."
-        ]
-      }
-    },
-    "3+1": {
-      "rank": 1,
-      "prestige": "501",
-      "hp": "1736",
-      "attack": "142",
-      "crit_rate": "508",
-      "crit_dmge": "598",
-      "armor": "71",
-      "block_prof": "3023",
-      "energy_resist": "425",
-      "physical_resist": "-300",
-      "crit_resist": "0",
-      "sig_info": "Every 20 to 12.51 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
-      "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/3",
-      "champid": "symbiotesupreme+3+1",
-      "challenger_rating": 40,
-      "Abilities": {
-        "PASSIVE": [
-          "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
-        ],
-        "GENETIC POTENTIAL - PASSIVE": [
-          "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
-          "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
-        ],
-        "GENETIC BLESSINGS - PASSIVE": [
-          "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
-          "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
-        ],
-        "CHTHON'S CUNNING - PASSIVE": [
-          "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
-          "92.3 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
-          "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
-        ],
-        "NULL'S SHADOW - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
-          "1133.33 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
-          "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
-        ],
-        "SET'S FANGS - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 145.55 for 10 Seconds, based on Genetic Potential.",
-          "100% chance to cause a Bleed Debuff on every Hit, dealing up to 120.7 Direct Damage based on Genetic Potential and lasting 8 seconds.",
-          "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
-          "Switch to the next Blessing."
-        ],
-        "SPECIAL ATTACK 2": [
-          "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
-          "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
-          "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 1700 for 10 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
-          "+100 Genetic Potential."
-        ]
-      }
-    },
-    "3+2": {
-      "rank": 2,
-      "prestige": "800",
-      "hp": "2778",
-      "attack": "227",
-      "crit_rate": "523",
-      "crit_dmge": "615",
-      "armor": "93",
-      "block_prof": "3112",
-      "energy_resist": "438",
-      "physical_resist": "-308",
-      "crit_resist": "0",
-      "sig_info": "Every 20 to 12.51 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
-      "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/3",
-      "champid": "symbiotesupreme+3+2",
-      "challenger_rating": 50,
-      "Abilities": {
-        "PASSIVE": [
-          "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
-        ],
-        "GENETIC POTENTIAL - PASSIVE": [
-          "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
-          "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
-        ],
-        "GENETIC BLESSINGS - PASSIVE": [
-          "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
-          "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
-        ],
-        "CHTHON'S CUNNING - PASSIVE": [
-          "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
-          "147.55 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
-          "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
-        ],
-        "NULL'S SHADOW - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
-          "1166.67 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
-          "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
-        ],
-        "SET'S FANGS - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 232.68 for 10 Seconds, based on Genetic Potential.",
-          "100% chance to cause a Bleed Debuff on every Hit, dealing up to 192.95 Direct Damage based on Genetic Potential and lasting 8 seconds.",
-          "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
-          "Switch to the next Blessing."
-        ],
-        "SPECIAL ATTACK 2": [
-          "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
-          "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
-          "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 1750 for 10 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
-          "+100 Genetic Potential."
-        ]
-      }
-    },
-    "3+3": {
-      "rank": 3,
-      "prestige": "1113",
-      "hp": "3886",
-      "attack": "317",
-      "crit_rate": "538",
-      "crit_dmge": "633",
-      "armor": "115",
-      "block_prof": "3200",
-      "energy_resist": "450",
-      "physical_resist": "-317",
-      "crit_resist": "0",
-      "sig_info": "Every 20 to 12.51 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
-      "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/3",
-      "champid": "symbiotesupreme+3+3",
-      "challenger_rating": 60,
-      "Abilities": {
-        "PASSIVE": [
-          "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
-        ],
-        "GENETIC POTENTIAL - PASSIVE": [
-          "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
-          "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
-        ],
-        "GENETIC BLESSINGS - PASSIVE": [
-          "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
-          "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
-        ],
-        "CHTHON'S CUNNING - PASSIVE": [
-          "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
-          "206.05 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
-          "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
-        ],
-        "NULL'S SHADOW - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
-          "1200 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
-          "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
-        ],
-        "SET'S FANGS - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 324.92 for 10 Seconds, based on Genetic Potential.",
-          "100% chance to cause a Bleed Debuff on every Hit, dealing up to 269.45 Direct Damage based on Genetic Potential and lasting 8 seconds.",
-          "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
-          "Switch to the next Blessing."
-        ],
-        "SPECIAL ATTACK 2": [
-          "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
-          "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
-          "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 1800 for 10 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
-          "+100 Genetic Potential."
-        ]
-      }
-    },
-    "3+4": {
-      "rank": 4,
-      "prestige": "1528",
-      "hp": "5336",
-      "attack": "436",
-      "crit_rate": "553",
-      "crit_dmge": "650",
-      "armor": "140",
-      "block_prof": "3289",
-      "energy_resist": "463",
-      "physical_resist": "-326",
-      "crit_resist": "0",
-      "sig_info": "Every 20 to 12.51 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
-      "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/3",
-      "champid": "symbiotesupreme+3+4",
-      "challenger_rating": 70,
-      "Abilities": {
-        "PASSIVE": [
-          "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
-        ],
-        "GENETIC POTENTIAL - PASSIVE": [
-          "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
-          "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
-        ],
-        "GENETIC BLESSINGS - PASSIVE": [
-          "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
-          "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
-        ],
-        "CHTHON'S CUNNING - PASSIVE": [
-          "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
-          "283.4 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
-          "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
-        ],
-        "NULL'S SHADOW - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
-          "1233.33 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
-          "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
-        ],
-        "SET'S FANGS - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 446.9 for 10 Seconds, based on Genetic Potential.",
-          "100% chance to cause a Bleed Debuff on every Hit, dealing up to 370.6 Direct Damage based on Genetic Potential and lasting 8 seconds.",
-          "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
-          "Switch to the next Blessing."
-        ],
-        "SPECIAL ATTACK 2": [
-          "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
-          "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
-          "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 1850 for 10 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
-          "+100 Genetic Potential."
-        ]
-      }
-    },
-    "4+1": {
-      "rank": 1,
-      "prestige": "1115",
-      "hp": "3883",
-      "attack": "317",
-      "crit_rate": "538",
-      "crit_dmge": "633",
-      "armor": "157",
-      "block_prof": "3200",
-      "energy_resist": "450",
-      "physical_resist": "-317",
-      "crit_resist": "0",
-      "sig_info": "Every 20 to 12.51 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
-      "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/4",
-      "champid": "symbiotesupreme+4+1",
-      "challenger_rating": 60,
-      "Abilities": {
-        "PASSIVE": [
-          "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
-        ],
-        "GENETIC POTENTIAL - PASSIVE": [
-          "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
-          "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
-        ],
-        "GENETIC BLESSINGS - PASSIVE": [
-          "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
-          "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
-        ],
-        "CHTHON'S CUNNING - PASSIVE": [
-          "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
-          "206.05 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
-          "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
-        ],
-        "NULL'S SHADOW - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
-          "1200 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
-          "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
-        ],
-        "SET'S FANGS - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 324.92 for 10 Seconds, based on Genetic Potential.",
-          "100% chance to cause a Bleed Debuff on every Hit, dealing up to 269.45 Direct Damage based on Genetic Potential and lasting 8 seconds.",
-          "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
-          "Switch to the next Blessing."
-        ],
-        "SPECIAL ATTACK 2": [
-          "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
-          "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
-          "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 1800 for 10 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
-          "+100 Genetic Potential."
-        ]
-      }
-    },
-    "4+2": {
-      "rank": 2,
-      "prestige": "1564",
-      "hp": "5447",
-      "attack": "445",
-      "crit_rate": "553",
-      "crit_dmge": "650",
-      "armor": "183",
-      "block_prof": "3289",
-      "energy_resist": "463",
-      "physical_resist": "-326",
-      "crit_resist": "0",
-      "sig_info": "Every 20 to 12.51 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
-      "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/4",
-      "champid": "symbiotesupreme+4+2",
-      "challenger_rating": 70,
-      "Abilities": {
-        "PASSIVE": [
-          "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
-        ],
-        "GENETIC POTENTIAL - PASSIVE": [
-          "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
-          "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
-        ],
-        "GENETIC BLESSINGS - PASSIVE": [
-          "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
-          "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
-        ],
-        "CHTHON'S CUNNING - PASSIVE": [
-          "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
-          "289.25 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
-          "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
-        ],
-        "NULL'S SHADOW - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
-          "1233.33 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
-          "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
-        ],
-        "SET'S FANGS - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 456.12 for 10 Seconds, based on Genetic Potential.",
-          "100% chance to cause a Bleed Debuff on every Hit, dealing up to 378.25 Direct Damage based on Genetic Potential and lasting 8 seconds.",
-          "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
-          "Switch to the next Blessing."
-        ],
-        "SPECIAL ATTACK 2": [
-          "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
-          "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
-          "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 1850 for 10 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
-          "+100 Genetic Potential."
-        ]
-      }
-    },
-    "4+3": {
-      "rank": 3,
-      "prestige": "2186",
-      "hp": "7631",
-      "attack": "623",
-      "crit_rate": "568",
-      "crit_dmge": "668",
-      "armor": "212",
-      "block_prof": "3378",
-      "energy_resist": "475",
-      "physical_resist": "-335",
-      "crit_resist": "0",
-      "sig_info": "Every 20 to 12.51 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
-      "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/4",
-      "champid": "symbiotesupreme+4+3",
-      "challenger_rating": 80,
-      "Abilities": {
-        "PASSIVE": [
-          "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
-        ],
-        "GENETIC POTENTIAL - PASSIVE": [
-          "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
-          "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
-        ],
-        "GENETIC BLESSINGS - PASSIVE": [
-          "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
-          "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
-        ],
-        "CHTHON'S CUNNING - PASSIVE": [
-          "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
-          "404.95 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
-          "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
-        ],
-        "NULL'S SHADOW - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
-          "1266.67 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
-          "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
-        ],
-        "SET'S FANGS - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 638.57 for 10 Seconds, based on Genetic Potential.",
-          "100% chance to cause a Bleed Debuff on every Hit, dealing up to 529.55 Direct Damage based on Genetic Potential and lasting 8 seconds.",
-          "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
-          "Switch to the next Blessing."
-        ],
-        "SPECIAL ATTACK 2": [
-          "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
-          "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
-          "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 1900 for 10 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
-          "+100 Genetic Potential."
-        ]
-      }
-    },
-    "4+4": {
-      "rank": 4,
-      "prestige": "2874",
-      "hp": "10027",
-      "attack": "818",
-      "crit_rate": "583",
-      "crit_dmge": "686",
-      "armor": "242",
-      "block_prof": "3467",
-      "energy_resist": "488",
-      "physical_resist": "-344",
-      "crit_resist": "0",
-      "sig_info": "Every 20 to 12.51 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
-      "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/4",
-      "champid": "symbiotesupreme+4+4",
-      "challenger_rating": 90,
-      "Abilities": {
-        "PASSIVE": [
-          "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
-        ],
-        "GENETIC POTENTIAL - PASSIVE": [
-          "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
-          "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
-        ],
-        "GENETIC BLESSINGS - PASSIVE": [
-          "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
-          "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
-        ],
-        "CHTHON'S CUNNING - PASSIVE": [
-          "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
-          "531.7 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
-          "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
-        ],
-        "NULL'S SHADOW - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
-          "1300 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
-          "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
-        ],
-        "SET'S FANGS - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 838.45 for 10 Seconds, based on Genetic Potential.",
-          "100% chance to cause a Bleed Debuff on every Hit, dealing up to 695.3 Direct Damage based on Genetic Potential and lasting 8 seconds.",
-          "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
-          "Switch to the next Blessing."
-        ],
-        "SPECIAL ATTACK 2": [
-          "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
-          "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
-          "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 1950 for 10 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
-          "+100 Genetic Potential."
-        ]
-      }
-    },
-    "4+5": {
-      "rank": 5,
-      "prestige": "3833",
-      "hp": "13379",
-      "attack": "1092",
-      "crit_rate": "598",
-      "crit_dmge": "703",
-      "armor": "273",
-      "block_prof": "3556",
-      "energy_resist": "500",
-      "physical_resist": "-352",
-      "crit_resist": "0",
-      "sig_info": "Every 20 to 12.51 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
-      "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/4",
-      "champid": "symbiotesupreme+4+5",
-      "challenger_rating": 100,
-      "Abilities": {
-        "PASSIVE": [
-          "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
-        ],
-        "GENETIC POTENTIAL - PASSIVE": [
-          "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
-          "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
-        ],
-        "GENETIC BLESSINGS - PASSIVE": [
-          "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
-          "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
-        ],
-        "CHTHON'S CUNNING - PASSIVE": [
-          "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
-          "709.8 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
-          "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
-        ],
-        "NULL'S SHADOW - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
-          "1333.33 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
-          "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
-        ],
-        "SET'S FANGS - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 1119.3 for 10 Seconds, based on Genetic Potential.",
-          "100% chance to cause a Bleed Debuff on every Hit, dealing up to 928.2 Direct Damage based on Genetic Potential and lasting 8 seconds.",
-          "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
-          "Switch to the next Blessing."
-        ],
-        "SPECIAL ATTACK 2": [
-          "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
-          "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
-          "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 2000 for 10 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
-          "+100 Genetic Potential."
-        ]
-      }
-    },
-    "5+1": {
-      "rank": 1,
-      "prestige": "2294",
-      "hp": "7985",
-      "attack": "652",
-      "crit_rate": "568",
-      "crit_dmge": "668",
-      "armor": "362",
-      "block_prof": "3378",
-      "energy_resist": "475",
-      "physical_resist": "-335",
-      "crit_resist": "0",
-      "sig_info": "Every 19 to 10 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
-      "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/5",
-      "champid": "symbiotesupreme+5+1",
-      "challenger_rating": 80,
-      "Abilities": {
-        "PASSIVE": [
-          "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
-        ],
-        "GENETIC POTENTIAL - PASSIVE": [
-          "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
-          "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
-        ],
-        "GENETIC BLESSINGS - PASSIVE": [
-          "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
-          "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
-        ],
-        "CHTHON'S CUNNING - PASSIVE": [
-          "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
-          "423.8 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
-          "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
-        ],
-        "NULL'S SHADOW - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
-          "1266.67 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
-          "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
-        ],
-        "SET'S FANGS - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 668.3 for 10 Seconds, based on Genetic Potential.",
-          "100% chance to cause a Bleed Debuff on every Hit, dealing up to 554.2 Direct Damage based on Genetic Potential and lasting 8 seconds.",
-          "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
-          "Switch to the next Blessing."
-        ],
-        "SPECIAL ATTACK 2": [
-          "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
-          "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
-          "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 1900 for 10 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
-          "+100 Genetic Potential."
-        ]
-      }
-    },
-    "5+2": {
-      "rank": 2,
-      "prestige": "3032",
-      "hp": "10547",
-      "attack": "861",
-      "crit_rate": "583",
-      "crit_dmge": "686",
-      "armor": "400",
-      "block_prof": "3467",
-      "energy_resist": "488",
-      "physical_resist": "-344",
-      "crit_resist": "0",
-      "sig_info": "Every 19 to 10 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
-      "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/5",
-      "champid": "symbiotesupreme+5+2",
-      "challenger_rating": 90,
-      "Abilities": {
-        "PASSIVE": [
-          "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
-        ],
-        "GENETIC POTENTIAL - PASSIVE": [
-          "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
-          "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
-        ],
-        "GENETIC BLESSINGS - PASSIVE": [
-          "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
-          "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
-        ],
-        "CHTHON'S CUNNING - PASSIVE": [
-          "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
-          "559.65 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
-          "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
-        ],
-        "NULL'S SHADOW - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
-          "1300 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
-          "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
-        ],
-        "SET'S FANGS - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 882.53 for 10 Seconds, based on Genetic Potential.",
-          "100% chance to cause a Bleed Debuff on every Hit, dealing up to 731.85 Direct Damage based on Genetic Potential and lasting 8 seconds.",
-          "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
-          "Switch to the next Blessing."
-        ],
-        "SPECIAL ATTACK 2": [
-          "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
-          "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
-          "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 1950 for 10 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
-          "+100 Genetic Potential."
-        ]
-      }
-    },
-    "5+3": {
-      "rank": 3,
-      "prestige": "4241",
-      "hp": "14745",
-      "attack": "1203",
-      "crit_rate": "598",
-      "crit_dmge": "703",
-      "armor": "440",
-      "block_prof": "3556",
-      "energy_resist": "500",
-      "physical_resist": "-352",
-      "crit_resist": "0",
-      "sig_info": "Every 19 to 10 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
-      "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/5",
-      "champid": "symbiotesupreme+5+3",
-      "challenger_rating": 100,
-      "Abilities": {
-        "PASSIVE": [
-          "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
-        ],
-        "GENETIC POTENTIAL - PASSIVE": [
-          "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
-          "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
-        ],
-        "GENETIC BLESSINGS - PASSIVE": [
-          "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
-          "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
-        ],
-        "CHTHON'S CUNNING - PASSIVE": [
-          "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
-          "781.95 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
-          "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
-        ],
-        "NULL'S SHADOW - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
-          "1333.33 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
-          "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
-        ],
-        "SET'S FANGS - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 1233.07 for 10 Seconds, based on Genetic Potential.",
-          "100% chance to cause a Bleed Debuff on every Hit, dealing up to 1022.55 Direct Damage based on Genetic Potential and lasting 8 seconds.",
-          "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
-          "Switch to the next Blessing."
-        ],
-        "SPECIAL ATTACK 2": [
-          "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
-          "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
-          "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 2000 for 10 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
-          "+100 Genetic Potential."
-        ]
-      }
-    },
-    "5+4": {
-      "rank": 4,
-      "prestige": "5707",
-      "hp": "19869",
-      "attack": "1621",
-      "crit_rate": "613",
-      "crit_dmge": "721",
-      "armor": "481",
-      "block_prof": "3645",
-      "energy_resist": "513",
-      "physical_resist": "-361",
-      "crit_resist": "0",
-      "sig_info": "Every 19 to 10 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
-      "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/5",
-      "champid": "symbiotesupreme+5+4",
-      "challenger_rating": 110,
-      "Abilities": {
-        "PASSIVE": [
-          "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
-        ],
-        "GENETIC POTENTIAL - PASSIVE": [
-          "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
-          "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
-        ],
-        "GENETIC BLESSINGS - PASSIVE": [
-          "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
-          "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
-        ],
-        "CHTHON'S CUNNING - PASSIVE": [
-          "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
-          "1053.65 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
-          "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
-        ],
-        "NULL'S SHADOW - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
-          "1366.67 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
-          "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
-        ],
-        "SET'S FANGS - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 1661.53 for 10 Seconds, based on Genetic Potential.",
-          "100% chance to cause a Bleed Debuff on every Hit, dealing up to 1377.85 Direct Damage based on Genetic Potential and lasting 8 seconds.",
-          "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
-          "Switch to the next Blessing."
-        ],
-        "SPECIAL ATTACK 2": [
-          "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
-          "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
-          "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 2050 for 10 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
-          "+100 Genetic Potential."
-        ]
-      }
-    },
-    "5+5": {
-      "rank": 5,
-      "prestige": "7720",
-      "hp": "26826",
-      "attack": "2189",
-      "crit_rate": "628",
-      "crit_dmge": "738",
-      "armor": "525",
-      "block_prof": "3734",
-      "energy_resist": "525",
-      "physical_resist": "-370",
-      "crit_resist": "0",
-      "sig_info": "Every 19 to 10 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
-      "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/5",
-      "champid": "symbiotesupreme+5+5",
-      "challenger_rating": 120,
-      "Abilities": {
-        "PASSIVE": [
-          "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
-        ],
-        "GENETIC POTENTIAL - PASSIVE": [
-          "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
-          "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
-        ],
-        "GENETIC BLESSINGS - PASSIVE": [
-          "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
-          "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
-        ],
-        "CHTHON'S CUNNING - PASSIVE": [
-          "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
-          "1422.85 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
-          "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
-        ],
-        "NULL'S SHADOW - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
-          "1400 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
-          "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
-        ],
-        "SET'S FANGS - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 2243.73 for 10 Seconds, based on Genetic Potential.",
-          "100% chance to cause a Bleed Debuff on every Hit, dealing up to 1860.65 Direct Damage based on Genetic Potential and lasting 8 seconds.",
-          "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
-          "Switch to the next Blessing."
-        ],
-        "SPECIAL ATTACK 2": [
-          "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
-          "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
-          "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 2100 for 10 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
-          "+100 Genetic Potential."
-        ]
-      }
-    },
-    "6+1": {
-      "rank": 1,
-      "prestige": "6047",
-      "hp": "21094",
-      "attack": "1721",
-      "crit_rate": "613",
-      "crit_dmge": "721",
-      "armor": "391",
-      "block_prof": "3645",
-      "energy_resist": "513",
-      "physical_resist": "-361",
-      "crit_resist": "0",
-      "sig_info": "Every 19 to 10 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
-      "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/6",
-      "champid": "symbiotesupreme+6+1",
-      "challenger_rating": 110,
-      "Abilities": {
-        "PASSIVE": [
-          "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
-        ],
-        "GENETIC POTENTIAL - PASSIVE": [
-          "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
-          "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
-        ],
-        "GENETIC BLESSINGS - PASSIVE": [
-          "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
-          "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
-        ],
-        "CHTHON'S CUNNING - PASSIVE": [
-          "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
-          "1118.65 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
-          "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
-        ],
-        "NULL'S SHADOW - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
-          "1366.67 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
-          "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
-        ],
-        "SET'S FANGS - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 1764.03 for 10 Seconds, based on Genetic Potential.",
-          "100% chance to cause a Bleed Debuff on every Hit, dealing up to 1462.85 Direct Damage based on Genetic Potential and lasting 8 seconds.",
-          "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
-          "Switch to the next Blessing."
-        ],
-        "SPECIAL ATTACK 2": [
-          "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
-          "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
-          "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 2050 for 10 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
-          "+100 Genetic Potential."
-        ]
-      }
-    },
-    "6+2": {
-      "rank": 2,
-      "prestige": "8353",
-      "hp": "29137",
-      "attack": "2377",
-      "crit_rate": "628",
-      "crit_dmge": "738",
-      "armor": "431",
-      "block_prof": "3734",
-      "energy_resist": "525",
-      "physical_resist": "-370",
-      "crit_resist": "0",
-      "sig_info": "Every 19 to 10 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
-      "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/6",
-      "champid": "symbiotesupreme+6+2",
-      "challenger_rating": 120,
-      "Abilities": {
-        "PASSIVE": [
-          "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
-        ],
-        "GENETIC POTENTIAL - PASSIVE": [
-          "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
-          "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
-        ],
-        "GENETIC BLESSINGS - PASSIVE": [
-          "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
-          "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
-        ],
-        "CHTHON'S CUNNING - PASSIVE": [
-          "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
-          "1545.05 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
-          "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
-        ],
-        "NULL'S SHADOW - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
-          "1400 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
-          "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
-        ],
-        "SET'S FANGS - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 2436.42 for 10 Seconds, based on Genetic Potential.",
-          "100% chance to cause a Bleed Debuff on every Hit, dealing up to 2020.45 Direct Damage based on Genetic Potential and lasting 8 seconds.",
-          "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
-          "Switch to the next Blessing."
-        ],
-        "SPECIAL ATTACK 2": [
-          "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
-          "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
-          "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 2100 for 10 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
-          "+100 Genetic Potential."
-        ]
-      }
-    },
-    "6+3": {
-      "rank": 3,
-      "prestige": "9923",
-      "hp": "34566",
-      "attack": "2820",
-      "crit_rate": "643",
-      "crit_dmge": "756",
-      "armor": "472",
-      "block_prof": "3823",
-      "energy_resist": "538",
-      "physical_resist": "-379",
-      "crit_resist": "0",
-      "sig_info": "Every 19 to 10 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
-      "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/6",
-      "champid": "symbiotesupreme+6+3",
-      "challenger_rating": 130,
-      "Abilities": {
-        "PASSIVE": [
-          "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
-        ],
-        "GENETIC POTENTIAL - PASSIVE": [
-          "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
-          "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
-        ],
-        "GENETIC BLESSINGS - PASSIVE": [
-          "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
-          "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
-        ],
-        "CHTHON'S CUNNING - PASSIVE": [
-          "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
-          "1833 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
-          "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
-        ],
-        "NULL'S SHADOW - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
-          "1433.33 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
-          "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
-        ],
-        "SET'S FANGS - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 2890.5 for 10 Seconds, based on Genetic Potential.",
-          "100% chance to cause a Bleed Debuff on every Hit, dealing up to 2397 Direct Damage based on Genetic Potential and lasting 8 seconds.",
-          "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
-          "Switch to the next Blessing."
-        ],
-        "SPECIAL ATTACK 2": [
-          "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
-          "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
-          "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 2150 for 10 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
-          "+100 Genetic Potential."
-        ]
-      }
-    },
-    "6+4": {
-      "rank": 4,
-      "prestige": "11356",
-      "hp": "39556",
-      "attack": "3227",
-      "crit_rate": "658",
-      "crit_dmge": "773",
-      "armor": "517",
-      "block_prof": "3912",
-      "energy_resist": "550",
-      "physical_resist": "-388",
-      "crit_resist": "0",
-      "sig_info": "Every 19 to 10 seconds place a Stagger Passive effect on the Opponent, lasting 10 seconds. The next time a Staggered enemy triggers a Buff, that Buff will be immediately Nullified.",
-      "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/6",
-      "champid": "symbiotesupreme+6+4",
-      "challenger_rating": 140,
-      "Abilities": {
-        "PASSIVE": [
-          "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
-        ],
-        "GENETIC POTENTIAL - PASSIVE": [
-          "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
-          "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
-        ],
-        "GENETIC BLESSINGS - PASSIVE": [
-          "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
-          "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
-        ],
-        "CHTHON'S CUNNING - PASSIVE": [
-          "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
-          "2097.55 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
-          "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
-        ],
-        "NULL'S SHADOW - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
-          "1466.67 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
-          "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
-        ],
-        "SET'S FANGS - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 3307.68 for 10 Seconds, based on Genetic Potential.",
-          "100% chance to cause a Bleed Debuff on every Hit, dealing up to 2742.95 Direct Damage based on Genetic Potential and lasting 8 seconds.",
-          "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
-          "Switch to the next Blessing."
-        ],
-        "SPECIAL ATTACK 2": [
-          "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
-          "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
-          "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 2200 for 10 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
-          "+100 Genetic Potential."
-        ]
-      }
-    },
-    "1+1": {
-      "rank": 1,
-      "prestige": 223,
-      "hp": 750,
-      "attack": 62,
-      "crit_rate": 463,
-      "crit_dmge": 545,
-      "armor": 0,
-      "block_prof": 2756,
-      "energy_resist": 388,
-      "physical_resist": -273,
-      "crit_resist": 0,
-      "sig_info": null,
-      "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/1",
-      "champid": "symbiotesupreme+1+1",
-      "challenger_rating": 10,
-      "Abilities": {
-        "PASSIVE": [
-          "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
-        ],
-        "GENETIC POTENTIAL - PASSIVE": [
-          "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
-          "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
-        ],
-        "GENETIC BLESSINGS - PASSIVE": [
-          "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
-          "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
-        ],
-        "CHTHON'S CUNNING - PASSIVE": [
-          "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
-          "40.3 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
-          "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
-        ],
-        "NULL'S SHADOW - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
-          "1033.33 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
-          "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
-        ],
-        "SET'S FANGS - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 63.55 for 10 Seconds, based on Genetic Potential.",
-          "100% chance to cause a Bleed Debuff on every Hit, dealing up to 52.7 Direct Damage based on Genetic Potential and lasting 8 seconds.",
-          "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
-          "Switch to the next Blessing."
-        ],
-        "SPECIAL ATTACK 2": [
-          "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
-          "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
-          "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 1550 for 10 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
-          "+100 Genetic Potential."
-        ]
-      }
-    },
-    "1+2": {
-      "rank": 2,
-      "prestige": 303,
-      "hp": 1038,
-      "attack": 85,
-      "crit_rate": 478,
-      "crit_dmge": 563,
-      "armor": 0,
-      "block_prof": 2845,
-      "energy_resist": 400,
-      "physical_resist": -282,
-      "crit_resist": 0,
-      "sig_info": null,
-      "url_page": "https://auntm.ai/champions/symbiotesupreme/tier/1",
-      "champid": "symbiotesupreme+1+2",
-      "challenger_rating": 20,
-      "Abilities": {
-        "PASSIVE": [
-          "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains 16.5% of his Max Power every 9 seconds."
-        ],
-        "GENETIC POTENTIAL - PASSIVE": [
-          "Each time a Buff or a Stagger effect on the Opponent ends gain 25 Genetic Potential, to a maximum of 100.",
-          "Gain an additional 50 Genetic Potential if a Buff ends due to a Nullify or Stagger effect."
-        ],
-        "GENETIC BLESSINGS - PASSIVE": [
-          "Symbiote Supreme can manifest 3 different Genetic Blessings, every 15 seconds he switches to the next in the following order: Chthon\u2019s Cunning, Null\u2019s Shadow, and Set\u2019s Fangs.",
-          "Each time a Blessing triggers 100% of Genetic Potential is consumed to gain up to 100% of a Bar of Power."
-        ],
-        "CHTHON'S CUNNING - PASSIVE": [
-          "100% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
-          "55.25 Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
-          "While active gain a 5% chance to place a Stagger Passive on the Opponent lasting 10 seconds on each Basic Attack Hit. Critical Hits increase the Chance to 50%."
-        ],
-        "NULL'S SHADOW - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than 15% of his Max Health per hit, lasting for 10 seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
-          "1066.67 Armor and 40% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
-          "While active gain a 15% chance to place a Stagger Passive on the Opponent lasting 10 seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to 50%."
-        ],
-        "SET'S FANGS - PASSIVE": [
-          "100% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to 87.12 for 10 Seconds, based on Genetic Potential.",
-          "100% chance to cause a Bleed Debuff on every Hit, dealing up to 72.25 Direct Damage based on Genetic Potential and lasting 8 seconds.",
-          "Each hit of a Special Attack gains a 50% chance to place a Stagger Passive on the Opponent lasting 10 seconds."
-        ],
-        "SPECIAL ATTACK 1": [
-          "100% Chance to Nullify 1 Buff. Gain 50 Genetic Potential if a Buff is Nullified.",
-          "Switch to the next Blessing."
-        ],
-        "SPECIAL ATTACK 2": [
-          "While Chthon\u2019s Cunning is active each hit has a 100% chance to steal 15% of the Opponent\u2019s Max Power.",
-          "While Null\u2019s Shadow is active each hit has a 100% chance to place a Weakness Debuff on the Opponent reducing their Attack by 33% for 10 seconds.",
-          "While Set\u2019s Fangs is active each hit has a 100% chance to place an Armor Break Debuff on the Opponent reducing their Armor by 1600 for 10 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
-          "+100 Genetic Potential."
-        ]
-      }
-    }
-  },
-  "name": "SYMBIOTE SUPREME",
-  "class": "Mystic",
-  "img_portrait": "https://mcoc.rexians.tk/assets/portraits/symbiote_supreme.png",
-  "contact": "ENERGY",
-  "tags": [
-    "Symbiote",
-    "Size: M"
-  ],
-  "released": "10/11/2018"
+    "name": "SYMBIOTE SUPREME",
+    "class": "Mystic",
+    "img_portrait": "https://mcoc.rexians.tk/assets/portraits/symbiote_supreme.png",
+    "contact": "ENERGY",
+    "tags": [
+        "Symbiote",
+        "Size: M"
+    ],
+    "released": "10/11/2018"
 }
