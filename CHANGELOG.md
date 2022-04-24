@@ -3,17 +3,15 @@
 ## v5
 
 ### v5.2.0(4/24/2022)
+
 - Update find route.
 - Add find locations for each champ in the database.
 
 ### v5.1.0(4/21/2022)
+
 - Added Abilites for each champ in the database.
 
 ## v4
-
-### v4.3.0 (4/24/2022)
-- Added new find route (gets chapters of where champ is found from Acts 1-7)
-- Added abilities to champs
 
 ### v4.2.1 (4/8/2022)
 
