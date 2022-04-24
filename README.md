@@ -20,7 +20,7 @@ The base URI for the API is now- `https://api.rexians.tk/` and all the requests 
 ## Documentation
 
 To get more information about the endpoints, check out our documentation:
-[Docs](https://indorex.gitbook.io/uma-docs/)
+[Docs](https://docs.rexians.tk/)
 
 ## Contributing
 
