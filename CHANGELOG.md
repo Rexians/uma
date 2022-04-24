@@ -1,5 +1,9 @@
 # Versions
 
+### v4.3.0 (4/24/2022)
+- Added new find route (gets chapters of where champ is found from Acts 1-7)
+- Added abilities to champs
+
 ### v4.2.1 (4/8/2022)
 
 - Added BlackCat and Scorpion
