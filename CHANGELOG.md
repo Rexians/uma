@@ -1,5 +1,12 @@
 # Versions
 
+## v5
+
+### v5.1.0(4/21/2022)
+- Added Abilites for each champ in the database.
+
+## v4
+
 ### v4.2.1 (4/8/2022)
 
 - Added BlackCat and Scorpion
