@@ -33,6 +33,7 @@ def get_champ_data(champ: str, tier: int, rank: int):
             "sig_info": champ_info.sig_info,
             "challenger_rating": champ_info.challenger_rating,
             "tags": champ_info.tags,
+            "abilities": champ_info.abilities,
             "contact": champ_info.contact,
             "url_page": f"{champ_info.url_page}",
             "img_portrait": f"{champ_info.img_portrait}",
