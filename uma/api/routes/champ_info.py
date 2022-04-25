@@ -31,6 +31,7 @@ def get_champ_data(champ: str, tier: int, rank: int):
             "physical_resist": champ_info.physical_resist,
             "crit_resist": champ_info.crit_resist,
             "sig_info": champ_info.sig_info,
+            "abilities": champ_info.abilities,
             "challenger_rating": champ_info.challenger_rating,
             "tags": champ_info.tags,
             "contact": champ_info.contact,
