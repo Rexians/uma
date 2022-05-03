@@ -30,10 +30,10 @@ class NewChampsDB:
         self.challenger_rating = None
         self.contact = None
         self.tags = None
+        self.find = None
         self.abilities = None
         self.released = None
         self.est_release = None
-        self.abilities = None
 
     def get_data(self, champid: str, tier: int, rank: int):
         if tier > 6:
@@ -90,6 +90,7 @@ class NewChampsDB:
                     self.challenger_rating = champ_dict['challenger_rating']
                     self.contact = data['contact']
                     self.tags = data['tags']
+                    self.find = data['data']['find']
                     self.abilities = champ_dict['abilities']
                 except KeyError:
                     self.error = f"{champid} doesnt support tier {tier} of rank {rank}"

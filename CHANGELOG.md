@@ -2,6 +2,11 @@
 
 ## v5
 
+### v5.2.1(5/3/2022)
+
+- Added find to route
+- Added May champs (Wong/Rintrah)
+
 ### v5.2.0(4/24/2022)
 
 - Update find route.
