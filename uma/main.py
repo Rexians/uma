@@ -45,7 +45,7 @@ def home():
     version = "5.2.1"
     home_dict = {
         "information": "Unofficial MCOC API, Abbreviated as UMA, Is a API developed for MCOC Players. It has various features including Champs Info, Champs Finder and many features are being developed like Roster and Masteries. Reach out to https://indorex.gitbook.io/uma-docs for Documentation.",
-        "documentation": "https://indorex.gitbook.io/uma-docs",
+        "documentation": "https://docs.rexians.tk/",
         "version": version,
     }
     return home_dict
