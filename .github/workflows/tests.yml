@@ -26,5 +26,9 @@ jobs:
       - uses: actions/checkout@v3
 
       # Runs a single command using the runners shell
-      - name: Run unit tests
+      - name: Run champ info unit tests
         run: python -m unittest uma/api/tests/test_champ_info.py
+      - name: Run nodes unit tests
+        run: python -m unittest uma/api/tests/test_nodes.py
+      - name: Run war nodes unit tests
+        run: python -m unittest uma/api/tests/test_war.py
