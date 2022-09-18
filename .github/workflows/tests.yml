@@ -27,4 +27,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run unit tests
-        run: python -m unittest uma/uma/api/tests/test_champ_info.py
+        run: python -m unittest uma/api/tests/test_champ_info.py
