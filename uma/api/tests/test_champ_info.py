@@ -7,7 +7,7 @@ class TestChampSInfo(unittest.TestCase):
         """
         Test case for random champion at tier 1 and rank 2
         """
-        URL = "http://127.0.0.1:8000/champs/?champ=doctordoom&tier=1&rank=2"
+        URL = "https://mcoc-uma.herokuapp.com/champs/?champ=doctordoom&tier=1&rank=2"
         stats = requests.get(URL).json()
         self.assertEqual(stats['name'], 'DOCTOR DOOM')
         self.assertEqual(stats['class'], 'Mystic')
@@ -25,14 +25,14 @@ class TestChampSInfo(unittest.TestCase):
         self.assertEqual(stats['crit_resist'], 862)
         self.assertEqual(stats['sig_info'], None)
         self.assertEqual(stats['url_page'], 'https://auntm.ai/champions/doctordoom/tier/1')
-        self.assertEqual(stats['img_portrait'], 'https://mcoc.rexians.tk/assets/potraits/doctordoom.png')
+        self.assertEqual(stats['img_portrait'], 'https://mcoc.rexians.tk/assets/portraits/doctordoom.png')
         self.assertEqual(stats['champid'], 'doctordoom+1+2')
 
     def test_tier_two(self):
         """
         Test case for random champion at tier 2 and rank 3
         """
-        URL = "http://127.0.0.1:8000/champs/?champ=imiw&tier=2&rank=3"
+        URL = "https://mcoc-uma.herokuapp.com/champs/?champ=imiw&tier=2&rank=3"
         stats = requests.get(URL).json()
         self.assertEqual(stats['name'], 'IRON MAN (INFINITY WAR)')
         self.assertEqual(stats['class'], 'Tech')
@@ -51,14 +51,14 @@ class TestChampSInfo(unittest.TestCase):
         self.assertEqual(stats['sig_info'], [r"Once per fight, Iron Man’s Model 50 suit executes an emergency protocol if attacked while 15% Health or less remains, creating a hardened exterior by instantly granting 1.07 to 8.01 stack(s) of Molecular Armor.",
                                              r"While 15% Health or less remains and Iron Man is under the effects of an Armor effect, the suit generates 3.63 to 6.6% Power per second and has a 100% chance to Auto-Block attacks without consuming Armor. This Auto-Block triggers Parry."])
         self.assertEqual(stats['url_page'], 'https://auntm.ai/champions/ironman_movie/tier/2')
-        self.assertEqual(stats['img_portrait'], 'https://mcoc.rexians.tk/assets/potraits/ironman_movie.png')
+        self.assertEqual(stats['img_portrait'], 'https://mcoc.rexians.tk/assets/portraits/ironman_movie.png')
         self.assertEqual(stats['champid'], 'ironman_movie+2+3')
 
     def test_tier_three(self):
         """
         Test case for random champion at tier 3 and rank 4
         """
-        URL = "http://127.0.0.1:8000/champs/?champ=unstoppablecolossus&tier=3&rank=4"
+        URL = "https://mcoc-uma.herokuapp.com/champs/?champ=unstoppablecolossus&tier=3&rank=4"
         stats = requests.get(URL).json()
         self.assertEqual(stats['name'], 'UNSTOPPABLE COLOSSUS')
         self.assertEqual(stats['class'], 'Mystic')
@@ -76,14 +76,14 @@ class TestChampSInfo(unittest.TestCase):
         self.assertEqual(stats['crit_resist'], 0)
         self.assertEqual(stats['sig_info'], 'Whenever Colossus starts the fight or launches a Special Attack, he calls upon the power of Cyttorak, becoming Unstoppable and shrugging off all enemy attacks for 2 to 4 seconds.')
         self.assertEqual(stats['url_page'], 'https://auntm.ai/champions/colossus_unstoppable/tier/3')
-        self.assertEqual(stats['img_portrait'], 'https://mcoc.rexians.tk/assets/potraits/colossus_unstoppable.png')
+        self.assertEqual(stats['img_portrait'], 'https://mcoc.rexians.tk/assets/portraits/colossus_unstoppable.png')
         self.assertEqual(stats['champid'], 'colossus_unstoppable+3+4')
 
     def test_tier_four(self):
         """
         Test case for random champion at tier 4 and rank 5
         """
-        URL = "http://127.0.0.1:8000/champs/?champ=spiderman_stealth&tier=4&rank=5"
+        URL = "https://mcoc-uma.herokuapp.com/champs/?champ=spiderman_stealth&tier=4&rank=5"
         stats = requests.get(URL).json()
         self.assertEqual(stats['name'], 'SPIDER-MAN (STEALTH SUIT)')
         self.assertEqual(stats['class'], 'Skill')
@@ -101,14 +101,14 @@ class TestChampSInfo(unittest.TestCase):
         self.assertEqual(stats['crit_resist'], 0)
         self.assertEqual(stats['sig_info'], "Increases the Potency of Fury Passives by 10 to 30%.")
         self.assertEqual(stats['url_page'], 'https://auntm.ai/champions/spiderman_stealth/tier/4')
-        self.assertEqual(stats['img_portrait'], 'https://mcoc.rexians.tk/assets/potraits/spiderman_stealth.png')
+        self.assertEqual(stats['img_portrait'], 'https://mcoc.rexians.tk/assets/portraits/spiderman_stealth.png')
         self.assertEqual(stats['champid'], 'spiderman_stealth+4+5')
 
     def test_tier_five(self):
         """
         Test case for random champion at tier 5 and rank 1
         """
-        URL = "http://127.0.0.1:8000/champs/?champ=doc_ock&tier=5&rank=1"
+        URL = "https://mcoc-uma.herokuapp.com/champs/?champ=doc_ock&tier=5&rank=1"
         stats = requests.get(URL).json()
         self.assertEqual(stats['name'], 'DOCTOR OCTOPUS')
         self.assertEqual(stats['class'], 'Tech')
@@ -129,14 +129,14 @@ class TestChampSInfo(unittest.TestCase):
                                              r"Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15.71 to 25% of the Damage done.",
                                              r"Biology: Gain the standard Biology Breakthrough Armor Up and 361.9 to 781.42 Armor Penetration while it's active."])
         self.assertEqual(stats['url_page'], 'https://auntm.ai/champions/doc_ock/tier/5')
-        self.assertEqual(stats['img_portrait'], 'https://mcoc.rexians.tk/assets/potraits/doc_ock.png')
+        self.assertEqual(stats['img_portrait'], 'https://mcoc.rexians.tk/assets/portraits/doc_ock.png')
         self.assertEqual(stats['champid'], 'doc_ock+5+1')
 
     def test_tier_six(self):
         """
         Test case for random champion at tier 6 and rank 4
         """
-        URL = "http://127.0.0.1:8000/champs/?champ=lukecage&tier=6&rank=4"
+        URL = "https://mcoc-uma.herokuapp.com/champs/?champ=lukecage&tier=6&rank=4"
         stats = requests.get(URL).json()
         self.assertEqual(stats['name'], 'LUKE CAGE')
         self.assertEqual(stats['class'], 'Science')
@@ -155,7 +155,7 @@ class TestChampSInfo(unittest.TestCase):
         self.assertEqual(stats['sig_info'], [r"Bullet-proof skin allows Luke Cage to become Indestructible and ignore all incoming damage for 1.7 to 3.7 seconds.",
                                              r"This ability can be activated again after a 44.97 to 25 second cooldown."])
         self.assertEqual(stats['url_page'], 'https://auntm.ai/champions/lukecage/tier/6')
-        self.assertEqual(stats['img_portrait'], 'https://mcoc.rexians.tk/assets/potraits/luke_cage.png')
+        self.assertEqual(stats['img_portrait'], 'https://mcoc.rexians.tk/assets/portraits/luke_cage.png')
         self.assertEqual(stats['champid'], 'lukecage+6+4')
 
 if __name__ == "__main__":

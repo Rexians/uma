@@ -8,7 +8,7 @@ class TestWar(unittest.TestCase):
         Test Expert difficulty (Tier 2)
         """
 
-        URL = "http://127.0.0.1:8000/war/2"
+        URL = "https://mcoc-uma.herokuapp.com/war/2"
 
         war_info = requests.get(URL).json()
         self.assertEqual(war_info['tier'], 2)
@@ -22,7 +22,7 @@ class TestWar(unittest.TestCase):
         Test Challenger difficulty (Tier 4)
         """
 
-        URL = "http://127.0.0.1:8000/war/4"
+        URL = "https://mcoc-uma.herokuapp.com/war/4"
 
         war_info = requests.get(URL).json()
         self.assertEqual(war_info['tier'], 4)
@@ -36,7 +36,7 @@ class TestWar(unittest.TestCase):
         Test Hard difficulty (Tier 2)
         """
 
-        URL = "http://127.0.0.1:8000/war/8"
+        URL = "https://mcoc-uma.herokuapp.com/war/8"
 
         war_info = requests.get(URL).json()
         self.assertEqual(war_info['tier'], 8)
@@ -50,7 +50,7 @@ class TestWar(unittest.TestCase):
         Test Intermediate difficulty (Tier 10)
         """
 
-        URL = "http://127.0.0.1:8000/war/10"
+        URL = "https://mcoc-uma.herokuapp.com/war/10"
 
         war_info = requests.get(URL).json()
         self.assertEqual(war_info['tier'], 10)
@@ -64,7 +64,7 @@ class TestWar(unittest.TestCase):
         Test Normal difficulty (Tier 15)
         """
 
-        URL = "http://127.0.0.1:8000/war/15"
+        URL = "https://mcoc-uma.herokuapp.com/war/15"
 
         war_info = requests.get(URL).json()
         self.assertEqual(war_info['tier'], 15)
@@ -78,7 +78,7 @@ class TestWar(unittest.TestCase):
         Test Easy difficulty (Tier 21)
         """
 
-        URL = "http://127.0.0.1:8000/war/21"
+        URL = "https://mcoc-uma.herokuapp.com/war/21"
 
         war_info = requests.get(URL).json()
         self.assertEqual(war_info['tier'], 21)
