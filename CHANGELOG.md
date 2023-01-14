@@ -2,6 +2,10 @@
 
 ## v5
 
+### v5.2.2(5/3/2022)
+
+- Updated API with new champs(v35.1 to latest)
+
 ### v5.2.1(5/3/2022)
 
 - Added find to route

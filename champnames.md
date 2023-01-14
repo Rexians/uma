@@ -3,7 +3,8 @@
 | Champs                      | `champnames`        |
 | --------------------------- | ------------------- |
 | ABOMINATION                 | abomination         |
-| IMMORTAL ABOMINATION        | ibom                |
+| ABOMINATION (IMMORTAL)      | ibom                |
+| ABSORBING MAN               | absorbingman        |
 | AEGON                       | aegon               |
 | AGENT VENOM                 | agentvenom          |
 | AIR WALKER                  | airwalker           |
@@ -14,6 +15,8 @@
 | ANTI VENOM                  | antivenom           |
 | APOCALYPSE                  | apocalypse          |
 | ARCHANGEL                   | archangel           |
+| ATTUMA                      | attuma              |
+| BARON ZEMO                  | baronzemo           |
 | BEAST                       | beast               |
 | BISHOP                      | bishop              |
 | BLACK BOLT                  | blackbolt           |
@@ -61,11 +64,13 @@
 | ELSA BLOODSTONE             | elsabloodstone      |
 | EMMA FROST                  | emmafrost           |
 | FALCON                      | falcon              |
+| GALAN                       | galan               |
 | GAMBIT                      | gambit              |
 | GAMORA                      | gamora              |
 | GHOST                       | ghost               |
 | GHOST RIDER                 | ghostrider          |
 | GOLDPOOL                    | goldpool            |
+| GORR                        | gorr                |
 | GREEN GOBLIN                | greengoblin         |
 | GROOT                       | groot               |
 | GUARDIAN                    | guardian            |
@@ -83,6 +88,7 @@
 | IMMORTAL HULK               | hulk_immortal       |
 | HULK RAGNAROK               | hulk_ragnarok       |
 | HULKBUSTER                  | hulkbuster_movie    |
+| HULKLING                    | hulkling            |
 | HUMAN TORCH                 | humantorch          |
 | HYPERION                    | hyperion            |
 | ICEMAN                      | iceman              |
@@ -91,9 +97,11 @@
 | IRON FIST                   | ironfist            |
 | IRON FIST IMMORTAL          | ironfistimmortal    |
 | IRON MAN OG                 | ironman             |
+| INFAMOUS IRON MAN           | infamousironman     |
 | IRON MAN INFINITY WAR       | imiw                |
 | IRON PATRIOT                | ironpatriot         |
 | JABARI PANTHER              | jabaripanther       |
+| JESSICA JONES               | jessicajones        |
 | JOE FIXIT                   | joefixit            |
 | JUBILEE                     | jubilee             |
 | JUGGERNAUT                  | juggernaut          |
@@ -115,6 +123,7 @@
 | MAGNETO (HOUSE OF X)        | magnetowhite        |
 | MAN-THING                   | manthing            |
 | MANGOG                      | mangog              |
+| MANTIS                      | mantis              |
 | MASACRE                     | masacre             |
 | MEDUSA                      | medusa              |
 | MEPHISTO                    | mephisto            |
@@ -152,6 +161,7 @@
 | PUNISHER 2099               | punisher2099        |
 | PURGATORY                   | purgatory           |
 | QUAKE                       | quake               |
+| QUICKSILVER                 | quicksilver         |
 | RED GOBLIN                  | red_goblin          |
 | RED GUARDIAN                | redguardian         |
 | RED HULK                    | hulk_red            |
@@ -171,6 +181,7 @@
 | SERSI                       | sersi               |
 | SHANG CHI                   | shangchi            |
 | SHE-HULK                    | shehulk             |
+| SHURI                       | shuri               |
 | SIVER CENTURION             | silvercenturion     |
 | SILVER SURFER               | silversurfer        |
 | SORCERER SUPREME            | sorcerersupreme     |
@@ -180,8 +191,10 @@
 | SPIDER MAN MILES MORALES    | spidermorales       |
 | SPIDER MAN STARK ENHANCED   | starkspiderman      |
 | SPIDER MAN STEALTH          | spiderstealth       |
+| SPIDER-MAN (SUPREME)        | spidermansupreme    |
 | SPIDER MAN SYMBIOTE         | spidersymbiote      |
 | SPIDER MAN 2099             | spiderman2099       |
+| SPOT                        | spot                |
 | SQUIRREL GIRL               | squirrelgirl        |
 | STAR LORD                   | starlord            |
 | STORM                       | storm               |
@@ -202,11 +215,13 @@
 | THOR JANE FOSTER            | janefoster          |
 | THOR RAGNAROK               | thorragnarok        |
 | TIGRA                       | tigra               |
+| TITANIA                     | titania             |
 | TOAD                        | toad                |
 | SAURON                      | sauron              |
 | ULTRON(LOL)                 | ultronlol           |
 | ULTRON                      | ultron              |
 | UNSTOPPABLE COLOSSUS        | unstoppablecolossus |
+| VALKYRIE                    | valkyrie            |
 | VENOM                       | venom               |
 | VENOM THE DUCK              | venomtheduck        |
 | VENOMPOOL                   | venompool           |
@@ -218,6 +233,7 @@
 | WAR MACHINE                 | warmachine          |
 | WARLOCK                     | warlock             |
 | WASP                        | wasp                |
+| WICCAN                      | wiccan              |
 | WINTER SOLDIER              | wintersoldier       |
 | WOLVERINE                   | wolverine           |
 | WOLVERINE WEAPON-X          | wolverinex          |

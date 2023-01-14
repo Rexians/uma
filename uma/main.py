@@ -42,9 +42,9 @@ def home():
     """
     Home Page to get Information, and version
     """
-    version = "5.2.1"
+    version = "5.2.2"
     home_dict = {
-        "information": "Unofficial MCOC API, Abbreviated as UMA, Is a API developed for MCOC Players. It has various features including Champs Info, Champs Finder and many features are being developed like Roster and Masteries. Reach out to https://indorex.gitbook.io/uma-docs for Documentation.",
+        "information": "Unofficial MCOC API, Abbreviated as UMA, Is a API developed for MCOC Players. It has various features including Champs Info, Champs Finder and many features are being developed like Roster and Masteries. Reach out to https://docs.rexians.tk/ for Documentation.",
         "documentation": "https://docs.rexians.tk/",
         "version": version,
     }

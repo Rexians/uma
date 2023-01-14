@@ -54,7 +54,10 @@ def champurl_getter(champ):
         "cgr": "ghostrider_cosmic",
         "docock": "doc_ock",
         "greengoblin": "green_goblin",
-        "howard": "howardmech"
+        "howard": "howardmech",
+        "jessicajones":"jessicajones_current",
+        "spidermansupreme":"spiderman_supreme",
+        "infamousironman":"ironman_infamous",
     }
 
     try:
