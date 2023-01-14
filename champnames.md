@@ -167,6 +167,7 @@
 | RED HULK                    | hulk_red            |
 | RED SKULL                   | redskull            |
 | RHINO                       | rhino               |
+| RHINTRAH                    | rhintrah            |
 | ROCKET                      | rocket              |
 | ROGUE                       | rogue               |
 | RONAN                       | ronan               |
@@ -237,6 +238,7 @@
 | WINTER SOLDIER              | wintersoldier       |
 | WOLVERINE                   | wolverine           |
 | WOLVERINE WEAPON-X          | wolverinex          |
+| WONG                        | wong                |
 | X-23                        | x23                 |
 | YELLOW JACKET               | yellowjacket        |
 | YONDU                       | yondu               |
