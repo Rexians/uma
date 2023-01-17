@@ -9,9 +9,9 @@ def get_battlegrounds_info(season):
     """
     Get information of battlegrounds based on season
     """
-    print(type(season))
-    battlegrounds = Battlegrounds() 
-    battlegrounds.read_battleground_data(int(season))
+
+    battlegrounds = Battlegrounds()
+    battlegrounds.read_battleground_data(season)
     if battlegrounds.error == None:
         battlegrounds_dict = {
             "start": battlegrounds.start,
