@@ -14,6 +14,7 @@ app.include_router(roster.router)
 app.include_router(nodes.router)
 app.include_router(war.router)
 app.include_router(find.router)
+app.include_router(battlegrounds.router)
 
 app.add_middleware(
     CORSMiddleware,
