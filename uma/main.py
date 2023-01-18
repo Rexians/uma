@@ -1,14 +1,14 @@
+import os
+
+from api.routes import champ_info, find, nodes, roster, war
 from fastapi import FastAPI
 from fastapi.exceptions import RequestValidationError
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
-from api.routes import champ_info, roster, nodes, war, find, battlegrounds
-
-# from pydantic import BaseModel
-from dotenv import load_dotenv
-import os
+from fastapi.staticfiles import StaticFiles
 
 app = FastAPI()
+app.mount("/assets/portraits", StaticFiles(directory="files/portraits"), name="static")
 app.include_router(champ_info.router)
 app.include_router(roster.router)
 app.include_router(nodes.router)
