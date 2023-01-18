@@ -1,6 +1,6 @@
 import os
 
-from api.routes import champ_info, find, nodes, roster, war
+from api.routes import champ_info, find, nodes, roster, war, battlegrounds
 from fastapi import FastAPI
 from fastapi.exceptions import RequestValidationError
 from fastapi.middleware.cors import CORSMiddleware
