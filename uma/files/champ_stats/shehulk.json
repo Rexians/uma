@@ -1,1224 +1,1304 @@
 {
-    "name": "SHE-HULK",
-    "class": "Science",
-    "img_portrait": "https://api.rexians.tk/assets/portraits/shehulk.png",
-    "contact": "PHYSICAL",
-    "tags": [
-        "Hero",
-        "A-Force",
-        "Size: L"
-    ],
-    "released": "3/3/2016",
-    "champid": "shehulk",
-    "data": {
-        "2+1": {
-            "rank": 1,
-            "prestige": "258",
-            "hp": "1241",
-            "attack": "91",
-            "crit_rate": "305",
-            "crit_dmge": "506",
-            "armor": "178",
-            "block_prof": "2400",
-            "energy_resist": "0",
-            "physical_resist": "178",
-            "crit_resist": "0",
-            "sig_info": [
-                "Tireless research grants a benefit based on the opponent\u2019s Class.",
-                "Science: 30 to 65% chance with each hit landed to Purify a Debuff.",
-                "Mystic: +13.65 to 45.5 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 20% less Power.",
-                "Cosmic: +6.37 to 13.65 Attack Rating for each Buff the opponent has.",
-                "Tech: Opponent suffers -15 to 55% Armor Up effect duration & Potency.",
-                "Mutant: Opponent suffers -20 to 50% Ability Accuracy during Special Attacks."
-            ],
-            "url_page": "https://auntm.ai/champions/shehulk/tier/2",
-            "champid": "shehulk+2+1",
-            "challenger_rating": 20,
-            "abilities": {
-                "INDUCE PANIC": [
-                    "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
-                ],
-                "PASSIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "WHEN ATTACKED & WHEN ATTACKING": [
-                    "11% chance to gain a Passive Fury effect, increasing attack by 31.85 for 8 seconds."
-                ],
-                "OPPONENT ACTIVATES A SPECIAL ATTACK": [
-                    "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
-                ],
-                "HEAVY ATTACKS": [
-                    "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 63.7 for 8 seconds.",
-                    "Causes a Slow Debuff on the opponent for 12 seconds."
-                ],
-                "ALWAYS ACTIVE": [
-                    "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain a Passive Fury effect, increasing attack by 31.85 for 8 seconds.",
-                    "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 61.54 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to Stun for 3.50 second(s).",
-                    "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
-                ]
-            }
-        },
-        "2+2": {
-            "rank": 2,
-            "prestige": "336",
-            "hp": "1639",
-            "attack": "120",
-            "crit_rate": "315",
-            "crit_dmge": "522",
-            "armor": "204",
-            "block_prof": "2475",
-            "energy_resist": "0",
-            "physical_resist": "184",
-            "crit_resist": "0",
-            "sig_info": [
-                "Tireless research grants a benefit based on the opponent\u2019s Class.",
-                "Science: 30 to 65% chance with each hit landed to Purify a Debuff.",
-                "Mystic: +18 to 60 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 20% less Power.",
-                "Cosmic: +8.4 to 18 Attack Rating for each Buff the opponent has.",
-                "Tech: Opponent suffers -15 to 55% Armor Up effect duration & Potency.",
-                "Mutant: Opponent suffers -20 to 50% Ability Accuracy during Special Attacks."
-            ],
-            "url_page": "https://auntm.ai/champions/shehulk/tier/2",
-            "champid": "shehulk+2+2",
-            "challenger_rating": 30,
-            "abilities": {
-                "INDUCE PANIC": [
-                    "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
-                ],
-                "PASSIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "WHEN ATTACKED & WHEN ATTACKING": [
-                    "11% chance to gain a Passive Fury effect, increasing attack by 42 for 8 seconds."
-                ],
-                "OPPONENT ACTIVATES A SPECIAL ATTACK": [
-                    "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
-                ],
-                "HEAVY ATTACKS": [
-                    "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 84 for 8 seconds.",
-                    "Causes a Slow Debuff on the opponent for 12 seconds."
-                ],
-                "ALWAYS ACTIVE": [
-                    "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain a Passive Fury effect, increasing attack by 42 for 8 seconds.",
-                    "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 63.46 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to Stun for 3.50 second(s).",
-                    "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
-                ]
-            }
-        },
-        "2+3": {
-            "rank": 3,
-            "prestige": "533",
-            "hp": "2601",
-            "attack": "190",
-            "crit_rate": "324",
-            "crit_dmge": "537",
-            "armor": "232",
-            "block_prof": "2550",
-            "energy_resist": "0",
-            "physical_resist": "189",
-            "crit_resist": "0",
-            "sig_info": [
-                "Tireless research grants a benefit based on the opponent\u2019s Class.",
-                "Science: 30 to 65% chance with each hit landed to Purify a Debuff.",
-                "Mystic: +28.5 to 95 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 20% less Power.",
-                "Cosmic: +13.3 to 28.5 Attack Rating for each Buff the opponent has.",
-                "Tech: Opponent suffers -15 to 55% Armor Up effect duration & Potency.",
-                "Mutant: Opponent suffers -20 to 50% Ability Accuracy during Special Attacks."
-            ],
-            "url_page": "https://auntm.ai/champions/shehulk/tier/2",
-            "champid": "shehulk+2+3",
-            "challenger_rating": 40,
-            "abilities": {
-                "INDUCE PANIC": [
-                    "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
-                ],
-                "PASSIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "WHEN ATTACKED & WHEN ATTACKING": [
-                    "11% chance to gain a Passive Fury effect, increasing attack by 66.5 for 8 seconds."
-                ],
-                "OPPONENT ACTIVATES A SPECIAL ATTACK": [
-                    "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
-                ],
-                "HEAVY ATTACKS": [
-                    "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 133 for 8 seconds.",
-                    "Causes a Slow Debuff on the opponent for 12 seconds."
-                ],
-                "ALWAYS ACTIVE": [
-                    "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain a Passive Fury effect, increasing attack by 66.5 for 8 seconds.",
-                    "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 65.38 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to Stun for 3.50 second(s).",
-                    "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
-                ]
-            }
-        },
-        "3+1": {
-            "rank": 1,
-            "prestige": "460",
-            "hp": "2249",
-            "attack": "164",
-            "crit_rate": "324",
-            "crit_dmge": "537",
-            "armor": "189",
-            "block_prof": "2550",
-            "energy_resist": "0",
-            "physical_resist": "189",
-            "crit_resist": "0",
-            "sig_info": [
-                "Tireless research grants a benefit based on the opponent\u2019s Class.",
-                "Science: 30 to 65% chance with each hit landed to Purify a Debuff.",
-                "Mystic: +24.6 to 82 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 20% less Power.",
-                "Cosmic: +11.48 to 24.6 Attack Rating for each Buff the opponent has.",
-                "Tech: Opponent suffers -15 to 55% Armor Up effect duration & Potency.",
-                "Mutant: Opponent suffers -20 to 50% Ability Accuracy during Special Attacks."
-            ],
-            "url_page": "https://auntm.ai/champions/shehulk/tier/3",
-            "champid": "shehulk+3+1",
-            "challenger_rating": 40,
-            "abilities": {
-                "INDUCE PANIC": [
-                    "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
-                ],
-                "PASSIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "WHEN ATTACKED & WHEN ATTACKING": [
-                    "11% chance to gain a Passive Fury effect, increasing attack by 57.4 for 8 seconds."
-                ],
-                "OPPONENT ACTIVATES A SPECIAL ATTACK": [
-                    "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
-                ],
-                "HEAVY ATTACKS": [
-                    "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 114.8 for 8 seconds.",
-                    "Causes a Slow Debuff on the opponent for 12 seconds."
-                ],
-                "ALWAYS ACTIVE": [
-                    "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain a Passive Fury effect, increasing attack by 57.4 for 8 seconds.",
-                    "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 65.38 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to Stun for 3.50 second(s).",
-                    "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
-                ]
-            }
-        },
-        "3+2": {
-            "rank": 2,
-            "prestige": "734",
-            "hp": "3598",
-            "attack": "262",
-            "crit_rate": "334",
-            "crit_dmge": "553",
-            "armor": "217",
-            "block_prof": "2625",
-            "energy_resist": "0",
-            "physical_resist": "195",
-            "crit_resist": "0",
-            "sig_info": [
-                "Tireless research grants a benefit based on the opponent\u2019s Class.",
-                "Science: 30 to 65% chance with each hit landed to Purify a Debuff.",
-                "Mystic: +39.3 to 131 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 20% less Power.",
-                "Cosmic: +18.34 to 39.3 Attack Rating for each Buff the opponent has.",
-                "Tech: Opponent suffers -15 to 55% Armor Up effect duration & Potency.",
-                "Mutant: Opponent suffers -20 to 50% Ability Accuracy during Special Attacks."
-            ],
-            "url_page": "https://auntm.ai/champions/shehulk/tier/3",
-            "champid": "shehulk+3+2",
-            "challenger_rating": 50,
-            "abilities": {
-                "INDUCE PANIC": [
-                    "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
-                ],
-                "PASSIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "WHEN ATTACKED & WHEN ATTACKING": [
-                    "11% chance to gain a Passive Fury effect, increasing attack by 91.7 for 8 seconds."
-                ],
-                "OPPONENT ACTIVATES A SPECIAL ATTACK": [
-                    "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
-                ],
-                "HEAVY ATTACKS": [
-                    "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 183.4 for 8 seconds.",
-                    "Causes a Slow Debuff on the opponent for 12 seconds."
-                ],
-                "ALWAYS ACTIVE": [
-                    "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain a Passive Fury effect, increasing attack by 91.7 for 8 seconds.",
-                    "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 67.31 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to Stun for 3.50 second(s).",
-                    "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
-                ]
-            }
-        },
-        "3+3": {
-            "rank": 3,
-            "prestige": "1026",
-            "hp": "5034",
-            "attack": "366",
-            "crit_rate": "343",
-            "crit_dmge": "569",
-            "armor": "246",
-            "block_prof": "2700",
-            "energy_resist": "0",
-            "physical_resist": "200",
-            "crit_resist": "0",
-            "sig_info": [
-                "Tireless research grants a benefit based on the opponent\u2019s Class.",
-                "Science: 30 to 65% chance with each hit landed to Purify a Debuff.",
-                "Mystic: +54.9 to 183 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 20% less Power.",
-                "Cosmic: +25.62 to 54.9 Attack Rating for each Buff the opponent has.",
-                "Tech: Opponent suffers -15 to 55% Armor Up effect duration & Potency.",
-                "Mutant: Opponent suffers -20 to 50% Ability Accuracy during Special Attacks."
-            ],
-            "url_page": "https://auntm.ai/champions/shehulk/tier/3",
-            "champid": "shehulk+3+3",
-            "challenger_rating": 60,
-            "abilities": {
-                "INDUCE PANIC": [
-                    "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
-                ],
-                "PASSIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "WHEN ATTACKED & WHEN ATTACKING": [
-                    "11% chance to gain a Passive Fury effect, increasing attack by 128.1 for 8 seconds."
-                ],
-                "OPPONENT ACTIVATES A SPECIAL ATTACK": [
-                    "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
-                ],
-                "HEAVY ATTACKS": [
-                    "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 256.2 for 8 seconds.",
-                    "Causes a Slow Debuff on the opponent for 12 seconds."
-                ],
-                "ALWAYS ACTIVE": [
-                    "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain a Passive Fury effect, increasing attack by 128.1 for 8 seconds.",
-                    "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 69.23 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to Stun for 3.50 second(s).",
-                    "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
-                ]
-            }
-        },
-        "3+4": {
-            "rank": 4,
-            "prestige": "1407",
-            "hp": "6912",
-            "attack": "503",
-            "crit_rate": "353",
-            "crit_dmge": "585",
-            "armor": "277",
-            "block_prof": "2775",
-            "energy_resist": "0",
-            "physical_resist": "206",
-            "crit_resist": "0",
-            "sig_info": [
-                "Tireless research grants a benefit based on the opponent\u2019s Class.",
-                "Science: 30 to 65% chance with each hit landed to Purify a Debuff.",
-                "Mystic: +75.45 to 251.5 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 20% less Power.",
-                "Cosmic: +35.21 to 75.45 Attack Rating for each Buff the opponent has.",
-                "Tech: Opponent suffers -15 to 55% Armor Up effect duration & Potency.",
-                "Mutant: Opponent suffers -20 to 50% Ability Accuracy during Special Attacks."
-            ],
-            "url_page": "https://auntm.ai/champions/shehulk/tier/3",
-            "champid": "shehulk+3+4",
-            "challenger_rating": 70,
-            "abilities": {
-                "INDUCE PANIC": [
-                    "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
-                ],
-                "PASSIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "WHEN ATTACKED & WHEN ATTACKING": [
-                    "11% chance to gain a Passive Fury effect, increasing attack by 176.05 for 8 seconds."
-                ],
-                "OPPONENT ACTIVATES A SPECIAL ATTACK": [
-                    "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
-                ],
-                "HEAVY ATTACKS": [
-                    "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 352.1 for 8 seconds.",
-                    "Causes a Slow Debuff on the opponent for 12 seconds."
-                ],
-                "ALWAYS ACTIVE": [
-                    "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain a Passive Fury effect, increasing attack by 176.05 for 8 seconds.",
-                    "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 71.15 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to Stun for 3.50 second(s).",
-                    "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
-                ]
-            }
-        },
-        "4+1": {
-            "rank": 1,
-            "prestige": "1028",
-            "hp": "5030",
-            "attack": "366",
-            "crit_rate": "343",
-            "crit_dmge": "569",
-            "armor": "200",
-            "block_prof": "2700",
-            "energy_resist": "0",
-            "physical_resist": "200",
-            "crit_resist": "0",
-            "sig_info": [
-                "Tireless research grants a benefit based on the opponent\u2019s Class.",
-                "Science: 30 to 65% chance with each hit landed to Purify a Debuff.",
-                "Mystic: +54.9 to 183 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 20% less Power.",
-                "Cosmic: +25.62 to 54.9 Attack Rating for each Buff the opponent has.",
-                "Tech: Opponent suffers -15 to 55% Armor Up effect duration & Potency.",
-                "Mutant: Opponent suffers -20 to 50% Ability Accuracy during Special Attacks."
-            ],
-            "url_page": "https://auntm.ai/champions/shehulk/tier/4",
-            "champid": "shehulk+4+1",
-            "challenger_rating": 60,
-            "abilities": {
-                "INDUCE PANIC": [
-                    "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
-                ],
-                "PASSIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "WHEN ATTACKED & WHEN ATTACKING": [
-                    "11% chance to gain a Passive Fury effect, increasing attack by 128.1 for 8 seconds."
-                ],
-                "OPPONENT ACTIVATES A SPECIAL ATTACK": [
-                    "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
-                ],
-                "HEAVY ATTACKS": [
-                    "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 256.2 for 8 seconds.",
-                    "Causes a Slow Debuff on the opponent for 12 seconds."
-                ],
-                "ALWAYS ACTIVE": [
-                    "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain a Passive Fury effect, increasing attack by 128.1 for 8 seconds.",
-                    "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 69.23 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to Stun for 3.50 second(s).",
-                    "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
-                ]
-            }
-        },
-        "4+2": {
-            "rank": 2,
-            "prestige": "1438",
-            "hp": "7056",
-            "attack": "513",
-            "crit_rate": "353",
-            "crit_dmge": "585",
-            "armor": "229",
-            "block_prof": "2775",
-            "energy_resist": "0",
-            "physical_resist": "206",
-            "crit_resist": "0",
-            "sig_info": [
-                "Tireless research grants a benefit based on the opponent\u2019s Class.",
-                "Science: 30 to 65% chance with each hit landed to Purify a Debuff.",
-                "Mystic: +76.95 to 256.5 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 20% less Power.",
-                "Cosmic: +35.91 to 76.95 Attack Rating for each Buff the opponent has.",
-                "Tech: Opponent suffers -15 to 55% Armor Up effect duration & Potency.",
-                "Mutant: Opponent suffers -20 to 50% Ability Accuracy during Special Attacks."
-            ],
-            "url_page": "https://auntm.ai/champions/shehulk/tier/4",
-            "champid": "shehulk+4+2",
-            "challenger_rating": 70,
-            "abilities": {
-                "INDUCE PANIC": [
-                    "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
-                ],
-                "PASSIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "WHEN ATTACKED & WHEN ATTACKING": [
-                    "11% chance to gain a Passive Fury effect, increasing attack by 179.55 for 8 seconds."
-                ],
-                "OPPONENT ACTIVATES A SPECIAL ATTACK": [
-                    "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
-                ],
-                "HEAVY ATTACKS": [
-                    "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 359.1 for 8 seconds.",
-                    "Causes a Slow Debuff on the opponent for 12 seconds."
-                ],
-                "ALWAYS ACTIVE": [
-                    "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain a Passive Fury effect, increasing attack by 179.55 for 8 seconds.",
-                    "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 71.15 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to Stun for 3.50 second(s).",
-                    "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
-                ]
-            }
-        },
-        "4+3": {
-            "rank": 3,
-            "prestige": "2013",
-            "hp": "9886",
-            "attack": "719",
-            "crit_rate": "362",
-            "crit_dmge": "600",
-            "armor": "260",
-            "block_prof": "2850",
-            "energy_resist": "0",
-            "physical_resist": "212",
-            "crit_resist": "0",
-            "sig_info": [
-                "Tireless research grants a benefit based on the opponent\u2019s Class.",
-                "Science: 30 to 65% chance with each hit landed to Purify a Debuff.",
-                "Mystic: +107.85 to 359.5 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 20% less Power.",
-                "Cosmic: +50.33 to 107.85 Attack Rating for each Buff the opponent has.",
-                "Tech: Opponent suffers -15 to 55% Armor Up effect duration & Potency.",
-                "Mutant: Opponent suffers -20 to 50% Ability Accuracy during Special Attacks."
-            ],
-            "url_page": "https://auntm.ai/champions/shehulk/tier/4",
-            "champid": "shehulk+4+3",
-            "challenger_rating": 80,
-            "abilities": {
-                "INDUCE PANIC": [
-                    "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
-                ],
-                "PASSIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "WHEN ATTACKED & WHEN ATTACKING": [
-                    "11% chance to gain a Passive Fury effect, increasing attack by 251.65 for 8 seconds."
-                ],
-                "OPPONENT ACTIVATES A SPECIAL ATTACK": [
-                    "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
-                ],
-                "HEAVY ATTACKS": [
-                    "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 503.3 for 8 seconds.",
-                    "Causes a Slow Debuff on the opponent for 12 seconds."
-                ],
-                "ALWAYS ACTIVE": [
-                    "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain a Passive Fury effect, increasing attack by 251.65 for 8 seconds.",
-                    "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 73.08 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to Stun for 3.50 second(s).",
-                    "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
-                ]
-            }
-        },
-        "4+4": {
-            "rank": 4,
-            "prestige": "2650",
-            "hp": "12990",
-            "attack": "945",
-            "crit_rate": "372",
-            "crit_dmge": "616",
-            "armor": "292",
-            "block_prof": "2925",
-            "energy_resist": "0",
-            "physical_resist": "217",
-            "crit_resist": "0",
-            "sig_info": [
-                "Tireless research grants a benefit based on the opponent\u2019s Class.",
-                "Science: 30 to 65% chance with each hit landed to Purify a Debuff.",
-                "Mystic: +141.75 to 472.5 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 20% less Power.",
-                "Cosmic: +66.15 to 141.75 Attack Rating for each Buff the opponent has.",
-                "Tech: Opponent suffers -15 to 55% Armor Up effect duration & Potency.",
-                "Mutant: Opponent suffers -20 to 50% Ability Accuracy during Special Attacks."
-            ],
-            "url_page": "https://auntm.ai/champions/shehulk/tier/4",
-            "champid": "shehulk+4+4",
-            "challenger_rating": 90,
-            "abilities": {
-                "INDUCE PANIC": [
-                    "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
-                ],
-                "PASSIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "WHEN ATTACKED & WHEN ATTACKING": [
-                    "11% chance to gain a Passive Fury effect, increasing attack by 330.75 for 8 seconds."
-                ],
-                "OPPONENT ACTIVATES A SPECIAL ATTACK": [
-                    "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
-                ],
-                "HEAVY ATTACKS": [
-                    "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 661.5 for 8 seconds.",
-                    "Causes a Slow Debuff on the opponent for 12 seconds."
-                ],
-                "ALWAYS ACTIVE": [
-                    "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain a Passive Fury effect, increasing attack by 330.75 for 8 seconds.",
-                    "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 75 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to Stun for 3.50 second(s).",
-                    "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
-                ]
-            }
-        },
-        "4+5": {
-            "rank": 5,
-            "prestige": "3534",
-            "hp": "17332",
-            "attack": "1261",
-            "crit_rate": "381",
-            "crit_dmge": "632",
-            "armor": "326",
-            "block_prof": "3000",
-            "energy_resist": "0",
-            "physical_resist": "223",
-            "crit_resist": "0",
-            "sig_info": [
-                "Tireless research grants a benefit based on the opponent\u2019s Class.",
-                "Science: 30 to 65% chance with each hit landed to Purify a Debuff.",
-                "Mystic: +189.15 to 630.5 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 20% less Power.",
-                "Cosmic: +88.27 to 189.15 Attack Rating for each Buff the opponent has.",
-                "Tech: Opponent suffers -15 to 55% Armor Up effect duration & Potency.",
-                "Mutant: Opponent suffers -20 to 50% Ability Accuracy during Special Attacks."
-            ],
-            "url_page": "https://auntm.ai/champions/shehulk/tier/4",
-            "champid": "shehulk+4+5",
-            "challenger_rating": 100,
-            "abilities": {
-                "INDUCE PANIC": [
-                    "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
-                ],
-                "PASSIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "WHEN ATTACKED & WHEN ATTACKING": [
-                    "11% chance to gain a Passive Fury effect, increasing attack by 441.35 for 8 seconds."
-                ],
-                "OPPONENT ACTIVATES A SPECIAL ATTACK": [
-                    "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
-                ],
-                "HEAVY ATTACKS": [
-                    "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 882.7 for 8 seconds.",
-                    "Causes a Slow Debuff on the opponent for 12 seconds."
-                ],
-                "ALWAYS ACTIVE": [
-                    "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain a Passive Fury effect, increasing attack by 441.35 for 8 seconds.",
-                    "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 76.92 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to Stun for 3.50 second(s).",
-                    "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
-                ]
-            }
-        },
-        "5+1": {
-            "rank": 1,
-            "prestige": "2113",
-            "hp": "10343",
-            "attack": "752",
-            "crit_rate": "362",
-            "crit_dmge": "600",
-            "armor": "212",
-            "block_prof": "2850",
-            "energy_resist": "0",
-            "physical_resist": "212",
-            "crit_resist": "0",
-            "sig_info": [
-                "Tireless research grants a benefit based on the opponent\u2019s Class.",
-                "Science: 30 to 70% chance with each hit landed to Purify a Debuff.",
-                "Mystic: +112.8 to 413.6 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 25% less Power.",
-                "Cosmic: +52.64 to 127.84 Attack Rating for each Buff the opponent has.",
-                "Tech: Opponent suffers -15 to 60% Armor Up effect duration & Potency.",
-                "Mutant: Opponent suffers -20 to 55% Ability Accuracy during Special Attacks."
-            ],
-            "url_page": "https://auntm.ai/champions/shehulk/tier/5",
-            "champid": "shehulk+5+1",
-            "challenger_rating": 80,
-            "abilities": {
-                "INDUCE PANIC": [
-                    "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
-                ],
-                "PASSIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "WHEN ATTACKED & WHEN ATTACKING": [
-                    "11% chance to gain a Passive Fury effect, increasing attack by 263.2 for 8 seconds."
-                ],
-                "OPPONENT ACTIVATES A SPECIAL ATTACK": [
-                    "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
-                ],
-                "HEAVY ATTACKS": [
-                    "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 526.4 for 8 seconds.",
-                    "Causes a Slow Debuff on the opponent for 12 seconds."
-                ],
-                "ALWAYS ACTIVE": [
-                    "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain a Passive Fury effect, increasing attack by 263.2 for 8 seconds.",
-                    "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 73.08 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to Stun for 3.50 second(s).",
-                    "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
-                ]
-            }
-        },
-        "5+2": {
-            "rank": 2,
-            "prestige": "2793",
-            "hp": "13663",
-            "attack": "994",
-            "crit_rate": "372",
-            "crit_dmge": "616",
-            "armor": "242",
-            "block_prof": "2925",
-            "energy_resist": "0",
-            "physical_resist": "217",
-            "crit_resist": "0",
-            "sig_info": [
-                "Tireless research grants a benefit based on the opponent\u2019s Class.",
-                "Science: 30 to 70% chance with each hit landed to Purify a Debuff.",
-                "Mystic: +149.1 to 546.7 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 25% less Power.",
-                "Cosmic: +69.58 to 168.98 Attack Rating for each Buff the opponent has.",
-                "Tech: Opponent suffers -15 to 60% Armor Up effect duration & Potency.",
-                "Mutant: Opponent suffers -20 to 55% Ability Accuracy during Special Attacks."
-            ],
-            "url_page": "https://auntm.ai/champions/shehulk/tier/5",
-            "champid": "shehulk+5+2",
-            "challenger_rating": 90,
-            "abilities": {
-                "INDUCE PANIC": [
-                    "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
-                ],
-                "PASSIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "WHEN ATTACKED & WHEN ATTACKING": [
-                    "11% chance to gain a Passive Fury effect, increasing attack by 347.9 for 8 seconds."
-                ],
-                "OPPONENT ACTIVATES A SPECIAL ATTACK": [
-                    "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
-                ],
-                "HEAVY ATTACKS": [
-                    "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 695.8 for 8 seconds.",
-                    "Causes a Slow Debuff on the opponent for 12 seconds."
-                ],
-                "ALWAYS ACTIVE": [
-                    "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain a Passive Fury effect, increasing attack by 347.9 for 8 seconds.",
-                    "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 75 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to Stun for 3.50 second(s).",
-                    "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
-                ]
-            }
-        },
-        "5+3": {
-            "rank": 3,
-            "prestige": "3905",
-            "hp": "19101",
-            "attack": "1389",
-            "crit_rate": "381",
-            "crit_dmge": "632",
-            "armor": "273",
-            "block_prof": "3000",
-            "energy_resist": "0",
-            "physical_resist": "223",
-            "crit_resist": "0",
-            "sig_info": [
-                "Tireless research grants a benefit based on the opponent\u2019s Class.",
-                "Science: 30 to 70% chance with each hit landed to Purify a Debuff.",
-                "Mystic: +208.35 to 763.95 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 25% less Power.",
-                "Cosmic: +97.23 to 236.13 Attack Rating for each Buff the opponent has.",
-                "Tech: Opponent suffers -15 to 60% Armor Up effect duration & Potency.",
-                "Mutant: Opponent suffers -20 to 55% Ability Accuracy during Special Attacks."
-            ],
-            "url_page": "https://auntm.ai/champions/shehulk/tier/5",
-            "champid": "shehulk+5+3",
-            "challenger_rating": 100,
-            "abilities": {
-                "INDUCE PANIC": [
-                    "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
-                ],
-                "PASSIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "WHEN ATTACKED & WHEN ATTACKING": [
-                    "11% chance to gain a Passive Fury effect, increasing attack by 486.15 for 8 seconds."
-                ],
-                "OPPONENT ACTIVATES A SPECIAL ATTACK": [
-                    "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
-                ],
-                "HEAVY ATTACKS": [
-                    "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 972.3 for 8 seconds.",
-                    "Causes a Slow Debuff on the opponent for 12 seconds."
-                ],
-                "ALWAYS ACTIVE": [
-                    "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain a Passive Fury effect, increasing attack by 486.15 for 8 seconds.",
-                    "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 76.92 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to Stun for 3.50 second(s).",
-                    "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
-                ]
-            }
-        },
-        "5+4": {
-            "rank": 4,
-            "prestige": "5262",
-            "hp": "25739",
-            "attack": "1872",
-            "crit_rate": "391",
-            "crit_dmge": "648",
-            "armor": "307",
-            "block_prof": "3075",
-            "energy_resist": "0",
-            "physical_resist": "228",
-            "crit_resist": "0",
-            "sig_info": [
-                "Tireless research grants a benefit based on the opponent\u2019s Class.",
-                "Science: 30 to 70% chance with each hit landed to Purify a Debuff.",
-                "Mystic: +280.8 to 1029.61 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 25% less Power.",
-                "Cosmic: +131.04 to 318.24 Attack Rating for each Buff the opponent has.",
-                "Tech: Opponent suffers -15 to 60% Armor Up effect duration & Potency.",
-                "Mutant: Opponent suffers -20 to 55% Ability Accuracy during Special Attacks."
-            ],
-            "url_page": "https://auntm.ai/champions/shehulk/tier/5",
-            "champid": "shehulk+5+4",
-            "challenger_rating": 110,
-            "abilities": {
-                "INDUCE PANIC": [
-                    "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
-                ],
-                "PASSIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "WHEN ATTACKED & WHEN ATTACKING": [
-                    "11% chance to gain a Passive Fury effect, increasing attack by 655.2 for 8 seconds."
-                ],
-                "OPPONENT ACTIVATES A SPECIAL ATTACK": [
-                    "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
-                ],
-                "HEAVY ATTACKS": [
-                    "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 1310.4 for 8 seconds.",
-                    "Causes a Slow Debuff on the opponent for 12 seconds."
-                ],
-                "ALWAYS ACTIVE": [
-                    "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain a Passive Fury effect, increasing attack by 655.2 for 8 seconds.",
-                    "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 78.85 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to Stun for 3.50 second(s).",
-                    "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
-                ]
-            }
-        },
-        "5+5": {
-            "rank": 5,
-            "prestige": "7116",
-            "hp": "34751",
-            "attack": "2527",
-            "crit_rate": "400",
-            "crit_dmge": "664",
-            "armor": "342",
-            "block_prof": "3150",
-            "energy_resist": "0",
-            "physical_resist": "234",
-            "crit_resist": "0",
-            "sig_info": [
-                "Tireless research grants a benefit based on the opponent\u2019s Class.",
-                "Science: 30 to 70% chance with each hit landed to Purify a Debuff.",
-                "Mystic: +379.05 to 1389.86 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 25% less Power.",
-                "Cosmic: +176.89 to 429.59 Attack Rating for each Buff the opponent has.",
-                "Tech: Opponent suffers -15 to 60% Armor Up effect duration & Potency.",
-                "Mutant: Opponent suffers -20 to 55% Ability Accuracy during Special Attacks."
-            ],
-            "url_page": "https://auntm.ai/champions/shehulk/tier/5",
-            "champid": "shehulk+5+5",
-            "challenger_rating": 120,
-            "abilities": {
-                "INDUCE PANIC": [
-                    "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
-                ],
-                "PASSIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "WHEN ATTACKED & WHEN ATTACKING": [
-                    "11% chance to gain a Passive Fury effect, increasing attack by 884.45 for 8 seconds."
-                ],
-                "OPPONENT ACTIVATES A SPECIAL ATTACK": [
-                    "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
-                ],
-                "HEAVY ATTACKS": [
-                    "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 1768.9 for 8 seconds.",
-                    "Causes a Slow Debuff on the opponent for 12 seconds."
-                ],
-                "ALWAYS ACTIVE": [
-                    "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain a Passive Fury effect, increasing attack by 884.45 for 8 seconds.",
-                    "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 80.77 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to Stun for 3.50 second(s).",
-                    "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
-                ]
-            }
-        },
-        "6+1": {
-            "rank": 1,
-            "prestige": "5578",
-            "hp": "27326",
-            "attack": "1987",
-            "crit_rate": "391",
-            "crit_dmge": "648",
-            "armor": "228",
-            "block_prof": "3075",
-            "energy_resist": "0",
-            "physical_resist": "228",
-            "crit_resist": "0",
-            "sig_info": [
-                "Tireless research grants a benefit based on the opponent\u2019s Class.",
-                "Science: 30 to 70% chance with each hit landed to Purify a Debuff.",
-                "Mystic: +298.05 to 1092.86 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 25% less Power.",
-                "Cosmic: +139.09 to 337.79 Attack Rating for each Buff the opponent has.",
-                "Tech: Opponent suffers -15 to 60% Armor Up effect duration & Potency.",
-                "Mutant: Opponent suffers -20 to 55% Ability Accuracy during Special Attacks."
-            ],
-            "url_page": "https://auntm.ai/champions/shehulk/tier/6",
-            "champid": "shehulk+6+1",
-            "challenger_rating": 110,
-            "abilities": {
-                "INDUCE PANIC": [
-                    "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
-                ],
-                "PASSIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "WHEN ATTACKED & WHEN ATTACKING": [
-                    "11% chance to gain a Passive Fury effect, increasing attack by 695.45 for 8 seconds."
-                ],
-                "OPPONENT ACTIVATES A SPECIAL ATTACK": [
-                    "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
-                ],
-                "HEAVY ATTACKS": [
-                    "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 1390.9 for 8 seconds.",
-                    "Causes a Slow Debuff on the opponent for 12 seconds."
-                ],
-                "ALWAYS ACTIVE": [
-                    "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain a Passive Fury effect, increasing attack by 695.45 for 8 seconds.",
-                    "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 78.85 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to Stun for 3.50 second(s).",
-                    "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
-                ]
-            }
-        },
-        "6+2": {
-            "rank": 2,
-            "prestige": "7701",
-            "hp": "37745",
-            "attack": "2745",
-            "crit_rate": "400",
-            "crit_dmge": "664",
-            "armor": "260",
-            "block_prof": "3150",
-            "energy_resist": "0",
-            "physical_resist": "234",
-            "crit_resist": "0",
-            "sig_info": [
-                "Tireless research grants a benefit based on the opponent\u2019s Class.",
-                "Science: 30 to 70% chance with each hit landed to Purify a Debuff.",
-                "Mystic: +411.75 to 1509.76 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 25% less Power.",
-                "Cosmic: +192.15 to 466.66 Attack Rating for each Buff the opponent has.",
-                "Tech: Opponent suffers -15 to 60% Armor Up effect duration & Potency.",
-                "Mutant: Opponent suffers -20 to 55% Ability Accuracy during Special Attacks."
-            ],
-            "url_page": "https://auntm.ai/champions/shehulk/tier/6",
-            "champid": "shehulk+6+2",
-            "challenger_rating": 120,
-            "abilities": {
-                "INDUCE PANIC": [
-                    "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
-                ],
-                "PASSIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "WHEN ATTACKED & WHEN ATTACKING": [
-                    "11% chance to gain a Passive Fury effect, increasing attack by 960.75 for 8 seconds."
-                ],
-                "OPPONENT ACTIVATES A SPECIAL ATTACK": [
-                    "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
-                ],
-                "HEAVY ATTACKS": [
-                    "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 1921.5 for 8 seconds.",
-                    "Causes a Slow Debuff on the opponent for 12 seconds."
-                ],
-                "ALWAYS ACTIVE": [
-                    "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain a Passive Fury effect, increasing attack by 960.75 for 8 seconds.",
-                    "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 80.77 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to Stun for 3.50 second(s).",
-                    "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
-                ]
-            }
-        },
-        "6+3": {
-            "rank": 3,
-            "prestige": "9153",
-            "hp": "44779",
-            "attack": "3256",
-            "crit_rate": "410",
-            "crit_dmge": "679",
-            "armor": "294",
-            "block_prof": "3225",
-            "energy_resist": "0",
-            "physical_resist": "239",
-            "crit_resist": "0",
-            "sig_info": [
-                "Tireless research grants a benefit based on the opponent\u2019s Class.",
-                "Science: 30 to 70% chance with each hit landed to Purify a Debuff.",
-                "Mystic: +488.4 to 1790.81 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 25% less Power.",
-                "Cosmic: +227.92 to 553.53 Attack Rating for each Buff the opponent has.",
-                "Tech: Opponent suffers -15 to 60% Armor Up effect duration & Potency.",
-                "Mutant: Opponent suffers -20 to 55% Ability Accuracy during Special Attacks."
-            ],
-            "url_page": "https://auntm.ai/champions/shehulk/tier/6",
-            "champid": "shehulk+6+3",
-            "challenger_rating": 130,
-            "abilities": {
-                "INDUCE PANIC": [
-                    "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
-                ],
-                "PASSIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "WHEN ATTACKED & WHEN ATTACKING": [
-                    "11% chance to gain a Passive Fury effect, increasing attack by 1139.6 for 8 seconds."
-                ],
-                "OPPONENT ACTIVATES A SPECIAL ATTACK": [
-                    "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
-                ],
-                "HEAVY ATTACKS": [
-                    "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 2279.2 for 8 seconds.",
-                    "Causes a Slow Debuff on the opponent for 12 seconds."
-                ],
-                "ALWAYS ACTIVE": [
-                    "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain a Passive Fury effect, increasing attack by 1139.6 for 8 seconds.",
-                    "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 82.69 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to Stun for 3.50 second(s).",
-                    "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
-                ]
-            }
-        },
-        "6+4": {
-            "rank": 4,
-            "prestige": "10471",
-            "hp": "51242",
-            "attack": "3726",
-            "crit_rate": "420",
-            "crit_dmge": "695",
-            "armor": "329",
-            "block_prof": "3300",
-            "energy_resist": "0",
-            "physical_resist": "245",
-            "crit_resist": "0",
-            "sig_info": [
-                "Tireless research grants a benefit based on the opponent\u2019s Class.",
-                "Science: 30 to 70% chance with each hit landed to Purify a Debuff.",
-                "Mystic: +558.9 to 2049.31 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 25% less Power.",
-                "Cosmic: +260.82 to 633.43 Attack Rating for each Buff the opponent has.",
-                "Tech: Opponent suffers -15 to 60% Armor Up effect duration & Potency.",
-                "Mutant: Opponent suffers -20 to 55% Ability Accuracy during Special Attacks."
-            ],
-            "url_page": "https://auntm.ai/champions/shehulk/tier/6",
-            "champid": "shehulk+6+4",
-            "challenger_rating": 140,
-            "abilities": {
-                "INDUCE PANIC": [
-                    "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
-                ],
-                "PASSIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "WHEN ATTACKED & WHEN ATTACKING": [
-                    "11% chance to gain a Passive Fury effect, increasing attack by 1304.1 for 8 seconds."
-                ],
-                "OPPONENT ACTIVATES A SPECIAL ATTACK": [
-                    "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
-                ],
-                "HEAVY ATTACKS": [
-                    "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 2608.2 for 8 seconds.",
-                    "Causes a Slow Debuff on the opponent for 12 seconds."
-                ],
-                "ALWAYS ACTIVE": [
-                    "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain a Passive Fury effect, increasing attack by 1304.1 for 8 seconds.",
-                    "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 84.62 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to Stun for 3.50 second(s).",
-                    "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
-                ]
-            }
-        },
-        "find": {
-            "story_quests": {
-                "act_1": [],
-                "act_2": [],
-                "act_3": [
-                    "3.1.3",
-                    "3.1.4"
-                ],
-                "act_4": [],
-                "act_5": [
-                    "5.1.5",
-                    "5.2.1",
-                    "5.2.3",
-                    "5.2.5",
-                    "5.3.2",
-                    "5.3.3",
-                    "5.3.5"
-                ],
-                "act_6": [
-                    "6.1.5",
-                    "6.2.1",
-                    "6.3.3",
-                    "6.3.6",
-                    "6.4.2"
-                ],
-                "act_7": [
-                    "7.1.3",
-                    "7.1.6",
-                    "7.3.1",
-                    "7.4.3"
-                ]
-            }
-        }
+  "champid": "shehulk",
+  "data": {
+    "2+1": {
+      "rank": 1,
+      "prestige": "258",
+      "hp": "1241",
+      "attack": "91",
+      "crit_rate": "305",
+      "crit_dmge": "506",
+      "armor": "178",
+      "block_prof": "2400",
+      "energy_resist": "0",
+      "physical_resist": "178",
+      "crit_resist": "0",
+      "sig_info": [
+        "Tireless research grants a benefit based on the opponent\u2019s Class.",
+        "Science: 30 to 65% chance with each hit landed to Purify a Debuff.",
+        "Mystic: +13.65 to 45.5 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 20% less Power.",
+        "Cosmic: +6.37 to 13.65 Attack Rating for each Buff the opponent has.",
+        "Tech: Opponent suffers -15 to 55% Armor Up effect duration & Potency.",
+        "Mutant: Opponent suffers -20 to 50% Ability Accuracy during Special Attacks."
+      ],
+      "url_page": "https://auntm.ai/champions/shehulk/tier/2",
+      "champid": "shehulk+2+1",
+      "challenger_rating": 20,
+      "abilities": {
+        "INDUCE PANIC": [
+          "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
+        ],
+        "PASSIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "WHEN ATTACKED & WHEN ATTACKING": [
+          "11% chance to gain a Passive Fury effect, increasing attack by 31.85 for 8 seconds."
+        ],
+        "OPPONENT ACTIVATES A SPECIAL ATTACK": [
+          "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
+        ],
+        "HEAVY ATTACKS": [
+          "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 63.7 for 8 seconds.",
+          "Causes a Slow Debuff on the opponent for 12 seconds."
+        ],
+        "ALWAYS ACTIVE": [
+          "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain a Passive Fury effect, increasing attack by 31.85 for 8 seconds.",
+          "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 61.54 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to Stun for 3.50 second(s).",
+          "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
+        ]
+      }
+    },
+    "2+2": {
+      "rank": 2,
+      "prestige": "336",
+      "hp": "1639",
+      "attack": "120",
+      "crit_rate": "315",
+      "crit_dmge": "522",
+      "armor": "204",
+      "block_prof": "2475",
+      "energy_resist": "0",
+      "physical_resist": "184",
+      "crit_resist": "0",
+      "sig_info": [
+        "Tireless research grants a benefit based on the opponent\u2019s Class.",
+        "Science: 30 to 65% chance with each hit landed to Purify a Debuff.",
+        "Mystic: +18 to 60 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 20% less Power.",
+        "Cosmic: +8.4 to 18 Attack Rating for each Buff the opponent has.",
+        "Tech: Opponent suffers -15 to 55% Armor Up effect duration & Potency.",
+        "Mutant: Opponent suffers -20 to 50% Ability Accuracy during Special Attacks."
+      ],
+      "url_page": "https://auntm.ai/champions/shehulk/tier/2",
+      "champid": "shehulk+2+2",
+      "challenger_rating": 30,
+      "abilities": {
+        "INDUCE PANIC": [
+          "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
+        ],
+        "PASSIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "WHEN ATTACKED & WHEN ATTACKING": [
+          "11% chance to gain a Passive Fury effect, increasing attack by 42 for 8 seconds."
+        ],
+        "OPPONENT ACTIVATES A SPECIAL ATTACK": [
+          "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
+        ],
+        "HEAVY ATTACKS": [
+          "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 84 for 8 seconds.",
+          "Causes a Slow Debuff on the opponent for 12 seconds."
+        ],
+        "ALWAYS ACTIVE": [
+          "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain a Passive Fury effect, increasing attack by 42 for 8 seconds.",
+          "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 63.46 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to Stun for 3.50 second(s).",
+          "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
+        ]
+      }
+    },
+    "2+3": {
+      "rank": 3,
+      "prestige": "533",
+      "hp": "2601",
+      "attack": "190",
+      "crit_rate": "324",
+      "crit_dmge": "537",
+      "armor": "232",
+      "block_prof": "2550",
+      "energy_resist": "0",
+      "physical_resist": "189",
+      "crit_resist": "0",
+      "sig_info": [
+        "Tireless research grants a benefit based on the opponent\u2019s Class.",
+        "Science: 30 to 65% chance with each hit landed to Purify a Debuff.",
+        "Mystic: +28.5 to 95 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 20% less Power.",
+        "Cosmic: +13.3 to 28.5 Attack Rating for each Buff the opponent has.",
+        "Tech: Opponent suffers -15 to 55% Armor Up effect duration & Potency.",
+        "Mutant: Opponent suffers -20 to 50% Ability Accuracy during Special Attacks."
+      ],
+      "url_page": "https://auntm.ai/champions/shehulk/tier/2",
+      "champid": "shehulk+2+3",
+      "challenger_rating": 40,
+      "abilities": {
+        "INDUCE PANIC": [
+          "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
+        ],
+        "PASSIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "WHEN ATTACKED & WHEN ATTACKING": [
+          "11% chance to gain a Passive Fury effect, increasing attack by 66.5 for 8 seconds."
+        ],
+        "OPPONENT ACTIVATES A SPECIAL ATTACK": [
+          "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
+        ],
+        "HEAVY ATTACKS": [
+          "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 133 for 8 seconds.",
+          "Causes a Slow Debuff on the opponent for 12 seconds."
+        ],
+        "ALWAYS ACTIVE": [
+          "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain a Passive Fury effect, increasing attack by 66.5 for 8 seconds.",
+          "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 65.38 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to Stun for 3.50 second(s).",
+          "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
+        ]
+      }
+    },
+    "3+1": {
+      "rank": 1,
+      "prestige": "460",
+      "hp": "2249",
+      "attack": "164",
+      "crit_rate": "324",
+      "crit_dmge": "537",
+      "armor": "189",
+      "block_prof": "2550",
+      "energy_resist": "0",
+      "physical_resist": "189",
+      "crit_resist": "0",
+      "sig_info": [
+        "Tireless research grants a benefit based on the opponent\u2019s Class.",
+        "Science: 30 to 65% chance with each hit landed to Purify a Debuff.",
+        "Mystic: +24.6 to 82 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 20% less Power.",
+        "Cosmic: +11.48 to 24.6 Attack Rating for each Buff the opponent has.",
+        "Tech: Opponent suffers -15 to 55% Armor Up effect duration & Potency.",
+        "Mutant: Opponent suffers -20 to 50% Ability Accuracy during Special Attacks."
+      ],
+      "url_page": "https://auntm.ai/champions/shehulk/tier/3",
+      "champid": "shehulk+3+1",
+      "challenger_rating": 40,
+      "abilities": {
+        "INDUCE PANIC": [
+          "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
+        ],
+        "PASSIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "WHEN ATTACKED & WHEN ATTACKING": [
+          "11% chance to gain a Passive Fury effect, increasing attack by 57.4 for 8 seconds."
+        ],
+        "OPPONENT ACTIVATES A SPECIAL ATTACK": [
+          "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
+        ],
+        "HEAVY ATTACKS": [
+          "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 114.8 for 8 seconds.",
+          "Causes a Slow Debuff on the opponent for 12 seconds."
+        ],
+        "ALWAYS ACTIVE": [
+          "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain a Passive Fury effect, increasing attack by 57.4 for 8 seconds.",
+          "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 65.38 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to Stun for 3.50 second(s).",
+          "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
+        ]
+      }
+    },
+    "3+2": {
+      "rank": 2,
+      "prestige": "734",
+      "hp": "3598",
+      "attack": "262",
+      "crit_rate": "334",
+      "crit_dmge": "553",
+      "armor": "217",
+      "block_prof": "2625",
+      "energy_resist": "0",
+      "physical_resist": "195",
+      "crit_resist": "0",
+      "sig_info": [
+        "Tireless research grants a benefit based on the opponent\u2019s Class.",
+        "Science: 30 to 65% chance with each hit landed to Purify a Debuff.",
+        "Mystic: +39.3 to 131 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 20% less Power.",
+        "Cosmic: +18.34 to 39.3 Attack Rating for each Buff the opponent has.",
+        "Tech: Opponent suffers -15 to 55% Armor Up effect duration & Potency.",
+        "Mutant: Opponent suffers -20 to 50% Ability Accuracy during Special Attacks."
+      ],
+      "url_page": "https://auntm.ai/champions/shehulk/tier/3",
+      "champid": "shehulk+3+2",
+      "challenger_rating": 50,
+      "abilities": {
+        "INDUCE PANIC": [
+          "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
+        ],
+        "PASSIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "WHEN ATTACKED & WHEN ATTACKING": [
+          "11% chance to gain a Passive Fury effect, increasing attack by 91.7 for 8 seconds."
+        ],
+        "OPPONENT ACTIVATES A SPECIAL ATTACK": [
+          "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
+        ],
+        "HEAVY ATTACKS": [
+          "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 183.4 for 8 seconds.",
+          "Causes a Slow Debuff on the opponent for 12 seconds."
+        ],
+        "ALWAYS ACTIVE": [
+          "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain a Passive Fury effect, increasing attack by 91.7 for 8 seconds.",
+          "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 67.31 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to Stun for 3.50 second(s).",
+          "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
+        ]
+      }
+    },
+    "3+3": {
+      "rank": 3,
+      "prestige": "1026",
+      "hp": "5034",
+      "attack": "366",
+      "crit_rate": "343",
+      "crit_dmge": "569",
+      "armor": "246",
+      "block_prof": "2700",
+      "energy_resist": "0",
+      "physical_resist": "200",
+      "crit_resist": "0",
+      "sig_info": [
+        "Tireless research grants a benefit based on the opponent\u2019s Class.",
+        "Science: 30 to 65% chance with each hit landed to Purify a Debuff.",
+        "Mystic: +54.9 to 183 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 20% less Power.",
+        "Cosmic: +25.62 to 54.9 Attack Rating for each Buff the opponent has.",
+        "Tech: Opponent suffers -15 to 55% Armor Up effect duration & Potency.",
+        "Mutant: Opponent suffers -20 to 50% Ability Accuracy during Special Attacks."
+      ],
+      "url_page": "https://auntm.ai/champions/shehulk/tier/3",
+      "champid": "shehulk+3+3",
+      "challenger_rating": 60,
+      "abilities": {
+        "INDUCE PANIC": [
+          "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
+        ],
+        "PASSIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "WHEN ATTACKED & WHEN ATTACKING": [
+          "11% chance to gain a Passive Fury effect, increasing attack by 128.1 for 8 seconds."
+        ],
+        "OPPONENT ACTIVATES A SPECIAL ATTACK": [
+          "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
+        ],
+        "HEAVY ATTACKS": [
+          "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 256.2 for 8 seconds.",
+          "Causes a Slow Debuff on the opponent for 12 seconds."
+        ],
+        "ALWAYS ACTIVE": [
+          "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain a Passive Fury effect, increasing attack by 128.1 for 8 seconds.",
+          "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 69.23 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to Stun for 3.50 second(s).",
+          "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
+        ]
+      }
+    },
+    "3+4": {
+      "rank": 4,
+      "prestige": "1407",
+      "hp": "6912",
+      "attack": "503",
+      "crit_rate": "353",
+      "crit_dmge": "585",
+      "armor": "277",
+      "block_prof": "2775",
+      "energy_resist": "0",
+      "physical_resist": "206",
+      "crit_resist": "0",
+      "sig_info": [
+        "Tireless research grants a benefit based on the opponent\u2019s Class.",
+        "Science: 30 to 65% chance with each hit landed to Purify a Debuff.",
+        "Mystic: +75.45 to 251.5 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 20% less Power.",
+        "Cosmic: +35.21 to 75.45 Attack Rating for each Buff the opponent has.",
+        "Tech: Opponent suffers -15 to 55% Armor Up effect duration & Potency.",
+        "Mutant: Opponent suffers -20 to 50% Ability Accuracy during Special Attacks."
+      ],
+      "url_page": "https://auntm.ai/champions/shehulk/tier/3",
+      "champid": "shehulk+3+4",
+      "challenger_rating": 70,
+      "abilities": {
+        "INDUCE PANIC": [
+          "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
+        ],
+        "PASSIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "WHEN ATTACKED & WHEN ATTACKING": [
+          "11% chance to gain a Passive Fury effect, increasing attack by 176.05 for 8 seconds."
+        ],
+        "OPPONENT ACTIVATES A SPECIAL ATTACK": [
+          "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
+        ],
+        "HEAVY ATTACKS": [
+          "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 352.1 for 8 seconds.",
+          "Causes a Slow Debuff on the opponent for 12 seconds."
+        ],
+        "ALWAYS ACTIVE": [
+          "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain a Passive Fury effect, increasing attack by 176.05 for 8 seconds.",
+          "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 71.15 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to Stun for 3.50 second(s).",
+          "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
+        ]
+      }
+    },
+    "4+1": {
+      "rank": 1,
+      "prestige": "1028",
+      "hp": "5030",
+      "attack": "366",
+      "crit_rate": "343",
+      "crit_dmge": "569",
+      "armor": "200",
+      "block_prof": "2700",
+      "energy_resist": "0",
+      "physical_resist": "200",
+      "crit_resist": "0",
+      "sig_info": [
+        "Tireless research grants a benefit based on the opponent\u2019s Class.",
+        "Science: 30 to 65% chance with each hit landed to Purify a Debuff.",
+        "Mystic: +54.9 to 183 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 20% less Power.",
+        "Cosmic: +25.62 to 54.9 Attack Rating for each Buff the opponent has.",
+        "Tech: Opponent suffers -15 to 55% Armor Up effect duration & Potency.",
+        "Mutant: Opponent suffers -20 to 50% Ability Accuracy during Special Attacks."
+      ],
+      "url_page": "https://auntm.ai/champions/shehulk/tier/4",
+      "champid": "shehulk+4+1",
+      "challenger_rating": 60,
+      "abilities": {
+        "INDUCE PANIC": [
+          "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
+        ],
+        "PASSIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "WHEN ATTACKED & WHEN ATTACKING": [
+          "11% chance to gain a Passive Fury effect, increasing attack by 128.1 for 8 seconds."
+        ],
+        "OPPONENT ACTIVATES A SPECIAL ATTACK": [
+          "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
+        ],
+        "HEAVY ATTACKS": [
+          "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 256.2 for 8 seconds.",
+          "Causes a Slow Debuff on the opponent for 12 seconds."
+        ],
+        "ALWAYS ACTIVE": [
+          "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain a Passive Fury effect, increasing attack by 128.1 for 8 seconds.",
+          "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 69.23 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to Stun for 3.50 second(s).",
+          "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
+        ]
+      }
+    },
+    "4+2": {
+      "rank": 2,
+      "prestige": "1438",
+      "hp": "7056",
+      "attack": "513",
+      "crit_rate": "353",
+      "crit_dmge": "585",
+      "armor": "229",
+      "block_prof": "2775",
+      "energy_resist": "0",
+      "physical_resist": "206",
+      "crit_resist": "0",
+      "sig_info": [
+        "Tireless research grants a benefit based on the opponent\u2019s Class.",
+        "Science: 30 to 65% chance with each hit landed to Purify a Debuff.",
+        "Mystic: +76.95 to 256.5 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 20% less Power.",
+        "Cosmic: +35.91 to 76.95 Attack Rating for each Buff the opponent has.",
+        "Tech: Opponent suffers -15 to 55% Armor Up effect duration & Potency.",
+        "Mutant: Opponent suffers -20 to 50% Ability Accuracy during Special Attacks."
+      ],
+      "url_page": "https://auntm.ai/champions/shehulk/tier/4",
+      "champid": "shehulk+4+2",
+      "challenger_rating": 70,
+      "abilities": {
+        "INDUCE PANIC": [
+          "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
+        ],
+        "PASSIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "WHEN ATTACKED & WHEN ATTACKING": [
+          "11% chance to gain a Passive Fury effect, increasing attack by 179.55 for 8 seconds."
+        ],
+        "OPPONENT ACTIVATES A SPECIAL ATTACK": [
+          "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
+        ],
+        "HEAVY ATTACKS": [
+          "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 359.1 for 8 seconds.",
+          "Causes a Slow Debuff on the opponent for 12 seconds."
+        ],
+        "ALWAYS ACTIVE": [
+          "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain a Passive Fury effect, increasing attack by 179.55 for 8 seconds.",
+          "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 71.15 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to Stun for 3.50 second(s).",
+          "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
+        ]
+      }
+    },
+    "4+3": {
+      "rank": 3,
+      "prestige": "2013",
+      "hp": "9886",
+      "attack": "719",
+      "crit_rate": "362",
+      "crit_dmge": "600",
+      "armor": "260",
+      "block_prof": "2850",
+      "energy_resist": "0",
+      "physical_resist": "212",
+      "crit_resist": "0",
+      "sig_info": [
+        "Tireless research grants a benefit based on the opponent\u2019s Class.",
+        "Science: 30 to 65% chance with each hit landed to Purify a Debuff.",
+        "Mystic: +107.85 to 359.5 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 20% less Power.",
+        "Cosmic: +50.33 to 107.85 Attack Rating for each Buff the opponent has.",
+        "Tech: Opponent suffers -15 to 55% Armor Up effect duration & Potency.",
+        "Mutant: Opponent suffers -20 to 50% Ability Accuracy during Special Attacks."
+      ],
+      "url_page": "https://auntm.ai/champions/shehulk/tier/4",
+      "champid": "shehulk+4+3",
+      "challenger_rating": 80,
+      "abilities": {
+        "INDUCE PANIC": [
+          "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
+        ],
+        "PASSIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "WHEN ATTACKED & WHEN ATTACKING": [
+          "11% chance to gain a Passive Fury effect, increasing attack by 251.65 for 8 seconds."
+        ],
+        "OPPONENT ACTIVATES A SPECIAL ATTACK": [
+          "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
+        ],
+        "HEAVY ATTACKS": [
+          "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 503.3 for 8 seconds.",
+          "Causes a Slow Debuff on the opponent for 12 seconds."
+        ],
+        "ALWAYS ACTIVE": [
+          "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain a Passive Fury effect, increasing attack by 251.65 for 8 seconds.",
+          "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 73.08 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to Stun for 3.50 second(s).",
+          "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
+        ]
+      }
+    },
+    "4+4": {
+      "rank": 4,
+      "prestige": "2650",
+      "hp": "12990",
+      "attack": "945",
+      "crit_rate": "372",
+      "crit_dmge": "616",
+      "armor": "292",
+      "block_prof": "2925",
+      "energy_resist": "0",
+      "physical_resist": "217",
+      "crit_resist": "0",
+      "sig_info": [
+        "Tireless research grants a benefit based on the opponent\u2019s Class.",
+        "Science: 30 to 65% chance with each hit landed to Purify a Debuff.",
+        "Mystic: +141.75 to 472.5 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 20% less Power.",
+        "Cosmic: +66.15 to 141.75 Attack Rating for each Buff the opponent has.",
+        "Tech: Opponent suffers -15 to 55% Armor Up effect duration & Potency.",
+        "Mutant: Opponent suffers -20 to 50% Ability Accuracy during Special Attacks."
+      ],
+      "url_page": "https://auntm.ai/champions/shehulk/tier/4",
+      "champid": "shehulk+4+4",
+      "challenger_rating": 90,
+      "abilities": {
+        "INDUCE PANIC": [
+          "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
+        ],
+        "PASSIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "WHEN ATTACKED & WHEN ATTACKING": [
+          "11% chance to gain a Passive Fury effect, increasing attack by 330.75 for 8 seconds."
+        ],
+        "OPPONENT ACTIVATES A SPECIAL ATTACK": [
+          "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
+        ],
+        "HEAVY ATTACKS": [
+          "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 661.5 for 8 seconds.",
+          "Causes a Slow Debuff on the opponent for 12 seconds."
+        ],
+        "ALWAYS ACTIVE": [
+          "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain a Passive Fury effect, increasing attack by 330.75 for 8 seconds.",
+          "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 75 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to Stun for 3.50 second(s).",
+          "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
+        ]
+      }
+    },
+    "4+5": {
+      "rank": 5,
+      "prestige": "3534",
+      "hp": "17332",
+      "attack": "1261",
+      "crit_rate": "381",
+      "crit_dmge": "632",
+      "armor": "326",
+      "block_prof": "3000",
+      "energy_resist": "0",
+      "physical_resist": "223",
+      "crit_resist": "0",
+      "sig_info": [
+        "Tireless research grants a benefit based on the opponent\u2019s Class.",
+        "Science: 30 to 65% chance with each hit landed to Purify a Debuff.",
+        "Mystic: +189.15 to 630.5 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 20% less Power.",
+        "Cosmic: +88.27 to 189.15 Attack Rating for each Buff the opponent has.",
+        "Tech: Opponent suffers -15 to 55% Armor Up effect duration & Potency.",
+        "Mutant: Opponent suffers -20 to 50% Ability Accuracy during Special Attacks."
+      ],
+      "url_page": "https://auntm.ai/champions/shehulk/tier/4",
+      "champid": "shehulk+4+5",
+      "challenger_rating": 100,
+      "abilities": {
+        "INDUCE PANIC": [
+          "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
+        ],
+        "PASSIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "WHEN ATTACKED & WHEN ATTACKING": [
+          "11% chance to gain a Passive Fury effect, increasing attack by 441.35 for 8 seconds."
+        ],
+        "OPPONENT ACTIVATES A SPECIAL ATTACK": [
+          "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
+        ],
+        "HEAVY ATTACKS": [
+          "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 882.7 for 8 seconds.",
+          "Causes a Slow Debuff on the opponent for 12 seconds."
+        ],
+        "ALWAYS ACTIVE": [
+          "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain a Passive Fury effect, increasing attack by 441.35 for 8 seconds.",
+          "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 76.92 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to Stun for 3.50 second(s).",
+          "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
+        ]
+      }
+    },
+    "5+1": {
+      "rank": 1,
+      "prestige": "2113",
+      "hp": "10343",
+      "attack": "752",
+      "crit_rate": "362",
+      "crit_dmge": "600",
+      "armor": "212",
+      "block_prof": "2850",
+      "energy_resist": "0",
+      "physical_resist": "212",
+      "crit_resist": "0",
+      "sig_info": [
+        "Tireless research grants a benefit based on the opponent\u2019s Class.",
+        "Science: 30 to 70% chance with each hit landed to Purify a Debuff.",
+        "Mystic: +112.8 to 413.6 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 25% less Power.",
+        "Cosmic: +52.64 to 127.84 Attack Rating for each Buff the opponent has.",
+        "Tech: Opponent suffers -15 to 60% Armor Up effect duration & Potency.",
+        "Mutant: Opponent suffers -20 to 55% Ability Accuracy during Special Attacks."
+      ],
+      "url_page": "https://auntm.ai/champions/shehulk/tier/5",
+      "champid": "shehulk+5+1",
+      "challenger_rating": 80,
+      "abilities": {
+        "INDUCE PANIC": [
+          "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
+        ],
+        "PASSIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "WHEN ATTACKED & WHEN ATTACKING": [
+          "11% chance to gain a Passive Fury effect, increasing attack by 263.2 for 8 seconds."
+        ],
+        "OPPONENT ACTIVATES A SPECIAL ATTACK": [
+          "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
+        ],
+        "HEAVY ATTACKS": [
+          "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 526.4 for 8 seconds.",
+          "Causes a Slow Debuff on the opponent for 12 seconds."
+        ],
+        "ALWAYS ACTIVE": [
+          "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain a Passive Fury effect, increasing attack by 263.2 for 8 seconds.",
+          "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 73.08 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to Stun for 3.50 second(s).",
+          "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
+        ]
+      }
+    },
+    "5+2": {
+      "rank": 2,
+      "prestige": "2793",
+      "hp": "13663",
+      "attack": "994",
+      "crit_rate": "372",
+      "crit_dmge": "616",
+      "armor": "242",
+      "block_prof": "2925",
+      "energy_resist": "0",
+      "physical_resist": "217",
+      "crit_resist": "0",
+      "sig_info": [
+        "Tireless research grants a benefit based on the opponent\u2019s Class.",
+        "Science: 30 to 70% chance with each hit landed to Purify a Debuff.",
+        "Mystic: +149.1 to 546.7 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 25% less Power.",
+        "Cosmic: +69.58 to 168.98 Attack Rating for each Buff the opponent has.",
+        "Tech: Opponent suffers -15 to 60% Armor Up effect duration & Potency.",
+        "Mutant: Opponent suffers -20 to 55% Ability Accuracy during Special Attacks."
+      ],
+      "url_page": "https://auntm.ai/champions/shehulk/tier/5",
+      "champid": "shehulk+5+2",
+      "challenger_rating": 90,
+      "abilities": {
+        "INDUCE PANIC": [
+          "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
+        ],
+        "PASSIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "WHEN ATTACKED & WHEN ATTACKING": [
+          "11% chance to gain a Passive Fury effect, increasing attack by 347.9 for 8 seconds."
+        ],
+        "OPPONENT ACTIVATES A SPECIAL ATTACK": [
+          "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
+        ],
+        "HEAVY ATTACKS": [
+          "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 695.8 for 8 seconds.",
+          "Causes a Slow Debuff on the opponent for 12 seconds."
+        ],
+        "ALWAYS ACTIVE": [
+          "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain a Passive Fury effect, increasing attack by 347.9 for 8 seconds.",
+          "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 75 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to Stun for 3.50 second(s).",
+          "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
+        ]
+      }
+    },
+    "5+3": {
+      "rank": 3,
+      "prestige": "3905",
+      "hp": "19101",
+      "attack": "1389",
+      "crit_rate": "381",
+      "crit_dmge": "632",
+      "armor": "273",
+      "block_prof": "3000",
+      "energy_resist": "0",
+      "physical_resist": "223",
+      "crit_resist": "0",
+      "sig_info": [
+        "Tireless research grants a benefit based on the opponent\u2019s Class.",
+        "Science: 30 to 70% chance with each hit landed to Purify a Debuff.",
+        "Mystic: +208.35 to 763.95 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 25% less Power.",
+        "Cosmic: +97.23 to 236.13 Attack Rating for each Buff the opponent has.",
+        "Tech: Opponent suffers -15 to 60% Armor Up effect duration & Potency.",
+        "Mutant: Opponent suffers -20 to 55% Ability Accuracy during Special Attacks."
+      ],
+      "url_page": "https://auntm.ai/champions/shehulk/tier/5",
+      "champid": "shehulk+5+3",
+      "challenger_rating": 100,
+      "abilities": {
+        "INDUCE PANIC": [
+          "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
+        ],
+        "PASSIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "WHEN ATTACKED & WHEN ATTACKING": [
+          "11% chance to gain a Passive Fury effect, increasing attack by 486.15 for 8 seconds."
+        ],
+        "OPPONENT ACTIVATES A SPECIAL ATTACK": [
+          "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
+        ],
+        "HEAVY ATTACKS": [
+          "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 972.3 for 8 seconds.",
+          "Causes a Slow Debuff on the opponent for 12 seconds."
+        ],
+        "ALWAYS ACTIVE": [
+          "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain a Passive Fury effect, increasing attack by 486.15 for 8 seconds.",
+          "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 76.92 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to Stun for 3.50 second(s).",
+          "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
+        ]
+      }
+    },
+    "5+4": {
+      "rank": 4,
+      "prestige": "5262",
+      "hp": "25739",
+      "attack": "1872",
+      "crit_rate": "391",
+      "crit_dmge": "648",
+      "armor": "307",
+      "block_prof": "3075",
+      "energy_resist": "0",
+      "physical_resist": "228",
+      "crit_resist": "0",
+      "sig_info": [
+        "Tireless research grants a benefit based on the opponent\u2019s Class.",
+        "Science: 30 to 70% chance with each hit landed to Purify a Debuff.",
+        "Mystic: +280.8 to 1029.61 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 25% less Power.",
+        "Cosmic: +131.04 to 318.24 Attack Rating for each Buff the opponent has.",
+        "Tech: Opponent suffers -15 to 60% Armor Up effect duration & Potency.",
+        "Mutant: Opponent suffers -20 to 55% Ability Accuracy during Special Attacks."
+      ],
+      "url_page": "https://auntm.ai/champions/shehulk/tier/5",
+      "champid": "shehulk+5+4",
+      "challenger_rating": 110,
+      "abilities": {
+        "INDUCE PANIC": [
+          "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
+        ],
+        "PASSIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "WHEN ATTACKED & WHEN ATTACKING": [
+          "11% chance to gain a Passive Fury effect, increasing attack by 655.2 for 8 seconds."
+        ],
+        "OPPONENT ACTIVATES A SPECIAL ATTACK": [
+          "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
+        ],
+        "HEAVY ATTACKS": [
+          "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 1310.4 for 8 seconds.",
+          "Causes a Slow Debuff on the opponent for 12 seconds."
+        ],
+        "ALWAYS ACTIVE": [
+          "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain a Passive Fury effect, increasing attack by 655.2 for 8 seconds.",
+          "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 78.85 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to Stun for 3.50 second(s).",
+          "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
+        ]
+      }
+    },
+    "5+5": {
+      "rank": 5,
+      "prestige": "7116",
+      "hp": "34751",
+      "attack": "2527",
+      "crit_rate": "400",
+      "crit_dmge": "664",
+      "armor": "342",
+      "block_prof": "3150",
+      "energy_resist": "0",
+      "physical_resist": "234",
+      "crit_resist": "0",
+      "sig_info": [
+        "Tireless research grants a benefit based on the opponent\u2019s Class.",
+        "Science: 30 to 70% chance with each hit landed to Purify a Debuff.",
+        "Mystic: +379.05 to 1389.86 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 25% less Power.",
+        "Cosmic: +176.89 to 429.59 Attack Rating for each Buff the opponent has.",
+        "Tech: Opponent suffers -15 to 60% Armor Up effect duration & Potency.",
+        "Mutant: Opponent suffers -20 to 55% Ability Accuracy during Special Attacks."
+      ],
+      "url_page": "https://auntm.ai/champions/shehulk/tier/5",
+      "champid": "shehulk+5+5",
+      "challenger_rating": 120,
+      "abilities": {
+        "INDUCE PANIC": [
+          "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
+        ],
+        "PASSIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "WHEN ATTACKED & WHEN ATTACKING": [
+          "11% chance to gain a Passive Fury effect, increasing attack by 884.45 for 8 seconds."
+        ],
+        "OPPONENT ACTIVATES A SPECIAL ATTACK": [
+          "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
+        ],
+        "HEAVY ATTACKS": [
+          "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 1768.9 for 8 seconds.",
+          "Causes a Slow Debuff on the opponent for 12 seconds."
+        ],
+        "ALWAYS ACTIVE": [
+          "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain a Passive Fury effect, increasing attack by 884.45 for 8 seconds.",
+          "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 80.77 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to Stun for 3.50 second(s).",
+          "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
+        ]
+      }
+    },
+    "6+1": {
+      "rank": 1,
+      "prestige": "5578",
+      "hp": "27326",
+      "attack": "1987",
+      "crit_rate": "391",
+      "crit_dmge": "648",
+      "armor": "228",
+      "block_prof": "3075",
+      "energy_resist": "0",
+      "physical_resist": "228",
+      "crit_resist": "0",
+      "sig_info": [
+        "Tireless research grants a benefit based on the opponent\u2019s Class.",
+        "Science: 30 to 70% chance with each hit landed to Purify a Debuff.",
+        "Mystic: +298.05 to 1092.86 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 25% less Power.",
+        "Cosmic: +139.09 to 337.79 Attack Rating for each Buff the opponent has.",
+        "Tech: Opponent suffers -15 to 60% Armor Up effect duration & Potency.",
+        "Mutant: Opponent suffers -20 to 55% Ability Accuracy during Special Attacks."
+      ],
+      "url_page": "https://auntm.ai/champions/shehulk/tier/6",
+      "champid": "shehulk+6+1",
+      "challenger_rating": 110,
+      "abilities": {
+        "INDUCE PANIC": [
+          "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
+        ],
+        "PASSIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "WHEN ATTACKED & WHEN ATTACKING": [
+          "11% chance to gain a Passive Fury effect, increasing attack by 695.45 for 8 seconds."
+        ],
+        "OPPONENT ACTIVATES A SPECIAL ATTACK": [
+          "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
+        ],
+        "HEAVY ATTACKS": [
+          "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 1390.9 for 8 seconds.",
+          "Causes a Slow Debuff on the opponent for 12 seconds."
+        ],
+        "ALWAYS ACTIVE": [
+          "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain a Passive Fury effect, increasing attack by 695.45 for 8 seconds.",
+          "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 78.85 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to Stun for 3.50 second(s).",
+          "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
+        ]
+      }
+    },
+    "6+2": {
+      "rank": 2,
+      "prestige": "7701",
+      "hp": "37745",
+      "attack": "2745",
+      "crit_rate": "400",
+      "crit_dmge": "664",
+      "armor": "260",
+      "block_prof": "3150",
+      "energy_resist": "0",
+      "physical_resist": "234",
+      "crit_resist": "0",
+      "sig_info": [
+        "Tireless research grants a benefit based on the opponent\u2019s Class.",
+        "Science: 30 to 70% chance with each hit landed to Purify a Debuff.",
+        "Mystic: +411.75 to 1509.76 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 25% less Power.",
+        "Cosmic: +192.15 to 466.66 Attack Rating for each Buff the opponent has.",
+        "Tech: Opponent suffers -15 to 60% Armor Up effect duration & Potency.",
+        "Mutant: Opponent suffers -20 to 55% Ability Accuracy during Special Attacks."
+      ],
+      "url_page": "https://auntm.ai/champions/shehulk/tier/6",
+      "champid": "shehulk+6+2",
+      "challenger_rating": 120,
+      "abilities": {
+        "INDUCE PANIC": [
+          "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
+        ],
+        "PASSIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "WHEN ATTACKED & WHEN ATTACKING": [
+          "11% chance to gain a Passive Fury effect, increasing attack by 960.75 for 8 seconds."
+        ],
+        "OPPONENT ACTIVATES A SPECIAL ATTACK": [
+          "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
+        ],
+        "HEAVY ATTACKS": [
+          "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 1921.5 for 8 seconds.",
+          "Causes a Slow Debuff on the opponent for 12 seconds."
+        ],
+        "ALWAYS ACTIVE": [
+          "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain a Passive Fury effect, increasing attack by 960.75 for 8 seconds.",
+          "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 80.77 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to Stun for 3.50 second(s).",
+          "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
+        ]
+      }
+    },
+    "6+3": {
+      "rank": 3,
+      "prestige": "9153",
+      "hp": "44779",
+      "attack": "3256",
+      "crit_rate": "410",
+      "crit_dmge": "679",
+      "armor": "294",
+      "block_prof": "3225",
+      "energy_resist": "0",
+      "physical_resist": "239",
+      "crit_resist": "0",
+      "sig_info": [
+        "Tireless research grants a benefit based on the opponent\u2019s Class.",
+        "Science: 30 to 70% chance with each hit landed to Purify a Debuff.",
+        "Mystic: +488.4 to 1790.81 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 25% less Power.",
+        "Cosmic: +227.92 to 553.53 Attack Rating for each Buff the opponent has.",
+        "Tech: Opponent suffers -15 to 60% Armor Up effect duration & Potency.",
+        "Mutant: Opponent suffers -20 to 55% Ability Accuracy during Special Attacks."
+      ],
+      "url_page": "https://auntm.ai/champions/shehulk/tier/6",
+      "champid": "shehulk+6+3",
+      "challenger_rating": 130,
+      "abilities": {
+        "INDUCE PANIC": [
+          "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
+        ],
+        "PASSIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "WHEN ATTACKED & WHEN ATTACKING": [
+          "11% chance to gain a Passive Fury effect, increasing attack by 1139.6 for 8 seconds."
+        ],
+        "OPPONENT ACTIVATES A SPECIAL ATTACK": [
+          "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
+        ],
+        "HEAVY ATTACKS": [
+          "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 2279.2 for 8 seconds.",
+          "Causes a Slow Debuff on the opponent for 12 seconds."
+        ],
+        "ALWAYS ACTIVE": [
+          "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain a Passive Fury effect, increasing attack by 1139.6 for 8 seconds.",
+          "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 82.69 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to Stun for 3.50 second(s).",
+          "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
+        ]
+      }
+    },
+    "6+4": {
+      "rank": 4,
+      "prestige": "10471",
+      "hp": "51242",
+      "attack": "3726",
+      "crit_rate": "420",
+      "crit_dmge": "695",
+      "armor": "329",
+      "block_prof": "3300",
+      "energy_resist": "0",
+      "physical_resist": "245",
+      "crit_resist": "0",
+      "sig_info": [
+        "Tireless research grants a benefit based on the opponent\u2019s Class.",
+        "Science: 30 to 70% chance with each hit landed to Purify a Debuff.",
+        "Mystic: +558.9 to 2049.31 Attack Rating and She-Hulk\u2019s attacks cause the opponent to gain 25% less Power.",
+        "Cosmic: +260.82 to 633.43 Attack Rating for each Buff the opponent has.",
+        "Tech: Opponent suffers -15 to 60% Armor Up effect duration & Potency.",
+        "Mutant: Opponent suffers -20 to 55% Ability Accuracy during Special Attacks."
+      ],
+      "url_page": "https://auntm.ai/champions/shehulk/tier/6",
+      "champid": "shehulk+6+4",
+      "challenger_rating": 140,
+      "abilities": {
+        "INDUCE PANIC": [
+          "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
+        ],
+        "PASSIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "WHEN ATTACKED & WHEN ATTACKING": [
+          "11% chance to gain a Passive Fury effect, increasing attack by 1304.1 for 8 seconds."
+        ],
+        "OPPONENT ACTIVATES A SPECIAL ATTACK": [
+          "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
+        ],
+        "HEAVY ATTACKS": [
+          "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 2608.2 for 8 seconds.",
+          "Causes a Slow Debuff on the opponent for 12 seconds."
+        ],
+        "ALWAYS ACTIVE": [
+          "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain a Passive Fury effect, increasing attack by 1304.1 for 8 seconds.",
+          "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 84.62 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to Stun for 3.50 second(s).",
+          "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
+        ]
+      }
+    },
+    "1+1": {
+      "rank": 1,
+      "prestige": 202,
+      "hp": 972,
+      "attack": 71,
+      "crit_rate": 296,
+      "crit_dmge": 490,
+      "armor": 173,
+      "block_prof": 2325,
+      "energy_resist": 0,
+      "physical_resist": 173,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/shehulk/tier/1",
+      "champid": "shehulk+1+1",
+      "challenger_rating": 10,
+      "abilities": {
+        "INDUCE PANIC": [
+          "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
+        ],
+        "PASSIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "WHEN ATTACKED & WHEN ATTACKING": [
+          "11% chance to gain a Passive Fury effect, increasing attack by 24.85 for 8 seconds."
+        ],
+        "OPPONENT ACTIVATES A SPECIAL ATTACK": [
+          "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
+        ],
+        "HEAVY ATTACKS": [
+          "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 49.7 for 8 seconds.",
+          "Causes a Slow Debuff on the opponent for 12 seconds."
+        ],
+        "ALWAYS ACTIVE": [
+          "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain a Passive Fury effect, increasing attack by 24.85 for 8 seconds.",
+          "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 59.62 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to Stun for 3.50 second(s).",
+          "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
+        ]
+      }
+    },
+    "1+2": {
+      "rank": 2,
+      "prestige": 275,
+      "hp": 1344,
+      "attack": 98,
+      "crit_rate": 305,
+      "crit_dmge": 506,
+      "armor": 198,
+      "block_prof": 2400,
+      "energy_resist": 0,
+      "physical_resist": 178,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/shehulk/tier/1",
+      "champid": "shehulk+1+2",
+      "challenger_rating": 20,
+      "abilities": {
+        "INDUCE PANIC": [
+          "She-Hulk\u2019s sharp intellect and overwhelming strength panics her foes, increasing their chance to launch a Special Attack by 15% for each of her personal Passive Fury effects."
+        ],
+        "PASSIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "WHEN ATTACKED & WHEN ATTACKING": [
+          "11% chance to gain a Passive Fury effect, increasing attack by 34.3 for 8 seconds."
+        ],
+        "OPPONENT ACTIVATES A SPECIAL ATTACK": [
+          "If the opponent doesn\u2019t have a Class Advantage, She-Hulk refreshes the duration of all of her personal Passive Fury effects."
+        ],
+        "HEAVY ATTACKS": [
+          "If the opponent is Unstoppable, this attack cannot be interrupted. If the attack lands, the Unstoppable effect is removed and She-Hulk gains a Passive Fury, increasing attack by 68.6 for 8 seconds.",
+          "Causes a Slow Debuff on the opponent for 12 seconds."
+        ],
+        "ALWAYS ACTIVE": [
+          "Extensive weight training allows She-Hulk\u2019s personal Passive Fury effects and all Stun Debuffs to last up to 50% longer, based on the size of her opponent. Larger opponents grant longer effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain a Passive Fury effect, increasing attack by 34.3 for 8 seconds.",
+          "75% chance to Exhaust the opponent, reducing Critical Damage Rating by 61.54 for 10 seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 115% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to Stun for 3.50 second(s).",
+          "100% chance to inflict Weakness, decreasing the target's Attack by 65% for 14 seconds."
+        ]
+      }
+    },
+    "find": {
+      "story_quests": {
+        "act_1": [],
+        "act_2": [],
+        "act_3": ["3.1.3", "3.1.4"],
+        "act_4": [],
+        "act_5": [
+          "5.1.5",
+          "5.2.1",
+          "5.2.3",
+          "5.2.5",
+          "5.3.2",
+          "5.3.3",
+          "5.3.5"
+        ],
+        "act_6": ["6.1.5", "6.2.1", "6.3.3", "6.3.6", "6.4.2"],
+        "act_7": ["7.1.3", "7.1.6", "7.3.1", "7.4.3"]
+      }
     }
+  },
+  "name": "SHE-HULK",
+  "class": "Science",
+  "img_portrait": "https://api.rexians.tk/assets/portraits/shehulk.png",
+  "contact": "PHYSICAL",
+  "tags": ["Hero", "A-Force", "Size: L"],
+  "released": "3/3/2016"
 }

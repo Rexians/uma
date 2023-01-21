@@ -1,1297 +1,1405 @@
 {
-    "name": "ULTRON",
-    "class": "Tech",
-    "img_portrait": "https://api.rexians.tk/assets/portraits/ultron_prime.png",
-    "contact": "PHYSICAL",
-    "tags": [
-        "Villain",
-        "Robot",
-        "Size: L"
-    ],
-    "released": "6/4/2015",
-    "champid": "ultron_prime",
-    "data": {
-        "2+1": {
-            "rank": 1,
-            "prestige": "275",
-            "hp": "1186",
-            "attack": "83",
-            "crit_rate": "178",
-            "crit_dmge": "452",
-            "armor": "240",
-            "block_prof": "2400",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.95% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
-                "Incoming Incinerate and Shock effects suffer -20 to 75% Duration."
-            ],
-            "url_page": "https://auntm.ai/champions/ultron_prime/tier/2",
-            "champid": "ultron_prime+2+1",
-            "challenger_rating": 20,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
-                    "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
-                ],
-                "WHEN HEALTH DROPS BELOW 50% AND 25%": [
-                    "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 296.5 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
-                ],
-                "ALL ATTACKS": [
-                    "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
-                    "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 49.8 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
-                ],
-                "BLOCKING": [
-                    "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +282.35 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
-                ],
-                "HEAVY ATTACKS": [
-                    "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
-                ],
-                "LAUNCH A SPECIAL ATTACK": [
-                    "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +41.5 Attack Rating for each effect removed this way for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
-                    "Any Function (Damage) Debuffs triggered during this attack are doubled."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
-                    "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
-                ],
-                "PASSIVE": [
-                    "Duckslug Editorial",
-                    "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
-                    "This state is refreshed after 7 seconds.",
-                    "He can evade multiple attacks while in this state."
-                ]
-            }
-        },
-        "2+2": {
-            "rank": 2,
-            "prestige": "362",
-            "hp": "1567",
-            "attack": "110",
-            "crit_rate": "184",
-            "crit_dmge": "466",
-            "armor": "269",
-            "block_prof": "2475",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.95% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
-                "Incoming Incinerate and Shock effects suffer -20 to 75% Duration."
-            ],
-            "url_page": "https://auntm.ai/champions/ultron_prime/tier/2",
-            "champid": "ultron_prime+2+2",
-            "challenger_rating": 30,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
-                    "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
-                ],
-                "WHEN HEALTH DROPS BELOW 50% AND 25%": [
-                    "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 391.75 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
-                ],
-                "ALL ATTACKS": [
-                    "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
-                    "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 66 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
-                ],
-                "BLOCKING": [
-                    "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +291.18 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
-                ],
-                "HEAVY ATTACKS": [
-                    "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
-                ],
-                "LAUNCH A SPECIAL ATTACK": [
-                    "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +55 Attack Rating for each effect removed this way for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
-                    "Any Function (Damage) Debuffs triggered during this attack are doubled."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
-                    "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
-                ],
-                "PASSIVE": [
-                    "Duckslug Editorial",
-                    "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
-                    "This state is refreshed after 7 seconds.",
-                    "He can evade multiple attacks while in this state."
-                ]
-            }
-        },
-        "2+3": {
-            "rank": 3,
-            "prestige": "574",
-            "hp": "2487",
-            "attack": "174",
-            "crit_rate": "189",
-            "crit_dmge": "480",
-            "armor": "300",
-            "block_prof": "2550",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.95% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
-                "Incoming Incinerate and Shock effects suffer -20 to 75% Duration."
-            ],
-            "url_page": "https://auntm.ai/champions/ultron_prime/tier/2",
-            "champid": "ultron_prime+2+3",
-            "challenger_rating": 40,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
-                    "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
-                ],
-                "WHEN HEALTH DROPS BELOW 50% AND 25%": [
-                    "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 621.75 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
-                ],
-                "ALL ATTACKS": [
-                    "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
-                    "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 104.4 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
-                ],
-                "BLOCKING": [
-                    "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +300 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
-                ],
-                "HEAVY ATTACKS": [
-                    "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
-                ],
-                "LAUNCH A SPECIAL ATTACK": [
-                    "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +87 Attack Rating for each effect removed this way for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
-                    "Any Function (Damage) Debuffs triggered during this attack are doubled."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
-                    "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
-                ],
-                "PASSIVE": [
-                    "Duckslug Editorial",
-                    "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
-                    "This state is refreshed after 7 seconds.",
-                    "He can evade multiple attacks while in this state."
-                ]
-            }
-        },
-        "3+1": {
-            "rank": 1,
-            "prestige": "497",
-            "hp": "2150",
-            "attack": "151",
-            "crit_rate": "189",
-            "crit_dmge": "480",
-            "armor": "255",
-            "block_prof": "2550",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.95% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
-                "Incoming Incinerate and Shock effects suffer -20 to 75% Duration."
-            ],
-            "url_page": "https://auntm.ai/champions/ultron_prime/tier/3",
-            "champid": "ultron_prime+3+1",
-            "challenger_rating": 40,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
-                    "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
-                ],
-                "WHEN HEALTH DROPS BELOW 50% AND 25%": [
-                    "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 537.5 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
-                ],
-                "ALL ATTACKS": [
-                    "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
-                    "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 90.6 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
-                ],
-                "BLOCKING": [
-                    "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +300 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
-                ],
-                "HEAVY ATTACKS": [
-                    "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
-                ],
-                "LAUNCH A SPECIAL ATTACK": [
-                    "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +75.5 Attack Rating for each effect removed this way for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
-                    "Any Function (Damage) Debuffs triggered during this attack are doubled."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
-                    "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
-                ],
-                "PASSIVE": [
-                    "Duckslug Editorial",
-                    "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
-                    "This state is refreshed after 7 seconds.",
-                    "He can evade multiple attacks while in this state."
-                ]
-            }
-        },
-        "3+2": {
-            "rank": 2,
-            "prestige": "793",
-            "hp": "3440",
-            "attack": "241",
-            "crit_rate": "195",
-            "crit_dmge": "494",
-            "armor": "285",
-            "block_prof": "2625",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.95% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
-                "Incoming Incinerate and Shock effects suffer -20 to 75% Duration."
-            ],
-            "url_page": "https://auntm.ai/champions/ultron_prime/tier/3",
-            "champid": "ultron_prime+3+2",
-            "challenger_rating": 50,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
-                    "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
-                ],
-                "WHEN HEALTH DROPS BELOW 50% AND 25%": [
-                    "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 860 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
-                ],
-                "ALL ATTACKS": [
-                    "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
-                    "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 144.6 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
-                ],
-                "BLOCKING": [
-                    "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +308.82 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
-                ],
-                "HEAVY ATTACKS": [
-                    "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
-                ],
-                "LAUNCH A SPECIAL ATTACK": [
-                    "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +120.5 Attack Rating for each effect removed this way for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
-                    "Any Function (Damage) Debuffs triggered during this attack are doubled."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
-                    "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
-                ],
-                "PASSIVE": [
-                    "Duckslug Editorial",
-                    "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
-                    "This state is refreshed after 7 seconds.",
-                    "He can evade multiple attacks while in this state."
-                ]
-            }
-        },
-        "3+3": {
-            "rank": 3,
-            "prestige": "1107",
-            "hp": "4813",
-            "attack": "337",
-            "crit_rate": "200",
-            "crit_dmge": "508",
-            "armor": "318",
-            "block_prof": "2700",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.95% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
-                "Incoming Incinerate and Shock effects suffer -20 to 75% Duration."
-            ],
-            "url_page": "https://auntm.ai/champions/ultron_prime/tier/3",
-            "champid": "ultron_prime+3+3",
-            "challenger_rating": 60,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
-                    "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
-                ],
-                "WHEN HEALTH DROPS BELOW 50% AND 25%": [
-                    "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 1203.25 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
-                ],
-                "ALL ATTACKS": [
-                    "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
-                    "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 202.2 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
-                ],
-                "BLOCKING": [
-                    "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +317.65 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
-                ],
-                "HEAVY ATTACKS": [
-                    "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
-                ],
-                "LAUNCH A SPECIAL ATTACK": [
-                    "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +168.5 Attack Rating for each effect removed this way for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
-                    "Any Function (Damage) Debuffs triggered during this attack are doubled."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
-                    "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
-                ],
-                "PASSIVE": [
-                    "Duckslug Editorial",
-                    "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
-                    "This state is refreshed after 7 seconds.",
-                    "He can evade multiple attacks while in this state."
-                ]
-            }
-        },
-        "3+4": {
-            "rank": 4,
-            "prestige": "1520",
-            "hp": "6609",
-            "attack": "463",
-            "crit_rate": "206",
-            "crit_dmge": "522",
-            "armor": "353",
-            "block_prof": "2775",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.95% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
-                "Incoming Incinerate and Shock effects suffer -20 to 75% Duration."
-            ],
-            "url_page": "https://auntm.ai/champions/ultron_prime/tier/3",
-            "champid": "ultron_prime+3+4",
-            "challenger_rating": 70,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
-                    "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
-                ],
-                "WHEN HEALTH DROPS BELOW 50% AND 25%": [
-                    "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 1652.25 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
-                ],
-                "ALL ATTACKS": [
-                    "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
-                    "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 277.8 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
-                ],
-                "BLOCKING": [
-                    "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +326.47 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
-                ],
-                "HEAVY ATTACKS": [
-                    "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
-                ],
-                "LAUNCH A SPECIAL ATTACK": [
-                    "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +231.5 Attack Rating for each effect removed this way for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
-                    "Any Function (Damage) Debuffs triggered during this attack are doubled."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
-                    "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
-                ],
-                "PASSIVE": [
-                    "Duckslug Editorial",
-                    "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
-                    "This state is refreshed after 7 seconds.",
-                    "He can evade multiple attacks while in this state."
-                ]
-            }
-        },
-        "4+1": {
-            "rank": 1,
-            "prestige": "1108",
-            "hp": "4809",
-            "attack": "337",
-            "crit_rate": "200",
-            "crit_dmge": "508",
-            "armor": "269",
-            "block_prof": "2700",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.95% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
-                "Incoming Incinerate and Shock effects suffer -20 to 75% Duration."
-            ],
-            "url_page": "https://auntm.ai/champions/ultron_prime/tier/4",
-            "champid": "ultron_prime+4+1",
-            "challenger_rating": 60,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
-                    "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
-                ],
-                "WHEN HEALTH DROPS BELOW 50% AND 25%": [
-                    "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 1202.25 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
-                ],
-                "ALL ATTACKS": [
-                    "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
-                    "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 202.2 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
-                ],
-                "BLOCKING": [
-                    "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +317.65 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
-                ],
-                "HEAVY ATTACKS": [
-                    "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
-                ],
-                "LAUNCH A SPECIAL ATTACK": [
-                    "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +168.5 Attack Rating for each effect removed this way for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
-                    "Any Function (Damage) Debuffs triggered during this attack are doubled."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
-                    "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
-                ],
-                "PASSIVE": [
-                    "Duckslug Editorial",
-                    "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
-                    "This state is refreshed after 7 seconds.",
-                    "He can evade multiple attacks while in this state."
-                ]
-            }
-        },
-        "4+2": {
-            "rank": 2,
-            "prestige": "1554",
-            "hp": "6746",
-            "attack": "472",
-            "crit_rate": "206",
-            "crit_dmge": "522",
-            "armor": "302",
-            "block_prof": "2775",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.95% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
-                "Incoming Incinerate and Shock effects suffer -20 to 75% Duration."
-            ],
-            "url_page": "https://auntm.ai/champions/ultron_prime/tier/4",
-            "champid": "ultron_prime+4+2",
-            "challenger_rating": 70,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
-                    "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
-                ],
-                "WHEN HEALTH DROPS BELOW 50% AND 25%": [
-                    "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 1686.5 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
-                ],
-                "ALL ATTACKS": [
-                    "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
-                    "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 283.2 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
-                ],
-                "BLOCKING": [
-                    "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +326.47 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
-                ],
-                "HEAVY ATTACKS": [
-                    "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
-                ],
-                "LAUNCH A SPECIAL ATTACK": [
-                    "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +236 Attack Rating for each effect removed this way for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
-                    "Any Function (Damage) Debuffs triggered during this attack are doubled."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
-                    "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
-                ],
-                "PASSIVE": [
-                    "Duckslug Editorial",
-                    "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
-                    "This state is refreshed after 7 seconds.",
-                    "He can evade multiple attacks while in this state."
-                ]
-            }
-        },
-        "4+3": {
-            "rank": 3,
-            "prestige": "2174",
-            "hp": "9452",
-            "attack": "661",
-            "crit_rate": "212",
-            "crit_dmge": "536",
-            "armor": "336",
-            "block_prof": "2850",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.95% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
-                "Incoming Incinerate and Shock effects suffer -20 to 75% Duration."
-            ],
-            "url_page": "https://auntm.ai/champions/ultron_prime/tier/4",
-            "champid": "ultron_prime+4+3",
-            "challenger_rating": 80,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
-                    "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
-                ],
-                "WHEN HEALTH DROPS BELOW 50% AND 25%": [
-                    "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 2363 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
-                ],
-                "ALL ATTACKS": [
-                    "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
-                    "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 396.6 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
-                ],
-                "BLOCKING": [
-                    "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +335.29 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
-                ],
-                "HEAVY ATTACKS": [
-                    "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
-                ],
-                "LAUNCH A SPECIAL ATTACK": [
-                    "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +330.5 Attack Rating for each effect removed this way for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
-                    "Any Function (Damage) Debuffs triggered during this attack are doubled."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
-                    "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
-                ],
-                "PASSIVE": [
-                    "Duckslug Editorial",
-                    "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
-                    "This state is refreshed after 7 seconds.",
-                    "He can evade multiple attacks while in this state."
-                ]
-            }
-        },
-        "4+4": {
-            "rank": 4,
-            "prestige": "2862",
-            "hp": "12420",
-            "attack": "869",
-            "crit_rate": "217",
-            "crit_dmge": "550",
-            "armor": "372",
-            "block_prof": "2925",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.95% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
-                "Incoming Incinerate and Shock effects suffer -20 to 75% Duration."
-            ],
-            "url_page": "https://auntm.ai/champions/ultron_prime/tier/4",
-            "champid": "ultron_prime+4+4",
-            "challenger_rating": 90,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
-                    "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
-                ],
-                "WHEN HEALTH DROPS BELOW 50% AND 25%": [
-                    "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 3105 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
-                ],
-                "ALL ATTACKS": [
-                    "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
-                    "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 521.4 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
-                ],
-                "BLOCKING": [
-                    "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +344.12 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
-                ],
-                "HEAVY ATTACKS": [
-                    "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
-                ],
-                "LAUNCH A SPECIAL ATTACK": [
-                    "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +434.5 Attack Rating for each effect removed this way for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
-                    "Any Function (Damage) Debuffs triggered during this attack are doubled."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
-                    "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
-                ],
-                "PASSIVE": [
-                    "Duckslug Editorial",
-                    "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
-                    "This state is refreshed after 7 seconds.",
-                    "He can evade multiple attacks while in this state."
-                ]
-            }
-        },
-        "4+5": {
-            "rank": 5,
-            "prestige": "3816",
-            "hp": "16572",
-            "attack": "1159",
-            "crit_rate": "223",
-            "crit_dmge": "565",
-            "armor": "410",
-            "block_prof": "3000",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.95% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
-                "Incoming Incinerate and Shock effects suffer -20 to 75% Duration."
-            ],
-            "url_page": "https://auntm.ai/champions/ultron_prime/tier/4",
-            "champid": "ultron_prime+4+5",
-            "challenger_rating": 100,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
-                    "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
-                ],
-                "WHEN HEALTH DROPS BELOW 50% AND 25%": [
-                    "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 4143 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
-                ],
-                "ALL ATTACKS": [
-                    "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
-                    "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 695.4 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
-                ],
-                "BLOCKING": [
-                    "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +352.94 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
-                ],
-                "HEAVY ATTACKS": [
-                    "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
-                ],
-                "LAUNCH A SPECIAL ATTACK": [
-                    "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +579.5 Attack Rating for each effect removed this way for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
-                    "Any Function (Damage) Debuffs triggered during this attack are doubled."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
-                    "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
-                ],
-                "PASSIVE": [
-                    "Duckslug Editorial",
-                    "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
-                    "This state is refreshed after 7 seconds.",
-                    "He can evade multiple attacks while in this state."
-                ]
-            }
-        },
-        "5+1": {
-            "rank": 1,
-            "prestige": "2286",
-            "hp": "9890",
-            "attack": "692",
-            "crit_rate": "212",
-            "crit_dmge": "536",
-            "armor": "284",
-            "block_prof": "2850",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.96% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
-                "Incoming Incinerate and Shock effects suffer -25 to 80% Duration."
-            ],
-            "url_page": "https://auntm.ai/champions/ultron_prime/tier/5",
-            "champid": "ultron_prime+5+1",
-            "challenger_rating": 80,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
-                    "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
-                ],
-                "WHEN HEALTH DROPS BELOW 50% AND 25%": [
-                    "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 2472.5 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
-                ],
-                "ALL ATTACKS": [
-                    "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
-                    "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 415.2 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
-                ],
-                "BLOCKING": [
-                    "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +335.29 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
-                ],
-                "HEAVY ATTACKS": [
-                    "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
-                ],
-                "LAUNCH A SPECIAL ATTACK": [
-                    "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +346 Attack Rating for each effect removed this way for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
-                    "Any Function (Damage) Debuffs triggered during this attack are doubled."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
-                    "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
-                ],
-                "PASSIVE": [
-                    "Duckslug Editorial",
-                    "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
-                    "This state is refreshed after 7 seconds.",
-                    "He can evade multiple attacks while in this state."
-                ]
-            }
-        },
-        "5+2": {
-            "rank": 2,
-            "prestige": "3018",
-            "hp": "13064",
-            "attack": "914",
-            "crit_rate": "217",
-            "crit_dmge": "550",
-            "armor": "318",
-            "block_prof": "2925",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.96% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
-                "Incoming Incinerate and Shock effects suffer -25 to 80% Duration."
-            ],
-            "url_page": "https://auntm.ai/champions/ultron_prime/tier/5",
-            "champid": "ultron_prime+5+2",
-            "challenger_rating": 90,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
-                    "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
-                ],
-                "WHEN HEALTH DROPS BELOW 50% AND 25%": [
-                    "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 3266 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
-                ],
-                "ALL ATTACKS": [
-                    "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
-                    "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 548.4 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
-                ],
-                "BLOCKING": [
-                    "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +344.12 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
-                ],
-                "HEAVY ATTACKS": [
-                    "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
-                ],
-                "LAUNCH A SPECIAL ATTACK": [
-                    "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +457 Attack Rating for each effect removed this way for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
-                    "Any Function (Damage) Debuffs triggered during this attack are doubled."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
-                    "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
-                ],
-                "PASSIVE": [
-                    "Duckslug Editorial",
-                    "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
-                    "This state is refreshed after 7 seconds.",
-                    "He can evade multiple attacks while in this state."
-                ]
-            }
-        },
-        "5+3": {
-            "rank": 3,
-            "prestige": "4225",
-            "hp": "18263",
-            "attack": "1278",
-            "crit_rate": "223",
-            "crit_dmge": "565",
-            "armor": "353",
-            "block_prof": "3000",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.96% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
-                "Incoming Incinerate and Shock effects suffer -25 to 80% Duration."
-            ],
-            "url_page": "https://auntm.ai/champions/ultron_prime/tier/5",
-            "champid": "ultron_prime+5+3",
-            "challenger_rating": 100,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
-                    "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
-                ],
-                "WHEN HEALTH DROPS BELOW 50% AND 25%": [
-                    "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 4565.75 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
-                ],
-                "ALL ATTACKS": [
-                    "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
-                    "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 766.8 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
-                ],
-                "BLOCKING": [
-                    "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +352.94 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
-                ],
-                "HEAVY ATTACKS": [
-                    "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
-                ],
-                "LAUNCH A SPECIAL ATTACK": [
-                    "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +639 Attack Rating for each effect removed this way for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
-                    "Any Function (Damage) Debuffs triggered during this attack are doubled."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
-                    "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
-                ],
-                "PASSIVE": [
-                    "Duckslug Editorial",
-                    "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
-                    "This state is refreshed after 7 seconds.",
-                    "He can evade multiple attacks while in this state."
-                ]
-            }
-        },
-        "5+4": {
-            "rank": 4,
-            "prestige": "5692",
-            "hp": "24610",
-            "attack": "1721",
-            "crit_rate": "228",
-            "crit_dmge": "579",
-            "armor": "391",
-            "block_prof": "3075",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.96% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
-                "Incoming Incinerate and Shock effects suffer -25 to 80% Duration."
-            ],
-            "url_page": "https://auntm.ai/champions/ultron_prime/tier/5",
-            "champid": "ultron_prime+5+4",
-            "challenger_rating": 110,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
-                    "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
-                ],
-                "WHEN HEALTH DROPS BELOW 50% AND 25%": [
-                    "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 6152.5 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
-                ],
-                "ALL ATTACKS": [
-                    "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
-                    "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 1032.6 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
-                ],
-                "BLOCKING": [
-                    "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +361.76 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
-                ],
-                "HEAVY ATTACKS": [
-                    "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
-                ],
-                "LAUNCH A SPECIAL ATTACK": [
-                    "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +860.5 Attack Rating for each effect removed this way for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
-                    "Any Function (Damage) Debuffs triggered during this attack are doubled."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
-                    "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
-                ],
-                "PASSIVE": [
-                    "Duckslug Editorial",
-                    "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
-                    "This state is refreshed after 7 seconds.",
-                    "He can evade multiple attacks while in this state."
-                ]
-            }
-        },
-        "5+5": {
-            "rank": 5,
-            "prestige": "7696",
-            "hp": "33227",
-            "attack": "2324",
-            "crit_rate": "234",
-            "crit_dmge": "593",
-            "armor": "431",
-            "block_prof": "3150",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.96% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
-                "Incoming Incinerate and Shock effects suffer -25 to 80% Duration."
-            ],
-            "url_page": "https://auntm.ai/champions/ultron_prime/tier/5",
-            "champid": "ultron_prime+5+5",
-            "challenger_rating": 120,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
-                    "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
-                ],
-                "WHEN HEALTH DROPS BELOW 50% AND 25%": [
-                    "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 8306.75 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
-                ],
-                "ALL ATTACKS": [
-                    "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
-                    "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 1394.4 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
-                ],
-                "BLOCKING": [
-                    "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +370.59 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
-                ],
-                "HEAVY ATTACKS": [
-                    "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
-                ],
-                "LAUNCH A SPECIAL ATTACK": [
-                    "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +1162 Attack Rating for each effect removed this way for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
-                    "Any Function (Damage) Debuffs triggered during this attack are doubled."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
-                    "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
-                ],
-                "PASSIVE": [
-                    "Duckslug Editorial",
-                    "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
-                    "This state is refreshed after 7 seconds.",
-                    "He can evade multiple attacks while in this state."
-                ]
-            }
-        },
-        "6+1": {
-            "rank": 1,
-            "prestige": "6027",
-            "hp": "26127",
-            "attack": "1827",
-            "crit_rate": "228",
-            "crit_dmge": "579",
-            "armor": "307",
-            "block_prof": "3075",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.96% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
-                "Incoming Incinerate and Shock effects suffer -25 to 80% Duration."
-            ],
-            "url_page": "https://auntm.ai/champions/ultron_prime/tier/6",
-            "champid": "ultron_prime+6+1",
-            "challenger_rating": 110,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
-                    "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
-                ],
-                "WHEN HEALTH DROPS BELOW 50% AND 25%": [
-                    "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 6531.75 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
-                ],
-                "ALL ATTACKS": [
-                    "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
-                    "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 1096.2 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
-                ],
-                "BLOCKING": [
-                    "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +361.76 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
-                ],
-                "HEAVY ATTACKS": [
-                    "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
-                ],
-                "LAUNCH A SPECIAL ATTACK": [
-                    "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +913.5 Attack Rating for each effect removed this way for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
-                    "Any Function (Damage) Debuffs triggered during this attack are doubled."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
-                    "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
-                ],
-                "PASSIVE": [
-                    "Duckslug Editorial",
-                    "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
-                    "This state is refreshed after 7 seconds.",
-                    "He can evade multiple attacks while in this state."
-                ]
-            }
-        },
-        "6+2": {
-            "rank": 2,
-            "prestige": "8324",
-            "hp": "36090",
-            "attack": "2524",
-            "crit_rate": "234",
-            "crit_dmge": "593",
-            "armor": "342",
-            "block_prof": "3150",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.96% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
-                "Incoming Incinerate and Shock effects suffer -25 to 80% Duration."
-            ],
-            "url_page": "https://auntm.ai/champions/ultron_prime/tier/6",
-            "champid": "ultron_prime+6+2",
-            "challenger_rating": 120,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
-                    "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
-                ],
-                "WHEN HEALTH DROPS BELOW 50% AND 25%": [
-                    "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 9022.5 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
-                ],
-                "ALL ATTACKS": [
-                    "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
-                    "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 1514.4 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
-                ],
-                "BLOCKING": [
-                    "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +370.59 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
-                ],
-                "HEAVY ATTACKS": [
-                    "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
-                ],
-                "LAUNCH A SPECIAL ATTACK": [
-                    "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +1262 Attack Rating for each effect removed this way for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
-                    "Any Function (Damage) Debuffs triggered during this attack are doubled."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
-                    "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
-                ],
-                "PASSIVE": [
-                    "Duckslug Editorial",
-                    "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
-                    "This state is refreshed after 7 seconds.",
-                    "He can evade multiple attacks while in this state."
-                ]
-            }
-        },
-        "6+3": {
-            "rank": 3,
-            "prestige": "9895",
-            "hp": "42815",
-            "attack": "2994",
-            "crit_rate": "239",
-            "crit_dmge": "607",
-            "armor": "380",
-            "block_prof": "3225",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.96% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
-                "Incoming Incinerate and Shock effects suffer -25 to 80% Duration."
-            ],
-            "url_page": "https://auntm.ai/champions/ultron_prime/tier/6",
-            "champid": "ultron_prime+6+3",
-            "challenger_rating": 130,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
-                    "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
-                ],
-                "WHEN HEALTH DROPS BELOW 50% AND 25%": [
-                    "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 10703.75 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
-                ],
-                "ALL ATTACKS": [
-                    "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
-                    "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 1796.4 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
-                ],
-                "BLOCKING": [
-                    "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +379.41 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
-                ],
-                "HEAVY ATTACKS": [
-                    "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
-                ],
-                "LAUNCH A SPECIAL ATTACK": [
-                    "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +1497 Attack Rating for each effect removed this way for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
-                    "Any Function (Damage) Debuffs triggered during this attack are doubled."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
-                    "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
-                ],
-                "PASSIVE": [
-                    "Duckslug Editorial",
-                    "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
-                    "This state is refreshed after 7 seconds.",
-                    "He can evade multiple attacks while in this state."
-                ]
-            }
-        },
-        "6+4": {
-            "rank": 4,
-            "prestige": "11322",
-            "hp": "48995",
-            "attack": "3427",
-            "crit_rate": "245",
-            "crit_dmge": "621",
-            "armor": "420",
-            "block_prof": "3300",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.96% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
-                "Incoming Incinerate and Shock effects suffer -25 to 80% Duration."
-            ],
-            "url_page": "https://auntm.ai/champions/ultron_prime/tier/6",
-            "champid": "ultron_prime+6+4",
-            "challenger_rating": 140,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
-                    "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
-                ],
-                "WHEN HEALTH DROPS BELOW 50% AND 25%": [
-                    "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 12248.75 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
-                ],
-                "ALL ATTACKS": [
-                    "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
-                    "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 2056.2 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
-                ],
-                "BLOCKING": [
-                    "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +388.24 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
-                ],
-                "HEAVY ATTACKS": [
-                    "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
-                ],
-                "LAUNCH A SPECIAL ATTACK": [
-                    "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +1713.5 Attack Rating for each effect removed this way for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
-                    "Any Function (Damage) Debuffs triggered during this attack are doubled."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
-                    "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
-                ],
-                "PASSIVE": [
-                    "Duckslug Editorial",
-                    "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
-                    "This state is refreshed after 7 seconds.",
-                    "He can evade multiple attacks while in this state."
-                ]
-            }
-        },
-        "find": {
-            "story_quests": {
-                "act_1": [],
-                "act_2": [],
-                "act_3": [],
-                "act_4": [],
-                "act_5": [
-                    "5.1.3",
-                    "5.1.4",
-                    "5.2.4",
-                    "5.2.5",
-                    "5.2.6",
-                    "5.3.2",
-                    "5.3.4",
-                    "5.3.6",
-                    "5.4.2",
-                    "5.4.4",
-                    "5.4.5",
-                    "5.4.6"
-                ],
-                "act_6": [
-                    "6.1.2",
-                    "6.1.3",
-                    "6.1.5",
-                    "6.1.6",
-                    "6.2.2",
-                    "6.2.5",
-                    "6.3.1",
-                    "6.3.2",
-                    "6.4.6"
-                ],
-                "act_7": [
-                    "7.1.1",
-                    "7.1.5",
-                    "7.2.1",
-                    "7.2.5",
-                    "7.2.6",
-                    "7.3.2",
-                    "7.3.5",
-                    "7.4.1"
-                ]
-            }
-        }
+  "champid": "ultron_prime",
+  "data": {
+    "2+1": {
+      "rank": 1,
+      "prestige": "275",
+      "hp": "1186",
+      "attack": "83",
+      "crit_rate": "178",
+      "crit_dmge": "452",
+      "armor": "240",
+      "block_prof": "2400",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.95% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
+        "Incoming Incinerate and Shock effects suffer -20 to 75% Duration."
+      ],
+      "url_page": "https://auntm.ai/champions/ultron_prime/tier/2",
+      "champid": "ultron_prime+2+1",
+      "challenger_rating": 20,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
+          "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
+        ],
+        "WHEN HEALTH DROPS BELOW 50% AND 25%": [
+          "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 296.5 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
+        ],
+        "ALL ATTACKS": [
+          "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
+          "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 49.8 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
+        ],
+        "BLOCKING": [
+          "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +282.35 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
+        ],
+        "HEAVY ATTACKS": [
+          "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
+        ],
+        "LAUNCH A SPECIAL ATTACK": [
+          "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +41.5 Attack Rating for each effect removed this way for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
+          "Any Function (Damage) Debuffs triggered during this attack are doubled."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
+          "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
+        ],
+        "PASSIVE": [
+          "Duckslug Editorial",
+          "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
+          "This state is refreshed after 7 seconds.",
+          "He can evade multiple attacks while in this state."
+        ]
+      }
+    },
+    "2+2": {
+      "rank": 2,
+      "prestige": "362",
+      "hp": "1567",
+      "attack": "110",
+      "crit_rate": "184",
+      "crit_dmge": "466",
+      "armor": "269",
+      "block_prof": "2475",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.95% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
+        "Incoming Incinerate and Shock effects suffer -20 to 75% Duration."
+      ],
+      "url_page": "https://auntm.ai/champions/ultron_prime/tier/2",
+      "champid": "ultron_prime+2+2",
+      "challenger_rating": 30,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
+          "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
+        ],
+        "WHEN HEALTH DROPS BELOW 50% AND 25%": [
+          "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 391.75 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
+        ],
+        "ALL ATTACKS": [
+          "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
+          "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 66 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
+        ],
+        "BLOCKING": [
+          "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +291.18 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
+        ],
+        "HEAVY ATTACKS": [
+          "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
+        ],
+        "LAUNCH A SPECIAL ATTACK": [
+          "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +55 Attack Rating for each effect removed this way for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
+          "Any Function (Damage) Debuffs triggered during this attack are doubled."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
+          "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
+        ],
+        "PASSIVE": [
+          "Duckslug Editorial",
+          "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
+          "This state is refreshed after 7 seconds.",
+          "He can evade multiple attacks while in this state."
+        ]
+      }
+    },
+    "2+3": {
+      "rank": 3,
+      "prestige": "574",
+      "hp": "2487",
+      "attack": "174",
+      "crit_rate": "189",
+      "crit_dmge": "480",
+      "armor": "300",
+      "block_prof": "2550",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.95% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
+        "Incoming Incinerate and Shock effects suffer -20 to 75% Duration."
+      ],
+      "url_page": "https://auntm.ai/champions/ultron_prime/tier/2",
+      "champid": "ultron_prime+2+3",
+      "challenger_rating": 40,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
+          "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
+        ],
+        "WHEN HEALTH DROPS BELOW 50% AND 25%": [
+          "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 621.75 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
+        ],
+        "ALL ATTACKS": [
+          "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
+          "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 104.4 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
+        ],
+        "BLOCKING": [
+          "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +300 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
+        ],
+        "HEAVY ATTACKS": [
+          "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
+        ],
+        "LAUNCH A SPECIAL ATTACK": [
+          "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +87 Attack Rating for each effect removed this way for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
+          "Any Function (Damage) Debuffs triggered during this attack are doubled."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
+          "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
+        ],
+        "PASSIVE": [
+          "Duckslug Editorial",
+          "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
+          "This state is refreshed after 7 seconds.",
+          "He can evade multiple attacks while in this state."
+        ]
+      }
+    },
+    "3+1": {
+      "rank": 1,
+      "prestige": "497",
+      "hp": "2150",
+      "attack": "151",
+      "crit_rate": "189",
+      "crit_dmge": "480",
+      "armor": "255",
+      "block_prof": "2550",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.95% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
+        "Incoming Incinerate and Shock effects suffer -20 to 75% Duration."
+      ],
+      "url_page": "https://auntm.ai/champions/ultron_prime/tier/3",
+      "champid": "ultron_prime+3+1",
+      "challenger_rating": 40,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
+          "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
+        ],
+        "WHEN HEALTH DROPS BELOW 50% AND 25%": [
+          "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 537.5 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
+        ],
+        "ALL ATTACKS": [
+          "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
+          "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 90.6 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
+        ],
+        "BLOCKING": [
+          "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +300 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
+        ],
+        "HEAVY ATTACKS": [
+          "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
+        ],
+        "LAUNCH A SPECIAL ATTACK": [
+          "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +75.5 Attack Rating for each effect removed this way for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
+          "Any Function (Damage) Debuffs triggered during this attack are doubled."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
+          "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
+        ],
+        "PASSIVE": [
+          "Duckslug Editorial",
+          "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
+          "This state is refreshed after 7 seconds.",
+          "He can evade multiple attacks while in this state."
+        ]
+      }
+    },
+    "3+2": {
+      "rank": 2,
+      "prestige": "793",
+      "hp": "3440",
+      "attack": "241",
+      "crit_rate": "195",
+      "crit_dmge": "494",
+      "armor": "285",
+      "block_prof": "2625",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.95% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
+        "Incoming Incinerate and Shock effects suffer -20 to 75% Duration."
+      ],
+      "url_page": "https://auntm.ai/champions/ultron_prime/tier/3",
+      "champid": "ultron_prime+3+2",
+      "challenger_rating": 50,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
+          "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
+        ],
+        "WHEN HEALTH DROPS BELOW 50% AND 25%": [
+          "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 860 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
+        ],
+        "ALL ATTACKS": [
+          "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
+          "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 144.6 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
+        ],
+        "BLOCKING": [
+          "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +308.82 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
+        ],
+        "HEAVY ATTACKS": [
+          "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
+        ],
+        "LAUNCH A SPECIAL ATTACK": [
+          "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +120.5 Attack Rating for each effect removed this way for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
+          "Any Function (Damage) Debuffs triggered during this attack are doubled."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
+          "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
+        ],
+        "PASSIVE": [
+          "Duckslug Editorial",
+          "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
+          "This state is refreshed after 7 seconds.",
+          "He can evade multiple attacks while in this state."
+        ]
+      }
+    },
+    "3+3": {
+      "rank": 3,
+      "prestige": "1107",
+      "hp": "4813",
+      "attack": "337",
+      "crit_rate": "200",
+      "crit_dmge": "508",
+      "armor": "318",
+      "block_prof": "2700",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.95% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
+        "Incoming Incinerate and Shock effects suffer -20 to 75% Duration."
+      ],
+      "url_page": "https://auntm.ai/champions/ultron_prime/tier/3",
+      "champid": "ultron_prime+3+3",
+      "challenger_rating": 60,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
+          "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
+        ],
+        "WHEN HEALTH DROPS BELOW 50% AND 25%": [
+          "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 1203.25 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
+        ],
+        "ALL ATTACKS": [
+          "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
+          "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 202.2 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
+        ],
+        "BLOCKING": [
+          "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +317.65 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
+        ],
+        "HEAVY ATTACKS": [
+          "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
+        ],
+        "LAUNCH A SPECIAL ATTACK": [
+          "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +168.5 Attack Rating for each effect removed this way for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
+          "Any Function (Damage) Debuffs triggered during this attack are doubled."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
+          "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
+        ],
+        "PASSIVE": [
+          "Duckslug Editorial",
+          "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
+          "This state is refreshed after 7 seconds.",
+          "He can evade multiple attacks while in this state."
+        ]
+      }
+    },
+    "3+4": {
+      "rank": 4,
+      "prestige": "1520",
+      "hp": "6609",
+      "attack": "463",
+      "crit_rate": "206",
+      "crit_dmge": "522",
+      "armor": "353",
+      "block_prof": "2775",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.95% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
+        "Incoming Incinerate and Shock effects suffer -20 to 75% Duration."
+      ],
+      "url_page": "https://auntm.ai/champions/ultron_prime/tier/3",
+      "champid": "ultron_prime+3+4",
+      "challenger_rating": 70,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
+          "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
+        ],
+        "WHEN HEALTH DROPS BELOW 50% AND 25%": [
+          "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 1652.25 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
+        ],
+        "ALL ATTACKS": [
+          "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
+          "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 277.8 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
+        ],
+        "BLOCKING": [
+          "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +326.47 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
+        ],
+        "HEAVY ATTACKS": [
+          "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
+        ],
+        "LAUNCH A SPECIAL ATTACK": [
+          "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +231.5 Attack Rating for each effect removed this way for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
+          "Any Function (Damage) Debuffs triggered during this attack are doubled."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
+          "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
+        ],
+        "PASSIVE": [
+          "Duckslug Editorial",
+          "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
+          "This state is refreshed after 7 seconds.",
+          "He can evade multiple attacks while in this state."
+        ]
+      }
+    },
+    "4+1": {
+      "rank": 1,
+      "prestige": "1108",
+      "hp": "4809",
+      "attack": "337",
+      "crit_rate": "200",
+      "crit_dmge": "508",
+      "armor": "269",
+      "block_prof": "2700",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.95% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
+        "Incoming Incinerate and Shock effects suffer -20 to 75% Duration."
+      ],
+      "url_page": "https://auntm.ai/champions/ultron_prime/tier/4",
+      "champid": "ultron_prime+4+1",
+      "challenger_rating": 60,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
+          "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
+        ],
+        "WHEN HEALTH DROPS BELOW 50% AND 25%": [
+          "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 1202.25 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
+        ],
+        "ALL ATTACKS": [
+          "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
+          "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 202.2 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
+        ],
+        "BLOCKING": [
+          "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +317.65 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
+        ],
+        "HEAVY ATTACKS": [
+          "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
+        ],
+        "LAUNCH A SPECIAL ATTACK": [
+          "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +168.5 Attack Rating for each effect removed this way for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
+          "Any Function (Damage) Debuffs triggered during this attack are doubled."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
+          "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
+        ],
+        "PASSIVE": [
+          "Duckslug Editorial",
+          "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
+          "This state is refreshed after 7 seconds.",
+          "He can evade multiple attacks while in this state."
+        ]
+      }
+    },
+    "4+2": {
+      "rank": 2,
+      "prestige": "1554",
+      "hp": "6746",
+      "attack": "472",
+      "crit_rate": "206",
+      "crit_dmge": "522",
+      "armor": "302",
+      "block_prof": "2775",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.95% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
+        "Incoming Incinerate and Shock effects suffer -20 to 75% Duration."
+      ],
+      "url_page": "https://auntm.ai/champions/ultron_prime/tier/4",
+      "champid": "ultron_prime+4+2",
+      "challenger_rating": 70,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
+          "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
+        ],
+        "WHEN HEALTH DROPS BELOW 50% AND 25%": [
+          "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 1686.5 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
+        ],
+        "ALL ATTACKS": [
+          "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
+          "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 283.2 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
+        ],
+        "BLOCKING": [
+          "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +326.47 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
+        ],
+        "HEAVY ATTACKS": [
+          "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
+        ],
+        "LAUNCH A SPECIAL ATTACK": [
+          "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +236 Attack Rating for each effect removed this way for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
+          "Any Function (Damage) Debuffs triggered during this attack are doubled."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
+          "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
+        ],
+        "PASSIVE": [
+          "Duckslug Editorial",
+          "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
+          "This state is refreshed after 7 seconds.",
+          "He can evade multiple attacks while in this state."
+        ]
+      }
+    },
+    "4+3": {
+      "rank": 3,
+      "prestige": "2174",
+      "hp": "9452",
+      "attack": "661",
+      "crit_rate": "212",
+      "crit_dmge": "536",
+      "armor": "336",
+      "block_prof": "2850",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.95% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
+        "Incoming Incinerate and Shock effects suffer -20 to 75% Duration."
+      ],
+      "url_page": "https://auntm.ai/champions/ultron_prime/tier/4",
+      "champid": "ultron_prime+4+3",
+      "challenger_rating": 80,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
+          "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
+        ],
+        "WHEN HEALTH DROPS BELOW 50% AND 25%": [
+          "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 2363 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
+        ],
+        "ALL ATTACKS": [
+          "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
+          "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 396.6 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
+        ],
+        "BLOCKING": [
+          "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +335.29 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
+        ],
+        "HEAVY ATTACKS": [
+          "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
+        ],
+        "LAUNCH A SPECIAL ATTACK": [
+          "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +330.5 Attack Rating for each effect removed this way for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
+          "Any Function (Damage) Debuffs triggered during this attack are doubled."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
+          "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
+        ],
+        "PASSIVE": [
+          "Duckslug Editorial",
+          "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
+          "This state is refreshed after 7 seconds.",
+          "He can evade multiple attacks while in this state."
+        ]
+      }
+    },
+    "4+4": {
+      "rank": 4,
+      "prestige": "2862",
+      "hp": "12420",
+      "attack": "869",
+      "crit_rate": "217",
+      "crit_dmge": "550",
+      "armor": "372",
+      "block_prof": "2925",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.95% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
+        "Incoming Incinerate and Shock effects suffer -20 to 75% Duration."
+      ],
+      "url_page": "https://auntm.ai/champions/ultron_prime/tier/4",
+      "champid": "ultron_prime+4+4",
+      "challenger_rating": 90,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
+          "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
+        ],
+        "WHEN HEALTH DROPS BELOW 50% AND 25%": [
+          "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 3105 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
+        ],
+        "ALL ATTACKS": [
+          "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
+          "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 521.4 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
+        ],
+        "BLOCKING": [
+          "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +344.12 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
+        ],
+        "HEAVY ATTACKS": [
+          "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
+        ],
+        "LAUNCH A SPECIAL ATTACK": [
+          "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +434.5 Attack Rating for each effect removed this way for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
+          "Any Function (Damage) Debuffs triggered during this attack are doubled."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
+          "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
+        ],
+        "PASSIVE": [
+          "Duckslug Editorial",
+          "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
+          "This state is refreshed after 7 seconds.",
+          "He can evade multiple attacks while in this state."
+        ]
+      }
+    },
+    "4+5": {
+      "rank": 5,
+      "prestige": "3816",
+      "hp": "16572",
+      "attack": "1159",
+      "crit_rate": "223",
+      "crit_dmge": "565",
+      "armor": "410",
+      "block_prof": "3000",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.95% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
+        "Incoming Incinerate and Shock effects suffer -20 to 75% Duration."
+      ],
+      "url_page": "https://auntm.ai/champions/ultron_prime/tier/4",
+      "champid": "ultron_prime+4+5",
+      "challenger_rating": 100,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
+          "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
+        ],
+        "WHEN HEALTH DROPS BELOW 50% AND 25%": [
+          "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 4143 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
+        ],
+        "ALL ATTACKS": [
+          "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
+          "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 695.4 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
+        ],
+        "BLOCKING": [
+          "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +352.94 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
+        ],
+        "HEAVY ATTACKS": [
+          "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
+        ],
+        "LAUNCH A SPECIAL ATTACK": [
+          "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +579.5 Attack Rating for each effect removed this way for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
+          "Any Function (Damage) Debuffs triggered during this attack are doubled."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
+          "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
+        ],
+        "PASSIVE": [
+          "Duckslug Editorial",
+          "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
+          "This state is refreshed after 7 seconds.",
+          "He can evade multiple attacks while in this state."
+        ]
+      }
+    },
+    "5+1": {
+      "rank": 1,
+      "prestige": "2286",
+      "hp": "9890",
+      "attack": "692",
+      "crit_rate": "212",
+      "crit_dmge": "536",
+      "armor": "284",
+      "block_prof": "2850",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.96% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
+        "Incoming Incinerate and Shock effects suffer -25 to 80% Duration."
+      ],
+      "url_page": "https://auntm.ai/champions/ultron_prime/tier/5",
+      "champid": "ultron_prime+5+1",
+      "challenger_rating": 80,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
+          "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
+        ],
+        "WHEN HEALTH DROPS BELOW 50% AND 25%": [
+          "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 2472.5 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
+        ],
+        "ALL ATTACKS": [
+          "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
+          "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 415.2 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
+        ],
+        "BLOCKING": [
+          "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +335.29 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
+        ],
+        "HEAVY ATTACKS": [
+          "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
+        ],
+        "LAUNCH A SPECIAL ATTACK": [
+          "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +346 Attack Rating for each effect removed this way for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
+          "Any Function (Damage) Debuffs triggered during this attack are doubled."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
+          "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
+        ],
+        "PASSIVE": [
+          "Duckslug Editorial",
+          "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
+          "This state is refreshed after 7 seconds.",
+          "He can evade multiple attacks while in this state."
+        ]
+      }
+    },
+    "5+2": {
+      "rank": 2,
+      "prestige": "3018",
+      "hp": "13064",
+      "attack": "914",
+      "crit_rate": "217",
+      "crit_dmge": "550",
+      "armor": "318",
+      "block_prof": "2925",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.96% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
+        "Incoming Incinerate and Shock effects suffer -25 to 80% Duration."
+      ],
+      "url_page": "https://auntm.ai/champions/ultron_prime/tier/5",
+      "champid": "ultron_prime+5+2",
+      "challenger_rating": 90,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
+          "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
+        ],
+        "WHEN HEALTH DROPS BELOW 50% AND 25%": [
+          "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 3266 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
+        ],
+        "ALL ATTACKS": [
+          "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
+          "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 548.4 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
+        ],
+        "BLOCKING": [
+          "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +344.12 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
+        ],
+        "HEAVY ATTACKS": [
+          "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
+        ],
+        "LAUNCH A SPECIAL ATTACK": [
+          "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +457 Attack Rating for each effect removed this way for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
+          "Any Function (Damage) Debuffs triggered during this attack are doubled."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
+          "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
+        ],
+        "PASSIVE": [
+          "Duckslug Editorial",
+          "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
+          "This state is refreshed after 7 seconds.",
+          "He can evade multiple attacks while in this state."
+        ]
+      }
+    },
+    "5+3": {
+      "rank": 3,
+      "prestige": "4225",
+      "hp": "18263",
+      "attack": "1278",
+      "crit_rate": "223",
+      "crit_dmge": "565",
+      "armor": "353",
+      "block_prof": "3000",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.96% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
+        "Incoming Incinerate and Shock effects suffer -25 to 80% Duration."
+      ],
+      "url_page": "https://auntm.ai/champions/ultron_prime/tier/5",
+      "champid": "ultron_prime+5+3",
+      "challenger_rating": 100,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
+          "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
+        ],
+        "WHEN HEALTH DROPS BELOW 50% AND 25%": [
+          "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 4565.75 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
+        ],
+        "ALL ATTACKS": [
+          "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
+          "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 766.8 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
+        ],
+        "BLOCKING": [
+          "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +352.94 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
+        ],
+        "HEAVY ATTACKS": [
+          "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
+        ],
+        "LAUNCH A SPECIAL ATTACK": [
+          "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +639 Attack Rating for each effect removed this way for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
+          "Any Function (Damage) Debuffs triggered during this attack are doubled."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
+          "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
+        ],
+        "PASSIVE": [
+          "Duckslug Editorial",
+          "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
+          "This state is refreshed after 7 seconds.",
+          "He can evade multiple attacks while in this state."
+        ]
+      }
+    },
+    "5+4": {
+      "rank": 4,
+      "prestige": "5692",
+      "hp": "24610",
+      "attack": "1721",
+      "crit_rate": "228",
+      "crit_dmge": "579",
+      "armor": "391",
+      "block_prof": "3075",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.96% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
+        "Incoming Incinerate and Shock effects suffer -25 to 80% Duration."
+      ],
+      "url_page": "https://auntm.ai/champions/ultron_prime/tier/5",
+      "champid": "ultron_prime+5+4",
+      "challenger_rating": 110,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
+          "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
+        ],
+        "WHEN HEALTH DROPS BELOW 50% AND 25%": [
+          "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 6152.5 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
+        ],
+        "ALL ATTACKS": [
+          "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
+          "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 1032.6 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
+        ],
+        "BLOCKING": [
+          "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +361.76 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
+        ],
+        "HEAVY ATTACKS": [
+          "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
+        ],
+        "LAUNCH A SPECIAL ATTACK": [
+          "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +860.5 Attack Rating for each effect removed this way for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
+          "Any Function (Damage) Debuffs triggered during this attack are doubled."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
+          "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
+        ],
+        "PASSIVE": [
+          "Duckslug Editorial",
+          "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
+          "This state is refreshed after 7 seconds.",
+          "He can evade multiple attacks while in this state."
+        ]
+      }
+    },
+    "5+5": {
+      "rank": 5,
+      "prestige": "7696",
+      "hp": "33227",
+      "attack": "2324",
+      "crit_rate": "234",
+      "crit_dmge": "593",
+      "armor": "431",
+      "block_prof": "3150",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.96% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
+        "Incoming Incinerate and Shock effects suffer -25 to 80% Duration."
+      ],
+      "url_page": "https://auntm.ai/champions/ultron_prime/tier/5",
+      "champid": "ultron_prime+5+5",
+      "challenger_rating": 120,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
+          "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
+        ],
+        "WHEN HEALTH DROPS BELOW 50% AND 25%": [
+          "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 8306.75 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
+        ],
+        "ALL ATTACKS": [
+          "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
+          "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 1394.4 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
+        ],
+        "BLOCKING": [
+          "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +370.59 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
+        ],
+        "HEAVY ATTACKS": [
+          "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
+        ],
+        "LAUNCH A SPECIAL ATTACK": [
+          "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +1162 Attack Rating for each effect removed this way for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
+          "Any Function (Damage) Debuffs triggered during this attack are doubled."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
+          "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
+        ],
+        "PASSIVE": [
+          "Duckslug Editorial",
+          "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
+          "This state is refreshed after 7 seconds.",
+          "He can evade multiple attacks while in this state."
+        ]
+      }
+    },
+    "6+1": {
+      "rank": 1,
+      "prestige": "6027",
+      "hp": "26127",
+      "attack": "1827",
+      "crit_rate": "228",
+      "crit_dmge": "579",
+      "armor": "307",
+      "block_prof": "3075",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.96% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
+        "Incoming Incinerate and Shock effects suffer -25 to 80% Duration."
+      ],
+      "url_page": "https://auntm.ai/champions/ultron_prime/tier/6",
+      "champid": "ultron_prime+6+1",
+      "challenger_rating": 110,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
+          "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
+        ],
+        "WHEN HEALTH DROPS BELOW 50% AND 25%": [
+          "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 6531.75 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
+        ],
+        "ALL ATTACKS": [
+          "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
+          "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 1096.2 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
+        ],
+        "BLOCKING": [
+          "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +361.76 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
+        ],
+        "HEAVY ATTACKS": [
+          "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
+        ],
+        "LAUNCH A SPECIAL ATTACK": [
+          "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +913.5 Attack Rating for each effect removed this way for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
+          "Any Function (Damage) Debuffs triggered during this attack are doubled."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
+          "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
+        ],
+        "PASSIVE": [
+          "Duckslug Editorial",
+          "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
+          "This state is refreshed after 7 seconds.",
+          "He can evade multiple attacks while in this state."
+        ]
+      }
+    },
+    "6+2": {
+      "rank": 2,
+      "prestige": "8324",
+      "hp": "36090",
+      "attack": "2524",
+      "crit_rate": "234",
+      "crit_dmge": "593",
+      "armor": "342",
+      "block_prof": "3150",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.96% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
+        "Incoming Incinerate and Shock effects suffer -25 to 80% Duration."
+      ],
+      "url_page": "https://auntm.ai/champions/ultron_prime/tier/6",
+      "champid": "ultron_prime+6+2",
+      "challenger_rating": 120,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
+          "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
+        ],
+        "WHEN HEALTH DROPS BELOW 50% AND 25%": [
+          "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 9022.5 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
+        ],
+        "ALL ATTACKS": [
+          "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
+          "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 1514.4 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
+        ],
+        "BLOCKING": [
+          "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +370.59 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
+        ],
+        "HEAVY ATTACKS": [
+          "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
+        ],
+        "LAUNCH A SPECIAL ATTACK": [
+          "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +1262 Attack Rating for each effect removed this way for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
+          "Any Function (Damage) Debuffs triggered during this attack are doubled."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
+          "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
+        ],
+        "PASSIVE": [
+          "Duckslug Editorial",
+          "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
+          "This state is refreshed after 7 seconds.",
+          "He can evade multiple attacks while in this state."
+        ]
+      }
+    },
+    "6+3": {
+      "rank": 3,
+      "prestige": "9895",
+      "hp": "42815",
+      "attack": "2994",
+      "crit_rate": "239",
+      "crit_dmge": "607",
+      "armor": "380",
+      "block_prof": "3225",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.96% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
+        "Incoming Incinerate and Shock effects suffer -25 to 80% Duration."
+      ],
+      "url_page": "https://auntm.ai/champions/ultron_prime/tier/6",
+      "champid": "ultron_prime+6+3",
+      "challenger_rating": 130,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
+          "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
+        ],
+        "WHEN HEALTH DROPS BELOW 50% AND 25%": [
+          "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 10703.75 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
+        ],
+        "ALL ATTACKS": [
+          "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
+          "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 1796.4 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
+        ],
+        "BLOCKING": [
+          "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +379.41 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
+        ],
+        "HEAVY ATTACKS": [
+          "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
+        ],
+        "LAUNCH A SPECIAL ATTACK": [
+          "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +1497 Attack Rating for each effect removed this way for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
+          "Any Function (Damage) Debuffs triggered during this attack are doubled."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
+          "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
+        ],
+        "PASSIVE": [
+          "Duckslug Editorial",
+          "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
+          "This state is refreshed after 7 seconds.",
+          "He can evade multiple attacks while in this state."
+        ]
+      }
+    },
+    "6+4": {
+      "rank": 4,
+      "prestige": "11322",
+      "hp": "48995",
+      "attack": "3427",
+      "crit_rate": "245",
+      "crit_dmge": "621",
+      "armor": "420",
+      "block_prof": "3300",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Attacks that deal Energy Damage cause Ultron to Regenerate 20 to 65.96% of the damage dealt to him. Each Energy-based attack also grants Ultron a burst of Power based on the damage dealt.",
+        "Incoming Incinerate and Shock effects suffer -25 to 80% Duration."
+      ],
+      "url_page": "https://auntm.ai/champions/ultron_prime/tier/6",
+      "champid": "ultron_prime+6+4",
+      "challenger_rating": 140,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
+          "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
+        ],
+        "WHEN HEALTH DROPS BELOW 50% AND 25%": [
+          "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 12248.75 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
+        ],
+        "ALL ATTACKS": [
+          "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
+          "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 2056.2 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
+        ],
+        "BLOCKING": [
+          "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +388.24 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
+        ],
+        "HEAVY ATTACKS": [
+          "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
+        ],
+        "LAUNCH A SPECIAL ATTACK": [
+          "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +1713.5 Attack Rating for each effect removed this way for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
+          "Any Function (Damage) Debuffs triggered during this attack are doubled."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
+          "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
+        ],
+        "PASSIVE": [
+          "Duckslug Editorial",
+          "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
+          "This state is refreshed after 7 seconds.",
+          "He can evade multiple attacks while in this state."
+        ]
+      }
+    },
+    "1+1": {
+      "rank": 1,
+      "prestige": 215,
+      "hp": 929,
+      "attack": 65,
+      "crit_rate": 173,
+      "crit_dmge": 438,
+      "armor": 232,
+      "block_prof": 2325,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/ultron_prime/tier/1",
+      "champid": "ultron_prime+1+1",
+      "challenger_rating": 10,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
+          "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
+        ],
+        "WHEN HEALTH DROPS BELOW 50% AND 25%": [
+          "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 232.25 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
+        ],
+        "ALL ATTACKS": [
+          "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
+          "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 39 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
+        ],
+        "BLOCKING": [
+          "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +273.53 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
+        ],
+        "HEAVY ATTACKS": [
+          "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
+        ],
+        "LAUNCH A SPECIAL ATTACK": [
+          "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +32.5 Attack Rating for each effect removed this way for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
+          "Any Function (Damage) Debuffs triggered during this attack are doubled."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
+          "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
+        ],
+        "PASSIVE": [
+          "Duckslug Editorial",
+          "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
+          "This state is refreshed after 7 seconds.",
+          "He can evade multiple attacks while in this state."
+        ]
+      }
+    },
+    "1+2": {
+      "rank": 2,
+      "prestige": 296,
+      "hp": 1285,
+      "attack": 90,
+      "crit_rate": 178,
+      "crit_dmge": 452,
+      "armor": 261,
+      "block_prof": 2400,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/ultron_prime/tier/1",
+      "champid": "ultron_prime+1+2",
+      "challenger_rating": 20,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Advanced robotics causes Ultron\u2019s Function abilities to have a 100% chance to trigger and to be unaffected by Ability Accuracy. Additionally, Ultron is Immune to Bleed, Poison and Slow effects.",
+          "Function (Evade) - Every 7 seconds, Evade all incoming attacks for 1.5 second(s)."
+        ],
+        "WHEN HEALTH DROPS BELOW 50% AND 25%": [
+          "Function (Heal) - Once Per Fight - Gain a Self-Repair Buff healing 321.25 Health over 10 seconds. If Stunned while Self Repair is active, Connection is Lost and the Self-Repair is removed."
+        ],
+        "ALL ATTACKS": [
+          "Function (Critical) - Every 5th attack is a guaranteed Critical Hit.",
+          "Function (Damage) - Every 3rd attack inflicts a Bleed Debuff, causing 54 direct damage over 6 seconds. If the target is Mutant, instead inflict a matching Degeneration Debuff."
+        ],
+        "BLOCKING": [
+          "Function (Armor) - Every 4th Blocked attack grants an Armor Up Buff, providing +282.35 Armor Rating for 30 seconds. Well-Timed Blocks count as 4 Blocked attacks for this purpose."
+        ],
+        "HEAVY ATTACKS": [
+          "Triggers Function (Damage) for each unique Function Ultron has utilized during the fight. Cooldown: 5 seconds per unique Function utilized during the fight."
+        ],
+        "LAUNCH A SPECIAL ATTACK": [
+          "Function (Cauterize) - Remove all effects from the opponent caused by Ultron\u2019s Function (Damage). Gain +45 Attack Rating for each effect removed this way for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 2 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The attack bonus granted by Function (Cauterize) lingers for 10 seconds after this attack is finished.",
+          "Any Function (Damage) Debuffs triggered during this attack are doubled."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Function (Stun) - Inflict a Stun Debuff lasting 3.50 seconds.",
+          "Function (Burn) - Inflicts Power Burn, draining 2 bar(s) of Power and dealing direct damage proportional to the Power Drained."
+        ],
+        "PASSIVE": [
+          "Duckslug Editorial",
+          "Ultron Prime enters an evade state 7 seconds after the fight starts, lasting 0.4 seconds. He will not evade while stunned.",
+          "This state is refreshed after 7 seconds.",
+          "He can evade multiple attacks while in this state."
+        ]
+      }
+    },
+    "find": {
+      "story_quests": {
+        "act_1": [],
+        "act_2": [],
+        "act_3": [],
+        "act_4": [],
+        "act_5": [
+          "5.1.3",
+          "5.1.4",
+          "5.2.4",
+          "5.2.5",
+          "5.2.6",
+          "5.3.2",
+          "5.3.4",
+          "5.3.6",
+          "5.4.2",
+          "5.4.4",
+          "5.4.5",
+          "5.4.6"
+        ],
+        "act_6": [
+          "6.1.2",
+          "6.1.3",
+          "6.1.5",
+          "6.1.6",
+          "6.2.2",
+          "6.2.5",
+          "6.3.1",
+          "6.3.2",
+          "6.4.6"
+        ],
+        "act_7": [
+          "7.1.1",
+          "7.1.5",
+          "7.2.1",
+          "7.2.5",
+          "7.2.6",
+          "7.3.2",
+          "7.3.5",
+          "7.4.1"
+        ]
+      }
     }
+  },
+  "name": "ULTRON",
+  "class": "Tech",
+  "img_portrait": "https://api.rexians.tk/assets/portraits/ultron_prime.png",
+  "contact": "PHYSICAL",
+  "tags": ["Villain", "Robot", "Size: L"],
+  "released": "6/4/2015"
 }

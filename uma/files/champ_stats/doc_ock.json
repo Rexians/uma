@@ -1,1295 +1,1378 @@
 {
-    "name": "DOCTOR OCTOPUS",
-    "class": "Tech",
-    "img_portrait": "https://api.rexians.tk/assets/portraits/doc_ock.png",
-    "contact": "PHYSICAL",
-    "tags": [
-        "Villain",
-        "Sinister Six",
-        "Size: M"
-    ],
-    "released": "8/17/2017",
-    "champid": "doc_ock",
-    "data": {
-        "2+1": {
-            "rank": 1,
-            "prestige": "277",
-            "hp": "1045",
-            "attack": "79",
-            "crit_rate": "478",
-            "crit_dmge": "563",
-            "armor": "33",
-            "block_prof": "2725",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
-                "Physics: Drain 100% of Power Gained and Steal 5 to 10% of the Power Drained.",
-                "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15 to 30.01% of the Damage done.",
-                "Biology: Gain the standard Biology Breakthrough Armor Up and 282.35 to 463.03 Armor Penetration while it's active."
-            ],
-            "url_page": "https://auntm.ai/champions/doc_ock/tier/2",
-            "champid": "doc_ock+2+1",
-            "challenger_rating": 20,
-            "abilities": {
-                "SCIENTIFIC METHOD - PASSIVE": [
-                    "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
-                    "Each Category grants a Passive effect which scales as its category builds.",
-                    "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
-                    "When a Breakthrough effect expires all Research Categories are reset to 0."
-                ],
-                "PHYSICS - RESEARCH CATEGORY": [
-                    "Builds on Opponent Gaining Power.",
-                    "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
-                    "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
-                ],
-                "CHEMISTRY - RESEARCH CATEGORY": [
-                    "Builds on Block or Parry.",
-                    "Scaling Effect: Block Prof Buff, granting up to 1600 Block Proficiency.",
-                    "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
-                ],
-                "BIOLOGY - RESEARCH CATEGORY": [
-                    "Builds when landing Hits and when being Struck",
-                    "Scaling Effect: Fury, granting up to 79 Attack.",
-                    "Breakthrough: Applies an Armor Up Buff, granting 1600 Armor for 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "Remove all currently active Breakthroughs dealing 79 damage per Breakthrough removed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Reset the duration of any currently active Breakthrough Effect.",
-                    "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
-                    "This Duration increases by 10 seconds per currently active Breakthrough."
-                ]
-            }
-        },
-        "2+2": {
-            "rank": 2,
-            "prestige": "360",
-            "hp": "1366",
-            "attack": "104",
-            "crit_rate": "493",
-            "crit_dmge": "580",
-            "armor": "52",
-            "block_prof": "2810",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
-                "Physics: Drain 100% of Power Gained and Steal 5 to 10% of the Power Drained.",
-                "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15 to 30.01% of the Damage done.",
-                "Biology: Gain the standard Biology Breakthrough Armor Up and 291.18 to 477.5 Armor Penetration while it's active."
-            ],
-            "url_page": "https://auntm.ai/champions/doc_ock/tier/2",
-            "champid": "doc_ock+2+2",
-            "challenger_rating": 30,
-            "abilities": {
-                "SCIENTIFIC METHOD - PASSIVE": [
-                    "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
-                    "Each Category grants a Passive effect which scales as its category builds.",
-                    "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
-                    "When a Breakthrough effect expires all Research Categories are reset to 0."
-                ],
-                "PHYSICS - RESEARCH CATEGORY": [
-                    "Builds on Opponent Gaining Power.",
-                    "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
-                    "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
-                ],
-                "CHEMISTRY - RESEARCH CATEGORY": [
-                    "Builds on Block or Parry.",
-                    "Scaling Effect: Block Prof Buff, granting up to 1650 Block Proficiency.",
-                    "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
-                ],
-                "BIOLOGY - RESEARCH CATEGORY": [
-                    "Builds when landing Hits and when being Struck",
-                    "Scaling Effect: Fury, granting up to 104 Attack.",
-                    "Breakthrough: Applies an Armor Up Buff, granting 1650 Armor for 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "Remove all currently active Breakthroughs dealing 104 damage per Breakthrough removed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Reset the duration of any currently active Breakthrough Effect.",
-                    "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
-                    "This Duration increases by 10 seconds per currently active Breakthrough."
-                ]
-            }
-        },
-        "2+3": {
-            "rank": 3,
-            "prestige": "590",
-            "hp": "2145",
-            "attack": "163",
-            "crit_rate": "508",
-            "crit_dmge": "598",
-            "armor": "71",
-            "block_prof": "2895",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
-                "Physics: Drain 100% of Power Gained and Steal 5 to 10% of the Power Drained.",
-                "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15 to 30.01% of the Damage done.",
-                "Biology: Gain the standard Biology Breakthrough Armor Up and 300 to 491.97 Armor Penetration while it's active."
-            ],
-            "url_page": "https://auntm.ai/champions/doc_ock/tier/2",
-            "champid": "doc_ock+2+3",
-            "challenger_rating": 40,
-            "abilities": {
-                "SCIENTIFIC METHOD - PASSIVE": [
-                    "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
-                    "Each Category grants a Passive effect which scales as its category builds.",
-                    "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
-                    "When a Breakthrough effect expires all Research Categories are reset to 0."
-                ],
-                "PHYSICS - RESEARCH CATEGORY": [
-                    "Builds on Opponent Gaining Power.",
-                    "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
-                    "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
-                ],
-                "CHEMISTRY - RESEARCH CATEGORY": [
-                    "Builds on Block or Parry.",
-                    "Scaling Effect: Block Prof Buff, granting up to 1700 Block Proficiency.",
-                    "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
-                ],
-                "BIOLOGY - RESEARCH CATEGORY": [
-                    "Builds when landing Hits and when being Struck",
-                    "Scaling Effect: Fury, granting up to 163 Attack.",
-                    "Breakthrough: Applies an Armor Up Buff, granting 1700 Armor for 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "Remove all currently active Breakthroughs dealing 163 damage per Breakthrough removed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Reset the duration of any currently active Breakthrough Effect.",
-                    "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
-                    "This Duration increases by 10 seconds per currently active Breakthrough."
-                ]
-            }
-        },
-        "3+1": {
-            "rank": 1,
-            "prestige": "517",
-            "hp": "1874",
-            "attack": "142",
-            "crit_rate": "508",
-            "crit_dmge": "598",
-            "armor": "71",
-            "block_prof": "2895",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
-                "Physics: Drain 100% of Power Gained and Steal 5 to 10% of the Power Drained.",
-                "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15 to 30.01% of the Damage done.",
-                "Biology: Gain the standard Biology Breakthrough Armor Up and 300 to 491.97 Armor Penetration while it's active."
-            ],
-            "url_page": "https://auntm.ai/champions/doc_ock/tier/3",
-            "champid": "doc_ock+3+1",
-            "challenger_rating": 40,
-            "abilities": {
-                "SCIENTIFIC METHOD - PASSIVE": [
-                    "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
-                    "Each Category grants a Passive effect which scales as its category builds.",
-                    "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
-                    "When a Breakthrough effect expires all Research Categories are reset to 0."
-                ],
-                "PHYSICS - RESEARCH CATEGORY": [
-                    "Builds on Opponent Gaining Power.",
-                    "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
-                    "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
-                ],
-                "CHEMISTRY - RESEARCH CATEGORY": [
-                    "Builds on Block or Parry.",
-                    "Scaling Effect: Block Prof Buff, granting up to 1700 Block Proficiency.",
-                    "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
-                ],
-                "BIOLOGY - RESEARCH CATEGORY": [
-                    "Builds when landing Hits and when being Struck",
-                    "Scaling Effect: Fury, granting up to 142 Attack.",
-                    "Breakthrough: Applies an Armor Up Buff, granting 1700 Armor for 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "Remove all currently active Breakthroughs dealing 142 damage per Breakthrough removed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Reset the duration of any currently active Breakthrough Effect.",
-                    "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
-                    "This Duration increases by 10 seconds per currently active Breakthrough."
-                ]
-            }
-        },
-        "3+2": {
-            "rank": 2,
-            "prestige": "815",
-            "hp": "2967",
-            "attack": "225",
-            "crit_rate": "523",
-            "crit_dmge": "615",
-            "armor": "93",
-            "block_prof": "2980",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
-                "Physics: Drain 100% of Power Gained and Steal 5 to 10% of the Power Drained.",
-                "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15 to 30.01% of the Damage done.",
-                "Biology: Gain the standard Biology Breakthrough Armor Up and 308.82 to 506.44 Armor Penetration while it's active."
-            ],
-            "url_page": "https://auntm.ai/champions/doc_ock/tier/3",
-            "champid": "doc_ock+3+2",
-            "challenger_rating": 50,
-            "abilities": {
-                "SCIENTIFIC METHOD - PASSIVE": [
-                    "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
-                    "Each Category grants a Passive effect which scales as its category builds.",
-                    "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
-                    "When a Breakthrough effect expires all Research Categories are reset to 0."
-                ],
-                "PHYSICS - RESEARCH CATEGORY": [
-                    "Builds on Opponent Gaining Power.",
-                    "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
-                    "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
-                ],
-                "CHEMISTRY - RESEARCH CATEGORY": [
-                    "Builds on Block or Parry.",
-                    "Scaling Effect: Block Prof Buff, granting up to 1750 Block Proficiency.",
-                    "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
-                ],
-                "BIOLOGY - RESEARCH CATEGORY": [
-                    "Builds when landing Hits and when being Struck",
-                    "Scaling Effect: Fury, granting up to 225 Attack.",
-                    "Breakthrough: Applies an Armor Up Buff, granting 1750 Armor for 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "Remove all currently active Breakthroughs dealing 225 damage per Breakthrough removed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Reset the duration of any currently active Breakthrough Effect.",
-                    "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
-                    "This Duration increases by 10 seconds per currently active Breakthrough."
-                ]
-            }
-        },
-        "3+3": {
-            "rank": 3,
-            "prestige": "1123",
-            "hp": "4107",
-            "attack": "311",
-            "crit_rate": "538",
-            "crit_dmge": "633",
-            "armor": "115",
-            "block_prof": "3065",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
-                "Physics: Drain 100% of Power Gained and Steal 5 to 10% of the Power Drained.",
-                "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15 to 30.01% of the Damage done.",
-                "Biology: Gain the standard Biology Breakthrough Armor Up and 317.65 to 520.91 Armor Penetration while it's active."
-            ],
-            "url_page": "https://auntm.ai/champions/doc_ock/tier/3",
-            "champid": "doc_ock+3+3",
-            "challenger_rating": 60,
-            "abilities": {
-                "SCIENTIFIC METHOD - PASSIVE": [
-                    "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
-                    "Each Category grants a Passive effect which scales as its category builds.",
-                    "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
-                    "When a Breakthrough effect expires all Research Categories are reset to 0."
-                ],
-                "PHYSICS - RESEARCH CATEGORY": [
-                    "Builds on Opponent Gaining Power.",
-                    "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
-                    "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
-                ],
-                "CHEMISTRY - RESEARCH CATEGORY": [
-                    "Builds on Block or Parry.",
-                    "Scaling Effect: Block Prof Buff, granting up to 1800 Block Proficiency.",
-                    "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
-                ],
-                "BIOLOGY - RESEARCH CATEGORY": [
-                    "Builds when landing Hits and when being Struck",
-                    "Scaling Effect: Fury, granting up to 311 Attack.",
-                    "Breakthrough: Applies an Armor Up Buff, granting 1800 Armor for 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "Remove all currently active Breakthroughs dealing 311 damage per Breakthrough removed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Reset the duration of any currently active Breakthrough Effect.",
-                    "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
-                    "This Duration increases by 10 seconds per currently active Breakthrough."
-                ]
-            }
-        },
-        "3+4": {
-            "rank": 4,
-            "prestige": "1522",
-            "hp": "5578",
-            "attack": "422",
-            "crit_rate": "553",
-            "crit_dmge": "650",
-            "armor": "140",
-            "block_prof": "3150",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
-                "Physics: Drain 100% of Power Gained and Steal 5 to 10% of the Power Drained.",
-                "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15 to 30.01% of the Damage done.",
-                "Biology: Gain the standard Biology Breakthrough Armor Up and 326.47 to 535.38 Armor Penetration while it's active."
-            ],
-            "url_page": "https://auntm.ai/champions/doc_ock/tier/3",
-            "champid": "doc_ock+3+4",
-            "challenger_rating": 70,
-            "abilities": {
-                "SCIENTIFIC METHOD - PASSIVE": [
-                    "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
-                    "Each Category grants a Passive effect which scales as its category builds.",
-                    "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
-                    "When a Breakthrough effect expires all Research Categories are reset to 0."
-                ],
-                "PHYSICS - RESEARCH CATEGORY": [
-                    "Builds on Opponent Gaining Power.",
-                    "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
-                    "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
-                ],
-                "CHEMISTRY - RESEARCH CATEGORY": [
-                    "Builds on Block or Parry.",
-                    "Scaling Effect: Block Prof Buff, granting up to 1850 Block Proficiency.",
-                    "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
-                ],
-                "BIOLOGY - RESEARCH CATEGORY": [
-                    "Builds when landing Hits and when being Struck",
-                    "Scaling Effect: Fury, granting up to 422 Attack.",
-                    "Breakthrough: Applies an Armor Up Buff, granting 1850 Armor for 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "Remove all currently active Breakthroughs dealing 422 damage per Breakthrough removed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Reset the duration of any currently active Breakthrough Effect.",
-                    "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
-                    "This Duration increases by 10 seconds per currently active Breakthrough."
-                ]
-            }
-        },
-        "4+1": {
-            "rank": 1,
-            "prestige": "1129",
-            "hp": "4059",
-            "attack": "317",
-            "crit_rate": "538",
-            "crit_dmge": "633",
-            "armor": "157",
-            "block_prof": "3065",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
-                "Physics: Drain 100% of Power Gained and Steal 5 to 10% of the Power Drained.",
-                "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15 to 30.01% of the Damage done.",
-                "Biology: Gain the standard Biology Breakthrough Armor Up and 317.65 to 520.91 Armor Penetration while it's active."
-            ],
-            "url_page": "https://auntm.ai/champions/doc_ock/tier/4",
-            "champid": "doc_ock+4+1",
-            "challenger_rating": 60,
-            "abilities": {
-                "SCIENTIFIC METHOD - PASSIVE": [
-                    "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
-                    "Each Category grants a Passive effect which scales as its category builds.",
-                    "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
-                    "When a Breakthrough effect expires all Research Categories are reset to 0."
-                ],
-                "PHYSICS - RESEARCH CATEGORY": [
-                    "Builds on Opponent Gaining Power.",
-                    "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
-                    "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
-                ],
-                "CHEMISTRY - RESEARCH CATEGORY": [
-                    "Builds on Block or Parry.",
-                    "Scaling Effect: Block Prof Buff, granting up to 1800 Block Proficiency.",
-                    "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
-                ],
-                "BIOLOGY - RESEARCH CATEGORY": [
-                    "Builds when landing Hits and when being Struck",
-                    "Scaling Effect: Fury, granting up to 317 Attack.",
-                    "Breakthrough: Applies an Armor Up Buff, granting 1800 Armor for 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "Remove all currently active Breakthroughs dealing 317 damage per Breakthrough removed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Reset the duration of any currently active Breakthrough Effect.",
-                    "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
-                    "This Duration increases by 10 seconds per currently active Breakthrough."
-                ]
-            }
-        },
-        "4+2": {
-            "rank": 2,
-            "prestige": "1573",
-            "hp": "5694",
-            "attack": "440",
-            "crit_rate": "553",
-            "crit_dmge": "650",
-            "armor": "183",
-            "block_prof": "3150",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
-                "Physics: Drain 100% of Power Gained and Steal 5 to 10% of the Power Drained.",
-                "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15 to 30.01% of the Damage done.",
-                "Biology: Gain the standard Biology Breakthrough Armor Up and 326.47 to 535.38 Armor Penetration while it's active."
-            ],
-            "url_page": "https://auntm.ai/champions/doc_ock/tier/4",
-            "champid": "doc_ock+4+2",
-            "challenger_rating": 70,
-            "abilities": {
-                "SCIENTIFIC METHOD - PASSIVE": [
-                    "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
-                    "Each Category grants a Passive effect which scales as its category builds.",
-                    "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
-                    "When a Breakthrough effect expires all Research Categories are reset to 0."
-                ],
-                "PHYSICS - RESEARCH CATEGORY": [
-                    "Builds on Opponent Gaining Power.",
-                    "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
-                    "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
-                ],
-                "CHEMISTRY - RESEARCH CATEGORY": [
-                    "Builds on Block or Parry.",
-                    "Scaling Effect: Block Prof Buff, granting up to 1850 Block Proficiency.",
-                    "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
-                ],
-                "BIOLOGY - RESEARCH CATEGORY": [
-                    "Builds when landing Hits and when being Struck",
-                    "Scaling Effect: Fury, granting up to 440 Attack.",
-                    "Breakthrough: Applies an Armor Up Buff, granting 1850 Armor for 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "Remove all currently active Breakthroughs dealing 440 damage per Breakthrough removed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Reset the duration of any currently active Breakthrough Effect.",
-                    "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
-                    "This Duration increases by 10 seconds per currently active Breakthrough."
-                ]
-            }
-        },
-        "4+3": {
-            "rank": 3,
-            "prestige": "2189",
-            "hp": "7978",
-            "attack": "610",
-            "crit_rate": "568",
-            "crit_dmge": "668",
-            "armor": "212",
-            "block_prof": "3236",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
-                "Physics: Drain 100% of Power Gained and Steal 5 to 10% of the Power Drained.",
-                "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15 to 30.01% of the Damage done.",
-                "Biology: Gain the standard Biology Breakthrough Armor Up and 335.29 to 549.85 Armor Penetration while it's active."
-            ],
-            "url_page": "https://auntm.ai/champions/doc_ock/tier/4",
-            "champid": "doc_ock+4+3",
-            "challenger_rating": 80,
-            "abilities": {
-                "SCIENTIFIC METHOD - PASSIVE": [
-                    "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
-                    "Each Category grants a Passive effect which scales as its category builds.",
-                    "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
-                    "When a Breakthrough effect expires all Research Categories are reset to 0."
-                ],
-                "PHYSICS - RESEARCH CATEGORY": [
-                    "Builds on Opponent Gaining Power.",
-                    "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
-                    "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
-                ],
-                "CHEMISTRY - RESEARCH CATEGORY": [
-                    "Builds on Block or Parry.",
-                    "Scaling Effect: Block Prof Buff, granting up to 1900 Block Proficiency.",
-                    "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
-                ],
-                "BIOLOGY - RESEARCH CATEGORY": [
-                    "Builds when landing Hits and when being Struck",
-                    "Scaling Effect: Fury, granting up to 610 Attack.",
-                    "Breakthrough: Applies an Armor Up Buff, granting 1900 Armor for 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "Remove all currently active Breakthroughs dealing 610 damage per Breakthrough removed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Reset the duration of any currently active Breakthrough Effect.",
-                    "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
-                    "This Duration increases by 10 seconds per currently active Breakthrough."
-                ]
-            }
-        },
-        "4+4": {
-            "rank": 4,
-            "prestige": "2863",
-            "hp": "10483",
-            "attack": "793",
-            "crit_rate": "583",
-            "crit_dmge": "686",
-            "armor": "242",
-            "block_prof": "3321",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
-                "Physics: Drain 100% of Power Gained and Steal 5 to 10% of the Power Drained.",
-                "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15 to 30.01% of the Damage done.",
-                "Biology: Gain the standard Biology Breakthrough Armor Up and 344.12 to 564.32 Armor Penetration while it's active."
-            ],
-            "url_page": "https://auntm.ai/champions/doc_ock/tier/4",
-            "champid": "doc_ock+4+4",
-            "challenger_rating": 90,
-            "abilities": {
-                "SCIENTIFIC METHOD - PASSIVE": [
-                    "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
-                    "Each Category grants a Passive effect which scales as its category builds.",
-                    "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
-                    "When a Breakthrough effect expires all Research Categories are reset to 0."
-                ],
-                "PHYSICS - RESEARCH CATEGORY": [
-                    "Builds on Opponent Gaining Power.",
-                    "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
-                    "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
-                ],
-                "CHEMISTRY - RESEARCH CATEGORY": [
-                    "Builds on Block or Parry.",
-                    "Scaling Effect: Block Prof Buff, granting up to 1950 Block Proficiency.",
-                    "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
-                ],
-                "BIOLOGY - RESEARCH CATEGORY": [
-                    "Builds when landing Hits and when being Struck",
-                    "Scaling Effect: Fury, granting up to 793 Attack.",
-                    "Breakthrough: Applies an Armor Up Buff, granting 1950 Armor for 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "Remove all currently active Breakthroughs dealing 793 damage per Breakthrough removed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Reset the duration of any currently active Breakthrough Effect.",
-                    "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
-                    "This Duration increases by 10 seconds per currently active Breakthrough."
-                ]
-            }
-        },
-        "4+5": {
-            "rank": 5,
-            "prestige": "3797",
-            "hp": "13987",
-            "attack": "1047",
-            "crit_rate": "598",
-            "crit_dmge": "703",
-            "armor": "273",
-            "block_prof": "3406",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
-                "Physics: Drain 100% of Power Gained and Steal 5 to 10% of the Power Drained.",
-                "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15 to 30.01% of the Damage done.",
-                "Biology: Gain the standard Biology Breakthrough Armor Up and 352.94 to 578.78 Armor Penetration while it's active."
-            ],
-            "url_page": "https://auntm.ai/champions/doc_ock/tier/4",
-            "champid": "doc_ock+4+5",
-            "challenger_rating": 100,
-            "abilities": {
-                "SCIENTIFIC METHOD - PASSIVE": [
-                    "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
-                    "Each Category grants a Passive effect which scales as its category builds.",
-                    "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
-                    "When a Breakthrough effect expires all Research Categories are reset to 0."
-                ],
-                "PHYSICS - RESEARCH CATEGORY": [
-                    "Builds on Opponent Gaining Power.",
-                    "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
-                    "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
-                ],
-                "CHEMISTRY - RESEARCH CATEGORY": [
-                    "Builds on Block or Parry.",
-                    "Scaling Effect: Block Prof Buff, granting up to 2000 Block Proficiency.",
-                    "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
-                ],
-                "BIOLOGY - RESEARCH CATEGORY": [
-                    "Builds when landing Hits and when being Struck",
-                    "Scaling Effect: Fury, granting up to 1047 Attack.",
-                    "Breakthrough: Applies an Armor Up Buff, granting 2000 Armor for 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "Remove all currently active Breakthroughs dealing 1047 damage per Breakthrough removed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Reset the duration of any currently active Breakthrough Effect.",
-                    "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
-                    "This Duration increases by 10 seconds per currently active Breakthrough."
-                ]
-            }
-        },
-        "5+1": {
-            "rank": 1,
-            "prestige": "2275",
-            "hp": "8347",
-            "attack": "625",
-            "crit_rate": "568",
-            "crit_dmge": "668",
-            "armor": "362",
-            "block_prof": "3236",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
-                "Physics: Drain 100% of Power Gained and Steal 5.71 to 15% of the Power Drained.",
-                "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15.71 to 25% of the Damage done.",
-                "Biology: Gain the standard Biology Breakthrough Armor Up and 361.9 to 781.42 Armor Penetration while it's active."
-            ],
-            "url_page": "https://auntm.ai/champions/doc_ock/tier/5",
-            "champid": "doc_ock+5+1",
-            "challenger_rating": 80,
-            "abilities": {
-                "SCIENTIFIC METHOD - PASSIVE": [
-                    "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
-                    "Each Category grants a Passive effect which scales as its category builds.",
-                    "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
-                    "When a Breakthrough effect expires all Research Categories are reset to 0."
-                ],
-                "PHYSICS - RESEARCH CATEGORY": [
-                    "Builds on Opponent Gaining Power.",
-                    "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
-                    "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
-                ],
-                "CHEMISTRY - RESEARCH CATEGORY": [
-                    "Builds on Block or Parry.",
-                    "Scaling Effect: Block Prof Buff, granting up to 1900 Block Proficiency.",
-                    "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
-                ],
-                "BIOLOGY - RESEARCH CATEGORY": [
-                    "Builds when landing Hits and when being Struck",
-                    "Scaling Effect: Fury, granting up to 625 Attack.",
-                    "Breakthrough: Applies an Armor Up Buff, granting 1900 Armor for 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "Remove all currently active Breakthroughs dealing 625 damage per Breakthrough removed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Reset the duration of any currently active Breakthrough Effect.",
-                    "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
-                    "This Duration increases by 10 seconds per currently active Breakthrough."
-                ]
-            }
-        },
-        "5+2": {
-            "rank": 2,
-            "prestige": "3001",
-            "hp": "11026",
-            "attack": "825",
-            "crit_rate": "583",
-            "crit_dmge": "686",
-            "armor": "400",
-            "block_prof": "3321",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
-                "Physics: Drain 100% of Power Gained and Steal 5.71 to 15% of the Power Drained.",
-                "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15.71 to 25% of the Damage done.",
-                "Biology: Gain the standard Biology Breakthrough Armor Up and 371.43 to 801.99 Armor Penetration while it's active."
-            ],
-            "url_page": "https://auntm.ai/champions/doc_ock/tier/5",
-            "champid": "doc_ock+5+2",
-            "challenger_rating": 90,
-            "abilities": {
-                "SCIENTIFIC METHOD - PASSIVE": [
-                    "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
-                    "Each Category grants a Passive effect which scales as its category builds.",
-                    "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
-                    "When a Breakthrough effect expires all Research Categories are reset to 0."
-                ],
-                "PHYSICS - RESEARCH CATEGORY": [
-                    "Builds on Opponent Gaining Power.",
-                    "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
-                    "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
-                ],
-                "CHEMISTRY - RESEARCH CATEGORY": [
-                    "Builds on Block or Parry.",
-                    "Scaling Effect: Block Prof Buff, granting up to 1950 Block Proficiency.",
-                    "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
-                ],
-                "BIOLOGY - RESEARCH CATEGORY": [
-                    "Builds when landing Hits and when being Struck",
-                    "Scaling Effect: Fury, granting up to 825 Attack.",
-                    "Breakthrough: Applies an Armor Up Buff, granting 1950 Armor for 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "Remove all currently active Breakthroughs dealing 825 damage per Breakthrough removed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Reset the duration of any currently active Breakthrough Effect.",
-                    "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
-                    "This Duration increases by 10 seconds per currently active Breakthrough."
-                ]
-            }
-        },
-        "5+3": {
-            "rank": 3,
-            "prestige": "4197",
-            "hp": "15415",
-            "attack": "1154",
-            "crit_rate": "598",
-            "crit_dmge": "703",
-            "armor": "440",
-            "block_prof": "3406",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
-                "Physics: Drain 100% of Power Gained and Steal 5.71 to 15% of the Power Drained.",
-                "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15.71 to 25% of the Damage done.",
-                "Biology: Gain the standard Biology Breakthrough Armor Up and 380.95 to 822.55 Armor Penetration while it's active."
-            ],
-            "url_page": "https://auntm.ai/champions/doc_ock/tier/5",
-            "champid": "doc_ock+5+3",
-            "challenger_rating": 100,
-            "abilities": {
-                "SCIENTIFIC METHOD - PASSIVE": [
-                    "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
-                    "Each Category grants a Passive effect which scales as its category builds.",
-                    "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
-                    "When a Breakthrough effect expires all Research Categories are reset to 0."
-                ],
-                "PHYSICS - RESEARCH CATEGORY": [
-                    "Builds on Opponent Gaining Power.",
-                    "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
-                    "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
-                ],
-                "CHEMISTRY - RESEARCH CATEGORY": [
-                    "Builds on Block or Parry.",
-                    "Scaling Effect: Block Prof Buff, granting up to 2000 Block Proficiency.",
-                    "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
-                ],
-                "BIOLOGY - RESEARCH CATEGORY": [
-                    "Builds when landing Hits and when being Struck",
-                    "Scaling Effect: Fury, granting up to 1154 Attack.",
-                    "Breakthrough: Applies an Armor Up Buff, granting 2000 Armor for 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "Remove all currently active Breakthroughs dealing 1154 damage per Breakthrough removed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Reset the duration of any currently active Breakthrough Effect.",
-                    "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
-                    "This Duration increases by 10 seconds per currently active Breakthrough."
-                ]
-            }
-        },
-        "5+4": {
-            "rank": 4,
-            "prestige": "5655",
-            "hp": "20772",
-            "attack": "1554",
-            "crit_rate": "613",
-            "crit_dmge": "721",
-            "armor": "481",
-            "block_prof": "3491",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
-                "Physics: Drain 100% of Power Gained and Steal 5.71 to 15% of the Power Drained.",
-                "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15.71 to 25% of the Damage done.",
-                "Biology: Gain the standard Biology Breakthrough Armor Up and 390.48 to 843.12 Armor Penetration while it's active."
-            ],
-            "url_page": "https://auntm.ai/champions/doc_ock/tier/5",
-            "champid": "doc_ock+5+4",
-            "challenger_rating": 110,
-            "abilities": {
-                "SCIENTIFIC METHOD - PASSIVE": [
-                    "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
-                    "Each Category grants a Passive effect which scales as its category builds.",
-                    "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
-                    "When a Breakthrough effect expires all Research Categories are reset to 0."
-                ],
-                "PHYSICS - RESEARCH CATEGORY": [
-                    "Builds on Opponent Gaining Power.",
-                    "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
-                    "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
-                ],
-                "CHEMISTRY - RESEARCH CATEGORY": [
-                    "Builds on Block or Parry.",
-                    "Scaling Effect: Block Prof Buff, granting up to 2050 Block Proficiency.",
-                    "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
-                ],
-                "BIOLOGY - RESEARCH CATEGORY": [
-                    "Builds when landing Hits and when being Struck",
-                    "Scaling Effect: Fury, granting up to 1554 Attack.",
-                    "Breakthrough: Applies an Armor Up Buff, granting 2050 Armor for 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "Remove all currently active Breakthroughs dealing 1554 damage per Breakthrough removed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Reset the duration of any currently active Breakthrough Effect.",
-                    "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
-                    "This Duration increases by 10 seconds per currently active Breakthrough."
-                ]
-            }
-        },
-        "5+5": {
-            "rank": 5,
-            "prestige": "7649",
-            "hp": "28045",
-            "attack": "2098",
-            "crit_rate": "628",
-            "crit_dmge": "738",
-            "armor": "525",
-            "block_prof": "3576",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
-                "Physics: Drain 100% of Power Gained and Steal 5.71 to 15% of the Power Drained.",
-                "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15.71 to 25% of the Damage done.",
-                "Biology: Gain the standard Biology Breakthrough Armor Up and 400 to 863.68 Armor Penetration while it's active."
-            ],
-            "url_page": "https://auntm.ai/champions/doc_ock/tier/5",
-            "champid": "doc_ock+5+5",
-            "challenger_rating": 120,
-            "abilities": {
-                "SCIENTIFIC METHOD - PASSIVE": [
-                    "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
-                    "Each Category grants a Passive effect which scales as its category builds.",
-                    "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
-                    "When a Breakthrough effect expires all Research Categories are reset to 0."
-                ],
-                "PHYSICS - RESEARCH CATEGORY": [
-                    "Builds on Opponent Gaining Power.",
-                    "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
-                    "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
-                ],
-                "CHEMISTRY - RESEARCH CATEGORY": [
-                    "Builds on Block or Parry.",
-                    "Scaling Effect: Block Prof Buff, granting up to 2100 Block Proficiency.",
-                    "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
-                ],
-                "BIOLOGY - RESEARCH CATEGORY": [
-                    "Builds when landing Hits and when being Struck",
-                    "Scaling Effect: Fury, granting up to 2098 Attack.",
-                    "Breakthrough: Applies an Armor Up Buff, granting 2100 Armor for 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "Remove all currently active Breakthroughs dealing 2098 damage per Breakthrough removed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Reset the duration of any currently active Breakthrough Effect.",
-                    "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
-                    "This Duration increases by 10 seconds per currently active Breakthrough."
-                ]
-            }
-        },
-        "6+1": {
-            "rank": 1,
-            "prestige": "5992",
-            "hp": "22053",
-            "attack": "1650",
-            "crit_rate": "613",
-            "crit_dmge": "721",
-            "armor": "391",
-            "block_prof": "3491",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
-                "Physics: Drain 100% of Power Gained and Steal 5.71 to 15% of the Power Drained.",
-                "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15.71 to 25% of the Damage done.",
-                "Biology: Gain the standard Biology Breakthrough Armor Up and 390.48 to 843.12 Armor Penetration while it's active."
-            ],
-            "url_page": "https://auntm.ai/champions/doc_ock/tier/6",
-            "champid": "doc_ock+6+1",
-            "challenger_rating": 110,
-            "abilities": {
-                "SCIENTIFIC METHOD - PASSIVE": [
-                    "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
-                    "Each Category grants a Passive effect which scales as its category builds.",
-                    "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
-                    "When a Breakthrough effect expires all Research Categories are reset to 0."
-                ],
-                "PHYSICS - RESEARCH CATEGORY": [
-                    "Builds on Opponent Gaining Power.",
-                    "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
-                    "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
-                ],
-                "CHEMISTRY - RESEARCH CATEGORY": [
-                    "Builds on Block or Parry.",
-                    "Scaling Effect: Block Prof Buff, granting up to 2050 Block Proficiency.",
-                    "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
-                ],
-                "BIOLOGY - RESEARCH CATEGORY": [
-                    "Builds when landing Hits and when being Struck",
-                    "Scaling Effect: Fury, granting up to 1650 Attack.",
-                    "Breakthrough: Applies an Armor Up Buff, granting 2050 Armor for 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "Remove all currently active Breakthroughs dealing 1650 damage per Breakthrough removed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Reset the duration of any currently active Breakthrough Effect.",
-                    "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
-                    "This Duration increases by 10 seconds per currently active Breakthrough."
-                ]
-            }
-        },
-        "6+2": {
-            "rank": 2,
-            "prestige": "8271",
-            "hp": "30461",
-            "attack": "2279",
-            "crit_rate": "628",
-            "crit_dmge": "738",
-            "armor": "431",
-            "block_prof": "3576",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
-                "Physics: Drain 100% of Power Gained and Steal 5.71 to 15% of the Power Drained.",
-                "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15.71 to 25% of the Damage done.",
-                "Biology: Gain the standard Biology Breakthrough Armor Up and 400 to 863.68 Armor Penetration while it's active."
-            ],
-            "url_page": "https://auntm.ai/champions/doc_ock/tier/6",
-            "champid": "doc_ock+6+2",
-            "challenger_rating": 120,
-            "abilities": {
-                "SCIENTIFIC METHOD - PASSIVE": [
-                    "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
-                    "Each Category grants a Passive effect which scales as its category builds.",
-                    "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
-                    "When a Breakthrough effect expires all Research Categories are reset to 0."
-                ],
-                "PHYSICS - RESEARCH CATEGORY": [
-                    "Builds on Opponent Gaining Power.",
-                    "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
-                    "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
-                ],
-                "CHEMISTRY - RESEARCH CATEGORY": [
-                    "Builds on Block or Parry.",
-                    "Scaling Effect: Block Prof Buff, granting up to 2100 Block Proficiency.",
-                    "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
-                ],
-                "BIOLOGY - RESEARCH CATEGORY": [
-                    "Builds when landing Hits and when being Struck",
-                    "Scaling Effect: Fury, granting up to 2279 Attack.",
-                    "Breakthrough: Applies an Armor Up Buff, granting 2100 Armor for 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "Remove all currently active Breakthroughs dealing 2279 damage per Breakthrough removed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Reset the duration of any currently active Breakthrough Effect.",
-                    "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
-                    "This Duration increases by 10 seconds per currently active Breakthrough."
-                ]
-            }
-        },
-        "6+3": {
-            "rank": 3,
-            "prestige": "9831",
-            "hp": "36137",
-            "attack": "2704",
-            "crit_rate": "643",
-            "crit_dmge": "756",
-            "armor": "472",
-            "block_prof": "3661",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
-                "Physics: Drain 100% of Power Gained and Steal 5.71 to 15% of the Power Drained.",
-                "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15.71 to 25% of the Damage done.",
-                "Biology: Gain the standard Biology Breakthrough Armor Up and 409.52 to 884.24 Armor Penetration while it's active."
-            ],
-            "url_page": "https://auntm.ai/champions/doc_ock/tier/6",
-            "champid": "doc_ock+6+3",
-            "challenger_rating": 130,
-            "abilities": {
-                "SCIENTIFIC METHOD - PASSIVE": [
-                    "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
-                    "Each Category grants a Passive effect which scales as its category builds.",
-                    "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
-                    "When a Breakthrough effect expires all Research Categories are reset to 0."
-                ],
-                "PHYSICS - RESEARCH CATEGORY": [
-                    "Builds on Opponent Gaining Power.",
-                    "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
-                    "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
-                ],
-                "CHEMISTRY - RESEARCH CATEGORY": [
-                    "Builds on Block or Parry.",
-                    "Scaling Effect: Block Prof Buff, granting up to 2150 Block Proficiency.",
-                    "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
-                ],
-                "BIOLOGY - RESEARCH CATEGORY": [
-                    "Builds when landing Hits and when being Struck",
-                    "Scaling Effect: Fury, granting up to 2704 Attack.",
-                    "Breakthrough: Applies an Armor Up Buff, granting 2150 Armor for 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "Remove all currently active Breakthroughs dealing 2704 damage per Breakthrough removed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Reset the duration of any currently active Breakthrough Effect.",
-                    "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
-                    "This Duration increases by 10 seconds per currently active Breakthrough."
-                ]
-            }
-        },
-        "6+4": {
-            "rank": 4,
-            "prestige": "11250",
-            "hp": "41354",
-            "attack": "3094",
-            "crit_rate": "658",
-            "crit_dmge": "773",
-            "armor": "517",
-            "block_prof": "3746",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
-                "Physics: Drain 100% of Power Gained and Steal 5.71 to 15% of the Power Drained.",
-                "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15.71 to 25% of the Damage done.",
-                "Biology: Gain the standard Biology Breakthrough Armor Up and 419.05 to 904.81 Armor Penetration while it's active."
-            ],
-            "url_page": "https://auntm.ai/champions/doc_ock/tier/6",
-            "champid": "doc_ock+6+4",
-            "challenger_rating": 140,
-            "abilities": {
-                "SCIENTIFIC METHOD - PASSIVE": [
-                    "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
-                    "Each Category grants a Passive effect which scales as its category builds.",
-                    "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
-                    "When a Breakthrough effect expires all Research Categories are reset to 0."
-                ],
-                "PHYSICS - RESEARCH CATEGORY": [
-                    "Builds on Opponent Gaining Power.",
-                    "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
-                    "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
-                ],
-                "CHEMISTRY - RESEARCH CATEGORY": [
-                    "Builds on Block or Parry.",
-                    "Scaling Effect: Block Prof Buff, granting up to 2200 Block Proficiency.",
-                    "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
-                ],
-                "BIOLOGY - RESEARCH CATEGORY": [
-                    "Builds when landing Hits and when being Struck",
-                    "Scaling Effect: Fury, granting up to 3094 Attack.",
-                    "Breakthrough: Applies an Armor Up Buff, granting 2200 Armor for 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "Remove all currently active Breakthroughs dealing 3094 damage per Breakthrough removed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Reset the duration of any currently active Breakthrough Effect.",
-                    "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
-                    "This Duration increases by 10 seconds per currently active Breakthrough."
-                ]
-            }
-        },
-        "find": {
-            "story_quests": {
-                "act_1": [
-                    "1.1.1",
-                    "1.1.6"
-                ],
-                "act_2": [],
-                "act_3": [
-                    "3.1.5",
-                    "3.2.4",
-                    "3.2.6"
-                ],
-                "act_4": [],
-                "act_5": [
-                    "5.3.6",
-                    "5.4.1",
-                    "5.4.2",
-                    "5.4.3",
-                    "5.4.5"
-                ],
-                "act_6": [
-                    "6.1.1",
-                    "6.1.4",
-                    "6.3.1",
-                    "6.3.3",
-                    "6.4.1",
-                    "6.4.2",
-                    "6.4.3",
-                    "6.4.6"
-                ],
-                "act_7": [
-                    "7.1.1",
-                    "7.1.2",
-                    "7.2.3",
-                    "7.2.5",
-                    "7.3.3",
-                    "7.3.6",
-                    "7.4.6"
-                ]
-            }
-        }
+  "champid": "doc_ock",
+  "data": {
+    "2+1": {
+      "rank": 1,
+      "prestige": "277",
+      "hp": "1045",
+      "attack": "79",
+      "crit_rate": "478",
+      "crit_dmge": "563",
+      "armor": "33",
+      "block_prof": "2725",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
+        "Physics: Drain 100% of Power Gained and Steal 5 to 10% of the Power Drained.",
+        "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15 to 30.01% of the Damage done.",
+        "Biology: Gain the standard Biology Breakthrough Armor Up and 282.35 to 463.03 Armor Penetration while it's active."
+      ],
+      "url_page": "https://auntm.ai/champions/doc_ock/tier/2",
+      "champid": "doc_ock+2+1",
+      "challenger_rating": 20,
+      "abilities": {
+        "SCIENTIFIC METHOD - PASSIVE": [
+          "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
+          "Each Category grants a Passive effect which scales as its category builds.",
+          "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
+          "When a Breakthrough effect expires all Research Categories are reset to 0."
+        ],
+        "PHYSICS - RESEARCH CATEGORY": [
+          "Builds on Opponent Gaining Power.",
+          "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
+          "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
+        ],
+        "CHEMISTRY - RESEARCH CATEGORY": [
+          "Builds on Block or Parry.",
+          "Scaling Effect: Block Prof Buff, granting up to 1600 Block Proficiency.",
+          "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
+        ],
+        "BIOLOGY - RESEARCH CATEGORY": [
+          "Builds when landing Hits and when being Struck",
+          "Scaling Effect: Fury, granting up to 79 Attack.",
+          "Breakthrough: Applies an Armor Up Buff, granting 1600 Armor for 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "Remove all currently active Breakthroughs dealing 79 damage per Breakthrough removed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Reset the duration of any currently active Breakthrough Effect.",
+          "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
+          "This Duration increases by 10 seconds per currently active Breakthrough."
+        ]
+      }
+    },
+    "2+2": {
+      "rank": 2,
+      "prestige": "360",
+      "hp": "1366",
+      "attack": "104",
+      "crit_rate": "493",
+      "crit_dmge": "580",
+      "armor": "52",
+      "block_prof": "2810",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
+        "Physics: Drain 100% of Power Gained and Steal 5 to 10% of the Power Drained.",
+        "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15 to 30.01% of the Damage done.",
+        "Biology: Gain the standard Biology Breakthrough Armor Up and 291.18 to 477.5 Armor Penetration while it's active."
+      ],
+      "url_page": "https://auntm.ai/champions/doc_ock/tier/2",
+      "champid": "doc_ock+2+2",
+      "challenger_rating": 30,
+      "abilities": {
+        "SCIENTIFIC METHOD - PASSIVE": [
+          "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
+          "Each Category grants a Passive effect which scales as its category builds.",
+          "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
+          "When a Breakthrough effect expires all Research Categories are reset to 0."
+        ],
+        "PHYSICS - RESEARCH CATEGORY": [
+          "Builds on Opponent Gaining Power.",
+          "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
+          "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
+        ],
+        "CHEMISTRY - RESEARCH CATEGORY": [
+          "Builds on Block or Parry.",
+          "Scaling Effect: Block Prof Buff, granting up to 1650 Block Proficiency.",
+          "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
+        ],
+        "BIOLOGY - RESEARCH CATEGORY": [
+          "Builds when landing Hits and when being Struck",
+          "Scaling Effect: Fury, granting up to 104 Attack.",
+          "Breakthrough: Applies an Armor Up Buff, granting 1650 Armor for 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "Remove all currently active Breakthroughs dealing 104 damage per Breakthrough removed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Reset the duration of any currently active Breakthrough Effect.",
+          "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
+          "This Duration increases by 10 seconds per currently active Breakthrough."
+        ]
+      }
+    },
+    "2+3": {
+      "rank": 3,
+      "prestige": "590",
+      "hp": "2145",
+      "attack": "163",
+      "crit_rate": "508",
+      "crit_dmge": "598",
+      "armor": "71",
+      "block_prof": "2895",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
+        "Physics: Drain 100% of Power Gained and Steal 5 to 10% of the Power Drained.",
+        "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15 to 30.01% of the Damage done.",
+        "Biology: Gain the standard Biology Breakthrough Armor Up and 300 to 491.97 Armor Penetration while it's active."
+      ],
+      "url_page": "https://auntm.ai/champions/doc_ock/tier/2",
+      "champid": "doc_ock+2+3",
+      "challenger_rating": 40,
+      "abilities": {
+        "SCIENTIFIC METHOD - PASSIVE": [
+          "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
+          "Each Category grants a Passive effect which scales as its category builds.",
+          "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
+          "When a Breakthrough effect expires all Research Categories are reset to 0."
+        ],
+        "PHYSICS - RESEARCH CATEGORY": [
+          "Builds on Opponent Gaining Power.",
+          "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
+          "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
+        ],
+        "CHEMISTRY - RESEARCH CATEGORY": [
+          "Builds on Block or Parry.",
+          "Scaling Effect: Block Prof Buff, granting up to 1700 Block Proficiency.",
+          "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
+        ],
+        "BIOLOGY - RESEARCH CATEGORY": [
+          "Builds when landing Hits and when being Struck",
+          "Scaling Effect: Fury, granting up to 163 Attack.",
+          "Breakthrough: Applies an Armor Up Buff, granting 1700 Armor for 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "Remove all currently active Breakthroughs dealing 163 damage per Breakthrough removed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Reset the duration of any currently active Breakthrough Effect.",
+          "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
+          "This Duration increases by 10 seconds per currently active Breakthrough."
+        ]
+      }
+    },
+    "3+1": {
+      "rank": 1,
+      "prestige": "517",
+      "hp": "1874",
+      "attack": "142",
+      "crit_rate": "508",
+      "crit_dmge": "598",
+      "armor": "71",
+      "block_prof": "2895",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
+        "Physics: Drain 100% of Power Gained and Steal 5 to 10% of the Power Drained.",
+        "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15 to 30.01% of the Damage done.",
+        "Biology: Gain the standard Biology Breakthrough Armor Up and 300 to 491.97 Armor Penetration while it's active."
+      ],
+      "url_page": "https://auntm.ai/champions/doc_ock/tier/3",
+      "champid": "doc_ock+3+1",
+      "challenger_rating": 40,
+      "abilities": {
+        "SCIENTIFIC METHOD - PASSIVE": [
+          "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
+          "Each Category grants a Passive effect which scales as its category builds.",
+          "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
+          "When a Breakthrough effect expires all Research Categories are reset to 0."
+        ],
+        "PHYSICS - RESEARCH CATEGORY": [
+          "Builds on Opponent Gaining Power.",
+          "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
+          "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
+        ],
+        "CHEMISTRY - RESEARCH CATEGORY": [
+          "Builds on Block or Parry.",
+          "Scaling Effect: Block Prof Buff, granting up to 1700 Block Proficiency.",
+          "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
+        ],
+        "BIOLOGY - RESEARCH CATEGORY": [
+          "Builds when landing Hits and when being Struck",
+          "Scaling Effect: Fury, granting up to 142 Attack.",
+          "Breakthrough: Applies an Armor Up Buff, granting 1700 Armor for 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "Remove all currently active Breakthroughs dealing 142 damage per Breakthrough removed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Reset the duration of any currently active Breakthrough Effect.",
+          "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
+          "This Duration increases by 10 seconds per currently active Breakthrough."
+        ]
+      }
+    },
+    "3+2": {
+      "rank": 2,
+      "prestige": "815",
+      "hp": "2967",
+      "attack": "225",
+      "crit_rate": "523",
+      "crit_dmge": "615",
+      "armor": "93",
+      "block_prof": "2980",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
+        "Physics: Drain 100% of Power Gained and Steal 5 to 10% of the Power Drained.",
+        "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15 to 30.01% of the Damage done.",
+        "Biology: Gain the standard Biology Breakthrough Armor Up and 308.82 to 506.44 Armor Penetration while it's active."
+      ],
+      "url_page": "https://auntm.ai/champions/doc_ock/tier/3",
+      "champid": "doc_ock+3+2",
+      "challenger_rating": 50,
+      "abilities": {
+        "SCIENTIFIC METHOD - PASSIVE": [
+          "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
+          "Each Category grants a Passive effect which scales as its category builds.",
+          "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
+          "When a Breakthrough effect expires all Research Categories are reset to 0."
+        ],
+        "PHYSICS - RESEARCH CATEGORY": [
+          "Builds on Opponent Gaining Power.",
+          "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
+          "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
+        ],
+        "CHEMISTRY - RESEARCH CATEGORY": [
+          "Builds on Block or Parry.",
+          "Scaling Effect: Block Prof Buff, granting up to 1750 Block Proficiency.",
+          "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
+        ],
+        "BIOLOGY - RESEARCH CATEGORY": [
+          "Builds when landing Hits and when being Struck",
+          "Scaling Effect: Fury, granting up to 225 Attack.",
+          "Breakthrough: Applies an Armor Up Buff, granting 1750 Armor for 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "Remove all currently active Breakthroughs dealing 225 damage per Breakthrough removed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Reset the duration of any currently active Breakthrough Effect.",
+          "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
+          "This Duration increases by 10 seconds per currently active Breakthrough."
+        ]
+      }
+    },
+    "3+3": {
+      "rank": 3,
+      "prestige": "1123",
+      "hp": "4107",
+      "attack": "311",
+      "crit_rate": "538",
+      "crit_dmge": "633",
+      "armor": "115",
+      "block_prof": "3065",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
+        "Physics: Drain 100% of Power Gained and Steal 5 to 10% of the Power Drained.",
+        "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15 to 30.01% of the Damage done.",
+        "Biology: Gain the standard Biology Breakthrough Armor Up and 317.65 to 520.91 Armor Penetration while it's active."
+      ],
+      "url_page": "https://auntm.ai/champions/doc_ock/tier/3",
+      "champid": "doc_ock+3+3",
+      "challenger_rating": 60,
+      "abilities": {
+        "SCIENTIFIC METHOD - PASSIVE": [
+          "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
+          "Each Category grants a Passive effect which scales as its category builds.",
+          "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
+          "When a Breakthrough effect expires all Research Categories are reset to 0."
+        ],
+        "PHYSICS - RESEARCH CATEGORY": [
+          "Builds on Opponent Gaining Power.",
+          "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
+          "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
+        ],
+        "CHEMISTRY - RESEARCH CATEGORY": [
+          "Builds on Block or Parry.",
+          "Scaling Effect: Block Prof Buff, granting up to 1800 Block Proficiency.",
+          "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
+        ],
+        "BIOLOGY - RESEARCH CATEGORY": [
+          "Builds when landing Hits and when being Struck",
+          "Scaling Effect: Fury, granting up to 311 Attack.",
+          "Breakthrough: Applies an Armor Up Buff, granting 1800 Armor for 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "Remove all currently active Breakthroughs dealing 311 damage per Breakthrough removed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Reset the duration of any currently active Breakthrough Effect.",
+          "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
+          "This Duration increases by 10 seconds per currently active Breakthrough."
+        ]
+      }
+    },
+    "3+4": {
+      "rank": 4,
+      "prestige": "1522",
+      "hp": "5578",
+      "attack": "422",
+      "crit_rate": "553",
+      "crit_dmge": "650",
+      "armor": "140",
+      "block_prof": "3150",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
+        "Physics: Drain 100% of Power Gained and Steal 5 to 10% of the Power Drained.",
+        "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15 to 30.01% of the Damage done.",
+        "Biology: Gain the standard Biology Breakthrough Armor Up and 326.47 to 535.38 Armor Penetration while it's active."
+      ],
+      "url_page": "https://auntm.ai/champions/doc_ock/tier/3",
+      "champid": "doc_ock+3+4",
+      "challenger_rating": 70,
+      "abilities": {
+        "SCIENTIFIC METHOD - PASSIVE": [
+          "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
+          "Each Category grants a Passive effect which scales as its category builds.",
+          "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
+          "When a Breakthrough effect expires all Research Categories are reset to 0."
+        ],
+        "PHYSICS - RESEARCH CATEGORY": [
+          "Builds on Opponent Gaining Power.",
+          "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
+          "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
+        ],
+        "CHEMISTRY - RESEARCH CATEGORY": [
+          "Builds on Block or Parry.",
+          "Scaling Effect: Block Prof Buff, granting up to 1850 Block Proficiency.",
+          "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
+        ],
+        "BIOLOGY - RESEARCH CATEGORY": [
+          "Builds when landing Hits and when being Struck",
+          "Scaling Effect: Fury, granting up to 422 Attack.",
+          "Breakthrough: Applies an Armor Up Buff, granting 1850 Armor for 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "Remove all currently active Breakthroughs dealing 422 damage per Breakthrough removed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Reset the duration of any currently active Breakthrough Effect.",
+          "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
+          "This Duration increases by 10 seconds per currently active Breakthrough."
+        ]
+      }
+    },
+    "4+1": {
+      "rank": 1,
+      "prestige": "1129",
+      "hp": "4059",
+      "attack": "317",
+      "crit_rate": "538",
+      "crit_dmge": "633",
+      "armor": "157",
+      "block_prof": "3065",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
+        "Physics: Drain 100% of Power Gained and Steal 5 to 10% of the Power Drained.",
+        "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15 to 30.01% of the Damage done.",
+        "Biology: Gain the standard Biology Breakthrough Armor Up and 317.65 to 520.91 Armor Penetration while it's active."
+      ],
+      "url_page": "https://auntm.ai/champions/doc_ock/tier/4",
+      "champid": "doc_ock+4+1",
+      "challenger_rating": 60,
+      "abilities": {
+        "SCIENTIFIC METHOD - PASSIVE": [
+          "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
+          "Each Category grants a Passive effect which scales as its category builds.",
+          "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
+          "When a Breakthrough effect expires all Research Categories are reset to 0."
+        ],
+        "PHYSICS - RESEARCH CATEGORY": [
+          "Builds on Opponent Gaining Power.",
+          "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
+          "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
+        ],
+        "CHEMISTRY - RESEARCH CATEGORY": [
+          "Builds on Block or Parry.",
+          "Scaling Effect: Block Prof Buff, granting up to 1800 Block Proficiency.",
+          "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
+        ],
+        "BIOLOGY - RESEARCH CATEGORY": [
+          "Builds when landing Hits and when being Struck",
+          "Scaling Effect: Fury, granting up to 317 Attack.",
+          "Breakthrough: Applies an Armor Up Buff, granting 1800 Armor for 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "Remove all currently active Breakthroughs dealing 317 damage per Breakthrough removed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Reset the duration of any currently active Breakthrough Effect.",
+          "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
+          "This Duration increases by 10 seconds per currently active Breakthrough."
+        ]
+      }
+    },
+    "4+2": {
+      "rank": 2,
+      "prestige": "1573",
+      "hp": "5694",
+      "attack": "440",
+      "crit_rate": "553",
+      "crit_dmge": "650",
+      "armor": "183",
+      "block_prof": "3150",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
+        "Physics: Drain 100% of Power Gained and Steal 5 to 10% of the Power Drained.",
+        "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15 to 30.01% of the Damage done.",
+        "Biology: Gain the standard Biology Breakthrough Armor Up and 326.47 to 535.38 Armor Penetration while it's active."
+      ],
+      "url_page": "https://auntm.ai/champions/doc_ock/tier/4",
+      "champid": "doc_ock+4+2",
+      "challenger_rating": 70,
+      "abilities": {
+        "SCIENTIFIC METHOD - PASSIVE": [
+          "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
+          "Each Category grants a Passive effect which scales as its category builds.",
+          "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
+          "When a Breakthrough effect expires all Research Categories are reset to 0."
+        ],
+        "PHYSICS - RESEARCH CATEGORY": [
+          "Builds on Opponent Gaining Power.",
+          "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
+          "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
+        ],
+        "CHEMISTRY - RESEARCH CATEGORY": [
+          "Builds on Block or Parry.",
+          "Scaling Effect: Block Prof Buff, granting up to 1850 Block Proficiency.",
+          "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
+        ],
+        "BIOLOGY - RESEARCH CATEGORY": [
+          "Builds when landing Hits and when being Struck",
+          "Scaling Effect: Fury, granting up to 440 Attack.",
+          "Breakthrough: Applies an Armor Up Buff, granting 1850 Armor for 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "Remove all currently active Breakthroughs dealing 440 damage per Breakthrough removed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Reset the duration of any currently active Breakthrough Effect.",
+          "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
+          "This Duration increases by 10 seconds per currently active Breakthrough."
+        ]
+      }
+    },
+    "4+3": {
+      "rank": 3,
+      "prestige": "2189",
+      "hp": "7978",
+      "attack": "610",
+      "crit_rate": "568",
+      "crit_dmge": "668",
+      "armor": "212",
+      "block_prof": "3236",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
+        "Physics: Drain 100% of Power Gained and Steal 5 to 10% of the Power Drained.",
+        "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15 to 30.01% of the Damage done.",
+        "Biology: Gain the standard Biology Breakthrough Armor Up and 335.29 to 549.85 Armor Penetration while it's active."
+      ],
+      "url_page": "https://auntm.ai/champions/doc_ock/tier/4",
+      "champid": "doc_ock+4+3",
+      "challenger_rating": 80,
+      "abilities": {
+        "SCIENTIFIC METHOD - PASSIVE": [
+          "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
+          "Each Category grants a Passive effect which scales as its category builds.",
+          "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
+          "When a Breakthrough effect expires all Research Categories are reset to 0."
+        ],
+        "PHYSICS - RESEARCH CATEGORY": [
+          "Builds on Opponent Gaining Power.",
+          "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
+          "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
+        ],
+        "CHEMISTRY - RESEARCH CATEGORY": [
+          "Builds on Block or Parry.",
+          "Scaling Effect: Block Prof Buff, granting up to 1900 Block Proficiency.",
+          "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
+        ],
+        "BIOLOGY - RESEARCH CATEGORY": [
+          "Builds when landing Hits and when being Struck",
+          "Scaling Effect: Fury, granting up to 610 Attack.",
+          "Breakthrough: Applies an Armor Up Buff, granting 1900 Armor for 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "Remove all currently active Breakthroughs dealing 610 damage per Breakthrough removed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Reset the duration of any currently active Breakthrough Effect.",
+          "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
+          "This Duration increases by 10 seconds per currently active Breakthrough."
+        ]
+      }
+    },
+    "4+4": {
+      "rank": 4,
+      "prestige": "2863",
+      "hp": "10483",
+      "attack": "793",
+      "crit_rate": "583",
+      "crit_dmge": "686",
+      "armor": "242",
+      "block_prof": "3321",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
+        "Physics: Drain 100% of Power Gained and Steal 5 to 10% of the Power Drained.",
+        "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15 to 30.01% of the Damage done.",
+        "Biology: Gain the standard Biology Breakthrough Armor Up and 344.12 to 564.32 Armor Penetration while it's active."
+      ],
+      "url_page": "https://auntm.ai/champions/doc_ock/tier/4",
+      "champid": "doc_ock+4+4",
+      "challenger_rating": 90,
+      "abilities": {
+        "SCIENTIFIC METHOD - PASSIVE": [
+          "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
+          "Each Category grants a Passive effect which scales as its category builds.",
+          "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
+          "When a Breakthrough effect expires all Research Categories are reset to 0."
+        ],
+        "PHYSICS - RESEARCH CATEGORY": [
+          "Builds on Opponent Gaining Power.",
+          "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
+          "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
+        ],
+        "CHEMISTRY - RESEARCH CATEGORY": [
+          "Builds on Block or Parry.",
+          "Scaling Effect: Block Prof Buff, granting up to 1950 Block Proficiency.",
+          "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
+        ],
+        "BIOLOGY - RESEARCH CATEGORY": [
+          "Builds when landing Hits and when being Struck",
+          "Scaling Effect: Fury, granting up to 793 Attack.",
+          "Breakthrough: Applies an Armor Up Buff, granting 1950 Armor for 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "Remove all currently active Breakthroughs dealing 793 damage per Breakthrough removed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Reset the duration of any currently active Breakthrough Effect.",
+          "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
+          "This Duration increases by 10 seconds per currently active Breakthrough."
+        ]
+      }
+    },
+    "4+5": {
+      "rank": 5,
+      "prestige": "3797",
+      "hp": "13987",
+      "attack": "1047",
+      "crit_rate": "598",
+      "crit_dmge": "703",
+      "armor": "273",
+      "block_prof": "3406",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
+        "Physics: Drain 100% of Power Gained and Steal 5 to 10% of the Power Drained.",
+        "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15 to 30.01% of the Damage done.",
+        "Biology: Gain the standard Biology Breakthrough Armor Up and 352.94 to 578.78 Armor Penetration while it's active."
+      ],
+      "url_page": "https://auntm.ai/champions/doc_ock/tier/4",
+      "champid": "doc_ock+4+5",
+      "challenger_rating": 100,
+      "abilities": {
+        "SCIENTIFIC METHOD - PASSIVE": [
+          "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
+          "Each Category grants a Passive effect which scales as its category builds.",
+          "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
+          "When a Breakthrough effect expires all Research Categories are reset to 0."
+        ],
+        "PHYSICS - RESEARCH CATEGORY": [
+          "Builds on Opponent Gaining Power.",
+          "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
+          "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
+        ],
+        "CHEMISTRY - RESEARCH CATEGORY": [
+          "Builds on Block or Parry.",
+          "Scaling Effect: Block Prof Buff, granting up to 2000 Block Proficiency.",
+          "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
+        ],
+        "BIOLOGY - RESEARCH CATEGORY": [
+          "Builds when landing Hits and when being Struck",
+          "Scaling Effect: Fury, granting up to 1047 Attack.",
+          "Breakthrough: Applies an Armor Up Buff, granting 2000 Armor for 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "Remove all currently active Breakthroughs dealing 1047 damage per Breakthrough removed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Reset the duration of any currently active Breakthrough Effect.",
+          "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
+          "This Duration increases by 10 seconds per currently active Breakthrough."
+        ]
+      }
+    },
+    "5+1": {
+      "rank": 1,
+      "prestige": "2275",
+      "hp": "8347",
+      "attack": "625",
+      "crit_rate": "568",
+      "crit_dmge": "668",
+      "armor": "362",
+      "block_prof": "3236",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
+        "Physics: Drain 100% of Power Gained and Steal 5.71 to 15% of the Power Drained.",
+        "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15.71 to 25% of the Damage done.",
+        "Biology: Gain the standard Biology Breakthrough Armor Up and 361.9 to 781.42 Armor Penetration while it's active."
+      ],
+      "url_page": "https://auntm.ai/champions/doc_ock/tier/5",
+      "champid": "doc_ock+5+1",
+      "challenger_rating": 80,
+      "abilities": {
+        "SCIENTIFIC METHOD - PASSIVE": [
+          "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
+          "Each Category grants a Passive effect which scales as its category builds.",
+          "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
+          "When a Breakthrough effect expires all Research Categories are reset to 0."
+        ],
+        "PHYSICS - RESEARCH CATEGORY": [
+          "Builds on Opponent Gaining Power.",
+          "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
+          "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
+        ],
+        "CHEMISTRY - RESEARCH CATEGORY": [
+          "Builds on Block or Parry.",
+          "Scaling Effect: Block Prof Buff, granting up to 1900 Block Proficiency.",
+          "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
+        ],
+        "BIOLOGY - RESEARCH CATEGORY": [
+          "Builds when landing Hits and when being Struck",
+          "Scaling Effect: Fury, granting up to 625 Attack.",
+          "Breakthrough: Applies an Armor Up Buff, granting 1900 Armor for 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "Remove all currently active Breakthroughs dealing 625 damage per Breakthrough removed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Reset the duration of any currently active Breakthrough Effect.",
+          "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
+          "This Duration increases by 10 seconds per currently active Breakthrough."
+        ]
+      }
+    },
+    "5+2": {
+      "rank": 2,
+      "prestige": "3001",
+      "hp": "11026",
+      "attack": "825",
+      "crit_rate": "583",
+      "crit_dmge": "686",
+      "armor": "400",
+      "block_prof": "3321",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
+        "Physics: Drain 100% of Power Gained and Steal 5.71 to 15% of the Power Drained.",
+        "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15.71 to 25% of the Damage done.",
+        "Biology: Gain the standard Biology Breakthrough Armor Up and 371.43 to 801.99 Armor Penetration while it's active."
+      ],
+      "url_page": "https://auntm.ai/champions/doc_ock/tier/5",
+      "champid": "doc_ock+5+2",
+      "challenger_rating": 90,
+      "abilities": {
+        "SCIENTIFIC METHOD - PASSIVE": [
+          "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
+          "Each Category grants a Passive effect which scales as its category builds.",
+          "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
+          "When a Breakthrough effect expires all Research Categories are reset to 0."
+        ],
+        "PHYSICS - RESEARCH CATEGORY": [
+          "Builds on Opponent Gaining Power.",
+          "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
+          "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
+        ],
+        "CHEMISTRY - RESEARCH CATEGORY": [
+          "Builds on Block or Parry.",
+          "Scaling Effect: Block Prof Buff, granting up to 1950 Block Proficiency.",
+          "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
+        ],
+        "BIOLOGY - RESEARCH CATEGORY": [
+          "Builds when landing Hits and when being Struck",
+          "Scaling Effect: Fury, granting up to 825 Attack.",
+          "Breakthrough: Applies an Armor Up Buff, granting 1950 Armor for 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "Remove all currently active Breakthroughs dealing 825 damage per Breakthrough removed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Reset the duration of any currently active Breakthrough Effect.",
+          "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
+          "This Duration increases by 10 seconds per currently active Breakthrough."
+        ]
+      }
+    },
+    "5+3": {
+      "rank": 3,
+      "prestige": "4197",
+      "hp": "15415",
+      "attack": "1154",
+      "crit_rate": "598",
+      "crit_dmge": "703",
+      "armor": "440",
+      "block_prof": "3406",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
+        "Physics: Drain 100% of Power Gained and Steal 5.71 to 15% of the Power Drained.",
+        "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15.71 to 25% of the Damage done.",
+        "Biology: Gain the standard Biology Breakthrough Armor Up and 380.95 to 822.55 Armor Penetration while it's active."
+      ],
+      "url_page": "https://auntm.ai/champions/doc_ock/tier/5",
+      "champid": "doc_ock+5+3",
+      "challenger_rating": 100,
+      "abilities": {
+        "SCIENTIFIC METHOD - PASSIVE": [
+          "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
+          "Each Category grants a Passive effect which scales as its category builds.",
+          "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
+          "When a Breakthrough effect expires all Research Categories are reset to 0."
+        ],
+        "PHYSICS - RESEARCH CATEGORY": [
+          "Builds on Opponent Gaining Power.",
+          "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
+          "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
+        ],
+        "CHEMISTRY - RESEARCH CATEGORY": [
+          "Builds on Block or Parry.",
+          "Scaling Effect: Block Prof Buff, granting up to 2000 Block Proficiency.",
+          "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
+        ],
+        "BIOLOGY - RESEARCH CATEGORY": [
+          "Builds when landing Hits and when being Struck",
+          "Scaling Effect: Fury, granting up to 1154 Attack.",
+          "Breakthrough: Applies an Armor Up Buff, granting 2000 Armor for 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "Remove all currently active Breakthroughs dealing 1154 damage per Breakthrough removed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Reset the duration of any currently active Breakthrough Effect.",
+          "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
+          "This Duration increases by 10 seconds per currently active Breakthrough."
+        ]
+      }
+    },
+    "5+4": {
+      "rank": 4,
+      "prestige": "5655",
+      "hp": "20772",
+      "attack": "1554",
+      "crit_rate": "613",
+      "crit_dmge": "721",
+      "armor": "481",
+      "block_prof": "3491",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
+        "Physics: Drain 100% of Power Gained and Steal 5.71 to 15% of the Power Drained.",
+        "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15.71 to 25% of the Damage done.",
+        "Biology: Gain the standard Biology Breakthrough Armor Up and 390.48 to 843.12 Armor Penetration while it's active."
+      ],
+      "url_page": "https://auntm.ai/champions/doc_ock/tier/5",
+      "champid": "doc_ock+5+4",
+      "challenger_rating": 110,
+      "abilities": {
+        "SCIENTIFIC METHOD - PASSIVE": [
+          "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
+          "Each Category grants a Passive effect which scales as its category builds.",
+          "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
+          "When a Breakthrough effect expires all Research Categories are reset to 0."
+        ],
+        "PHYSICS - RESEARCH CATEGORY": [
+          "Builds on Opponent Gaining Power.",
+          "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
+          "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
+        ],
+        "CHEMISTRY - RESEARCH CATEGORY": [
+          "Builds on Block or Parry.",
+          "Scaling Effect: Block Prof Buff, granting up to 2050 Block Proficiency.",
+          "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
+        ],
+        "BIOLOGY - RESEARCH CATEGORY": [
+          "Builds when landing Hits and when being Struck",
+          "Scaling Effect: Fury, granting up to 1554 Attack.",
+          "Breakthrough: Applies an Armor Up Buff, granting 2050 Armor for 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "Remove all currently active Breakthroughs dealing 1554 damage per Breakthrough removed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Reset the duration of any currently active Breakthrough Effect.",
+          "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
+          "This Duration increases by 10 seconds per currently active Breakthrough."
+        ]
+      }
+    },
+    "5+5": {
+      "rank": 5,
+      "prestige": "7649",
+      "hp": "28045",
+      "attack": "2098",
+      "crit_rate": "628",
+      "crit_dmge": "738",
+      "armor": "525",
+      "block_prof": "3576",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
+        "Physics: Drain 100% of Power Gained and Steal 5.71 to 15% of the Power Drained.",
+        "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15.71 to 25% of the Damage done.",
+        "Biology: Gain the standard Biology Breakthrough Armor Up and 400 to 863.68 Armor Penetration while it's active."
+      ],
+      "url_page": "https://auntm.ai/champions/doc_ock/tier/5",
+      "champid": "doc_ock+5+5",
+      "challenger_rating": 120,
+      "abilities": {
+        "SCIENTIFIC METHOD - PASSIVE": [
+          "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
+          "Each Category grants a Passive effect which scales as its category builds.",
+          "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
+          "When a Breakthrough effect expires all Research Categories are reset to 0."
+        ],
+        "PHYSICS - RESEARCH CATEGORY": [
+          "Builds on Opponent Gaining Power.",
+          "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
+          "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
+        ],
+        "CHEMISTRY - RESEARCH CATEGORY": [
+          "Builds on Block or Parry.",
+          "Scaling Effect: Block Prof Buff, granting up to 2100 Block Proficiency.",
+          "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
+        ],
+        "BIOLOGY - RESEARCH CATEGORY": [
+          "Builds when landing Hits and when being Struck",
+          "Scaling Effect: Fury, granting up to 2098 Attack.",
+          "Breakthrough: Applies an Armor Up Buff, granting 2100 Armor for 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "Remove all currently active Breakthroughs dealing 2098 damage per Breakthrough removed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Reset the duration of any currently active Breakthrough Effect.",
+          "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
+          "This Duration increases by 10 seconds per currently active Breakthrough."
+        ]
+      }
+    },
+    "6+1": {
+      "rank": 1,
+      "prestige": "5992",
+      "hp": "22053",
+      "attack": "1650",
+      "crit_rate": "613",
+      "crit_dmge": "721",
+      "armor": "391",
+      "block_prof": "3491",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
+        "Physics: Drain 100% of Power Gained and Steal 5.71 to 15% of the Power Drained.",
+        "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15.71 to 25% of the Damage done.",
+        "Biology: Gain the standard Biology Breakthrough Armor Up and 390.48 to 843.12 Armor Penetration while it's active."
+      ],
+      "url_page": "https://auntm.ai/champions/doc_ock/tier/6",
+      "champid": "doc_ock+6+1",
+      "challenger_rating": 110,
+      "abilities": {
+        "SCIENTIFIC METHOD - PASSIVE": [
+          "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
+          "Each Category grants a Passive effect which scales as its category builds.",
+          "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
+          "When a Breakthrough effect expires all Research Categories are reset to 0."
+        ],
+        "PHYSICS - RESEARCH CATEGORY": [
+          "Builds on Opponent Gaining Power.",
+          "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
+          "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
+        ],
+        "CHEMISTRY - RESEARCH CATEGORY": [
+          "Builds on Block or Parry.",
+          "Scaling Effect: Block Prof Buff, granting up to 2050 Block Proficiency.",
+          "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
+        ],
+        "BIOLOGY - RESEARCH CATEGORY": [
+          "Builds when landing Hits and when being Struck",
+          "Scaling Effect: Fury, granting up to 1650 Attack.",
+          "Breakthrough: Applies an Armor Up Buff, granting 2050 Armor for 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "Remove all currently active Breakthroughs dealing 1650 damage per Breakthrough removed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Reset the duration of any currently active Breakthrough Effect.",
+          "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
+          "This Duration increases by 10 seconds per currently active Breakthrough."
+        ]
+      }
+    },
+    "6+2": {
+      "rank": 2,
+      "prestige": "8271",
+      "hp": "30461",
+      "attack": "2279",
+      "crit_rate": "628",
+      "crit_dmge": "738",
+      "armor": "431",
+      "block_prof": "3576",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
+        "Physics: Drain 100% of Power Gained and Steal 5.71 to 15% of the Power Drained.",
+        "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15.71 to 25% of the Damage done.",
+        "Biology: Gain the standard Biology Breakthrough Armor Up and 400 to 863.68 Armor Penetration while it's active."
+      ],
+      "url_page": "https://auntm.ai/champions/doc_ock/tier/6",
+      "champid": "doc_ock+6+2",
+      "challenger_rating": 120,
+      "abilities": {
+        "SCIENTIFIC METHOD - PASSIVE": [
+          "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
+          "Each Category grants a Passive effect which scales as its category builds.",
+          "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
+          "When a Breakthrough effect expires all Research Categories are reset to 0."
+        ],
+        "PHYSICS - RESEARCH CATEGORY": [
+          "Builds on Opponent Gaining Power.",
+          "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
+          "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
+        ],
+        "CHEMISTRY - RESEARCH CATEGORY": [
+          "Builds on Block or Parry.",
+          "Scaling Effect: Block Prof Buff, granting up to 2100 Block Proficiency.",
+          "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
+        ],
+        "BIOLOGY - RESEARCH CATEGORY": [
+          "Builds when landing Hits and when being Struck",
+          "Scaling Effect: Fury, granting up to 2279 Attack.",
+          "Breakthrough: Applies an Armor Up Buff, granting 2100 Armor for 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "Remove all currently active Breakthroughs dealing 2279 damage per Breakthrough removed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Reset the duration of any currently active Breakthrough Effect.",
+          "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
+          "This Duration increases by 10 seconds per currently active Breakthrough."
+        ]
+      }
+    },
+    "6+3": {
+      "rank": 3,
+      "prestige": "9831",
+      "hp": "36137",
+      "attack": "2704",
+      "crit_rate": "643",
+      "crit_dmge": "756",
+      "armor": "472",
+      "block_prof": "3661",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
+        "Physics: Drain 100% of Power Gained and Steal 5.71 to 15% of the Power Drained.",
+        "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15.71 to 25% of the Damage done.",
+        "Biology: Gain the standard Biology Breakthrough Armor Up and 409.52 to 884.24 Armor Penetration while it's active."
+      ],
+      "url_page": "https://auntm.ai/champions/doc_ock/tier/6",
+      "champid": "doc_ock+6+3",
+      "challenger_rating": 130,
+      "abilities": {
+        "SCIENTIFIC METHOD - PASSIVE": [
+          "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
+          "Each Category grants a Passive effect which scales as its category builds.",
+          "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
+          "When a Breakthrough effect expires all Research Categories are reset to 0."
+        ],
+        "PHYSICS - RESEARCH CATEGORY": [
+          "Builds on Opponent Gaining Power.",
+          "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
+          "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
+        ],
+        "CHEMISTRY - RESEARCH CATEGORY": [
+          "Builds on Block or Parry.",
+          "Scaling Effect: Block Prof Buff, granting up to 2150 Block Proficiency.",
+          "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
+        ],
+        "BIOLOGY - RESEARCH CATEGORY": [
+          "Builds when landing Hits and when being Struck",
+          "Scaling Effect: Fury, granting up to 2704 Attack.",
+          "Breakthrough: Applies an Armor Up Buff, granting 2150 Armor for 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "Remove all currently active Breakthroughs dealing 2704 damage per Breakthrough removed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Reset the duration of any currently active Breakthrough Effect.",
+          "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
+          "This Duration increases by 10 seconds per currently active Breakthrough."
+        ]
+      }
+    },
+    "6+4": {
+      "rank": 4,
+      "prestige": "11250",
+      "hp": "41354",
+      "attack": "3094",
+      "crit_rate": "658",
+      "crit_dmge": "773",
+      "armor": "517",
+      "block_prof": "3746",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Doctor Octopus\u2019s extensive academic background let him start the fight with each of his Research Categories at 60 and each Breakthroughs is replaced by a new effect.",
+        "Physics: Drain 100% of Power Gained and Steal 5.71 to 15% of the Power Drained.",
+        "Chemistry: Deal Direct Damage equal to 100% of Health Gained and Lifesteal 15.71 to 25% of the Damage done.",
+        "Biology: Gain the standard Biology Breakthrough Armor Up and 419.05 to 904.81 Armor Penetration while it's active."
+      ],
+      "url_page": "https://auntm.ai/champions/doc_ock/tier/6",
+      "champid": "doc_ock+6+4",
+      "challenger_rating": 140,
+      "abilities": {
+        "SCIENTIFIC METHOD - PASSIVE": [
+          "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
+          "Each Category grants a Passive effect which scales as its category builds.",
+          "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
+          "When a Breakthrough effect expires all Research Categories are reset to 0."
+        ],
+        "PHYSICS - RESEARCH CATEGORY": [
+          "Builds on Opponent Gaining Power.",
+          "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
+          "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
+        ],
+        "CHEMISTRY - RESEARCH CATEGORY": [
+          "Builds on Block or Parry.",
+          "Scaling Effect: Block Prof Buff, granting up to 2200 Block Proficiency.",
+          "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
+        ],
+        "BIOLOGY - RESEARCH CATEGORY": [
+          "Builds when landing Hits and when being Struck",
+          "Scaling Effect: Fury, granting up to 3094 Attack.",
+          "Breakthrough: Applies an Armor Up Buff, granting 2200 Armor for 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "Remove all currently active Breakthroughs dealing 3094 damage per Breakthrough removed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Reset the duration of any currently active Breakthrough Effect.",
+          "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
+          "This Duration increases by 10 seconds per currently active Breakthrough."
+        ]
+      }
+    },
+    "1+1": {
+      "rank": 1,
+      "prestige": 210,
+      "hp": 827,
+      "attack": 62,
+      "crit_rate": 463,
+      "crit_dmge": 545,
+      "armor": 0,
+      "block_prof": 2640,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/doc_ock/tier/1",
+      "champid": "doc_ock+1+1",
+      "challenger_rating": 10,
+      "abilities": {
+        "SCIENTIFIC METHOD - PASSIVE": [
+          "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
+          "Each Category grants a Passive effect which scales as its category builds.",
+          "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
+          "When a Breakthrough effect expires all Research Categories are reset to 0."
+        ],
+        "PHYSICS - RESEARCH CATEGORY": [
+          "Builds on Opponent Gaining Power.",
+          "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
+          "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
+        ],
+        "CHEMISTRY - RESEARCH CATEGORY": [
+          "Builds on Block or Parry.",
+          "Scaling Effect: Block Prof Buff, granting up to 1550 Block Proficiency.",
+          "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
+        ],
+        "BIOLOGY - RESEARCH CATEGORY": [
+          "Builds when landing Hits and when being Struck",
+          "Scaling Effect: Fury, granting up to 62 Attack.",
+          "Breakthrough: Applies an Armor Up Buff, granting 1550 Armor for 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "Remove all currently active Breakthroughs dealing 62 damage per Breakthrough removed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Reset the duration of any currently active Breakthrough Effect.",
+          "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
+          "This Duration increases by 10 seconds per currently active Breakthrough."
+        ]
+      }
+    },
+    "1+2": {
+      "rank": 2,
+      "prestige": 296,
+      "hp": 1132,
+      "attack": 85,
+      "crit_rate": 478,
+      "crit_dmge": 563,
+      "armor": 0,
+      "block_prof": 2725,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/doc_ock/tier/1",
+      "champid": "doc_ock+1+2",
+      "challenger_rating": 20,
+      "abilities": {
+        "SCIENTIFIC METHOD - PASSIVE": [
+          "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
+          "Each Category grants a Passive effect which scales as its category builds.",
+          "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
+          "When a Breakthrough effect expires all Research Categories are reset to 0."
+        ],
+        "PHYSICS - RESEARCH CATEGORY": [
+          "Builds on Opponent Gaining Power.",
+          "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
+          "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
+        ],
+        "CHEMISTRY - RESEARCH CATEGORY": [
+          "Builds on Block or Parry.",
+          "Scaling Effect: Block Prof Buff, granting up to 1600 Block Proficiency.",
+          "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
+        ],
+        "BIOLOGY - RESEARCH CATEGORY": [
+          "Builds when landing Hits and when being Struck",
+          "Scaling Effect: Fury, granting up to 85 Attack.",
+          "Breakthrough: Applies an Armor Up Buff, granting 1600 Armor for 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "Remove all currently active Breakthroughs dealing 85 damage per Breakthrough removed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Reset the duration of any currently active Breakthrough Effect.",
+          "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
+          "This Duration increases by 10 seconds per currently active Breakthrough."
+        ]
+      }
+    },
+    "find": {
+      "story_quests": {
+        "act_1": ["1.1.1", "1.1.6"],
+        "act_2": [],
+        "act_3": ["3.1.5", "3.2.4", "3.2.6"],
+        "act_4": [],
+        "act_5": ["5.3.6", "5.4.1", "5.4.2", "5.4.3", "5.4.5"],
+        "act_6": [
+          "6.1.1",
+          "6.1.4",
+          "6.3.1",
+          "6.3.3",
+          "6.4.1",
+          "6.4.2",
+          "6.4.3",
+          "6.4.6"
+        ],
+        "act_7": ["7.1.1", "7.1.2", "7.2.3", "7.2.5", "7.3.3", "7.3.6", "7.4.6"]
+      }
     }
+  },
+  "name": "DOCTOR OCTOPUS",
+  "class": "Tech",
+  "img_portrait": "https://api.rexians.tk/assets/portraits/doc_ock.png",
+  "contact": "PHYSICAL",
+  "tags": ["Villain", "Sinister Six", "Size: M"],
+  "released": "8/17/2017"
 }

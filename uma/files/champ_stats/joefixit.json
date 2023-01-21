@@ -1,1326 +1,1420 @@
 {
-    "name": "JOE FIXIT",
-    "class": "Science",
-    "img_portrait": "https://api.rexians.tk/assets/portraits/joefixit.png",
-    "contact": "PHYSICAL",
-    "tags": [
-        "Villain",
-        "Size: XL"
-    ],
-    "released": "10/15/2015",
-    "champid": "joefixit",
-    "data": {
-        "2+1": {
-            "rank": 1,
-            "prestige": "270",
-            "hp": "1208",
-            "attack": "84",
-            "crit_rate": "261",
-            "crit_dmge": "400",
-            "armor": "121",
-            "block_prof": "2037",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
-                "Additionally, suits gain a stackable bonus during Special Attacks.",
-                "Hearts: +5 to 10% Debuff Duration.",
-                "Spades: +177.84 to 533.25 Critical Rating.",
-                "Clubs: +10 to 30% of a bar of Power over 2 seconds.",
-                "Diamonds: +10 to 25% Armor Penetration.",
-                "Jackpot: Counts as all 4 Suits."
-            ],
-            "url_page": "https://auntm.ai/champions/joefixit/tier/2",
-            "champid": "joefixit+2+1",
-            "challenger_rating": 20,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMBLERS DRAW": [
-                    "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
-                    "Cards are drawn even if the attack was blocked.",
-                    "Hearts: End a Combo with Light, +7% Life Steal.",
-                    "Spades: End a Combo with Medium, +33.6 Attack Rating.",
-                    "Clubs: Heavy Hit, +25% Combat Power Rate.",
-                    "Diamonds: Well-Timed Block, +25% Block Penetration.",
-                    "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
-                    "Duckslug Editorial",
-                    "Hearts and Spades are drawn from last attack in combo, not first.",
-                    "Cards can be drawn when attacking into a block."
-                ],
-                "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
-                    "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
-                    "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
-                    "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
-                    "Flush: Petrify with a potency of 60%.",
-                    "Playing a hand removes all cards on the last hit of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On Hit, 50% chance to Inflict a Bleed Debuff dealing 29.4 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
-                    "Replay the last Dead Man\u2019s Hand Debuff that was played."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a random Dead Man\u2019s Hand Debuff.",
-                    "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
-                ]
-            }
-        },
-        "2+2": {
-            "rank": 2,
-            "prestige": "358",
-            "hp": "1596",
-            "attack": "111",
-            "crit_rate": "269",
-            "crit_dmge": "413",
-            "armor": "144",
-            "block_prof": "2101",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
-                "Additionally, suits gain a stackable bonus during Special Attacks.",
-                "Hearts: +5 to 10% Debuff Duration.",
-                "Spades: +183.39 to 549.91 Critical Rating.",
-                "Clubs: +10 to 30% of a bar of Power over 2 seconds.",
-                "Diamonds: +10 to 25% Armor Penetration.",
-                "Jackpot: Counts as all 4 Suits."
-            ],
-            "url_page": "https://auntm.ai/champions/joefixit/tier/2",
-            "champid": "joefixit+2+2",
-            "challenger_rating": 30,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMBLERS DRAW": [
-                    "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
-                    "Cards are drawn even if the attack was blocked.",
-                    "Hearts: End a Combo with Light, +7% Life Steal.",
-                    "Spades: End a Combo with Medium, +44.4 Attack Rating.",
-                    "Clubs: Heavy Hit, +25% Combat Power Rate.",
-                    "Diamonds: Well-Timed Block, +25% Block Penetration.",
-                    "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
-                    "Duckslug Editorial",
-                    "Hearts and Spades are drawn from last attack in combo, not first.",
-                    "Cards can be drawn when attacking into a block."
-                ],
-                "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
-                    "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
-                    "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
-                    "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
-                    "Flush: Petrify with a potency of 60%.",
-                    "Playing a hand removes all cards on the last hit of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On Hit, 50% chance to Inflict a Bleed Debuff dealing 38.85 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
-                    "Replay the last Dead Man\u2019s Hand Debuff that was played."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a random Dead Man\u2019s Hand Debuff.",
-                    "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
-                ]
-            }
-        },
-        "2+3": {
-            "rank": 3,
-            "prestige": "565",
-            "hp": "2533",
-            "attack": "176",
-            "crit_rate": "277",
-            "crit_dmge": "425",
-            "armor": "169",
-            "block_prof": "2164",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
-                "Additionally, suits gain a stackable bonus during Special Attacks.",
-                "Hearts: +5 to 10% Debuff Duration.",
-                "Spades: +188.95 to 566.58 Critical Rating.",
-                "Clubs: +10 to 30% of a bar of Power over 2 seconds.",
-                "Diamonds: +10 to 25% Armor Penetration.",
-                "Jackpot: Counts as all 4 Suits."
-            ],
-            "url_page": "https://auntm.ai/champions/joefixit/tier/2",
-            "champid": "joefixit+2+3",
-            "challenger_rating": 40,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMBLERS DRAW": [
-                    "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
-                    "Cards are drawn even if the attack was blocked.",
-                    "Hearts: End a Combo with Light, +7% Life Steal.",
-                    "Spades: End a Combo with Medium, +70.4 Attack Rating.",
-                    "Clubs: Heavy Hit, +25% Combat Power Rate.",
-                    "Diamonds: Well-Timed Block, +25% Block Penetration.",
-                    "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
-                    "Duckslug Editorial",
-                    "Hearts and Spades are drawn from last attack in combo, not first.",
-                    "Cards can be drawn when attacking into a block."
-                ],
-                "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
-                    "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
-                    "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
-                    "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
-                    "Flush: Petrify with a potency of 60%.",
-                    "Playing a hand removes all cards on the last hit of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On Hit, 50% chance to Inflict a Bleed Debuff dealing 61.6 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
-                    "Replay the last Dead Man\u2019s Hand Debuff that was played."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a random Dead Man\u2019s Hand Debuff.",
-                    "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
-                ]
-            }
-        },
-        "3+1": {
-            "rank": 1,
-            "prestige": "489",
-            "hp": "2190",
-            "attack": "152",
-            "crit_rate": "277",
-            "crit_dmge": "425",
-            "armor": "128",
-            "block_prof": "2164",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
-                "Additionally, suits gain a stackable bonus during Special Attacks.",
-                "Hearts: +5 to 10% Debuff Duration.",
-                "Spades: +188.95 to 566.58 Critical Rating.",
-                "Clubs: +10 to 30% of a bar of Power over 2 seconds.",
-                "Diamonds: +10 to 25% Armor Penetration.",
-                "Jackpot: Counts as all 4 Suits."
-            ],
-            "url_page": "https://auntm.ai/champions/joefixit/tier/3",
-            "champid": "joefixit+3+1",
-            "challenger_rating": 40,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMBLERS DRAW": [
-                    "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
-                    "Cards are drawn even if the attack was blocked.",
-                    "Hearts: End a Combo with Light, +7% Life Steal.",
-                    "Spades: End a Combo with Medium, +60.8 Attack Rating.",
-                    "Clubs: Heavy Hit, +25% Combat Power Rate.",
-                    "Diamonds: Well-Timed Block, +25% Block Penetration.",
-                    "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
-                    "Duckslug Editorial",
-                    "Hearts and Spades are drawn from last attack in combo, not first.",
-                    "Cards can be drawn when attacking into a block."
-                ],
-                "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
-                    "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
-                    "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
-                    "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
-                    "Flush: Petrify with a potency of 60%.",
-                    "Playing a hand removes all cards on the last hit of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On Hit, 50% chance to Inflict a Bleed Debuff dealing 53.2 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
-                    "Replay the last Dead Man\u2019s Hand Debuff that was played."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a random Dead Man\u2019s Hand Debuff.",
-                    "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
-                ]
-            }
-        },
-        "3+2": {
-            "rank": 2,
-            "prestige": "781",
-            "hp": "3504",
-            "attack": "243",
-            "crit_rate": "285",
-            "crit_dmge": "438",
-            "armor": "153",
-            "block_prof": "2228",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
-                "Additionally, suits gain a stackable bonus during Special Attacks.",
-                "Hearts: +5 to 10% Debuff Duration.",
-                "Spades: +194.51 to 583.24 Critical Rating.",
-                "Clubs: +10 to 30% of a bar of Power over 2 seconds.",
-                "Diamonds: +10 to 25% Armor Penetration.",
-                "Jackpot: Counts as all 4 Suits."
-            ],
-            "url_page": "https://auntm.ai/champions/joefixit/tier/3",
-            "champid": "joefixit+3+2",
-            "challenger_rating": 50,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMBLERS DRAW": [
-                    "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
-                    "Cards are drawn even if the attack was blocked.",
-                    "Hearts: End a Combo with Light, +7% Life Steal.",
-                    "Spades: End a Combo with Medium, +97.2 Attack Rating.",
-                    "Clubs: Heavy Hit, +25% Combat Power Rate.",
-                    "Diamonds: Well-Timed Block, +25% Block Penetration.",
-                    "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
-                    "Duckslug Editorial",
-                    "Hearts and Spades are drawn from last attack in combo, not first.",
-                    "Cards can be drawn when attacking into a block."
-                ],
-                "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
-                    "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
-                    "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
-                    "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
-                    "Flush: Petrify with a potency of 60%.",
-                    "Playing a hand removes all cards on the last hit of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On Hit, 50% chance to Inflict a Bleed Debuff dealing 85.05 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
-                    "Replay the last Dead Man\u2019s Hand Debuff that was played."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a random Dead Man\u2019s Hand Debuff.",
-                    "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
-                ]
-            }
-        },
-        "3+3": {
-            "rank": 3,
-            "prestige": "1090",
-            "hp": "4901",
-            "attack": "340",
-            "crit_rate": "294",
-            "crit_dmge": "450",
-            "armor": "179",
-            "block_prof": "2291",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
-                "Additionally, suits gain a stackable bonus during Special Attacks.",
-                "Hearts: +5 to 10% Debuff Duration.",
-                "Spades: +200.07 to 599.9 Critical Rating.",
-                "Clubs: +10 to 30% of a bar of Power over 2 seconds.",
-                "Diamonds: +10 to 25% Armor Penetration.",
-                "Jackpot: Counts as all 4 Suits."
-            ],
-            "url_page": "https://auntm.ai/champions/joefixit/tier/3",
-            "champid": "joefixit+3+3",
-            "challenger_rating": 60,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMBLERS DRAW": [
-                    "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
-                    "Cards are drawn even if the attack was blocked.",
-                    "Hearts: End a Combo with Light, +7% Life Steal.",
-                    "Spades: End a Combo with Medium, +136 Attack Rating.",
-                    "Clubs: Heavy Hit, +25% Combat Power Rate.",
-                    "Diamonds: Well-Timed Block, +25% Block Penetration.",
-                    "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
-                    "Duckslug Editorial",
-                    "Hearts and Spades are drawn from last attack in combo, not first.",
-                    "Cards can be drawn when attacking into a block."
-                ],
-                "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
-                    "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
-                    "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
-                    "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
-                    "Flush: Petrify with a potency of 60%.",
-                    "Playing a hand removes all cards on the last hit of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On Hit, 50% chance to Inflict a Bleed Debuff dealing 119 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
-                    "Replay the last Dead Man\u2019s Hand Debuff that was played."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a random Dead Man\u2019s Hand Debuff.",
-                    "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
-                ]
-            }
-        },
-        "3+4": {
-            "rank": 4,
-            "prestige": "1501",
-            "hp": "6730",
-            "attack": "467",
-            "crit_rate": "302",
-            "crit_dmge": "463",
-            "armor": "206",
-            "block_prof": "2355",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
-                "Additionally, suits gain a stackable bonus during Special Attacks.",
-                "Hearts: +5 to 10% Debuff Duration.",
-                "Spades: +205.62 to 616.57 Critical Rating.",
-                "Clubs: +10 to 30% of a bar of Power over 2 seconds.",
-                "Diamonds: +10 to 25% Armor Penetration.",
-                "Jackpot: Counts as all 4 Suits."
-            ],
-            "url_page": "https://auntm.ai/champions/joefixit/tier/3",
-            "champid": "joefixit+3+4",
-            "challenger_rating": 70,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMBLERS DRAW": [
-                    "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
-                    "Cards are drawn even if the attack was blocked.",
-                    "Hearts: End a Combo with Light, +7% Life Steal.",
-                    "Spades: End a Combo with Medium, +186.8 Attack Rating.",
-                    "Clubs: Heavy Hit, +25% Combat Power Rate.",
-                    "Diamonds: Well-Timed Block, +25% Block Penetration.",
-                    "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
-                    "Duckslug Editorial",
-                    "Hearts and Spades are drawn from last attack in combo, not first.",
-                    "Cards can be drawn when attacking into a block."
-                ],
-                "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
-                    "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
-                    "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
-                    "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
-                    "Flush: Petrify with a potency of 60%.",
-                    "Playing a hand removes all cards on the last hit of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On Hit, 50% chance to Inflict a Bleed Debuff dealing 163.45 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
-                    "Replay the last Dead Man\u2019s Hand Debuff that was played."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a random Dead Man\u2019s Hand Debuff.",
-                    "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
-                ]
-            }
-        },
-        "4+1": {
-            "rank": 1,
-            "prestige": "1092",
-            "hp": "4898",
-            "attack": "340",
-            "crit_rate": "294",
-            "crit_dmge": "450",
-            "armor": "223",
-            "block_prof": "2291",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
-                "Additionally, suits gain a stackable bonus during Special Attacks.",
-                "Hearts: +5 to 10% Debuff Duration.",
-                "Spades: +200.07 to 599.9 Critical Rating.",
-                "Clubs: +10 to 30% of a bar of Power over 2 seconds.",
-                "Diamonds: +10 to 25% Armor Penetration.",
-                "Jackpot: Counts as all 4 Suits."
-            ],
-            "url_page": "https://auntm.ai/champions/joefixit/tier/4",
-            "champid": "joefixit+4+1",
-            "challenger_rating": 60,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMBLERS DRAW": [
-                    "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
-                    "Cards are drawn even if the attack was blocked.",
-                    "Hearts: End a Combo with Light, +7% Life Steal.",
-                    "Spades: End a Combo with Medium, +136 Attack Rating.",
-                    "Clubs: Heavy Hit, +25% Combat Power Rate.",
-                    "Diamonds: Well-Timed Block, +25% Block Penetration.",
-                    "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
-                    "Duckslug Editorial",
-                    "Hearts and Spades are drawn from last attack in combo, not first.",
-                    "Cards can be drawn when attacking into a block."
-                ],
-                "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
-                    "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
-                    "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
-                    "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
-                    "Flush: Petrify with a potency of 60%.",
-                    "Playing a hand removes all cards on the last hit of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On Hit, 50% chance to Inflict a Bleed Debuff dealing 119 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
-                    "Replay the last Dead Man\u2019s Hand Debuff that was played."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a random Dead Man\u2019s Hand Debuff.",
-                    "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
-                ]
-            }
-        },
-        "4+2": {
-            "rank": 2,
-            "prestige": "1535",
-            "hp": "6870",
-            "attack": "477",
-            "crit_rate": "302",
-            "crit_dmge": "463",
-            "armor": "253",
-            "block_prof": "2355",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
-                "Additionally, suits gain a stackable bonus during Special Attacks.",
-                "Hearts: +5 to 10% Debuff Duration.",
-                "Spades: +205.62 to 616.57 Critical Rating.",
-                "Clubs: +10 to 30% of a bar of Power over 2 seconds.",
-                "Diamonds: +10 to 25% Armor Penetration.",
-                "Jackpot: Counts as all 4 Suits."
-            ],
-            "url_page": "https://auntm.ai/champions/joefixit/tier/4",
-            "champid": "joefixit+4+2",
-            "challenger_rating": 70,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMBLERS DRAW": [
-                    "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
-                    "Cards are drawn even if the attack was blocked.",
-                    "Hearts: End a Combo with Light, +7% Life Steal.",
-                    "Spades: End a Combo with Medium, +190.8 Attack Rating.",
-                    "Clubs: Heavy Hit, +25% Combat Power Rate.",
-                    "Diamonds: Well-Timed Block, +25% Block Penetration.",
-                    "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
-                    "Duckslug Editorial",
-                    "Hearts and Spades are drawn from last attack in combo, not first.",
-                    "Cards can be drawn when attacking into a block."
-                ],
-                "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
-                    "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
-                    "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
-                    "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
-                    "Flush: Petrify with a potency of 60%.",
-                    "Playing a hand removes all cards on the last hit of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On Hit, 50% chance to Inflict a Bleed Debuff dealing 166.95 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
-                    "Replay the last Dead Man\u2019s Hand Debuff that was played."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a random Dead Man\u2019s Hand Debuff.",
-                    "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
-                ]
-            }
-        },
-        "4+3": {
-            "rank": 3,
-            "prestige": "2149",
-            "hp": "9626",
-            "attack": "668",
-            "crit_rate": "310",
-            "crit_dmge": "475",
-            "armor": "284",
-            "block_prof": "2419",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
-                "Additionally, suits gain a stackable bonus during Special Attacks.",
-                "Hearts: +5 to 10% Debuff Duration.",
-                "Spades: +211.18 to 633.23 Critical Rating.",
-                "Clubs: +10 to 30% of a bar of Power over 2 seconds.",
-                "Diamonds: +10 to 25% Armor Penetration.",
-                "Jackpot: Counts as all 4 Suits."
-            ],
-            "url_page": "https://auntm.ai/champions/joefixit/tier/4",
-            "champid": "joefixit+4+3",
-            "challenger_rating": 80,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMBLERS DRAW": [
-                    "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
-                    "Cards are drawn even if the attack was blocked.",
-                    "Hearts: End a Combo with Light, +7% Life Steal.",
-                    "Spades: End a Combo with Medium, +267.2 Attack Rating.",
-                    "Clubs: Heavy Hit, +25% Combat Power Rate.",
-                    "Diamonds: Well-Timed Block, +25% Block Penetration.",
-                    "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
-                    "Duckslug Editorial",
-                    "Hearts and Spades are drawn from last attack in combo, not first.",
-                    "Cards can be drawn when attacking into a block."
-                ],
-                "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
-                    "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
-                    "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
-                    "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
-                    "Flush: Petrify with a potency of 60%.",
-                    "Playing a hand removes all cards on the last hit of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On Hit, 50% chance to Inflict a Bleed Debuff dealing 233.8 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
-                    "Replay the last Dead Man\u2019s Hand Debuff that was played."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a random Dead Man\u2019s Hand Debuff.",
-                    "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
-                ]
-            }
-        },
-        "4+4": {
-            "rank": 4,
-            "prestige": "2827",
-            "hp": "12648",
-            "attack": "877",
-            "crit_rate": "318",
-            "crit_dmge": "488",
-            "armor": "318",
-            "block_prof": "2482",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
-                "Additionally, suits gain a stackable bonus during Special Attacks.",
-                "Hearts: +5 to 10% Debuff Duration.",
-                "Spades: +216.74 to 649.9 Critical Rating.",
-                "Clubs: +10 to 30% of a bar of Power over 2 seconds.",
-                "Diamonds: +10 to 25% Armor Penetration.",
-                "Jackpot: Counts as all 4 Suits."
-            ],
-            "url_page": "https://auntm.ai/champions/joefixit/tier/4",
-            "champid": "joefixit+4+4",
-            "challenger_rating": 90,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMBLERS DRAW": [
-                    "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
-                    "Cards are drawn even if the attack was blocked.",
-                    "Hearts: End a Combo with Light, +7% Life Steal.",
-                    "Spades: End a Combo with Medium, +350.8 Attack Rating.",
-                    "Clubs: Heavy Hit, +25% Combat Power Rate.",
-                    "Diamonds: Well-Timed Block, +25% Block Penetration.",
-                    "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
-                    "Duckslug Editorial",
-                    "Hearts and Spades are drawn from last attack in combo, not first.",
-                    "Cards can be drawn when attacking into a block."
-                ],
-                "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
-                    "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
-                    "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
-                    "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
-                    "Flush: Petrify with a potency of 60%.",
-                    "Playing a hand removes all cards on the last hit of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On Hit, 50% chance to Inflict a Bleed Debuff dealing 306.95 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
-                    "Replay the last Dead Man\u2019s Hand Debuff that was played."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a random Dead Man\u2019s Hand Debuff.",
-                    "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
-                ]
-            }
-        },
-        "4+5": {
-            "rank": 5,
-            "prestige": "3771",
-            "hp": "16876",
-            "attack": "1171",
-            "crit_rate": "326",
-            "crit_dmge": "500",
-            "armor": "353",
-            "block_prof": "2546",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
-                "Additionally, suits gain a stackable bonus during Special Attacks.",
-                "Hearts: +5 to 10% Debuff Duration.",
-                "Spades: +222.3 to 666.56 Critical Rating.",
-                "Clubs: +10 to 30% of a bar of Power over 2 seconds.",
-                "Diamonds: +10 to 25% Armor Penetration.",
-                "Jackpot: Counts as all 4 Suits."
-            ],
-            "url_page": "https://auntm.ai/champions/joefixit/tier/4",
-            "champid": "joefixit+4+5",
-            "challenger_rating": 100,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMBLERS DRAW": [
-                    "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
-                    "Cards are drawn even if the attack was blocked.",
-                    "Hearts: End a Combo with Light, +7% Life Steal.",
-                    "Spades: End a Combo with Medium, +468.4 Attack Rating.",
-                    "Clubs: Heavy Hit, +25% Combat Power Rate.",
-                    "Diamonds: Well-Timed Block, +25% Block Penetration.",
-                    "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
-                    "Duckslug Editorial",
-                    "Hearts and Spades are drawn from last attack in combo, not first.",
-                    "Cards can be drawn when attacking into a block."
-                ],
-                "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
-                    "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
-                    "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
-                    "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
-                    "Flush: Petrify with a potency of 60%.",
-                    "Playing a hand removes all cards on the last hit of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On Hit, 50% chance to Inflict a Bleed Debuff dealing 409.85 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
-                    "Replay the last Dead Man\u2019s Hand Debuff that was played."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a random Dead Man\u2019s Hand Debuff.",
-                    "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
-                ]
-            }
-        },
-        "5+1": {
-            "rank": 1,
-            "prestige": "2258",
-            "hp": "10071",
-            "attack": "699",
-            "crit_rate": "310",
-            "crit_dmge": "475",
-            "armor": "446",
-            "block_prof": "2419",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
-                "Additionally, suits gain a stackable bonus during Special Attacks.",
-                "Jackpot: Counts as all 4 Suits.",
-                "Hearts: +5.03 to 10% Debuff Duration.",
-                "Spades: +210.53 to 631.98 Critical Rating.",
-                "Clubs: +10 to 30.04% of a bar of Power over 2 seconds.",
-                "Diamonds: +9.98 to 24.96% Armor Penetration."
-            ],
-            "url_page": "https://auntm.ai/champions/joefixit/tier/5",
-            "champid": "joefixit+5+1",
-            "challenger_rating": 80,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMBLERS DRAW": [
-                    "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
-                    "Cards are drawn even if the attack was blocked.",
-                    "Hearts: End a Combo with Light, +7% Life Steal.",
-                    "Spades: End a Combo with Medium, +279.6 Attack Rating.",
-                    "Clubs: Heavy Hit, +25% Combat Power Rate.",
-                    "Diamonds: Well-Timed Block, +25% Block Penetration.",
-                    "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
-                    "Duckslug Editorial",
-                    "Hearts and Spades are drawn from last attack in combo, not first.",
-                    "Cards can be drawn when attacking into a block."
-                ],
-                "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
-                    "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
-                    "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
-                    "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
-                    "Flush: Petrify with a potency of 60%.",
-                    "Playing a hand removes all cards on the last hit of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On Hit, 50% chance to Inflict a Bleed Debuff dealing 244.65 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
-                    "Replay the last Dead Man\u2019s Hand Debuff that was played."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a random Dead Man\u2019s Hand Debuff.",
-                    "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
-                ]
-            }
-        },
-        "5+2": {
-            "rank": 2,
-            "prestige": "2980",
-            "hp": "13304",
-            "attack": "923",
-            "crit_rate": "318",
-            "crit_dmge": "488",
-            "armor": "488",
-            "block_prof": "2482",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
-                "Additionally, suits gain a stackable bonus during Special Attacks.",
-                "Jackpot: Counts as all 4 Suits.",
-                "Hearts: +5.03 to 10% Debuff Duration.",
-                "Spades: +216.07 to 648.61 Critical Rating.",
-                "Clubs: +10 to 30.04% of a bar of Power over 2 seconds.",
-                "Diamonds: +9.98 to 24.96% Armor Penetration."
-            ],
-            "url_page": "https://auntm.ai/champions/joefixit/tier/5",
-            "champid": "joefixit+5+2",
-            "challenger_rating": 90,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMBLERS DRAW": [
-                    "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
-                    "Cards are drawn even if the attack was blocked.",
-                    "Hearts: End a Combo with Light, +7% Life Steal.",
-                    "Spades: End a Combo with Medium, +369.2 Attack Rating.",
-                    "Clubs: Heavy Hit, +25% Combat Power Rate.",
-                    "Diamonds: Well-Timed Block, +25% Block Penetration.",
-                    "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
-                    "Duckslug Editorial",
-                    "Hearts and Spades are drawn from last attack in combo, not first.",
-                    "Cards can be drawn when attacking into a block."
-                ],
-                "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
-                    "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
-                    "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
-                    "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
-                    "Flush: Petrify with a potency of 60%.",
-                    "Playing a hand removes all cards on the last hit of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On Hit, 50% chance to Inflict a Bleed Debuff dealing 323.05 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
-                    "Replay the last Dead Man\u2019s Hand Debuff that was played."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a random Dead Man\u2019s Hand Debuff.",
-                    "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
-                ]
-            }
-        },
-        "5+3": {
-            "rank": 3,
-            "prestige": "4174",
-            "hp": "18598",
-            "attack": "1290",
-            "crit_rate": "326",
-            "crit_dmge": "500",
-            "armor": "532",
-            "block_prof": "2546",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
-                "Additionally, suits gain a stackable bonus during Special Attacks.",
-                "Jackpot: Counts as all 4 Suits.",
-                "Hearts: +5.03 to 10% Debuff Duration.",
-                "Spades: +221.61 to 665.25 Critical Rating.",
-                "Clubs: +10 to 30.04% of a bar of Power over 2 seconds.",
-                "Diamonds: +9.98 to 24.96% Armor Penetration."
-            ],
-            "url_page": "https://auntm.ai/champions/joefixit/tier/5",
-            "champid": "joefixit+5+3",
-            "challenger_rating": 100,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMBLERS DRAW": [
-                    "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
-                    "Cards are drawn even if the attack was blocked.",
-                    "Hearts: End a Combo with Light, +7% Life Steal.",
-                    "Spades: End a Combo with Medium, +516 Attack Rating.",
-                    "Clubs: Heavy Hit, +25% Combat Power Rate.",
-                    "Diamonds: Well-Timed Block, +25% Block Penetration.",
-                    "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
-                    "Duckslug Editorial",
-                    "Hearts and Spades are drawn from last attack in combo, not first.",
-                    "Cards can be drawn when attacking into a block."
-                ],
-                "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
-                    "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
-                    "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
-                    "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
-                    "Flush: Petrify with a potency of 60%.",
-                    "Playing a hand removes all cards on the last hit of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On Hit, 50% chance to Inflict a Bleed Debuff dealing 451.5 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
-                    "Replay the last Dead Man\u2019s Hand Debuff that was played."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a random Dead Man\u2019s Hand Debuff.",
-                    "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
-                ]
-            }
-        },
-        "5+4": {
-            "rank": 4,
-            "prestige": "5622",
-            "hp": "25061",
-            "attack": "1738",
-            "crit_rate": "334",
-            "crit_dmge": "513",
-            "armor": "579",
-            "block_prof": "2610",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
-                "Additionally, suits gain a stackable bonus during Special Attacks.",
-                "Jackpot: Counts as all 4 Suits.",
-                "Hearts: +5.03 to 10% Debuff Duration.",
-                "Spades: +227.15 to 681.88 Critical Rating.",
-                "Clubs: +10 to 30.04% of a bar of Power over 2 seconds.",
-                "Diamonds: +9.98 to 24.96% Armor Penetration."
-            ],
-            "url_page": "https://auntm.ai/champions/joefixit/tier/5",
-            "champid": "joefixit+5+4",
-            "challenger_rating": 110,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMBLERS DRAW": [
-                    "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
-                    "Cards are drawn even if the attack was blocked.",
-                    "Hearts: End a Combo with Light, +7% Life Steal.",
-                    "Spades: End a Combo with Medium, +695.2 Attack Rating.",
-                    "Clubs: Heavy Hit, +25% Combat Power Rate.",
-                    "Diamonds: Well-Timed Block, +25% Block Penetration.",
-                    "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
-                    "Duckslug Editorial",
-                    "Hearts and Spades are drawn from last attack in combo, not first.",
-                    "Cards can be drawn when attacking into a block."
-                ],
-                "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
-                    "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
-                    "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
-                    "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
-                    "Flush: Petrify with a potency of 60%.",
-                    "Playing a hand removes all cards on the last hit of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On Hit, 50% chance to Inflict a Bleed Debuff dealing 608.3 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
-                    "Replay the last Dead Man\u2019s Hand Debuff that was played."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a random Dead Man\u2019s Hand Debuff.",
-                    "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
-                ]
-            }
-        },
-        "5+5": {
-            "rank": 5,
-            "prestige": "7605",
-            "hp": "33837",
-            "attack": "2346",
-            "crit_rate": "342",
-            "crit_dmge": "525",
-            "armor": "628",
-            "block_prof": "2673",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
-                "Additionally, suits gain a stackable bonus during Special Attacks.",
-                "Jackpot: Counts as all 4 Suits.",
-                "Hearts: +5.03 to 10% Debuff Duration.",
-                "Spades: +232.69 to 698.51 Critical Rating.",
-                "Clubs: +10 to 30.04% of a bar of Power over 2 seconds.",
-                "Diamonds: +9.98 to 24.96% Armor Penetration."
-            ],
-            "url_page": "https://auntm.ai/champions/joefixit/tier/5",
-            "champid": "joefixit+5+5",
-            "challenger_rating": 120,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMBLERS DRAW": [
-                    "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
-                    "Cards are drawn even if the attack was blocked.",
-                    "Hearts: End a Combo with Light, +7% Life Steal.",
-                    "Spades: End a Combo with Medium, +938.4 Attack Rating.",
-                    "Clubs: Heavy Hit, +25% Combat Power Rate.",
-                    "Diamonds: Well-Timed Block, +25% Block Penetration.",
-                    "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
-                    "Duckslug Editorial",
-                    "Hearts and Spades are drawn from last attack in combo, not first.",
-                    "Cards can be drawn when attacking into a block."
-                ],
-                "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
-                    "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
-                    "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
-                    "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
-                    "Flush: Petrify with a potency of 60%.",
-                    "Playing a hand removes all cards on the last hit of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On Hit, 50% chance to Inflict a Bleed Debuff dealing 821.1 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
-                    "Replay the last Dead Man\u2019s Hand Debuff that was played."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a random Dead Man\u2019s Hand Debuff.",
-                    "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
-                ]
-            }
-        },
-        "6+1": {
-            "rank": 1,
-            "prestige": "5953",
-            "hp": "26607",
-            "attack": "1845",
-            "crit_rate": "334",
-            "crit_dmge": "513",
-            "armor": "481",
-            "block_prof": "2610",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
-                "Additionally, suits gain a stackable bonus during Special Attacks.",
-                "Jackpot: Counts as all 4 Suits.",
-                "Hearts: +5.03 to 10% Debuff Duration.",
-                "Spades: +227.15 to 681.88 Critical Rating.",
-                "Clubs: +10 to 30.04% of a bar of Power over 2 seconds.",
-                "Diamonds: +9.98 to 24.96% Armor Penetration."
-            ],
-            "url_page": "https://auntm.ai/champions/joefixit/tier/6",
-            "champid": "joefixit+6+1",
-            "challenger_rating": 110,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMBLERS DRAW": [
-                    "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
-                    "Cards are drawn even if the attack was blocked.",
-                    "Hearts: End a Combo with Light, +7% Life Steal.",
-                    "Spades: End a Combo with Medium, +738 Attack Rating.",
-                    "Clubs: Heavy Hit, +25% Combat Power Rate.",
-                    "Diamonds: Well-Timed Block, +25% Block Penetration.",
-                    "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
-                    "Duckslug Editorial",
-                    "Hearts and Spades are drawn from last attack in combo, not first.",
-                    "Cards can be drawn when attacking into a block."
-                ],
-                "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
-                    "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
-                    "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
-                    "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
-                    "Flush: Petrify with a potency of 60%.",
-                    "Playing a hand removes all cards on the last hit of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On Hit, 50% chance to Inflict a Bleed Debuff dealing 645.75 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
-                    "Replay the last Dead Man\u2019s Hand Debuff that was played."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a random Dead Man\u2019s Hand Debuff.",
-                    "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
-                ]
-            }
-        },
-        "6+2": {
-            "rank": 2,
-            "prestige": "8224",
-            "hp": "36752",
-            "attack": "2549",
-            "crit_rate": "342",
-            "crit_dmge": "525",
-            "armor": "525",
-            "block_prof": "2673",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
-                "Additionally, suits gain a stackable bonus during Special Attacks.",
-                "Jackpot: Counts as all 4 Suits.",
-                "Hearts: +5.03 to 10% Debuff Duration.",
-                "Spades: +232.69 to 698.51 Critical Rating.",
-                "Clubs: +10 to 30.04% of a bar of Power over 2 seconds.",
-                "Diamonds: +9.98 to 24.96% Armor Penetration."
-            ],
-            "url_page": "https://auntm.ai/champions/joefixit/tier/6",
-            "champid": "joefixit+6+2",
-            "challenger_rating": 120,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMBLERS DRAW": [
-                    "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
-                    "Cards are drawn even if the attack was blocked.",
-                    "Hearts: End a Combo with Light, +7% Life Steal.",
-                    "Spades: End a Combo with Medium, +1019.6 Attack Rating.",
-                    "Clubs: Heavy Hit, +25% Combat Power Rate.",
-                    "Diamonds: Well-Timed Block, +25% Block Penetration.",
-                    "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
-                    "Duckslug Editorial",
-                    "Hearts and Spades are drawn from last attack in combo, not first.",
-                    "Cards can be drawn when attacking into a block."
-                ],
-                "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
-                    "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
-                    "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
-                    "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
-                    "Flush: Petrify with a potency of 60%.",
-                    "Playing a hand removes all cards on the last hit of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On Hit, 50% chance to Inflict a Bleed Debuff dealing 892.15 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
-                    "Replay the last Dead Man\u2019s Hand Debuff that was played."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a random Dead Man\u2019s Hand Debuff.",
-                    "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
-                ]
-            }
-        },
-        "6+3": {
-            "rank": 3,
-            "prestige": "9777",
-            "hp": "43600",
-            "attack": "3023",
-            "crit_rate": "351",
-            "crit_dmge": "538",
-            "armor": "572",
-            "block_prof": "2737",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
-                "Additionally, suits gain a stackable bonus during Special Attacks.",
-                "Jackpot: Counts as all 4 Suits.",
-                "Hearts: +5.03 to 10% Debuff Duration.",
-                "Spades: +238.23 to 715.14 Critical Rating.",
-                "Clubs: +10 to 30.04% of a bar of Power over 2 seconds.",
-                "Diamonds: +9.98 to 24.96% Armor Penetration."
-            ],
-            "url_page": "https://auntm.ai/champions/joefixit/tier/6",
-            "champid": "joefixit+6+3",
-            "challenger_rating": 130,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMBLERS DRAW": [
-                    "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
-                    "Cards are drawn even if the attack was blocked.",
-                    "Hearts: End a Combo with Light, +7% Life Steal.",
-                    "Spades: End a Combo with Medium, +1209.2 Attack Rating.",
-                    "Clubs: Heavy Hit, +25% Combat Power Rate.",
-                    "Diamonds: Well-Timed Block, +25% Block Penetration.",
-                    "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
-                    "Duckslug Editorial",
-                    "Hearts and Spades are drawn from last attack in combo, not first.",
-                    "Cards can be drawn when attacking into a block."
-                ],
-                "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
-                    "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
-                    "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
-                    "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
-                    "Flush: Petrify with a potency of 60%.",
-                    "Playing a hand removes all cards on the last hit of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On Hit, 50% chance to Inflict a Bleed Debuff dealing 1058.05 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
-                    "Replay the last Dead Man\u2019s Hand Debuff that was played."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a random Dead Man\u2019s Hand Debuff.",
-                    "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
-                ]
-            }
-        },
-        "6+4": {
-            "rank": 4,
-            "prestige": "11189",
-            "hp": "49894",
-            "attack": "3460",
-            "crit_rate": "359",
-            "crit_dmge": "550",
-            "armor": "621",
-            "block_prof": "2801",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
-                "Additionally, suits gain a stackable bonus during Special Attacks.",
-                "Jackpot: Counts as all 4 Suits.",
-                "Hearts: +5.03 to 10% Debuff Duration.",
-                "Spades: +243.77 to 731.77 Critical Rating.",
-                "Clubs: +10 to 30.04% of a bar of Power over 2 seconds.",
-                "Diamonds: +9.98 to 24.96% Armor Penetration."
-            ],
-            "url_page": "https://auntm.ai/champions/joefixit/tier/6",
-            "champid": "joefixit+6+4",
-            "challenger_rating": 140,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMBLERS DRAW": [
-                    "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
-                    "Cards are drawn even if the attack was blocked.",
-                    "Hearts: End a Combo with Light, +7% Life Steal.",
-                    "Spades: End a Combo with Medium, +1384 Attack Rating.",
-                    "Clubs: Heavy Hit, +25% Combat Power Rate.",
-                    "Diamonds: Well-Timed Block, +25% Block Penetration.",
-                    "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
-                    "Duckslug Editorial",
-                    "Hearts and Spades are drawn from last attack in combo, not first.",
-                    "Cards can be drawn when attacking into a block."
-                ],
-                "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
-                    "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
-                    "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
-                    "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
-                    "Flush: Petrify with a potency of 60%.",
-                    "Playing a hand removes all cards on the last hit of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On Hit, 50% chance to Inflict a Bleed Debuff dealing 1211 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
-                    "Replay the last Dead Man\u2019s Hand Debuff that was played."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a random Dead Man\u2019s Hand Debuff.",
-                    "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
-                ]
-            }
-        },
-        "find": {
-            "story_quests": {
-                "act_1": [],
-                "act_2": [],
-                "act_3": [
-                    "3.1.3"
-                ],
-                "act_4": [
-                    "4.2.6",
-                    "4.3.1",
-                    "4.3.2",
-                    "4.3.3",
-                    "4.3.4",
-                    "4.3.5",
-                    "4.4.1",
-                    "4.4.2",
-                    "4.4.3",
-                    "4.4.4",
-                    "4.4.5",
-                    "4.4.6"
-                ],
-                "act_5": [
-                    "5.1.4",
-                    "5.1.6",
-                    "5.2.1",
-                    "5.2.3",
-                    "5.2.6",
-                    "5.3.3",
-                    "5.3.4",
-                    "5.3.6",
-                    "5.4.2",
-                    "5.4.3"
-                ],
-                "act_6": [
-                    "6.1.1",
-                    "6.1.4",
-                    "6.2.1",
-                    "6.2.5",
-                    "6.2.6",
-                    "6.3.3",
-                    "6.3.4",
-                    "6.4.2",
-                    "6.4.5"
-                ],
-                "act_7": [
-                    "7.1.3",
-                    "7.3.2",
-                    "7.3.4",
-                    "7.4.3"
-                ]
-            }
-        }
+  "champid": "joefixit",
+  "data": {
+    "2+1": {
+      "rank": 1,
+      "prestige": "270",
+      "hp": "1208",
+      "attack": "84",
+      "crit_rate": "261",
+      "crit_dmge": "400",
+      "armor": "121",
+      "block_prof": "2037",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
+        "Additionally, suits gain a stackable bonus during Special Attacks.",
+        "Hearts: +5 to 10% Debuff Duration.",
+        "Spades: +177.84 to 533.25 Critical Rating.",
+        "Clubs: +10 to 30% of a bar of Power over 2 seconds.",
+        "Diamonds: +10 to 25% Armor Penetration.",
+        "Jackpot: Counts as all 4 Suits."
+      ],
+      "url_page": "https://auntm.ai/champions/joefixit/tier/2",
+      "champid": "joefixit+2+1",
+      "challenger_rating": 20,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMBLERS DRAW": [
+          "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
+          "Cards are drawn even if the attack was blocked.",
+          "Hearts: End a Combo with Light, +7% Life Steal.",
+          "Spades: End a Combo with Medium, +33.6 Attack Rating.",
+          "Clubs: Heavy Hit, +25% Combat Power Rate.",
+          "Diamonds: Well-Timed Block, +25% Block Penetration.",
+          "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
+          "Duckslug Editorial",
+          "Hearts and Spades are drawn from last attack in combo, not first.",
+          "Cards can be drawn when attacking into a block."
+        ],
+        "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
+          "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
+          "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
+          "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
+          "Flush: Petrify with a potency of 60%.",
+          "Playing a hand removes all cards on the last hit of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On Hit, 50% chance to Inflict a Bleed Debuff dealing 29.4 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
+          "Replay the last Dead Man\u2019s Hand Debuff that was played."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a random Dead Man\u2019s Hand Debuff.",
+          "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
+        ]
+      }
+    },
+    "2+2": {
+      "rank": 2,
+      "prestige": "358",
+      "hp": "1596",
+      "attack": "111",
+      "crit_rate": "269",
+      "crit_dmge": "413",
+      "armor": "144",
+      "block_prof": "2101",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
+        "Additionally, suits gain a stackable bonus during Special Attacks.",
+        "Hearts: +5 to 10% Debuff Duration.",
+        "Spades: +183.39 to 549.91 Critical Rating.",
+        "Clubs: +10 to 30% of a bar of Power over 2 seconds.",
+        "Diamonds: +10 to 25% Armor Penetration.",
+        "Jackpot: Counts as all 4 Suits."
+      ],
+      "url_page": "https://auntm.ai/champions/joefixit/tier/2",
+      "champid": "joefixit+2+2",
+      "challenger_rating": 30,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMBLERS DRAW": [
+          "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
+          "Cards are drawn even if the attack was blocked.",
+          "Hearts: End a Combo with Light, +7% Life Steal.",
+          "Spades: End a Combo with Medium, +44.4 Attack Rating.",
+          "Clubs: Heavy Hit, +25% Combat Power Rate.",
+          "Diamonds: Well-Timed Block, +25% Block Penetration.",
+          "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
+          "Duckslug Editorial",
+          "Hearts and Spades are drawn from last attack in combo, not first.",
+          "Cards can be drawn when attacking into a block."
+        ],
+        "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
+          "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
+          "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
+          "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
+          "Flush: Petrify with a potency of 60%.",
+          "Playing a hand removes all cards on the last hit of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On Hit, 50% chance to Inflict a Bleed Debuff dealing 38.85 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
+          "Replay the last Dead Man\u2019s Hand Debuff that was played."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a random Dead Man\u2019s Hand Debuff.",
+          "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
+        ]
+      }
+    },
+    "2+3": {
+      "rank": 3,
+      "prestige": "565",
+      "hp": "2533",
+      "attack": "176",
+      "crit_rate": "277",
+      "crit_dmge": "425",
+      "armor": "169",
+      "block_prof": "2164",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
+        "Additionally, suits gain a stackable bonus during Special Attacks.",
+        "Hearts: +5 to 10% Debuff Duration.",
+        "Spades: +188.95 to 566.58 Critical Rating.",
+        "Clubs: +10 to 30% of a bar of Power over 2 seconds.",
+        "Diamonds: +10 to 25% Armor Penetration.",
+        "Jackpot: Counts as all 4 Suits."
+      ],
+      "url_page": "https://auntm.ai/champions/joefixit/tier/2",
+      "champid": "joefixit+2+3",
+      "challenger_rating": 40,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMBLERS DRAW": [
+          "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
+          "Cards are drawn even if the attack was blocked.",
+          "Hearts: End a Combo with Light, +7% Life Steal.",
+          "Spades: End a Combo with Medium, +70.4 Attack Rating.",
+          "Clubs: Heavy Hit, +25% Combat Power Rate.",
+          "Diamonds: Well-Timed Block, +25% Block Penetration.",
+          "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
+          "Duckslug Editorial",
+          "Hearts and Spades are drawn from last attack in combo, not first.",
+          "Cards can be drawn when attacking into a block."
+        ],
+        "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
+          "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
+          "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
+          "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
+          "Flush: Petrify with a potency of 60%.",
+          "Playing a hand removes all cards on the last hit of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On Hit, 50% chance to Inflict a Bleed Debuff dealing 61.6 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
+          "Replay the last Dead Man\u2019s Hand Debuff that was played."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a random Dead Man\u2019s Hand Debuff.",
+          "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
+        ]
+      }
+    },
+    "3+1": {
+      "rank": 1,
+      "prestige": "489",
+      "hp": "2190",
+      "attack": "152",
+      "crit_rate": "277",
+      "crit_dmge": "425",
+      "armor": "128",
+      "block_prof": "2164",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
+        "Additionally, suits gain a stackable bonus during Special Attacks.",
+        "Hearts: +5 to 10% Debuff Duration.",
+        "Spades: +188.95 to 566.58 Critical Rating.",
+        "Clubs: +10 to 30% of a bar of Power over 2 seconds.",
+        "Diamonds: +10 to 25% Armor Penetration.",
+        "Jackpot: Counts as all 4 Suits."
+      ],
+      "url_page": "https://auntm.ai/champions/joefixit/tier/3",
+      "champid": "joefixit+3+1",
+      "challenger_rating": 40,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMBLERS DRAW": [
+          "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
+          "Cards are drawn even if the attack was blocked.",
+          "Hearts: End a Combo with Light, +7% Life Steal.",
+          "Spades: End a Combo with Medium, +60.8 Attack Rating.",
+          "Clubs: Heavy Hit, +25% Combat Power Rate.",
+          "Diamonds: Well-Timed Block, +25% Block Penetration.",
+          "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
+          "Duckslug Editorial",
+          "Hearts and Spades are drawn from last attack in combo, not first.",
+          "Cards can be drawn when attacking into a block."
+        ],
+        "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
+          "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
+          "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
+          "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
+          "Flush: Petrify with a potency of 60%.",
+          "Playing a hand removes all cards on the last hit of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On Hit, 50% chance to Inflict a Bleed Debuff dealing 53.2 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
+          "Replay the last Dead Man\u2019s Hand Debuff that was played."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a random Dead Man\u2019s Hand Debuff.",
+          "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
+        ]
+      }
+    },
+    "3+2": {
+      "rank": 2,
+      "prestige": "781",
+      "hp": "3504",
+      "attack": "243",
+      "crit_rate": "285",
+      "crit_dmge": "438",
+      "armor": "153",
+      "block_prof": "2228",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
+        "Additionally, suits gain a stackable bonus during Special Attacks.",
+        "Hearts: +5 to 10% Debuff Duration.",
+        "Spades: +194.51 to 583.24 Critical Rating.",
+        "Clubs: +10 to 30% of a bar of Power over 2 seconds.",
+        "Diamonds: +10 to 25% Armor Penetration.",
+        "Jackpot: Counts as all 4 Suits."
+      ],
+      "url_page": "https://auntm.ai/champions/joefixit/tier/3",
+      "champid": "joefixit+3+2",
+      "challenger_rating": 50,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMBLERS DRAW": [
+          "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
+          "Cards are drawn even if the attack was blocked.",
+          "Hearts: End a Combo with Light, +7% Life Steal.",
+          "Spades: End a Combo with Medium, +97.2 Attack Rating.",
+          "Clubs: Heavy Hit, +25% Combat Power Rate.",
+          "Diamonds: Well-Timed Block, +25% Block Penetration.",
+          "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
+          "Duckslug Editorial",
+          "Hearts and Spades are drawn from last attack in combo, not first.",
+          "Cards can be drawn when attacking into a block."
+        ],
+        "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
+          "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
+          "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
+          "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
+          "Flush: Petrify with a potency of 60%.",
+          "Playing a hand removes all cards on the last hit of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On Hit, 50% chance to Inflict a Bleed Debuff dealing 85.05 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
+          "Replay the last Dead Man\u2019s Hand Debuff that was played."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a random Dead Man\u2019s Hand Debuff.",
+          "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
+        ]
+      }
+    },
+    "3+3": {
+      "rank": 3,
+      "prestige": "1090",
+      "hp": "4901",
+      "attack": "340",
+      "crit_rate": "294",
+      "crit_dmge": "450",
+      "armor": "179",
+      "block_prof": "2291",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
+        "Additionally, suits gain a stackable bonus during Special Attacks.",
+        "Hearts: +5 to 10% Debuff Duration.",
+        "Spades: +200.07 to 599.9 Critical Rating.",
+        "Clubs: +10 to 30% of a bar of Power over 2 seconds.",
+        "Diamonds: +10 to 25% Armor Penetration.",
+        "Jackpot: Counts as all 4 Suits."
+      ],
+      "url_page": "https://auntm.ai/champions/joefixit/tier/3",
+      "champid": "joefixit+3+3",
+      "challenger_rating": 60,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMBLERS DRAW": [
+          "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
+          "Cards are drawn even if the attack was blocked.",
+          "Hearts: End a Combo with Light, +7% Life Steal.",
+          "Spades: End a Combo with Medium, +136 Attack Rating.",
+          "Clubs: Heavy Hit, +25% Combat Power Rate.",
+          "Diamonds: Well-Timed Block, +25% Block Penetration.",
+          "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
+          "Duckslug Editorial",
+          "Hearts and Spades are drawn from last attack in combo, not first.",
+          "Cards can be drawn when attacking into a block."
+        ],
+        "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
+          "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
+          "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
+          "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
+          "Flush: Petrify with a potency of 60%.",
+          "Playing a hand removes all cards on the last hit of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On Hit, 50% chance to Inflict a Bleed Debuff dealing 119 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
+          "Replay the last Dead Man\u2019s Hand Debuff that was played."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a random Dead Man\u2019s Hand Debuff.",
+          "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
+        ]
+      }
+    },
+    "3+4": {
+      "rank": 4,
+      "prestige": "1501",
+      "hp": "6730",
+      "attack": "467",
+      "crit_rate": "302",
+      "crit_dmge": "463",
+      "armor": "206",
+      "block_prof": "2355",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
+        "Additionally, suits gain a stackable bonus during Special Attacks.",
+        "Hearts: +5 to 10% Debuff Duration.",
+        "Spades: +205.62 to 616.57 Critical Rating.",
+        "Clubs: +10 to 30% of a bar of Power over 2 seconds.",
+        "Diamonds: +10 to 25% Armor Penetration.",
+        "Jackpot: Counts as all 4 Suits."
+      ],
+      "url_page": "https://auntm.ai/champions/joefixit/tier/3",
+      "champid": "joefixit+3+4",
+      "challenger_rating": 70,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMBLERS DRAW": [
+          "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
+          "Cards are drawn even if the attack was blocked.",
+          "Hearts: End a Combo with Light, +7% Life Steal.",
+          "Spades: End a Combo with Medium, +186.8 Attack Rating.",
+          "Clubs: Heavy Hit, +25% Combat Power Rate.",
+          "Diamonds: Well-Timed Block, +25% Block Penetration.",
+          "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
+          "Duckslug Editorial",
+          "Hearts and Spades are drawn from last attack in combo, not first.",
+          "Cards can be drawn when attacking into a block."
+        ],
+        "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
+          "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
+          "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
+          "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
+          "Flush: Petrify with a potency of 60%.",
+          "Playing a hand removes all cards on the last hit of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On Hit, 50% chance to Inflict a Bleed Debuff dealing 163.45 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
+          "Replay the last Dead Man\u2019s Hand Debuff that was played."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a random Dead Man\u2019s Hand Debuff.",
+          "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
+        ]
+      }
+    },
+    "4+1": {
+      "rank": 1,
+      "prestige": "1092",
+      "hp": "4898",
+      "attack": "340",
+      "crit_rate": "294",
+      "crit_dmge": "450",
+      "armor": "223",
+      "block_prof": "2291",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
+        "Additionally, suits gain a stackable bonus during Special Attacks.",
+        "Hearts: +5 to 10% Debuff Duration.",
+        "Spades: +200.07 to 599.9 Critical Rating.",
+        "Clubs: +10 to 30% of a bar of Power over 2 seconds.",
+        "Diamonds: +10 to 25% Armor Penetration.",
+        "Jackpot: Counts as all 4 Suits."
+      ],
+      "url_page": "https://auntm.ai/champions/joefixit/tier/4",
+      "champid": "joefixit+4+1",
+      "challenger_rating": 60,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMBLERS DRAW": [
+          "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
+          "Cards are drawn even if the attack was blocked.",
+          "Hearts: End a Combo with Light, +7% Life Steal.",
+          "Spades: End a Combo with Medium, +136 Attack Rating.",
+          "Clubs: Heavy Hit, +25% Combat Power Rate.",
+          "Diamonds: Well-Timed Block, +25% Block Penetration.",
+          "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
+          "Duckslug Editorial",
+          "Hearts and Spades are drawn from last attack in combo, not first.",
+          "Cards can be drawn when attacking into a block."
+        ],
+        "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
+          "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
+          "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
+          "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
+          "Flush: Petrify with a potency of 60%.",
+          "Playing a hand removes all cards on the last hit of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On Hit, 50% chance to Inflict a Bleed Debuff dealing 119 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
+          "Replay the last Dead Man\u2019s Hand Debuff that was played."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a random Dead Man\u2019s Hand Debuff.",
+          "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
+        ]
+      }
+    },
+    "4+2": {
+      "rank": 2,
+      "prestige": "1535",
+      "hp": "6870",
+      "attack": "477",
+      "crit_rate": "302",
+      "crit_dmge": "463",
+      "armor": "253",
+      "block_prof": "2355",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
+        "Additionally, suits gain a stackable bonus during Special Attacks.",
+        "Hearts: +5 to 10% Debuff Duration.",
+        "Spades: +205.62 to 616.57 Critical Rating.",
+        "Clubs: +10 to 30% of a bar of Power over 2 seconds.",
+        "Diamonds: +10 to 25% Armor Penetration.",
+        "Jackpot: Counts as all 4 Suits."
+      ],
+      "url_page": "https://auntm.ai/champions/joefixit/tier/4",
+      "champid": "joefixit+4+2",
+      "challenger_rating": 70,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMBLERS DRAW": [
+          "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
+          "Cards are drawn even if the attack was blocked.",
+          "Hearts: End a Combo with Light, +7% Life Steal.",
+          "Spades: End a Combo with Medium, +190.8 Attack Rating.",
+          "Clubs: Heavy Hit, +25% Combat Power Rate.",
+          "Diamonds: Well-Timed Block, +25% Block Penetration.",
+          "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
+          "Duckslug Editorial",
+          "Hearts and Spades are drawn from last attack in combo, not first.",
+          "Cards can be drawn when attacking into a block."
+        ],
+        "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
+          "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
+          "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
+          "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
+          "Flush: Petrify with a potency of 60%.",
+          "Playing a hand removes all cards on the last hit of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On Hit, 50% chance to Inflict a Bleed Debuff dealing 166.95 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
+          "Replay the last Dead Man\u2019s Hand Debuff that was played."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a random Dead Man\u2019s Hand Debuff.",
+          "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
+        ]
+      }
+    },
+    "4+3": {
+      "rank": 3,
+      "prestige": "2149",
+      "hp": "9626",
+      "attack": "668",
+      "crit_rate": "310",
+      "crit_dmge": "475",
+      "armor": "284",
+      "block_prof": "2419",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
+        "Additionally, suits gain a stackable bonus during Special Attacks.",
+        "Hearts: +5 to 10% Debuff Duration.",
+        "Spades: +211.18 to 633.23 Critical Rating.",
+        "Clubs: +10 to 30% of a bar of Power over 2 seconds.",
+        "Diamonds: +10 to 25% Armor Penetration.",
+        "Jackpot: Counts as all 4 Suits."
+      ],
+      "url_page": "https://auntm.ai/champions/joefixit/tier/4",
+      "champid": "joefixit+4+3",
+      "challenger_rating": 80,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMBLERS DRAW": [
+          "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
+          "Cards are drawn even if the attack was blocked.",
+          "Hearts: End a Combo with Light, +7% Life Steal.",
+          "Spades: End a Combo with Medium, +267.2 Attack Rating.",
+          "Clubs: Heavy Hit, +25% Combat Power Rate.",
+          "Diamonds: Well-Timed Block, +25% Block Penetration.",
+          "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
+          "Duckslug Editorial",
+          "Hearts and Spades are drawn from last attack in combo, not first.",
+          "Cards can be drawn when attacking into a block."
+        ],
+        "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
+          "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
+          "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
+          "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
+          "Flush: Petrify with a potency of 60%.",
+          "Playing a hand removes all cards on the last hit of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On Hit, 50% chance to Inflict a Bleed Debuff dealing 233.8 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
+          "Replay the last Dead Man\u2019s Hand Debuff that was played."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a random Dead Man\u2019s Hand Debuff.",
+          "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
+        ]
+      }
+    },
+    "4+4": {
+      "rank": 4,
+      "prestige": "2827",
+      "hp": "12648",
+      "attack": "877",
+      "crit_rate": "318",
+      "crit_dmge": "488",
+      "armor": "318",
+      "block_prof": "2482",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
+        "Additionally, suits gain a stackable bonus during Special Attacks.",
+        "Hearts: +5 to 10% Debuff Duration.",
+        "Spades: +216.74 to 649.9 Critical Rating.",
+        "Clubs: +10 to 30% of a bar of Power over 2 seconds.",
+        "Diamonds: +10 to 25% Armor Penetration.",
+        "Jackpot: Counts as all 4 Suits."
+      ],
+      "url_page": "https://auntm.ai/champions/joefixit/tier/4",
+      "champid": "joefixit+4+4",
+      "challenger_rating": 90,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMBLERS DRAW": [
+          "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
+          "Cards are drawn even if the attack was blocked.",
+          "Hearts: End a Combo with Light, +7% Life Steal.",
+          "Spades: End a Combo with Medium, +350.8 Attack Rating.",
+          "Clubs: Heavy Hit, +25% Combat Power Rate.",
+          "Diamonds: Well-Timed Block, +25% Block Penetration.",
+          "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
+          "Duckslug Editorial",
+          "Hearts and Spades are drawn from last attack in combo, not first.",
+          "Cards can be drawn when attacking into a block."
+        ],
+        "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
+          "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
+          "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
+          "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
+          "Flush: Petrify with a potency of 60%.",
+          "Playing a hand removes all cards on the last hit of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On Hit, 50% chance to Inflict a Bleed Debuff dealing 306.95 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
+          "Replay the last Dead Man\u2019s Hand Debuff that was played."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a random Dead Man\u2019s Hand Debuff.",
+          "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
+        ]
+      }
+    },
+    "4+5": {
+      "rank": 5,
+      "prestige": "3771",
+      "hp": "16876",
+      "attack": "1171",
+      "crit_rate": "326",
+      "crit_dmge": "500",
+      "armor": "353",
+      "block_prof": "2546",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
+        "Additionally, suits gain a stackable bonus during Special Attacks.",
+        "Hearts: +5 to 10% Debuff Duration.",
+        "Spades: +222.3 to 666.56 Critical Rating.",
+        "Clubs: +10 to 30% of a bar of Power over 2 seconds.",
+        "Diamonds: +10 to 25% Armor Penetration.",
+        "Jackpot: Counts as all 4 Suits."
+      ],
+      "url_page": "https://auntm.ai/champions/joefixit/tier/4",
+      "champid": "joefixit+4+5",
+      "challenger_rating": 100,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMBLERS DRAW": [
+          "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
+          "Cards are drawn even if the attack was blocked.",
+          "Hearts: End a Combo with Light, +7% Life Steal.",
+          "Spades: End a Combo with Medium, +468.4 Attack Rating.",
+          "Clubs: Heavy Hit, +25% Combat Power Rate.",
+          "Diamonds: Well-Timed Block, +25% Block Penetration.",
+          "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
+          "Duckslug Editorial",
+          "Hearts and Spades are drawn from last attack in combo, not first.",
+          "Cards can be drawn when attacking into a block."
+        ],
+        "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
+          "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
+          "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
+          "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
+          "Flush: Petrify with a potency of 60%.",
+          "Playing a hand removes all cards on the last hit of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On Hit, 50% chance to Inflict a Bleed Debuff dealing 409.85 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
+          "Replay the last Dead Man\u2019s Hand Debuff that was played."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a random Dead Man\u2019s Hand Debuff.",
+          "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
+        ]
+      }
+    },
+    "5+1": {
+      "rank": 1,
+      "prestige": "2258",
+      "hp": "10071",
+      "attack": "699",
+      "crit_rate": "310",
+      "crit_dmge": "475",
+      "armor": "446",
+      "block_prof": "2419",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
+        "Additionally, suits gain a stackable bonus during Special Attacks.",
+        "Jackpot: Counts as all 4 Suits.",
+        "Hearts: +5.03 to 10% Debuff Duration.",
+        "Spades: +210.53 to 631.98 Critical Rating.",
+        "Clubs: +10 to 30.04% of a bar of Power over 2 seconds.",
+        "Diamonds: +9.98 to 24.96% Armor Penetration."
+      ],
+      "url_page": "https://auntm.ai/champions/joefixit/tier/5",
+      "champid": "joefixit+5+1",
+      "challenger_rating": 80,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMBLERS DRAW": [
+          "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
+          "Cards are drawn even if the attack was blocked.",
+          "Hearts: End a Combo with Light, +7% Life Steal.",
+          "Spades: End a Combo with Medium, +279.6 Attack Rating.",
+          "Clubs: Heavy Hit, +25% Combat Power Rate.",
+          "Diamonds: Well-Timed Block, +25% Block Penetration.",
+          "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
+          "Duckslug Editorial",
+          "Hearts and Spades are drawn from last attack in combo, not first.",
+          "Cards can be drawn when attacking into a block."
+        ],
+        "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
+          "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
+          "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
+          "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
+          "Flush: Petrify with a potency of 60%.",
+          "Playing a hand removes all cards on the last hit of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On Hit, 50% chance to Inflict a Bleed Debuff dealing 244.65 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
+          "Replay the last Dead Man\u2019s Hand Debuff that was played."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a random Dead Man\u2019s Hand Debuff.",
+          "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
+        ]
+      }
+    },
+    "5+2": {
+      "rank": 2,
+      "prestige": "2980",
+      "hp": "13304",
+      "attack": "923",
+      "crit_rate": "318",
+      "crit_dmge": "488",
+      "armor": "488",
+      "block_prof": "2482",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
+        "Additionally, suits gain a stackable bonus during Special Attacks.",
+        "Jackpot: Counts as all 4 Suits.",
+        "Hearts: +5.03 to 10% Debuff Duration.",
+        "Spades: +216.07 to 648.61 Critical Rating.",
+        "Clubs: +10 to 30.04% of a bar of Power over 2 seconds.",
+        "Diamonds: +9.98 to 24.96% Armor Penetration."
+      ],
+      "url_page": "https://auntm.ai/champions/joefixit/tier/5",
+      "champid": "joefixit+5+2",
+      "challenger_rating": 90,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMBLERS DRAW": [
+          "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
+          "Cards are drawn even if the attack was blocked.",
+          "Hearts: End a Combo with Light, +7% Life Steal.",
+          "Spades: End a Combo with Medium, +369.2 Attack Rating.",
+          "Clubs: Heavy Hit, +25% Combat Power Rate.",
+          "Diamonds: Well-Timed Block, +25% Block Penetration.",
+          "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
+          "Duckslug Editorial",
+          "Hearts and Spades are drawn from last attack in combo, not first.",
+          "Cards can be drawn when attacking into a block."
+        ],
+        "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
+          "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
+          "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
+          "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
+          "Flush: Petrify with a potency of 60%.",
+          "Playing a hand removes all cards on the last hit of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On Hit, 50% chance to Inflict a Bleed Debuff dealing 323.05 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
+          "Replay the last Dead Man\u2019s Hand Debuff that was played."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a random Dead Man\u2019s Hand Debuff.",
+          "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
+        ]
+      }
+    },
+    "5+3": {
+      "rank": 3,
+      "prestige": "4174",
+      "hp": "18598",
+      "attack": "1290",
+      "crit_rate": "326",
+      "crit_dmge": "500",
+      "armor": "532",
+      "block_prof": "2546",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
+        "Additionally, suits gain a stackable bonus during Special Attacks.",
+        "Jackpot: Counts as all 4 Suits.",
+        "Hearts: +5.03 to 10% Debuff Duration.",
+        "Spades: +221.61 to 665.25 Critical Rating.",
+        "Clubs: +10 to 30.04% of a bar of Power over 2 seconds.",
+        "Diamonds: +9.98 to 24.96% Armor Penetration."
+      ],
+      "url_page": "https://auntm.ai/champions/joefixit/tier/5",
+      "champid": "joefixit+5+3",
+      "challenger_rating": 100,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMBLERS DRAW": [
+          "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
+          "Cards are drawn even if the attack was blocked.",
+          "Hearts: End a Combo with Light, +7% Life Steal.",
+          "Spades: End a Combo with Medium, +516 Attack Rating.",
+          "Clubs: Heavy Hit, +25% Combat Power Rate.",
+          "Diamonds: Well-Timed Block, +25% Block Penetration.",
+          "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
+          "Duckslug Editorial",
+          "Hearts and Spades are drawn from last attack in combo, not first.",
+          "Cards can be drawn when attacking into a block."
+        ],
+        "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
+          "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
+          "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
+          "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
+          "Flush: Petrify with a potency of 60%.",
+          "Playing a hand removes all cards on the last hit of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On Hit, 50% chance to Inflict a Bleed Debuff dealing 451.5 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
+          "Replay the last Dead Man\u2019s Hand Debuff that was played."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a random Dead Man\u2019s Hand Debuff.",
+          "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
+        ]
+      }
+    },
+    "5+4": {
+      "rank": 4,
+      "prestige": "5622",
+      "hp": "25061",
+      "attack": "1738",
+      "crit_rate": "334",
+      "crit_dmge": "513",
+      "armor": "579",
+      "block_prof": "2610",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
+        "Additionally, suits gain a stackable bonus during Special Attacks.",
+        "Jackpot: Counts as all 4 Suits.",
+        "Hearts: +5.03 to 10% Debuff Duration.",
+        "Spades: +227.15 to 681.88 Critical Rating.",
+        "Clubs: +10 to 30.04% of a bar of Power over 2 seconds.",
+        "Diamonds: +9.98 to 24.96% Armor Penetration."
+      ],
+      "url_page": "https://auntm.ai/champions/joefixit/tier/5",
+      "champid": "joefixit+5+4",
+      "challenger_rating": 110,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMBLERS DRAW": [
+          "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
+          "Cards are drawn even if the attack was blocked.",
+          "Hearts: End a Combo with Light, +7% Life Steal.",
+          "Spades: End a Combo with Medium, +695.2 Attack Rating.",
+          "Clubs: Heavy Hit, +25% Combat Power Rate.",
+          "Diamonds: Well-Timed Block, +25% Block Penetration.",
+          "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
+          "Duckslug Editorial",
+          "Hearts and Spades are drawn from last attack in combo, not first.",
+          "Cards can be drawn when attacking into a block."
+        ],
+        "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
+          "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
+          "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
+          "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
+          "Flush: Petrify with a potency of 60%.",
+          "Playing a hand removes all cards on the last hit of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On Hit, 50% chance to Inflict a Bleed Debuff dealing 608.3 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
+          "Replay the last Dead Man\u2019s Hand Debuff that was played."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a random Dead Man\u2019s Hand Debuff.",
+          "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
+        ]
+      }
+    },
+    "5+5": {
+      "rank": 5,
+      "prestige": "7605",
+      "hp": "33837",
+      "attack": "2346",
+      "crit_rate": "342",
+      "crit_dmge": "525",
+      "armor": "628",
+      "block_prof": "2673",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
+        "Additionally, suits gain a stackable bonus during Special Attacks.",
+        "Jackpot: Counts as all 4 Suits.",
+        "Hearts: +5.03 to 10% Debuff Duration.",
+        "Spades: +232.69 to 698.51 Critical Rating.",
+        "Clubs: +10 to 30.04% of a bar of Power over 2 seconds.",
+        "Diamonds: +9.98 to 24.96% Armor Penetration."
+      ],
+      "url_page": "https://auntm.ai/champions/joefixit/tier/5",
+      "champid": "joefixit+5+5",
+      "challenger_rating": 120,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMBLERS DRAW": [
+          "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
+          "Cards are drawn even if the attack was blocked.",
+          "Hearts: End a Combo with Light, +7% Life Steal.",
+          "Spades: End a Combo with Medium, +938.4 Attack Rating.",
+          "Clubs: Heavy Hit, +25% Combat Power Rate.",
+          "Diamonds: Well-Timed Block, +25% Block Penetration.",
+          "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
+          "Duckslug Editorial",
+          "Hearts and Spades are drawn from last attack in combo, not first.",
+          "Cards can be drawn when attacking into a block."
+        ],
+        "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
+          "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
+          "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
+          "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
+          "Flush: Petrify with a potency of 60%.",
+          "Playing a hand removes all cards on the last hit of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On Hit, 50% chance to Inflict a Bleed Debuff dealing 821.1 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
+          "Replay the last Dead Man\u2019s Hand Debuff that was played."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a random Dead Man\u2019s Hand Debuff.",
+          "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
+        ]
+      }
+    },
+    "6+1": {
+      "rank": 1,
+      "prestige": "5953",
+      "hp": "26607",
+      "attack": "1845",
+      "crit_rate": "334",
+      "crit_dmge": "513",
+      "armor": "481",
+      "block_prof": "2610",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
+        "Additionally, suits gain a stackable bonus during Special Attacks.",
+        "Jackpot: Counts as all 4 Suits.",
+        "Hearts: +5.03 to 10% Debuff Duration.",
+        "Spades: +227.15 to 681.88 Critical Rating.",
+        "Clubs: +10 to 30.04% of a bar of Power over 2 seconds.",
+        "Diamonds: +9.98 to 24.96% Armor Penetration."
+      ],
+      "url_page": "https://auntm.ai/champions/joefixit/tier/6",
+      "champid": "joefixit+6+1",
+      "challenger_rating": 110,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMBLERS DRAW": [
+          "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
+          "Cards are drawn even if the attack was blocked.",
+          "Hearts: End a Combo with Light, +7% Life Steal.",
+          "Spades: End a Combo with Medium, +738 Attack Rating.",
+          "Clubs: Heavy Hit, +25% Combat Power Rate.",
+          "Diamonds: Well-Timed Block, +25% Block Penetration.",
+          "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
+          "Duckslug Editorial",
+          "Hearts and Spades are drawn from last attack in combo, not first.",
+          "Cards can be drawn when attacking into a block."
+        ],
+        "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
+          "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
+          "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
+          "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
+          "Flush: Petrify with a potency of 60%.",
+          "Playing a hand removes all cards on the last hit of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On Hit, 50% chance to Inflict a Bleed Debuff dealing 645.75 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
+          "Replay the last Dead Man\u2019s Hand Debuff that was played."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a random Dead Man\u2019s Hand Debuff.",
+          "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
+        ]
+      }
+    },
+    "6+2": {
+      "rank": 2,
+      "prestige": "8224",
+      "hp": "36752",
+      "attack": "2549",
+      "crit_rate": "342",
+      "crit_dmge": "525",
+      "armor": "525",
+      "block_prof": "2673",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
+        "Additionally, suits gain a stackable bonus during Special Attacks.",
+        "Jackpot: Counts as all 4 Suits.",
+        "Hearts: +5.03 to 10% Debuff Duration.",
+        "Spades: +232.69 to 698.51 Critical Rating.",
+        "Clubs: +10 to 30.04% of a bar of Power over 2 seconds.",
+        "Diamonds: +9.98 to 24.96% Armor Penetration."
+      ],
+      "url_page": "https://auntm.ai/champions/joefixit/tier/6",
+      "champid": "joefixit+6+2",
+      "challenger_rating": 120,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMBLERS DRAW": [
+          "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
+          "Cards are drawn even if the attack was blocked.",
+          "Hearts: End a Combo with Light, +7% Life Steal.",
+          "Spades: End a Combo with Medium, +1019.6 Attack Rating.",
+          "Clubs: Heavy Hit, +25% Combat Power Rate.",
+          "Diamonds: Well-Timed Block, +25% Block Penetration.",
+          "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
+          "Duckslug Editorial",
+          "Hearts and Spades are drawn from last attack in combo, not first.",
+          "Cards can be drawn when attacking into a block."
+        ],
+        "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
+          "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
+          "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
+          "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
+          "Flush: Petrify with a potency of 60%.",
+          "Playing a hand removes all cards on the last hit of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On Hit, 50% chance to Inflict a Bleed Debuff dealing 892.15 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
+          "Replay the last Dead Man\u2019s Hand Debuff that was played."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a random Dead Man\u2019s Hand Debuff.",
+          "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
+        ]
+      }
+    },
+    "6+3": {
+      "rank": 3,
+      "prestige": "9777",
+      "hp": "43600",
+      "attack": "3023",
+      "crit_rate": "351",
+      "crit_dmge": "538",
+      "armor": "572",
+      "block_prof": "2737",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
+        "Additionally, suits gain a stackable bonus during Special Attacks.",
+        "Jackpot: Counts as all 4 Suits.",
+        "Hearts: +5.03 to 10% Debuff Duration.",
+        "Spades: +238.23 to 715.14 Critical Rating.",
+        "Clubs: +10 to 30.04% of a bar of Power over 2 seconds.",
+        "Diamonds: +9.98 to 24.96% Armor Penetration."
+      ],
+      "url_page": "https://auntm.ai/champions/joefixit/tier/6",
+      "champid": "joefixit+6+3",
+      "challenger_rating": 130,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMBLERS DRAW": [
+          "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
+          "Cards are drawn even if the attack was blocked.",
+          "Hearts: End a Combo with Light, +7% Life Steal.",
+          "Spades: End a Combo with Medium, +1209.2 Attack Rating.",
+          "Clubs: Heavy Hit, +25% Combat Power Rate.",
+          "Diamonds: Well-Timed Block, +25% Block Penetration.",
+          "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
+          "Duckslug Editorial",
+          "Hearts and Spades are drawn from last attack in combo, not first.",
+          "Cards can be drawn when attacking into a block."
+        ],
+        "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
+          "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
+          "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
+          "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
+          "Flush: Petrify with a potency of 60%.",
+          "Playing a hand removes all cards on the last hit of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On Hit, 50% chance to Inflict a Bleed Debuff dealing 1058.05 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
+          "Replay the last Dead Man\u2019s Hand Debuff that was played."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a random Dead Man\u2019s Hand Debuff.",
+          "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
+        ]
+      }
+    },
+    "6+4": {
+      "rank": 4,
+      "prestige": "11189",
+      "hp": "49894",
+      "attack": "3460",
+      "crit_rate": "359",
+      "crit_dmge": "550",
+      "armor": "621",
+      "block_prof": "2801",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "After using cards to play a Dead Man\u2019s Hand Debuff, instead of being removed, all slots are randomly assigned 1 matching suit.",
+        "Additionally, suits gain a stackable bonus during Special Attacks.",
+        "Jackpot: Counts as all 4 Suits.",
+        "Hearts: +5.03 to 10% Debuff Duration.",
+        "Spades: +243.77 to 731.77 Critical Rating.",
+        "Clubs: +10 to 30.04% of a bar of Power over 2 seconds.",
+        "Diamonds: +9.98 to 24.96% Armor Penetration."
+      ],
+      "url_page": "https://auntm.ai/champions/joefixit/tier/6",
+      "champid": "joefixit+6+4",
+      "challenger_rating": 140,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMBLERS DRAW": [
+          "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
+          "Cards are drawn even if the attack was blocked.",
+          "Hearts: End a Combo with Light, +7% Life Steal.",
+          "Spades: End a Combo with Medium, +1384 Attack Rating.",
+          "Clubs: Heavy Hit, +25% Combat Power Rate.",
+          "Diamonds: Well-Timed Block, +25% Block Penetration.",
+          "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
+          "Duckslug Editorial",
+          "Hearts and Spades are drawn from last attack in combo, not first.",
+          "Cards can be drawn when attacking into a block."
+        ],
+        "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
+          "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
+          "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
+          "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
+          "Flush: Petrify with a potency of 60%.",
+          "Playing a hand removes all cards on the last hit of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On Hit, 50% chance to Inflict a Bleed Debuff dealing 1211 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
+          "Replay the last Dead Man\u2019s Hand Debuff that was played."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a random Dead Man\u2019s Hand Debuff.",
+          "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
+        ]
+      }
+    },
+    "1+1": {
+      "rank": 1,
+      "prestige": 214,
+      "hp": 946,
+      "attack": 66,
+      "crit_rate": 253,
+      "crit_dmge": 388,
+      "armor": 117,
+      "block_prof": 1973,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/joefixit/tier/1",
+      "champid": "joefixit+1+1",
+      "challenger_rating": 10,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMBLERS DRAW": [
+          "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
+          "Cards are drawn even if the attack was blocked.",
+          "Hearts: End a Combo with Light, +7% Life Steal.",
+          "Spades: End a Combo with Medium, +26.4 Attack Rating.",
+          "Clubs: Heavy Hit, +25% Combat Power Rate.",
+          "Diamonds: Well-Timed Block, +25% Block Penetration.",
+          "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
+          "Duckslug Editorial",
+          "Hearts and Spades are drawn from last attack in combo, not first.",
+          "Cards can be drawn when attacking into a block."
+        ],
+        "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
+          "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
+          "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
+          "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
+          "Flush: Petrify with a potency of 60%.",
+          "Playing a hand removes all cards on the last hit of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On Hit, 50% chance to Inflict a Bleed Debuff dealing 23.1 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
+          "Replay the last Dead Man\u2019s Hand Debuff that was played."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a random Dead Man\u2019s Hand Debuff.",
+          "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
+        ]
+      }
+    },
+    "1+2": {
+      "rank": 2,
+      "prestige": 292,
+      "hp": 1309,
+      "attack": 91,
+      "crit_rate": 261,
+      "crit_dmge": 400,
+      "armor": 140,
+      "block_prof": 2037,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/joefixit/tier/1",
+      "champid": "joefixit+1+2",
+      "challenger_rating": 20,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMBLERS DRAW": [
+          "Joe Fixit can hold 4 cards at a time. At max capacity, new cards replace old cards in the same order they were acquired.",
+          "Cards are drawn even if the attack was blocked.",
+          "Hearts: End a Combo with Light, +7% Life Steal.",
+          "Spades: End a Combo with Medium, +36.4 Attack Rating.",
+          "Clubs: Heavy Hit, +25% Combat Power Rate.",
+          "Diamonds: Well-Timed Block, +25% Block Penetration.",
+          "When Defending a Quest Node, cards are acquired based on the Attacking Champions actions.",
+          "Duckslug Editorial",
+          "Hearts and Spades are drawn from last attack in combo, not first.",
+          "Cards can be drawn when attacking into a block."
+        ],
+        "DEAD MAN\u2019S HAND - ON SPECIAL ACTIVATION:": [
+          "If Joe's hand consists of one of the following combinations, inflict the respective Debuff for 10 seconds. +5 seconds per bar of Power spent.",
+          "One Pair: Disorient, reducing Defensive Ability Accuracy and Block Proficiency by 40%.",
+          "Three of a Kind: Weakness, reducing Attack Rating by 30%.",
+          "Flush: Petrify with a potency of 60%.",
+          "Playing a hand removes all cards on the last hit of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On Hit, 50% chance to Inflict a Bleed Debuff dealing 31.85 Direct Damage over 10 seconds. +1 per Dead Man\u2019s Hand Debuff."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Final hit has a 100% chance to inflict a 2.75 second Stun Debuff.",
+          "Replay the last Dead Man\u2019s Hand Debuff that was played."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a random Dead Man\u2019s Hand Debuff.",
+          "Until the Opponent is no longer suffering any Dead Man\u2019s Hand Debuffs, Gamblers Draw card effects have +30% Potency."
+        ]
+      }
+    },
+    "find": {
+      "story_quests": {
+        "act_1": [],
+        "act_2": [],
+        "act_3": ["3.1.3"],
+        "act_4": [
+          "4.2.6",
+          "4.3.1",
+          "4.3.2",
+          "4.3.3",
+          "4.3.4",
+          "4.3.5",
+          "4.4.1",
+          "4.4.2",
+          "4.4.3",
+          "4.4.4",
+          "4.4.5",
+          "4.4.6"
+        ],
+        "act_5": [
+          "5.1.4",
+          "5.1.6",
+          "5.2.1",
+          "5.2.3",
+          "5.2.6",
+          "5.3.3",
+          "5.3.4",
+          "5.3.6",
+          "5.4.2",
+          "5.4.3"
+        ],
+        "act_6": [
+          "6.1.1",
+          "6.1.4",
+          "6.2.1",
+          "6.2.5",
+          "6.2.6",
+          "6.3.3",
+          "6.3.4",
+          "6.4.2",
+          "6.4.5"
+        ],
+        "act_7": ["7.1.3", "7.3.2", "7.3.4", "7.4.3"]
+      }
     }
+  },
+  "name": "JOE FIXIT",
+  "class": "Science",
+  "img_portrait": "https://api.rexians.tk/assets/portraits/joefixit.png",
+  "contact": "PHYSICAL",
+  "tags": ["Villain", "Size: XL"],
+  "released": "10/15/2015"
 }

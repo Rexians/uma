@@ -1,1141 +1,1174 @@
 {
-    "name": "MORNINGSTAR",
-    "class": "Mystic",
-    "img_portrait": "https://api.rexians.tk/assets/portraits/morningstar.png",
-    "contact": "PHYSICAL",
-    "tags": [
-        "Villain",
-        "Dimensional",
-        "Size: L"
-    ],
-    "released": "10/12/2017",
-    "champid": "morningstar",
-    "data": {
-        "2+1": {
-            "rank": 1,
-            "prestige": "260",
-            "hp": "1131",
-            "attack": "83",
-            "crit_rate": "305",
-            "crit_dmge": "400",
-            "armor": "178",
-            "block_prof": "2400",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
-                "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 25 to 50.01%, and granting her her own Buff.",
-                "Fury: +22.83 to 45.66 Attack for 15 Seconds.",
-                "Regeneration: +70.69 to 141.4 Health over 15 Seconds.",
-                "Power Gain: +11.25 to 22.5% Power over 15 Seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/morningstar/tier/2",
-            "champid": "morningstar+2+1",
-            "challenger_rating": 20,
-            "abilities": {
-                "PASSIVE": [
-                    "A lack of blood provides full immunity to Bleeding."
-                ],
-                "CAPTURED SOULS - PASSIVE": [
-                    "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
-                    "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 41.5 damage over 5 seconds.",
-                    "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
-                    "3 Souls: Special 2 becomes Unblockable.",
-                    "4 Souls: Gain 41.5 Energy Resistance, and 50% Perfect Block chance.",
-                    "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Each hit of this attack deals 22.83 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit of this attack deals 62.25 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
-                    "100% chance to Nullify all Buffs."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
-                    "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
-                    "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
-                    "Morningstar can capture only 1 Soul per fight."
-                ]
-            }
-        },
-        "2+2": {
-            "rank": 2,
-            "prestige": "341",
-            "hp": "1494",
-            "attack": "109",
-            "crit_rate": "315",
-            "crit_dmge": "413",
-            "armor": "204",
-            "block_prof": "2475",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
-                "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 25 to 50.01%, and granting her her own Buff.",
-                "Fury: +29.98 to 59.96 Attack for 15 Seconds.",
-                "Regeneration: +93.38 to 186.78 Health over 15 Seconds.",
-                "Power Gain: +11.25 to 22.5% Power over 15 Seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/morningstar/tier/2",
-            "champid": "morningstar+2+2",
-            "challenger_rating": 30,
-            "abilities": {
-                "PASSIVE": [
-                    "A lack of blood provides full immunity to Bleeding."
-                ],
-                "CAPTURED SOULS - PASSIVE": [
-                    "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
-                    "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 54.5 damage over 5 seconds.",
-                    "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
-                    "3 Souls: Special 2 becomes Unblockable.",
-                    "4 Souls: Gain 54.5 Energy Resistance, and 50% Perfect Block chance.",
-                    "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Each hit of this attack deals 29.98 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit of this attack deals 81.75 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
-                    "100% chance to Nullify all Buffs."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
-                    "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
-                    "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
-                    "Morningstar can capture only 1 Soul per fight."
-                ]
-            }
-        },
-        "2+3": {
-            "rank": 3,
-            "prestige": "564",
-            "hp": "2371",
-            "attack": "173",
-            "crit_rate": "324",
-            "crit_dmge": "425",
-            "armor": "232",
-            "block_prof": "2550",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
-                "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 25 to 50.01%, and granting her her own Buff.",
-                "Fury: +47.58 to 95.17 Attack for 15 Seconds.",
-                "Regeneration: +148.19 to 296.43 Health over 15 Seconds.",
-                "Power Gain: +11.25 to 22.5% Power over 15 Seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/morningstar/tier/2",
-            "champid": "morningstar+2+3",
-            "challenger_rating": 40,
-            "abilities": {
-                "PASSIVE": [
-                    "A lack of blood provides full immunity to Bleeding."
-                ],
-                "CAPTURED SOULS - PASSIVE": [
-                    "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
-                    "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 86.5 damage over 5 seconds.",
-                    "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
-                    "3 Souls: Special 2 becomes Unblockable.",
-                    "4 Souls: Gain 86.5 Energy Resistance, and 50% Perfect Block chance.",
-                    "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Each hit of this attack deals 47.58 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit of this attack deals 129.75 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
-                    "100% chance to Nullify all Buffs."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
-                    "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
-                    "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
-                    "Morningstar can capture only 1 Soul per fight."
-                ]
-            }
-        },
-        "3+1": {
-            "rank": 1,
-            "prestige": "489",
-            "hp": "2050",
-            "attack": "149",
-            "crit_rate": "324",
-            "crit_dmge": "425",
-            "armor": "189",
-            "block_prof": "2550",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
-                "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 25 to 50.01%, and granting her her own Buff.",
-                "Fury: +40.98 to 81.96 Attack for 15 Seconds.",
-                "Regeneration: +128.13 to 256.3 Health over 15 Seconds.",
-                "Power Gain: +11.25 to 22.5% Power over 15 Seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/morningstar/tier/3",
-            "champid": "morningstar+3+1",
-            "challenger_rating": 40,
-            "abilities": {
-                "PASSIVE": [
-                    "A lack of blood provides full immunity to Bleeding."
-                ],
-                "CAPTURED SOULS - PASSIVE": [
-                    "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
-                    "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 74.5 damage over 5 seconds.",
-                    "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
-                    "3 Souls: Special 2 becomes Unblockable.",
-                    "4 Souls: Gain 74.5 Energy Resistance, and 50% Perfect Block chance.",
-                    "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Each hit of this attack deals 40.98 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit of this attack deals 111.75 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
-                    "100% chance to Nullify all Buffs."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
-                    "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
-                    "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
-                    "Morningstar can capture only 1 Soul per fight."
-                ]
-            }
-        },
-        "3+2": {
-            "rank": 2,
-            "prestige": "778",
-            "hp": "3279",
-            "attack": "239",
-            "crit_rate": "334",
-            "crit_dmge": "438",
-            "armor": "217",
-            "block_prof": "2625",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
-                "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 25 to 50.01%, and granting her her own Buff.",
-                "Fury: +65.73 to 131.47 Attack for 15 Seconds.",
-                "Regeneration: +204.94 to 409.95 Health over 15 Seconds.",
-                "Power Gain: +11.25 to 22.5% Power over 15 Seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/morningstar/tier/3",
-            "champid": "morningstar+3+2",
-            "challenger_rating": 50,
-            "abilities": {
-                "PASSIVE": [
-                    "A lack of blood provides full immunity to Bleeding."
-                ],
-                "CAPTURED SOULS - PASSIVE": [
-                    "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
-                    "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 119.5 damage over 5 seconds.",
-                    "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
-                    "3 Souls: Special 2 becomes Unblockable.",
-                    "4 Souls: Gain 119.5 Energy Resistance, and 50% Perfect Block chance.",
-                    "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Each hit of this attack deals 65.73 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit of this attack deals 179.25 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
-                    "100% chance to Nullify all Buffs."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
-                    "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
-                    "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
-                    "Morningstar can capture only 1 Soul per fight."
-                ]
-            }
-        },
-        "3+3": {
-            "rank": 3,
-            "prestige": "1086",
-            "hp": "4588",
-            "attack": "334",
-            "crit_rate": "343",
-            "crit_dmge": "450",
-            "armor": "246",
-            "block_prof": "2700",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
-                "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 25 to 50.01%, and granting her her own Buff.",
-                "Fury: +91.85 to 183.73 Attack for 15 Seconds.",
-                "Regeneration: +286.75 to 573.6 Health over 15 Seconds.",
-                "Power Gain: +11.25 to 22.5% Power over 15 Seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/morningstar/tier/3",
-            "champid": "morningstar+3+3",
-            "challenger_rating": 60,
-            "abilities": {
-                "PASSIVE": [
-                    "A lack of blood provides full immunity to Bleeding."
-                ],
-                "CAPTURED SOULS - PASSIVE": [
-                    "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
-                    "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 167 damage over 5 seconds.",
-                    "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
-                    "3 Souls: Special 2 becomes Unblockable.",
-                    "4 Souls: Gain 167 Energy Resistance, and 50% Perfect Block chance.",
-                    "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Each hit of this attack deals 91.85 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit of this attack deals 250.5 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
-                    "100% chance to Nullify all Buffs."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
-                    "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
-                    "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
-                    "Morningstar can capture only 1 Soul per fight."
-                ]
-            }
-        },
-        "3+4": {
-            "rank": 4,
-            "prestige": "1492",
-            "hp": "6299",
-            "attack": "458",
-            "crit_rate": "353",
-            "crit_dmge": "463",
-            "armor": "277",
-            "block_prof": "2775",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
-                "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 25 to 50.01%, and granting her her own Buff.",
-                "Fury: +125.95 to 251.95 Attack for 15 Seconds.",
-                "Regeneration: +393.69 to 787.52 Health over 15 Seconds.",
-                "Power Gain: +11.25 to 22.5% Power over 15 Seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/morningstar/tier/3",
-            "champid": "morningstar+3+4",
-            "challenger_rating": 70,
-            "abilities": {
-                "PASSIVE": [
-                    "A lack of blood provides full immunity to Bleeding."
-                ],
-                "CAPTURED SOULS - PASSIVE": [
-                    "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
-                    "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 229 damage over 5 seconds.",
-                    "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
-                    "3 Souls: Special 2 becomes Unblockable.",
-                    "4 Souls: Gain 229 Energy Resistance, and 50% Perfect Block chance.",
-                    "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Each hit of this attack deals 125.95 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit of this attack deals 343.5 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
-                    "100% chance to Nullify all Buffs."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
-                    "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
-                    "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
-                    "Morningstar can capture only 1 Soul per fight."
-                ]
-            }
-        },
-        "4+1": {
-            "rank": 1,
-            "prestige": "1088",
-            "hp": "4584",
-            "attack": "334",
-            "crit_rate": "343",
-            "crit_dmge": "450",
-            "armor": "200",
-            "block_prof": "2700",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
-                "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 25 to 50.01%, and granting her her own Buff.",
-                "Fury: +91.85 to 183.73 Attack for 15 Seconds.",
-                "Regeneration: +286.5 to 573.1 Health over 15 Seconds.",
-                "Power Gain: +11.25 to 22.5% Power over 15 Seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/morningstar/tier/4",
-            "champid": "morningstar+4+1",
-            "challenger_rating": 60,
-            "abilities": {
-                "PASSIVE": [
-                    "A lack of blood provides full immunity to Bleeding."
-                ],
-                "CAPTURED SOULS - PASSIVE": [
-                    "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
-                    "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 167 damage over 5 seconds.",
-                    "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
-                    "3 Souls: Special 2 becomes Unblockable.",
-                    "4 Souls: Gain 167 Energy Resistance, and 50% Perfect Block chance.",
-                    "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Each hit of this attack deals 91.85 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit of this attack deals 250.5 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
-                    "100% chance to Nullify all Buffs."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
-                    "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
-                    "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
-                    "Morningstar can capture only 1 Soul per fight."
-                ]
-            }
-        },
-        "4+2": {
-            "rank": 2,
-            "prestige": "1522",
-            "hp": "6431",
-            "attack": "468",
-            "crit_rate": "353",
-            "crit_dmge": "463",
-            "armor": "229",
-            "block_prof": "2775",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
-                "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 25 to 50.01%, and granting her her own Buff.",
-                "Fury: +128.7 to 257.45 Attack for 15 Seconds.",
-                "Regeneration: +401.94 to 804.02 Health over 15 Seconds.",
-                "Power Gain: +11.25 to 22.5% Power over 15 Seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/morningstar/tier/4",
-            "champid": "morningstar+4+2",
-            "challenger_rating": 70,
-            "abilities": {
-                "PASSIVE": [
-                    "A lack of blood provides full immunity to Bleeding."
-                ],
-                "CAPTURED SOULS - PASSIVE": [
-                    "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
-                    "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 234 damage over 5 seconds.",
-                    "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
-                    "3 Souls: Special 2 becomes Unblockable.",
-                    "4 Souls: Gain 234 Energy Resistance, and 50% Perfect Block chance.",
-                    "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Each hit of this attack deals 128.7 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit of this attack deals 351 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
-                    "100% chance to Nullify all Buffs."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
-                    "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
-                    "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
-                    "Morningstar can capture only 1 Soul per fight."
-                ]
-            }
-        },
-        "4+3": {
-            "rank": 3,
-            "prestige": "2129",
-            "hp": "9010",
-            "attack": "655",
-            "crit_rate": "362",
-            "crit_dmge": "475",
-            "armor": "260",
-            "block_prof": "2850",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
-                "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 25 to 50.01%, and granting her her own Buff.",
-                "Fury: +180.13 to 360.31 Attack for 15 Seconds.",
-                "Regeneration: +563.13 to 1126.45 Health over 15 Seconds.",
-                "Power Gain: +11.25 to 22.5% Power over 15 Seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/morningstar/tier/4",
-            "champid": "morningstar+4+3",
-            "challenger_rating": 80,
-            "abilities": {
-                "PASSIVE": [
-                    "A lack of blood provides full immunity to Bleeding."
-                ],
-                "CAPTURED SOULS - PASSIVE": [
-                    "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
-                    "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 327.5 damage over 5 seconds.",
-                    "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
-                    "3 Souls: Special 2 becomes Unblockable.",
-                    "4 Souls: Gain 327.5 Energy Resistance, and 50% Perfect Block chance.",
-                    "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Each hit of this attack deals 180.13 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit of this attack deals 491.25 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
-                    "100% chance to Nullify all Buffs."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
-                    "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
-                    "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
-                    "Morningstar can capture only 1 Soul per fight."
-                ]
-            }
-        },
-        "4+4": {
-            "rank": 4,
-            "prestige": "2804",
-            "hp": "11839",
-            "attack": "861",
-            "crit_rate": "372",
-            "crit_dmge": "488",
-            "armor": "292",
-            "block_prof": "2925",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
-                "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 25 to 50.01%, and granting her her own Buff.",
-                "Fury: +236.78 to 473.63 Attack for 15 Seconds.",
-                "Regeneration: +739.94 to 1480.14 Health over 15 Seconds.",
-                "Power Gain: +11.25 to 22.5% Power over 15 Seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/morningstar/tier/4",
-            "champid": "morningstar+4+4",
-            "challenger_rating": 90,
-            "abilities": {
-                "PASSIVE": [
-                    "A lack of blood provides full immunity to Bleeding."
-                ],
-                "CAPTURED SOULS - PASSIVE": [
-                    "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
-                    "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 430.5 damage over 5 seconds.",
-                    "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
-                    "3 Souls: Special 2 becomes Unblockable.",
-                    "4 Souls: Gain 430.5 Energy Resistance, and 50% Perfect Block chance.",
-                    "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Each hit of this attack deals 236.78 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit of this attack deals 645.75 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
-                    "100% chance to Nullify all Buffs."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
-                    "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
-                    "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
-                    "Morningstar can capture only 1 Soul per fight."
-                ]
-            }
-        },
-        "4+5": {
-            "rank": 5,
-            "prestige": "3735",
-            "hp": "15797",
-            "attack": "1148",
-            "crit_rate": "381",
-            "crit_dmge": "500",
-            "armor": "326",
-            "block_prof": "3000",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
-                "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 25 to 50.01%, and granting her her own Buff.",
-                "Fury: +315.7 to 631.51 Attack for 15 Seconds.",
-                "Regeneration: +987.31 to 1974.98 Health over 15 Seconds.",
-                "Power Gain: +11.25 to 22.5% Power over 15 Seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/morningstar/tier/4",
-            "champid": "morningstar+4+5",
-            "challenger_rating": 100,
-            "abilities": {
-                "PASSIVE": [
-                    "A lack of blood provides full immunity to Bleeding."
-                ],
-                "CAPTURED SOULS - PASSIVE": [
-                    "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
-                    "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 574 damage over 5 seconds.",
-                    "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
-                    "3 Souls: Special 2 becomes Unblockable.",
-                    "4 Souls: Gain 574 Energy Resistance, and 50% Perfect Block chance.",
-                    "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Each hit of this attack deals 315.7 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit of this attack deals 861 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
-                    "100% chance to Nullify all Buffs."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
-                    "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
-                    "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
-                    "Morningstar can capture only 1 Soul per fight."
-                ]
-            }
-        },
-        "5+1": {
-            "rank": 1,
-            "prestige": "2236",
-            "hp": "9427",
-            "attack": "685",
-            "crit_rate": "362",
-            "crit_dmge": "475",
-            "armor": "212",
-            "block_prof": "2850",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
-                "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 22.83 to 60%, and granting her her own Buff.",
-                "Fury: +306.43 to 732.7 Attack for 15 Seconds.",
-                "Regeneration: +635.62 to 1555.51 Health over 15 Seconds.",
-                "Power Gain: +18.74 to 28.5% Power over 15 Seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/morningstar/tier/5",
-            "champid": "morningstar+5+1",
-            "challenger_rating": 80,
-            "abilities": {
-                "PASSIVE": [
-                    "A lack of blood provides full immunity to Bleeding."
-                ],
-                "CAPTURED SOULS - PASSIVE": [
-                    "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
-                    "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 342.5 damage over 5 seconds.",
-                    "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
-                    "3 Souls: Special 2 becomes Unblockable.",
-                    "4 Souls: Gain 342.5 Energy Resistance, and 50% Perfect Block chance.",
-                    "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Each hit of this attack deals 188.38 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit of this attack deals 513.75 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
-                    "100% chance to Nullify all Buffs."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
-                    "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
-                    "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
-                    "Morningstar can capture only 1 Soul per fight."
-                ]
-            }
-        },
-        "5+2": {
-            "rank": 2,
-            "prestige": "2953",
-            "hp": "12453",
-            "attack": "905",
-            "crit_rate": "372",
-            "crit_dmge": "488",
-            "armor": "242",
-            "block_prof": "2925",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
-                "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 22.83 to 60%, and granting her her own Buff.",
-                "Fury: +404.85 to 968.02 Attack for 15 Seconds.",
-                "Regeneration: +839.64 to 2054.81 Health over 15 Seconds.",
-                "Power Gain: +18.74 to 28.5% Power over 15 Seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/morningstar/tier/5",
-            "champid": "morningstar+5+2",
-            "challenger_rating": 90,
-            "abilities": {
-                "PASSIVE": [
-                    "A lack of blood provides full immunity to Bleeding."
-                ],
-                "CAPTURED SOULS - PASSIVE": [
-                    "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
-                    "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 452.5 damage over 5 seconds.",
-                    "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
-                    "3 Souls: Special 2 becomes Unblockable.",
-                    "4 Souls: Gain 452.5 Energy Resistance, and 50% Perfect Block chance.",
-                    "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Each hit of this attack deals 248.88 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit of this attack deals 678.75 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
-                    "100% chance to Nullify all Buffs."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
-                    "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
-                    "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
-                    "Morningstar can capture only 1 Soul per fight."
-                ]
-            }
-        },
-        "5+3": {
-            "rank": 3,
-            "prestige": "4132",
-            "hp": "17409",
-            "attack": "1265",
-            "crit_rate": "381",
-            "crit_dmge": "500",
-            "armor": "273",
-            "block_prof": "3000",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
-                "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 22.83 to 60%, and granting her her own Buff.",
-                "Fury: +565.9 to 1353.08 Attack for 15 Seconds.",
-                "Regeneration: +1173.8 to 2872.58 Health over 15 Seconds.",
-                "Power Gain: +18.74 to 28.5% Power over 15 Seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/morningstar/tier/5",
-            "champid": "morningstar+5+3",
-            "challenger_rating": 100,
-            "abilities": {
-                "PASSIVE": [
-                    "A lack of blood provides full immunity to Bleeding."
-                ],
-                "CAPTURED SOULS - PASSIVE": [
-                    "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
-                    "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 632.5 damage over 5 seconds.",
-                    "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
-                    "3 Souls: Special 2 becomes Unblockable.",
-                    "4 Souls: Gain 632.5 Energy Resistance, and 50% Perfect Block chance.",
-                    "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Each hit of this attack deals 347.88 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit of this attack deals 948.75 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
-                    "100% chance to Nullify all Buffs."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
-                    "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
-                    "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
-                    "Morningstar can capture only 1 Soul per fight."
-                ]
-            }
-        },
-        "5+4": {
-            "rank": 4,
-            "prestige": "5561",
-            "hp": "23458",
-            "attack": "1705",
-            "crit_rate": "391",
-            "crit_dmge": "513",
-            "armor": "307",
-            "block_prof": "3075",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
-                "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 22.83 to 60%, and granting her her own Buff.",
-                "Fury: +762.73 to 1823.72 Attack for 15 Seconds.",
-                "Regeneration: +1581.66 to 3870.7 Health over 15 Seconds.",
-                "Power Gain: +18.74 to 28.5% Power over 15 Seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/morningstar/tier/5",
-            "champid": "morningstar+5+4",
-            "challenger_rating": 110,
-            "abilities": {
-                "PASSIVE": [
-                    "A lack of blood provides full immunity to Bleeding."
-                ],
-                "CAPTURED SOULS - PASSIVE": [
-                    "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
-                    "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 852.5 damage over 5 seconds.",
-                    "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
-                    "3 Souls: Special 2 becomes Unblockable.",
-                    "4 Souls: Gain 852.5 Energy Resistance, and 50% Perfect Block chance.",
-                    "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Each hit of this attack deals 468.88 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit of this attack deals 1278.75 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
-                    "100% chance to Nullify all Buffs."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
-                    "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
-                    "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
-                    "Morningstar can capture only 1 Soul per fight."
-                ]
-            }
-        },
-        "5+5": {
-            "rank": 5,
-            "prestige": "7520",
-            "hp": "31673",
-            "attack": "2301",
-            "crit_rate": "400",
-            "crit_dmge": "525",
-            "armor": "342",
-            "block_prof": "3150",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
-                "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 22.83 to 60%, and granting her her own Buff.",
-                "Fury: +1029.35 to 2461.22 Attack for 15 Seconds.",
-                "Regeneration: +2135.55 to 5226.21 Health over 15 Seconds.",
-                "Power Gain: +18.74 to 28.5% Power over 15 Seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/morningstar/tier/5",
-            "champid": "morningstar+5+5",
-            "challenger_rating": 120,
-            "abilities": {
-                "PASSIVE": [
-                    "A lack of blood provides full immunity to Bleeding."
-                ],
-                "CAPTURED SOULS - PASSIVE": [
-                    "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
-                    "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 1150.5 damage over 5 seconds.",
-                    "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
-                    "3 Souls: Special 2 becomes Unblockable.",
-                    "4 Souls: Gain 1150.5 Energy Resistance, and 50% Perfect Block chance.",
-                    "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Each hit of this attack deals 632.78 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit of this attack deals 1725.75 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
-                    "100% chance to Nullify all Buffs."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
-                    "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
-                    "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
-                    "Morningstar can capture only 1 Soul per fight."
-                ]
-            }
-        },
-        "6+1": {
-            "rank": 1,
-            "prestige": "5892",
-            "hp": "24905",
-            "attack": "1810",
-            "crit_rate": "391",
-            "crit_dmge": "513",
-            "armor": "228",
-            "block_prof": "3075",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
-                "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 22.83 to 60%, and granting her her own Buff.",
-                "Fury: +809.7 to 1936.03 Attack for 15 Seconds.",
-                "Regeneration: +1679.22 to 4109.46 Health over 15 Seconds.",
-                "Power Gain: +18.74 to 28.5% Power over 15 Seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/morningstar/tier/6",
-            "champid": "morningstar+6+1",
-            "challenger_rating": 110,
-            "abilities": {
-                "PASSIVE": [
-                    "A lack of blood provides full immunity to Bleeding."
-                ],
-                "CAPTURED SOULS - PASSIVE": [
-                    "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
-                    "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 905 damage over 5 seconds.",
-                    "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
-                    "3 Souls: Special 2 becomes Unblockable.",
-                    "4 Souls: Gain 905 Energy Resistance, and 50% Perfect Block chance.",
-                    "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Each hit of this attack deals 497.75 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit of this attack deals 1357.5 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
-                    "100% chance to Nullify all Buffs."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
-                    "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
-                    "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
-                    "Morningstar can capture only 1 Soul per fight."
-                ]
-            }
-        },
-        "6+2": {
-            "rank": 2,
-            "prestige": "8134",
-            "hp": "34401",
-            "attack": "2500",
-            "crit_rate": "400",
-            "crit_dmge": "525",
-            "armor": "260",
-            "block_prof": "3150",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
-                "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 22.83 to 60%, and granting her her own Buff.",
-                "Fury: +1118.38 to 2674.08 Attack for 15 Seconds.",
-                "Regeneration: +2319.49 to 5676.35 Health over 15 Seconds.",
-                "Power Gain: +18.74 to 28.5% Power over 15 Seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/morningstar/tier/6",
-            "champid": "morningstar+6+2",
-            "challenger_rating": 120,
-            "abilities": {
-                "PASSIVE": [
-                    "A lack of blood provides full immunity to Bleeding."
-                ],
-                "CAPTURED SOULS - PASSIVE": [
-                    "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
-                    "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 1250 damage over 5 seconds.",
-                    "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
-                    "3 Souls: Special 2 becomes Unblockable.",
-                    "4 Souls: Gain 1250 Energy Resistance, and 50% Perfect Block chance.",
-                    "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Each hit of this attack deals 687.5 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit of this attack deals 1875 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
-                    "100% chance to Nullify all Buffs."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
-                    "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
-                    "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
-                    "Morningstar can capture only 1 Soul per fight."
-                ]
-            }
-        },
-        "6+3": {
-            "rank": 3,
-            "prestige": "9670",
-            "hp": "40811",
-            "attack": "2965",
-            "crit_rate": "410",
-            "crit_dmge": "538",
-            "armor": "294",
-            "block_prof": "3225",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
-                "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 22.83 to 60%, and granting her her own Buff.",
-                "Fury: +1326.39 to 3171.45 Attack for 15 Seconds.",
-                "Regeneration: +2751.68 to 6734.03 Health over 15 Seconds.",
-                "Power Gain: +18.74 to 28.5% Power over 15 Seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/morningstar/tier/6",
-            "champid": "morningstar+6+3",
-            "challenger_rating": 130,
-            "abilities": {
-                "PASSIVE": [
-                    "A lack of blood provides full immunity to Bleeding."
-                ],
-                "CAPTURED SOULS - PASSIVE": [
-                    "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
-                    "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 1482.5 damage over 5 seconds.",
-                    "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
-                    "3 Souls: Special 2 becomes Unblockable.",
-                    "4 Souls: Gain 1482.5 Energy Resistance, and 50% Perfect Block chance.",
-                    "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Each hit of this attack deals 815.38 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit of this attack deals 2223.75 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
-                    "100% chance to Nullify all Buffs."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
-                    "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
-                    "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
-                    "Morningstar can capture only 1 Soul per fight."
-                ]
-            }
-        },
-        "6+4": {
-            "rank": 4,
-            "prestige": "11065",
-            "hp": "46703",
-            "attack": "3393",
-            "crit_rate": "420",
-            "crit_dmge": "550",
-            "armor": "329",
-            "block_prof": "3300",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
-                "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 22.83 to 60%, and granting her her own Buff.",
-                "Fury: +1517.86 to 3629.26 Attack for 15 Seconds.",
-                "Regeneration: +3148.95 to 7706.25 Health over 15 Seconds.",
-                "Power Gain: +18.74 to 28.5% Power over 15 Seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/morningstar/tier/6",
-            "champid": "morningstar+6+4",
-            "challenger_rating": 140,
-            "abilities": {
-                "PASSIVE": [
-                    "A lack of blood provides full immunity to Bleeding."
-                ],
-                "CAPTURED SOULS - PASSIVE": [
-                    "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
-                    "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 1696.5 damage over 5 seconds.",
-                    "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
-                    "3 Souls: Special 2 becomes Unblockable.",
-                    "4 Souls: Gain 1696.5 Energy Resistance, and 50% Perfect Block chance.",
-                    "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Each hit of this attack deals 933.08 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit of this attack deals 2544.75 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
-                    "100% chance to Nullify all Buffs."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
-                    "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
-                    "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
-                    "Morningstar can capture only 1 Soul per fight."
-                ]
-            }
-        },
-        "find": {
-            "story_quests": {
-                "act_1": [],
-                "act_2": [],
-                "act_3": [],
-                "act_4": [],
-                "act_5": [
-                    "5.4.2"
-                ],
-                "act_6": [
-                    "6.1.1",
-                    "6.1.3",
-                    "6.2.2",
-                    "6.2.3",
-                    "6.2.5",
-                    "6.2.6",
-                    "6.3.1",
-                    "6.3.2",
-                    "6.3.3",
-                    "6.3.4",
-                    "6.3.5",
-                    "6.4.1",
-                    "6.4.6"
-                ],
-                "act_7": [
-                    "7.1.1",
-                    "7.1.4",
-                    "7.1.6",
-                    "7.2.2",
-                    "7.2.6",
-                    "7.4.2"
-                ]
-            }
-        }
+  "champid": "morningstar",
+  "data": {
+    "2+1": {
+      "rank": 1,
+      "prestige": "260",
+      "hp": "1131",
+      "attack": "83",
+      "crit_rate": "305",
+      "crit_dmge": "400",
+      "armor": "178",
+      "block_prof": "2400",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
+        "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 25 to 50.01%, and granting her her own Buff.",
+        "Fury: +22.83 to 45.66 Attack for 15 Seconds.",
+        "Regeneration: +70.69 to 141.4 Health over 15 Seconds.",
+        "Power Gain: +11.25 to 22.5% Power over 15 Seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/morningstar/tier/2",
+      "champid": "morningstar+2+1",
+      "challenger_rating": 20,
+      "abilities": {
+        "PASSIVE": ["A lack of blood provides full immunity to Bleeding."],
+        "CAPTURED SOULS - PASSIVE": [
+          "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
+          "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 41.5 damage over 5 seconds.",
+          "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
+          "3 Souls: Special 2 becomes Unblockable.",
+          "4 Souls: Gain 41.5 Energy Resistance, and 50% Perfect Block chance.",
+          "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
+        ],
+        "HEAVY ATTACKS": [
+          "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit of this attack deals 22.83 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit of this attack deals 62.25 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
+          "100% chance to Nullify all Buffs."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
+          "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
+          "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
+          "Morningstar can capture only 1 Soul per fight."
+        ]
+      }
+    },
+    "2+2": {
+      "rank": 2,
+      "prestige": "341",
+      "hp": "1494",
+      "attack": "109",
+      "crit_rate": "315",
+      "crit_dmge": "413",
+      "armor": "204",
+      "block_prof": "2475",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
+        "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 25 to 50.01%, and granting her her own Buff.",
+        "Fury: +29.98 to 59.96 Attack for 15 Seconds.",
+        "Regeneration: +93.38 to 186.78 Health over 15 Seconds.",
+        "Power Gain: +11.25 to 22.5% Power over 15 Seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/morningstar/tier/2",
+      "champid": "morningstar+2+2",
+      "challenger_rating": 30,
+      "abilities": {
+        "PASSIVE": ["A lack of blood provides full immunity to Bleeding."],
+        "CAPTURED SOULS - PASSIVE": [
+          "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
+          "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 54.5 damage over 5 seconds.",
+          "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
+          "3 Souls: Special 2 becomes Unblockable.",
+          "4 Souls: Gain 54.5 Energy Resistance, and 50% Perfect Block chance.",
+          "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
+        ],
+        "HEAVY ATTACKS": [
+          "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit of this attack deals 29.98 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit of this attack deals 81.75 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
+          "100% chance to Nullify all Buffs."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
+          "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
+          "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
+          "Morningstar can capture only 1 Soul per fight."
+        ]
+      }
+    },
+    "2+3": {
+      "rank": 3,
+      "prestige": "564",
+      "hp": "2371",
+      "attack": "173",
+      "crit_rate": "324",
+      "crit_dmge": "425",
+      "armor": "232",
+      "block_prof": "2550",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
+        "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 25 to 50.01%, and granting her her own Buff.",
+        "Fury: +47.58 to 95.17 Attack for 15 Seconds.",
+        "Regeneration: +148.19 to 296.43 Health over 15 Seconds.",
+        "Power Gain: +11.25 to 22.5% Power over 15 Seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/morningstar/tier/2",
+      "champid": "morningstar+2+3",
+      "challenger_rating": 40,
+      "abilities": {
+        "PASSIVE": ["A lack of blood provides full immunity to Bleeding."],
+        "CAPTURED SOULS - PASSIVE": [
+          "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
+          "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 86.5 damage over 5 seconds.",
+          "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
+          "3 Souls: Special 2 becomes Unblockable.",
+          "4 Souls: Gain 86.5 Energy Resistance, and 50% Perfect Block chance.",
+          "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
+        ],
+        "HEAVY ATTACKS": [
+          "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit of this attack deals 47.58 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit of this attack deals 129.75 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
+          "100% chance to Nullify all Buffs."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
+          "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
+          "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
+          "Morningstar can capture only 1 Soul per fight."
+        ]
+      }
+    },
+    "3+1": {
+      "rank": 1,
+      "prestige": "489",
+      "hp": "2050",
+      "attack": "149",
+      "crit_rate": "324",
+      "crit_dmge": "425",
+      "armor": "189",
+      "block_prof": "2550",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
+        "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 25 to 50.01%, and granting her her own Buff.",
+        "Fury: +40.98 to 81.96 Attack for 15 Seconds.",
+        "Regeneration: +128.13 to 256.3 Health over 15 Seconds.",
+        "Power Gain: +11.25 to 22.5% Power over 15 Seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/morningstar/tier/3",
+      "champid": "morningstar+3+1",
+      "challenger_rating": 40,
+      "abilities": {
+        "PASSIVE": ["A lack of blood provides full immunity to Bleeding."],
+        "CAPTURED SOULS - PASSIVE": [
+          "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
+          "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 74.5 damage over 5 seconds.",
+          "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
+          "3 Souls: Special 2 becomes Unblockable.",
+          "4 Souls: Gain 74.5 Energy Resistance, and 50% Perfect Block chance.",
+          "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
+        ],
+        "HEAVY ATTACKS": [
+          "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit of this attack deals 40.98 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit of this attack deals 111.75 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
+          "100% chance to Nullify all Buffs."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
+          "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
+          "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
+          "Morningstar can capture only 1 Soul per fight."
+        ]
+      }
+    },
+    "3+2": {
+      "rank": 2,
+      "prestige": "778",
+      "hp": "3279",
+      "attack": "239",
+      "crit_rate": "334",
+      "crit_dmge": "438",
+      "armor": "217",
+      "block_prof": "2625",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
+        "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 25 to 50.01%, and granting her her own Buff.",
+        "Fury: +65.73 to 131.47 Attack for 15 Seconds.",
+        "Regeneration: +204.94 to 409.95 Health over 15 Seconds.",
+        "Power Gain: +11.25 to 22.5% Power over 15 Seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/morningstar/tier/3",
+      "champid": "morningstar+3+2",
+      "challenger_rating": 50,
+      "abilities": {
+        "PASSIVE": ["A lack of blood provides full immunity to Bleeding."],
+        "CAPTURED SOULS - PASSIVE": [
+          "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
+          "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 119.5 damage over 5 seconds.",
+          "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
+          "3 Souls: Special 2 becomes Unblockable.",
+          "4 Souls: Gain 119.5 Energy Resistance, and 50% Perfect Block chance.",
+          "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
+        ],
+        "HEAVY ATTACKS": [
+          "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit of this attack deals 65.73 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit of this attack deals 179.25 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
+          "100% chance to Nullify all Buffs."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
+          "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
+          "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
+          "Morningstar can capture only 1 Soul per fight."
+        ]
+      }
+    },
+    "3+3": {
+      "rank": 3,
+      "prestige": "1086",
+      "hp": "4588",
+      "attack": "334",
+      "crit_rate": "343",
+      "crit_dmge": "450",
+      "armor": "246",
+      "block_prof": "2700",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
+        "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 25 to 50.01%, and granting her her own Buff.",
+        "Fury: +91.85 to 183.73 Attack for 15 Seconds.",
+        "Regeneration: +286.75 to 573.6 Health over 15 Seconds.",
+        "Power Gain: +11.25 to 22.5% Power over 15 Seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/morningstar/tier/3",
+      "champid": "morningstar+3+3",
+      "challenger_rating": 60,
+      "abilities": {
+        "PASSIVE": ["A lack of blood provides full immunity to Bleeding."],
+        "CAPTURED SOULS - PASSIVE": [
+          "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
+          "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 167 damage over 5 seconds.",
+          "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
+          "3 Souls: Special 2 becomes Unblockable.",
+          "4 Souls: Gain 167 Energy Resistance, and 50% Perfect Block chance.",
+          "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
+        ],
+        "HEAVY ATTACKS": [
+          "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit of this attack deals 91.85 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit of this attack deals 250.5 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
+          "100% chance to Nullify all Buffs."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
+          "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
+          "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
+          "Morningstar can capture only 1 Soul per fight."
+        ]
+      }
+    },
+    "3+4": {
+      "rank": 4,
+      "prestige": "1492",
+      "hp": "6299",
+      "attack": "458",
+      "crit_rate": "353",
+      "crit_dmge": "463",
+      "armor": "277",
+      "block_prof": "2775",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
+        "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 25 to 50.01%, and granting her her own Buff.",
+        "Fury: +125.95 to 251.95 Attack for 15 Seconds.",
+        "Regeneration: +393.69 to 787.52 Health over 15 Seconds.",
+        "Power Gain: +11.25 to 22.5% Power over 15 Seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/morningstar/tier/3",
+      "champid": "morningstar+3+4",
+      "challenger_rating": 70,
+      "abilities": {
+        "PASSIVE": ["A lack of blood provides full immunity to Bleeding."],
+        "CAPTURED SOULS - PASSIVE": [
+          "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
+          "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 229 damage over 5 seconds.",
+          "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
+          "3 Souls: Special 2 becomes Unblockable.",
+          "4 Souls: Gain 229 Energy Resistance, and 50% Perfect Block chance.",
+          "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
+        ],
+        "HEAVY ATTACKS": [
+          "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit of this attack deals 125.95 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit of this attack deals 343.5 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
+          "100% chance to Nullify all Buffs."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
+          "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
+          "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
+          "Morningstar can capture only 1 Soul per fight."
+        ]
+      }
+    },
+    "4+1": {
+      "rank": 1,
+      "prestige": "1088",
+      "hp": "4584",
+      "attack": "334",
+      "crit_rate": "343",
+      "crit_dmge": "450",
+      "armor": "200",
+      "block_prof": "2700",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
+        "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 25 to 50.01%, and granting her her own Buff.",
+        "Fury: +91.85 to 183.73 Attack for 15 Seconds.",
+        "Regeneration: +286.5 to 573.1 Health over 15 Seconds.",
+        "Power Gain: +11.25 to 22.5% Power over 15 Seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/morningstar/tier/4",
+      "champid": "morningstar+4+1",
+      "challenger_rating": 60,
+      "abilities": {
+        "PASSIVE": ["A lack of blood provides full immunity to Bleeding."],
+        "CAPTURED SOULS - PASSIVE": [
+          "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
+          "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 167 damage over 5 seconds.",
+          "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
+          "3 Souls: Special 2 becomes Unblockable.",
+          "4 Souls: Gain 167 Energy Resistance, and 50% Perfect Block chance.",
+          "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
+        ],
+        "HEAVY ATTACKS": [
+          "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit of this attack deals 91.85 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit of this attack deals 250.5 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
+          "100% chance to Nullify all Buffs."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
+          "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
+          "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
+          "Morningstar can capture only 1 Soul per fight."
+        ]
+      }
+    },
+    "4+2": {
+      "rank": 2,
+      "prestige": "1522",
+      "hp": "6431",
+      "attack": "468",
+      "crit_rate": "353",
+      "crit_dmge": "463",
+      "armor": "229",
+      "block_prof": "2775",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
+        "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 25 to 50.01%, and granting her her own Buff.",
+        "Fury: +128.7 to 257.45 Attack for 15 Seconds.",
+        "Regeneration: +401.94 to 804.02 Health over 15 Seconds.",
+        "Power Gain: +11.25 to 22.5% Power over 15 Seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/morningstar/tier/4",
+      "champid": "morningstar+4+2",
+      "challenger_rating": 70,
+      "abilities": {
+        "PASSIVE": ["A lack of blood provides full immunity to Bleeding."],
+        "CAPTURED SOULS - PASSIVE": [
+          "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
+          "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 234 damage over 5 seconds.",
+          "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
+          "3 Souls: Special 2 becomes Unblockable.",
+          "4 Souls: Gain 234 Energy Resistance, and 50% Perfect Block chance.",
+          "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
+        ],
+        "HEAVY ATTACKS": [
+          "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit of this attack deals 128.7 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit of this attack deals 351 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
+          "100% chance to Nullify all Buffs."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
+          "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
+          "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
+          "Morningstar can capture only 1 Soul per fight."
+        ]
+      }
+    },
+    "4+3": {
+      "rank": 3,
+      "prestige": "2129",
+      "hp": "9010",
+      "attack": "655",
+      "crit_rate": "362",
+      "crit_dmge": "475",
+      "armor": "260",
+      "block_prof": "2850",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
+        "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 25 to 50.01%, and granting her her own Buff.",
+        "Fury: +180.13 to 360.31 Attack for 15 Seconds.",
+        "Regeneration: +563.13 to 1126.45 Health over 15 Seconds.",
+        "Power Gain: +11.25 to 22.5% Power over 15 Seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/morningstar/tier/4",
+      "champid": "morningstar+4+3",
+      "challenger_rating": 80,
+      "abilities": {
+        "PASSIVE": ["A lack of blood provides full immunity to Bleeding."],
+        "CAPTURED SOULS - PASSIVE": [
+          "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
+          "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 327.5 damage over 5 seconds.",
+          "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
+          "3 Souls: Special 2 becomes Unblockable.",
+          "4 Souls: Gain 327.5 Energy Resistance, and 50% Perfect Block chance.",
+          "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
+        ],
+        "HEAVY ATTACKS": [
+          "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit of this attack deals 180.13 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit of this attack deals 491.25 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
+          "100% chance to Nullify all Buffs."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
+          "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
+          "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
+          "Morningstar can capture only 1 Soul per fight."
+        ]
+      }
+    },
+    "4+4": {
+      "rank": 4,
+      "prestige": "2804",
+      "hp": "11839",
+      "attack": "861",
+      "crit_rate": "372",
+      "crit_dmge": "488",
+      "armor": "292",
+      "block_prof": "2925",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
+        "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 25 to 50.01%, and granting her her own Buff.",
+        "Fury: +236.78 to 473.63 Attack for 15 Seconds.",
+        "Regeneration: +739.94 to 1480.14 Health over 15 Seconds.",
+        "Power Gain: +11.25 to 22.5% Power over 15 Seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/morningstar/tier/4",
+      "champid": "morningstar+4+4",
+      "challenger_rating": 90,
+      "abilities": {
+        "PASSIVE": ["A lack of blood provides full immunity to Bleeding."],
+        "CAPTURED SOULS - PASSIVE": [
+          "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
+          "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 430.5 damage over 5 seconds.",
+          "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
+          "3 Souls: Special 2 becomes Unblockable.",
+          "4 Souls: Gain 430.5 Energy Resistance, and 50% Perfect Block chance.",
+          "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
+        ],
+        "HEAVY ATTACKS": [
+          "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit of this attack deals 236.78 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit of this attack deals 645.75 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
+          "100% chance to Nullify all Buffs."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
+          "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
+          "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
+          "Morningstar can capture only 1 Soul per fight."
+        ]
+      }
+    },
+    "4+5": {
+      "rank": 5,
+      "prestige": "3735",
+      "hp": "15797",
+      "attack": "1148",
+      "crit_rate": "381",
+      "crit_dmge": "500",
+      "armor": "326",
+      "block_prof": "3000",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
+        "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 25 to 50.01%, and granting her her own Buff.",
+        "Fury: +315.7 to 631.51 Attack for 15 Seconds.",
+        "Regeneration: +987.31 to 1974.98 Health over 15 Seconds.",
+        "Power Gain: +11.25 to 22.5% Power over 15 Seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/morningstar/tier/4",
+      "champid": "morningstar+4+5",
+      "challenger_rating": 100,
+      "abilities": {
+        "PASSIVE": ["A lack of blood provides full immunity to Bleeding."],
+        "CAPTURED SOULS - PASSIVE": [
+          "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
+          "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 574 damage over 5 seconds.",
+          "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
+          "3 Souls: Special 2 becomes Unblockable.",
+          "4 Souls: Gain 574 Energy Resistance, and 50% Perfect Block chance.",
+          "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
+        ],
+        "HEAVY ATTACKS": [
+          "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit of this attack deals 315.7 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit of this attack deals 861 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
+          "100% chance to Nullify all Buffs."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
+          "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
+          "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
+          "Morningstar can capture only 1 Soul per fight."
+        ]
+      }
+    },
+    "5+1": {
+      "rank": 1,
+      "prestige": "2236",
+      "hp": "9427",
+      "attack": "685",
+      "crit_rate": "362",
+      "crit_dmge": "475",
+      "armor": "212",
+      "block_prof": "2850",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
+        "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 22.83 to 60%, and granting her her own Buff.",
+        "Fury: +306.43 to 732.7 Attack for 15 Seconds.",
+        "Regeneration: +635.62 to 1555.51 Health over 15 Seconds.",
+        "Power Gain: +18.74 to 28.5% Power over 15 Seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/morningstar/tier/5",
+      "champid": "morningstar+5+1",
+      "challenger_rating": 80,
+      "abilities": {
+        "PASSIVE": ["A lack of blood provides full immunity to Bleeding."],
+        "CAPTURED SOULS - PASSIVE": [
+          "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
+          "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 342.5 damage over 5 seconds.",
+          "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
+          "3 Souls: Special 2 becomes Unblockable.",
+          "4 Souls: Gain 342.5 Energy Resistance, and 50% Perfect Block chance.",
+          "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
+        ],
+        "HEAVY ATTACKS": [
+          "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit of this attack deals 188.38 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit of this attack deals 513.75 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
+          "100% chance to Nullify all Buffs."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
+          "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
+          "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
+          "Morningstar can capture only 1 Soul per fight."
+        ]
+      }
+    },
+    "5+2": {
+      "rank": 2,
+      "prestige": "2953",
+      "hp": "12453",
+      "attack": "905",
+      "crit_rate": "372",
+      "crit_dmge": "488",
+      "armor": "242",
+      "block_prof": "2925",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
+        "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 22.83 to 60%, and granting her her own Buff.",
+        "Fury: +404.85 to 968.02 Attack for 15 Seconds.",
+        "Regeneration: +839.64 to 2054.81 Health over 15 Seconds.",
+        "Power Gain: +18.74 to 28.5% Power over 15 Seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/morningstar/tier/5",
+      "champid": "morningstar+5+2",
+      "challenger_rating": 90,
+      "abilities": {
+        "PASSIVE": ["A lack of blood provides full immunity to Bleeding."],
+        "CAPTURED SOULS - PASSIVE": [
+          "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
+          "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 452.5 damage over 5 seconds.",
+          "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
+          "3 Souls: Special 2 becomes Unblockable.",
+          "4 Souls: Gain 452.5 Energy Resistance, and 50% Perfect Block chance.",
+          "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
+        ],
+        "HEAVY ATTACKS": [
+          "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit of this attack deals 248.88 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit of this attack deals 678.75 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
+          "100% chance to Nullify all Buffs."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
+          "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
+          "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
+          "Morningstar can capture only 1 Soul per fight."
+        ]
+      }
+    },
+    "5+3": {
+      "rank": 3,
+      "prestige": "4132",
+      "hp": "17409",
+      "attack": "1265",
+      "crit_rate": "381",
+      "crit_dmge": "500",
+      "armor": "273",
+      "block_prof": "3000",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
+        "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 22.83 to 60%, and granting her her own Buff.",
+        "Fury: +565.9 to 1353.08 Attack for 15 Seconds.",
+        "Regeneration: +1173.8 to 2872.58 Health over 15 Seconds.",
+        "Power Gain: +18.74 to 28.5% Power over 15 Seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/morningstar/tier/5",
+      "champid": "morningstar+5+3",
+      "challenger_rating": 100,
+      "abilities": {
+        "PASSIVE": ["A lack of blood provides full immunity to Bleeding."],
+        "CAPTURED SOULS - PASSIVE": [
+          "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
+          "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 632.5 damage over 5 seconds.",
+          "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
+          "3 Souls: Special 2 becomes Unblockable.",
+          "4 Souls: Gain 632.5 Energy Resistance, and 50% Perfect Block chance.",
+          "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
+        ],
+        "HEAVY ATTACKS": [
+          "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit of this attack deals 347.88 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit of this attack deals 948.75 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
+          "100% chance to Nullify all Buffs."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
+          "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
+          "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
+          "Morningstar can capture only 1 Soul per fight."
+        ]
+      }
+    },
+    "5+4": {
+      "rank": 4,
+      "prestige": "5561",
+      "hp": "23458",
+      "attack": "1705",
+      "crit_rate": "391",
+      "crit_dmge": "513",
+      "armor": "307",
+      "block_prof": "3075",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
+        "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 22.83 to 60%, and granting her her own Buff.",
+        "Fury: +762.73 to 1823.72 Attack for 15 Seconds.",
+        "Regeneration: +1581.66 to 3870.7 Health over 15 Seconds.",
+        "Power Gain: +18.74 to 28.5% Power over 15 Seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/morningstar/tier/5",
+      "champid": "morningstar+5+4",
+      "challenger_rating": 110,
+      "abilities": {
+        "PASSIVE": ["A lack of blood provides full immunity to Bleeding."],
+        "CAPTURED SOULS - PASSIVE": [
+          "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
+          "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 852.5 damage over 5 seconds.",
+          "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
+          "3 Souls: Special 2 becomes Unblockable.",
+          "4 Souls: Gain 852.5 Energy Resistance, and 50% Perfect Block chance.",
+          "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
+        ],
+        "HEAVY ATTACKS": [
+          "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit of this attack deals 468.88 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit of this attack deals 1278.75 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
+          "100% chance to Nullify all Buffs."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
+          "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
+          "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
+          "Morningstar can capture only 1 Soul per fight."
+        ]
+      }
+    },
+    "5+5": {
+      "rank": 5,
+      "prestige": "7520",
+      "hp": "31673",
+      "attack": "2301",
+      "crit_rate": "400",
+      "crit_dmge": "525",
+      "armor": "342",
+      "block_prof": "3150",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
+        "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 22.83 to 60%, and granting her her own Buff.",
+        "Fury: +1029.35 to 2461.22 Attack for 15 Seconds.",
+        "Regeneration: +2135.55 to 5226.21 Health over 15 Seconds.",
+        "Power Gain: +18.74 to 28.5% Power over 15 Seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/morningstar/tier/5",
+      "champid": "morningstar+5+5",
+      "challenger_rating": 120,
+      "abilities": {
+        "PASSIVE": ["A lack of blood provides full immunity to Bleeding."],
+        "CAPTURED SOULS - PASSIVE": [
+          "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
+          "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 1150.5 damage over 5 seconds.",
+          "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
+          "3 Souls: Special 2 becomes Unblockable.",
+          "4 Souls: Gain 1150.5 Energy Resistance, and 50% Perfect Block chance.",
+          "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
+        ],
+        "HEAVY ATTACKS": [
+          "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit of this attack deals 632.78 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit of this attack deals 1725.75 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
+          "100% chance to Nullify all Buffs."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
+          "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
+          "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
+          "Morningstar can capture only 1 Soul per fight."
+        ]
+      }
+    },
+    "6+1": {
+      "rank": 1,
+      "prestige": "5892",
+      "hp": "24905",
+      "attack": "1810",
+      "crit_rate": "391",
+      "crit_dmge": "513",
+      "armor": "228",
+      "block_prof": "3075",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
+        "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 22.83 to 60%, and granting her her own Buff.",
+        "Fury: +809.7 to 1936.03 Attack for 15 Seconds.",
+        "Regeneration: +1679.22 to 4109.46 Health over 15 Seconds.",
+        "Power Gain: +18.74 to 28.5% Power over 15 Seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/morningstar/tier/6",
+      "champid": "morningstar+6+1",
+      "challenger_rating": 110,
+      "abilities": {
+        "PASSIVE": ["A lack of blood provides full immunity to Bleeding."],
+        "CAPTURED SOULS - PASSIVE": [
+          "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
+          "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 905 damage over 5 seconds.",
+          "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
+          "3 Souls: Special 2 becomes Unblockable.",
+          "4 Souls: Gain 905 Energy Resistance, and 50% Perfect Block chance.",
+          "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
+        ],
+        "HEAVY ATTACKS": [
+          "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit of this attack deals 497.75 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit of this attack deals 1357.5 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
+          "100% chance to Nullify all Buffs."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
+          "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
+          "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
+          "Morningstar can capture only 1 Soul per fight."
+        ]
+      }
+    },
+    "6+2": {
+      "rank": 2,
+      "prestige": "8134",
+      "hp": "34401",
+      "attack": "2500",
+      "crit_rate": "400",
+      "crit_dmge": "525",
+      "armor": "260",
+      "block_prof": "3150",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
+        "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 22.83 to 60%, and granting her her own Buff.",
+        "Fury: +1118.38 to 2674.08 Attack for 15 Seconds.",
+        "Regeneration: +2319.49 to 5676.35 Health over 15 Seconds.",
+        "Power Gain: +18.74 to 28.5% Power over 15 Seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/morningstar/tier/6",
+      "champid": "morningstar+6+2",
+      "challenger_rating": 120,
+      "abilities": {
+        "PASSIVE": ["A lack of blood provides full immunity to Bleeding."],
+        "CAPTURED SOULS - PASSIVE": [
+          "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
+          "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 1250 damage over 5 seconds.",
+          "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
+          "3 Souls: Special 2 becomes Unblockable.",
+          "4 Souls: Gain 1250 Energy Resistance, and 50% Perfect Block chance.",
+          "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
+        ],
+        "HEAVY ATTACKS": [
+          "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit of this attack deals 687.5 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit of this attack deals 1875 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
+          "100% chance to Nullify all Buffs."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
+          "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
+          "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
+          "Morningstar can capture only 1 Soul per fight."
+        ]
+      }
+    },
+    "6+3": {
+      "rank": 3,
+      "prestige": "9670",
+      "hp": "40811",
+      "attack": "2965",
+      "crit_rate": "410",
+      "crit_dmge": "538",
+      "armor": "294",
+      "block_prof": "3225",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
+        "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 22.83 to 60%, and granting her her own Buff.",
+        "Fury: +1326.39 to 3171.45 Attack for 15 Seconds.",
+        "Regeneration: +2751.68 to 6734.03 Health over 15 Seconds.",
+        "Power Gain: +18.74 to 28.5% Power over 15 Seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/morningstar/tier/6",
+      "champid": "morningstar+6+3",
+      "challenger_rating": 130,
+      "abilities": {
+        "PASSIVE": ["A lack of blood provides full immunity to Bleeding."],
+        "CAPTURED SOULS - PASSIVE": [
+          "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
+          "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 1482.5 damage over 5 seconds.",
+          "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
+          "3 Souls: Special 2 becomes Unblockable.",
+          "4 Souls: Gain 1482.5 Energy Resistance, and 50% Perfect Block chance.",
+          "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
+        ],
+        "HEAVY ATTACKS": [
+          "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit of this attack deals 815.38 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit of this attack deals 2223.75 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
+          "100% chance to Nullify all Buffs."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
+          "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
+          "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
+          "Morningstar can capture only 1 Soul per fight."
+        ]
+      }
+    },
+    "6+4": {
+      "rank": 4,
+      "prestige": "11065",
+      "hp": "46703",
+      "attack": "3393",
+      "crit_rate": "420",
+      "crit_dmge": "550",
+      "armor": "329",
+      "block_prof": "3300",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Morningstar has less than 1 Captured Souls at the start of a fight, she gains 1.",
+        "Morningstar\u2019s weapon grants her a link to her Opponent\u2019s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 22.83 to 60%, and granting her her own Buff.",
+        "Fury: +1517.86 to 3629.26 Attack for 15 Seconds.",
+        "Regeneration: +3148.95 to 7706.25 Health over 15 Seconds.",
+        "Power Gain: +18.74 to 28.5% Power over 15 Seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/morningstar/tier/6",
+      "champid": "morningstar+6+4",
+      "challenger_rating": 140,
+      "abilities": {
+        "PASSIVE": ["A lack of blood provides full immunity to Bleeding."],
+        "CAPTURED SOULS - PASSIVE": [
+          "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
+          "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 1696.5 damage over 5 seconds.",
+          "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
+          "3 Souls: Special 2 becomes Unblockable.",
+          "4 Souls: Gain 1696.5 Energy Resistance, and 50% Perfect Block chance.",
+          "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
+        ],
+        "HEAVY ATTACKS": [
+          "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit of this attack deals 933.08 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit of this attack deals 2544.75 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
+          "100% chance to Nullify all Buffs."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
+          "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
+          "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
+          "Morningstar can capture only 1 Soul per fight."
+        ]
+      }
+    },
+    "1+1": {
+      "rank": 1,
+      "prestige": 195,
+      "hp": 886,
+      "attack": 65,
+      "crit_rate": 296,
+      "crit_dmge": 388,
+      "armor": 173,
+      "block_prof": 2325,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/morningstar/tier/1",
+      "champid": "morningstar+1+1",
+      "challenger_rating": 10,
+      "abilities": {
+        "PASSIVE": ["A lack of blood provides full immunity to Bleeding."],
+        "CAPTURED SOULS - PASSIVE": [
+          "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
+          "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 32.5 damage over 5 seconds.",
+          "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
+          "3 Souls: Special 2 becomes Unblockable.",
+          "4 Souls: Gain 32.5 Energy Resistance, and 50% Perfect Block chance.",
+          "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
+        ],
+        "HEAVY ATTACKS": [
+          "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit of this attack deals 17.88 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit of this attack deals 48.75 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
+          "100% chance to Nullify all Buffs."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
+          "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
+          "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
+          "Morningstar can capture only 1 Soul per fight."
+        ]
+      }
+    },
+    "1+2": {
+      "rank": 2,
+      "prestige": 281,
+      "hp": 1225,
+      "attack": 89,
+      "crit_rate": 305,
+      "crit_dmge": 400,
+      "armor": 198,
+      "block_prof": 2400,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/morningstar/tier/1",
+      "champid": "morningstar+1+2",
+      "challenger_rating": 20,
+      "abilities": {
+        "PASSIVE": ["A lack of blood provides full immunity to Bleeding."],
+        "CAPTURED SOULS - PASSIVE": [
+          "Over the course of a quest, Morningstar\u2019s weapon captures Souls and stores up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.",
+          "1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her Opponent to Bleed for 44.5 damage over 5 seconds.",
+          "2 Souls: Special 1 Triggers Unstoppable for 2.50 seconds.",
+          "3 Souls: Special 2 becomes Unblockable.",
+          "4 Souls: Gain 44.5 Energy Resistance, and 50% Perfect Block chance.",
+          "5 Souls: 20% chance on Hit to Regenerate 50% of the Damage done to the Opponent."
+        ],
+        "HEAVY ATTACKS": [
+          "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Each hit of this attack deals 24.48 Bonus Energy Damage per Captured Soul. This damage increases with Critical Hits."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit of this attack deals 66.75 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered.",
+          "100% chance to Nullify all Buffs."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Morningstar begins to pull her Opponent\u2019s soul from their body, placing a counter on herself.",
+          "Damage to the Opponent increases the counter, Damage to Morningstar reduces it.",
+          "If the counter reaches 100 she captures the soul, if it reaches 0 her opponent reclaims their soul.",
+          "Morningstar can capture only 1 Soul per fight."
+        ]
+      }
+    },
+    "find": {
+      "story_quests": {
+        "act_1": [],
+        "act_2": [],
+        "act_3": [],
+        "act_4": [],
+        "act_5": ["5.4.2"],
+        "act_6": [
+          "6.1.1",
+          "6.1.3",
+          "6.2.2",
+          "6.2.3",
+          "6.2.5",
+          "6.2.6",
+          "6.3.1",
+          "6.3.2",
+          "6.3.3",
+          "6.3.4",
+          "6.3.5",
+          "6.4.1",
+          "6.4.6"
+        ],
+        "act_7": ["7.1.1", "7.1.4", "7.1.6", "7.2.2", "7.2.6", "7.4.2"]
+      }
     }
+  },
+  "name": "MORNINGSTAR",
+  "class": "Mystic",
+  "img_portrait": "https://api.rexians.tk/assets/portraits/morningstar.png",
+  "contact": "PHYSICAL",
+  "tags": ["Villain", "Dimensional", "Size: L"],
+  "released": "10/12/2017"
 }

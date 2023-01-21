@@ -1,1041 +1,1113 @@
 {
-    "name": "HEIMDALL",
-    "class": "Cosmic",
-    "img_portrait": "https://api.rexians.tk/assets/portraits/heimdall.png",
-    "contact": "PHYSICAL",
-    "tags": [
-        "Hero",
-        "Size: L"
-    ],
-    "released": "8/16/2018",
-    "champid": "heimdall",
-    "data": {
-        "2+1": {
-            "rank": 1,
-            "prestige": "279",
-            "hp": "1213",
-            "attack": "75",
-            "crit_rate": "159",
-            "crit_dmge": "506",
-            "armor": "85",
-            "block_prof": "2400",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 228.57 to 428.29 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
-                "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4 to 7.47% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/heimdall/tier/2",
-            "champid": "heimdall+2+1",
-            "challenger_rating": 20,
-            "abilities": {
-                "PASSIVE": [
-                    "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
-                    "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 685.71 lasting 10 seconds.",
-                    "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
-                    "On reaching 100 charges they convert into a Fury Buff increasing Attack by 15 lasting 10 seconds"
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
-                    "Heimdall can have a maximum of 5 of these Buffs at a time."
-                ],
-                "TRUE SIGHT - PASSIVE": [
-                    "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
-                    "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 84.21 and last for 10 seconds",
-                    "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
-                    "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
-                ]
-            }
-        },
-        "2+2": {
-            "rank": 2,
-            "prestige": "363",
-            "hp": "1603",
-            "attack": "99",
-            "crit_rate": "164",
-            "crit_dmge": "522",
-            "armor": "106",
-            "block_prof": "2475",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 235.71 to 441.67 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
-                "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4 to 7.47% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/heimdall/tier/2",
-            "champid": "heimdall+2+2",
-            "challenger_rating": 30,
-            "abilities": {
-                "PASSIVE": [
-                    "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
-                    "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 707.14 lasting 10 seconds.",
-                    "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
-                    "On reaching 100 charges they convert into a Fury Buff increasing Attack by 19.8 lasting 10 seconds"
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
-                    "Heimdall can have a maximum of 5 of these Buffs at a time."
-                ],
-                "TRUE SIGHT - PASSIVE": [
-                    "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
-                    "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 86.84 and last for 10 seconds",
-                    "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
-                    "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
-                ]
-            }
-        },
-        "2+3": {
-            "rank": 3,
-            "prestige": "574",
-            "hp": "2544",
-            "attack": "158",
-            "crit_rate": "169",
-            "crit_dmge": "537",
-            "armor": "128",
-            "block_prof": "2550",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 242.86 to 455.06 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
-                "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4 to 7.47% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/heimdall/tier/2",
-            "champid": "heimdall+2+3",
-            "challenger_rating": 40,
-            "abilities": {
-                "PASSIVE": [
-                    "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
-                    "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 728.57 lasting 10 seconds.",
-                    "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
-                    "On reaching 100 charges they convert into a Fury Buff increasing Attack by 31.6 lasting 10 seconds"
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
-                    "Heimdall can have a maximum of 5 of these Buffs at a time."
-                ],
-                "TRUE SIGHT - PASSIVE": [
-                    "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
-                    "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 89.47 and last for 10 seconds",
-                    "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
-                    "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
-                ]
-            }
-        },
-        "3+1": {
-            "rank": 1,
-            "prestige": "496",
-            "hp": "2200",
-            "attack": "136",
-            "crit_rate": "169",
-            "crit_dmge": "537",
-            "armor": "90",
-            "block_prof": "2550",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 242.86 to 455.06 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
-                "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4 to 7.47% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/heimdall/tier/3",
-            "champid": "heimdall+3+1",
-            "challenger_rating": 40,
-            "abilities": {
-                "PASSIVE": [
-                    "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
-                    "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 728.57 lasting 10 seconds.",
-                    "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
-                    "On reaching 100 charges they convert into a Fury Buff increasing Attack by 27.2 lasting 10 seconds"
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
-                    "Heimdall can have a maximum of 5 of these Buffs at a time."
-                ],
-                "TRUE SIGHT - PASSIVE": [
-                    "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
-                    "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 89.47 and last for 10 seconds",
-                    "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
-                    "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
-                ]
-            }
-        },
-        "3+2": {
-            "rank": 2,
-            "prestige": "791",
-            "hp": "3519",
-            "attack": "218",
-            "crit_rate": "174",
-            "crit_dmge": "553",
-            "armor": "112",
-            "block_prof": "2625",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 250 to 468.44 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
-                "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4 to 7.47% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/heimdall/tier/3",
-            "champid": "heimdall+3+2",
-            "challenger_rating": 50,
-            "abilities": {
-                "PASSIVE": [
-                    "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
-                    "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 750 lasting 10 seconds.",
-                    "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
-                    "On reaching 100 charges they convert into a Fury Buff increasing Attack by 43.6 lasting 10 seconds"
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
-                    "Heimdall can have a maximum of 5 of these Buffs at a time."
-                ],
-                "TRUE SIGHT - PASSIVE": [
-                    "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
-                    "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 92.11 and last for 10 seconds",
-                    "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
-                    "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
-                ]
-            }
-        },
-        "3+3": {
-            "rank": 3,
-            "prestige": "1102",
-            "hp": "4923",
-            "attack": "304",
-            "crit_rate": "179",
-            "crit_dmge": "569",
-            "armor": "136",
-            "block_prof": "2700",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 257.14 to 481.83 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
-                "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4 to 7.47% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/heimdall/tier/3",
-            "champid": "heimdall+3+3",
-            "challenger_rating": 60,
-            "abilities": {
-                "PASSIVE": [
-                    "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
-                    "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 771.43 lasting 10 seconds.",
-                    "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
-                    "On reaching 100 charges they convert into a Fury Buff increasing Attack by 60.8 lasting 10 seconds"
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
-                    "Heimdall can have a maximum of 5 of these Buffs at a time."
-                ],
-                "TRUE SIGHT - PASSIVE": [
-                    "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
-                    "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 94.74 and last for 10 seconds",
-                    "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
-                    "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
-                ]
-            }
-        },
-        "3+4": {
-            "rank": 4,
-            "prestige": "1511",
-            "hp": "6760",
-            "attack": "418",
-            "crit_rate": "183",
-            "crit_dmge": "585",
-            "armor": "161",
-            "block_prof": "2775",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 264.29 to 495.21 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
-                "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4 to 7.47% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/heimdall/tier/3",
-            "champid": "heimdall+3+4",
-            "challenger_rating": 70,
-            "abilities": {
-                "PASSIVE": [
-                    "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
-                    "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 792.86 lasting 10 seconds.",
-                    "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
-                    "On reaching 100 charges they convert into a Fury Buff increasing Attack by 83.6 lasting 10 seconds"
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
-                    "Heimdall can have a maximum of 5 of these Buffs at a time."
-                ],
-                "TRUE SIGHT - PASSIVE": [
-                    "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
-                    "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 97.37 and last for 10 seconds",
-                    "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
-                    "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
-                ]
-            }
-        },
-        "4+1": {
-            "rank": 1,
-            "prestige": "1104",
-            "hp": "4920",
-            "attack": "304",
-            "crit_rate": "179",
-            "crit_dmge": "569",
-            "armor": "95",
-            "block_prof": "2700",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 257.14 to 481.83 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
-                "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4 to 7.47% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/heimdall/tier/4",
-            "champid": "heimdall+4+1",
-            "challenger_rating": 60,
-            "abilities": {
-                "PASSIVE": [
-                    "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
-                    "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 771.43 lasting 10 seconds.",
-                    "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
-                    "On reaching 100 charges they convert into a Fury Buff increasing Attack by 60.8 lasting 10 seconds"
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
-                    "Heimdall can have a maximum of 5 of these Buffs at a time."
-                ],
-                "TRUE SIGHT - PASSIVE": [
-                    "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
-                    "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 94.74 and last for 10 seconds",
-                    "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
-                    "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
-                ]
-            }
-        },
-        "4+2": {
-            "rank": 2,
-            "prestige": "1548",
-            "hp": "6901",
-            "attack": "426",
-            "crit_rate": "183",
-            "crit_dmge": "585",
-            "armor": "119",
-            "block_prof": "2775",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 264.29 to 495.21 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
-                "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4 to 7.47% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/heimdall/tier/4",
-            "champid": "heimdall+4+2",
-            "challenger_rating": 70,
-            "abilities": {
-                "PASSIVE": [
-                    "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
-                    "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 792.86 lasting 10 seconds.",
-                    "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
-                    "On reaching 100 charges they convert into a Fury Buff increasing Attack by 85.2 lasting 10 seconds"
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
-                    "Heimdall can have a maximum of 5 of these Buffs at a time."
-                ],
-                "TRUE SIGHT - PASSIVE": [
-                    "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
-                    "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 97.37 and last for 10 seconds",
-                    "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
-                    "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
-                ]
-            }
-        },
-        "4+3": {
-            "rank": 3,
-            "prestige": "2162",
-            "hp": "9669",
-            "attack": "597",
-            "crit_rate": "188",
-            "crit_dmge": "600",
-            "armor": "144",
-            "block_prof": "2850",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 271.43 to 508.6 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
-                "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4 to 7.47% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/heimdall/tier/4",
-            "champid": "heimdall+4+3",
-            "challenger_rating": 80,
-            "abilities": {
-                "PASSIVE": [
-                    "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
-                    "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 814.29 lasting 10 seconds.",
-                    "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
-                    "On reaching 100 charges they convert into a Fury Buff increasing Attack by 119.4 lasting 10 seconds"
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
-                    "Heimdall can have a maximum of 5 of these Buffs at a time."
-                ],
-                "TRUE SIGHT - PASSIVE": [
-                    "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
-                    "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 100 and last for 10 seconds",
-                    "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
-                    "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
-                ]
-            }
-        },
-        "4+4": {
-            "rank": 4,
-            "prestige": "2846",
-            "hp": "12705",
-            "attack": "785",
-            "crit_rate": "193",
-            "crit_dmge": "616",
-            "armor": "170",
-            "block_prof": "2925",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 278.57 to 521.98 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
-                "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4 to 7.47% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/heimdall/tier/4",
-            "champid": "heimdall+4+4",
-            "challenger_rating": 90,
-            "abilities": {
-                "PASSIVE": [
-                    "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
-                    "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 835.71 lasting 10 seconds.",
-                    "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
-                    "On reaching 100 charges they convert into a Fury Buff increasing Attack by 157 lasting 10 seconds"
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
-                    "Heimdall can have a maximum of 5 of these Buffs at a time."
-                ],
-                "TRUE SIGHT - PASSIVE": [
-                    "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
-                    "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 102.63 and last for 10 seconds",
-                    "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
-                    "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
-                ]
-            }
-        },
-        "4+5": {
-            "rank": 5,
-            "prestige": "3791",
-            "hp": "16952",
-            "attack": "1047",
-            "crit_rate": "198",
-            "crit_dmge": "632",
-            "armor": "198",
-            "block_prof": "3000",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 285.71 to 535.36 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
-                "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4 to 7.47% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/heimdall/tier/4",
-            "champid": "heimdall+4+5",
-            "challenger_rating": 100,
-            "abilities": {
-                "PASSIVE": [
-                    "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
-                    "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 857.14 lasting 10 seconds.",
-                    "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
-                    "On reaching 100 charges they convert into a Fury Buff increasing Attack by 209.4 lasting 10 seconds"
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
-                    "Heimdall can have a maximum of 5 of these Buffs at a time."
-                ],
-                "TRUE SIGHT - PASSIVE": [
-                    "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
-                    "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 105.26 and last for 10 seconds",
-                    "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
-                    "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
-                ]
-            }
-        },
-        "5+1": {
-            "rank": 1,
-            "prestige": "2269",
-            "hp": "10117",
-            "attack": "625",
-            "crit_rate": "188",
-            "crit_dmge": "600",
-            "armor": "100",
-            "block_prof": "2850",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 271.97 to 633.32 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
-                "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4.01 to 9% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/heimdall/tier/5",
-            "champid": "heimdall+5+1",
-            "challenger_rating": 80,
-            "abilities": {
-                "PASSIVE": [
-                    "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
-                    "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 814.29 lasting 10 seconds.",
-                    "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
-                    "On reaching 100 charges they convert into a Fury Buff increasing Attack by 125 lasting 10 seconds"
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
-                    "Heimdall can have a maximum of 5 of these Buffs at a time."
-                ],
-                "TRUE SIGHT - PASSIVE": [
-                    "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
-                    "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 100 and last for 10 seconds",
-                    "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
-                    "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
-                ]
-            }
-        },
-        "5+2": {
-            "rank": 2,
-            "prestige": "2996",
-            "hp": "13364",
-            "attack": "825",
-            "crit_rate": "193",
-            "crit_dmge": "616",
-            "armor": "125",
-            "block_prof": "2925",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 279.12 to 649.98 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
-                "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4.01 to 9% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/heimdall/tier/5",
-            "champid": "heimdall+5+2",
-            "challenger_rating": 90,
-            "abilities": {
-                "PASSIVE": [
-                    "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
-                    "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 835.71 lasting 10 seconds.",
-                    "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
-                    "On reaching 100 charges they convert into a Fury Buff increasing Attack by 165 lasting 10 seconds"
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
-                    "Heimdall can have a maximum of 5 of these Buffs at a time."
-                ],
-                "TRUE SIGHT - PASSIVE": [
-                    "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
-                    "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 102.63 and last for 10 seconds",
-                    "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
-                    "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
-                ]
-            }
-        },
-        "5+3": {
-            "rank": 3,
-            "prestige": "4193",
-            "hp": "18682",
-            "attack": "1154",
-            "crit_rate": "198",
-            "crit_dmge": "632",
-            "armor": "151",
-            "block_prof": "3000",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 286.28 to 666.65 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
-                "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4.01 to 9% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/heimdall/tier/5",
-            "champid": "heimdall+5+3",
-            "challenger_rating": 100,
-            "abilities": {
-                "PASSIVE": [
-                    "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
-                    "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 857.14 lasting 10 seconds.",
-                    "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
-                    "On reaching 100 charges they convert into a Fury Buff increasing Attack by 230.8 lasting 10 seconds"
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
-                    "Heimdall can have a maximum of 5 of these Buffs at a time."
-                ],
-                "TRUE SIGHT - PASSIVE": [
-                    "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
-                    "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 105.26 and last for 10 seconds",
-                    "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
-                    "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
-                ]
-            }
-        },
-        "5+4": {
-            "rank": 4,
-            "prestige": "5648",
-            "hp": "25174",
-            "attack": "1554",
-            "crit_rate": "203",
-            "crit_dmge": "648",
-            "armor": "179",
-            "block_prof": "3075",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 293.44 to 683.32 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
-                "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4.01 to 9% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/heimdall/tier/5",
-            "champid": "heimdall+5+4",
-            "challenger_rating": 110,
-            "abilities": {
-                "PASSIVE": [
-                    "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
-                    "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 878.57 lasting 10 seconds.",
-                    "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
-                    "On reaching 100 charges they convert into a Fury Buff increasing Attack by 310.8 lasting 10 seconds"
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
-                    "Heimdall can have a maximum of 5 of these Buffs at a time."
-                ],
-                "TRUE SIGHT - PASSIVE": [
-                    "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
-                    "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 107.89 and last for 10 seconds",
-                    "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
-                    "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
-                ]
-            }
-        },
-        "5+5": {
-            "rank": 5,
-            "prestige": "7635",
-            "hp": "33989",
-            "attack": "2098",
-            "crit_rate": "208",
-            "crit_dmge": "664",
-            "armor": "208",
-            "block_prof": "3150",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 300.59 to 699.98 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
-                "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4.01 to 9% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/heimdall/tier/5",
-            "champid": "heimdall+5+5",
-            "challenger_rating": 120,
-            "abilities": {
-                "PASSIVE": [
-                    "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
-                    "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 900 lasting 10 seconds.",
-                    "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
-                    "On reaching 100 charges they convert into a Fury Buff increasing Attack by 419.6 lasting 10 seconds"
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
-                    "Heimdall can have a maximum of 5 of these Buffs at a time."
-                ],
-                "TRUE SIGHT - PASSIVE": [
-                    "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
-                    "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 110.53 and last for 10 seconds",
-                    "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
-                    "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
-                ]
-            }
-        },
-        "6+1": {
-            "rank": 1,
-            "prestige": "5982",
-            "hp": "26727",
-            "attack": "1650",
-            "crit_rate": "203",
-            "crit_dmge": "648",
-            "armor": "108",
-            "block_prof": "3075",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 293.44 to 683.32 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
-                "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4.01 to 9% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/heimdall/tier/6",
-            "champid": "heimdall+6+1",
-            "challenger_rating": 110,
-            "abilities": {
-                "PASSIVE": [
-                    "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
-                    "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 878.57 lasting 10 seconds.",
-                    "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
-                    "On reaching 100 charges they convert into a Fury Buff increasing Attack by 330 lasting 10 seconds"
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
-                    "Heimdall can have a maximum of 5 of these Buffs at a time."
-                ],
-                "TRUE SIGHT - PASSIVE": [
-                    "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
-                    "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 107.89 and last for 10 seconds",
-                    "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
-                    "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
-                ]
-            }
-        },
-        "6+2": {
-            "rank": 2,
-            "prestige": "8261",
-            "hp": "36917",
-            "attack": "2279",
-            "crit_rate": "208",
-            "crit_dmge": "664",
-            "armor": "135",
-            "block_prof": "3150",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 300.59 to 699.98 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
-                "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4.01 to 9% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/heimdall/tier/6",
-            "champid": "heimdall+6+2",
-            "challenger_rating": 120,
-            "abilities": {
-                "PASSIVE": [
-                    "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
-                    "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 900 lasting 10 seconds.",
-                    "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
-                    "On reaching 100 charges they convert into a Fury Buff increasing Attack by 455.8 lasting 10 seconds"
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
-                    "Heimdall can have a maximum of 5 of these Buffs at a time."
-                ],
-                "TRUE SIGHT - PASSIVE": [
-                    "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
-                    "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 110.53 and last for 10 seconds",
-                    "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
-                    "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
-                ]
-            }
-        },
-        "6+3": {
-            "rank": 3,
-            "prestige": "9815",
-            "hp": "43797",
-            "attack": "2704",
-            "crit_rate": "213",
-            "crit_dmge": "679",
-            "armor": "162",
-            "block_prof": "3225",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 307.75 to 716.65 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
-                "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4.01 to 9% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/heimdall/tier/6",
-            "champid": "heimdall+6+3",
-            "challenger_rating": 130,
-            "abilities": {
-                "PASSIVE": [
-                    "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
-                    "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 921.43 lasting 10 seconds.",
-                    "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
-                    "On reaching 100 charges they convert into a Fury Buff increasing Attack by 540.8 lasting 10 seconds"
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
-                    "Heimdall can have a maximum of 5 of these Buffs at a time."
-                ],
-                "TRUE SIGHT - PASSIVE": [
-                    "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
-                    "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 113.16 and last for 10 seconds",
-                    "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
-                    "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
-                ]
-            }
-        },
-        "6+4": {
-            "rank": 4,
-            "prestige": "11231",
-            "hp": "50119",
-            "attack": "3094",
-            "crit_rate": "218",
-            "crit_dmge": "695",
-            "armor": "192",
-            "block_prof": "3300",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 314.91 to 733.32 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
-                "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4.01 to 9% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/heimdall/tier/6",
-            "champid": "heimdall+6+4",
-            "challenger_rating": 140,
-            "abilities": {
-                "PASSIVE": [
-                    "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
-                    "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 942.86 lasting 10 seconds.",
-                    "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
-                    "On reaching 100 charges they convert into a Fury Buff increasing Attack by 618.8 lasting 10 seconds"
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
-                    "Heimdall can have a maximum of 5 of these Buffs at a time."
-                ],
-                "TRUE SIGHT - PASSIVE": [
-                    "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
-                    "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 115.79 and last for 10 seconds",
-                    "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
-                    "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
-                ]
-            }
-        },
-        "find": {
-            "story_quests": {
-                "act_1": [],
-                "act_2": [
-                    "2.1.6"
-                ],
-                "act_3": [
-                    "3.1.5",
-                    "3.1.6"
-                ],
-                "act_4": [],
-                "act_5": [],
-                "act_6": [
-                    "6.1.2",
-                    "6.1.4",
-                    "6.1.5",
-                    "6.1.6",
-                    "6.2.1",
-                    "6.2.2",
-                    "6.2.5",
-                    "6.2.6",
-                    "6.3.2",
-                    "6.3.3",
-                    "6.3.4",
-                    "6.3.5",
-                    "6.4.2",
-                    "6.4.3",
-                    "6.4.6"
-                ],
-                "act_7": [
-                    "7.1.2",
-                    "7.1.4",
-                    "7.1.5",
-                    "7.2.4",
-                    "7.3.2",
-                    "7.3.6",
-                    "7.4.4"
-                ]
-            }
-        }
+  "champid": "heimdall",
+  "data": {
+    "2+1": {
+      "rank": 1,
+      "prestige": "279",
+      "hp": "1213",
+      "attack": "75",
+      "crit_rate": "159",
+      "crit_dmge": "506",
+      "armor": "85",
+      "block_prof": "2400",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 228.57 to 428.29 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
+        "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4 to 7.47% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/heimdall/tier/2",
+      "champid": "heimdall+2+1",
+      "challenger_rating": 20,
+      "abilities": {
+        "PASSIVE": [
+          "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
+          "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 685.71 lasting 10 seconds.",
+          "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
+          "On reaching 100 charges they convert into a Fury Buff increasing Attack by 15 lasting 10 seconds"
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
+          "Heimdall can have a maximum of 5 of these Buffs at a time."
+        ],
+        "TRUE SIGHT - PASSIVE": [
+          "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
+          "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 84.21 and last for 10 seconds",
+          "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
+          "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
+        ]
+      }
+    },
+    "2+2": {
+      "rank": 2,
+      "prestige": "363",
+      "hp": "1603",
+      "attack": "99",
+      "crit_rate": "164",
+      "crit_dmge": "522",
+      "armor": "106",
+      "block_prof": "2475",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 235.71 to 441.67 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
+        "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4 to 7.47% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/heimdall/tier/2",
+      "champid": "heimdall+2+2",
+      "challenger_rating": 30,
+      "abilities": {
+        "PASSIVE": [
+          "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
+          "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 707.14 lasting 10 seconds.",
+          "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
+          "On reaching 100 charges they convert into a Fury Buff increasing Attack by 19.8 lasting 10 seconds"
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
+          "Heimdall can have a maximum of 5 of these Buffs at a time."
+        ],
+        "TRUE SIGHT - PASSIVE": [
+          "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
+          "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 86.84 and last for 10 seconds",
+          "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
+          "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
+        ]
+      }
+    },
+    "2+3": {
+      "rank": 3,
+      "prestige": "574",
+      "hp": "2544",
+      "attack": "158",
+      "crit_rate": "169",
+      "crit_dmge": "537",
+      "armor": "128",
+      "block_prof": "2550",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 242.86 to 455.06 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
+        "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4 to 7.47% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/heimdall/tier/2",
+      "champid": "heimdall+2+3",
+      "challenger_rating": 40,
+      "abilities": {
+        "PASSIVE": [
+          "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
+          "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 728.57 lasting 10 seconds.",
+          "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
+          "On reaching 100 charges they convert into a Fury Buff increasing Attack by 31.6 lasting 10 seconds"
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
+          "Heimdall can have a maximum of 5 of these Buffs at a time."
+        ],
+        "TRUE SIGHT - PASSIVE": [
+          "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
+          "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 89.47 and last for 10 seconds",
+          "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
+          "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
+        ]
+      }
+    },
+    "3+1": {
+      "rank": 1,
+      "prestige": "496",
+      "hp": "2200",
+      "attack": "136",
+      "crit_rate": "169",
+      "crit_dmge": "537",
+      "armor": "90",
+      "block_prof": "2550",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 242.86 to 455.06 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
+        "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4 to 7.47% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/heimdall/tier/3",
+      "champid": "heimdall+3+1",
+      "challenger_rating": 40,
+      "abilities": {
+        "PASSIVE": [
+          "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
+          "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 728.57 lasting 10 seconds.",
+          "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
+          "On reaching 100 charges they convert into a Fury Buff increasing Attack by 27.2 lasting 10 seconds"
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
+          "Heimdall can have a maximum of 5 of these Buffs at a time."
+        ],
+        "TRUE SIGHT - PASSIVE": [
+          "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
+          "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 89.47 and last for 10 seconds",
+          "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
+          "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
+        ]
+      }
+    },
+    "3+2": {
+      "rank": 2,
+      "prestige": "791",
+      "hp": "3519",
+      "attack": "218",
+      "crit_rate": "174",
+      "crit_dmge": "553",
+      "armor": "112",
+      "block_prof": "2625",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 250 to 468.44 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
+        "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4 to 7.47% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/heimdall/tier/3",
+      "champid": "heimdall+3+2",
+      "challenger_rating": 50,
+      "abilities": {
+        "PASSIVE": [
+          "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
+          "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 750 lasting 10 seconds.",
+          "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
+          "On reaching 100 charges they convert into a Fury Buff increasing Attack by 43.6 lasting 10 seconds"
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
+          "Heimdall can have a maximum of 5 of these Buffs at a time."
+        ],
+        "TRUE SIGHT - PASSIVE": [
+          "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
+          "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 92.11 and last for 10 seconds",
+          "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
+          "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
+        ]
+      }
+    },
+    "3+3": {
+      "rank": 3,
+      "prestige": "1102",
+      "hp": "4923",
+      "attack": "304",
+      "crit_rate": "179",
+      "crit_dmge": "569",
+      "armor": "136",
+      "block_prof": "2700",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 257.14 to 481.83 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
+        "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4 to 7.47% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/heimdall/tier/3",
+      "champid": "heimdall+3+3",
+      "challenger_rating": 60,
+      "abilities": {
+        "PASSIVE": [
+          "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
+          "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 771.43 lasting 10 seconds.",
+          "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
+          "On reaching 100 charges they convert into a Fury Buff increasing Attack by 60.8 lasting 10 seconds"
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
+          "Heimdall can have a maximum of 5 of these Buffs at a time."
+        ],
+        "TRUE SIGHT - PASSIVE": [
+          "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
+          "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 94.74 and last for 10 seconds",
+          "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
+          "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
+        ]
+      }
+    },
+    "3+4": {
+      "rank": 4,
+      "prestige": "1511",
+      "hp": "6760",
+      "attack": "418",
+      "crit_rate": "183",
+      "crit_dmge": "585",
+      "armor": "161",
+      "block_prof": "2775",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 264.29 to 495.21 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
+        "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4 to 7.47% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/heimdall/tier/3",
+      "champid": "heimdall+3+4",
+      "challenger_rating": 70,
+      "abilities": {
+        "PASSIVE": [
+          "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
+          "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 792.86 lasting 10 seconds.",
+          "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
+          "On reaching 100 charges they convert into a Fury Buff increasing Attack by 83.6 lasting 10 seconds"
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
+          "Heimdall can have a maximum of 5 of these Buffs at a time."
+        ],
+        "TRUE SIGHT - PASSIVE": [
+          "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
+          "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 97.37 and last for 10 seconds",
+          "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
+          "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
+        ]
+      }
+    },
+    "4+1": {
+      "rank": 1,
+      "prestige": "1104",
+      "hp": "4920",
+      "attack": "304",
+      "crit_rate": "179",
+      "crit_dmge": "569",
+      "armor": "95",
+      "block_prof": "2700",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 257.14 to 481.83 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
+        "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4 to 7.47% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/heimdall/tier/4",
+      "champid": "heimdall+4+1",
+      "challenger_rating": 60,
+      "abilities": {
+        "PASSIVE": [
+          "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
+          "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 771.43 lasting 10 seconds.",
+          "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
+          "On reaching 100 charges they convert into a Fury Buff increasing Attack by 60.8 lasting 10 seconds"
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
+          "Heimdall can have a maximum of 5 of these Buffs at a time."
+        ],
+        "TRUE SIGHT - PASSIVE": [
+          "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
+          "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 94.74 and last for 10 seconds",
+          "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
+          "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
+        ]
+      }
+    },
+    "4+2": {
+      "rank": 2,
+      "prestige": "1548",
+      "hp": "6901",
+      "attack": "426",
+      "crit_rate": "183",
+      "crit_dmge": "585",
+      "armor": "119",
+      "block_prof": "2775",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 264.29 to 495.21 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
+        "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4 to 7.47% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/heimdall/tier/4",
+      "champid": "heimdall+4+2",
+      "challenger_rating": 70,
+      "abilities": {
+        "PASSIVE": [
+          "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
+          "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 792.86 lasting 10 seconds.",
+          "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
+          "On reaching 100 charges they convert into a Fury Buff increasing Attack by 85.2 lasting 10 seconds"
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
+          "Heimdall can have a maximum of 5 of these Buffs at a time."
+        ],
+        "TRUE SIGHT - PASSIVE": [
+          "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
+          "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 97.37 and last for 10 seconds",
+          "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
+          "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
+        ]
+      }
+    },
+    "4+3": {
+      "rank": 3,
+      "prestige": "2162",
+      "hp": "9669",
+      "attack": "597",
+      "crit_rate": "188",
+      "crit_dmge": "600",
+      "armor": "144",
+      "block_prof": "2850",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 271.43 to 508.6 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
+        "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4 to 7.47% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/heimdall/tier/4",
+      "champid": "heimdall+4+3",
+      "challenger_rating": 80,
+      "abilities": {
+        "PASSIVE": [
+          "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
+          "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 814.29 lasting 10 seconds.",
+          "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
+          "On reaching 100 charges they convert into a Fury Buff increasing Attack by 119.4 lasting 10 seconds"
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
+          "Heimdall can have a maximum of 5 of these Buffs at a time."
+        ],
+        "TRUE SIGHT - PASSIVE": [
+          "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
+          "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 100 and last for 10 seconds",
+          "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
+          "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
+        ]
+      }
+    },
+    "4+4": {
+      "rank": 4,
+      "prestige": "2846",
+      "hp": "12705",
+      "attack": "785",
+      "crit_rate": "193",
+      "crit_dmge": "616",
+      "armor": "170",
+      "block_prof": "2925",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 278.57 to 521.98 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
+        "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4 to 7.47% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/heimdall/tier/4",
+      "champid": "heimdall+4+4",
+      "challenger_rating": 90,
+      "abilities": {
+        "PASSIVE": [
+          "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
+          "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 835.71 lasting 10 seconds.",
+          "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
+          "On reaching 100 charges they convert into a Fury Buff increasing Attack by 157 lasting 10 seconds"
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
+          "Heimdall can have a maximum of 5 of these Buffs at a time."
+        ],
+        "TRUE SIGHT - PASSIVE": [
+          "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
+          "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 102.63 and last for 10 seconds",
+          "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
+          "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
+        ]
+      }
+    },
+    "4+5": {
+      "rank": 5,
+      "prestige": "3791",
+      "hp": "16952",
+      "attack": "1047",
+      "crit_rate": "198",
+      "crit_dmge": "632",
+      "armor": "198",
+      "block_prof": "3000",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 285.71 to 535.36 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
+        "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4 to 7.47% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/heimdall/tier/4",
+      "champid": "heimdall+4+5",
+      "challenger_rating": 100,
+      "abilities": {
+        "PASSIVE": [
+          "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
+          "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 857.14 lasting 10 seconds.",
+          "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
+          "On reaching 100 charges they convert into a Fury Buff increasing Attack by 209.4 lasting 10 seconds"
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
+          "Heimdall can have a maximum of 5 of these Buffs at a time."
+        ],
+        "TRUE SIGHT - PASSIVE": [
+          "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
+          "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 105.26 and last for 10 seconds",
+          "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
+          "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
+        ]
+      }
+    },
+    "5+1": {
+      "rank": 1,
+      "prestige": "2269",
+      "hp": "10117",
+      "attack": "625",
+      "crit_rate": "188",
+      "crit_dmge": "600",
+      "armor": "100",
+      "block_prof": "2850",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 271.97 to 633.32 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
+        "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4.01 to 9% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/heimdall/tier/5",
+      "champid": "heimdall+5+1",
+      "challenger_rating": 80,
+      "abilities": {
+        "PASSIVE": [
+          "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
+          "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 814.29 lasting 10 seconds.",
+          "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
+          "On reaching 100 charges they convert into a Fury Buff increasing Attack by 125 lasting 10 seconds"
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
+          "Heimdall can have a maximum of 5 of these Buffs at a time."
+        ],
+        "TRUE SIGHT - PASSIVE": [
+          "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
+          "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 100 and last for 10 seconds",
+          "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
+          "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
+        ]
+      }
+    },
+    "5+2": {
+      "rank": 2,
+      "prestige": "2996",
+      "hp": "13364",
+      "attack": "825",
+      "crit_rate": "193",
+      "crit_dmge": "616",
+      "armor": "125",
+      "block_prof": "2925",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 279.12 to 649.98 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
+        "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4.01 to 9% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/heimdall/tier/5",
+      "champid": "heimdall+5+2",
+      "challenger_rating": 90,
+      "abilities": {
+        "PASSIVE": [
+          "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
+          "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 835.71 lasting 10 seconds.",
+          "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
+          "On reaching 100 charges they convert into a Fury Buff increasing Attack by 165 lasting 10 seconds"
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
+          "Heimdall can have a maximum of 5 of these Buffs at a time."
+        ],
+        "TRUE SIGHT - PASSIVE": [
+          "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
+          "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 102.63 and last for 10 seconds",
+          "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
+          "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
+        ]
+      }
+    },
+    "5+3": {
+      "rank": 3,
+      "prestige": "4193",
+      "hp": "18682",
+      "attack": "1154",
+      "crit_rate": "198",
+      "crit_dmge": "632",
+      "armor": "151",
+      "block_prof": "3000",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 286.28 to 666.65 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
+        "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4.01 to 9% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/heimdall/tier/5",
+      "champid": "heimdall+5+3",
+      "challenger_rating": 100,
+      "abilities": {
+        "PASSIVE": [
+          "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
+          "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 857.14 lasting 10 seconds.",
+          "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
+          "On reaching 100 charges they convert into a Fury Buff increasing Attack by 230.8 lasting 10 seconds"
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
+          "Heimdall can have a maximum of 5 of these Buffs at a time."
+        ],
+        "TRUE SIGHT - PASSIVE": [
+          "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
+          "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 105.26 and last for 10 seconds",
+          "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
+          "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
+        ]
+      }
+    },
+    "5+4": {
+      "rank": 4,
+      "prestige": "5648",
+      "hp": "25174",
+      "attack": "1554",
+      "crit_rate": "203",
+      "crit_dmge": "648",
+      "armor": "179",
+      "block_prof": "3075",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 293.44 to 683.32 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
+        "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4.01 to 9% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/heimdall/tier/5",
+      "champid": "heimdall+5+4",
+      "challenger_rating": 110,
+      "abilities": {
+        "PASSIVE": [
+          "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
+          "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 878.57 lasting 10 seconds.",
+          "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
+          "On reaching 100 charges they convert into a Fury Buff increasing Attack by 310.8 lasting 10 seconds"
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
+          "Heimdall can have a maximum of 5 of these Buffs at a time."
+        ],
+        "TRUE SIGHT - PASSIVE": [
+          "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
+          "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 107.89 and last for 10 seconds",
+          "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
+          "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
+        ]
+      }
+    },
+    "5+5": {
+      "rank": 5,
+      "prestige": "7635",
+      "hp": "33989",
+      "attack": "2098",
+      "crit_rate": "208",
+      "crit_dmge": "664",
+      "armor": "208",
+      "block_prof": "3150",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 300.59 to 699.98 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
+        "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4.01 to 9% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/heimdall/tier/5",
+      "champid": "heimdall+5+5",
+      "challenger_rating": 120,
+      "abilities": {
+        "PASSIVE": [
+          "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
+          "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 900 lasting 10 seconds.",
+          "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
+          "On reaching 100 charges they convert into a Fury Buff increasing Attack by 419.6 lasting 10 seconds"
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
+          "Heimdall can have a maximum of 5 of these Buffs at a time."
+        ],
+        "TRUE SIGHT - PASSIVE": [
+          "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
+          "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 110.53 and last for 10 seconds",
+          "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
+          "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
+        ]
+      }
+    },
+    "6+1": {
+      "rank": 1,
+      "prestige": "5982",
+      "hp": "26727",
+      "attack": "1650",
+      "crit_rate": "203",
+      "crit_dmge": "648",
+      "armor": "108",
+      "block_prof": "3075",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 293.44 to 683.32 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
+        "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4.01 to 9% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/heimdall/tier/6",
+      "champid": "heimdall+6+1",
+      "challenger_rating": 110,
+      "abilities": {
+        "PASSIVE": [
+          "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
+          "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 878.57 lasting 10 seconds.",
+          "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
+          "On reaching 100 charges they convert into a Fury Buff increasing Attack by 330 lasting 10 seconds"
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
+          "Heimdall can have a maximum of 5 of these Buffs at a time."
+        ],
+        "TRUE SIGHT - PASSIVE": [
+          "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
+          "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 107.89 and last for 10 seconds",
+          "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
+          "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
+        ]
+      }
+    },
+    "6+2": {
+      "rank": 2,
+      "prestige": "8261",
+      "hp": "36917",
+      "attack": "2279",
+      "crit_rate": "208",
+      "crit_dmge": "664",
+      "armor": "135",
+      "block_prof": "3150",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 300.59 to 699.98 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
+        "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4.01 to 9% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/heimdall/tier/6",
+      "champid": "heimdall+6+2",
+      "challenger_rating": 120,
+      "abilities": {
+        "PASSIVE": [
+          "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
+          "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 900 lasting 10 seconds.",
+          "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
+          "On reaching 100 charges they convert into a Fury Buff increasing Attack by 455.8 lasting 10 seconds"
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
+          "Heimdall can have a maximum of 5 of these Buffs at a time."
+        ],
+        "TRUE SIGHT - PASSIVE": [
+          "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
+          "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 110.53 and last for 10 seconds",
+          "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
+          "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
+        ]
+      }
+    },
+    "6+3": {
+      "rank": 3,
+      "prestige": "9815",
+      "hp": "43797",
+      "attack": "2704",
+      "crit_rate": "213",
+      "crit_dmge": "679",
+      "armor": "162",
+      "block_prof": "3225",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 307.75 to 716.65 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
+        "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4.01 to 9% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/heimdall/tier/6",
+      "champid": "heimdall+6+3",
+      "challenger_rating": 130,
+      "abilities": {
+        "PASSIVE": [
+          "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
+          "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 921.43 lasting 10 seconds.",
+          "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
+          "On reaching 100 charges they convert into a Fury Buff increasing Attack by 540.8 lasting 10 seconds"
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
+          "Heimdall can have a maximum of 5 of these Buffs at a time."
+        ],
+        "TRUE SIGHT - PASSIVE": [
+          "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
+          "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 113.16 and last for 10 seconds",
+          "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
+          "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
+        ]
+      }
+    },
+    "6+4": {
+      "rank": 4,
+      "prestige": "11231",
+      "hp": "50119",
+      "attack": "3094",
+      "crit_rate": "218",
+      "crit_dmge": "695",
+      "armor": "192",
+      "block_prof": "3300",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Heimdall gains a 100% chance to trigger a Precision Buff increasing Critical Rating by 314.91 to 733.32 and lasting for 10 seconds, each time a True Strike Buff activates on him.",
+        "Heimdall converts all of the Buffs active on him at the end of the previous fight into Power. Start the fight with a Power Gain Buff granting 4.01 to 9% of his Max Power per Buff converted at the beginning of the fight, over 5 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/heimdall/tier/6",
+      "champid": "heimdall+6+4",
+      "challenger_rating": 140,
+      "abilities": {
+        "PASSIVE": [
+          "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
+          "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 942.86 lasting 10 seconds.",
+          "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
+          "On reaching 100 charges they convert into a Fury Buff increasing Attack by 618.8 lasting 10 seconds"
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
+          "Heimdall can have a maximum of 5 of these Buffs at a time."
+        ],
+        "TRUE SIGHT - PASSIVE": [
+          "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
+          "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 115.79 and last for 10 seconds",
+          "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
+          "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
+        ]
+      }
+    },
+    "1+1": {
+      "rank": 1,
+      "prestige": 220,
+      "hp": 950,
+      "attack": 59,
+      "crit_rate": 154,
+      "crit_dmge": 490,
+      "armor": 82,
+      "block_prof": 2325,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/heimdall/tier/1",
+      "champid": "heimdall+1+1",
+      "challenger_rating": 10,
+      "abilities": {
+        "PASSIVE": [
+          "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
+          "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 664.29 lasting 10 seconds.",
+          "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
+          "On reaching 100 charges they convert into a Fury Buff increasing Attack by 11.8 lasting 10 seconds"
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
+          "Heimdall can have a maximum of 5 of these Buffs at a time."
+        ],
+        "TRUE SIGHT - PASSIVE": [
+          "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
+          "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 81.58 and last for 10 seconds",
+          "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
+          "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
+        ]
+      }
+    },
+    "1+2": {
+      "rank": 2,
+      "prestige": 300,
+      "hp": 1314,
+      "attack": 82,
+      "crit_rate": 159,
+      "crit_dmge": 506,
+      "armor": 103,
+      "block_prof": 2400,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/heimdall/tier/1",
+      "champid": "heimdall+1+2",
+      "challenger_rating": 20,
+      "abilities": {
+        "PASSIVE": [
+          "When Struck by or Blocking an Opponent\u2019s attack, Heimdall gains Passive Armor Charges.",
+          "On Reaching 100 charges they convert into an Armor Up Buff increasing Armor by 685.71 lasting 10 seconds.",
+          "When Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges",
+          "On reaching 100 charges they convert into a Fury Buff increasing Attack by 16.4 lasting 10 seconds"
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Convert 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall\u2019s abilities, into one with an infinite Duration.",
+          "Heimdall can have a maximum of 5 of these Buffs at a time."
+        ],
+        "TRUE SIGHT - PASSIVE": [
+          "Every time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn\u2019t already have one active. This Buff is lost if Heimdall is Struck.",
+          "While True Strike is active Heimdall\u2019s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against non-contact attacks, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 84.21 and last for 10 seconds",
+          "100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% Chance to be Unblockable if you have least 1 Armor Up Buff.",
+          "100% Chance to Stun for 2.50 seconds if you have at least 1 Fury Buff."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
+        ]
+      }
+    },
+    "find": {
+      "story_quests": {
+        "act_1": [],
+        "act_2": ["2.1.6"],
+        "act_3": ["3.1.5", "3.1.6"],
+        "act_4": [],
+        "act_5": [],
+        "act_6": [
+          "6.1.2",
+          "6.1.4",
+          "6.1.5",
+          "6.1.6",
+          "6.2.1",
+          "6.2.2",
+          "6.2.5",
+          "6.2.6",
+          "6.3.2",
+          "6.3.3",
+          "6.3.4",
+          "6.3.5",
+          "6.4.2",
+          "6.4.3",
+          "6.4.6"
+        ],
+        "act_7": ["7.1.2", "7.1.4", "7.1.5", "7.2.4", "7.3.2", "7.3.6", "7.4.4"]
+      }
     }
+  },
+  "name": "HEIMDALL",
+  "class": "Cosmic",
+  "img_portrait": "https://api.rexians.tk/assets/portraits/heimdall.png",
+  "contact": "PHYSICAL",
+  "tags": ["Hero", "Size: L"],
+  "released": "8/16/2018"
 }

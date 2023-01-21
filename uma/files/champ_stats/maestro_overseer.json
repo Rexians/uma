@@ -1,1207 +1,1304 @@
 {
-    "name": "THE OVERSEER",
-    "class": "Science",
-    "img_portrait": "https://api.rexians.tk/assets/portraits/maestro_overseer.png",
-    "contact": "PHYSICAL",
-    "tags": [
-        "Size: XL"
-    ],
-    "released": "6/24/2021",
-    "champid": "maestro_overseer",
-    "data": {
-        "2+1": {
-            "rank": 1,
-            "prestige": "274",
-            "hp": "1208",
-            "attack": "84",
-            "crit_rate": "261",
-            "crit_dmge": "400",
-            "armor": "121",
-            "block_prof": "3457",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 4.2 to 25.2 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
-                "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 8.4 to 67.2 Physical Damage. This effect has a 1 second cooldown."
-            ],
-            "url_page": "https://auntm.ai/champions/maestro_overseer/tier/2",
-            "champid": "maestro_overseer+2+1",
-            "challenger_rating": 20,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Immune to Nullify, Fateseal and Stagger effects.",
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMMA POWER": [
-                    "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 12.6 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
-                ],
-                "COSMIC MODE": [
-                    "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
-                    "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 21 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
-                    "Light Attacks deal a Burst of 55.44 Physical Damage."
-                ],
-                "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
-                    "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
-                    "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
-                ],
-                "HEAVY ATTACKS": [
-                    "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
-                ],
-                "AFTER A SPECIAL - CAP\u2019S SHIELD": [
-                    "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
-                    "The Overseer is Stun immune while Auto-Block is active."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflict a Stun Debuff for 1.50 second(s).",
-                    "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
-                    "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 533.33 for 20 seconds."
-                ]
-            }
-        },
-        "2+2": {
-            "rank": 2,
-            "prestige": "360",
-            "hp": "1596",
-            "attack": "111",
-            "crit_rate": "269",
-            "crit_dmge": "413",
-            "armor": "144",
-            "block_prof": "3565",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 5.55 to 33.3 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
-                "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 11.1 to 88.8 Physical Damage. This effect has a 1 second cooldown."
-            ],
-            "url_page": "https://auntm.ai/champions/maestro_overseer/tier/2",
-            "champid": "maestro_overseer+2+2",
-            "challenger_rating": 30,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Immune to Nullify, Fateseal and Stagger effects.",
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMMA POWER": [
-                    "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 16.65 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
-                ],
-                "COSMIC MODE": [
-                    "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
-                    "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 27.75 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
-                    "Light Attacks deal a Burst of 73.26 Physical Damage."
-                ],
-                "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
-                    "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
-                    "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
-                ],
-                "HEAVY ATTACKS": [
-                    "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
-                ],
-                "AFTER A SPECIAL - CAP\u2019S SHIELD": [
-                    "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
-                    "The Overseer is Stun immune while Auto-Block is active."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflict a Stun Debuff for 1.50 second(s).",
-                    "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
-                    "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 550 for 20 seconds."
-                ]
-            }
-        },
-        "2+3": {
-            "rank": 3,
-            "prestige": "570",
-            "hp": "2533",
-            "attack": "176",
-            "crit_rate": "277",
-            "crit_dmge": "425",
-            "armor": "169",
-            "block_prof": "3673",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 8.8 to 52.8 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
-                "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 17.6 to 140.8 Physical Damage. This effect has a 1 second cooldown."
-            ],
-            "url_page": "https://auntm.ai/champions/maestro_overseer/tier/2",
-            "champid": "maestro_overseer+2+3",
-            "challenger_rating": 40,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Immune to Nullify, Fateseal and Stagger effects.",
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMMA POWER": [
-                    "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 26.4 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
-                ],
-                "COSMIC MODE": [
-                    "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
-                    "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 44 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
-                    "Light Attacks deal a Burst of 116.16 Physical Damage."
-                ],
-                "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
-                    "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
-                    "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
-                ],
-                "HEAVY ATTACKS": [
-                    "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
-                ],
-                "AFTER A SPECIAL - CAP\u2019S SHIELD": [
-                    "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
-                    "The Overseer is Stun immune while Auto-Block is active."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflict a Stun Debuff for 1.50 second(s).",
-                    "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
-                    "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 566.67 for 20 seconds."
-                ]
-            }
-        },
-        "3+1": {
-            "rank": 1,
-            "prestige": "495",
-            "hp": "2190",
-            "attack": "152",
-            "crit_rate": "277",
-            "crit_dmge": "425",
-            "armor": "128",
-            "block_prof": "3673",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 7.6 to 45.6 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
-                "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 15.2 to 121.6 Physical Damage. This effect has a 1 second cooldown."
-            ],
-            "url_page": "https://auntm.ai/champions/maestro_overseer/tier/3",
-            "champid": "maestro_overseer+3+1",
-            "challenger_rating": 40,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Immune to Nullify, Fateseal and Stagger effects.",
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMMA POWER": [
-                    "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 22.8 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
-                ],
-                "COSMIC MODE": [
-                    "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
-                    "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 38 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
-                    "Light Attacks deal a Burst of 100.32 Physical Damage."
-                ],
-                "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
-                    "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
-                    "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
-                ],
-                "HEAVY ATTACKS": [
-                    "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
-                ],
-                "AFTER A SPECIAL - CAP\u2019S SHIELD": [
-                    "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
-                    "The Overseer is Stun immune while Auto-Block is active."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflict a Stun Debuff for 1.50 second(s).",
-                    "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
-                    "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 566.67 for 20 seconds."
-                ]
-            }
-        },
-        "3+2": {
-            "rank": 2,
-            "prestige": "791",
-            "hp": "3504",
-            "attack": "243",
-            "crit_rate": "285",
-            "crit_dmge": "438",
-            "armor": "153",
-            "block_prof": "3781",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 12.15 to 72.9 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
-                "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 24.3 to 194.39 Physical Damage. This effect has a 1 second cooldown."
-            ],
-            "url_page": "https://auntm.ai/champions/maestro_overseer/tier/3",
-            "champid": "maestro_overseer+3+2",
-            "challenger_rating": 50,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Immune to Nullify, Fateseal and Stagger effects.",
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMMA POWER": [
-                    "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 36.45 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
-                ],
-                "COSMIC MODE": [
-                    "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
-                    "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 60.75 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
-                    "Light Attacks deal a Burst of 160.38 Physical Damage."
-                ],
-                "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
-                    "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
-                    "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
-                ],
-                "HEAVY ATTACKS": [
-                    "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
-                ],
-                "AFTER A SPECIAL - CAP\u2019S SHIELD": [
-                    "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
-                    "The Overseer is Stun immune while Auto-Block is active."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflict a Stun Debuff for 1.50 second(s).",
-                    "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
-                    "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 583.33 for 20 seconds."
-                ]
-            }
-        },
-        "3+3": {
-            "rank": 3,
-            "prestige": "1104",
-            "hp": "4901",
-            "attack": "340",
-            "crit_rate": "294",
-            "crit_dmge": "450",
-            "armor": "179",
-            "block_prof": "3890",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 17 to 102.01 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
-                "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 34 to 271.99 Physical Damage. This effect has a 1 second cooldown."
-            ],
-            "url_page": "https://auntm.ai/champions/maestro_overseer/tier/3",
-            "champid": "maestro_overseer+3+3",
-            "challenger_rating": 60,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Immune to Nullify, Fateseal and Stagger effects.",
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMMA POWER": [
-                    "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 51 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
-                ],
-                "COSMIC MODE": [
-                    "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
-                    "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 85 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
-                    "Light Attacks deal a Burst of 224.4 Physical Damage."
-                ],
-                "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
-                    "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
-                    "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
-                ],
-                "HEAVY ATTACKS": [
-                    "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
-                ],
-                "AFTER A SPECIAL - CAP\u2019S SHIELD": [
-                    "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
-                    "The Overseer is Stun immune while Auto-Block is active."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflict a Stun Debuff for 1.50 second(s).",
-                    "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
-                    "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 600 for 20 seconds."
-                ]
-            }
-        },
-        "3+4": {
-            "rank": 4,
-            "prestige": "1522",
-            "hp": "6730",
-            "attack": "467",
-            "crit_rate": "302",
-            "crit_dmge": "463",
-            "armor": "206",
-            "block_prof": "3998",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 23.35 to 140.11 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
-                "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 46.7 to 373.59 Physical Damage. This effect has a 1 second cooldown."
-            ],
-            "url_page": "https://auntm.ai/champions/maestro_overseer/tier/3",
-            "champid": "maestro_overseer+3+4",
-            "challenger_rating": 70,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Immune to Nullify, Fateseal and Stagger effects.",
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMMA POWER": [
-                    "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 70.05 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
-                ],
-                "COSMIC MODE": [
-                    "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
-                    "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 116.75 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
-                    "Light Attacks deal a Burst of 308.22 Physical Damage."
-                ],
-                "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
-                    "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
-                    "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
-                ],
-                "HEAVY ATTACKS": [
-                    "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
-                ],
-                "AFTER A SPECIAL - CAP\u2019S SHIELD": [
-                    "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
-                    "The Overseer is Stun immune while Auto-Block is active."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflict a Stun Debuff for 1.50 second(s).",
-                    "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
-                    "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 616.67 for 20 seconds."
-                ]
-            }
-        },
-        "4+1": {
-            "rank": 1,
-            "prestige": "1108",
-            "hp": "4898",
-            "attack": "340",
-            "crit_rate": "294",
-            "crit_dmge": "450",
-            "armor": "223",
-            "block_prof": "3890",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 17 to 102.01 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
-                "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 34 to 271.99 Physical Damage. This effect has a 1 second cooldown."
-            ],
-            "url_page": "https://auntm.ai/champions/maestro_overseer/tier/4",
-            "champid": "maestro_overseer+4+1",
-            "challenger_rating": 60,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Immune to Nullify, Fateseal and Stagger effects.",
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMMA POWER": [
-                    "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 51 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
-                ],
-                "COSMIC MODE": [
-                    "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
-                    "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 85 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
-                    "Light Attacks deal a Burst of 224.4 Physical Damage."
-                ],
-                "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
-                    "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
-                    "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
-                ],
-                "HEAVY ATTACKS": [
-                    "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
-                ],
-                "AFTER A SPECIAL - CAP\u2019S SHIELD": [
-                    "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
-                    "The Overseer is Stun immune while Auto-Block is active."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflict a Stun Debuff for 1.50 second(s).",
-                    "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
-                    "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 600 for 20 seconds."
-                ]
-            }
-        },
-        "4+2": {
-            "rank": 2,
-            "prestige": "1557",
-            "hp": "6870",
-            "attack": "477",
-            "crit_rate": "302",
-            "crit_dmge": "463",
-            "armor": "253",
-            "block_prof": "3998",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 23.85 to 143.11 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
-                "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 47.7 to 381.59 Physical Damage. This effect has a 1 second cooldown."
-            ],
-            "url_page": "https://auntm.ai/champions/maestro_overseer/tier/4",
-            "champid": "maestro_overseer+4+2",
-            "challenger_rating": 70,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Immune to Nullify, Fateseal and Stagger effects.",
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMMA POWER": [
-                    "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 71.55 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
-                ],
-                "COSMIC MODE": [
-                    "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
-                    "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 119.25 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
-                    "Light Attacks deal a Burst of 314.82 Physical Damage."
-                ],
-                "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
-                    "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
-                    "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
-                ],
-                "HEAVY ATTACKS": [
-                    "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
-                ],
-                "AFTER A SPECIAL - CAP\u2019S SHIELD": [
-                    "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
-                    "The Overseer is Stun immune while Auto-Block is active."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflict a Stun Debuff for 1.50 second(s).",
-                    "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
-                    "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 616.67 for 20 seconds."
-                ]
-            }
-        },
-        "4+3": {
-            "rank": 3,
-            "prestige": "2181",
-            "hp": "9626",
-            "attack": "668",
-            "crit_rate": "310",
-            "crit_dmge": "475",
-            "armor": "284",
-            "block_prof": "4106",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 33.4 to 200.41 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
-                "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 66.8 to 534.38 Physical Damage. This effect has a 1 second cooldown."
-            ],
-            "url_page": "https://auntm.ai/champions/maestro_overseer/tier/4",
-            "champid": "maestro_overseer+4+3",
-            "challenger_rating": 80,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Immune to Nullify, Fateseal and Stagger effects.",
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMMA POWER": [
-                    "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 100.2 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
-                ],
-                "COSMIC MODE": [
-                    "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
-                    "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 167 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
-                    "Light Attacks deal a Burst of 440.88 Physical Damage."
-                ],
-                "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
-                    "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
-                    "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
-                ],
-                "HEAVY ATTACKS": [
-                    "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
-                ],
-                "AFTER A SPECIAL - CAP\u2019S SHIELD": [
-                    "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
-                    "The Overseer is Stun immune while Auto-Block is active."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflict a Stun Debuff for 1.50 second(s).",
-                    "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
-                    "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 633.33 for 20 seconds."
-                ]
-            }
-        },
-        "4+4": {
-            "rank": 4,
-            "prestige": "2870",
-            "hp": "12648",
-            "attack": "877",
-            "crit_rate": "318",
-            "crit_dmge": "488",
-            "armor": "318",
-            "block_prof": "4214",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 43.85 to 263.12 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
-                "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 87.7 to 701.58 Physical Damage. This effect has a 1 second cooldown."
-            ],
-            "url_page": "https://auntm.ai/champions/maestro_overseer/tier/4",
-            "champid": "maestro_overseer+4+4",
-            "challenger_rating": 90,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Immune to Nullify, Fateseal and Stagger effects.",
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMMA POWER": [
-                    "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 131.55 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
-                ],
-                "COSMIC MODE": [
-                    "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
-                    "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 219.25 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
-                    "Light Attacks deal a Burst of 578.82 Physical Damage."
-                ],
-                "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
-                    "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
-                    "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
-                ],
-                "HEAVY ATTACKS": [
-                    "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
-                ],
-                "AFTER A SPECIAL - CAP\u2019S SHIELD": [
-                    "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
-                    "The Overseer is Stun immune while Auto-Block is active."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflict a Stun Debuff for 1.50 second(s).",
-                    "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
-                    "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 650 for 20 seconds."
-                ]
-            }
-        },
-        "4+5": {
-            "rank": 5,
-            "prestige": "3829",
-            "hp": "16876",
-            "attack": "1171",
-            "crit_rate": "326",
-            "crit_dmge": "500",
-            "armor": "353",
-            "block_prof": "4322",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 58.55 to 351.32 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
-                "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 117.1 to 936.77 Physical Damage. This effect has a 1 second cooldown."
-            ],
-            "url_page": "https://auntm.ai/champions/maestro_overseer/tier/4",
-            "champid": "maestro_overseer+4+5",
-            "challenger_rating": 100,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Immune to Nullify, Fateseal and Stagger effects.",
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMMA POWER": [
-                    "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 175.65 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
-                ],
-                "COSMIC MODE": [
-                    "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
-                    "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 292.75 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
-                    "Light Attacks deal a Burst of 772.86 Physical Damage."
-                ],
-                "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
-                    "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
-                    "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
-                ],
-                "HEAVY ATTACKS": [
-                    "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
-                ],
-                "AFTER A SPECIAL - CAP\u2019S SHIELD": [
-                    "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
-                    "The Overseer is Stun immune while Auto-Block is active."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflict a Stun Debuff for 1.50 second(s).",
-                    "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
-                    "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 666.67 for 20 seconds."
-                ]
-            }
-        },
-        "5+1": {
-            "rank": 1,
-            "prestige": "2293",
-            "hp": "10071",
-            "attack": "699",
-            "crit_rate": "310",
-            "crit_dmge": "475",
-            "armor": "446",
-            "block_prof": "4106",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 42.76 to 279.6 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
-                "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 89.99 to 699 Physical Damage. This effect has a 1 second cooldown."
-            ],
-            "url_page": "https://auntm.ai/champions/maestro_overseer/tier/5",
-            "champid": "maestro_overseer+5+1",
-            "challenger_rating": 80,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Immune to Nullify, Fateseal and Stagger effects.",
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMMA POWER": [
-                    "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 104.85 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
-                ],
-                "COSMIC MODE": [
-                    "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
-                    "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 174.75 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
-                    "Light Attacks deal a Burst of 461.34 Physical Damage."
-                ],
-                "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
-                    "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
-                    "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
-                ],
-                "HEAVY ATTACKS": [
-                    "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
-                ],
-                "AFTER A SPECIAL - CAP\u2019S SHIELD": [
-                    "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
-                    "The Overseer is Stun immune while Auto-Block is active."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflict a Stun Debuff for 1.50 second(s).",
-                    "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
-                    "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 633.33 for 20 seconds."
-                ]
-            }
-        },
-        "5+2": {
-            "rank": 2,
-            "prestige": "3028",
-            "hp": "13304",
-            "attack": "923",
-            "crit_rate": "318",
-            "crit_dmge": "488",
-            "armor": "488",
-            "block_prof": "4214",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 56.47 to 369.2 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
-                "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 118.83 to 923 Physical Damage. This effect has a 1 second cooldown."
-            ],
-            "url_page": "https://auntm.ai/champions/maestro_overseer/tier/5",
-            "champid": "maestro_overseer+5+2",
-            "challenger_rating": 90,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Immune to Nullify, Fateseal and Stagger effects.",
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMMA POWER": [
-                    "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 138.45 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
-                ],
-                "COSMIC MODE": [
-                    "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
-                    "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 230.75 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
-                    "Light Attacks deal a Burst of 609.18 Physical Damage."
-                ],
-                "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
-                    "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
-                    "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
-                ],
-                "HEAVY ATTACKS": [
-                    "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
-                ],
-                "AFTER A SPECIAL - CAP\u2019S SHIELD": [
-                    "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
-                    "The Overseer is Stun immune while Auto-Block is active."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflict a Stun Debuff for 1.50 second(s).",
-                    "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
-                    "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 650 for 20 seconds."
-                ]
-            }
-        },
-        "5+3": {
-            "rank": 3,
-            "prestige": "4244",
-            "hp": "18598",
-            "attack": "1290",
-            "crit_rate": "326",
-            "crit_dmge": "500",
-            "armor": "532",
-            "block_prof": "4322",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 78.92 to 516 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
-                "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 166.08 to 1290 Physical Damage. This effect has a 1 second cooldown."
-            ],
-            "url_page": "https://auntm.ai/champions/maestro_overseer/tier/5",
-            "champid": "maestro_overseer+5+3",
-            "challenger_rating": 100,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Immune to Nullify, Fateseal and Stagger effects.",
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMMA POWER": [
-                    "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 193.5 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
-                ],
-                "COSMIC MODE": [
-                    "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
-                    "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 322.5 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
-                    "Light Attacks deal a Burst of 851.4 Physical Damage."
-                ],
-                "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
-                    "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
-                    "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
-                ],
-                "HEAVY ATTACKS": [
-                    "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
-                ],
-                "AFTER A SPECIAL - CAP\u2019S SHIELD": [
-                    "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
-                    "The Overseer is Stun immune while Auto-Block is active."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflict a Stun Debuff for 1.50 second(s).",
-                    "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
-                    "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 666.67 for 20 seconds."
-                ]
-            }
-        },
-        "5+4": {
-            "rank": 4,
-            "prestige": "5717",
-            "hp": "25061",
-            "attack": "1738",
-            "crit_rate": "334",
-            "crit_dmge": "513",
-            "armor": "579",
-            "block_prof": "4430",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 106.33 to 695.21 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
-                "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 223.76 to 1737.99 Physical Damage. This effect has a 1 second cooldown."
-            ],
-            "url_page": "https://auntm.ai/champions/maestro_overseer/tier/5",
-            "champid": "maestro_overseer+5+4",
-            "challenger_rating": 110,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Immune to Nullify, Fateseal and Stagger effects.",
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMMA POWER": [
-                    "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 260.7 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
-                ],
-                "COSMIC MODE": [
-                    "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
-                    "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 434.5 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
-                    "Light Attacks deal a Burst of 1147.08 Physical Damage."
-                ],
-                "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
-                    "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
-                    "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
-                ],
-                "HEAVY ATTACKS": [
-                    "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
-                ],
-                "AFTER A SPECIAL - CAP\u2019S SHIELD": [
-                    "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
-                    "The Overseer is Stun immune while Auto-Block is active."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflict a Stun Debuff for 1.50 second(s).",
-                    "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
-                    "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 683.33 for 20 seconds."
-                ]
-            }
-        },
-        "5+5": {
-            "rank": 5,
-            "prestige": "7738",
-            "hp": "33837",
-            "attack": "2346",
-            "crit_rate": "342",
-            "crit_dmge": "525",
-            "armor": "628",
-            "block_prof": "4538",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 143.53 to 938.41 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
-                "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 302.04 to 2345.99 Physical Damage. This effect has a 1 second cooldown."
-            ],
-            "url_page": "https://auntm.ai/champions/maestro_overseer/tier/5",
-            "champid": "maestro_overseer+5+5",
-            "challenger_rating": 120,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Immune to Nullify, Fateseal and Stagger effects.",
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMMA POWER": [
-                    "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 351.9 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
-                ],
-                "COSMIC MODE": [
-                    "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
-                    "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 586.5 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
-                    "Light Attacks deal a Burst of 1548.36 Physical Damage."
-                ],
-                "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
-                    "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
-                    "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
-                ],
-                "HEAVY ATTACKS": [
-                    "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
-                ],
-                "AFTER A SPECIAL - CAP\u2019S SHIELD": [
-                    "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
-                    "The Overseer is Stun immune while Auto-Block is active."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflict a Stun Debuff for 1.50 second(s).",
-                    "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
-                    "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 700 for 20 seconds."
-                ]
-            }
-        },
-        "6+1": {
-            "rank": 1,
-            "prestige": "6052",
-            "hp": "26607",
-            "attack": "1845",
-            "crit_rate": "334",
-            "crit_dmge": "513",
-            "armor": "481",
-            "block_prof": "4430",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 112.88 to 738.01 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
-                "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 237.54 to 1844.99 Physical Damage. This effect has a 1 second cooldown."
-            ],
-            "url_page": "https://auntm.ai/champions/maestro_overseer/tier/6",
-            "champid": "maestro_overseer+6+1",
-            "challenger_rating": 110,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Immune to Nullify, Fateseal and Stagger effects.",
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMMA POWER": [
-                    "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 276.75 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
-                ],
-                "COSMIC MODE": [
-                    "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
-                    "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 461.25 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
-                    "Light Attacks deal a Burst of 1217.7 Physical Damage."
-                ],
-                "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
-                    "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
-                    "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
-                ],
-                "HEAVY ATTACKS": [
-                    "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
-                ],
-                "AFTER A SPECIAL - CAP\u2019S SHIELD": [
-                    "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
-                    "The Overseer is Stun immune while Auto-Block is active."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflict a Stun Debuff for 1.50 second(s).",
-                    "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
-                    "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 683.33 for 20 seconds."
-                ]
-            }
-        },
-        "6+2": {
-            "rank": 2,
-            "prestige": "8360",
-            "hp": "36752",
-            "attack": "2549",
-            "crit_rate": "342",
-            "crit_dmge": "525",
-            "armor": "525",
-            "block_prof": "4538",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 155.95 to 1019.61 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
-                "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 328.17 to 2548.99 Physical Damage. This effect has a 1 second cooldown."
-            ],
-            "url_page": "https://auntm.ai/champions/maestro_overseer/tier/6",
-            "champid": "maestro_overseer+6+2",
-            "challenger_rating": 120,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Immune to Nullify, Fateseal and Stagger effects.",
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMMA POWER": [
-                    "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 382.35 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
-                ],
-                "COSMIC MODE": [
-                    "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
-                    "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 637.25 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
-                    "Light Attacks deal a Burst of 1682.34 Physical Damage."
-                ],
-                "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
-                    "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
-                    "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
-                ],
-                "HEAVY ATTACKS": [
-                    "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
-                ],
-                "AFTER A SPECIAL - CAP\u2019S SHIELD": [
-                    "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
-                    "The Overseer is Stun immune while Auto-Block is active."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflict a Stun Debuff for 1.50 second(s).",
-                    "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
-                    "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 700 for 20 seconds."
-                ]
-            }
-        },
-        "6+3": {
-            "rank": 3,
-            "prestige": "9944",
-            "hp": "43600",
-            "attack": "3023",
-            "crit_rate": "351",
-            "crit_dmge": "538",
-            "armor": "572",
-            "block_prof": "4646",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 184.94 to 1209.21 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
-                "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 389.2 to 3022.99 Physical Damage. This effect has a 1 second cooldown."
-            ],
-            "url_page": "https://auntm.ai/champions/maestro_overseer/tier/6",
-            "champid": "maestro_overseer+6+3",
-            "challenger_rating": 130,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Immune to Nullify, Fateseal and Stagger effects.",
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMMA POWER": [
-                    "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 453.45 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
-                ],
-                "COSMIC MODE": [
-                    "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
-                    "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 755.75 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
-                    "Light Attacks deal a Burst of 1995.18 Physical Damage."
-                ],
-                "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
-                    "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
-                    "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
-                ],
-                "HEAVY ATTACKS": [
-                    "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
-                ],
-                "AFTER A SPECIAL - CAP\u2019S SHIELD": [
-                    "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
-                    "The Overseer is Stun immune while Auto-Block is active."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflict a Stun Debuff for 1.50 second(s).",
-                    "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
-                    "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 716.67 for 20 seconds."
-                ]
-            }
-        },
-        "6+4": {
-            "rank": 4,
-            "prestige": "11381",
-            "hp": "49894",
-            "attack": "3460",
-            "crit_rate": "359",
-            "crit_dmge": "550",
-            "armor": "621",
-            "block_prof": "4754",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 211.68 to 1384.01 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
-                "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 445.46 to 3459.99 Physical Damage. This effect has a 1 second cooldown."
-            ],
-            "url_page": "https://auntm.ai/champions/maestro_overseer/tier/6",
-            "champid": "maestro_overseer+6+4",
-            "challenger_rating": 140,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Immune to Nullify, Fateseal and Stagger effects.",
-                    "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
-                ],
-                "GAMMA POWER": [
-                    "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 519 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
-                ],
-                "COSMIC MODE": [
-                    "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
-                    "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 865 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
-                    "Light Attacks deal a Burst of 2283.6 Physical Damage."
-                ],
-                "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
-                    "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
-                    "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
-                ],
-                "HEAVY ATTACKS": [
-                    "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
-                ],
-                "AFTER A SPECIAL - CAP\u2019S SHIELD": [
-                    "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
-                    "The Overseer is Stun immune while Auto-Block is active."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflict a Stun Debuff for 1.50 second(s).",
-                    "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
-                    "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 733.33 for 20 seconds."
-                ]
-            }
-        },
-        "find": {
-            "story_quests": {
-                "act_1": [],
-                "act_2": [],
-                "act_3": [
-                    "3.2.6"
-                ],
-                "act_4": [],
-                "act_5": [],
-                "act_6": [],
-                "act_7": [
-                    "7.3.3",
-                    "7.3.6",
-                    "7.4.5",
-                    "7.4.6"
-                ]
-            }
-        }
+  "champid": "maestro_overseer",
+  "data": {
+    "2+1": {
+      "rank": 1,
+      "prestige": "274",
+      "hp": "1208",
+      "attack": "84",
+      "crit_rate": "261",
+      "crit_dmge": "400",
+      "armor": "121",
+      "block_prof": "3457",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 4.2 to 25.2 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
+        "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 8.4 to 67.2 Physical Damage. This effect has a 1 second cooldown."
+      ],
+      "url_page": "https://auntm.ai/champions/maestro_overseer/tier/2",
+      "champid": "maestro_overseer+2+1",
+      "challenger_rating": 20,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Immune to Nullify, Fateseal and Stagger effects.",
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMMA POWER": [
+          "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 12.6 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
+        ],
+        "COSMIC MODE": [
+          "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
+          "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 21 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
+          "Light Attacks deal a Burst of 55.44 Physical Damage."
+        ],
+        "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
+          "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
+          "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
+        ],
+        "HEAVY ATTACKS": [
+          "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
+        ],
+        "AFTER A SPECIAL - CAP\u2019S SHIELD": [
+          "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
+          "The Overseer is Stun immune while Auto-Block is active."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflict a Stun Debuff for 1.50 second(s).",
+          "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
+          "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 533.33 for 20 seconds."
+        ]
+      }
+    },
+    "2+2": {
+      "rank": 2,
+      "prestige": "360",
+      "hp": "1596",
+      "attack": "111",
+      "crit_rate": "269",
+      "crit_dmge": "413",
+      "armor": "144",
+      "block_prof": "3565",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 5.55 to 33.3 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
+        "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 11.1 to 88.8 Physical Damage. This effect has a 1 second cooldown."
+      ],
+      "url_page": "https://auntm.ai/champions/maestro_overseer/tier/2",
+      "champid": "maestro_overseer+2+2",
+      "challenger_rating": 30,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Immune to Nullify, Fateseal and Stagger effects.",
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMMA POWER": [
+          "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 16.65 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
+        ],
+        "COSMIC MODE": [
+          "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
+          "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 27.75 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
+          "Light Attacks deal a Burst of 73.26 Physical Damage."
+        ],
+        "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
+          "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
+          "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
+        ],
+        "HEAVY ATTACKS": [
+          "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
+        ],
+        "AFTER A SPECIAL - CAP\u2019S SHIELD": [
+          "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
+          "The Overseer is Stun immune while Auto-Block is active."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflict a Stun Debuff for 1.50 second(s).",
+          "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
+          "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 550 for 20 seconds."
+        ]
+      }
+    },
+    "2+3": {
+      "rank": 3,
+      "prestige": "570",
+      "hp": "2533",
+      "attack": "176",
+      "crit_rate": "277",
+      "crit_dmge": "425",
+      "armor": "169",
+      "block_prof": "3673",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 8.8 to 52.8 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
+        "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 17.6 to 140.8 Physical Damage. This effect has a 1 second cooldown."
+      ],
+      "url_page": "https://auntm.ai/champions/maestro_overseer/tier/2",
+      "champid": "maestro_overseer+2+3",
+      "challenger_rating": 40,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Immune to Nullify, Fateseal and Stagger effects.",
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMMA POWER": [
+          "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 26.4 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
+        ],
+        "COSMIC MODE": [
+          "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
+          "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 44 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
+          "Light Attacks deal a Burst of 116.16 Physical Damage."
+        ],
+        "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
+          "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
+          "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
+        ],
+        "HEAVY ATTACKS": [
+          "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
+        ],
+        "AFTER A SPECIAL - CAP\u2019S SHIELD": [
+          "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
+          "The Overseer is Stun immune while Auto-Block is active."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflict a Stun Debuff for 1.50 second(s).",
+          "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
+          "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 566.67 for 20 seconds."
+        ]
+      }
+    },
+    "3+1": {
+      "rank": 1,
+      "prestige": "495",
+      "hp": "2190",
+      "attack": "152",
+      "crit_rate": "277",
+      "crit_dmge": "425",
+      "armor": "128",
+      "block_prof": "3673",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 7.6 to 45.6 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
+        "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 15.2 to 121.6 Physical Damage. This effect has a 1 second cooldown."
+      ],
+      "url_page": "https://auntm.ai/champions/maestro_overseer/tier/3",
+      "champid": "maestro_overseer+3+1",
+      "challenger_rating": 40,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Immune to Nullify, Fateseal and Stagger effects.",
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMMA POWER": [
+          "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 22.8 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
+        ],
+        "COSMIC MODE": [
+          "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
+          "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 38 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
+          "Light Attacks deal a Burst of 100.32 Physical Damage."
+        ],
+        "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
+          "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
+          "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
+        ],
+        "HEAVY ATTACKS": [
+          "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
+        ],
+        "AFTER A SPECIAL - CAP\u2019S SHIELD": [
+          "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
+          "The Overseer is Stun immune while Auto-Block is active."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflict a Stun Debuff for 1.50 second(s).",
+          "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
+          "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 566.67 for 20 seconds."
+        ]
+      }
+    },
+    "3+2": {
+      "rank": 2,
+      "prestige": "791",
+      "hp": "3504",
+      "attack": "243",
+      "crit_rate": "285",
+      "crit_dmge": "438",
+      "armor": "153",
+      "block_prof": "3781",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 12.15 to 72.9 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
+        "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 24.3 to 194.39 Physical Damage. This effect has a 1 second cooldown."
+      ],
+      "url_page": "https://auntm.ai/champions/maestro_overseer/tier/3",
+      "champid": "maestro_overseer+3+2",
+      "challenger_rating": 50,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Immune to Nullify, Fateseal and Stagger effects.",
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMMA POWER": [
+          "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 36.45 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
+        ],
+        "COSMIC MODE": [
+          "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
+          "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 60.75 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
+          "Light Attacks deal a Burst of 160.38 Physical Damage."
+        ],
+        "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
+          "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
+          "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
+        ],
+        "HEAVY ATTACKS": [
+          "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
+        ],
+        "AFTER A SPECIAL - CAP\u2019S SHIELD": [
+          "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
+          "The Overseer is Stun immune while Auto-Block is active."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflict a Stun Debuff for 1.50 second(s).",
+          "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
+          "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 583.33 for 20 seconds."
+        ]
+      }
+    },
+    "3+3": {
+      "rank": 3,
+      "prestige": "1104",
+      "hp": "4901",
+      "attack": "340",
+      "crit_rate": "294",
+      "crit_dmge": "450",
+      "armor": "179",
+      "block_prof": "3890",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 17 to 102.01 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
+        "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 34 to 271.99 Physical Damage. This effect has a 1 second cooldown."
+      ],
+      "url_page": "https://auntm.ai/champions/maestro_overseer/tier/3",
+      "champid": "maestro_overseer+3+3",
+      "challenger_rating": 60,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Immune to Nullify, Fateseal and Stagger effects.",
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMMA POWER": [
+          "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 51 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
+        ],
+        "COSMIC MODE": [
+          "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
+          "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 85 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
+          "Light Attacks deal a Burst of 224.4 Physical Damage."
+        ],
+        "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
+          "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
+          "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
+        ],
+        "HEAVY ATTACKS": [
+          "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
+        ],
+        "AFTER A SPECIAL - CAP\u2019S SHIELD": [
+          "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
+          "The Overseer is Stun immune while Auto-Block is active."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflict a Stun Debuff for 1.50 second(s).",
+          "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
+          "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 600 for 20 seconds."
+        ]
+      }
+    },
+    "3+4": {
+      "rank": 4,
+      "prestige": "1522",
+      "hp": "6730",
+      "attack": "467",
+      "crit_rate": "302",
+      "crit_dmge": "463",
+      "armor": "206",
+      "block_prof": "3998",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 23.35 to 140.11 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
+        "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 46.7 to 373.59 Physical Damage. This effect has a 1 second cooldown."
+      ],
+      "url_page": "https://auntm.ai/champions/maestro_overseer/tier/3",
+      "champid": "maestro_overseer+3+4",
+      "challenger_rating": 70,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Immune to Nullify, Fateseal and Stagger effects.",
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMMA POWER": [
+          "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 70.05 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
+        ],
+        "COSMIC MODE": [
+          "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
+          "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 116.75 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
+          "Light Attacks deal a Burst of 308.22 Physical Damage."
+        ],
+        "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
+          "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
+          "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
+        ],
+        "HEAVY ATTACKS": [
+          "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
+        ],
+        "AFTER A SPECIAL - CAP\u2019S SHIELD": [
+          "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
+          "The Overseer is Stun immune while Auto-Block is active."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflict a Stun Debuff for 1.50 second(s).",
+          "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
+          "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 616.67 for 20 seconds."
+        ]
+      }
+    },
+    "4+1": {
+      "rank": 1,
+      "prestige": "1108",
+      "hp": "4898",
+      "attack": "340",
+      "crit_rate": "294",
+      "crit_dmge": "450",
+      "armor": "223",
+      "block_prof": "3890",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 17 to 102.01 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
+        "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 34 to 271.99 Physical Damage. This effect has a 1 second cooldown."
+      ],
+      "url_page": "https://auntm.ai/champions/maestro_overseer/tier/4",
+      "champid": "maestro_overseer+4+1",
+      "challenger_rating": 60,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Immune to Nullify, Fateseal and Stagger effects.",
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMMA POWER": [
+          "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 51 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
+        ],
+        "COSMIC MODE": [
+          "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
+          "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 85 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
+          "Light Attacks deal a Burst of 224.4 Physical Damage."
+        ],
+        "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
+          "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
+          "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
+        ],
+        "HEAVY ATTACKS": [
+          "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
+        ],
+        "AFTER A SPECIAL - CAP\u2019S SHIELD": [
+          "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
+          "The Overseer is Stun immune while Auto-Block is active."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflict a Stun Debuff for 1.50 second(s).",
+          "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
+          "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 600 for 20 seconds."
+        ]
+      }
+    },
+    "4+2": {
+      "rank": 2,
+      "prestige": "1557",
+      "hp": "6870",
+      "attack": "477",
+      "crit_rate": "302",
+      "crit_dmge": "463",
+      "armor": "253",
+      "block_prof": "3998",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 23.85 to 143.11 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
+        "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 47.7 to 381.59 Physical Damage. This effect has a 1 second cooldown."
+      ],
+      "url_page": "https://auntm.ai/champions/maestro_overseer/tier/4",
+      "champid": "maestro_overseer+4+2",
+      "challenger_rating": 70,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Immune to Nullify, Fateseal and Stagger effects.",
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMMA POWER": [
+          "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 71.55 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
+        ],
+        "COSMIC MODE": [
+          "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
+          "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 119.25 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
+          "Light Attacks deal a Burst of 314.82 Physical Damage."
+        ],
+        "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
+          "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
+          "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
+        ],
+        "HEAVY ATTACKS": [
+          "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
+        ],
+        "AFTER A SPECIAL - CAP\u2019S SHIELD": [
+          "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
+          "The Overseer is Stun immune while Auto-Block is active."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflict a Stun Debuff for 1.50 second(s).",
+          "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
+          "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 616.67 for 20 seconds."
+        ]
+      }
+    },
+    "4+3": {
+      "rank": 3,
+      "prestige": "2181",
+      "hp": "9626",
+      "attack": "668",
+      "crit_rate": "310",
+      "crit_dmge": "475",
+      "armor": "284",
+      "block_prof": "4106",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 33.4 to 200.41 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
+        "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 66.8 to 534.38 Physical Damage. This effect has a 1 second cooldown."
+      ],
+      "url_page": "https://auntm.ai/champions/maestro_overseer/tier/4",
+      "champid": "maestro_overseer+4+3",
+      "challenger_rating": 80,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Immune to Nullify, Fateseal and Stagger effects.",
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMMA POWER": [
+          "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 100.2 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
+        ],
+        "COSMIC MODE": [
+          "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
+          "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 167 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
+          "Light Attacks deal a Burst of 440.88 Physical Damage."
+        ],
+        "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
+          "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
+          "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
+        ],
+        "HEAVY ATTACKS": [
+          "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
+        ],
+        "AFTER A SPECIAL - CAP\u2019S SHIELD": [
+          "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
+          "The Overseer is Stun immune while Auto-Block is active."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflict a Stun Debuff for 1.50 second(s).",
+          "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
+          "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 633.33 for 20 seconds."
+        ]
+      }
+    },
+    "4+4": {
+      "rank": 4,
+      "prestige": "2870",
+      "hp": "12648",
+      "attack": "877",
+      "crit_rate": "318",
+      "crit_dmge": "488",
+      "armor": "318",
+      "block_prof": "4214",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 43.85 to 263.12 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
+        "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 87.7 to 701.58 Physical Damage. This effect has a 1 second cooldown."
+      ],
+      "url_page": "https://auntm.ai/champions/maestro_overseer/tier/4",
+      "champid": "maestro_overseer+4+4",
+      "challenger_rating": 90,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Immune to Nullify, Fateseal and Stagger effects.",
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMMA POWER": [
+          "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 131.55 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
+        ],
+        "COSMIC MODE": [
+          "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
+          "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 219.25 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
+          "Light Attacks deal a Burst of 578.82 Physical Damage."
+        ],
+        "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
+          "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
+          "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
+        ],
+        "HEAVY ATTACKS": [
+          "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
+        ],
+        "AFTER A SPECIAL - CAP\u2019S SHIELD": [
+          "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
+          "The Overseer is Stun immune while Auto-Block is active."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflict a Stun Debuff for 1.50 second(s).",
+          "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
+          "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 650 for 20 seconds."
+        ]
+      }
+    },
+    "4+5": {
+      "rank": 5,
+      "prestige": "3829",
+      "hp": "16876",
+      "attack": "1171",
+      "crit_rate": "326",
+      "crit_dmge": "500",
+      "armor": "353",
+      "block_prof": "4322",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 58.55 to 351.32 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
+        "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 117.1 to 936.77 Physical Damage. This effect has a 1 second cooldown."
+      ],
+      "url_page": "https://auntm.ai/champions/maestro_overseer/tier/4",
+      "champid": "maestro_overseer+4+5",
+      "challenger_rating": 100,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Immune to Nullify, Fateseal and Stagger effects.",
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMMA POWER": [
+          "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 175.65 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
+        ],
+        "COSMIC MODE": [
+          "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
+          "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 292.75 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
+          "Light Attacks deal a Burst of 772.86 Physical Damage."
+        ],
+        "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
+          "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
+          "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
+        ],
+        "HEAVY ATTACKS": [
+          "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
+        ],
+        "AFTER A SPECIAL - CAP\u2019S SHIELD": [
+          "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
+          "The Overseer is Stun immune while Auto-Block is active."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflict a Stun Debuff for 1.50 second(s).",
+          "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
+          "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 666.67 for 20 seconds."
+        ]
+      }
+    },
+    "5+1": {
+      "rank": 1,
+      "prestige": "2293",
+      "hp": "10071",
+      "attack": "699",
+      "crit_rate": "310",
+      "crit_dmge": "475",
+      "armor": "446",
+      "block_prof": "4106",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 42.76 to 279.6 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
+        "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 89.99 to 699 Physical Damage. This effect has a 1 second cooldown."
+      ],
+      "url_page": "https://auntm.ai/champions/maestro_overseer/tier/5",
+      "champid": "maestro_overseer+5+1",
+      "challenger_rating": 80,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Immune to Nullify, Fateseal and Stagger effects.",
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMMA POWER": [
+          "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 104.85 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
+        ],
+        "COSMIC MODE": [
+          "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
+          "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 174.75 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
+          "Light Attacks deal a Burst of 461.34 Physical Damage."
+        ],
+        "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
+          "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
+          "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
+        ],
+        "HEAVY ATTACKS": [
+          "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
+        ],
+        "AFTER A SPECIAL - CAP\u2019S SHIELD": [
+          "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
+          "The Overseer is Stun immune while Auto-Block is active."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflict a Stun Debuff for 1.50 second(s).",
+          "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
+          "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 633.33 for 20 seconds."
+        ]
+      }
+    },
+    "5+2": {
+      "rank": 2,
+      "prestige": "3028",
+      "hp": "13304",
+      "attack": "923",
+      "crit_rate": "318",
+      "crit_dmge": "488",
+      "armor": "488",
+      "block_prof": "4214",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 56.47 to 369.2 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
+        "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 118.83 to 923 Physical Damage. This effect has a 1 second cooldown."
+      ],
+      "url_page": "https://auntm.ai/champions/maestro_overseer/tier/5",
+      "champid": "maestro_overseer+5+2",
+      "challenger_rating": 90,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Immune to Nullify, Fateseal and Stagger effects.",
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMMA POWER": [
+          "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 138.45 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
+        ],
+        "COSMIC MODE": [
+          "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
+          "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 230.75 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
+          "Light Attacks deal a Burst of 609.18 Physical Damage."
+        ],
+        "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
+          "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
+          "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
+        ],
+        "HEAVY ATTACKS": [
+          "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
+        ],
+        "AFTER A SPECIAL - CAP\u2019S SHIELD": [
+          "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
+          "The Overseer is Stun immune while Auto-Block is active."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflict a Stun Debuff for 1.50 second(s).",
+          "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
+          "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 650 for 20 seconds."
+        ]
+      }
+    },
+    "5+3": {
+      "rank": 3,
+      "prestige": "4244",
+      "hp": "18598",
+      "attack": "1290",
+      "crit_rate": "326",
+      "crit_dmge": "500",
+      "armor": "532",
+      "block_prof": "4322",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 78.92 to 516 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
+        "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 166.08 to 1290 Physical Damage. This effect has a 1 second cooldown."
+      ],
+      "url_page": "https://auntm.ai/champions/maestro_overseer/tier/5",
+      "champid": "maestro_overseer+5+3",
+      "challenger_rating": 100,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Immune to Nullify, Fateseal and Stagger effects.",
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMMA POWER": [
+          "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 193.5 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
+        ],
+        "COSMIC MODE": [
+          "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
+          "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 322.5 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
+          "Light Attacks deal a Burst of 851.4 Physical Damage."
+        ],
+        "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
+          "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
+          "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
+        ],
+        "HEAVY ATTACKS": [
+          "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
+        ],
+        "AFTER A SPECIAL - CAP\u2019S SHIELD": [
+          "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
+          "The Overseer is Stun immune while Auto-Block is active."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflict a Stun Debuff for 1.50 second(s).",
+          "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
+          "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 666.67 for 20 seconds."
+        ]
+      }
+    },
+    "5+4": {
+      "rank": 4,
+      "prestige": "5717",
+      "hp": "25061",
+      "attack": "1738",
+      "crit_rate": "334",
+      "crit_dmge": "513",
+      "armor": "579",
+      "block_prof": "4430",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 106.33 to 695.21 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
+        "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 223.76 to 1737.99 Physical Damage. This effect has a 1 second cooldown."
+      ],
+      "url_page": "https://auntm.ai/champions/maestro_overseer/tier/5",
+      "champid": "maestro_overseer+5+4",
+      "challenger_rating": 110,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Immune to Nullify, Fateseal and Stagger effects.",
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMMA POWER": [
+          "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 260.7 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
+        ],
+        "COSMIC MODE": [
+          "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
+          "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 434.5 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
+          "Light Attacks deal a Burst of 1147.08 Physical Damage."
+        ],
+        "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
+          "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
+          "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
+        ],
+        "HEAVY ATTACKS": [
+          "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
+        ],
+        "AFTER A SPECIAL - CAP\u2019S SHIELD": [
+          "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
+          "The Overseer is Stun immune while Auto-Block is active."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflict a Stun Debuff for 1.50 second(s).",
+          "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
+          "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 683.33 for 20 seconds."
+        ]
+      }
+    },
+    "5+5": {
+      "rank": 5,
+      "prestige": "7738",
+      "hp": "33837",
+      "attack": "2346",
+      "crit_rate": "342",
+      "crit_dmge": "525",
+      "armor": "628",
+      "block_prof": "4538",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 143.53 to 938.41 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
+        "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 302.04 to 2345.99 Physical Damage. This effect has a 1 second cooldown."
+      ],
+      "url_page": "https://auntm.ai/champions/maestro_overseer/tier/5",
+      "champid": "maestro_overseer+5+5",
+      "challenger_rating": 120,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Immune to Nullify, Fateseal and Stagger effects.",
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMMA POWER": [
+          "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 351.9 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
+        ],
+        "COSMIC MODE": [
+          "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
+          "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 586.5 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
+          "Light Attacks deal a Burst of 1548.36 Physical Damage."
+        ],
+        "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
+          "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
+          "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
+        ],
+        "HEAVY ATTACKS": [
+          "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
+        ],
+        "AFTER A SPECIAL - CAP\u2019S SHIELD": [
+          "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
+          "The Overseer is Stun immune while Auto-Block is active."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflict a Stun Debuff for 1.50 second(s).",
+          "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
+          "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 700 for 20 seconds."
+        ]
+      }
+    },
+    "6+1": {
+      "rank": 1,
+      "prestige": "6052",
+      "hp": "26607",
+      "attack": "1845",
+      "crit_rate": "334",
+      "crit_dmge": "513",
+      "armor": "481",
+      "block_prof": "4430",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 112.88 to 738.01 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
+        "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 237.54 to 1844.99 Physical Damage. This effect has a 1 second cooldown."
+      ],
+      "url_page": "https://auntm.ai/champions/maestro_overseer/tier/6",
+      "champid": "maestro_overseer+6+1",
+      "challenger_rating": 110,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Immune to Nullify, Fateseal and Stagger effects.",
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMMA POWER": [
+          "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 276.75 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
+        ],
+        "COSMIC MODE": [
+          "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
+          "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 461.25 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
+          "Light Attacks deal a Burst of 1217.7 Physical Damage."
+        ],
+        "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
+          "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
+          "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
+        ],
+        "HEAVY ATTACKS": [
+          "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
+        ],
+        "AFTER A SPECIAL - CAP\u2019S SHIELD": [
+          "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
+          "The Overseer is Stun immune while Auto-Block is active."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflict a Stun Debuff for 1.50 second(s).",
+          "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
+          "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 683.33 for 20 seconds."
+        ]
+      }
+    },
+    "6+2": {
+      "rank": 2,
+      "prestige": "8360",
+      "hp": "36752",
+      "attack": "2549",
+      "crit_rate": "342",
+      "crit_dmge": "525",
+      "armor": "525",
+      "block_prof": "4538",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 155.95 to 1019.61 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
+        "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 328.17 to 2548.99 Physical Damage. This effect has a 1 second cooldown."
+      ],
+      "url_page": "https://auntm.ai/champions/maestro_overseer/tier/6",
+      "champid": "maestro_overseer+6+2",
+      "challenger_rating": 120,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Immune to Nullify, Fateseal and Stagger effects.",
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMMA POWER": [
+          "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 382.35 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
+        ],
+        "COSMIC MODE": [
+          "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
+          "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 637.25 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
+          "Light Attacks deal a Burst of 1682.34 Physical Damage."
+        ],
+        "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
+          "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
+          "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
+        ],
+        "HEAVY ATTACKS": [
+          "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
+        ],
+        "AFTER A SPECIAL - CAP\u2019S SHIELD": [
+          "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
+          "The Overseer is Stun immune while Auto-Block is active."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflict a Stun Debuff for 1.50 second(s).",
+          "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
+          "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 700 for 20 seconds."
+        ]
+      }
+    },
+    "6+3": {
+      "rank": 3,
+      "prestige": "9944",
+      "hp": "43600",
+      "attack": "3023",
+      "crit_rate": "351",
+      "crit_dmge": "538",
+      "armor": "572",
+      "block_prof": "4646",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 184.94 to 1209.21 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
+        "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 389.2 to 3022.99 Physical Damage. This effect has a 1 second cooldown."
+      ],
+      "url_page": "https://auntm.ai/champions/maestro_overseer/tier/6",
+      "champid": "maestro_overseer+6+3",
+      "challenger_rating": 130,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Immune to Nullify, Fateseal and Stagger effects.",
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMMA POWER": [
+          "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 453.45 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
+        ],
+        "COSMIC MODE": [
+          "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
+          "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 755.75 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
+          "Light Attacks deal a Burst of 1995.18 Physical Damage."
+        ],
+        "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
+          "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
+          "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
+        ],
+        "HEAVY ATTACKS": [
+          "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
+        ],
+        "AFTER A SPECIAL - CAP\u2019S SHIELD": [
+          "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
+          "The Overseer is Stun immune while Auto-Block is active."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflict a Stun Debuff for 1.50 second(s).",
+          "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
+          "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 716.67 for 20 seconds."
+        ]
+      }
+    },
+    "6+4": {
+      "rank": 4,
+      "prestige": "11381",
+      "hp": "49894",
+      "attack": "3460",
+      "crit_rate": "359",
+      "crit_dmge": "550",
+      "armor": "621",
+      "block_prof": "4754",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If an Opponent ability fails due to his personal immunity or reduced Ability Accuracy they take a burst of 211.68 to 1384.01 Physical Damage and the Overseer gains one Gamma Power. This Damage scales with Base Attack Only. This effect has a 1 second cooldown.",
+        "Striking the Opponent while they are recovering from Heavy or Specials Attacks deal a burst of 445.46 to 3459.99 Physical Damage. This effect has a 1 second cooldown."
+      ],
+      "url_page": "https://auntm.ai/champions/maestro_overseer/tier/6",
+      "champid": "maestro_overseer+6+4",
+      "challenger_rating": 140,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Immune to Nullify, Fateseal and Stagger effects.",
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMMA POWER": [
+          "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 519 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
+        ],
+        "COSMIC MODE": [
+          "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
+          "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 865 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
+          "Light Attacks deal a Burst of 2283.6 Physical Damage."
+        ],
+        "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
+          "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
+          "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
+        ],
+        "HEAVY ATTACKS": [
+          "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
+        ],
+        "AFTER A SPECIAL - CAP\u2019S SHIELD": [
+          "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
+          "The Overseer is Stun immune while Auto-Block is active."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflict a Stun Debuff for 1.50 second(s).",
+          "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
+          "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 733.33 for 20 seconds."
+        ]
+      }
+    },
+    "1+1": {
+      "rank": 1,
+      "prestige": 214,
+      "hp": 946,
+      "attack": 66,
+      "crit_rate": 253,
+      "crit_dmge": 388,
+      "armor": 117,
+      "block_prof": 3349,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/maestro_overseer/tier/1",
+      "champid": "maestro_overseer+1+1",
+      "challenger_rating": 10,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Immune to Nullify, Fateseal and Stagger effects.",
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMMA POWER": [
+          "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 9.9 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
+        ],
+        "COSMIC MODE": [
+          "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
+          "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 16.5 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
+          "Light Attacks deal a Burst of 43.56 Physical Damage."
+        ],
+        "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
+          "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
+          "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
+        ],
+        "HEAVY ATTACKS": [
+          "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
+        ],
+        "AFTER A SPECIAL - CAP\u2019S SHIELD": [
+          "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
+          "The Overseer is Stun immune while Auto-Block is active."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflict a Stun Debuff for 1.50 second(s).",
+          "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
+          "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 516.67 for 20 seconds."
+        ]
+      }
+    },
+    "1+2": {
+      "rank": 2,
+      "prestige": 295,
+      "hp": 1309,
+      "attack": 91,
+      "crit_rate": 261,
+      "crit_dmge": 400,
+      "armor": 140,
+      "block_prof": 3457,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/maestro_overseer/tier/1",
+      "champid": "maestro_overseer+1+2",
+      "challenger_rating": 20,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Immune to Nullify, Fateseal and Stagger effects.",
+          "An enhanced immune system provides full immunity to the Poisons of the Battlerealm."
+        ],
+        "GAMMA POWER": [
+          "When the Opponent gains a Bar of Power gain an indefinite Gamma Power granting 13.65 Attack Rating and 17% Potency of his personal Debuffs from Specials. Max 6 Stacks."
+        ],
+        "COSMIC MODE": [
+          "At 3 or more Stacks of Gamma Power, after launching a Special consumes all stacks and activates Cosmic Mode, lasting 3.33 second(s) per Gamma Power, but it is paused during Specials from the Overseer or the Opponent. Cosmic Mode lasts 50% longer for Defenders.",
+          "For each Gamma Power gained while in Cosmic Mode, instead gain a non-stacking Fury Buff granting 22.75 Attack Rating per Gamma Power used to enter the mode, with its total duration equalling its Cosmic Mode starting duration.",
+          "Light Attacks deal a Burst of 60.06 Physical Damage."
+        ],
+        "AFTER OPPONENT LAUNCHES A SPECIAL - SPECIAL CONCUSSION": [
+          "Inflict an indefinite Special Concussion Debuff, reducing Ability Accuracy by 10% during Special attacks. Max 7.",
+          "Reducing a Combo of 3 or more to a lower amount removes one stack of Special Concussion."
+        ],
+        "HEAVY ATTACKS": [
+          "Inflict a non-stacking Taunt Debuff for 10 seconds, reducing their Attack Rating by 20%. This ability goes on cooldown for 20 second(s) if activated."
+        ],
+        "AFTER A SPECIAL - CAP\u2019S SHIELD": [
+          "Gain an Auto-Block Passive, giving 100% chance to Auto-Block Basic Attacks when Struck twice, it lasts for 7 second(s) or until triggered.",
+          "The Overseer is Stun immune while Auto-Block is active."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflict a Stun Debuff for 1.50 second(s).",
+          "Cosmic Mode: On activation gain a Regeneration Buff, recovering 7% of missing Health over 10 seconds. The Potency of this Buff is reduced by 10% for each Bleed Debuff on Overseer."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Disorient Debuff, reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 12 second(s). Ability Accuracy reduction scales with Gamma Power.",
+          "Cosmic Mode: Gain an Energize Buff, granting 25% increased Combat Power Rate for 12 second(s)."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Physical Vulnerability Debuff, reducing Physical Resistance by 533.33 for 20 seconds."
+        ]
+      }
+    },
+    "find": {
+      "story_quests": {
+        "act_1": [],
+        "act_2": [],
+        "act_3": ["3.2.6"],
+        "act_4": [],
+        "act_5": [],
+        "act_6": [],
+        "act_7": ["7.3.3", "7.3.6", "7.4.5", "7.4.6"]
+      }
     }
+  },
+  "name": "THE OVERSEER",
+  "class": "Science",
+  "img_portrait": "https://api.rexians.tk/assets/portraits/maestro_overseer.png",
+  "contact": "PHYSICAL",
+  "tags": ["Size: XL"],
+  "released": "6/24/2021"
 }

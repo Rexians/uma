@@ -1,1180 +1,1287 @@
 {
-    "name": "ATTUMA",
-    "class": "Skill",
-    "img_portrait": "https://api.rexians.tk/assets/portraits/attuma.png",
-    "contact": "PHYSICAL",
-    "tags": [
-        "Villain",
-        "Size: L"
-    ],
-    "released": "11/10/2022",
-    "champid": "attuma",
-    "data": {
-        "2+1": {
-            "challenger_rating": 20,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
-                    "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
-                    "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 18.26 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
-                    "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
-                    "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
-                ],
-                "HYDRATION - MAX STACKS: 20": [
-                    "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
-                    "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 4.98, and his Regeneration Rate is increased by 1.75%.",
-                    "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 1600.",
-                    "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
-                    "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
-                    "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain 3 stacks of Hydration.",
-                    "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "200% chance to gain 2 stacks of Hydration.",
-                    "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 26.02 for 10 seconds.",
-                    "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "110% chance to gain 5 stacks of Hydration.",
-                    "100% chance to inflict a Bleed Debuff on the Opponent, dealing 124.5 Direct Damage over 20 seconds.",
-                    "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 685.71 for 10 seconds."
-                ]
-            },
-            "rank": 1,
-            "prestige": 282,
-            "hp": 1154,
-            "attack": 83,
-            "crit_rate": 305,
-            "crit_dmge": 376,
-            "armor": 172,
-            "block_prof": 2037,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
-                "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion.",
-                "Attuma\u2019s Energy Resistance is increased by 84.21 for each stack of Hydration."
-            ],
-            "url_page": "https://auntm.ai/champions/attuma/tier/2",
-            "champid": "attuma+2+1"
-        },
-        "2+2": {
-            "challenger_rating": 30,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
-                    "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
-                    "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 24.2 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
-                    "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
-                    "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
-                ],
-                "HYDRATION - MAX STACKS: 20": [
-                    "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
-                    "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 6.6, and his Regeneration Rate is increased by 1.75%.",
-                    "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 1650.",
-                    "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
-                    "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
-                    "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain 3 stacks of Hydration.",
-                    "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "200% chance to gain 2 stacks of Hydration.",
-                    "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 26.83 for 10 seconds.",
-                    "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "110% chance to gain 5 stacks of Hydration.",
-                    "100% chance to inflict a Bleed Debuff on the Opponent, dealing 165 Direct Damage over 20 seconds.",
-                    "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 707.14 for 10 seconds."
-                ]
-            },
-            "rank": 2,
-            "prestige": 371,
-            "hp": 1524,
-            "attack": 110,
-            "crit_rate": 315,
-            "crit_dmge": 388,
-            "armor": 198,
-            "block_prof": 2100,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
-                "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion.",
-                "Attuma\u2019s Energy Resistance is increased by 86.84 for each stack of Hydration."
-            ],
-            "url_page": "https://auntm.ai/champions/attuma/tier/2",
-            "champid": "attuma+2+2"
-        },
-        "2+3": {
-            "challenger_rating": 40,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
-                    "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
-                    "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 38.28 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
-                    "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
-                    "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
-                ],
-                "HYDRATION - MAX STACKS: 20": [
-                    "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
-                    "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 10.44, and his Regeneration Rate is increased by 1.75%.",
-                    "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 1700.",
-                    "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
-                    "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
-                    "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain 3 stacks of Hydration.",
-                    "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "200% chance to gain 2 stacks of Hydration.",
-                    "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 27.64 for 10 seconds.",
-                    "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "110% chance to gain 5 stacks of Hydration.",
-                    "100% chance to inflict a Bleed Debuff on the Opponent, dealing 261 Direct Damage over 20 seconds.",
-                    "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 728.57 for 10 seconds."
-                ]
-            },
-            "rank": 3,
-            "prestige": 591,
-            "hp": 2419,
-            "attack": 174,
-            "crit_rate": 324,
-            "crit_dmge": 399,
-            "armor": 226,
-            "block_prof": 2164,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
-                "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion.",
-                "Attuma\u2019s Energy Resistance is increased by 89.47 for each stack of Hydration."
-            ],
-            "url_page": "https://auntm.ai/champions/attuma/tier/2",
-            "champid": "attuma+2+3"
-        },
-        "3+1": {
-            "challenger_rating": 40,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
-                    "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
-                    "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 33 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
-                    "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
-                    "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
-                ],
-                "HYDRATION - MAX STACKS: 20": [
-                    "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
-                    "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 9, and his Regeneration Rate is increased by 1.75%.",
-                    "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 1700.",
-                    "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
-                    "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
-                    "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain 3 stacks of Hydration.",
-                    "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "200% chance to gain 2 stacks of Hydration.",
-                    "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 27.64 for 10 seconds.",
-                    "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "110% chance to gain 5 stacks of Hydration.",
-                    "100% chance to inflict a Bleed Debuff on the Opponent, dealing 225 Direct Damage over 20 seconds.",
-                    "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 728.57 for 10 seconds."
-                ]
-            },
-            "rank": 1,
-            "prestige": 509,
-            "hp": 2091,
-            "attack": 150,
-            "crit_rate": 324,
-            "crit_dmge": 399,
-            "armor": 183,
-            "block_prof": 2164,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
-                "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion.",
-                "Attuma\u2019s Energy Resistance is increased by 89.47 for each stack of Hydration."
-            ],
-            "url_page": "https://auntm.ai/champions/attuma/tier/3",
-            "champid": "attuma+3+1"
-        },
-        "3+2": {
-            "challenger_rating": 50,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
-                    "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
-                    "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 52.8 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
-                    "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
-                    "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
-                ],
-                "HYDRATION - MAX STACKS: 20": [
-                    "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
-                    "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 14.4, and his Regeneration Rate is increased by 1.75%.",
-                    "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 1750.",
-                    "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
-                    "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
-                    "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain 3 stacks of Hydration.",
-                    "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "200% chance to gain 2 stacks of Hydration.",
-                    "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 28.46 for 10 seconds.",
-                    "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "110% chance to gain 5 stacks of Hydration.",
-                    "100% chance to inflict a Bleed Debuff on the Opponent, dealing 360 Direct Damage over 20 seconds.",
-                    "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 750 for 10 seconds."
-                ]
-            },
-            "rank": 2,
-            "prestige": 814,
-            "hp": 3346,
-            "attack": 240,
-            "crit_rate": 334,
-            "crit_dmge": 411,
-            "armor": 210,
-            "block_prof": 2228,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
-                "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion.",
-                "Attuma\u2019s Energy Resistance is increased by 92.11 for each stack of Hydration."
-            ],
-            "url_page": "https://auntm.ai/champions/attuma/tier/3",
-            "champid": "attuma+3+2"
-        },
-        "3+3": {
-            "challenger_rating": 60,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
-                    "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
-                    "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 73.92 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
-                    "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
-                    "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
-                ],
-                "HYDRATION - MAX STACKS: 20": [
-                    "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
-                    "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 20.16, and his Regeneration Rate is increased by 1.75%.",
-                    "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 1800.",
-                    "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
-                    "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
-                    "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain 3 stacks of Hydration.",
-                    "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "200% chance to gain 2 stacks of Hydration.",
-                    "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 29.27 for 10 seconds.",
-                    "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "110% chance to gain 5 stacks of Hydration.",
-                    "100% chance to inflict a Bleed Debuff on the Opponent, dealing 504 Direct Damage over 20 seconds.",
-                    "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 771.43 for 10 seconds."
-                ]
-            },
-            "rank": 3,
-            "prestige": 1141,
-            "hp": 4681,
-            "attack": 336,
-            "crit_rate": 343,
-            "crit_dmge": 423,
-            "armor": 239,
-            "block_prof": 2291,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
-                "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion.",
-                "Attuma\u2019s Energy Resistance is increased by 94.74 for each stack of Hydration."
-            ],
-            "url_page": "https://auntm.ai/champions/attuma/tier/3",
-            "champid": "attuma+3+3"
-        },
-        "3+4": {
-            "challenger_rating": 70,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
-                    "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
-                    "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 101.42 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
-                    "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
-                    "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
-                ],
-                "HYDRATION - MAX STACKS: 20": [
-                    "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
-                    "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 27.66, and his Regeneration Rate is increased by 1.75%.",
-                    "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 1850.",
-                    "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
-                    "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
-                    "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain 3 stacks of Hydration.",
-                    "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "200% chance to gain 2 stacks of Hydration.",
-                    "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 30.08 for 10 seconds.",
-                    "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "110% chance to gain 5 stacks of Hydration.",
-                    "100% chance to inflict a Bleed Debuff on the Opponent, dealing 691.5 Direct Damage over 20 seconds.",
-                    "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 792.86 for 10 seconds."
-                ]
-            },
-            "rank": 4,
-            "prestige": 1568,
-            "hp": 6427,
-            "attack": 461,
-            "crit_rate": 353,
-            "crit_dmge": 434,
-            "armor": 270,
-            "block_prof": 2355,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
-                "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion.",
-                "Attuma\u2019s Energy Resistance is increased by 97.37 for each stack of Hydration."
-            ],
-            "url_page": "https://auntm.ai/champions/attuma/tier/3",
-            "champid": "attuma+3+4"
-        },
-        "4+1": {
-            "challenger_rating": 60,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
-                    "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
-                    "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 73.92 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
-                    "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
-                    "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
-                ],
-                "HYDRATION - MAX STACKS: 20": [
-                    "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
-                    "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 20.16, and his Regeneration Rate is increased by 1.75%.",
-                    "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 1800.",
-                    "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
-                    "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
-                    "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain 3 stacks of Hydration.",
-                    "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "200% chance to gain 2 stacks of Hydration.",
-                    "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 29.27 for 10 seconds.",
-                    "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "110% chance to gain 5 stacks of Hydration.",
-                    "100% chance to inflict a Bleed Debuff on the Opponent, dealing 504 Direct Damage over 20 seconds.",
-                    "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 771.43 for 10 seconds."
-                ]
-            },
-            "rank": 1,
-            "prestige": 1143,
-            "hp": 4677,
-            "attack": 336,
-            "crit_rate": 343,
-            "crit_dmge": 423,
-            "armor": 194,
-            "block_prof": 2291,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
-                "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion.",
-                "Attuma\u2019s Energy Resistance is increased by 94.74 for each stack of Hydration."
-            ],
-            "url_page": "https://auntm.ai/champions/attuma/tier/4",
-            "champid": "attuma+4+1"
-        },
-        "4+2": {
-            "challenger_rating": 70,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
-                    "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
-                    "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 103.62 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
-                    "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
-                    "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
-                ],
-                "HYDRATION - MAX STACKS: 20": [
-                    "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
-                    "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 28.26, and his Regeneration Rate is increased by 1.75%.",
-                    "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 1850.",
-                    "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
-                    "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
-                    "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain 3 stacks of Hydration.",
-                    "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "200% chance to gain 2 stacks of Hydration.",
-                    "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 30.08 for 10 seconds.",
-                    "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "110% chance to gain 5 stacks of Hydration.",
-                    "100% chance to inflict a Bleed Debuff on the Opponent, dealing 706.5 Direct Damage over 20 seconds.",
-                    "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 792.86 for 10 seconds."
-                ]
-            },
-            "rank": 2,
-            "prestige": 1605,
-            "hp": 6561,
-            "attack": 471,
-            "crit_rate": 353,
-            "crit_dmge": 434,
-            "armor": 222,
-            "block_prof": 2355,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
-                "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion.",
-                "Attuma\u2019s Energy Resistance is increased by 97.37 for each stack of Hydration."
-            ],
-            "url_page": "https://auntm.ai/champions/attuma/tier/4",
-            "champid": "attuma+4+2"
-        },
-        "4+3": {
-            "challenger_rating": 80,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
-                    "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
-                    "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 145.2 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
-                    "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
-                    "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
-                ],
-                "HYDRATION - MAX STACKS: 20": [
-                    "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
-                    "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 39.6, and his Regeneration Rate is increased by 1.75%.",
-                    "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 1900.",
-                    "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
-                    "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
-                    "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain 3 stacks of Hydration.",
-                    "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "200% chance to gain 2 stacks of Hydration.",
-                    "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 30.89 for 10 seconds.",
-                    "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "110% chance to gain 5 stacks of Hydration.",
-                    "100% chance to inflict a Bleed Debuff on the Opponent, dealing 990 Direct Damage over 20 seconds.",
-                    "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by"
-                ]
-            },
-            "rank": 3,
-            "prestige": 2248,
-            "hp": 9192,
-            "attack": 660,
-            "crit_rate": 362,
-            "crit_dmge": 446,
-            "armor": 252,
-            "block_prof": 2419,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
-                "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion.",
-                "Attuma\u2019s Energy Resistance is increased by 100 for each stack of Hydration."
-            ],
-            "url_page": "https://auntm.ai/champions/attuma/tier/4",
-            "champid": "attuma+4+3"
-        },
-        "4+4": {
-            "challenger_rating": 90,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
-                    "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
-                    "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 190.74 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
-                    "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
-                    "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
-                ],
-                "HYDRATION - MAX STACKS: 20": [
-                    "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
-                    "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 52.02, and his Regeneration Rate is increased by 1.75%.",
-                    "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 1950.",
-                    "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
-                    "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
-                    "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain 3 stacks of Hydration.",
-                    "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "200% chance to gain 2 stacks of Hydration.",
-                    "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 31.71 for 10 seconds.",
-                    "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "110% chance to gain 5 stacks of Hydration.",
-                    "100% chance to inflict a Bleed Debuff on the Opponent, dealing 1300.5 Direct Damage over 20 seconds.",
-                    "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by"
-                ]
-            },
-            "rank": 4,
-            "prestige": 2958,
-            "hp": 12078,
-            "attack": 867,
-            "crit_rate": 372,
-            "crit_dmge": 458,
-            "armor": 284,
-            "block_prof": 2482,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
-                "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion.",
-                "Attuma\u2019s Energy Resistance is increased by 102.63 for each stack of Hydration."
-            ],
-            "url_page": "https://auntm.ai/champions/attuma/tier/4",
-            "champid": "attuma+4+4"
-        },
-        "4+5": {
-            "challenger_rating": 100,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
-                    "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
-                    "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 254.32 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
-                    "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
-                    "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
-                ],
-                "HYDRATION - MAX STACKS: 20": [
-                    "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
-                    "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 69.36, and his Regeneration Rate is increased by 1.75%.",
-                    "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 2000.",
-                    "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
-                    "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
-                    "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain 3 stacks of Hydration.",
-                    "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "200% chance to gain 2 stacks of Hydration.",
-                    "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 32.52 for 10 seconds.",
-                    "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "110% chance to gain 5 stacks of Hydration.",
-                    "100% chance to inflict a Bleed Debuff on the Opponent, dealing 1734 Direct Damage over 20 seconds.",
-                    "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 857.14 for 10 seconds."
-                ]
-            },
-            "rank": 5,
-            "prestige": 3946,
-            "hp": 16116,
-            "attack": 1156,
-            "crit_rate": 381,
-            "crit_dmge": 470,
-            "armor": 318,
-            "block_prof": 2546,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
-                "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion.",
-                "Attuma\u2019s Energy Resistance is increased by 105.26 for each stack of Hydration."
-            ],
-            "url_page": "https://auntm.ai/champions/attuma/tier/4",
-            "champid": "attuma+4+5"
-        },
-        "5+1": {
-            "challenger_rating": 80,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
-                    "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
-                    "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 151.8 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
-                    "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
-                    "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
-                ],
-                "HYDRATION - MAX STACKS: 20": [
-                    "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
-                    "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 41.4, and his Regeneration Rate is increased by 1.75%.",
-                    "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 1900.",
-                    "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
-                    "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
-                    "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain 3 stacks of Hydration.",
-                    "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "200% chance to gain 2 stacks of Hydration.",
-                    "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 30.89 for 10 seconds.",
-                    "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "110% chance to gain 5 stacks of Hydration.",
-                    "100% chance to inflict a Bleed Debuff on the Opponent, dealing 1035 Direct Damage over 20 seconds.",
-                    "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 814.29 for 10 seconds."
-                ]
-            },
-            "rank": 1,
-            "prestige": 2360,
-            "hp": 9618,
-            "attack": 690,
-            "crit_rate": 362,
-            "crit_dmge": 446,
-            "armor": 205,
-            "block_prof": 2419,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Attuma\u2019s Energy Resistance is increased by 100 for each stack of Hydration.",
-                "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
-                "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion."
-            ],
-            "url_page": "https://auntm.ai/champions/attuma/tier/5",
-            "champid": "attuma+5+1"
-        },
-        "5+2": {
-            "challenger_rating": 90,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
-                    "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
-                    "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 200.64 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
-                    "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
-                    "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
-                ],
-                "HYDRATION - MAX STACKS: 20": [
-                    "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
-                    "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 54.72, and his Regeneration Rate is increased by 1.75%.",
-                    "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 1950.",
-                    "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
-                    "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
-                    "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain 3 stacks of Hydration.",
-                    "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "200% chance to gain 2 stacks of Hydration.",
-                    "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 31.71 for 10 seconds.",
-                    "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "110% chance to gain 5 stacks of Hydration.",
-                    "100% chance to inflict a Bleed Debuff on the Opponent, dealing 1368 Direct Damage over 20 seconds.",
-                    "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by"
-                ]
-            },
-            "rank": 2,
-            "prestige": 3120,
-            "hp": 12704,
-            "attack": 912,
-            "crit_rate": 372,
-            "crit_dmge": 458,
-            "armor": 234,
-            "block_prof": 2482,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Attuma\u2019s Energy Resistance is increased by 102.63 for each stack of Hydration.",
-                "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
-                "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion."
-            ],
-            "url_page": "https://auntm.ai/champions/attuma/tier/5",
-            "champid": "attuma+5+2"
-        },
-        "5+3": {
-            "challenger_rating": 100,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
-                    "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
-                    "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 280.28 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
-                    "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
-                    "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
-                ],
-                "HYDRATION - MAX STACKS: 20": [
-                    "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
-                    "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 76.44, and his Regeneration Rate is increased by 1.75%.",
-                    "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 2000.",
-                    "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
-                    "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
-                    "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain 3 stacks of Hydration.",
-                    "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "200% chance to gain 2 stacks of Hydration.",
-                    "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 32.52 for 10 seconds.",
-                    "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "110% chance to gain 5 stacks of Hydration.",
-                    "100% chance to inflict a Bleed Debuff on the Opponent, dealing 1911 Direct Damage over 20 seconds.",
-                    "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 857.14 for 10 seconds."
-                ]
-            },
-            "rank": 3,
-            "prestige": 4368,
-            "hp": 17760,
-            "attack": 1274,
-            "crit_rate": 381,
-            "crit_dmge": 470,
-            "armor": 266,
-            "block_prof": 2546,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Attuma\u2019s Energy Resistance is increased by 105.26 for each stack of Hydration.",
-                "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
-                "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion."
-            ],
-            "url_page": "https://auntm.ai/champions/attuma/tier/5",
-            "champid": "attuma+5+3"
-        },
-        "5+4": {
-            "challenger_rating": 110,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
-                    "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
-                    "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 377.74 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
-                    "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
-                    "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
-                ],
-                "HYDRATION - MAX STACKS: 20": [
-                    "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
-                    "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 103.02, and his Regeneration Rate is increased by 1.75%.",
-                    "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 2050.",
-                    "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
-                    "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
-                    "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain 3 stacks of Hydration.",
-                    "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "200% chance to gain 2 stacks of Hydration.",
-                    "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 33.33 for 10 seconds.",
-                    "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "110% chance to gain 5 stacks of Hydration.",
-                    "100% chance to inflict a Bleed Debuff on the Opponent, dealing 2575.5 Direct Damage over 20 seconds.",
-                    "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 878.57 for 10 seconds."
-                ]
-            },
-            "rank": 4,
-            "prestige": 5885,
-            "hp": 23933,
-            "attack": 1717,
-            "crit_rate": 391,
-            "crit_dmge": 481,
-            "armor": 299,
-            "block_prof": 2610,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Attuma\u2019s Energy Resistance is increased by 107.89 for each stack of Hydration.",
-                "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
-                "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion."
-            ],
-            "url_page": "https://auntm.ai/champions/attuma/tier/5",
-            "champid": "attuma+5+4"
-        },
-        "5+5": {
-            "challenger_rating": 120,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
-                    "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
-                    "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 509.96 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
-                    "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
-                    "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
-                ],
-                "HYDRATION - MAX STACKS: 20": [
-                    "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
-                    "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 139.08, and his Regeneration Rate is increased by 1.75%.",
-                    "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 2100.",
-                    "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
-                    "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
-                    "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain 3 stacks of Hydration.",
-                    "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "200% chance to gain 2 stacks of Hydration.",
-                    "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 34.15 for 10 seconds.",
-                    "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "110% chance to gain 5 stacks of Hydration.",
-                    "100% chance to inflict a Bleed Debuff on the Opponent, dealing 3477 Direct Damage over 20 seconds.",
-                    "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by"
-                ]
-            },
-            "rank": 5,
-            "prestige": 7963,
-            "hp": 32313,
-            "attack": 2318,
-            "crit_rate": 400,
-            "crit_dmge": 493,
-            "armor": 334,
-            "block_prof": 2673,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Attuma\u2019s Energy Resistance is increased by 110.53 for each stack of Hydration.",
-                "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
-                "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion."
-            ],
-            "url_page": "https://auntm.ai/champions/attuma/tier/5",
-            "champid": "attuma+5+5"
-        },
-        "6+1": {
-            "challenger_rating": 110,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
-                    "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
-                    "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 401.06 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
-                    "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
-                    "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
-                ],
-                "HYDRATION - MAX STACKS: 20": [
-                    "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
-                    "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 109.38, and his Regeneration Rate is increased by 1.75%.",
-                    "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 2050.",
-                    "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
-                    "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
-                    "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain 3 stacks of Hydration.",
-                    "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "200% chance to gain 2 stacks of Hydration.",
-                    "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 33.33 for 10 seconds.",
-                    "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "110% chance to gain 5 stacks of Hydration.",
-                    "100% chance to inflict a Bleed Debuff on the Opponent, dealing 2734.5 Direct Damage over 20 seconds.",
-                    "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 878.57 for 10 seconds."
-                ]
-            },
-            "rank": 1,
-            "prestige": 6235,
-            "hp": 25408,
-            "attack": 1823,
-            "crit_rate": 391,
-            "crit_dmge": 481,
-            "armor": 221,
-            "block_prof": 2610,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Attuma\u2019s Energy Resistance is increased by 107.89 for each stack of Hydration.",
-                "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
-                "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion."
-            ],
-            "url_page": "https://auntm.ai/champions/attuma/tier/6",
-            "champid": "attuma+6+1"
-        },
-        "6+2": {
-            "challenger_rating": 120,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
-                    "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
-                    "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 553.96 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
-                    "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
-                    "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
-                ],
-                "HYDRATION - MAX STACKS: 20": [
-                    "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
-                    "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 151.08, and his Regeneration Rate is increased by 1.75%.",
-                    "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 2100.",
-                    "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
-                    "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
-                    "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain 3 stacks of Hydration.",
-                    "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "200% chance to gain 2 stacks of Hydration.",
-                    "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 34.15 for 10 seconds.",
-                    "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "110% chance to gain 5 stacks of Hydration.",
-                    "100% chance to inflict a Bleed Debuff on the Opponent, dealing 3777 Direct Damage over 20 seconds.",
-                    "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 900 for 10 seconds."
-                ]
-            },
-            "rank": 2,
-            "prestige": 8610,
-            "hp": 35096,
-            "attack": 2518,
-            "crit_rate": 400,
-            "crit_dmge": 493,
-            "armor": 252,
-            "block_prof": 2673,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Attuma\u2019s Energy Resistance is increased by 110.53 for each stack of Hydration.",
-                "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
-                "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion."
-            ],
-            "url_page": "https://auntm.ai/champions/attuma/tier/6",
-            "champid": "attuma+6+2"
-        },
-        "6+3": {
-            "challenger_rating": 130,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
-                    "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
-                    "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 657.14 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
-                    "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
-                    "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
-                ],
-                "HYDRATION - MAX STACKS: 20": [
-                    "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
-                    "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 179.22, and his Regeneration Rate is increased by 1.75%.",
-                    "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 2150.",
-                    "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
-                    "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
-                    "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain 3 stacks of Hydration.",
-                    "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "200% chance to gain 2 stacks of Hydration.",
-                    "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 34.96 for 10 seconds.",
-                    "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "110% chance to gain 5 stacks of Hydration.",
-                    "100% chance to inflict a Bleed Debuff on the Opponent, dealing 4480.5 Direct Damage over 20 seconds.",
-                    "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 921.43 for 10 seconds."
-                ]
-            },
-            "rank": 3,
-            "prestige": 10236,
-            "hp": 41636,
-            "attack": 2987,
-            "crit_rate": 410,
-            "crit_dmge": 505,
-            "armor": 285,
-            "block_prof": 2737,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Attuma\u2019s Energy Resistance is increased by 113.16 for each stack of Hydration.",
-                "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
-                "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion."
-            ],
-            "url_page": "https://auntm.ai/champions/attuma/tier/6",
-            "champid": "attuma+6+3"
-        },
-        "6+4": {
-            "challenger_rating": 140,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
-                    "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
-                    "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 751.96 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
-                    "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
-                    "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
-                ],
-                "HYDRATION - MAX STACKS: 20": [
-                    "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
-                    "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 205.08, and his Regeneration Rate is increased by 1.75%.",
-                    "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 2200.",
-                    "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
-                    "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
-                    "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% chance to gain 3 stacks of Hydration.",
-                    "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "200% chance to gain 2 stacks of Hydration.",
-                    "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 35.77 for 10 seconds.",
-                    "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "110% chance to gain 5 stacks of Hydration.",
-                    "100% chance to inflict a Bleed Debuff on the Opponent, dealing 5127 Direct Damage over 20 seconds.",
-                    "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by"
-                ]
-            },
-            "rank": 4,
-            "prestige": 11712,
-            "hp": 47646,
-            "attack": 3418,
-            "crit_rate": 420,
-            "crit_dmge": 517,
-            "armor": 321,
-            "block_prof": 2800,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Attuma\u2019s Energy Resistance is increased by 115.79 for each stack of Hydration.",
-                "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
-                "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion."
-            ],
-            "url_page": "https://auntm.ai/champions/attuma/tier/6",
-            "champid": "attuma+6+4"
-        },
-        "find": {
-            "story_quests": {
-                "act_1": [],
-                "act_2": [],
-                "act_3": [],
-                "act_4": [],
-                "act_5": [],
-                "act_6": [],
-                "act_7": []
-            }
-        }
+  "data": {
+    "1+1": {
+      "challenger_rating": 10,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
+          "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
+          "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 14.3 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
+          "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
+          "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
+        ],
+        "HYDRATION - MAX STACKS: 20": [
+          "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
+          "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 3.9, and his Regeneration Rate is increased by 1.75%.",
+          "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 1550.",
+          "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
+          "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
+          "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain 3 stacks of Hydration.",
+          "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
+        ],
+        "SPECIAL ATTACK 2": [
+          "200% chance to gain 2 stacks of Hydration.",
+          "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 25.2 for 10 seconds.",
+          "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
+        ],
+        "SPECIAL ATTACK 3": [
+          "110% chance to gain 5 stacks of Hydration.",
+          "100% chance to inflict a Bleed Debuff on the Opponent, dealing 97.5 Direct Damage over 20 seconds.",
+          "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 664.29 for 10 seconds."
+        ]
+      },
+      "rank": 1,
+      "prestige": 220,
+      "hp": 904,
+      "attack": 65,
+      "crit_rate": 296,
+      "crit_dmge": 364,
+      "armor": 167,
+      "block_prof": 1973,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Incoming Bleed Debuffs suffer -50% reduced potency.",
+        "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5% for each Bleed effect on either Champion.",
+        "Attuma\u2019s Energy Resistance is increased by 81.58 for each stack of Hydration."
+      ],
+      "url_page": "https://auntm.ai/champions/attuma/tier/1",
+      "champid": "attuma+1+1"
+    },
+    "1+2": {
+      "challenger_rating": 20,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
+          "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
+          "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 19.8 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
+          "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
+          "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
+        ],
+        "HYDRATION - MAX STACKS: 20": [
+          "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
+          "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 5.4, and his Regeneration Rate is increased by 1.75%.",
+          "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 1600.",
+          "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
+          "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
+          "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain 3 stacks of Hydration.",
+          "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
+        ],
+        "SPECIAL ATTACK 2": [
+          "200% chance to gain 2 stacks of Hydration.",
+          "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 26.02 for 10 seconds.",
+          "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
+        ],
+        "SPECIAL ATTACK 3": [
+          "110% chance to gain 5 stacks of Hydration.",
+          "100% chance to inflict a Bleed Debuff on the Opponent, dealing 135 Direct Damage over 20 seconds.",
+          "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 685.71 for 10 seconds."
+        ]
+      },
+      "rank": 2,
+      "prestige": 304,
+      "hp": 1250,
+      "attack": 90,
+      "crit_rate": 305,
+      "crit_dmge": 376,
+      "armor": 192,
+      "block_prof": 2037,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Incoming Bleed Debuffs suffer -50% reduced potency.",
+        "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5% for each Bleed effect on either Champion.",
+        "Attuma\u2019s Energy Resistance is increased by 84.21 for each stack of Hydration."
+      ],
+      "url_page": "https://auntm.ai/champions/attuma/tier/1",
+      "champid": "attuma+1+2"
+    },
+    "2+1": {
+      "challenger_rating": 20,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
+          "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
+          "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 18.26 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
+          "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
+          "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
+        ],
+        "HYDRATION - MAX STACKS: 20": [
+          "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
+          "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 4.98, and his Regeneration Rate is increased by 1.75%.",
+          "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 1600.",
+          "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
+          "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
+          "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain 3 stacks of Hydration.",
+          "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
+        ],
+        "SPECIAL ATTACK 2": [
+          "200% chance to gain 2 stacks of Hydration.",
+          "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 26.02 for 10 seconds.",
+          "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
+        ],
+        "SPECIAL ATTACK 3": [
+          "110% chance to gain 5 stacks of Hydration.",
+          "100% chance to inflict a Bleed Debuff on the Opponent, dealing 124.5 Direct Damage over 20 seconds.",
+          "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 685.71 for 10 seconds."
+        ]
+      },
+      "rank": 1,
+      "prestige": 282,
+      "hp": 1154,
+      "attack": 83,
+      "crit_rate": 305,
+      "crit_dmge": 376,
+      "armor": 172,
+      "block_prof": 2037,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
+        "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion.",
+        "Attuma\u2019s Energy Resistance is increased by 84.21 for each stack of Hydration."
+      ],
+      "url_page": "https://auntm.ai/champions/attuma/tier/2",
+      "champid": "attuma+2+1"
+    },
+    "2+2": {
+      "challenger_rating": 30,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
+          "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
+          "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 24.2 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
+          "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
+          "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
+        ],
+        "HYDRATION - MAX STACKS: 20": [
+          "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
+          "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 6.6, and his Regeneration Rate is increased by 1.75%.",
+          "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 1650.",
+          "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
+          "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
+          "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain 3 stacks of Hydration.",
+          "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
+        ],
+        "SPECIAL ATTACK 2": [
+          "200% chance to gain 2 stacks of Hydration.",
+          "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 26.83 for 10 seconds.",
+          "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
+        ],
+        "SPECIAL ATTACK 3": [
+          "110% chance to gain 5 stacks of Hydration.",
+          "100% chance to inflict a Bleed Debuff on the Opponent, dealing 165 Direct Damage over 20 seconds.",
+          "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 707.14 for 10 seconds."
+        ]
+      },
+      "rank": 2,
+      "prestige": 371,
+      "hp": 1524,
+      "attack": 110,
+      "crit_rate": 315,
+      "crit_dmge": 388,
+      "armor": 198,
+      "block_prof": 2100,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
+        "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion.",
+        "Attuma\u2019s Energy Resistance is increased by 86.84 for each stack of Hydration."
+      ],
+      "url_page": "https://auntm.ai/champions/attuma/tier/2",
+      "champid": "attuma+2+2"
+    },
+    "2+3": {
+      "challenger_rating": 40,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
+          "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
+          "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 38.28 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
+          "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
+          "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
+        ],
+        "HYDRATION - MAX STACKS: 20": [
+          "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
+          "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 10.44, and his Regeneration Rate is increased by 1.75%.",
+          "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 1700.",
+          "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
+          "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
+          "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain 3 stacks of Hydration.",
+          "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
+        ],
+        "SPECIAL ATTACK 2": [
+          "200% chance to gain 2 stacks of Hydration.",
+          "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 27.64 for 10 seconds.",
+          "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
+        ],
+        "SPECIAL ATTACK 3": [
+          "110% chance to gain 5 stacks of Hydration.",
+          "100% chance to inflict a Bleed Debuff on the Opponent, dealing 261 Direct Damage over 20 seconds.",
+          "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 728.57 for 10 seconds."
+        ]
+      },
+      "rank": 3,
+      "prestige": 591,
+      "hp": 2419,
+      "attack": 174,
+      "crit_rate": 324,
+      "crit_dmge": 399,
+      "armor": 226,
+      "block_prof": 2164,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
+        "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion.",
+        "Attuma\u2019s Energy Resistance is increased by 89.47 for each stack of Hydration."
+      ],
+      "url_page": "https://auntm.ai/champions/attuma/tier/2",
+      "champid": "attuma+2+3"
+    },
+    "3+1": {
+      "challenger_rating": 40,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
+          "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
+          "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 33 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
+          "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
+          "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
+        ],
+        "HYDRATION - MAX STACKS: 20": [
+          "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
+          "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 9, and his Regeneration Rate is increased by 1.75%.",
+          "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 1700.",
+          "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
+          "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
+          "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain 3 stacks of Hydration.",
+          "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
+        ],
+        "SPECIAL ATTACK 2": [
+          "200% chance to gain 2 stacks of Hydration.",
+          "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 27.64 for 10 seconds.",
+          "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
+        ],
+        "SPECIAL ATTACK 3": [
+          "110% chance to gain 5 stacks of Hydration.",
+          "100% chance to inflict a Bleed Debuff on the Opponent, dealing 225 Direct Damage over 20 seconds.",
+          "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 728.57 for 10 seconds."
+        ]
+      },
+      "rank": 1,
+      "prestige": 509,
+      "hp": 2091,
+      "attack": 150,
+      "crit_rate": 324,
+      "crit_dmge": 399,
+      "armor": 183,
+      "block_prof": 2164,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
+        "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion.",
+        "Attuma\u2019s Energy Resistance is increased by 89.47 for each stack of Hydration."
+      ],
+      "url_page": "https://auntm.ai/champions/attuma/tier/3",
+      "champid": "attuma+3+1"
+    },
+    "3+2": {
+      "challenger_rating": 50,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
+          "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
+          "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 52.8 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
+          "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
+          "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
+        ],
+        "HYDRATION - MAX STACKS: 20": [
+          "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
+          "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 14.4, and his Regeneration Rate is increased by 1.75%.",
+          "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 1750.",
+          "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
+          "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
+          "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain 3 stacks of Hydration.",
+          "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
+        ],
+        "SPECIAL ATTACK 2": [
+          "200% chance to gain 2 stacks of Hydration.",
+          "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 28.46 for 10 seconds.",
+          "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
+        ],
+        "SPECIAL ATTACK 3": [
+          "110% chance to gain 5 stacks of Hydration.",
+          "100% chance to inflict a Bleed Debuff on the Opponent, dealing 360 Direct Damage over 20 seconds.",
+          "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 750 for 10 seconds."
+        ]
+      },
+      "rank": 2,
+      "prestige": 814,
+      "hp": 3346,
+      "attack": 240,
+      "crit_rate": 334,
+      "crit_dmge": 411,
+      "armor": 210,
+      "block_prof": 2228,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
+        "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion.",
+        "Attuma\u2019s Energy Resistance is increased by 92.11 for each stack of Hydration."
+      ],
+      "url_page": "https://auntm.ai/champions/attuma/tier/3",
+      "champid": "attuma+3+2"
+    },
+    "3+3": {
+      "challenger_rating": 60,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
+          "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
+          "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 73.92 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
+          "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
+          "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
+        ],
+        "HYDRATION - MAX STACKS: 20": [
+          "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
+          "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 20.16, and his Regeneration Rate is increased by 1.75%.",
+          "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 1800.",
+          "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
+          "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
+          "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain 3 stacks of Hydration.",
+          "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
+        ],
+        "SPECIAL ATTACK 2": [
+          "200% chance to gain 2 stacks of Hydration.",
+          "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 29.27 for 10 seconds.",
+          "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
+        ],
+        "SPECIAL ATTACK 3": [
+          "110% chance to gain 5 stacks of Hydration.",
+          "100% chance to inflict a Bleed Debuff on the Opponent, dealing 504 Direct Damage over 20 seconds.",
+          "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 771.43 for 10 seconds."
+        ]
+      },
+      "rank": 3,
+      "prestige": 1141,
+      "hp": 4681,
+      "attack": 336,
+      "crit_rate": 343,
+      "crit_dmge": 423,
+      "armor": 239,
+      "block_prof": 2291,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
+        "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion.",
+        "Attuma\u2019s Energy Resistance is increased by 94.74 for each stack of Hydration."
+      ],
+      "url_page": "https://auntm.ai/champions/attuma/tier/3",
+      "champid": "attuma+3+3"
+    },
+    "3+4": {
+      "challenger_rating": 70,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
+          "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
+          "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 101.42 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
+          "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
+          "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
+        ],
+        "HYDRATION - MAX STACKS: 20": [
+          "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
+          "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 27.66, and his Regeneration Rate is increased by 1.75%.",
+          "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 1850.",
+          "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
+          "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
+          "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain 3 stacks of Hydration.",
+          "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
+        ],
+        "SPECIAL ATTACK 2": [
+          "200% chance to gain 2 stacks of Hydration.",
+          "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 30.08 for 10 seconds.",
+          "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
+        ],
+        "SPECIAL ATTACK 3": [
+          "110% chance to gain 5 stacks of Hydration.",
+          "100% chance to inflict a Bleed Debuff on the Opponent, dealing 691.5 Direct Damage over 20 seconds.",
+          "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 792.86 for 10 seconds."
+        ]
+      },
+      "rank": 4,
+      "prestige": 1568,
+      "hp": 6427,
+      "attack": 461,
+      "crit_rate": 353,
+      "crit_dmge": 434,
+      "armor": 270,
+      "block_prof": 2355,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
+        "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion.",
+        "Attuma\u2019s Energy Resistance is increased by 97.37 for each stack of Hydration."
+      ],
+      "url_page": "https://auntm.ai/champions/attuma/tier/3",
+      "champid": "attuma+3+4"
+    },
+    "4+1": {
+      "challenger_rating": 60,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
+          "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
+          "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 73.92 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
+          "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
+          "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
+        ],
+        "HYDRATION - MAX STACKS: 20": [
+          "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
+          "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 20.16, and his Regeneration Rate is increased by 1.75%.",
+          "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 1800.",
+          "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
+          "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
+          "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain 3 stacks of Hydration.",
+          "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
+        ],
+        "SPECIAL ATTACK 2": [
+          "200% chance to gain 2 stacks of Hydration.",
+          "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 29.27 for 10 seconds.",
+          "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
+        ],
+        "SPECIAL ATTACK 3": [
+          "110% chance to gain 5 stacks of Hydration.",
+          "100% chance to inflict a Bleed Debuff on the Opponent, dealing 504 Direct Damage over 20 seconds.",
+          "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 771.43 for 10 seconds."
+        ]
+      },
+      "rank": 1,
+      "prestige": 1143,
+      "hp": 4677,
+      "attack": 336,
+      "crit_rate": 343,
+      "crit_dmge": 423,
+      "armor": 194,
+      "block_prof": 2291,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
+        "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion.",
+        "Attuma\u2019s Energy Resistance is increased by 94.74 for each stack of Hydration."
+      ],
+      "url_page": "https://auntm.ai/champions/attuma/tier/4",
+      "champid": "attuma+4+1"
+    },
+    "4+2": {
+      "challenger_rating": 70,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
+          "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
+          "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 103.62 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
+          "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
+          "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
+        ],
+        "HYDRATION - MAX STACKS: 20": [
+          "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
+          "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 28.26, and his Regeneration Rate is increased by 1.75%.",
+          "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 1850.",
+          "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
+          "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
+          "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain 3 stacks of Hydration.",
+          "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
+        ],
+        "SPECIAL ATTACK 2": [
+          "200% chance to gain 2 stacks of Hydration.",
+          "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 30.08 for 10 seconds.",
+          "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
+        ],
+        "SPECIAL ATTACK 3": [
+          "110% chance to gain 5 stacks of Hydration.",
+          "100% chance to inflict a Bleed Debuff on the Opponent, dealing 706.5 Direct Damage over 20 seconds.",
+          "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 792.86 for 10 seconds."
+        ]
+      },
+      "rank": 2,
+      "prestige": 1605,
+      "hp": 6561,
+      "attack": 471,
+      "crit_rate": 353,
+      "crit_dmge": 434,
+      "armor": 222,
+      "block_prof": 2355,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
+        "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion.",
+        "Attuma\u2019s Energy Resistance is increased by 97.37 for each stack of Hydration."
+      ],
+      "url_page": "https://auntm.ai/champions/attuma/tier/4",
+      "champid": "attuma+4+2"
+    },
+    "4+3": {
+      "challenger_rating": 80,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
+          "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
+          "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 145.2 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
+          "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
+          "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
+        ],
+        "HYDRATION - MAX STACKS: 20": [
+          "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
+          "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 39.6, and his Regeneration Rate is increased by 1.75%.",
+          "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 1900.",
+          "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
+          "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
+          "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain 3 stacks of Hydration.",
+          "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
+        ],
+        "SPECIAL ATTACK 2": [
+          "200% chance to gain 2 stacks of Hydration.",
+          "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 30.89 for 10 seconds.",
+          "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
+        ],
+        "SPECIAL ATTACK 3": [
+          "110% chance to gain 5 stacks of Hydration.",
+          "100% chance to inflict a Bleed Debuff on the Opponent, dealing 990 Direct Damage over 20 seconds.",
+          "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by"
+        ]
+      },
+      "rank": 3,
+      "prestige": 2248,
+      "hp": 9192,
+      "attack": 660,
+      "crit_rate": 362,
+      "crit_dmge": 446,
+      "armor": 252,
+      "block_prof": 2419,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
+        "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion.",
+        "Attuma\u2019s Energy Resistance is increased by 100 for each stack of Hydration."
+      ],
+      "url_page": "https://auntm.ai/champions/attuma/tier/4",
+      "champid": "attuma+4+3"
+    },
+    "4+4": {
+      "challenger_rating": 90,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
+          "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
+          "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 190.74 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
+          "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
+          "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
+        ],
+        "HYDRATION - MAX STACKS: 20": [
+          "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
+          "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 52.02, and his Regeneration Rate is increased by 1.75%.",
+          "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 1950.",
+          "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
+          "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
+          "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain 3 stacks of Hydration.",
+          "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
+        ],
+        "SPECIAL ATTACK 2": [
+          "200% chance to gain 2 stacks of Hydration.",
+          "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 31.71 for 10 seconds.",
+          "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
+        ],
+        "SPECIAL ATTACK 3": [
+          "110% chance to gain 5 stacks of Hydration.",
+          "100% chance to inflict a Bleed Debuff on the Opponent, dealing 1300.5 Direct Damage over 20 seconds.",
+          "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by"
+        ]
+      },
+      "rank": 4,
+      "prestige": 2958,
+      "hp": 12078,
+      "attack": 867,
+      "crit_rate": 372,
+      "crit_dmge": 458,
+      "armor": 284,
+      "block_prof": 2482,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
+        "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion.",
+        "Attuma\u2019s Energy Resistance is increased by 102.63 for each stack of Hydration."
+      ],
+      "url_page": "https://auntm.ai/champions/attuma/tier/4",
+      "champid": "attuma+4+4"
+    },
+    "4+5": {
+      "challenger_rating": 100,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
+          "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
+          "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 254.32 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
+          "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
+          "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
+        ],
+        "HYDRATION - MAX STACKS: 20": [
+          "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
+          "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 69.36, and his Regeneration Rate is increased by 1.75%.",
+          "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 2000.",
+          "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
+          "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
+          "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain 3 stacks of Hydration.",
+          "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
+        ],
+        "SPECIAL ATTACK 2": [
+          "200% chance to gain 2 stacks of Hydration.",
+          "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 32.52 for 10 seconds.",
+          "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
+        ],
+        "SPECIAL ATTACK 3": [
+          "110% chance to gain 5 stacks of Hydration.",
+          "100% chance to inflict a Bleed Debuff on the Opponent, dealing 1734 Direct Damage over 20 seconds.",
+          "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 857.14 for 10 seconds."
+        ]
+      },
+      "rank": 5,
+      "prestige": 3946,
+      "hp": 16116,
+      "attack": 1156,
+      "crit_rate": 381,
+      "crit_dmge": 470,
+      "armor": 318,
+      "block_prof": 2546,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
+        "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion.",
+        "Attuma\u2019s Energy Resistance is increased by 105.26 for each stack of Hydration."
+      ],
+      "url_page": "https://auntm.ai/champions/attuma/tier/4",
+      "champid": "attuma+4+5"
+    },
+    "5+1": {
+      "challenger_rating": 80,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
+          "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
+          "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 151.8 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
+          "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
+          "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
+        ],
+        "HYDRATION - MAX STACKS: 20": [
+          "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
+          "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 41.4, and his Regeneration Rate is increased by 1.75%.",
+          "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 1900.",
+          "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
+          "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
+          "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain 3 stacks of Hydration.",
+          "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
+        ],
+        "SPECIAL ATTACK 2": [
+          "200% chance to gain 2 stacks of Hydration.",
+          "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 30.89 for 10 seconds.",
+          "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
+        ],
+        "SPECIAL ATTACK 3": [
+          "110% chance to gain 5 stacks of Hydration.",
+          "100% chance to inflict a Bleed Debuff on the Opponent, dealing 1035 Direct Damage over 20 seconds.",
+          "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 814.29 for 10 seconds."
+        ]
+      },
+      "rank": 1,
+      "prestige": 2360,
+      "hp": 9618,
+      "attack": 690,
+      "crit_rate": 362,
+      "crit_dmge": 446,
+      "armor": 205,
+      "block_prof": 2419,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Attuma\u2019s Energy Resistance is increased by 100 for each stack of Hydration.",
+        "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
+        "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion."
+      ],
+      "url_page": "https://auntm.ai/champions/attuma/tier/5",
+      "champid": "attuma+5+1"
+    },
+    "5+2": {
+      "challenger_rating": 90,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
+          "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
+          "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 200.64 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
+          "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
+          "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
+        ],
+        "HYDRATION - MAX STACKS: 20": [
+          "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
+          "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 54.72, and his Regeneration Rate is increased by 1.75%.",
+          "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 1950.",
+          "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
+          "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
+          "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain 3 stacks of Hydration.",
+          "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
+        ],
+        "SPECIAL ATTACK 2": [
+          "200% chance to gain 2 stacks of Hydration.",
+          "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 31.71 for 10 seconds.",
+          "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
+        ],
+        "SPECIAL ATTACK 3": [
+          "110% chance to gain 5 stacks of Hydration.",
+          "100% chance to inflict a Bleed Debuff on the Opponent, dealing 1368 Direct Damage over 20 seconds.",
+          "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by"
+        ]
+      },
+      "rank": 2,
+      "prestige": 3120,
+      "hp": 12704,
+      "attack": 912,
+      "crit_rate": 372,
+      "crit_dmge": 458,
+      "armor": 234,
+      "block_prof": 2482,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Attuma\u2019s Energy Resistance is increased by 102.63 for each stack of Hydration.",
+        "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
+        "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion."
+      ],
+      "url_page": "https://auntm.ai/champions/attuma/tier/5",
+      "champid": "attuma+5+2"
+    },
+    "5+3": {
+      "challenger_rating": 100,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
+          "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
+          "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 280.28 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
+          "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
+          "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
+        ],
+        "HYDRATION - MAX STACKS: 20": [
+          "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
+          "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 76.44, and his Regeneration Rate is increased by 1.75%.",
+          "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 2000.",
+          "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
+          "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
+          "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain 3 stacks of Hydration.",
+          "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
+        ],
+        "SPECIAL ATTACK 2": [
+          "200% chance to gain 2 stacks of Hydration.",
+          "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 32.52 for 10 seconds.",
+          "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
+        ],
+        "SPECIAL ATTACK 3": [
+          "110% chance to gain 5 stacks of Hydration.",
+          "100% chance to inflict a Bleed Debuff on the Opponent, dealing 1911 Direct Damage over 20 seconds.",
+          "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 857.14 for 10 seconds."
+        ]
+      },
+      "rank": 3,
+      "prestige": 4368,
+      "hp": 17760,
+      "attack": 1274,
+      "crit_rate": 381,
+      "crit_dmge": 470,
+      "armor": 266,
+      "block_prof": 2546,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Attuma\u2019s Energy Resistance is increased by 105.26 for each stack of Hydration.",
+        "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
+        "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion."
+      ],
+      "url_page": "https://auntm.ai/champions/attuma/tier/5",
+      "champid": "attuma+5+3"
+    },
+    "5+4": {
+      "challenger_rating": 110,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
+          "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
+          "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 377.74 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
+          "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
+          "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
+        ],
+        "HYDRATION - MAX STACKS: 20": [
+          "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
+          "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 103.02, and his Regeneration Rate is increased by 1.75%.",
+          "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 2050.",
+          "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
+          "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
+          "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain 3 stacks of Hydration.",
+          "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
+        ],
+        "SPECIAL ATTACK 2": [
+          "200% chance to gain 2 stacks of Hydration.",
+          "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 33.33 for 10 seconds.",
+          "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
+        ],
+        "SPECIAL ATTACK 3": [
+          "110% chance to gain 5 stacks of Hydration.",
+          "100% chance to inflict a Bleed Debuff on the Opponent, dealing 2575.5 Direct Damage over 20 seconds.",
+          "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 878.57 for 10 seconds."
+        ]
+      },
+      "rank": 4,
+      "prestige": 5885,
+      "hp": 23933,
+      "attack": 1717,
+      "crit_rate": 391,
+      "crit_dmge": 481,
+      "armor": 299,
+      "block_prof": 2610,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Attuma\u2019s Energy Resistance is increased by 107.89 for each stack of Hydration.",
+        "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
+        "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion."
+      ],
+      "url_page": "https://auntm.ai/champions/attuma/tier/5",
+      "champid": "attuma+5+4"
+    },
+    "5+5": {
+      "challenger_rating": 120,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
+          "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
+          "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 509.96 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
+          "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
+          "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
+        ],
+        "HYDRATION - MAX STACKS: 20": [
+          "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
+          "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 139.08, and his Regeneration Rate is increased by 1.75%.",
+          "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 2100.",
+          "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
+          "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
+          "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain 3 stacks of Hydration.",
+          "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
+        ],
+        "SPECIAL ATTACK 2": [
+          "200% chance to gain 2 stacks of Hydration.",
+          "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 34.15 for 10 seconds.",
+          "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
+        ],
+        "SPECIAL ATTACK 3": [
+          "110% chance to gain 5 stacks of Hydration.",
+          "100% chance to inflict a Bleed Debuff on the Opponent, dealing 3477 Direct Damage over 20 seconds.",
+          "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by"
+        ]
+      },
+      "rank": 5,
+      "prestige": 7963,
+      "hp": 32313,
+      "attack": 2318,
+      "crit_rate": 400,
+      "crit_dmge": 493,
+      "armor": 334,
+      "block_prof": 2673,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Attuma\u2019s Energy Resistance is increased by 110.53 for each stack of Hydration.",
+        "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
+        "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion."
+      ],
+      "url_page": "https://auntm.ai/champions/attuma/tier/5",
+      "champid": "attuma+5+5"
+    },
+    "6+1": {
+      "challenger_rating": 110,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
+          "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
+          "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 401.06 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
+          "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
+          "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
+        ],
+        "HYDRATION - MAX STACKS: 20": [
+          "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
+          "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 109.38, and his Regeneration Rate is increased by 1.75%.",
+          "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 2050.",
+          "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
+          "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
+          "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain 3 stacks of Hydration.",
+          "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
+        ],
+        "SPECIAL ATTACK 2": [
+          "200% chance to gain 2 stacks of Hydration.",
+          "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 33.33 for 10 seconds.",
+          "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
+        ],
+        "SPECIAL ATTACK 3": [
+          "110% chance to gain 5 stacks of Hydration.",
+          "100% chance to inflict a Bleed Debuff on the Opponent, dealing 2734.5 Direct Damage over 20 seconds.",
+          "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 878.57 for 10 seconds."
+        ]
+      },
+      "rank": 1,
+      "prestige": 6235,
+      "hp": 25408,
+      "attack": 1823,
+      "crit_rate": 391,
+      "crit_dmge": 481,
+      "armor": 221,
+      "block_prof": 2610,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Attuma\u2019s Energy Resistance is increased by 107.89 for each stack of Hydration.",
+        "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
+        "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion."
+      ],
+      "url_page": "https://auntm.ai/champions/attuma/tier/6",
+      "champid": "attuma+6+1"
+    },
+    "6+2": {
+      "challenger_rating": 120,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
+          "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
+          "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 553.96 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
+          "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
+          "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
+        ],
+        "HYDRATION - MAX STACKS: 20": [
+          "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
+          "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 151.08, and his Regeneration Rate is increased by 1.75%.",
+          "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 2100.",
+          "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
+          "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
+          "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain 3 stacks of Hydration.",
+          "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
+        ],
+        "SPECIAL ATTACK 2": [
+          "200% chance to gain 2 stacks of Hydration.",
+          "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 34.15 for 10 seconds.",
+          "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
+        ],
+        "SPECIAL ATTACK 3": [
+          "110% chance to gain 5 stacks of Hydration.",
+          "100% chance to inflict a Bleed Debuff on the Opponent, dealing 3777 Direct Damage over 20 seconds.",
+          "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 900 for 10 seconds."
+        ]
+      },
+      "rank": 2,
+      "prestige": 8610,
+      "hp": 35096,
+      "attack": 2518,
+      "crit_rate": 400,
+      "crit_dmge": 493,
+      "armor": 252,
+      "block_prof": 2673,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Attuma\u2019s Energy Resistance is increased by 110.53 for each stack of Hydration.",
+        "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
+        "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion."
+      ],
+      "url_page": "https://auntm.ai/champions/attuma/tier/6",
+      "champid": "attuma+6+2"
+    },
+    "6+3": {
+      "challenger_rating": 130,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
+          "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
+          "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 657.14 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
+          "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
+          "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
+        ],
+        "HYDRATION - MAX STACKS: 20": [
+          "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
+          "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 179.22, and his Regeneration Rate is increased by 1.75%.",
+          "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 2150.",
+          "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
+          "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
+          "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain 3 stacks of Hydration.",
+          "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
+        ],
+        "SPECIAL ATTACK 2": [
+          "200% chance to gain 2 stacks of Hydration.",
+          "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 34.96 for 10 seconds.",
+          "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
+        ],
+        "SPECIAL ATTACK 3": [
+          "110% chance to gain 5 stacks of Hydration.",
+          "100% chance to inflict a Bleed Debuff on the Opponent, dealing 4480.5 Direct Damage over 20 seconds.",
+          "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by 921.43 for 10 seconds."
+        ]
+      },
+      "rank": 3,
+      "prestige": 10236,
+      "hp": 41636,
+      "attack": 2987,
+      "crit_rate": 410,
+      "crit_dmge": 505,
+      "armor": 285,
+      "block_prof": 2737,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Attuma\u2019s Energy Resistance is increased by 113.16 for each stack of Hydration.",
+        "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
+        "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion."
+      ],
+      "url_page": "https://auntm.ai/champions/attuma/tier/6",
+      "champid": "attuma+6+3"
+    },
+    "6+4": {
+      "challenger_rating": 140,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Attuma\u2019s plans can make the best out of the worst situation, or the worst out of the best. All Ability Accuracy modification effects on him have their potencies reversed.",
+          "While one of Attuma\u2019s personal abilities with a listed chance has over a 100% chance to trigger, the ability has a chance to trigger additional times. Each time, the chance is equal to the former chance -100%. This repeats until the ability fails due to chance.",
+          "Attuma\u2019s rough Talokanil skin abrades his Opponents with a 15% chance to deal 751.96 Physical Damage when they strike him with a contact attack. Damage scales with Base Attack only.",
+          "Whenever an Opponent Evades Attuma while he has less than 1 Bar of Power, he has a 100% chance to instantly gain 10% of his Max Power and passively go Unstoppable for 0.50 seconds.",
+          "Attuma\u2019s Base Regeneration Rate is 25% instead of the usual 100%. It cannot be lowered further."
+        ],
+        "HYDRATION - MAX STACKS: 20": [
+          "The water in Attuma\u2019s Special Attacks grants him stacks of Hydration, which are Passives that fall off one at a time over 7 seconds as Attuma dries out.",
+          "With every stack of Hydration, Attuma\u2019s Attack Rating is increased by 205.08, and his Regeneration Rate is increased by 1.75%.",
+          "At {3} stacks of Hydration, Attuma becomes immune to Incinerate and gains a Precision Passive increasing his Critical Rating by by 2200.",
+          "At {3} stacks of Hydration, Attuma becomes passively Unstoppable.",
+          "When he is inflicted with or immune to an Incinerate or Shock, Attuma loses 1 stack of Hydration, and Hydration falls off 30% faster while suffering from Coldsnap."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance for Attuma to attempt to Purify 1 non-damaging Debuff, excluding Concussions, and replace it with a Concussion Debuff, reducing Attuma\u2019s Ability Accuracy by 50% for 25 seconds. If no non-damaging Debuffs are present, this ability consumes the oldest stack of Hydration instead.",
+          "This ability also triggers when Attuma is inflicted with a Stun or Infuriate Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% chance to gain 3 stacks of Hydration.",
+          "On activation, 120% chance to gain a True Accuracy Passive. These Passives last 7 seconds and fall off one at a time."
+        ],
+        "SPECIAL ATTACK 2": [
+          "200% chance to gain 2 stacks of Hydration.",
+          "Each hit has a 50% chance to grant Attuma a Cruelty Passive, increasing his Critical Damage Rating by 35.77 for 10 seconds.",
+          "Triggering one of these Cruelties pauses Attuma\u2019s existing personal Concussions for the Cruelty\u2019s duration."
+        ],
+        "SPECIAL ATTACK 3": [
+          "110% chance to gain 5 stacks of Hydration.",
+          "100% chance to inflict a Bleed Debuff on the Opponent, dealing 5127 Direct Damage over 20 seconds.",
+          "When one of these Bleeds fails to apply due to an Immunity, instead inflict a Physical Vulnerability Debuff that reduces the Opponent\u2019s Physical Resistance by"
+        ]
+      },
+      "rank": 4,
+      "prestige": 11712,
+      "hp": 47646,
+      "attack": 3418,
+      "crit_rate": 420,
+      "crit_dmge": 517,
+      "armor": 321,
+      "block_prof": 2800,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Attuma\u2019s Energy Resistance is increased by 115.79 for each stack of Hydration.",
+        "Incoming Bleed Debuffs suffer -50 to 90% reduced potency.",
+        "Attuma\u2019s rough skin can now also deal damage any time he strikes his Opponent. In addition, its damage is increased by 5 to 10% for each Bleed effect on either Champion."
+      ],
+      "url_page": "https://auntm.ai/champions/attuma/tier/6",
+      "champid": "attuma+6+4"
+    },
+    "find": {
+      "story_quests": {
+        "act_1": [],
+        "act_2": [],
+        "act_3": [],
+        "act_4": [],
+        "act_5": [],
+        "act_6": [],
+        "act_7": []
+      }
     }
+  },
+  "name": "ATTUMA",
+  "champid": "attuma",
+  "class": "Skill",
+  "img_portrait": "https://api.rexians.tk/assets/portraits/attuma.png",
+  "contact": "PHYSICAL",
+  "tags": ["Villain", "Size: L"],
+  "released": "11/10/2022"
 }

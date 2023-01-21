@@ -1,1263 +1,1359 @@
 {
-    "name": "DIABLO",
-    "class": "Mystic",
-    "img_portrait": "https://api.rexians.tk/assets/portraits/diablo.png",
-    "contact": null,
-    "tags": [
-        "Villain",
-        "Size: M"
-    ],
-    "released": "1/24/2019",
-    "champid": "diablo",
-    "data": {
-        "2+1": {
-            "rank": 1,
-            "prestige": "261",
-            "hp": "1012",
-            "attack": "81",
-            "crit_rate": "376",
-            "crit_dmge": "426",
-            "armor": "33",
-            "block_prof": "2611",
-            "energy_resist": "400",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Poisoned, Diablo takes 10 to 25% reduced damage from all sources.",
-                "While the opponent is Poisoned, Diablo gains +6.48 to 16.2 Attack Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/diablo/tier/2",
-            "champid": "diablo+2+1",
-            "challenger_rating": 20,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Diablo\u2019s alchemical self-experimentation grants the following:",
-                    "+400 Energy Resistance.",
-                    "Incoming Poison effects suffer -100% Potency.",
-                    "Basic Attacks deal Energy Damage instead of Physical."
-                ],
-                "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
-                    "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
-                    "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +4.86 Attack Rating & +10% Poison Potency. Max Stacks: 8."
-                ],
-                "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
-                    "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 4.05 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
-                    "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
-                    "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
-                    "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
-                ],
-                "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
-                    "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 55.08 direct damage over 14 seconds and reduce healing effects by 30%.",
-                    "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
-                    "Medium Attack 2: 75% chance to inflict a Poison Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 70.84 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "First hit Reapplies all personal Poison effects on the opponent.",
-                    "This attack is Unblockable and deals a burst of 40.5 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "This attack can only be used once per fight.",
-                    "This attack gains +40.5 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
-                    "Distilled Will: Gain a Regeneration Passive, healing 101.2 Health over 4 seconds.",
-                    "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 16.2 Energy Damage when they expire or are Nullified.",
-                    "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
-                    "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
-                ]
-            }
-        },
-        "2+2": {
-            "rank": 2,
-            "prestige": "342",
-            "hp": "1337",
-            "attack": "107",
-            "crit_rate": "388",
-            "crit_dmge": "439",
-            "armor": "52",
-            "block_prof": "2693",
-            "energy_resist": "413",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Poisoned, Diablo takes 10 to 25% reduced damage from all sources.",
-                "While the opponent is Poisoned, Diablo gains +8.56 to 21.4 Attack Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/diablo/tier/2",
-            "champid": "diablo+2+2",
-            "challenger_rating": 30,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Diablo\u2019s alchemical self-experimentation grants the following:",
-                    "+412.5 Energy Resistance.",
-                    "Incoming Poison effects suffer -100% Potency.",
-                    "Basic Attacks deal Energy Damage instead of Physical."
-                ],
-                "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
-                    "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
-                    "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +6.42 Attack Rating & +10% Poison Potency. Max Stacks: 8."
-                ],
-                "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
-                    "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 5.35 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
-                    "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
-                    "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
-                    "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
-                ],
-                "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
-                    "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 72.76 direct damage over 14 seconds and reduce healing effects by 30%.",
-                    "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
-                    "Medium Attack 2: 75% chance to inflict a Poison Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 93.59 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "First hit Reapplies all personal Poison effects on the opponent.",
-                    "This attack is Unblockable and deals a burst of 53.5 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "This attack can only be used once per fight.",
-                    "This attack gains +53.5 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
-                    "Distilled Will: Gain a Regeneration Passive, healing 133.7 Health over 4 seconds.",
-                    "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 21.4 Energy Damage when they expire or are Nullified.",
-                    "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
-                    "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
-                ]
-            }
-        },
-        "2+3": {
-            "rank": 3,
-            "prestige": "588",
-            "hp": "2122",
-            "attack": "169",
-            "crit_rate": "399",
-            "crit_dmge": "452",
-            "armor": "71",
-            "block_prof": "2774",
-            "energy_resist": "425",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Poisoned, Diablo takes 10 to 25% reduced damage from all sources.",
-                "While the opponent is Poisoned, Diablo gains +13.52 to 33.8 Attack Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/diablo/tier/2",
-            "champid": "diablo+2+3",
-            "challenger_rating": 40,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Diablo\u2019s alchemical self-experimentation grants the following:",
-                    "+425 Energy Resistance.",
-                    "Incoming Poison effects suffer -100% Potency.",
-                    "Basic Attacks deal Energy Damage instead of Physical."
-                ],
-                "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
-                    "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
-                    "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +10.14 Attack Rating & +10% Poison Potency. Max Stacks: 8."
-                ],
-                "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
-                    "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 8.49 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
-                    "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
-                    "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
-                    "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
-                ],
-                "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
-                    "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 114.92 direct damage over 14 seconds and reduce healing effects by 30%.",
-                    "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
-                    "Medium Attack 2: 75% chance to inflict a Poison Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 148.54 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "First hit Reapplies all personal Poison effects on the opponent.",
-                    "This attack is Unblockable and deals a burst of 84.5 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "This attack can only be used once per fight.",
-                    "This attack gains +84.5 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
-                    "Distilled Will: Gain a Regeneration Passive, healing 212.2 Health over 4 seconds.",
-                    "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 33.8 Energy Damage when they expire or are Nullified.",
-                    "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
-                    "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
-                ]
-            }
-        },
-        "3+1": {
-            "rank": 1,
-            "prestige": "509",
-            "hp": "1835",
-            "attack": "146",
-            "crit_rate": "399",
-            "crit_dmge": "452",
-            "armor": "53",
-            "block_prof": "2774",
-            "energy_resist": "425",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Poisoned, Diablo takes 10 to 25% reduced damage from all sources.",
-                "While the opponent is Poisoned, Diablo gains +11.68 to 29.2 Attack Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/diablo/tier/3",
-            "champid": "diablo+3+1",
-            "challenger_rating": 40,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Diablo\u2019s alchemical self-experimentation grants the following:",
-                    "+425 Energy Resistance.",
-                    "Incoming Poison effects suffer -100% Potency.",
-                    "Basic Attacks deal Energy Damage instead of Physical."
-                ],
-                "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
-                    "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
-                    "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +8.76 Attack Rating & +10% Poison Potency. Max Stacks: 8."
-                ],
-                "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
-                    "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 7.34 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
-                    "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
-                    "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
-                    "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
-                ],
-                "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
-                    "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 99.28 direct damage over 14 seconds and reduce healing effects by 30%.",
-                    "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
-                    "Medium Attack 2: 75% chance to inflict a Poison Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 128.45 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "First hit Reapplies all personal Poison effects on the opponent.",
-                    "This attack is Unblockable and deals a burst of 73 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "This attack can only be used once per fight.",
-                    "This attack gains +73 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
-                    "Distilled Will: Gain a Regeneration Passive, healing 183.5 Health over 4 seconds.",
-                    "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 29.2 Energy Damage when they expire or are Nullified.",
-                    "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
-                    "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
-                ]
-            }
-        },
-        "3+2": {
-            "rank": 2,
-            "prestige": "811",
-            "hp": "2935",
-            "attack": "234",
-            "crit_rate": "411",
-            "crit_dmge": "466",
-            "armor": "55",
-            "block_prof": "2856",
-            "energy_resist": "438",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Poisoned, Diablo takes 10 to 25% reduced damage from all sources.",
-                "While the opponent is Poisoned, Diablo gains +18.72 to 46.8 Attack Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/diablo/tier/3",
-            "champid": "diablo+3+2",
-            "challenger_rating": 50,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Diablo\u2019s alchemical self-experimentation grants the following:",
-                    "+437.5 Energy Resistance.",
-                    "Incoming Poison effects suffer -100% Potency.",
-                    "Basic Attacks deal Energy Damage instead of Physical."
-                ],
-                "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
-                    "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
-                    "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +14.04 Attack Rating & +10% Poison Potency. Max Stacks: 8."
-                ],
-                "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
-                    "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 11.74 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
-                    "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
-                    "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
-                    "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
-                ],
-                "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
-                    "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 159.12 direct damage over 14 seconds and reduce healing effects by 30%.",
-                    "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
-                    "Medium Attack 2: 75% chance to inflict a Poison Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 205.45 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "First hit Reapplies all personal Poison effects on the opponent.",
-                    "This attack is Unblockable and deals a burst of 117 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "This attack can only be used once per fight.",
-                    "This attack gains +117 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
-                    "Distilled Will: Gain a Regeneration Passive, healing 293.5 Health over 4 seconds.",
-                    "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 46.8 Energy Damage when they expire or are Nullified.",
-                    "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
-                    "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
-                ]
-            }
-        },
-        "3+3": {
-            "rank": 3,
-            "prestige": "1134",
-            "hp": "4107",
-            "attack": "327",
-            "crit_rate": "423",
-            "crit_dmge": "479",
-            "armor": "56",
-            "block_prof": "2937",
-            "energy_resist": "450",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Poisoned, Diablo takes 10 to 25% reduced damage from all sources.",
-                "While the opponent is Poisoned, Diablo gains +26.16 to 65.4 Attack Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/diablo/tier/3",
-            "champid": "diablo+3+3",
-            "challenger_rating": 60,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Diablo\u2019s alchemical self-experimentation grants the following:",
-                    "+450 Energy Resistance.",
-                    "Incoming Poison effects suffer -100% Potency.",
-                    "Basic Attacks deal Energy Damage instead of Physical."
-                ],
-                "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
-                    "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
-                    "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +19.62 Attack Rating & +10% Poison Potency. Max Stacks: 8."
-                ],
-                "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
-                    "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 16.43 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
-                    "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
-                    "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
-                    "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
-                ],
-                "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
-                    "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 222.36 direct damage over 14 seconds and reduce healing effects by 30%.",
-                    "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
-                    "Medium Attack 2: 75% chance to inflict a Poison Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 287.49 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "First hit Reapplies all personal Poison effects on the opponent.",
-                    "This attack is Unblockable and deals a burst of 163.5 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "This attack can only be used once per fight.",
-                    "This attack gains +163.5 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
-                    "Distilled Will: Gain a Regeneration Passive, healing 410.7 Health over 4 seconds.",
-                    "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 65.4 Energy Damage when they expire or are Nullified.",
-                    "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
-                    "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
-                ]
-            }
-        },
-        "3+4": {
-            "rank": 4,
-            "prestige": "1555",
-            "hp": "5639",
-            "attack": "449",
-            "crit_rate": "434",
-            "crit_dmge": "492",
-            "armor": "58",
-            "block_prof": "3019",
-            "energy_resist": "463",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Poisoned, Diablo takes 10 to 25% reduced damage from all sources.",
-                "While the opponent is Poisoned, Diablo gains +35.92 to 89.79 Attack Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/diablo/tier/3",
-            "champid": "diablo+3+4",
-            "challenger_rating": 70,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Diablo\u2019s alchemical self-experimentation grants the following:",
-                    "+462.5 Energy Resistance.",
-                    "Incoming Poison effects suffer -100% Potency.",
-                    "Basic Attacks deal Energy Damage instead of Physical."
-                ],
-                "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
-                    "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
-                    "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +26.94 Attack Rating & +10% Poison Potency. Max Stacks: 8."
-                ],
-                "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
-                    "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 22.56 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
-                    "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
-                    "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
-                    "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
-                ],
-                "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
-                    "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 305.32 direct damage over 14 seconds and reduce healing effects by 30%.",
-                    "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
-                    "Medium Attack 2: 75% chance to inflict a Poison Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 394.73 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "First hit Reapplies all personal Poison effects on the opponent.",
-                    "This attack is Unblockable and deals a burst of 224.5 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "This attack can only be used once per fight.",
-                    "This attack gains +224.5 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
-                    "Distilled Will: Gain a Regeneration Passive, healing 563.9 Health over 4 seconds.",
-                    "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 89.8 Energy Damage when they expire or are Nullified.",
-                    "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
-                    "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
-                ]
-            }
-        },
-        "4+1": {
-            "rank": 1,
-            "prestige": "1136",
-            "hp": "4103",
-            "attack": "327",
-            "crit_rate": "423",
-            "crit_dmge": "479",
-            "armor": "56",
-            "block_prof": "2937",
-            "energy_resist": "450",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Poisoned, Diablo takes 10 to 25% reduced damage from all sources.",
-                "While the opponent is Poisoned, Diablo gains +26.16 to 65.4 Attack Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/diablo/tier/4",
-            "champid": "diablo+4+1",
-            "challenger_rating": 60,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Diablo\u2019s alchemical self-experimentation grants the following:",
-                    "+450 Energy Resistance.",
-                    "Incoming Poison effects suffer -100% Potency.",
-                    "Basic Attacks deal Energy Damage instead of Physical."
-                ],
-                "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
-                    "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
-                    "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +19.62 Attack Rating & +10% Poison Potency. Max Stacks: 8."
-                ],
-                "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
-                    "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 16.41 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
-                    "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
-                    "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
-                    "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
-                ],
-                "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
-                    "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 222.36 direct damage over 14 seconds and reduce healing effects by 30%.",
-                    "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
-                    "Medium Attack 2: 75% chance to inflict a Poison Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 287.21 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "First hit Reapplies all personal Poison effects on the opponent.",
-                    "This attack is Unblockable and deals a burst of 163.5 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "This attack can only be used once per fight.",
-                    "This attack gains +163.5 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
-                    "Distilled Will: Gain a Regeneration Passive, healing 410.3 Health over 4 seconds.",
-                    "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 65.4 Energy Damage when they expire or are Nullified.",
-                    "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
-                    "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
-                ]
-            }
-        },
-        "4+2": {
-            "rank": 2,
-            "prestige": "1592",
-            "hp": "5756",
-            "attack": "458",
-            "crit_rate": "434",
-            "crit_dmge": "492",
-            "armor": "78",
-            "block_prof": "3019",
-            "energy_resist": "463",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Poisoned, Diablo takes 10 to 25% reduced damage from all sources.",
-                "While the opponent is Poisoned, Diablo gains +36.64 to 91.59 Attack Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/diablo/tier/4",
-            "champid": "diablo+4+2",
-            "challenger_rating": 70,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Diablo\u2019s alchemical self-experimentation grants the following:",
-                    "+462.5 Energy Resistance.",
-                    "Incoming Poison effects suffer -100% Potency.",
-                    "Basic Attacks deal Energy Damage instead of Physical."
-                ],
-                "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
-                    "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
-                    "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +27.48 Attack Rating & +10% Poison Potency. Max Stacks: 8."
-                ],
-                "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
-                    "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 23.02 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
-                    "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
-                    "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
-                    "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
-                ],
-                "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
-                    "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 311.44 direct damage over 14 seconds and reduce healing effects by 30%.",
-                    "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
-                    "Medium Attack 2: 75% chance to inflict a Poison Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 402.92 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "First hit Reapplies all personal Poison effects on the opponent.",
-                    "This attack is Unblockable and deals a burst of 229 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "This attack can only be used once per fight.",
-                    "This attack gains +229 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
-                    "Distilled Will: Gain a Regeneration Passive, healing 575.6 Health over 4 seconds.",
-                    "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 91.6 Energy Damage when they expire or are Nullified.",
-                    "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
-                    "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
-                ]
-            }
-        },
-        "4+3": {
-            "rank": 3,
-            "prestige": "2228",
-            "hp": "8065",
-            "attack": "642",
-            "crit_rate": "446",
-            "crit_dmge": "506",
-            "armor": "100",
-            "block_prof": "3100",
-            "energy_resist": "475",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Poisoned, Diablo takes 10 to 25% reduced damage from all sources.",
-                "While the opponent is Poisoned, Diablo gains +51.36 to 128.39 Attack Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/diablo/tier/4",
-            "champid": "diablo+4+3",
-            "challenger_rating": 80,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Diablo\u2019s alchemical self-experimentation grants the following:",
-                    "+475 Energy Resistance.",
-                    "Incoming Poison effects suffer -100% Potency.",
-                    "Basic Attacks deal Energy Damage instead of Physical."
-                ],
-                "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
-                    "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
-                    "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +38.52 Attack Rating & +10% Poison Potency. Max Stacks: 8."
-                ],
-                "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
-                    "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 32.26 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
-                    "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
-                    "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
-                    "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
-                ],
-                "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
-                    "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 436.56 direct damage over 14 seconds and reduce healing effects by 30%.",
-                    "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
-                    "Medium Attack 2: 75% chance to inflict a Poison Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 564.55 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "First hit Reapplies all personal Poison effects on the opponent.",
-                    "This attack is Unblockable and deals a burst of 321 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "This attack can only be used once per fight.",
-                    "This attack gains +321 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
-                    "Distilled Will: Gain a Regeneration Passive, healing 806.5 Health over 4 seconds.",
-                    "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 128.4 Energy Damage when they expire or are Nullified.",
-                    "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
-                    "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
-                ]
-            }
-        },
-        "4+4": {
-            "rank": 4,
-            "prestige": "2934",
-            "hp": "10597",
-            "attack": "844",
-            "crit_rate": "458",
-            "crit_dmge": "519",
-            "armor": "125",
-            "block_prof": "3182",
-            "energy_resist": "488",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Poisoned, Diablo takes 10 to 25% reduced damage from all sources.",
-                "While the opponent is Poisoned, Diablo gains +67.52 to 168.79 Attack Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/diablo/tier/4",
-            "champid": "diablo+4+4",
-            "challenger_rating": 90,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Diablo\u2019s alchemical self-experimentation grants the following:",
-                    "+487.5 Energy Resistance.",
-                    "Incoming Poison effects suffer -100% Potency.",
-                    "Basic Attacks deal Energy Damage instead of Physical."
-                ],
-                "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
-                    "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
-                    "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +50.64 Attack Rating & +10% Poison Potency. Max Stacks: 8."
-                ],
-                "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
-                    "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 42.39 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
-                    "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
-                    "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
-                    "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
-                ],
-                "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
-                    "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 573.92 direct damage over 14 seconds and reduce healing effects by 30%.",
-                    "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
-                    "Medium Attack 2: 75% chance to inflict a Poison Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 741.79 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "First hit Reapplies all personal Poison effects on the opponent.",
-                    "This attack is Unblockable and deals a burst of 422 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "This attack can only be used once per fight.",
-                    "This attack gains +422 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
-                    "Distilled Will: Gain a Regeneration Passive, healing 1059.7 Health over 4 seconds.",
-                    "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 168.8 Energy Damage when they expire or are Nullified.",
-                    "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
-                    "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
-                ]
-            }
-        },
-        "4+5": {
-            "rank": 5,
-            "prestige": "3911",
-            "hp": "14140",
-            "attack": "1126",
-            "crit_rate": "470",
-            "crit_dmge": "532",
-            "armor": "151",
-            "block_prof": "3264",
-            "energy_resist": "500",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Poisoned, Diablo takes 10 to 25% reduced damage from all sources.",
-                "While the opponent is Poisoned, Diablo gains +90.08 to 225.19 Attack Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/diablo/tier/4",
-            "champid": "diablo+4+5",
-            "challenger_rating": 100,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Diablo\u2019s alchemical self-experimentation grants the following:",
-                    "+500 Energy Resistance.",
-                    "Incoming Poison effects suffer -100% Potency.",
-                    "Basic Attacks deal Energy Damage instead of Physical."
-                ],
-                "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
-                    "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
-                    "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +67.56 Attack Rating & +10% Poison Potency. Max Stacks: 8."
-                ],
-                "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
-                    "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 56.56 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
-                    "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
-                    "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
-                    "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
-                ],
-                "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
-                    "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 765.68 direct damage over 14 seconds and reduce healing effects by 30%.",
-                    "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
-                    "Medium Attack 2: 75% chance to inflict a Poison Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 989.8 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "First hit Reapplies all personal Poison effects on the opponent.",
-                    "This attack is Unblockable and deals a burst of 563 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "This attack can only be used once per fight.",
-                    "This attack gains +563 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
-                    "Distilled Will: Gain a Regeneration Passive, healing 1414 Health over 4 seconds.",
-                    "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 225.2 Energy Damage when they expire or are Nullified.",
-                    "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
-                    "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
-                ]
-            }
-        },
-        "5+1": {
-            "rank": 1,
-            "prestige": "2312",
-            "hp": "8438",
-            "attack": "652",
-            "crit_rate": "446",
-            "crit_dmge": "506",
-            "armor": "235",
-            "block_prof": "3100",
-            "energy_resist": "475",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Poisoned, Diablo takes 15 to 30% reduced damage from all sources.",
-                "While the opponent is Poisoned, Diablo gains +65.2 to 163 Attack Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/diablo/tier/5",
-            "champid": "diablo+5+1",
-            "challenger_rating": 80,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Diablo\u2019s alchemical self-experimentation grants the following:",
-                    "+475 Energy Resistance.",
-                    "Incoming Poison effects suffer -100% Potency.",
-                    "Basic Attacks deal Energy Damage instead of Physical."
-                ],
-                "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
-                    "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
-                    "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +39.12 Attack Rating & +10% Poison Potency. Max Stacks: 8."
-                ],
-                "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
-                    "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 33.75 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
-                    "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
-                    "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
-                    "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
-                ],
-                "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
-                    "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 443.36 direct damage over 14 seconds and reduce healing effects by 30%.",
-                    "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
-                    "Medium Attack 2: 75% chance to inflict a Poison Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 590.66 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "First hit Reapplies all personal Poison effects on the opponent.",
-                    "This attack is Unblockable and deals a burst of 326 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "This attack can only be used once per fight.",
-                    "This attack gains +326 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
-                    "Distilled Will: Gain a Regeneration Passive, healing 843.8 Health over 4 seconds.",
-                    "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 130.4 Energy Damage when they expire or are Nullified.",
-                    "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
-                    "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
-                ]
-            }
-        },
-        "5+2": {
-            "rank": 2,
-            "prestige": "3050",
-            "hp": "11146",
-            "attack": "861",
-            "crit_rate": "458",
-            "crit_dmge": "519",
-            "armor": "266",
-            "block_prof": "3182",
-            "energy_resist": "488",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Poisoned, Diablo takes 15 to 30% reduced damage from all sources.",
-                "While the opponent is Poisoned, Diablo gains +86.1 to 215.25 Attack Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/diablo/tier/5",
-            "champid": "diablo+5+2",
-            "challenger_rating": 90,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Diablo\u2019s alchemical self-experimentation grants the following:",
-                    "+487.5 Energy Resistance.",
-                    "Incoming Poison effects suffer -100% Potency.",
-                    "Basic Attacks deal Energy Damage instead of Physical."
-                ],
-                "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
-                    "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
-                    "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +51.66 Attack Rating & +10% Poison Potency. Max Stacks: 8."
-                ],
-                "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
-                    "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 44.58 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
-                    "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
-                    "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
-                    "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
-                ],
-                "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
-                    "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 585.48 direct damage over 14 seconds and reduce healing effects by 30%.",
-                    "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
-                    "Medium Attack 2: 75% chance to inflict a Poison Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 780.22 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "First hit Reapplies all personal Poison effects on the opponent.",
-                    "This attack is Unblockable and deals a burst of 430.5 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "This attack can only be used once per fight.",
-                    "This attack gains +430.5 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
-                    "Distilled Will: Gain a Regeneration Passive, healing 1114.6 Health over 4 seconds.",
-                    "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 172.2 Energy Damage when they expire or are Nullified.",
-                    "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
-                    "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
-                ]
-            }
-        },
-        "5+3": {
-            "rank": 3,
-            "prestige": "4269",
-            "hp": "15582",
-            "attack": "1203",
-            "crit_rate": "470",
-            "crit_dmge": "532",
-            "armor": "299",
-            "block_prof": "3264",
-            "energy_resist": "500",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Poisoned, Diablo takes 15 to 30% reduced damage from all sources.",
-                "While the opponent is Poisoned, Diablo gains +120.3 to 300.75 Attack Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/diablo/tier/5",
-            "champid": "diablo+5+3",
-            "challenger_rating": 100,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Diablo\u2019s alchemical self-experimentation grants the following:",
-                    "+500 Energy Resistance.",
-                    "Incoming Poison effects suffer -100% Potency.",
-                    "Basic Attacks deal Energy Damage instead of Physical."
-                ],
-                "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
-                    "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
-                    "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +72.18 Attack Rating & +10% Poison Potency. Max Stacks: 8."
-                ],
-                "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
-                    "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 62.33 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
-                    "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
-                    "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
-                    "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
-                ],
-                "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
-                    "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 818.04 direct damage over 14 seconds and reduce healing effects by 30%.",
-                    "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
-                    "Medium Attack 2: 75% chance to inflict a Poison Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 1090.74 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "First hit Reapplies all personal Poison effects on the opponent.",
-                    "This attack is Unblockable and deals a burst of 601.5 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "This attack can only be used once per fight.",
-                    "This attack gains +601.5 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
-                    "Distilled Will: Gain a Regeneration Passive, healing 1558.2 Health over 4 seconds.",
-                    "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 240.6 Energy Damage when they expire or are Nullified.",
-                    "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
-                    "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
-                ]
-            }
-        },
-        "5+4": {
-            "rank": 4,
-            "prestige": "5750",
-            "hp": "20997",
-            "attack": "1621",
-            "crit_rate": "481",
-            "crit_dmge": "545",
-            "armor": "334",
-            "block_prof": "3345",
-            "energy_resist": "513",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Poisoned, Diablo takes 15 to 30% reduced damage from all sources.",
-                "While the opponent is Poisoned, Diablo gains +162.1 to 405.26 Attack Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/diablo/tier/5",
-            "champid": "diablo+5+4",
-            "challenger_rating": 110,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Diablo\u2019s alchemical self-experimentation grants the following:",
-                    "+512.5 Energy Resistance.",
-                    "Incoming Poison effects suffer -100% Potency.",
-                    "Basic Attacks deal Energy Damage instead of Physical."
-                ],
-                "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
-                    "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
-                    "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +97.26 Attack Rating & +10% Poison Potency. Max Stacks: 8."
-                ],
-                "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
-                    "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 83.99 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
-                    "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
-                    "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
-                    "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
-                ],
-                "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
-                    "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 1102.28 direct damage over 14 seconds and reduce healing effects by 30%.",
-                    "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
-                    "Medium Attack 2: 75% chance to inflict a Poison Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 1469.79 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "First hit Reapplies all personal Poison effects on the opponent.",
-                    "This attack is Unblockable and deals a burst of 810.5 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "This attack can only be used once per fight.",
-                    "This attack gains +810.5 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
-                    "Distilled Will: Gain a Regeneration Passive, healing 2099.7 Health over 4 seconds.",
-                    "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 324.2 Energy Damage when they expire or are Nullified.",
-                    "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
-                    "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
-                ]
-            }
-        },
-        "5+5": {
-            "rank": 5,
-            "prestige": "7775",
-            "hp": "28350",
-            "attack": "2189",
-            "crit_rate": "493",
-            "crit_dmge": "559",
-            "armor": "371",
-            "block_prof": "3427",
-            "energy_resist": "525",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Poisoned, Diablo takes 15 to 30% reduced damage from all sources.",
-                "While the opponent is Poisoned, Diablo gains +218.9 to 547.26 Attack Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/diablo/tier/5",
-            "champid": "diablo+5+5",
-            "challenger_rating": 120,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Diablo\u2019s alchemical self-experimentation grants the following:",
-                    "+525 Energy Resistance.",
-                    "Incoming Poison effects suffer -100% Potency.",
-                    "Basic Attacks deal Energy Damage instead of Physical."
-                ],
-                "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
-                    "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
-                    "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +131.34 Attack Rating & +10% Poison Potency. Max Stacks: 8."
-                ],
-                "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
-                    "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 113.4 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
-                    "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
-                    "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
-                    "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
-                ],
-                "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
-                    "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 1488.52 direct damage over 14 seconds and reduce healing effects by 30%.",
-                    "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
-                    "Medium Attack 2: 75% chance to inflict a Poison Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 1984.5 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "First hit Reapplies all personal Poison effects on the opponent.",
-                    "This attack is Unblockable and deals a burst of 1094.5 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "This attack can only be used once per fight.",
-                    "This attack gains +1094.5 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
-                    "Distilled Will: Gain a Regeneration Passive, healing 2835 Health over 4 seconds.",
-                    "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 437.8 Energy Damage when they expire or are Nullified.",
-                    "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
-                    "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
-                ]
-            }
-        },
-        "6+1": {
-            "rank": 1,
-            "prestige": "6089",
-            "hp": "22292",
-            "attack": "1721",
-            "crit_rate": "481",
-            "crit_dmge": "545",
-            "armor": "254",
-            "block_prof": "3345",
-            "energy_resist": "513",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Poisoned, Diablo takes 15 to 30% reduced damage from all sources.",
-                "While the opponent is Poisoned, Diablo gains +172.1 to 430.26 Attack Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/diablo/tier/6",
-            "champid": "diablo+6+1",
-            "challenger_rating": 110,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Diablo\u2019s alchemical self-experimentation grants the following:",
-                    "+512.5 Energy Resistance.",
-                    "Incoming Poison effects suffer -100% Potency.",
-                    "Basic Attacks deal Energy Damage instead of Physical."
-                ],
-                "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
-                    "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
-                    "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +103.26 Attack Rating & +10% Poison Potency. Max Stacks: 8."
-                ],
-                "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
-                    "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 89.17 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
-                    "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
-                    "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
-                    "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
-                ],
-                "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
-                    "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 1170.28 direct damage over 14 seconds and reduce healing effects by 30%.",
-                    "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
-                    "Medium Attack 2: 75% chance to inflict a Poison Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 1560.44 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "First hit Reapplies all personal Poison effects on the opponent.",
-                    "This attack is Unblockable and deals a burst of 860.5 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "This attack can only be used once per fight.",
-                    "This attack gains +860.5 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
-                    "Distilled Will: Gain a Regeneration Passive, healing 2229.2 Health over 4 seconds.",
-                    "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 344.2 Energy Damage when they expire or are Nullified.",
-                    "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
-                    "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
-                ]
-            }
-        },
-        "6+2": {
-            "rank": 2,
-            "prestige": "8409",
-            "hp": "30792",
-            "attack": "2377",
-            "crit_rate": "493",
-            "crit_dmge": "559",
-            "armor": "287",
-            "block_prof": "3427",
-            "energy_resist": "525",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Poisoned, Diablo takes 15 to 30% reduced damage from all sources.",
-                "While the opponent is Poisoned, Diablo gains +237.7 to 594.26 Attack Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/diablo/tier/6",
-            "champid": "diablo+6+2",
-            "challenger_rating": 120,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Diablo\u2019s alchemical self-experimentation grants the following:",
-                    "+525 Energy Resistance.",
-                    "Incoming Poison effects suffer -100% Potency.",
-                    "Basic Attacks deal Energy Damage instead of Physical."
-                ],
-                "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
-                    "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
-                    "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +142.62 Attack Rating & +10% Poison Potency. Max Stacks: 8."
-                ],
-                "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
-                    "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 123.17 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
-                    "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
-                    "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
-                    "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
-                ],
-                "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
-                    "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 1616.36 direct damage over 14 seconds and reduce healing effects by 30%.",
-                    "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
-                    "Medium Attack 2: 75% chance to inflict a Poison Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 2155.44 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "First hit Reapplies all personal Poison effects on the opponent.",
-                    "This attack is Unblockable and deals a burst of 1188.5 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "This attack can only be used once per fight.",
-                    "This attack gains +1188.5 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
-                    "Distilled Will: Gain a Regeneration Passive, healing 3079.2 Health over 4 seconds.",
-                    "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 475.4 Energy Damage when they expire or are Nullified.",
-                    "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
-                    "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
-                ]
-            }
-        },
-        "6+3": {
-            "rank": 3,
-            "prestige": "9996",
-            "hp": "36530",
-            "attack": "2820",
-            "crit_rate": "505",
-            "crit_dmge": "572",
-            "armor": "322",
-            "block_prof": "3508",
-            "energy_resist": "538",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Poisoned, Diablo takes 15 to 30% reduced damage from all sources.",
-                "While the opponent is Poisoned, Diablo gains +282 to 705.01 Attack Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/diablo/tier/6",
-            "champid": "diablo+6+3",
-            "challenger_rating": 130,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Diablo\u2019s alchemical self-experimentation grants the following:",
-                    "+537.5 Energy Resistance.",
-                    "Incoming Poison effects suffer -100% Potency.",
-                    "Basic Attacks deal Energy Damage instead of Physical."
-                ],
-                "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
-                    "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
-                    "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +169.2 Attack Rating & +10% Poison Potency. Max Stacks: 8."
-                ],
-                "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
-                    "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 146.12 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
-                    "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
-                    "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
-                    "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
-                ],
-                "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
-                    "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 1917.6 direct damage over 14 seconds and reduce healing effects by 30%.",
-                    "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
-                    "Medium Attack 2: 75% chance to inflict a Poison Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 2557.1 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "First hit Reapplies all personal Poison effects on the opponent.",
-                    "This attack is Unblockable and deals a burst of 1410 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "This attack can only be used once per fight.",
-                    "This attack gains +1410 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
-                    "Distilled Will: Gain a Regeneration Passive, healing 3653 Health over 4 seconds.",
-                    "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 564 Energy Damage when they expire or are Nullified.",
-                    "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
-                    "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
-                ]
-            }
-        },
-        "6+4": {
-            "rank": 4,
-            "prestige": "11436",
-            "hp": "41803",
-            "attack": "3227",
-            "crit_rate": "517",
-            "crit_dmge": "585",
-            "armor": "359",
-            "block_prof": "3590",
-            "energy_resist": "550",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Poisoned, Diablo takes 15 to 30% reduced damage from all sources.",
-                "While the opponent is Poisoned, Diablo gains +322.7 to 806.76 Attack Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/diablo/tier/6",
-            "champid": "diablo+6+4",
-            "challenger_rating": 140,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Diablo\u2019s alchemical self-experimentation grants the following:",
-                    "+550 Energy Resistance.",
-                    "Incoming Poison effects suffer -100% Potency.",
-                    "Basic Attacks deal Energy Damage instead of Physical."
-                ],
-                "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
-                    "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
-                    "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +193.62 Attack Rating & +10% Poison Potency. Max Stacks: 8."
-                ],
-                "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
-                    "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 167.21 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
-                    "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
-                    "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
-                    "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
-                ],
-                "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
-                    "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 2194.36 direct damage over 14 seconds and reduce healing effects by 30%.",
-                    "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
-                    "Medium Attack 2: 75% chance to inflict a Poison Debuff."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 2926.21 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "First hit Reapplies all personal Poison effects on the opponent.",
-                    "This attack is Unblockable and deals a burst of 1613.5 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "This attack can only be used once per fight.",
-                    "This attack gains +1613.5 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
-                    "Distilled Will: Gain a Regeneration Passive, healing 4180.3 Health over 4 seconds.",
-                    "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 645.4 Energy Damage when they expire or are Nullified.",
-                    "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
-                    "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
-                ]
-            }
-        },
-        "find": {
-            "story_quests": {
-                "act_1": [],
-                "act_2": [],
-                "act_3": [
-                    "3.2.1",
-                    "3.2.2",
-                    "3.2.4"
-                ],
-                "act_4": [],
-                "act_5": [],
-                "act_6": [
-                    "6.2.2",
-                    "6.2.5",
-                    "6.2.6",
-                    "6.3.1",
-                    "6.3.4",
-                    "6.3.5",
-                    "6.4.4",
-                    "6.4.5"
-                ],
-                "act_7": [
-                    "7.1.1",
-                    "7.2.5",
-                    "7.3.2",
-                    "7.3.5",
-                    "7.4.2",
-                    "7.4.6"
-                ]
-            }
-        }
+  "champid": "diablo",
+  "data": {
+    "2+1": {
+      "rank": 1,
+      "prestige": "261",
+      "hp": "1012",
+      "attack": "81",
+      "crit_rate": "376",
+      "crit_dmge": "426",
+      "armor": "33",
+      "block_prof": "2611",
+      "energy_resist": "400",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Poisoned, Diablo takes 10 to 25% reduced damage from all sources.",
+        "While the opponent is Poisoned, Diablo gains +6.48 to 16.2 Attack Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/diablo/tier/2",
+      "champid": "diablo+2+1",
+      "challenger_rating": 20,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Diablo\u2019s alchemical self-experimentation grants the following:",
+          "+400 Energy Resistance.",
+          "Incoming Poison effects suffer -100% Potency.",
+          "Basic Attacks deal Energy Damage instead of Physical."
+        ],
+        "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
+          "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
+          "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +4.86 Attack Rating & +10% Poison Potency. Max Stacks: 8."
+        ],
+        "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
+          "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 4.05 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
+          "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
+          "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
+          "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
+        ],
+        "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
+          "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 55.08 direct damage over 14 seconds and reduce healing effects by 30%.",
+          "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
+          "Medium Attack 2: 75% chance to inflict a Poison Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 70.84 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "First hit Reapplies all personal Poison effects on the opponent.",
+          "This attack is Unblockable and deals a burst of 40.5 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "This attack can only be used once per fight.",
+          "This attack gains +40.5 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
+          "Distilled Will: Gain a Regeneration Passive, healing 101.2 Health over 4 seconds.",
+          "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 16.2 Energy Damage when they expire or are Nullified.",
+          "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
+          "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
+        ]
+      }
+    },
+    "2+2": {
+      "rank": 2,
+      "prestige": "342",
+      "hp": "1337",
+      "attack": "107",
+      "crit_rate": "388",
+      "crit_dmge": "439",
+      "armor": "52",
+      "block_prof": "2693",
+      "energy_resist": "413",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Poisoned, Diablo takes 10 to 25% reduced damage from all sources.",
+        "While the opponent is Poisoned, Diablo gains +8.56 to 21.4 Attack Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/diablo/tier/2",
+      "champid": "diablo+2+2",
+      "challenger_rating": 30,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Diablo\u2019s alchemical self-experimentation grants the following:",
+          "+412.5 Energy Resistance.",
+          "Incoming Poison effects suffer -100% Potency.",
+          "Basic Attacks deal Energy Damage instead of Physical."
+        ],
+        "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
+          "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
+          "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +6.42 Attack Rating & +10% Poison Potency. Max Stacks: 8."
+        ],
+        "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
+          "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 5.35 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
+          "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
+          "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
+          "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
+        ],
+        "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
+          "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 72.76 direct damage over 14 seconds and reduce healing effects by 30%.",
+          "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
+          "Medium Attack 2: 75% chance to inflict a Poison Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 93.59 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "First hit Reapplies all personal Poison effects on the opponent.",
+          "This attack is Unblockable and deals a burst of 53.5 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "This attack can only be used once per fight.",
+          "This attack gains +53.5 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
+          "Distilled Will: Gain a Regeneration Passive, healing 133.7 Health over 4 seconds.",
+          "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 21.4 Energy Damage when they expire or are Nullified.",
+          "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
+          "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
+        ]
+      }
+    },
+    "2+3": {
+      "rank": 3,
+      "prestige": "588",
+      "hp": "2122",
+      "attack": "169",
+      "crit_rate": "399",
+      "crit_dmge": "452",
+      "armor": "71",
+      "block_prof": "2774",
+      "energy_resist": "425",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Poisoned, Diablo takes 10 to 25% reduced damage from all sources.",
+        "While the opponent is Poisoned, Diablo gains +13.52 to 33.8 Attack Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/diablo/tier/2",
+      "champid": "diablo+2+3",
+      "challenger_rating": 40,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Diablo\u2019s alchemical self-experimentation grants the following:",
+          "+425 Energy Resistance.",
+          "Incoming Poison effects suffer -100% Potency.",
+          "Basic Attacks deal Energy Damage instead of Physical."
+        ],
+        "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
+          "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
+          "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +10.14 Attack Rating & +10% Poison Potency. Max Stacks: 8."
+        ],
+        "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
+          "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 8.49 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
+          "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
+          "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
+          "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
+        ],
+        "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
+          "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 114.92 direct damage over 14 seconds and reduce healing effects by 30%.",
+          "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
+          "Medium Attack 2: 75% chance to inflict a Poison Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 148.54 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "First hit Reapplies all personal Poison effects on the opponent.",
+          "This attack is Unblockable and deals a burst of 84.5 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "This attack can only be used once per fight.",
+          "This attack gains +84.5 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
+          "Distilled Will: Gain a Regeneration Passive, healing 212.2 Health over 4 seconds.",
+          "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 33.8 Energy Damage when they expire or are Nullified.",
+          "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
+          "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
+        ]
+      }
+    },
+    "3+1": {
+      "rank": 1,
+      "prestige": "509",
+      "hp": "1835",
+      "attack": "146",
+      "crit_rate": "399",
+      "crit_dmge": "452",
+      "armor": "53",
+      "block_prof": "2774",
+      "energy_resist": "425",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Poisoned, Diablo takes 10 to 25% reduced damage from all sources.",
+        "While the opponent is Poisoned, Diablo gains +11.68 to 29.2 Attack Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/diablo/tier/3",
+      "champid": "diablo+3+1",
+      "challenger_rating": 40,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Diablo\u2019s alchemical self-experimentation grants the following:",
+          "+425 Energy Resistance.",
+          "Incoming Poison effects suffer -100% Potency.",
+          "Basic Attacks deal Energy Damage instead of Physical."
+        ],
+        "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
+          "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
+          "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +8.76 Attack Rating & +10% Poison Potency. Max Stacks: 8."
+        ],
+        "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
+          "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 7.34 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
+          "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
+          "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
+          "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
+        ],
+        "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
+          "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 99.28 direct damage over 14 seconds and reduce healing effects by 30%.",
+          "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
+          "Medium Attack 2: 75% chance to inflict a Poison Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 128.45 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "First hit Reapplies all personal Poison effects on the opponent.",
+          "This attack is Unblockable and deals a burst of 73 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "This attack can only be used once per fight.",
+          "This attack gains +73 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
+          "Distilled Will: Gain a Regeneration Passive, healing 183.5 Health over 4 seconds.",
+          "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 29.2 Energy Damage when they expire or are Nullified.",
+          "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
+          "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
+        ]
+      }
+    },
+    "3+2": {
+      "rank": 2,
+      "prestige": "811",
+      "hp": "2935",
+      "attack": "234",
+      "crit_rate": "411",
+      "crit_dmge": "466",
+      "armor": "55",
+      "block_prof": "2856",
+      "energy_resist": "438",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Poisoned, Diablo takes 10 to 25% reduced damage from all sources.",
+        "While the opponent is Poisoned, Diablo gains +18.72 to 46.8 Attack Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/diablo/tier/3",
+      "champid": "diablo+3+2",
+      "challenger_rating": 50,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Diablo\u2019s alchemical self-experimentation grants the following:",
+          "+437.5 Energy Resistance.",
+          "Incoming Poison effects suffer -100% Potency.",
+          "Basic Attacks deal Energy Damage instead of Physical."
+        ],
+        "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
+          "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
+          "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +14.04 Attack Rating & +10% Poison Potency. Max Stacks: 8."
+        ],
+        "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
+          "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 11.74 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
+          "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
+          "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
+          "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
+        ],
+        "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
+          "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 159.12 direct damage over 14 seconds and reduce healing effects by 30%.",
+          "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
+          "Medium Attack 2: 75% chance to inflict a Poison Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 205.45 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "First hit Reapplies all personal Poison effects on the opponent.",
+          "This attack is Unblockable and deals a burst of 117 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "This attack can only be used once per fight.",
+          "This attack gains +117 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
+          "Distilled Will: Gain a Regeneration Passive, healing 293.5 Health over 4 seconds.",
+          "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 46.8 Energy Damage when they expire or are Nullified.",
+          "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
+          "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
+        ]
+      }
+    },
+    "3+3": {
+      "rank": 3,
+      "prestige": "1134",
+      "hp": "4107",
+      "attack": "327",
+      "crit_rate": "423",
+      "crit_dmge": "479",
+      "armor": "56",
+      "block_prof": "2937",
+      "energy_resist": "450",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Poisoned, Diablo takes 10 to 25% reduced damage from all sources.",
+        "While the opponent is Poisoned, Diablo gains +26.16 to 65.4 Attack Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/diablo/tier/3",
+      "champid": "diablo+3+3",
+      "challenger_rating": 60,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Diablo\u2019s alchemical self-experimentation grants the following:",
+          "+450 Energy Resistance.",
+          "Incoming Poison effects suffer -100% Potency.",
+          "Basic Attacks deal Energy Damage instead of Physical."
+        ],
+        "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
+          "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
+          "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +19.62 Attack Rating & +10% Poison Potency. Max Stacks: 8."
+        ],
+        "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
+          "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 16.43 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
+          "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
+          "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
+          "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
+        ],
+        "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
+          "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 222.36 direct damage over 14 seconds and reduce healing effects by 30%.",
+          "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
+          "Medium Attack 2: 75% chance to inflict a Poison Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 287.49 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "First hit Reapplies all personal Poison effects on the opponent.",
+          "This attack is Unblockable and deals a burst of 163.5 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "This attack can only be used once per fight.",
+          "This attack gains +163.5 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
+          "Distilled Will: Gain a Regeneration Passive, healing 410.7 Health over 4 seconds.",
+          "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 65.4 Energy Damage when they expire or are Nullified.",
+          "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
+          "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
+        ]
+      }
+    },
+    "3+4": {
+      "rank": 4,
+      "prestige": "1555",
+      "hp": "5639",
+      "attack": "449",
+      "crit_rate": "434",
+      "crit_dmge": "492",
+      "armor": "58",
+      "block_prof": "3019",
+      "energy_resist": "463",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Poisoned, Diablo takes 10 to 25% reduced damage from all sources.",
+        "While the opponent is Poisoned, Diablo gains +35.92 to 89.79 Attack Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/diablo/tier/3",
+      "champid": "diablo+3+4",
+      "challenger_rating": 70,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Diablo\u2019s alchemical self-experimentation grants the following:",
+          "+462.5 Energy Resistance.",
+          "Incoming Poison effects suffer -100% Potency.",
+          "Basic Attacks deal Energy Damage instead of Physical."
+        ],
+        "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
+          "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
+          "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +26.94 Attack Rating & +10% Poison Potency. Max Stacks: 8."
+        ],
+        "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
+          "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 22.56 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
+          "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
+          "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
+          "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
+        ],
+        "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
+          "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 305.32 direct damage over 14 seconds and reduce healing effects by 30%.",
+          "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
+          "Medium Attack 2: 75% chance to inflict a Poison Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 394.73 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "First hit Reapplies all personal Poison effects on the opponent.",
+          "This attack is Unblockable and deals a burst of 224.5 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "This attack can only be used once per fight.",
+          "This attack gains +224.5 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
+          "Distilled Will: Gain a Regeneration Passive, healing 563.9 Health over 4 seconds.",
+          "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 89.8 Energy Damage when they expire or are Nullified.",
+          "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
+          "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
+        ]
+      }
+    },
+    "4+1": {
+      "rank": 1,
+      "prestige": "1136",
+      "hp": "4103",
+      "attack": "327",
+      "crit_rate": "423",
+      "crit_dmge": "479",
+      "armor": "56",
+      "block_prof": "2937",
+      "energy_resist": "450",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Poisoned, Diablo takes 10 to 25% reduced damage from all sources.",
+        "While the opponent is Poisoned, Diablo gains +26.16 to 65.4 Attack Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/diablo/tier/4",
+      "champid": "diablo+4+1",
+      "challenger_rating": 60,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Diablo\u2019s alchemical self-experimentation grants the following:",
+          "+450 Energy Resistance.",
+          "Incoming Poison effects suffer -100% Potency.",
+          "Basic Attacks deal Energy Damage instead of Physical."
+        ],
+        "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
+          "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
+          "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +19.62 Attack Rating & +10% Poison Potency. Max Stacks: 8."
+        ],
+        "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
+          "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 16.41 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
+          "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
+          "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
+          "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
+        ],
+        "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
+          "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 222.36 direct damage over 14 seconds and reduce healing effects by 30%.",
+          "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
+          "Medium Attack 2: 75% chance to inflict a Poison Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 287.21 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "First hit Reapplies all personal Poison effects on the opponent.",
+          "This attack is Unblockable and deals a burst of 163.5 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "This attack can only be used once per fight.",
+          "This attack gains +163.5 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
+          "Distilled Will: Gain a Regeneration Passive, healing 410.3 Health over 4 seconds.",
+          "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 65.4 Energy Damage when they expire or are Nullified.",
+          "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
+          "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
+        ]
+      }
+    },
+    "4+2": {
+      "rank": 2,
+      "prestige": "1592",
+      "hp": "5756",
+      "attack": "458",
+      "crit_rate": "434",
+      "crit_dmge": "492",
+      "armor": "78",
+      "block_prof": "3019",
+      "energy_resist": "463",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Poisoned, Diablo takes 10 to 25% reduced damage from all sources.",
+        "While the opponent is Poisoned, Diablo gains +36.64 to 91.59 Attack Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/diablo/tier/4",
+      "champid": "diablo+4+2",
+      "challenger_rating": 70,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Diablo\u2019s alchemical self-experimentation grants the following:",
+          "+462.5 Energy Resistance.",
+          "Incoming Poison effects suffer -100% Potency.",
+          "Basic Attacks deal Energy Damage instead of Physical."
+        ],
+        "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
+          "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
+          "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +27.48 Attack Rating & +10% Poison Potency. Max Stacks: 8."
+        ],
+        "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
+          "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 23.02 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
+          "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
+          "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
+          "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
+        ],
+        "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
+          "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 311.44 direct damage over 14 seconds and reduce healing effects by 30%.",
+          "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
+          "Medium Attack 2: 75% chance to inflict a Poison Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 402.92 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "First hit Reapplies all personal Poison effects on the opponent.",
+          "This attack is Unblockable and deals a burst of 229 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "This attack can only be used once per fight.",
+          "This attack gains +229 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
+          "Distilled Will: Gain a Regeneration Passive, healing 575.6 Health over 4 seconds.",
+          "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 91.6 Energy Damage when they expire or are Nullified.",
+          "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
+          "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
+        ]
+      }
+    },
+    "4+3": {
+      "rank": 3,
+      "prestige": "2228",
+      "hp": "8065",
+      "attack": "642",
+      "crit_rate": "446",
+      "crit_dmge": "506",
+      "armor": "100",
+      "block_prof": "3100",
+      "energy_resist": "475",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Poisoned, Diablo takes 10 to 25% reduced damage from all sources.",
+        "While the opponent is Poisoned, Diablo gains +51.36 to 128.39 Attack Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/diablo/tier/4",
+      "champid": "diablo+4+3",
+      "challenger_rating": 80,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Diablo\u2019s alchemical self-experimentation grants the following:",
+          "+475 Energy Resistance.",
+          "Incoming Poison effects suffer -100% Potency.",
+          "Basic Attacks deal Energy Damage instead of Physical."
+        ],
+        "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
+          "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
+          "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +38.52 Attack Rating & +10% Poison Potency. Max Stacks: 8."
+        ],
+        "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
+          "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 32.26 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
+          "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
+          "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
+          "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
+        ],
+        "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
+          "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 436.56 direct damage over 14 seconds and reduce healing effects by 30%.",
+          "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
+          "Medium Attack 2: 75% chance to inflict a Poison Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 564.55 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "First hit Reapplies all personal Poison effects on the opponent.",
+          "This attack is Unblockable and deals a burst of 321 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "This attack can only be used once per fight.",
+          "This attack gains +321 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
+          "Distilled Will: Gain a Regeneration Passive, healing 806.5 Health over 4 seconds.",
+          "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 128.4 Energy Damage when they expire or are Nullified.",
+          "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
+          "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
+        ]
+      }
+    },
+    "4+4": {
+      "rank": 4,
+      "prestige": "2934",
+      "hp": "10597",
+      "attack": "844",
+      "crit_rate": "458",
+      "crit_dmge": "519",
+      "armor": "125",
+      "block_prof": "3182",
+      "energy_resist": "488",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Poisoned, Diablo takes 10 to 25% reduced damage from all sources.",
+        "While the opponent is Poisoned, Diablo gains +67.52 to 168.79 Attack Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/diablo/tier/4",
+      "champid": "diablo+4+4",
+      "challenger_rating": 90,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Diablo\u2019s alchemical self-experimentation grants the following:",
+          "+487.5 Energy Resistance.",
+          "Incoming Poison effects suffer -100% Potency.",
+          "Basic Attacks deal Energy Damage instead of Physical."
+        ],
+        "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
+          "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
+          "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +50.64 Attack Rating & +10% Poison Potency. Max Stacks: 8."
+        ],
+        "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
+          "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 42.39 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
+          "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
+          "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
+          "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
+        ],
+        "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
+          "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 573.92 direct damage over 14 seconds and reduce healing effects by 30%.",
+          "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
+          "Medium Attack 2: 75% chance to inflict a Poison Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 741.79 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "First hit Reapplies all personal Poison effects on the opponent.",
+          "This attack is Unblockable and deals a burst of 422 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "This attack can only be used once per fight.",
+          "This attack gains +422 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
+          "Distilled Will: Gain a Regeneration Passive, healing 1059.7 Health over 4 seconds.",
+          "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 168.8 Energy Damage when they expire or are Nullified.",
+          "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
+          "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
+        ]
+      }
+    },
+    "4+5": {
+      "rank": 5,
+      "prestige": "3911",
+      "hp": "14140",
+      "attack": "1126",
+      "crit_rate": "470",
+      "crit_dmge": "532",
+      "armor": "151",
+      "block_prof": "3264",
+      "energy_resist": "500",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Poisoned, Diablo takes 10 to 25% reduced damage from all sources.",
+        "While the opponent is Poisoned, Diablo gains +90.08 to 225.19 Attack Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/diablo/tier/4",
+      "champid": "diablo+4+5",
+      "challenger_rating": 100,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Diablo\u2019s alchemical self-experimentation grants the following:",
+          "+500 Energy Resistance.",
+          "Incoming Poison effects suffer -100% Potency.",
+          "Basic Attacks deal Energy Damage instead of Physical."
+        ],
+        "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
+          "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
+          "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +67.56 Attack Rating & +10% Poison Potency. Max Stacks: 8."
+        ],
+        "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
+          "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 56.56 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
+          "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
+          "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
+          "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
+        ],
+        "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
+          "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 765.68 direct damage over 14 seconds and reduce healing effects by 30%.",
+          "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
+          "Medium Attack 2: 75% chance to inflict a Poison Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 989.8 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "First hit Reapplies all personal Poison effects on the opponent.",
+          "This attack is Unblockable and deals a burst of 563 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "This attack can only be used once per fight.",
+          "This attack gains +563 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
+          "Distilled Will: Gain a Regeneration Passive, healing 1414 Health over 4 seconds.",
+          "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 225.2 Energy Damage when they expire or are Nullified.",
+          "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
+          "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
+        ]
+      }
+    },
+    "5+1": {
+      "rank": 1,
+      "prestige": "2312",
+      "hp": "8438",
+      "attack": "652",
+      "crit_rate": "446",
+      "crit_dmge": "506",
+      "armor": "235",
+      "block_prof": "3100",
+      "energy_resist": "475",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Poisoned, Diablo takes 15 to 30% reduced damage from all sources.",
+        "While the opponent is Poisoned, Diablo gains +65.2 to 163 Attack Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/diablo/tier/5",
+      "champid": "diablo+5+1",
+      "challenger_rating": 80,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Diablo\u2019s alchemical self-experimentation grants the following:",
+          "+475 Energy Resistance.",
+          "Incoming Poison effects suffer -100% Potency.",
+          "Basic Attacks deal Energy Damage instead of Physical."
+        ],
+        "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
+          "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
+          "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +39.12 Attack Rating & +10% Poison Potency. Max Stacks: 8."
+        ],
+        "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
+          "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 33.75 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
+          "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
+          "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
+          "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
+        ],
+        "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
+          "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 443.36 direct damage over 14 seconds and reduce healing effects by 30%.",
+          "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
+          "Medium Attack 2: 75% chance to inflict a Poison Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 590.66 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "First hit Reapplies all personal Poison effects on the opponent.",
+          "This attack is Unblockable and deals a burst of 326 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "This attack can only be used once per fight.",
+          "This attack gains +326 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
+          "Distilled Will: Gain a Regeneration Passive, healing 843.8 Health over 4 seconds.",
+          "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 130.4 Energy Damage when they expire or are Nullified.",
+          "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
+          "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
+        ]
+      }
+    },
+    "5+2": {
+      "rank": 2,
+      "prestige": "3050",
+      "hp": "11146",
+      "attack": "861",
+      "crit_rate": "458",
+      "crit_dmge": "519",
+      "armor": "266",
+      "block_prof": "3182",
+      "energy_resist": "488",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Poisoned, Diablo takes 15 to 30% reduced damage from all sources.",
+        "While the opponent is Poisoned, Diablo gains +86.1 to 215.25 Attack Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/diablo/tier/5",
+      "champid": "diablo+5+2",
+      "challenger_rating": 90,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Diablo\u2019s alchemical self-experimentation grants the following:",
+          "+487.5 Energy Resistance.",
+          "Incoming Poison effects suffer -100% Potency.",
+          "Basic Attacks deal Energy Damage instead of Physical."
+        ],
+        "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
+          "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
+          "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +51.66 Attack Rating & +10% Poison Potency. Max Stacks: 8."
+        ],
+        "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
+          "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 44.58 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
+          "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
+          "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
+          "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
+        ],
+        "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
+          "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 585.48 direct damage over 14 seconds and reduce healing effects by 30%.",
+          "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
+          "Medium Attack 2: 75% chance to inflict a Poison Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 780.22 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "First hit Reapplies all personal Poison effects on the opponent.",
+          "This attack is Unblockable and deals a burst of 430.5 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "This attack can only be used once per fight.",
+          "This attack gains +430.5 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
+          "Distilled Will: Gain a Regeneration Passive, healing 1114.6 Health over 4 seconds.",
+          "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 172.2 Energy Damage when they expire or are Nullified.",
+          "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
+          "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
+        ]
+      }
+    },
+    "5+3": {
+      "rank": 3,
+      "prestige": "4269",
+      "hp": "15582",
+      "attack": "1203",
+      "crit_rate": "470",
+      "crit_dmge": "532",
+      "armor": "299",
+      "block_prof": "3264",
+      "energy_resist": "500",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Poisoned, Diablo takes 15 to 30% reduced damage from all sources.",
+        "While the opponent is Poisoned, Diablo gains +120.3 to 300.75 Attack Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/diablo/tier/5",
+      "champid": "diablo+5+3",
+      "challenger_rating": 100,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Diablo\u2019s alchemical self-experimentation grants the following:",
+          "+500 Energy Resistance.",
+          "Incoming Poison effects suffer -100% Potency.",
+          "Basic Attacks deal Energy Damage instead of Physical."
+        ],
+        "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
+          "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
+          "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +72.18 Attack Rating & +10% Poison Potency. Max Stacks: 8."
+        ],
+        "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
+          "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 62.33 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
+          "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
+          "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
+          "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
+        ],
+        "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
+          "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 818.04 direct damage over 14 seconds and reduce healing effects by 30%.",
+          "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
+          "Medium Attack 2: 75% chance to inflict a Poison Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 1090.74 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "First hit Reapplies all personal Poison effects on the opponent.",
+          "This attack is Unblockable and deals a burst of 601.5 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "This attack can only be used once per fight.",
+          "This attack gains +601.5 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
+          "Distilled Will: Gain a Regeneration Passive, healing 1558.2 Health over 4 seconds.",
+          "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 240.6 Energy Damage when they expire or are Nullified.",
+          "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
+          "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
+        ]
+      }
+    },
+    "5+4": {
+      "rank": 4,
+      "prestige": "5750",
+      "hp": "20997",
+      "attack": "1621",
+      "crit_rate": "481",
+      "crit_dmge": "545",
+      "armor": "334",
+      "block_prof": "3345",
+      "energy_resist": "513",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Poisoned, Diablo takes 15 to 30% reduced damage from all sources.",
+        "While the opponent is Poisoned, Diablo gains +162.1 to 405.26 Attack Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/diablo/tier/5",
+      "champid": "diablo+5+4",
+      "challenger_rating": 110,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Diablo\u2019s alchemical self-experimentation grants the following:",
+          "+512.5 Energy Resistance.",
+          "Incoming Poison effects suffer -100% Potency.",
+          "Basic Attacks deal Energy Damage instead of Physical."
+        ],
+        "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
+          "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
+          "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +97.26 Attack Rating & +10% Poison Potency. Max Stacks: 8."
+        ],
+        "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
+          "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 83.99 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
+          "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
+          "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
+          "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
+        ],
+        "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
+          "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 1102.28 direct damage over 14 seconds and reduce healing effects by 30%.",
+          "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
+          "Medium Attack 2: 75% chance to inflict a Poison Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 1469.79 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "First hit Reapplies all personal Poison effects on the opponent.",
+          "This attack is Unblockable and deals a burst of 810.5 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "This attack can only be used once per fight.",
+          "This attack gains +810.5 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
+          "Distilled Will: Gain a Regeneration Passive, healing 2099.7 Health over 4 seconds.",
+          "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 324.2 Energy Damage when they expire or are Nullified.",
+          "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
+          "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
+        ]
+      }
+    },
+    "5+5": {
+      "rank": 5,
+      "prestige": "7775",
+      "hp": "28350",
+      "attack": "2189",
+      "crit_rate": "493",
+      "crit_dmge": "559",
+      "armor": "371",
+      "block_prof": "3427",
+      "energy_resist": "525",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Poisoned, Diablo takes 15 to 30% reduced damage from all sources.",
+        "While the opponent is Poisoned, Diablo gains +218.9 to 547.26 Attack Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/diablo/tier/5",
+      "champid": "diablo+5+5",
+      "challenger_rating": 120,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Diablo\u2019s alchemical self-experimentation grants the following:",
+          "+525 Energy Resistance.",
+          "Incoming Poison effects suffer -100% Potency.",
+          "Basic Attacks deal Energy Damage instead of Physical."
+        ],
+        "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
+          "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
+          "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +131.34 Attack Rating & +10% Poison Potency. Max Stacks: 8."
+        ],
+        "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
+          "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 113.4 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
+          "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
+          "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
+          "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
+        ],
+        "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
+          "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 1488.52 direct damage over 14 seconds and reduce healing effects by 30%.",
+          "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
+          "Medium Attack 2: 75% chance to inflict a Poison Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 1984.5 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "First hit Reapplies all personal Poison effects on the opponent.",
+          "This attack is Unblockable and deals a burst of 1094.5 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "This attack can only be used once per fight.",
+          "This attack gains +1094.5 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
+          "Distilled Will: Gain a Regeneration Passive, healing 2835 Health over 4 seconds.",
+          "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 437.8 Energy Damage when they expire or are Nullified.",
+          "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
+          "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
+        ]
+      }
+    },
+    "6+1": {
+      "rank": 1,
+      "prestige": "6089",
+      "hp": "22292",
+      "attack": "1721",
+      "crit_rate": "481",
+      "crit_dmge": "545",
+      "armor": "254",
+      "block_prof": "3345",
+      "energy_resist": "513",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Poisoned, Diablo takes 15 to 30% reduced damage from all sources.",
+        "While the opponent is Poisoned, Diablo gains +172.1 to 430.26 Attack Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/diablo/tier/6",
+      "champid": "diablo+6+1",
+      "challenger_rating": 110,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Diablo\u2019s alchemical self-experimentation grants the following:",
+          "+512.5 Energy Resistance.",
+          "Incoming Poison effects suffer -100% Potency.",
+          "Basic Attacks deal Energy Damage instead of Physical."
+        ],
+        "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
+          "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
+          "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +103.26 Attack Rating & +10% Poison Potency. Max Stacks: 8."
+        ],
+        "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
+          "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 89.17 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
+          "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
+          "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
+          "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
+        ],
+        "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
+          "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 1170.28 direct damage over 14 seconds and reduce healing effects by 30%.",
+          "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
+          "Medium Attack 2: 75% chance to inflict a Poison Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 1560.44 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "First hit Reapplies all personal Poison effects on the opponent.",
+          "This attack is Unblockable and deals a burst of 860.5 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "This attack can only be used once per fight.",
+          "This attack gains +860.5 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
+          "Distilled Will: Gain a Regeneration Passive, healing 2229.2 Health over 4 seconds.",
+          "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 344.2 Energy Damage when they expire or are Nullified.",
+          "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
+          "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
+        ]
+      }
+    },
+    "6+2": {
+      "rank": 2,
+      "prestige": "8409",
+      "hp": "30792",
+      "attack": "2377",
+      "crit_rate": "493",
+      "crit_dmge": "559",
+      "armor": "287",
+      "block_prof": "3427",
+      "energy_resist": "525",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Poisoned, Diablo takes 15 to 30% reduced damage from all sources.",
+        "While the opponent is Poisoned, Diablo gains +237.7 to 594.26 Attack Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/diablo/tier/6",
+      "champid": "diablo+6+2",
+      "challenger_rating": 120,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Diablo\u2019s alchemical self-experimentation grants the following:",
+          "+525 Energy Resistance.",
+          "Incoming Poison effects suffer -100% Potency.",
+          "Basic Attacks deal Energy Damage instead of Physical."
+        ],
+        "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
+          "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
+          "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +142.62 Attack Rating & +10% Poison Potency. Max Stacks: 8."
+        ],
+        "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
+          "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 123.17 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
+          "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
+          "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
+          "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
+        ],
+        "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
+          "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 1616.36 direct damage over 14 seconds and reduce healing effects by 30%.",
+          "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
+          "Medium Attack 2: 75% chance to inflict a Poison Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 2155.44 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "First hit Reapplies all personal Poison effects on the opponent.",
+          "This attack is Unblockable and deals a burst of 1188.5 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "This attack can only be used once per fight.",
+          "This attack gains +1188.5 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
+          "Distilled Will: Gain a Regeneration Passive, healing 3079.2 Health over 4 seconds.",
+          "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 475.4 Energy Damage when they expire or are Nullified.",
+          "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
+          "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
+        ]
+      }
+    },
+    "6+3": {
+      "rank": 3,
+      "prestige": "9996",
+      "hp": "36530",
+      "attack": "2820",
+      "crit_rate": "505",
+      "crit_dmge": "572",
+      "armor": "322",
+      "block_prof": "3508",
+      "energy_resist": "538",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Poisoned, Diablo takes 15 to 30% reduced damage from all sources.",
+        "While the opponent is Poisoned, Diablo gains +282 to 705.01 Attack Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/diablo/tier/6",
+      "champid": "diablo+6+3",
+      "challenger_rating": 130,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Diablo\u2019s alchemical self-experimentation grants the following:",
+          "+537.5 Energy Resistance.",
+          "Incoming Poison effects suffer -100% Potency.",
+          "Basic Attacks deal Energy Damage instead of Physical."
+        ],
+        "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
+          "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
+          "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +169.2 Attack Rating & +10% Poison Potency. Max Stacks: 8."
+        ],
+        "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
+          "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 146.12 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
+          "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
+          "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
+          "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
+        ],
+        "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
+          "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 1917.6 direct damage over 14 seconds and reduce healing effects by 30%.",
+          "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
+          "Medium Attack 2: 75% chance to inflict a Poison Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 2557.1 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "First hit Reapplies all personal Poison effects on the opponent.",
+          "This attack is Unblockable and deals a burst of 1410 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "This attack can only be used once per fight.",
+          "This attack gains +1410 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
+          "Distilled Will: Gain a Regeneration Passive, healing 3653 Health over 4 seconds.",
+          "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 564 Energy Damage when they expire or are Nullified.",
+          "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
+          "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
+        ]
+      }
+    },
+    "6+4": {
+      "rank": 4,
+      "prestige": "11436",
+      "hp": "41803",
+      "attack": "3227",
+      "crit_rate": "517",
+      "crit_dmge": "585",
+      "armor": "359",
+      "block_prof": "3590",
+      "energy_resist": "550",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Poisoned, Diablo takes 15 to 30% reduced damage from all sources.",
+        "While the opponent is Poisoned, Diablo gains +322.7 to 806.76 Attack Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/diablo/tier/6",
+      "champid": "diablo+6+4",
+      "challenger_rating": 140,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Diablo\u2019s alchemical self-experimentation grants the following:",
+          "+550 Energy Resistance.",
+          "Incoming Poison effects suffer -100% Potency.",
+          "Basic Attacks deal Energy Damage instead of Physical."
+        ],
+        "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
+          "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
+          "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +193.62 Attack Rating & +10% Poison Potency. Max Stacks: 8."
+        ],
+        "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
+          "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 167.21 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
+          "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
+          "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
+          "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
+        ],
+        "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
+          "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 2194.36 direct damage over 14 seconds and reduce healing effects by 30%.",
+          "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
+          "Medium Attack 2: 75% chance to inflict a Poison Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 2926.21 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "First hit Reapplies all personal Poison effects on the opponent.",
+          "This attack is Unblockable and deals a burst of 1613.5 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "This attack can only be used once per fight.",
+          "This attack gains +1613.5 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
+          "Distilled Will: Gain a Regeneration Passive, healing 4180.3 Health over 4 seconds.",
+          "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 645.4 Energy Damage when they expire or are Nullified.",
+          "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
+          "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
+        ]
+      }
+    },
+    "1+1": {
+      "rank": 1,
+      "prestige": 197,
+      "hp": 793,
+      "attack": 64,
+      "crit_rate": 364,
+      "crit_dmge": 413,
+      "armor": 0,
+      "block_prof": 2529,
+      "energy_resist": 388,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/diablo/tier/1",
+      "champid": "diablo+1+1",
+      "challenger_rating": 10,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Diablo\u2019s alchemical self-experimentation grants the following:",
+          "+387.5 Energy Resistance.",
+          "Incoming Poison effects suffer -100% Potency.",
+          "Basic Attacks deal Energy Damage instead of Physical."
+        ],
+        "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
+          "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
+          "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +3.84 Attack Rating & +10% Poison Potency. Max Stacks: 8."
+        ],
+        "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
+          "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 3.17 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
+          "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
+          "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
+          "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
+        ],
+        "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
+          "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 43.52 direct damage over 14 seconds and reduce healing effects by 30%.",
+          "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
+          "Medium Attack 2: 75% chance to inflict a Poison Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 55.51 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "First hit Reapplies all personal Poison effects on the opponent.",
+          "This attack is Unblockable and deals a burst of 32 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "This attack can only be used once per fight.",
+          "This attack gains +32 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
+          "Distilled Will: Gain a Regeneration Passive, healing 79.3 Health over 4 seconds.",
+          "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 12.8 Energy Damage when they expire or are Nullified.",
+          "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
+          "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
+        ]
+      }
+    },
+    "1+2": {
+      "rank": 2,
+      "prestige": 284,
+      "hp": 1096,
+      "attack": 88,
+      "crit_rate": 376,
+      "crit_dmge": 426,
+      "armor": 0,
+      "block_prof": 2611,
+      "energy_resist": 400,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/diablo/tier/1",
+      "champid": "diablo+1+2",
+      "challenger_rating": 20,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Diablo\u2019s alchemical self-experimentation grants the following:",
+          "+400 Energy Resistance.",
+          "Incoming Poison effects suffer -100% Potency.",
+          "Basic Attacks deal Energy Damage instead of Physical."
+        ],
+        "MASTER ALCHEMIST - PRE-FIGHT ABILITY": [
+          "In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher\u2019s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.",
+          "For each Ingredient type not used, gain 2 indefinite Vial of Might, granting +5.28 Attack Rating & +10% Poison Potency. Max Stacks: 8."
+        ],
+        "PHILOSOPHER'S MIX - LAUNCH A SPECIAL ATTACK": [
+          "Philosopher's Mix lasts 8 seconds per level of Special Attack used and heals Diablo 4.38 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.",
+          "Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.",
+          "Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.",
+          "Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs."
+        ],
+        "PERSONAL POISON DEBUFFS - MAX STACKS: 20": [
+          "Unless otherwise stated, Diablo\u2019s Poison Debuffs inflict 59.84 direct damage over 14 seconds and reduce healing effects by 30%.",
+          "Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.",
+          "Medium Attack 2: 75% chance to inflict a Poison Debuff."
+        ],
+        "SPECIAL ATTACK 1": [
+          "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 76.72 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "First hit Reapplies all personal Poison effects on the opponent.",
+          "This attack is Unblockable and deals a burst of 44 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that the opponent has gained this fight. Max Bonus: +500%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "This attack can only be used once per fight.",
+          "This attack gains +44 Attack rating. It also gains effects based on which Alchemical Ingredients have been added to the Flask.",
+          "Distilled Will: Gain a Regeneration Passive, healing 109.6 Health over 4 seconds.",
+          "Essence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 17.6 Energy Damage when they expire or are Nullified.",
+          "Grain of Uru: Philosopher\u2019s Mix is Paused for 10 seconds.",
+          "For each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
+        ]
+      }
+    },
+    "find": {
+      "story_quests": {
+        "act_1": [],
+        "act_2": [],
+        "act_3": ["3.2.1", "3.2.2", "3.2.4"],
+        "act_4": [],
+        "act_5": [],
+        "act_6": [
+          "6.2.2",
+          "6.2.5",
+          "6.2.6",
+          "6.3.1",
+          "6.3.4",
+          "6.3.5",
+          "6.4.4",
+          "6.4.5"
+        ],
+        "act_7": ["7.1.1", "7.2.5", "7.3.2", "7.3.5", "7.4.2", "7.4.6"]
+      }
     }
+  },
+  "name": "DIABLO",
+  "class": "Mystic",
+  "img_portrait": "https://api.rexians.tk/assets/portraits/diablo.png",
+  "contact": null,
+  "tags": ["Villain", "Size: M"],
+  "released": "1/24/2019"
 }

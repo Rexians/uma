@@ -1,981 +1,1009 @@
 {
-    "name": "QUAKE",
-    "class": "Science",
-    "img_portrait": "https://api.rexians.tk/assets/portraits/quake.png",
-    "contact": "PHYSICAL",
-    "tags": [
-        "Hero",
-        "Inhuman",
-        "Size: S"
-    ],
-    "released": "9/29/2016",
-    "champid": "quake",
-    "data": {
-        "2+1": {
-            "rank": 1,
-            "prestige": "268",
-            "hp": "1045",
-            "attack": "94",
-            "crit_rate": "305",
-            "crit_dmge": "686",
-            "armor": "33",
-            "block_prof": "2303",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Quake Blocks an additional 7.5 to 30.07% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
-            "url_page": "https://auntm.ai/champions/quake/tier/2",
-            "champid": "quake+2+1",
-            "challenger_rating": 20,
-            "abilities": {
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 11 Physical Damage per second.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
-                    "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
-                ],
-                "AFTERSHOCK": [
-                    "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 31.02 Physical Damage.",
-                    "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
-                    "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
-                ],
-                "PASSIVE": [
-                    "Evades all Basic Attacks against opponents with a Concussion."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Adds 2 points to the Aftershock Scale."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Adds 3 points to the Aftershock Scale.",
-                    "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Adds 6 points to the Aftershock Scale.",
-                    "100% chance to Stun for 3 second(s)."
-                ]
-            }
-        },
-        "2+2": {
-            "rank": 2,
-            "prestige": "354",
-            "hp": "1380",
-            "attack": "124",
-            "crit_rate": "315",
-            "crit_dmge": "708",
-            "armor": "52",
-            "block_prof": "2375",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Quake Blocks an additional 7.5 to 30.07% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
-            "url_page": "https://auntm.ai/champions/quake/tier/2",
-            "champid": "quake+2+2",
-            "challenger_rating": 30,
-            "abilities": {
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 14.51 Physical Damage per second.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
-                    "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
-                ],
-                "AFTERSHOCK": [
-                    "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 40.92 Physical Damage.",
-                    "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
-                    "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
-                ],
-                "PASSIVE": [
-                    "Evades all Basic Attacks against opponents with a Concussion."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Adds 2 points to the Aftershock Scale."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Adds 3 points to the Aftershock Scale.",
-                    "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Adds 6 points to the Aftershock Scale.",
-                    "100% chance to Stun for 3 second(s)."
-                ]
-            }
-        },
-        "2+3": {
-            "rank": 3,
-            "prestige": "565",
-            "hp": "2191",
-            "attack": "196",
-            "crit_rate": "324",
-            "crit_dmge": "729",
-            "armor": "71",
-            "block_prof": "2447",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Quake Blocks an additional 7.5 to 30.07% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
-            "url_page": "https://auntm.ai/champions/quake/tier/2",
-            "champid": "quake+2+3",
-            "challenger_rating": 40,
-            "abilities": {
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 22.93 Physical Damage per second.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
-                    "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
-                ],
-                "AFTERSHOCK": [
-                    "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 64.68 Physical Damage.",
-                    "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
-                    "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
-                ],
-                "PASSIVE": [
-                    "Evades all Basic Attacks against opponents with a Concussion."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Adds 2 points to the Aftershock Scale."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Adds 3 points to the Aftershock Scale.",
-                    "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Adds 6 points to the Aftershock Scale.",
-                    "100% chance to Stun for 3 second(s)."
-                ]
-            }
-        },
-        "3+1": {
-            "rank": 1,
-            "prestige": "491",
-            "hp": "1894",
-            "attack": "170",
-            "crit_rate": "324",
-            "crit_dmge": "729",
-            "armor": "71",
-            "block_prof": "2447",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Quake Blocks an additional 7.5 to 30.07% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
-            "url_page": "https://auntm.ai/champions/quake/tier/3",
-            "champid": "quake+3+1",
-            "challenger_rating": 40,
-            "abilities": {
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 19.89 Physical Damage per second.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
-                    "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
-                ],
-                "AFTERSHOCK": [
-                    "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 56.1 Physical Damage.",
-                    "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
-                    "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
-                ],
-                "PASSIVE": [
-                    "Evades all Basic Attacks against opponents with a Concussion."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Adds 2 points to the Aftershock Scale."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Adds 3 points to the Aftershock Scale.",
-                    "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Adds 6 points to the Aftershock Scale.",
-                    "100% chance to Stun for 3 second(s)."
-                ]
-            }
-        },
-        "3+2": {
-            "rank": 2,
-            "prestige": "781",
-            "hp": "3030",
-            "attack": "271",
-            "crit_rate": "334",
-            "crit_dmge": "750",
-            "armor": "93",
-            "block_prof": "2519",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Quake Blocks an additional 7.5 to 30.07% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
-            "url_page": "https://auntm.ai/champions/quake/tier/3",
-            "champid": "quake+3+2",
-            "challenger_rating": 50,
-            "abilities": {
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 31.71 Physical Damage per second.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
-                    "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
-                ],
-                "AFTERSHOCK": [
-                    "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 89.43 Physical Damage.",
-                    "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
-                    "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
-                ],
-                "PASSIVE": [
-                    "Evades all Basic Attacks against opponents with a Concussion."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Adds 2 points to the Aftershock Scale."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Adds 3 points to the Aftershock Scale.",
-                    "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Adds 6 points to the Aftershock Scale.",
-                    "100% chance to Stun for 3 second(s)."
-                ]
-            }
-        },
-        "3+3": {
-            "rank": 3,
-            "prestige": "1088",
-            "hp": "4239",
-            "attack": "379",
-            "crit_rate": "343",
-            "crit_dmge": "772",
-            "armor": "115",
-            "block_prof": "2591",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Quake Blocks an additional 7.5 to 30.07% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
-            "url_page": "https://auntm.ai/champions/quake/tier/3",
-            "champid": "quake+3+3",
-            "challenger_rating": 60,
-            "abilities": {
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 44.34 Physical Damage per second.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
-                    "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
-                ],
-                "AFTERSHOCK": [
-                    "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 125.07 Physical Damage.",
-                    "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
-                    "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
-                ],
-                "PASSIVE": [
-                    "Evades all Basic Attacks against opponents with a Concussion."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Adds 2 points to the Aftershock Scale."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Adds 3 points to the Aftershock Scale.",
-                    "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Adds 6 points to the Aftershock Scale.",
-                    "100% chance to Stun for 3 second(s)."
-                ]
-            }
-        },
-        "3+4": {
-            "rank": 4,
-            "prestige": "1497",
-            "hp": "5821",
-            "attack": "521",
-            "crit_rate": "353",
-            "crit_dmge": "793",
-            "armor": "140",
-            "block_prof": "2663",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Quake Blocks an additional 7.5 to 30.07% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
-            "url_page": "https://auntm.ai/champions/quake/tier/3",
-            "champid": "quake+3+4",
-            "challenger_rating": 70,
-            "abilities": {
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 60.96 Physical Damage per second.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
-                    "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
-                ],
-                "AFTERSHOCK": [
-                    "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 171.93 Physical Damage.",
-                    "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
-                    "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
-                ],
-                "PASSIVE": [
-                    "Evades all Basic Attacks against opponents with a Concussion."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Adds 2 points to the Aftershock Scale."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Adds 3 points to the Aftershock Scale.",
-                    "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Adds 6 points to the Aftershock Scale.",
-                    "100% chance to Stun for 3 second(s)."
-                ]
-            }
-        },
-        "4+1": {
-            "rank": 1,
-            "prestige": "1090",
-            "hp": "4236",
-            "attack": "379",
-            "crit_rate": "343",
-            "crit_dmge": "772",
-            "armor": "157",
-            "block_prof": "2591",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Quake Blocks an additional 7.5 to 30.07% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
-            "url_page": "https://auntm.ai/champions/quake/tier/4",
-            "champid": "quake+4+1",
-            "challenger_rating": 60,
-            "abilities": {
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 44.34 Physical Damage per second.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
-                    "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
-                ],
-                "AFTERSHOCK": [
-                    "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 125.07 Physical Damage.",
-                    "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
-                    "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
-                ],
-                "PASSIVE": [
-                    "Evades all Basic Attacks against opponents with a Concussion."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Adds 2 points to the Aftershock Scale."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Adds 3 points to the Aftershock Scale.",
-                    "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Adds 6 points to the Aftershock Scale.",
-                    "100% chance to Stun for 3 second(s)."
-                ]
-            }
-        },
-        "4+2": {
-            "rank": 2,
-            "prestige": "1532",
-            "hp": "5942",
-            "attack": "532",
-            "crit_rate": "353",
-            "crit_dmge": "793",
-            "armor": "183",
-            "block_prof": "2663",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Quake Blocks an additional 7.5 to 30.07% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
-            "url_page": "https://auntm.ai/champions/quake/tier/4",
-            "champid": "quake+4+2",
-            "challenger_rating": 70,
-            "abilities": {
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 62.24 Physical Damage per second.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
-                    "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
-                ],
-                "AFTERSHOCK": [
-                    "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 175.56 Physical Damage.",
-                    "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
-                    "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
-                ],
-                "PASSIVE": [
-                    "Evades all Basic Attacks against opponents with a Concussion."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Adds 2 points to the Aftershock Scale."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Adds 3 points to the Aftershock Scale.",
-                    "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Adds 6 points to the Aftershock Scale.",
-                    "100% chance to Stun for 3 second(s)."
-                ]
-            }
-        },
-        "4+3": {
-            "rank": 3,
-            "prestige": "2144",
-            "hp": "8325",
-            "attack": "745",
-            "crit_rate": "362",
-            "crit_dmge": "815",
-            "armor": "212",
-            "block_prof": "2735",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Quake Blocks an additional 7.5 to 30.07% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
-            "url_page": "https://auntm.ai/champions/quake/tier/4",
-            "champid": "quake+4+3",
-            "challenger_rating": 80,
-            "abilities": {
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 87.17 Physical Damage per second.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
-                    "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
-                ],
-                "AFTERSHOCK": [
-                    "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 245.85 Physical Damage.",
-                    "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
-                    "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
-                ],
-                "PASSIVE": [
-                    "Evades all Basic Attacks against opponents with a Concussion."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Adds 2 points to the Aftershock Scale."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Adds 3 points to the Aftershock Scale.",
-                    "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Adds 6 points to the Aftershock Scale.",
-                    "100% chance to Stun for 3 second(s)."
-                ]
-            }
-        },
-        "4+4": {
-            "rank": 4,
-            "prestige": "2820",
-            "hp": "10939",
-            "attack": "979",
-            "crit_rate": "372",
-            "crit_dmge": "836",
-            "armor": "242",
-            "block_prof": "2807",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Quake Blocks an additional 7.5 to 30.07% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
-            "url_page": "https://auntm.ai/champions/quake/tier/4",
-            "champid": "quake+4+4",
-            "challenger_rating": 90,
-            "abilities": {
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 114.54 Physical Damage per second.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
-                    "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
-                ],
-                "AFTERSHOCK": [
-                    "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 323.07 Physical Damage.",
-                    "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
-                    "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
-                ],
-                "PASSIVE": [
-                    "Evades all Basic Attacks against opponents with a Concussion."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Adds 2 points to the Aftershock Scale."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Adds 3 points to the Aftershock Scale.",
-                    "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Adds 6 points to the Aftershock Scale.",
-                    "100% chance to Stun for 3 second(s)."
-                ]
-            }
-        },
-        "4+5": {
-            "rank": 5,
-            "prestige": "3759",
-            "hp": "14596",
-            "attack": "1306",
-            "crit_rate": "381",
-            "crit_dmge": "858",
-            "armor": "273",
-            "block_prof": "2879",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Quake Blocks an additional 7.5 to 30.07% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
-            "url_page": "https://auntm.ai/champions/quake/tier/4",
-            "champid": "quake+4+5",
-            "challenger_rating": 100,
-            "abilities": {
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 152.8 Physical Damage per second.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
-                    "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
-                ],
-                "AFTERSHOCK": [
-                    "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 430.98 Physical Damage.",
-                    "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
-                    "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
-                ],
-                "PASSIVE": [
-                    "Evades all Basic Attacks against opponents with a Concussion."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Adds 2 points to the Aftershock Scale."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Adds 3 points to the Aftershock Scale.",
-                    "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Adds 6 points to the Aftershock Scale.",
-                    "100% chance to Stun for 3 second(s)."
-                ]
-            }
-        },
-        "5+1": {
-            "rank": 1,
-            "prestige": "2249",
-            "hp": "8710",
-            "attack": "779",
-            "crit_rate": "362",
-            "crit_dmge": "815",
-            "armor": "362",
-            "block_prof": "2735",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Quake Blocks an additional 10.13 to 35% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
-            "url_page": "https://auntm.ai/champions/quake/tier/5",
-            "champid": "quake+5+1",
-            "challenger_rating": 80,
-            "abilities": {
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 91.14 Physical Damage per second.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
-                    "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
-                ],
-                "AFTERSHOCK": [
-                    "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 257.07 Physical Damage.",
-                    "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
-                    "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
-                ],
-                "PASSIVE": [
-                    "Evades all Basic Attacks against opponents with a Concussion."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Adds 2 points to the Aftershock Scale."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Adds 3 points to the Aftershock Scale.",
-                    "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Adds 6 points to the Aftershock Scale.",
-                    "100% chance to Stun for 3 second(s)."
-                ]
-            }
-        },
-        "5+2": {
-            "rank": 2,
-            "prestige": "2969",
-            "hp": "11506",
-            "attack": "1029",
-            "crit_rate": "372",
-            "crit_dmge": "836",
-            "armor": "400",
-            "block_prof": "2807",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Quake Blocks an additional 10.13 to 35% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
-            "url_page": "https://auntm.ai/champions/quake/tier/5",
-            "champid": "quake+5+2",
-            "challenger_rating": 90,
-            "abilities": {
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 120.39 Physical Damage per second.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
-                    "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
-                ],
-                "AFTERSHOCK": [
-                    "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 339.57 Physical Damage.",
-                    "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
-                    "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
-                ],
-                "PASSIVE": [
-                    "Evades all Basic Attacks against opponents with a Concussion."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Adds 2 points to the Aftershock Scale."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Adds 3 points to the Aftershock Scale.",
-                    "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Adds 6 points to the Aftershock Scale.",
-                    "100% chance to Stun for 3 second(s)."
-                ]
-            }
-        },
-        "5+3": {
-            "rank": 3,
-            "prestige": "4157",
-            "hp": "16085",
-            "attack": "1439",
-            "crit_rate": "381",
-            "crit_dmge": "858",
-            "armor": "440",
-            "block_prof": "2879",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Quake Blocks an additional 10.13 to 35% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
-            "url_page": "https://auntm.ai/champions/quake/tier/5",
-            "champid": "quake+5+3",
-            "challenger_rating": 100,
-            "abilities": {
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 168.36 Physical Damage per second.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
-                    "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
-                ],
-                "AFTERSHOCK": [
-                    "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 474.87 Physical Damage.",
-                    "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
-                    "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
-                ],
-                "PASSIVE": [
-                    "Evades all Basic Attacks against opponents with a Concussion."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Adds 2 points to the Aftershock Scale."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Adds 3 points to the Aftershock Scale.",
-                    "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Adds 6 points to the Aftershock Scale.",
-                    "100% chance to Stun for 3 second(s)."
-                ]
-            }
-        },
-        "5+4": {
-            "rank": 4,
-            "prestige": "5598",
-            "hp": "21675",
-            "attack": "1939",
-            "crit_rate": "391",
-            "crit_dmge": "879",
-            "armor": "481",
-            "block_prof": "2950",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Quake Blocks an additional 10.13 to 35% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
-            "url_page": "https://auntm.ai/champions/quake/tier/5",
-            "champid": "quake+5+4",
-            "challenger_rating": 110,
-            "abilities": {
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 226.86 Physical Damage per second.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
-                    "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
-                ],
-                "AFTERSHOCK": [
-                    "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 639.87 Physical Damage.",
-                    "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
-                    "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
-                ],
-                "PASSIVE": [
-                    "Evades all Basic Attacks against opponents with a Concussion."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Adds 2 points to the Aftershock Scale."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Adds 3 points to the Aftershock Scale.",
-                    "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Adds 6 points to the Aftershock Scale.",
-                    "100% chance to Stun for 3 second(s)."
-                ]
-            }
-        },
-        "5+5": {
-            "rank": 5,
-            "prestige": "7569",
-            "hp": "29264",
-            "attack": "2617",
-            "crit_rate": "400",
-            "crit_dmge": "900",
-            "armor": "525",
-            "block_prof": "3022",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Quake Blocks an additional 10.13 to 35% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
-            "url_page": "https://auntm.ai/champions/quake/tier/5",
-            "champid": "quake+5+5",
-            "challenger_rating": 120,
-            "abilities": {
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 306.19 Physical Damage per second.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
-                    "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
-                ],
-                "AFTERSHOCK": [
-                    "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 863.61 Physical Damage.",
-                    "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
-                    "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
-                ],
-                "PASSIVE": [
-                    "Evades all Basic Attacks against opponents with a Concussion."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Adds 2 points to the Aftershock Scale."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Adds 3 points to the Aftershock Scale.",
-                    "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Adds 6 points to the Aftershock Scale.",
-                    "100% chance to Stun for 3 second(s)."
-                ]
-            }
-        },
-        "6+1": {
-            "rank": 1,
-            "prestige": "5934",
-            "hp": "23011",
-            "attack": "2058",
-            "crit_rate": "391",
-            "crit_dmge": "879",
-            "armor": "391",
-            "block_prof": "2950",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Quake Blocks an additional 10.13 to 35% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
-            "url_page": "https://auntm.ai/champions/quake/tier/6",
-            "champid": "quake+6+1",
-            "challenger_rating": 110,
-            "abilities": {
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 240.79 Physical Damage per second.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
-                    "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
-                ],
-                "AFTERSHOCK": [
-                    "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 679.14 Physical Damage.",
-                    "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
-                    "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
-                ],
-                "PASSIVE": [
-                    "Evades all Basic Attacks against opponents with a Concussion."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Adds 2 points to the Aftershock Scale."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Adds 3 points to the Aftershock Scale.",
-                    "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Adds 6 points to the Aftershock Scale.",
-                    "100% chance to Stun for 3 second(s)."
-                ]
-            }
-        },
-        "6+2": {
-            "rank": 2,
-            "prestige": "8195",
-            "hp": "31785",
-            "attack": "2843",
-            "crit_rate": "400",
-            "crit_dmge": "900",
-            "armor": "431",
-            "block_prof": "3022",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Quake Blocks an additional 10.13 to 35% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
-            "url_page": "https://auntm.ai/champions/quake/tier/6",
-            "champid": "quake+6+2",
-            "challenger_rating": 120,
-            "abilities": {
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 332.63 Physical Damage per second.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
-                    "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
-                ],
-                "AFTERSHOCK": [
-                    "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 938.19 Physical Damage.",
-                    "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
-                    "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
-                ],
-                "PASSIVE": [
-                    "Evades all Basic Attacks against opponents with a Concussion."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Adds 2 points to the Aftershock Scale."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Adds 3 points to the Aftershock Scale.",
-                    "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Adds 6 points to the Aftershock Scale.",
-                    "100% chance to Stun for 3 second(s)."
-                ]
-            }
-        },
-        "6+3": {
-            "rank": 3,
-            "prestige": "9737",
-            "hp": "37708",
-            "attack": "3372",
-            "crit_rate": "410",
-            "crit_dmge": "922",
-            "armor": "472",
-            "block_prof": "3094",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Quake Blocks an additional 10.13 to 35% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
-            "url_page": "https://auntm.ai/champions/quake/tier/6",
-            "champid": "quake+6+3",
-            "challenger_rating": 130,
-            "abilities": {
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 394.52 Physical Damage per second.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
-                    "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
-                ],
-                "AFTERSHOCK": [
-                    "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 1112.76 Physical Damage.",
-                    "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
-                    "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
-                ],
-                "PASSIVE": [
-                    "Evades all Basic Attacks against opponents with a Concussion."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Adds 2 points to the Aftershock Scale."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Adds 3 points to the Aftershock Scale.",
-                    "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Adds 6 points to the Aftershock Scale.",
-                    "100% chance to Stun for 3 second(s)."
-                ]
-            }
-        },
-        "6+4": {
-            "rank": 4,
-            "prestige": "11141",
-            "hp": "43152",
-            "attack": "3859",
-            "crit_rate": "420",
-            "crit_dmge": "943",
-            "armor": "517",
-            "block_prof": "3166",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Quake Blocks an additional 10.13 to 35% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
-            "url_page": "https://auntm.ai/champions/quake/tier/6",
-            "champid": "quake+6+4",
-            "challenger_rating": 140,
-            "abilities": {
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 451.5 Physical Damage per second.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
-                    "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
-                ],
-                "AFTERSHOCK": [
-                    "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 1273.47 Physical Damage.",
-                    "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
-                    "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
-                    "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
-                ],
-                "PASSIVE": [
-                    "Evades all Basic Attacks against opponents with a Concussion."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Adds 2 points to the Aftershock Scale."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Adds 3 points to the Aftershock Scale.",
-                    "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Adds 6 points to the Aftershock Scale.",
-                    "100% chance to Stun for 3 second(s)."
-                ]
-            }
-        },
-        "find": {
-            "story_quests": {
-                "act_1": [],
-                "act_2": [],
-                "act_3": [
-                    "3.1.6",
-                    "3.2.4"
-                ],
-                "act_4": [],
-                "act_5": [
-                    "5.1.1",
-                    "5.1.2",
-                    "5.1.4",
-                    "5.1.6",
-                    "5.2.1",
-                    "5.2.3",
-                    "5.3.1",
-                    "5.3.5",
-                    "5.3.6",
-                    "5.4.1",
-                    "5.4.3",
-                    "5.4.5"
-                ],
-                "act_6": [
-                    "6.1.5",
-                    "6.2.1",
-                    "6.2.5",
-                    "6.2.6",
-                    "6.3.4",
-                    "6.4.3",
-                    "6.4.5"
-                ],
-                "act_7": [
-                    "7.1.5",
-                    "7.2.3",
-                    "7.2.5",
-                    "7.2.6",
-                    "7.3.3",
-                    "7.4.2"
-                ]
-            }
-        }
+  "champid": "quake",
+  "data": {
+    "2+1": {
+      "rank": 1,
+      "prestige": "268",
+      "hp": "1045",
+      "attack": "94",
+      "crit_rate": "305",
+      "crit_dmge": "686",
+      "armor": "33",
+      "block_prof": "2303",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Quake Blocks an additional 7.5 to 30.07% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
+      "url_page": "https://auntm.ai/champions/quake/tier/2",
+      "champid": "quake+2+1",
+      "challenger_rating": 20,
+      "abilities": {
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 11 Physical Damage per second.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
+          "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
+        ],
+        "AFTERSHOCK": [
+          "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 31.02 Physical Damage.",
+          "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
+          "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
+        ],
+        "PASSIVE": [
+          "Evades all Basic Attacks against opponents with a Concussion."
+        ],
+        "SPECIAL ATTACK 1": ["Adds 2 points to the Aftershock Scale."],
+        "SPECIAL ATTACK 2": [
+          "Adds 3 points to the Aftershock Scale.",
+          "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Adds 6 points to the Aftershock Scale.",
+          "100% chance to Stun for 3 second(s)."
+        ]
+      }
+    },
+    "2+2": {
+      "rank": 2,
+      "prestige": "354",
+      "hp": "1380",
+      "attack": "124",
+      "crit_rate": "315",
+      "crit_dmge": "708",
+      "armor": "52",
+      "block_prof": "2375",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Quake Blocks an additional 7.5 to 30.07% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
+      "url_page": "https://auntm.ai/champions/quake/tier/2",
+      "champid": "quake+2+2",
+      "challenger_rating": 30,
+      "abilities": {
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 14.51 Physical Damage per second.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
+          "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
+        ],
+        "AFTERSHOCK": [
+          "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 40.92 Physical Damage.",
+          "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
+          "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
+        ],
+        "PASSIVE": [
+          "Evades all Basic Attacks against opponents with a Concussion."
+        ],
+        "SPECIAL ATTACK 1": ["Adds 2 points to the Aftershock Scale."],
+        "SPECIAL ATTACK 2": [
+          "Adds 3 points to the Aftershock Scale.",
+          "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Adds 6 points to the Aftershock Scale.",
+          "100% chance to Stun for 3 second(s)."
+        ]
+      }
+    },
+    "2+3": {
+      "rank": 3,
+      "prestige": "565",
+      "hp": "2191",
+      "attack": "196",
+      "crit_rate": "324",
+      "crit_dmge": "729",
+      "armor": "71",
+      "block_prof": "2447",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Quake Blocks an additional 7.5 to 30.07% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
+      "url_page": "https://auntm.ai/champions/quake/tier/2",
+      "champid": "quake+2+3",
+      "challenger_rating": 40,
+      "abilities": {
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 22.93 Physical Damage per second.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
+          "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
+        ],
+        "AFTERSHOCK": [
+          "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 64.68 Physical Damage.",
+          "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
+          "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
+        ],
+        "PASSIVE": [
+          "Evades all Basic Attacks against opponents with a Concussion."
+        ],
+        "SPECIAL ATTACK 1": ["Adds 2 points to the Aftershock Scale."],
+        "SPECIAL ATTACK 2": [
+          "Adds 3 points to the Aftershock Scale.",
+          "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Adds 6 points to the Aftershock Scale.",
+          "100% chance to Stun for 3 second(s)."
+        ]
+      }
+    },
+    "3+1": {
+      "rank": 1,
+      "prestige": "491",
+      "hp": "1894",
+      "attack": "170",
+      "crit_rate": "324",
+      "crit_dmge": "729",
+      "armor": "71",
+      "block_prof": "2447",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Quake Blocks an additional 7.5 to 30.07% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
+      "url_page": "https://auntm.ai/champions/quake/tier/3",
+      "champid": "quake+3+1",
+      "challenger_rating": 40,
+      "abilities": {
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 19.89 Physical Damage per second.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
+          "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
+        ],
+        "AFTERSHOCK": [
+          "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 56.1 Physical Damage.",
+          "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
+          "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
+        ],
+        "PASSIVE": [
+          "Evades all Basic Attacks against opponents with a Concussion."
+        ],
+        "SPECIAL ATTACK 1": ["Adds 2 points to the Aftershock Scale."],
+        "SPECIAL ATTACK 2": [
+          "Adds 3 points to the Aftershock Scale.",
+          "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Adds 6 points to the Aftershock Scale.",
+          "100% chance to Stun for 3 second(s)."
+        ]
+      }
+    },
+    "3+2": {
+      "rank": 2,
+      "prestige": "781",
+      "hp": "3030",
+      "attack": "271",
+      "crit_rate": "334",
+      "crit_dmge": "750",
+      "armor": "93",
+      "block_prof": "2519",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Quake Blocks an additional 7.5 to 30.07% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
+      "url_page": "https://auntm.ai/champions/quake/tier/3",
+      "champid": "quake+3+2",
+      "challenger_rating": 50,
+      "abilities": {
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 31.71 Physical Damage per second.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
+          "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
+        ],
+        "AFTERSHOCK": [
+          "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 89.43 Physical Damage.",
+          "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
+          "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
+        ],
+        "PASSIVE": [
+          "Evades all Basic Attacks against opponents with a Concussion."
+        ],
+        "SPECIAL ATTACK 1": ["Adds 2 points to the Aftershock Scale."],
+        "SPECIAL ATTACK 2": [
+          "Adds 3 points to the Aftershock Scale.",
+          "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Adds 6 points to the Aftershock Scale.",
+          "100% chance to Stun for 3 second(s)."
+        ]
+      }
+    },
+    "3+3": {
+      "rank": 3,
+      "prestige": "1088",
+      "hp": "4239",
+      "attack": "379",
+      "crit_rate": "343",
+      "crit_dmge": "772",
+      "armor": "115",
+      "block_prof": "2591",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Quake Blocks an additional 7.5 to 30.07% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
+      "url_page": "https://auntm.ai/champions/quake/tier/3",
+      "champid": "quake+3+3",
+      "challenger_rating": 60,
+      "abilities": {
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 44.34 Physical Damage per second.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
+          "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
+        ],
+        "AFTERSHOCK": [
+          "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 125.07 Physical Damage.",
+          "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
+          "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
+        ],
+        "PASSIVE": [
+          "Evades all Basic Attacks against opponents with a Concussion."
+        ],
+        "SPECIAL ATTACK 1": ["Adds 2 points to the Aftershock Scale."],
+        "SPECIAL ATTACK 2": [
+          "Adds 3 points to the Aftershock Scale.",
+          "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Adds 6 points to the Aftershock Scale.",
+          "100% chance to Stun for 3 second(s)."
+        ]
+      }
+    },
+    "3+4": {
+      "rank": 4,
+      "prestige": "1497",
+      "hp": "5821",
+      "attack": "521",
+      "crit_rate": "353",
+      "crit_dmge": "793",
+      "armor": "140",
+      "block_prof": "2663",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Quake Blocks an additional 7.5 to 30.07% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
+      "url_page": "https://auntm.ai/champions/quake/tier/3",
+      "champid": "quake+3+4",
+      "challenger_rating": 70,
+      "abilities": {
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 60.96 Physical Damage per second.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
+          "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
+        ],
+        "AFTERSHOCK": [
+          "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 171.93 Physical Damage.",
+          "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
+          "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
+        ],
+        "PASSIVE": [
+          "Evades all Basic Attacks against opponents with a Concussion."
+        ],
+        "SPECIAL ATTACK 1": ["Adds 2 points to the Aftershock Scale."],
+        "SPECIAL ATTACK 2": [
+          "Adds 3 points to the Aftershock Scale.",
+          "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Adds 6 points to the Aftershock Scale.",
+          "100% chance to Stun for 3 second(s)."
+        ]
+      }
+    },
+    "4+1": {
+      "rank": 1,
+      "prestige": "1090",
+      "hp": "4236",
+      "attack": "379",
+      "crit_rate": "343",
+      "crit_dmge": "772",
+      "armor": "157",
+      "block_prof": "2591",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Quake Blocks an additional 7.5 to 30.07% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
+      "url_page": "https://auntm.ai/champions/quake/tier/4",
+      "champid": "quake+4+1",
+      "challenger_rating": 60,
+      "abilities": {
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 44.34 Physical Damage per second.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
+          "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
+        ],
+        "AFTERSHOCK": [
+          "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 125.07 Physical Damage.",
+          "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
+          "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
+        ],
+        "PASSIVE": [
+          "Evades all Basic Attacks against opponents with a Concussion."
+        ],
+        "SPECIAL ATTACK 1": ["Adds 2 points to the Aftershock Scale."],
+        "SPECIAL ATTACK 2": [
+          "Adds 3 points to the Aftershock Scale.",
+          "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Adds 6 points to the Aftershock Scale.",
+          "100% chance to Stun for 3 second(s)."
+        ]
+      }
+    },
+    "4+2": {
+      "rank": 2,
+      "prestige": "1532",
+      "hp": "5942",
+      "attack": "532",
+      "crit_rate": "353",
+      "crit_dmge": "793",
+      "armor": "183",
+      "block_prof": "2663",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Quake Blocks an additional 7.5 to 30.07% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
+      "url_page": "https://auntm.ai/champions/quake/tier/4",
+      "champid": "quake+4+2",
+      "challenger_rating": 70,
+      "abilities": {
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 62.24 Physical Damage per second.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
+          "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
+        ],
+        "AFTERSHOCK": [
+          "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 175.56 Physical Damage.",
+          "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
+          "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
+        ],
+        "PASSIVE": [
+          "Evades all Basic Attacks against opponents with a Concussion."
+        ],
+        "SPECIAL ATTACK 1": ["Adds 2 points to the Aftershock Scale."],
+        "SPECIAL ATTACK 2": [
+          "Adds 3 points to the Aftershock Scale.",
+          "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Adds 6 points to the Aftershock Scale.",
+          "100% chance to Stun for 3 second(s)."
+        ]
+      }
+    },
+    "4+3": {
+      "rank": 3,
+      "prestige": "2144",
+      "hp": "8325",
+      "attack": "745",
+      "crit_rate": "362",
+      "crit_dmge": "815",
+      "armor": "212",
+      "block_prof": "2735",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Quake Blocks an additional 7.5 to 30.07% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
+      "url_page": "https://auntm.ai/champions/quake/tier/4",
+      "champid": "quake+4+3",
+      "challenger_rating": 80,
+      "abilities": {
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 87.17 Physical Damage per second.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
+          "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
+        ],
+        "AFTERSHOCK": [
+          "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 245.85 Physical Damage.",
+          "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
+          "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
+        ],
+        "PASSIVE": [
+          "Evades all Basic Attacks against opponents with a Concussion."
+        ],
+        "SPECIAL ATTACK 1": ["Adds 2 points to the Aftershock Scale."],
+        "SPECIAL ATTACK 2": [
+          "Adds 3 points to the Aftershock Scale.",
+          "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Adds 6 points to the Aftershock Scale.",
+          "100% chance to Stun for 3 second(s)."
+        ]
+      }
+    },
+    "4+4": {
+      "rank": 4,
+      "prestige": "2820",
+      "hp": "10939",
+      "attack": "979",
+      "crit_rate": "372",
+      "crit_dmge": "836",
+      "armor": "242",
+      "block_prof": "2807",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Quake Blocks an additional 7.5 to 30.07% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
+      "url_page": "https://auntm.ai/champions/quake/tier/4",
+      "champid": "quake+4+4",
+      "challenger_rating": 90,
+      "abilities": {
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 114.54 Physical Damage per second.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
+          "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
+        ],
+        "AFTERSHOCK": [
+          "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 323.07 Physical Damage.",
+          "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
+          "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
+        ],
+        "PASSIVE": [
+          "Evades all Basic Attacks against opponents with a Concussion."
+        ],
+        "SPECIAL ATTACK 1": ["Adds 2 points to the Aftershock Scale."],
+        "SPECIAL ATTACK 2": [
+          "Adds 3 points to the Aftershock Scale.",
+          "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Adds 6 points to the Aftershock Scale.",
+          "100% chance to Stun for 3 second(s)."
+        ]
+      }
+    },
+    "4+5": {
+      "rank": 5,
+      "prestige": "3759",
+      "hp": "14596",
+      "attack": "1306",
+      "crit_rate": "381",
+      "crit_dmge": "858",
+      "armor": "273",
+      "block_prof": "2879",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Quake Blocks an additional 7.5 to 30.07% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
+      "url_page": "https://auntm.ai/champions/quake/tier/4",
+      "champid": "quake+4+5",
+      "challenger_rating": 100,
+      "abilities": {
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 152.8 Physical Damage per second.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
+          "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
+        ],
+        "AFTERSHOCK": [
+          "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 430.98 Physical Damage.",
+          "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
+          "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
+        ],
+        "PASSIVE": [
+          "Evades all Basic Attacks against opponents with a Concussion."
+        ],
+        "SPECIAL ATTACK 1": ["Adds 2 points to the Aftershock Scale."],
+        "SPECIAL ATTACK 2": [
+          "Adds 3 points to the Aftershock Scale.",
+          "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Adds 6 points to the Aftershock Scale.",
+          "100% chance to Stun for 3 second(s)."
+        ]
+      }
+    },
+    "5+1": {
+      "rank": 1,
+      "prestige": "2249",
+      "hp": "8710",
+      "attack": "779",
+      "crit_rate": "362",
+      "crit_dmge": "815",
+      "armor": "362",
+      "block_prof": "2735",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Quake Blocks an additional 10.13 to 35% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
+      "url_page": "https://auntm.ai/champions/quake/tier/5",
+      "champid": "quake+5+1",
+      "challenger_rating": 80,
+      "abilities": {
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 91.14 Physical Damage per second.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
+          "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
+        ],
+        "AFTERSHOCK": [
+          "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 257.07 Physical Damage.",
+          "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
+          "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
+        ],
+        "PASSIVE": [
+          "Evades all Basic Attacks against opponents with a Concussion."
+        ],
+        "SPECIAL ATTACK 1": ["Adds 2 points to the Aftershock Scale."],
+        "SPECIAL ATTACK 2": [
+          "Adds 3 points to the Aftershock Scale.",
+          "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Adds 6 points to the Aftershock Scale.",
+          "100% chance to Stun for 3 second(s)."
+        ]
+      }
+    },
+    "5+2": {
+      "rank": 2,
+      "prestige": "2969",
+      "hp": "11506",
+      "attack": "1029",
+      "crit_rate": "372",
+      "crit_dmge": "836",
+      "armor": "400",
+      "block_prof": "2807",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Quake Blocks an additional 10.13 to 35% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
+      "url_page": "https://auntm.ai/champions/quake/tier/5",
+      "champid": "quake+5+2",
+      "challenger_rating": 90,
+      "abilities": {
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 120.39 Physical Damage per second.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
+          "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
+        ],
+        "AFTERSHOCK": [
+          "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 339.57 Physical Damage.",
+          "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
+          "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
+        ],
+        "PASSIVE": [
+          "Evades all Basic Attacks against opponents with a Concussion."
+        ],
+        "SPECIAL ATTACK 1": ["Adds 2 points to the Aftershock Scale."],
+        "SPECIAL ATTACK 2": [
+          "Adds 3 points to the Aftershock Scale.",
+          "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Adds 6 points to the Aftershock Scale.",
+          "100% chance to Stun for 3 second(s)."
+        ]
+      }
+    },
+    "5+3": {
+      "rank": 3,
+      "prestige": "4157",
+      "hp": "16085",
+      "attack": "1439",
+      "crit_rate": "381",
+      "crit_dmge": "858",
+      "armor": "440",
+      "block_prof": "2879",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Quake Blocks an additional 10.13 to 35% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
+      "url_page": "https://auntm.ai/champions/quake/tier/5",
+      "champid": "quake+5+3",
+      "challenger_rating": 100,
+      "abilities": {
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 168.36 Physical Damage per second.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
+          "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
+        ],
+        "AFTERSHOCK": [
+          "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 474.87 Physical Damage.",
+          "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
+          "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
+        ],
+        "PASSIVE": [
+          "Evades all Basic Attacks against opponents with a Concussion."
+        ],
+        "SPECIAL ATTACK 1": ["Adds 2 points to the Aftershock Scale."],
+        "SPECIAL ATTACK 2": [
+          "Adds 3 points to the Aftershock Scale.",
+          "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Adds 6 points to the Aftershock Scale.",
+          "100% chance to Stun for 3 second(s)."
+        ]
+      }
+    },
+    "5+4": {
+      "rank": 4,
+      "prestige": "5598",
+      "hp": "21675",
+      "attack": "1939",
+      "crit_rate": "391",
+      "crit_dmge": "879",
+      "armor": "481",
+      "block_prof": "2950",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Quake Blocks an additional 10.13 to 35% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
+      "url_page": "https://auntm.ai/champions/quake/tier/5",
+      "champid": "quake+5+4",
+      "challenger_rating": 110,
+      "abilities": {
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 226.86 Physical Damage per second.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
+          "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
+        ],
+        "AFTERSHOCK": [
+          "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 639.87 Physical Damage.",
+          "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
+          "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
+        ],
+        "PASSIVE": [
+          "Evades all Basic Attacks against opponents with a Concussion."
+        ],
+        "SPECIAL ATTACK 1": ["Adds 2 points to the Aftershock Scale."],
+        "SPECIAL ATTACK 2": [
+          "Adds 3 points to the Aftershock Scale.",
+          "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Adds 6 points to the Aftershock Scale.",
+          "100% chance to Stun for 3 second(s)."
+        ]
+      }
+    },
+    "5+5": {
+      "rank": 5,
+      "prestige": "7569",
+      "hp": "29264",
+      "attack": "2617",
+      "crit_rate": "400",
+      "crit_dmge": "900",
+      "armor": "525",
+      "block_prof": "3022",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Quake Blocks an additional 10.13 to 35% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
+      "url_page": "https://auntm.ai/champions/quake/tier/5",
+      "champid": "quake+5+5",
+      "challenger_rating": 120,
+      "abilities": {
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 306.19 Physical Damage per second.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
+          "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
+        ],
+        "AFTERSHOCK": [
+          "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 863.61 Physical Damage.",
+          "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
+          "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
+        ],
+        "PASSIVE": [
+          "Evades all Basic Attacks against opponents with a Concussion."
+        ],
+        "SPECIAL ATTACK 1": ["Adds 2 points to the Aftershock Scale."],
+        "SPECIAL ATTACK 2": [
+          "Adds 3 points to the Aftershock Scale.",
+          "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Adds 6 points to the Aftershock Scale.",
+          "100% chance to Stun for 3 second(s)."
+        ]
+      }
+    },
+    "6+1": {
+      "rank": 1,
+      "prestige": "5934",
+      "hp": "23011",
+      "attack": "2058",
+      "crit_rate": "391",
+      "crit_dmge": "879",
+      "armor": "391",
+      "block_prof": "2950",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Quake Blocks an additional 10.13 to 35% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
+      "url_page": "https://auntm.ai/champions/quake/tier/6",
+      "champid": "quake+6+1",
+      "challenger_rating": 110,
+      "abilities": {
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 240.79 Physical Damage per second.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
+          "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
+        ],
+        "AFTERSHOCK": [
+          "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 679.14 Physical Damage.",
+          "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
+          "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
+        ],
+        "PASSIVE": [
+          "Evades all Basic Attacks against opponents with a Concussion."
+        ],
+        "SPECIAL ATTACK 1": ["Adds 2 points to the Aftershock Scale."],
+        "SPECIAL ATTACK 2": [
+          "Adds 3 points to the Aftershock Scale.",
+          "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Adds 6 points to the Aftershock Scale.",
+          "100% chance to Stun for 3 second(s)."
+        ]
+      }
+    },
+    "6+2": {
+      "rank": 2,
+      "prestige": "8195",
+      "hp": "31785",
+      "attack": "2843",
+      "crit_rate": "400",
+      "crit_dmge": "900",
+      "armor": "431",
+      "block_prof": "3022",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Quake Blocks an additional 10.13 to 35% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
+      "url_page": "https://auntm.ai/champions/quake/tier/6",
+      "champid": "quake+6+2",
+      "challenger_rating": 120,
+      "abilities": {
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 332.63 Physical Damage per second.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
+          "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
+        ],
+        "AFTERSHOCK": [
+          "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 938.19 Physical Damage.",
+          "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
+          "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
+        ],
+        "PASSIVE": [
+          "Evades all Basic Attacks against opponents with a Concussion."
+        ],
+        "SPECIAL ATTACK 1": ["Adds 2 points to the Aftershock Scale."],
+        "SPECIAL ATTACK 2": [
+          "Adds 3 points to the Aftershock Scale.",
+          "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Adds 6 points to the Aftershock Scale.",
+          "100% chance to Stun for 3 second(s)."
+        ]
+      }
+    },
+    "6+3": {
+      "rank": 3,
+      "prestige": "9737",
+      "hp": "37708",
+      "attack": "3372",
+      "crit_rate": "410",
+      "crit_dmge": "922",
+      "armor": "472",
+      "block_prof": "3094",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Quake Blocks an additional 10.13 to 35% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
+      "url_page": "https://auntm.ai/champions/quake/tier/6",
+      "champid": "quake+6+3",
+      "challenger_rating": 130,
+      "abilities": {
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 394.52 Physical Damage per second.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
+          "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
+        ],
+        "AFTERSHOCK": [
+          "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 1112.76 Physical Damage.",
+          "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
+          "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
+        ],
+        "PASSIVE": [
+          "Evades all Basic Attacks against opponents with a Concussion."
+        ],
+        "SPECIAL ATTACK 1": ["Adds 2 points to the Aftershock Scale."],
+        "SPECIAL ATTACK 2": [
+          "Adds 3 points to the Aftershock Scale.",
+          "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Adds 6 points to the Aftershock Scale.",
+          "100% chance to Stun for 3 second(s)."
+        ]
+      }
+    },
+    "6+4": {
+      "rank": 4,
+      "prestige": "11141",
+      "hp": "43152",
+      "attack": "3859",
+      "crit_rate": "420",
+      "crit_dmge": "943",
+      "armor": "517",
+      "block_prof": "3166",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Quake Blocks an additional 10.13 to 35% Damage and Redirects it back to the opponent as a pulse of Physical Damage.",
+      "url_page": "https://auntm.ai/champions/quake/tier/6",
+      "champid": "quake+6+4",
+      "challenger_rating": 140,
+      "abilities": {
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 451.5 Physical Damage per second.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
+          "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
+        ],
+        "AFTERSHOCK": [
+          "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 1273.47 Physical Damage.",
+          "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
+          "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
+        ],
+        "PASSIVE": [
+          "Evades all Basic Attacks against opponents with a Concussion."
+        ],
+        "SPECIAL ATTACK 1": ["Adds 2 points to the Aftershock Scale."],
+        "SPECIAL ATTACK 2": [
+          "Adds 3 points to the Aftershock Scale.",
+          "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Adds 6 points to the Aftershock Scale.",
+          "100% chance to Stun for 3 second(s)."
+        ]
+      }
+    },
+    "1+1": {
+      "rank": 1,
+      "prestige": 210,
+      "hp": 818,
+      "attack": 74,
+      "crit_rate": 296,
+      "crit_dmge": 665,
+      "armor": 0,
+      "block_prof": 2231,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/quake/tier/1",
+      "champid": "quake+1+1",
+      "challenger_rating": 10,
+      "abilities": {
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 8.66 Physical Damage per second.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
+          "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
+        ],
+        "AFTERSHOCK": [
+          "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 24.42 Physical Damage.",
+          "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
+          "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
+        ],
+        "PASSIVE": [
+          "Evades all Basic Attacks against opponents with a Concussion."
+        ],
+        "SPECIAL ATTACK 1": ["Adds 2 points to the Aftershock Scale."],
+        "SPECIAL ATTACK 2": [
+          "Adds 3 points to the Aftershock Scale.",
+          "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Adds 6 points to the Aftershock Scale.",
+          "100% chance to Stun for 3 second(s)."
+        ]
+      }
+    },
+    "1+2": {
+      "rank": 2,
+      "prestige": 289,
+      "hp": 1132,
+      "attack": 102,
+      "crit_rate": 305,
+      "crit_dmge": 686,
+      "armor": 0,
+      "block_prof": 2303,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/quake/tier/1",
+      "champid": "quake+1+2",
+      "challenger_rating": 20,
+      "abilities": {
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "Quake generates powerful waves of vibrations that cause an Earthquake, dealing 11.93 Physical Damage per second.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100%.",
+          "While Quake is generating an Earthquake through this attack, the Aftershock Scale goes up by 1 every 0.48 seconds."
+        ],
+        "AFTERSHOCK": [
+          "An Aftershock hits 10 seconds after an Earthquake. For every point in the Scale, Aftershock deals 33.66 Physical Damage.",
+          "10% chance to Stun the opponent for 1.50 seconds. This effect cannot interrupt Special Attacks.",
+          "Aftershock Stun Duration and Accuracy goes up by 10% for every point in the Aftershock Scale.",
+          "Inflicts Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds when the Aftershock Scale is higher than 4 points."
+        ],
+        "PASSIVE": [
+          "Evades all Basic Attacks against opponents with a Concussion."
+        ],
+        "SPECIAL ATTACK 1": ["Adds 2 points to the Aftershock Scale."],
+        "SPECIAL ATTACK 2": [
+          "Adds 3 points to the Aftershock Scale.",
+          "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Adds 6 points to the Aftershock Scale.",
+          "100% chance to Stun for 3 second(s)."
+        ]
+      }
+    },
+    "find": {
+      "story_quests": {
+        "act_1": [],
+        "act_2": [],
+        "act_3": ["3.1.6", "3.2.4"],
+        "act_4": [],
+        "act_5": [
+          "5.1.1",
+          "5.1.2",
+          "5.1.4",
+          "5.1.6",
+          "5.2.1",
+          "5.2.3",
+          "5.3.1",
+          "5.3.5",
+          "5.3.6",
+          "5.4.1",
+          "5.4.3",
+          "5.4.5"
+        ],
+        "act_6": [
+          "6.1.5",
+          "6.2.1",
+          "6.2.5",
+          "6.2.6",
+          "6.3.4",
+          "6.4.3",
+          "6.4.5"
+        ],
+        "act_7": ["7.1.5", "7.2.3", "7.2.5", "7.2.6", "7.3.3", "7.4.2"]
+      }
     }
+  },
+  "name": "QUAKE",
+  "class": "Science",
+  "img_portrait": "https://api.rexians.tk/assets/portraits/quake.png",
+  "contact": "PHYSICAL",
+  "tags": ["Hero", "Inhuman", "Size: S"],
+  "released": "9/29/2016"
 }

@@ -1,1307 +1,1404 @@
 {
-    "name": "RONIN",
-    "class": "Skill",
-    "img_portrait": "https://api.rexians.tk/assets/portraits/ronin.png",
-    "contact": "PHYSICAL",
-    "tags": [
-        "Hero",
-        "Avengers",
-        "Size: M"
-    ],
-    "released": "5/2/2019",
-    "champid": "ronin",
-    "data": {
-        "2+1": {
-            "rank": 1,
-            "prestige": "271",
-            "hp": "1088",
-            "attack": "85",
-            "crit_rate": "563",
-            "crit_dmge": "563",
-            "armor": "0",
-            "block_prof": "2845",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 1.5 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
-                "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 11.05 to 16.98 for 12 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/ronin/tier/2",
-            "champid": "ronin+2+1",
-            "challenger_rating": 20,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 197.75. Max 7 stacks."
-                ],
-                "SWORD ATTACKS": [
-                    "Attacks using the Sword have a 15% chance to inflict Bleed dealing 29.75 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
-                    "Intercepting attacks has +1066.67 Critical Rating.",
-                    "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
-                ],
-                "STANCE PREPARATION": [
-                    "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
-                    "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
-                    "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 197.75. Max 7 stacks."
-                ],
-                "WHEN ENTERING A STANCE": [
-                    "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 2971.43 for 18 seconds."
-                ],
-                "GUARD STANCE": [
-                    "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
-                    "Entering this stance has a 100% chance to Purify a Debuff."
-                ],
-                "WRAITH STANCE": [
-                    "All attacks reduce Defensive Ability Accuracy by 40%."
-                ],
-                "DEMON STANCE": [
-                    "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
-                    "Enters a prepared Stance."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Bleed that deals 29.75 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
-                    "Removes all Cruelty Passives."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain a Fury Passive increasing Attack Rating by 22.1 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 22.1.",
-                    "Removes all Cruelty Passives."
-                ]
-            }
-        },
-        "2+2": {
-            "rank": 2,
-            "prestige": "355",
-            "hp": "1438",
-            "attack": "112",
-            "crit_rate": "580",
-            "crit_dmge": "580",
-            "armor": "0",
-            "block_prof": "2934",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 1.5 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
-                "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 14.56 to 22.38 for 12 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/ronin/tier/2",
-            "champid": "ronin+2+2",
-            "challenger_rating": 30,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 203.93. Max 7 stacks."
-                ],
-                "SWORD ATTACKS": [
-                    "Attacks using the Sword have a 15% chance to inflict Bleed dealing 39.2 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
-                    "Intercepting attacks has +1100 Critical Rating.",
-                    "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
-                ],
-                "STANCE PREPARATION": [
-                    "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
-                    "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
-                    "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 203.93. Max 7 stacks."
-                ],
-                "WHEN ENTERING A STANCE": [
-                    "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3064.29 for 18 seconds."
-                ],
-                "GUARD STANCE": [
-                    "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
-                    "Entering this stance has a 100% chance to Purify a Debuff."
-                ],
-                "WRAITH STANCE": [
-                    "All attacks reduce Defensive Ability Accuracy by 40%."
-                ],
-                "DEMON STANCE": [
-                    "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
-                    "Enters a prepared Stance."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Bleed that deals 39.2 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
-                    "Removes all Cruelty Passives."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain a Fury Passive increasing Attack Rating by 29.12 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 29.12.",
-                    "Removes all Cruelty Passives."
-                ]
-            }
-        },
-        "2+3": {
-            "rank": 3,
-            "prestige": "581",
-            "hp": "2282",
-            "attack": "178",
-            "crit_rate": "598",
-            "crit_dmge": "598",
-            "armor": "0",
-            "block_prof": "3023",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 1.5 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
-                "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 23.14 to 35.57 for 12 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/ronin/tier/2",
-            "champid": "ronin+2+3",
-            "challenger_rating": 40,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 210.11. Max 7 stacks."
-                ],
-                "SWORD ATTACKS": [
-                    "Attacks using the Sword have a 15% chance to inflict Bleed dealing 62.3 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
-                    "Intercepting attacks has +1133.33 Critical Rating.",
-                    "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
-                ],
-                "STANCE PREPARATION": [
-                    "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
-                    "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
-                    "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 210.11. Max 7 stacks."
-                ],
-                "WHEN ENTERING A STANCE": [
-                    "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3157.14 for 18 seconds."
-                ],
-                "GUARD STANCE": [
-                    "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
-                    "Entering this stance has a 100% chance to Purify a Debuff."
-                ],
-                "WRAITH STANCE": [
-                    "All attacks reduce Defensive Ability Accuracy by 40%."
-                ],
-                "DEMON STANCE": [
-                    "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
-                    "Enters a prepared Stance."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Bleed that deals 62.3 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
-                    "Removes all Cruelty Passives."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain a Fury Passive increasing Attack Rating by 46.28 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 46.28.",
-                    "Removes all Cruelty Passives."
-                ]
-            }
-        },
-        "3+1": {
-            "rank": 1,
-            "prestige": "508",
-            "hp": "1973",
-            "attack": "154",
-            "crit_rate": "598",
-            "crit_dmge": "598",
-            "armor": "0",
-            "block_prof": "3023",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 1.5 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
-                "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 20.02 to 30.77 for 12 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/ronin/tier/3",
-            "champid": "ronin+3+1",
-            "challenger_rating": 40,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 210.11. Max 7 stacks."
-                ],
-                "SWORD ATTACKS": [
-                    "Attacks using the Sword have a 15% chance to inflict Bleed dealing 53.9 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
-                    "Intercepting attacks has +1133.33 Critical Rating.",
-                    "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
-                ],
-                "STANCE PREPARATION": [
-                    "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
-                    "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
-                    "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 210.11. Max 7 stacks."
-                ],
-                "WHEN ENTERING A STANCE": [
-                    "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3157.14 for 18 seconds."
-                ],
-                "GUARD STANCE": [
-                    "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
-                    "Entering this stance has a 100% chance to Purify a Debuff."
-                ],
-                "WRAITH STANCE": [
-                    "All attacks reduce Defensive Ability Accuracy by 40%."
-                ],
-                "DEMON STANCE": [
-                    "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
-                    "Enters a prepared Stance."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Bleed that deals 53.9 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
-                    "Removes all Cruelty Passives."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain a Fury Passive increasing Attack Rating by 40.04 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 40.04.",
-                    "Removes all Cruelty Passives."
-                ]
-            }
-        },
-        "3+2": {
-            "rank": 2,
-            "prestige": "803",
-            "hp": "3156",
-            "attack": "246",
-            "crit_rate": "615",
-            "crit_dmge": "615",
-            "armor": "0",
-            "block_prof": "3112",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 1.5 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
-                "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 31.98 to 49.15 for 12 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/ronin/tier/3",
-            "champid": "ronin+3+2",
-            "challenger_rating": 50,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 216.29. Max 7 stacks."
-                ],
-                "SWORD ATTACKS": [
-                    "Attacks using the Sword have a 15% chance to inflict Bleed dealing 86.1 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
-                    "Intercepting attacks has +1166.67 Critical Rating.",
-                    "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
-                ],
-                "STANCE PREPARATION": [
-                    "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
-                    "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
-                    "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 216.29. Max 7 stacks."
-                ],
-                "WHEN ENTERING A STANCE": [
-                    "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3250 for 18 seconds."
-                ],
-                "GUARD STANCE": [
-                    "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
-                    "Entering this stance has a 100% chance to Purify a Debuff."
-                ],
-                "WRAITH STANCE": [
-                    "All attacks reduce Defensive Ability Accuracy by 40%."
-                ],
-                "DEMON STANCE": [
-                    "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
-                    "Enters a prepared Stance."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Bleed that deals 86.1 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
-                    "Removes all Cruelty Passives."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain a Fury Passive increasing Attack Rating by 63.96 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 63.96.",
-                    "Removes all Cruelty Passives."
-                ]
-            }
-        },
-        "3+3": {
-            "rank": 3,
-            "prestige": "1119",
-            "hp": "4416",
-            "attack": "344",
-            "crit_rate": "633",
-            "crit_dmge": "633",
-            "armor": "19",
-            "block_prof": "3200",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 1.5 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
-                "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 44.72 to 68.73 for 12 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/ronin/tier/3",
-            "champid": "ronin+3+3",
-            "challenger_rating": 60,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 222.47. Max 7 stacks."
-                ],
-                "SWORD ATTACKS": [
-                    "Attacks using the Sword have a 15% chance to inflict Bleed dealing 120.4 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
-                    "Intercepting attacks has +1200 Critical Rating.",
-                    "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
-                ],
-                "STANCE PREPARATION": [
-                    "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
-                    "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
-                    "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 222.47. Max 7 stacks."
-                ],
-                "WHEN ENTERING A STANCE": [
-                    "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3342.86 for 18 seconds."
-                ],
-                "GUARD STANCE": [
-                    "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
-                    "Entering this stance has a 100% chance to Purify a Debuff."
-                ],
-                "WRAITH STANCE": [
-                    "All attacks reduce Defensive Ability Accuracy by 40%."
-                ],
-                "DEMON STANCE": [
-                    "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
-                    "Enters a prepared Stance."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Bleed that deals 120.4 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
-                    "Removes all Cruelty Passives."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain a Fury Passive increasing Attack Rating by 89.44 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 89.44.",
-                    "Removes all Cruelty Passives."
-                ]
-            }
-        },
-        "3+4": {
-            "rank": 4,
-            "prestige": "1539",
-            "hp": "6063",
-            "attack": "472",
-            "crit_rate": "650",
-            "crit_dmge": "650",
-            "armor": "38",
-            "block_prof": "3289",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 1.5 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
-                "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 61.36 to 94.31 for 12 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/ronin/tier/3",
-            "champid": "ronin+3+4",
-            "challenger_rating": 70,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 228.65. Max 7 stacks."
-                ],
-                "SWORD ATTACKS": [
-                    "Attacks using the Sword have a 15% chance to inflict Bleed dealing 165.2 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
-                    "Intercepting attacks has +1233.33 Critical Rating.",
-                    "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
-                ],
-                "STANCE PREPARATION": [
-                    "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
-                    "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
-                    "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 228.65. Max 7 stacks."
-                ],
-                "WHEN ENTERING A STANCE": [
-                    "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3435.71 for 18 seconds."
-                ],
-                "GUARD STANCE": [
-                    "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
-                    "Entering this stance has a 100% chance to Purify a Debuff."
-                ],
-                "WRAITH STANCE": [
-                    "All attacks reduce Defensive Ability Accuracy by 40%."
-                ],
-                "DEMON STANCE": [
-                    "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
-                    "Enters a prepared Stance."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Bleed that deals 165.2 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
-                    "Removes all Cruelty Passives."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain a Fury Passive increasing Attack Rating by 122.72 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 122.72.",
-                    "Removes all Cruelty Passives."
-                ]
-            }
-        },
-        "4+1": {
-            "rank": 1,
-            "prestige": "1119",
-            "hp": "4412",
-            "attack": "343",
-            "crit_rate": "633",
-            "crit_dmge": "633",
-            "armor": "56",
-            "block_prof": "3200",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 1.5 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
-                "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 44.59 to 68.53 for 12 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/ronin/tier/4",
-            "champid": "ronin+4+1",
-            "challenger_rating": 60,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 222.47. Max 7 stacks."
-                ],
-                "SWORD ATTACKS": [
-                    "Attacks using the Sword have a 15% chance to inflict Bleed dealing 120.05 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
-                    "Intercepting attacks has +1200 Critical Rating.",
-                    "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
-                ],
-                "STANCE PREPARATION": [
-                    "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
-                    "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
-                    "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 222.47. Max 7 stacks."
-                ],
-                "WHEN ENTERING A STANCE": [
-                    "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3342.86 for 18 seconds."
-                ],
-                "GUARD STANCE": [
-                    "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
-                    "Entering this stance has a 100% chance to Purify a Debuff."
-                ],
-                "WRAITH STANCE": [
-                    "All attacks reduce Defensive Ability Accuracy by 40%."
-                ],
-                "DEMON STANCE": [
-                    "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
-                    "Enters a prepared Stance."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Bleed that deals 120.05 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
-                    "Removes all Cruelty Passives."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain a Fury Passive increasing Attack Rating by 89.18 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 89.18.",
-                    "Removes all Cruelty Passives."
-                ]
-            }
-        },
-        "4+2": {
-            "rank": 2,
-            "prestige": "1566",
-            "hp": "6189",
-            "attack": "481",
-            "crit_rate": "650",
-            "crit_dmge": "650",
-            "armor": "78",
-            "block_prof": "3289",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 1.5 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
-                "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 62.53 to 96.11 for 12 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/ronin/tier/4",
-            "champid": "ronin+4+2",
-            "challenger_rating": 70,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 228.65. Max 7 stacks."
-                ],
-                "SWORD ATTACKS": [
-                    "Attacks using the Sword have a 15% chance to inflict Bleed dealing 168.35 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
-                    "Intercepting attacks has +1233.33 Critical Rating.",
-                    "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
-                ],
-                "STANCE PREPARATION": [
-                    "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
-                    "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
-                    "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 228.65. Max 7 stacks."
-                ],
-                "WHEN ENTERING A STANCE": [
-                    "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3435.71 for 18 seconds."
-                ],
-                "GUARD STANCE": [
-                    "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
-                    "Entering this stance has a 100% chance to Purify a Debuff."
-                ],
-                "WRAITH STANCE": [
-                    "All attacks reduce Defensive Ability Accuracy by 40%."
-                ],
-                "DEMON STANCE": [
-                    "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
-                    "Enters a prepared Stance."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Bleed that deals 168.35 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
-                    "Removes all Cruelty Passives."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain a Fury Passive increasing Attack Rating by 125.06 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 125.06.",
-                    "Removes all Cruelty Passives."
-                ]
-            }
-        },
-        "4+3": {
-            "rank": 3,
-            "prestige": "2194",
-            "hp": "8672",
-            "attack": "674",
-            "crit_rate": "668",
-            "crit_dmge": "668",
-            "armor": "100",
-            "block_prof": "3378",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 1.5 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
-                "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 87.62 to 134.67 for 12 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/ronin/tier/4",
-            "champid": "ronin+4+3",
-            "challenger_rating": 80,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 234.83. Max 7 stacks."
-                ],
-                "SWORD ATTACKS": [
-                    "Attacks using the Sword have a 15% chance to inflict Bleed dealing 235.9 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
-                    "Intercepting attacks has +1266.67 Critical Rating.",
-                    "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
-                ],
-                "STANCE PREPARATION": [
-                    "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
-                    "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
-                    "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 234.83. Max 7 stacks."
-                ],
-                "WHEN ENTERING A STANCE": [
-                    "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3528.57 for 18 seconds."
-                ],
-                "GUARD STANCE": [
-                    "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
-                    "Entering this stance has a 100% chance to Purify a Debuff."
-                ],
-                "WRAITH STANCE": [
-                    "All attacks reduce Defensive Ability Accuracy by 40%."
-                ],
-                "DEMON STANCE": [
-                    "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
-                    "Enters a prepared Stance."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Bleed that deals 235.9 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
-                    "Removes all Cruelty Passives."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain a Fury Passive increasing Attack Rating by 175.24 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 175.24.",
-                    "Removes all Cruelty Passives."
-                ]
-            }
-        },
-        "4+4": {
-            "rank": 4,
-            "prestige": "2885",
-            "hp": "11394",
-            "attack": "886",
-            "crit_rate": "686",
-            "crit_dmge": "686",
-            "armor": "125",
-            "block_prof": "3467",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 1.5 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
-                "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 115.18 to 177.03 for 12 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/ronin/tier/4",
-            "champid": "ronin+4+4",
-            "challenger_rating": 90,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 241.01. Max 7 stacks."
-                ],
-                "SWORD ATTACKS": [
-                    "Attacks using the Sword have a 15% chance to inflict Bleed dealing 310.1 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
-                    "Intercepting attacks has +1300 Critical Rating.",
-                    "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
-                ],
-                "STANCE PREPARATION": [
-                    "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
-                    "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
-                    "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 241.01. Max 7 stacks."
-                ],
-                "WHEN ENTERING A STANCE": [
-                    "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3621.43 for 18 seconds."
-                ],
-                "GUARD STANCE": [
-                    "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
-                    "Entering this stance has a 100% chance to Purify a Debuff."
-                ],
-                "WRAITH STANCE": [
-                    "All attacks reduce Defensive Ability Accuracy by 40%."
-                ],
-                "DEMON STANCE": [
-                    "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
-                    "Enters a prepared Stance."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Bleed that deals 310.1 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
-                    "Removes all Cruelty Passives."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain a Fury Passive increasing Attack Rating by 230.36 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 230.36.",
-                    "Removes all Cruelty Passives."
-                ]
-            }
-        },
-        "4+5": {
-            "rank": 5,
-            "prestige": "3842",
-            "hp": "15204",
-            "attack": "1182",
-            "crit_rate": "703",
-            "crit_dmge": "703",
-            "armor": "151",
-            "block_prof": "3556",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 1.5 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
-                "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 153.66 to 236.17 for 12 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/ronin/tier/4",
-            "champid": "ronin+4+5",
-            "challenger_rating": 100,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 247.19. Max 7 stacks."
-                ],
-                "SWORD ATTACKS": [
-                    "Attacks using the Sword have a 15% chance to inflict Bleed dealing 413.7 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
-                    "Intercepting attacks has +1333.33 Critical Rating.",
-                    "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
-                ],
-                "STANCE PREPARATION": [
-                    "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
-                    "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
-                    "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 247.19. Max 7 stacks."
-                ],
-                "WHEN ENTERING A STANCE": [
-                    "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3714.29 for 18 seconds."
-                ],
-                "GUARD STANCE": [
-                    "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
-                    "Entering this stance has a 100% chance to Purify a Debuff."
-                ],
-                "WRAITH STANCE": [
-                    "All attacks reduce Defensive Ability Accuracy by 40%."
-                ],
-                "DEMON STANCE": [
-                    "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
-                    "Enters a prepared Stance."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Bleed that deals 413.7 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
-                    "Removes all Cruelty Passives."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain a Fury Passive increasing Attack Rating by 307.32 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 307.32.",
-                    "Removes all Cruelty Passives."
-                ]
-            }
-        },
-        "5+1": {
-            "rank": 1,
-            "prestige": "2303",
-            "hp": "9073",
-            "attack": "705",
-            "crit_rate": "668",
-            "crit_dmge": "668",
-            "armor": "235",
-            "block_prof": "3378",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 2 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
-                "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 91.65 to 141 for 12 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/ronin/tier/5",
-            "champid": "ronin+5+1",
-            "challenger_rating": 80,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 234.83. Max 7 stacks."
-                ],
-                "SWORD ATTACKS": [
-                    "Attacks using the Sword have a 15% chance to inflict Bleed dealing 246.75 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
-                    "Intercepting attacks has +1266.67 Critical Rating.",
-                    "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
-                ],
-                "STANCE PREPARATION": [
-                    "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
-                    "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
-                    "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 234.83. Max 7 stacks."
-                ],
-                "WHEN ENTERING A STANCE": [
-                    "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3528.57 for 18 seconds."
-                ],
-                "GUARD STANCE": [
-                    "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
-                    "Entering this stance has a 100% chance to Purify a Debuff."
-                ],
-                "WRAITH STANCE": [
-                    "All attacks reduce Defensive Ability Accuracy by 40%."
-                ],
-                "DEMON STANCE": [
-                    "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
-                    "Enters a prepared Stance."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Bleed that deals 246.75 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
-                    "Removes all Cruelty Passives."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain a Fury Passive increasing Attack Rating by 183.3 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 183.3.",
-                    "Removes all Cruelty Passives."
-                ]
-            }
-        },
-        "5+2": {
-            "rank": 2,
-            "prestige": "3037",
-            "hp": "11985",
-            "attack": "932",
-            "crit_rate": "686",
-            "crit_dmge": "686",
-            "armor": "266",
-            "block_prof": "3467",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 2 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
-                "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 121.16 to 186.4 for 12 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/ronin/tier/5",
-            "champid": "ronin+5+2",
-            "challenger_rating": 90,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 241.01. Max 7 stacks."
-                ],
-                "SWORD ATTACKS": [
-                    "Attacks using the Sword have a 15% chance to inflict Bleed dealing 326.2 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
-                    "Intercepting attacks has +1300 Critical Rating.",
-                    "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
-                ],
-                "STANCE PREPARATION": [
-                    "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
-                    "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
-                    "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 241.01. Max 7 stacks."
-                ],
-                "WHEN ENTERING A STANCE": [
-                    "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3621.43 for 18 seconds."
-                ],
-                "GUARD STANCE": [
-                    "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
-                    "Entering this stance has a 100% chance to Purify a Debuff."
-                ],
-                "WRAITH STANCE": [
-                    "All attacks reduce Defensive Ability Accuracy by 40%."
-                ],
-                "DEMON STANCE": [
-                    "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
-                    "Enters a prepared Stance."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Bleed that deals 326.2 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
-                    "Removes all Cruelty Passives."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain a Fury Passive increasing Attack Rating by 242.32 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 242.32.",
-                    "Removes all Cruelty Passives."
-                ]
-            }
-        },
-        "5+3": {
-            "rank": 3,
-            "prestige": "4251",
-            "hp": "16755",
-            "attack": "1302",
-            "crit_rate": "703",
-            "crit_dmge": "703",
-            "armor": "299",
-            "block_prof": "3556",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 2 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
-                "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 169.26 to 260.4 for 12 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/ronin/tier/5",
-            "champid": "ronin+5+3",
-            "challenger_rating": 100,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 247.19. Max 7 stacks."
-                ],
-                "SWORD ATTACKS": [
-                    "Attacks using the Sword have a 15% chance to inflict Bleed dealing 455.7 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
-                    "Intercepting attacks has +1333.33 Critical Rating.",
-                    "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
-                ],
-                "STANCE PREPARATION": [
-                    "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
-                    "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
-                    "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 247.19. Max 7 stacks."
-                ],
-                "WHEN ENTERING A STANCE": [
-                    "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3714.29 for 18 seconds."
-                ],
-                "GUARD STANCE": [
-                    "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
-                    "Entering this stance has a 100% chance to Purify a Debuff."
-                ],
-                "WRAITH STANCE": [
-                    "All attacks reduce Defensive Ability Accuracy by 40%."
-                ],
-                "DEMON STANCE": [
-                    "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
-                    "Enters a prepared Stance."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Bleed that deals 455.7 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
-                    "Removes all Cruelty Passives."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain a Fury Passive increasing Attack Rating by 338.52 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 338.52.",
-                    "Removes all Cruelty Passives."
-                ]
-            }
-        },
-        "5+4": {
-            "rank": 4,
-            "prestige": "5725",
-            "hp": "22578",
-            "attack": "1755",
-            "crit_rate": "721",
-            "crit_dmge": "721",
-            "armor": "334",
-            "block_prof": "3645",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 2 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
-                "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 228.15 to 351.01 for 12 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/ronin/tier/5",
-            "champid": "ronin+5+4",
-            "challenger_rating": 110,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 253.37. Max 7 stacks."
-                ],
-                "SWORD ATTACKS": [
-                    "Attacks using the Sword have a 15% chance to inflict Bleed dealing 614.25 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
-                    "Intercepting attacks has +1366.67 Critical Rating.",
-                    "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
-                ],
-                "STANCE PREPARATION": [
-                    "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
-                    "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
-                    "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 253.37. Max 7 stacks."
-                ],
-                "WHEN ENTERING A STANCE": [
-                    "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3807.14 for 18 seconds."
-                ],
-                "GUARD STANCE": [
-                    "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
-                    "Entering this stance has a 100% chance to Purify a Debuff."
-                ],
-                "WRAITH STANCE": [
-                    "All attacks reduce Defensive Ability Accuracy by 40%."
-                ],
-                "DEMON STANCE": [
-                    "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
-                    "Enters a prepared Stance."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Bleed that deals 614.25 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
-                    "Removes all Cruelty Passives."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain a Fury Passive increasing Attack Rating by 456.3 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 456.3.",
-                    "Removes all Cruelty Passives."
-                ]
-            }
-        },
-        "5+5": {
-            "rank": 5,
-            "prestige": "7735",
-            "hp": "30484",
-            "attack": "2369",
-            "crit_rate": "738",
-            "crit_dmge": "738",
-            "armor": "371",
-            "block_prof": "3734",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 2 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
-                "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 307.97 to 473.81 for 12 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/ronin/tier/5",
-            "champid": "ronin+5+5",
-            "challenger_rating": 120,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 259.55. Max 7 stacks."
-                ],
-                "SWORD ATTACKS": [
-                    "Attacks using the Sword have a 15% chance to inflict Bleed dealing 829.15 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
-                    "Intercepting attacks has +1400 Critical Rating.",
-                    "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
-                ],
-                "STANCE PREPARATION": [
-                    "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
-                    "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
-                    "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 259.55. Max 7 stacks."
-                ],
-                "WHEN ENTERING A STANCE": [
-                    "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3900 for 18 seconds."
-                ],
-                "GUARD STANCE": [
-                    "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
-                    "Entering this stance has a 100% chance to Purify a Debuff."
-                ],
-                "WRAITH STANCE": [
-                    "All attacks reduce Defensive Ability Accuracy by 40%."
-                ],
-                "DEMON STANCE": [
-                    "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
-                    "Enters a prepared Stance."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Bleed that deals 829.15 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
-                    "Removes all Cruelty Passives."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain a Fury Passive increasing Attack Rating by 615.94 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 615.94.",
-                    "Removes all Cruelty Passives."
-                ]
-            }
-        },
-        "6+1": {
-            "rank": 1,
-            "prestige": "6065",
-            "hp": "23970",
-            "attack": "1863",
-            "crit_rate": "721",
-            "crit_dmge": "721",
-            "armor": "254",
-            "block_prof": "3645",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 2 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
-                "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 242.19 to 372.61 for 12 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/ronin/tier/6",
-            "champid": "ronin+6+1",
-            "challenger_rating": 110,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 253.37. Max 7 stacks."
-                ],
-                "SWORD ATTACKS": [
-                    "Attacks using the Sword have a 15% chance to inflict Bleed dealing 652.05 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
-                    "Intercepting attacks has +1366.67 Critical Rating.",
-                    "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
-                ],
-                "STANCE PREPARATION": [
-                    "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
-                    "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
-                    "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 253.37. Max 7 stacks."
-                ],
-                "WHEN ENTERING A STANCE": [
-                    "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3807.14 for 18 seconds."
-                ],
-                "GUARD STANCE": [
-                    "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
-                    "Entering this stance has a 100% chance to Purify a Debuff."
-                ],
-                "WRAITH STANCE": [
-                    "All attacks reduce Defensive Ability Accuracy by 40%."
-                ],
-                "DEMON STANCE": [
-                    "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
-                    "Enters a prepared Stance."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Bleed that deals 652.05 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
-                    "Removes all Cruelty Passives."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain a Fury Passive increasing Attack Rating by 484.38 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 484.38.",
-                    "Removes all Cruelty Passives."
-                ]
-            }
-        },
-        "6+2": {
-            "rank": 2,
-            "prestige": "8375",
-            "hp": "33110",
-            "attack": "2573",
-            "crit_rate": "738",
-            "crit_dmge": "738",
-            "armor": "287",
-            "block_prof": "3734",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 2 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
-                "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 334.49 to 514.61 for 12 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/ronin/tier/6",
-            "champid": "ronin+6+2",
-            "challenger_rating": 120,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 259.55. Max 7 stacks."
-                ],
-                "SWORD ATTACKS": [
-                    "Attacks using the Sword have a 15% chance to inflict Bleed dealing 900.55 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
-                    "Intercepting attacks has +1400 Critical Rating.",
-                    "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
-                ],
-                "STANCE PREPARATION": [
-                    "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
-                    "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
-                    "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 259.55. Max 7 stacks."
-                ],
-                "WHEN ENTERING A STANCE": [
-                    "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3900 for 18 seconds."
-                ],
-                "GUARD STANCE": [
-                    "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
-                    "Entering this stance has a 100% chance to Purify a Debuff."
-                ],
-                "WRAITH STANCE": [
-                    "All attacks reduce Defensive Ability Accuracy by 40%."
-                ],
-                "DEMON STANCE": [
-                    "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
-                    "Enters a prepared Stance."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Bleed that deals 900.55 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
-                    "Removes all Cruelty Passives."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain a Fury Passive increasing Attack Rating by 668.98 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 668.98.",
-                    "Removes all Cruelty Passives."
-                ]
-            }
-        },
-        "6+3": {
-            "rank": 3,
-            "prestige": "9948",
-            "hp": "39279",
-            "attack": "3052",
-            "crit_rate": "756",
-            "crit_dmge": "756",
-            "armor": "322",
-            "block_prof": "3823",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 2 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
-                "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 396.76 to 610.41 for 12 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/ronin/tier/6",
-            "champid": "ronin+6+3",
-            "challenger_rating": 130,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 265.73. Max 7 stacks."
-                ],
-                "SWORD ATTACKS": [
-                    "Attacks using the Sword have a 15% chance to inflict Bleed dealing 1068.2 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
-                    "Intercepting attacks has +1433.33 Critical Rating.",
-                    "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
-                ],
-                "STANCE PREPARATION": [
-                    "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
-                    "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
-                    "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 265.73. Max 7 stacks."
-                ],
-                "WHEN ENTERING A STANCE": [
-                    "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3992.86 for 18 seconds."
-                ],
-                "GUARD STANCE": [
-                    "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
-                    "Entering this stance has a 100% chance to Purify a Debuff."
-                ],
-                "WRAITH STANCE": [
-                    "All attacks reduce Defensive Ability Accuracy by 40%."
-                ],
-                "DEMON STANCE": [
-                    "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
-                    "Enters a prepared Stance."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Bleed that deals 1068.2 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
-                    "Removes all Cruelty Passives."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain a Fury Passive increasing Attack Rating by 793.52 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 793.52.",
-                    "Removes all Cruelty Passives."
-                ]
-            }
-        },
-        "6+4": {
-            "rank": 4,
-            "prestige": "11385",
-            "hp": "44949",
-            "attack": "3493",
-            "crit_rate": "773",
-            "crit_dmge": "773",
-            "armor": "359",
-            "block_prof": "3912",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 2 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
-                "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 454.09 to 698.61 for 12 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/ronin/tier/6",
-            "champid": "ronin+6+4",
-            "challenger_rating": 140,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 271.91. Max 7 stacks."
-                ],
-                "SWORD ATTACKS": [
-                    "Attacks using the Sword have a 15% chance to inflict Bleed dealing 1222.55 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
-                    "Intercepting attacks has +1466.67 Critical Rating.",
-                    "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
-                ],
-                "STANCE PREPARATION": [
-                    "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
-                    "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
-                    "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 271.91. Max 7 stacks."
-                ],
-                "WHEN ENTERING A STANCE": [
-                    "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 4085.71 for 18 seconds."
-                ],
-                "GUARD STANCE": [
-                    "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
-                    "Entering this stance has a 100% chance to Purify a Debuff."
-                ],
-                "WRAITH STANCE": [
-                    "All attacks reduce Defensive Ability Accuracy by 40%."
-                ],
-                "DEMON STANCE": [
-                    "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
-                    "Enters a prepared Stance."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Inflicts a Bleed that deals 1222.55 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
-                    "Removes all Cruelty Passives."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain a Fury Passive increasing Attack Rating by 908.18 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 908.18.",
-                    "Removes all Cruelty Passives."
-                ]
-            }
-        },
-        "find": {
-            "story_quests": {
-                "act_1": [],
-                "act_2": [
-                    "2.1.6"
-                ],
-                "act_3": [
-                    "3.1.1",
-                    "3.1.6"
-                ],
-                "act_4": [],
-                "act_5": [],
-                "act_6": [
-                    "6.2.1",
-                    "6.3.2",
-                    "6.3.3",
-                    "6.3.4",
-                    "6.3.6",
-                    "6.4.1",
-                    "6.4.4"
-                ],
-                "act_7": [
-                    "7.1.3",
-                    "7.1.6",
-                    "7.2.3",
-                    "7.2.6",
-                    "7.3.5",
-                    "7.4.2",
-                    "7.4.5"
-                ]
-            }
-        }
+  "champid": "ronin",
+  "data": {
+    "2+1": {
+      "rank": 1,
+      "prestige": "271",
+      "hp": "1088",
+      "attack": "85",
+      "crit_rate": "563",
+      "crit_dmge": "563",
+      "armor": "0",
+      "block_prof": "2845",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 1.5 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
+        "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 11.05 to 16.98 for 12 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/ronin/tier/2",
+      "champid": "ronin+2+1",
+      "challenger_rating": 20,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 197.75. Max 7 stacks."
+        ],
+        "SWORD ATTACKS": [
+          "Attacks using the Sword have a 15% chance to inflict Bleed dealing 29.75 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
+          "Intercepting attacks has +1066.67 Critical Rating.",
+          "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
+        ],
+        "STANCE PREPARATION": [
+          "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
+          "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
+          "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 197.75. Max 7 stacks."
+        ],
+        "WHEN ENTERING A STANCE": [
+          "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 2971.43 for 18 seconds."
+        ],
+        "GUARD STANCE": [
+          "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
+          "Entering this stance has a 100% chance to Purify a Debuff."
+        ],
+        "WRAITH STANCE": [
+          "All attacks reduce Defensive Ability Accuracy by 40%."
+        ],
+        "DEMON STANCE": [
+          "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
+          "Enters a prepared Stance."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Bleed that deals 29.75 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
+          "Removes all Cruelty Passives."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain a Fury Passive increasing Attack Rating by 22.1 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 22.1.",
+          "Removes all Cruelty Passives."
+        ]
+      }
+    },
+    "2+2": {
+      "rank": 2,
+      "prestige": "355",
+      "hp": "1438",
+      "attack": "112",
+      "crit_rate": "580",
+      "crit_dmge": "580",
+      "armor": "0",
+      "block_prof": "2934",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 1.5 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
+        "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 14.56 to 22.38 for 12 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/ronin/tier/2",
+      "champid": "ronin+2+2",
+      "challenger_rating": 30,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 203.93. Max 7 stacks."
+        ],
+        "SWORD ATTACKS": [
+          "Attacks using the Sword have a 15% chance to inflict Bleed dealing 39.2 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
+          "Intercepting attacks has +1100 Critical Rating.",
+          "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
+        ],
+        "STANCE PREPARATION": [
+          "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
+          "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
+          "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 203.93. Max 7 stacks."
+        ],
+        "WHEN ENTERING A STANCE": [
+          "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3064.29 for 18 seconds."
+        ],
+        "GUARD STANCE": [
+          "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
+          "Entering this stance has a 100% chance to Purify a Debuff."
+        ],
+        "WRAITH STANCE": [
+          "All attacks reduce Defensive Ability Accuracy by 40%."
+        ],
+        "DEMON STANCE": [
+          "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
+          "Enters a prepared Stance."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Bleed that deals 39.2 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
+          "Removes all Cruelty Passives."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain a Fury Passive increasing Attack Rating by 29.12 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 29.12.",
+          "Removes all Cruelty Passives."
+        ]
+      }
+    },
+    "2+3": {
+      "rank": 3,
+      "prestige": "581",
+      "hp": "2282",
+      "attack": "178",
+      "crit_rate": "598",
+      "crit_dmge": "598",
+      "armor": "0",
+      "block_prof": "3023",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 1.5 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
+        "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 23.14 to 35.57 for 12 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/ronin/tier/2",
+      "champid": "ronin+2+3",
+      "challenger_rating": 40,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 210.11. Max 7 stacks."
+        ],
+        "SWORD ATTACKS": [
+          "Attacks using the Sword have a 15% chance to inflict Bleed dealing 62.3 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
+          "Intercepting attacks has +1133.33 Critical Rating.",
+          "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
+        ],
+        "STANCE PREPARATION": [
+          "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
+          "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
+          "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 210.11. Max 7 stacks."
+        ],
+        "WHEN ENTERING A STANCE": [
+          "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3157.14 for 18 seconds."
+        ],
+        "GUARD STANCE": [
+          "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
+          "Entering this stance has a 100% chance to Purify a Debuff."
+        ],
+        "WRAITH STANCE": [
+          "All attacks reduce Defensive Ability Accuracy by 40%."
+        ],
+        "DEMON STANCE": [
+          "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
+          "Enters a prepared Stance."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Bleed that deals 62.3 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
+          "Removes all Cruelty Passives."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain a Fury Passive increasing Attack Rating by 46.28 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 46.28.",
+          "Removes all Cruelty Passives."
+        ]
+      }
+    },
+    "3+1": {
+      "rank": 1,
+      "prestige": "508",
+      "hp": "1973",
+      "attack": "154",
+      "crit_rate": "598",
+      "crit_dmge": "598",
+      "armor": "0",
+      "block_prof": "3023",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 1.5 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
+        "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 20.02 to 30.77 for 12 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/ronin/tier/3",
+      "champid": "ronin+3+1",
+      "challenger_rating": 40,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 210.11. Max 7 stacks."
+        ],
+        "SWORD ATTACKS": [
+          "Attacks using the Sword have a 15% chance to inflict Bleed dealing 53.9 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
+          "Intercepting attacks has +1133.33 Critical Rating.",
+          "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
+        ],
+        "STANCE PREPARATION": [
+          "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
+          "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
+          "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 210.11. Max 7 stacks."
+        ],
+        "WHEN ENTERING A STANCE": [
+          "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3157.14 for 18 seconds."
+        ],
+        "GUARD STANCE": [
+          "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
+          "Entering this stance has a 100% chance to Purify a Debuff."
+        ],
+        "WRAITH STANCE": [
+          "All attacks reduce Defensive Ability Accuracy by 40%."
+        ],
+        "DEMON STANCE": [
+          "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
+          "Enters a prepared Stance."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Bleed that deals 53.9 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
+          "Removes all Cruelty Passives."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain a Fury Passive increasing Attack Rating by 40.04 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 40.04.",
+          "Removes all Cruelty Passives."
+        ]
+      }
+    },
+    "3+2": {
+      "rank": 2,
+      "prestige": "803",
+      "hp": "3156",
+      "attack": "246",
+      "crit_rate": "615",
+      "crit_dmge": "615",
+      "armor": "0",
+      "block_prof": "3112",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 1.5 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
+        "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 31.98 to 49.15 for 12 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/ronin/tier/3",
+      "champid": "ronin+3+2",
+      "challenger_rating": 50,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 216.29. Max 7 stacks."
+        ],
+        "SWORD ATTACKS": [
+          "Attacks using the Sword have a 15% chance to inflict Bleed dealing 86.1 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
+          "Intercepting attacks has +1166.67 Critical Rating.",
+          "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
+        ],
+        "STANCE PREPARATION": [
+          "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
+          "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
+          "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 216.29. Max 7 stacks."
+        ],
+        "WHEN ENTERING A STANCE": [
+          "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3250 for 18 seconds."
+        ],
+        "GUARD STANCE": [
+          "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
+          "Entering this stance has a 100% chance to Purify a Debuff."
+        ],
+        "WRAITH STANCE": [
+          "All attacks reduce Defensive Ability Accuracy by 40%."
+        ],
+        "DEMON STANCE": [
+          "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
+          "Enters a prepared Stance."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Bleed that deals 86.1 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
+          "Removes all Cruelty Passives."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain a Fury Passive increasing Attack Rating by 63.96 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 63.96.",
+          "Removes all Cruelty Passives."
+        ]
+      }
+    },
+    "3+3": {
+      "rank": 3,
+      "prestige": "1119",
+      "hp": "4416",
+      "attack": "344",
+      "crit_rate": "633",
+      "crit_dmge": "633",
+      "armor": "19",
+      "block_prof": "3200",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 1.5 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
+        "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 44.72 to 68.73 for 12 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/ronin/tier/3",
+      "champid": "ronin+3+3",
+      "challenger_rating": 60,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 222.47. Max 7 stacks."
+        ],
+        "SWORD ATTACKS": [
+          "Attacks using the Sword have a 15% chance to inflict Bleed dealing 120.4 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
+          "Intercepting attacks has +1200 Critical Rating.",
+          "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
+        ],
+        "STANCE PREPARATION": [
+          "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
+          "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
+          "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 222.47. Max 7 stacks."
+        ],
+        "WHEN ENTERING A STANCE": [
+          "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3342.86 for 18 seconds."
+        ],
+        "GUARD STANCE": [
+          "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
+          "Entering this stance has a 100% chance to Purify a Debuff."
+        ],
+        "WRAITH STANCE": [
+          "All attacks reduce Defensive Ability Accuracy by 40%."
+        ],
+        "DEMON STANCE": [
+          "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
+          "Enters a prepared Stance."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Bleed that deals 120.4 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
+          "Removes all Cruelty Passives."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain a Fury Passive increasing Attack Rating by 89.44 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 89.44.",
+          "Removes all Cruelty Passives."
+        ]
+      }
+    },
+    "3+4": {
+      "rank": 4,
+      "prestige": "1539",
+      "hp": "6063",
+      "attack": "472",
+      "crit_rate": "650",
+      "crit_dmge": "650",
+      "armor": "38",
+      "block_prof": "3289",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 1.5 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
+        "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 61.36 to 94.31 for 12 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/ronin/tier/3",
+      "champid": "ronin+3+4",
+      "challenger_rating": 70,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 228.65. Max 7 stacks."
+        ],
+        "SWORD ATTACKS": [
+          "Attacks using the Sword have a 15% chance to inflict Bleed dealing 165.2 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
+          "Intercepting attacks has +1233.33 Critical Rating.",
+          "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
+        ],
+        "STANCE PREPARATION": [
+          "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
+          "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
+          "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 228.65. Max 7 stacks."
+        ],
+        "WHEN ENTERING A STANCE": [
+          "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3435.71 for 18 seconds."
+        ],
+        "GUARD STANCE": [
+          "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
+          "Entering this stance has a 100% chance to Purify a Debuff."
+        ],
+        "WRAITH STANCE": [
+          "All attacks reduce Defensive Ability Accuracy by 40%."
+        ],
+        "DEMON STANCE": [
+          "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
+          "Enters a prepared Stance."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Bleed that deals 165.2 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
+          "Removes all Cruelty Passives."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain a Fury Passive increasing Attack Rating by 122.72 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 122.72.",
+          "Removes all Cruelty Passives."
+        ]
+      }
+    },
+    "4+1": {
+      "rank": 1,
+      "prestige": "1119",
+      "hp": "4412",
+      "attack": "343",
+      "crit_rate": "633",
+      "crit_dmge": "633",
+      "armor": "56",
+      "block_prof": "3200",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 1.5 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
+        "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 44.59 to 68.53 for 12 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/ronin/tier/4",
+      "champid": "ronin+4+1",
+      "challenger_rating": 60,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 222.47. Max 7 stacks."
+        ],
+        "SWORD ATTACKS": [
+          "Attacks using the Sword have a 15% chance to inflict Bleed dealing 120.05 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
+          "Intercepting attacks has +1200 Critical Rating.",
+          "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
+        ],
+        "STANCE PREPARATION": [
+          "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
+          "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
+          "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 222.47. Max 7 stacks."
+        ],
+        "WHEN ENTERING A STANCE": [
+          "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3342.86 for 18 seconds."
+        ],
+        "GUARD STANCE": [
+          "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
+          "Entering this stance has a 100% chance to Purify a Debuff."
+        ],
+        "WRAITH STANCE": [
+          "All attacks reduce Defensive Ability Accuracy by 40%."
+        ],
+        "DEMON STANCE": [
+          "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
+          "Enters a prepared Stance."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Bleed that deals 120.05 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
+          "Removes all Cruelty Passives."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain a Fury Passive increasing Attack Rating by 89.18 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 89.18.",
+          "Removes all Cruelty Passives."
+        ]
+      }
+    },
+    "4+2": {
+      "rank": 2,
+      "prestige": "1566",
+      "hp": "6189",
+      "attack": "481",
+      "crit_rate": "650",
+      "crit_dmge": "650",
+      "armor": "78",
+      "block_prof": "3289",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 1.5 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
+        "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 62.53 to 96.11 for 12 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/ronin/tier/4",
+      "champid": "ronin+4+2",
+      "challenger_rating": 70,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 228.65. Max 7 stacks."
+        ],
+        "SWORD ATTACKS": [
+          "Attacks using the Sword have a 15% chance to inflict Bleed dealing 168.35 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
+          "Intercepting attacks has +1233.33 Critical Rating.",
+          "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
+        ],
+        "STANCE PREPARATION": [
+          "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
+          "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
+          "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 228.65. Max 7 stacks."
+        ],
+        "WHEN ENTERING A STANCE": [
+          "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3435.71 for 18 seconds."
+        ],
+        "GUARD STANCE": [
+          "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
+          "Entering this stance has a 100% chance to Purify a Debuff."
+        ],
+        "WRAITH STANCE": [
+          "All attacks reduce Defensive Ability Accuracy by 40%."
+        ],
+        "DEMON STANCE": [
+          "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
+          "Enters a prepared Stance."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Bleed that deals 168.35 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
+          "Removes all Cruelty Passives."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain a Fury Passive increasing Attack Rating by 125.06 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 125.06.",
+          "Removes all Cruelty Passives."
+        ]
+      }
+    },
+    "4+3": {
+      "rank": 3,
+      "prestige": "2194",
+      "hp": "8672",
+      "attack": "674",
+      "crit_rate": "668",
+      "crit_dmge": "668",
+      "armor": "100",
+      "block_prof": "3378",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 1.5 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
+        "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 87.62 to 134.67 for 12 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/ronin/tier/4",
+      "champid": "ronin+4+3",
+      "challenger_rating": 80,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 234.83. Max 7 stacks."
+        ],
+        "SWORD ATTACKS": [
+          "Attacks using the Sword have a 15% chance to inflict Bleed dealing 235.9 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
+          "Intercepting attacks has +1266.67 Critical Rating.",
+          "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
+        ],
+        "STANCE PREPARATION": [
+          "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
+          "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
+          "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 234.83. Max 7 stacks."
+        ],
+        "WHEN ENTERING A STANCE": [
+          "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3528.57 for 18 seconds."
+        ],
+        "GUARD STANCE": [
+          "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
+          "Entering this stance has a 100% chance to Purify a Debuff."
+        ],
+        "WRAITH STANCE": [
+          "All attacks reduce Defensive Ability Accuracy by 40%."
+        ],
+        "DEMON STANCE": [
+          "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
+          "Enters a prepared Stance."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Bleed that deals 235.9 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
+          "Removes all Cruelty Passives."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain a Fury Passive increasing Attack Rating by 175.24 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 175.24.",
+          "Removes all Cruelty Passives."
+        ]
+      }
+    },
+    "4+4": {
+      "rank": 4,
+      "prestige": "2885",
+      "hp": "11394",
+      "attack": "886",
+      "crit_rate": "686",
+      "crit_dmge": "686",
+      "armor": "125",
+      "block_prof": "3467",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 1.5 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
+        "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 115.18 to 177.03 for 12 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/ronin/tier/4",
+      "champid": "ronin+4+4",
+      "challenger_rating": 90,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 241.01. Max 7 stacks."
+        ],
+        "SWORD ATTACKS": [
+          "Attacks using the Sword have a 15% chance to inflict Bleed dealing 310.1 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
+          "Intercepting attacks has +1300 Critical Rating.",
+          "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
+        ],
+        "STANCE PREPARATION": [
+          "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
+          "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
+          "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 241.01. Max 7 stacks."
+        ],
+        "WHEN ENTERING A STANCE": [
+          "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3621.43 for 18 seconds."
+        ],
+        "GUARD STANCE": [
+          "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
+          "Entering this stance has a 100% chance to Purify a Debuff."
+        ],
+        "WRAITH STANCE": [
+          "All attacks reduce Defensive Ability Accuracy by 40%."
+        ],
+        "DEMON STANCE": [
+          "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
+          "Enters a prepared Stance."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Bleed that deals 310.1 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
+          "Removes all Cruelty Passives."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain a Fury Passive increasing Attack Rating by 230.36 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 230.36.",
+          "Removes all Cruelty Passives."
+        ]
+      }
+    },
+    "4+5": {
+      "rank": 5,
+      "prestige": "3842",
+      "hp": "15204",
+      "attack": "1182",
+      "crit_rate": "703",
+      "crit_dmge": "703",
+      "armor": "151",
+      "block_prof": "3556",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 1.5 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
+        "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 153.66 to 236.17 for 12 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/ronin/tier/4",
+      "champid": "ronin+4+5",
+      "challenger_rating": 100,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 247.19. Max 7 stacks."
+        ],
+        "SWORD ATTACKS": [
+          "Attacks using the Sword have a 15% chance to inflict Bleed dealing 413.7 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
+          "Intercepting attacks has +1333.33 Critical Rating.",
+          "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
+        ],
+        "STANCE PREPARATION": [
+          "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
+          "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
+          "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 247.19. Max 7 stacks."
+        ],
+        "WHEN ENTERING A STANCE": [
+          "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3714.29 for 18 seconds."
+        ],
+        "GUARD STANCE": [
+          "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
+          "Entering this stance has a 100% chance to Purify a Debuff."
+        ],
+        "WRAITH STANCE": [
+          "All attacks reduce Defensive Ability Accuracy by 40%."
+        ],
+        "DEMON STANCE": [
+          "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
+          "Enters a prepared Stance."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Bleed that deals 413.7 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
+          "Removes all Cruelty Passives."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain a Fury Passive increasing Attack Rating by 307.32 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 307.32.",
+          "Removes all Cruelty Passives."
+        ]
+      }
+    },
+    "5+1": {
+      "rank": 1,
+      "prestige": "2303",
+      "hp": "9073",
+      "attack": "705",
+      "crit_rate": "668",
+      "crit_dmge": "668",
+      "armor": "235",
+      "block_prof": "3378",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 2 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
+        "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 91.65 to 141 for 12 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/ronin/tier/5",
+      "champid": "ronin+5+1",
+      "challenger_rating": 80,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 234.83. Max 7 stacks."
+        ],
+        "SWORD ATTACKS": [
+          "Attacks using the Sword have a 15% chance to inflict Bleed dealing 246.75 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
+          "Intercepting attacks has +1266.67 Critical Rating.",
+          "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
+        ],
+        "STANCE PREPARATION": [
+          "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
+          "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
+          "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 234.83. Max 7 stacks."
+        ],
+        "WHEN ENTERING A STANCE": [
+          "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3528.57 for 18 seconds."
+        ],
+        "GUARD STANCE": [
+          "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
+          "Entering this stance has a 100% chance to Purify a Debuff."
+        ],
+        "WRAITH STANCE": [
+          "All attacks reduce Defensive Ability Accuracy by 40%."
+        ],
+        "DEMON STANCE": [
+          "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
+          "Enters a prepared Stance."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Bleed that deals 246.75 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
+          "Removes all Cruelty Passives."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain a Fury Passive increasing Attack Rating by 183.3 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 183.3.",
+          "Removes all Cruelty Passives."
+        ]
+      }
+    },
+    "5+2": {
+      "rank": 2,
+      "prestige": "3037",
+      "hp": "11985",
+      "attack": "932",
+      "crit_rate": "686",
+      "crit_dmge": "686",
+      "armor": "266",
+      "block_prof": "3467",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 2 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
+        "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 121.16 to 186.4 for 12 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/ronin/tier/5",
+      "champid": "ronin+5+2",
+      "challenger_rating": 90,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 241.01. Max 7 stacks."
+        ],
+        "SWORD ATTACKS": [
+          "Attacks using the Sword have a 15% chance to inflict Bleed dealing 326.2 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
+          "Intercepting attacks has +1300 Critical Rating.",
+          "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
+        ],
+        "STANCE PREPARATION": [
+          "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
+          "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
+          "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 241.01. Max 7 stacks."
+        ],
+        "WHEN ENTERING A STANCE": [
+          "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3621.43 for 18 seconds."
+        ],
+        "GUARD STANCE": [
+          "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
+          "Entering this stance has a 100% chance to Purify a Debuff."
+        ],
+        "WRAITH STANCE": [
+          "All attacks reduce Defensive Ability Accuracy by 40%."
+        ],
+        "DEMON STANCE": [
+          "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
+          "Enters a prepared Stance."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Bleed that deals 326.2 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
+          "Removes all Cruelty Passives."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain a Fury Passive increasing Attack Rating by 242.32 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 242.32.",
+          "Removes all Cruelty Passives."
+        ]
+      }
+    },
+    "5+3": {
+      "rank": 3,
+      "prestige": "4251",
+      "hp": "16755",
+      "attack": "1302",
+      "crit_rate": "703",
+      "crit_dmge": "703",
+      "armor": "299",
+      "block_prof": "3556",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 2 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
+        "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 169.26 to 260.4 for 12 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/ronin/tier/5",
+      "champid": "ronin+5+3",
+      "challenger_rating": 100,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 247.19. Max 7 stacks."
+        ],
+        "SWORD ATTACKS": [
+          "Attacks using the Sword have a 15% chance to inflict Bleed dealing 455.7 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
+          "Intercepting attacks has +1333.33 Critical Rating.",
+          "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
+        ],
+        "STANCE PREPARATION": [
+          "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
+          "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
+          "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 247.19. Max 7 stacks."
+        ],
+        "WHEN ENTERING A STANCE": [
+          "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3714.29 for 18 seconds."
+        ],
+        "GUARD STANCE": [
+          "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
+          "Entering this stance has a 100% chance to Purify a Debuff."
+        ],
+        "WRAITH STANCE": [
+          "All attacks reduce Defensive Ability Accuracy by 40%."
+        ],
+        "DEMON STANCE": [
+          "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
+          "Enters a prepared Stance."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Bleed that deals 455.7 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
+          "Removes all Cruelty Passives."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain a Fury Passive increasing Attack Rating by 338.52 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 338.52.",
+          "Removes all Cruelty Passives."
+        ]
+      }
+    },
+    "5+4": {
+      "rank": 4,
+      "prestige": "5725",
+      "hp": "22578",
+      "attack": "1755",
+      "crit_rate": "721",
+      "crit_dmge": "721",
+      "armor": "334",
+      "block_prof": "3645",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 2 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
+        "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 228.15 to 351.01 for 12 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/ronin/tier/5",
+      "champid": "ronin+5+4",
+      "challenger_rating": 110,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 253.37. Max 7 stacks."
+        ],
+        "SWORD ATTACKS": [
+          "Attacks using the Sword have a 15% chance to inflict Bleed dealing 614.25 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
+          "Intercepting attacks has +1366.67 Critical Rating.",
+          "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
+        ],
+        "STANCE PREPARATION": [
+          "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
+          "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
+          "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 253.37. Max 7 stacks."
+        ],
+        "WHEN ENTERING A STANCE": [
+          "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3807.14 for 18 seconds."
+        ],
+        "GUARD STANCE": [
+          "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
+          "Entering this stance has a 100% chance to Purify a Debuff."
+        ],
+        "WRAITH STANCE": [
+          "All attacks reduce Defensive Ability Accuracy by 40%."
+        ],
+        "DEMON STANCE": [
+          "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
+          "Enters a prepared Stance."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Bleed that deals 614.25 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
+          "Removes all Cruelty Passives."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain a Fury Passive increasing Attack Rating by 456.3 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 456.3.",
+          "Removes all Cruelty Passives."
+        ]
+      }
+    },
+    "5+5": {
+      "rank": 5,
+      "prestige": "7735",
+      "hp": "30484",
+      "attack": "2369",
+      "crit_rate": "738",
+      "crit_dmge": "738",
+      "armor": "371",
+      "block_prof": "3734",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 2 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
+        "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 307.97 to 473.81 for 12 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/ronin/tier/5",
+      "champid": "ronin+5+5",
+      "challenger_rating": 120,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 259.55. Max 7 stacks."
+        ],
+        "SWORD ATTACKS": [
+          "Attacks using the Sword have a 15% chance to inflict Bleed dealing 829.15 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
+          "Intercepting attacks has +1400 Critical Rating.",
+          "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
+        ],
+        "STANCE PREPARATION": [
+          "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
+          "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
+          "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 259.55. Max 7 stacks."
+        ],
+        "WHEN ENTERING A STANCE": [
+          "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3900 for 18 seconds."
+        ],
+        "GUARD STANCE": [
+          "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
+          "Entering this stance has a 100% chance to Purify a Debuff."
+        ],
+        "WRAITH STANCE": [
+          "All attacks reduce Defensive Ability Accuracy by 40%."
+        ],
+        "DEMON STANCE": [
+          "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
+          "Enters a prepared Stance."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Bleed that deals 829.15 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
+          "Removes all Cruelty Passives."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain a Fury Passive increasing Attack Rating by 615.94 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 615.94.",
+          "Removes all Cruelty Passives."
+        ]
+      }
+    },
+    "6+1": {
+      "rank": 1,
+      "prestige": "6065",
+      "hp": "23970",
+      "attack": "1863",
+      "crit_rate": "721",
+      "crit_dmge": "721",
+      "armor": "254",
+      "block_prof": "3645",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 2 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
+        "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 242.19 to 372.61 for 12 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/ronin/tier/6",
+      "champid": "ronin+6+1",
+      "challenger_rating": 110,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 253.37. Max 7 stacks."
+        ],
+        "SWORD ATTACKS": [
+          "Attacks using the Sword have a 15% chance to inflict Bleed dealing 652.05 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
+          "Intercepting attacks has +1366.67 Critical Rating.",
+          "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
+        ],
+        "STANCE PREPARATION": [
+          "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
+          "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
+          "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 253.37. Max 7 stacks."
+        ],
+        "WHEN ENTERING A STANCE": [
+          "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3807.14 for 18 seconds."
+        ],
+        "GUARD STANCE": [
+          "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
+          "Entering this stance has a 100% chance to Purify a Debuff."
+        ],
+        "WRAITH STANCE": [
+          "All attacks reduce Defensive Ability Accuracy by 40%."
+        ],
+        "DEMON STANCE": [
+          "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
+          "Enters a prepared Stance."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Bleed that deals 652.05 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
+          "Removes all Cruelty Passives."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain a Fury Passive increasing Attack Rating by 484.38 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 484.38.",
+          "Removes all Cruelty Passives."
+        ]
+      }
+    },
+    "6+2": {
+      "rank": 2,
+      "prestige": "8375",
+      "hp": "33110",
+      "attack": "2573",
+      "crit_rate": "738",
+      "crit_dmge": "738",
+      "armor": "287",
+      "block_prof": "3734",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 2 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
+        "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 334.49 to 514.61 for 12 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/ronin/tier/6",
+      "champid": "ronin+6+2",
+      "challenger_rating": 120,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 259.55. Max 7 stacks."
+        ],
+        "SWORD ATTACKS": [
+          "Attacks using the Sword have a 15% chance to inflict Bleed dealing 900.55 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
+          "Intercepting attacks has +1400 Critical Rating.",
+          "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
+        ],
+        "STANCE PREPARATION": [
+          "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
+          "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
+          "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 259.55. Max 7 stacks."
+        ],
+        "WHEN ENTERING A STANCE": [
+          "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3900 for 18 seconds."
+        ],
+        "GUARD STANCE": [
+          "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
+          "Entering this stance has a 100% chance to Purify a Debuff."
+        ],
+        "WRAITH STANCE": [
+          "All attacks reduce Defensive Ability Accuracy by 40%."
+        ],
+        "DEMON STANCE": [
+          "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
+          "Enters a prepared Stance."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Bleed that deals 900.55 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
+          "Removes all Cruelty Passives."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain a Fury Passive increasing Attack Rating by 668.98 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 668.98.",
+          "Removes all Cruelty Passives."
+        ]
+      }
+    },
+    "6+3": {
+      "rank": 3,
+      "prestige": "9948",
+      "hp": "39279",
+      "attack": "3052",
+      "crit_rate": "756",
+      "crit_dmge": "756",
+      "armor": "322",
+      "block_prof": "3823",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 2 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
+        "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 396.76 to 610.41 for 12 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/ronin/tier/6",
+      "champid": "ronin+6+3",
+      "challenger_rating": 130,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 265.73. Max 7 stacks."
+        ],
+        "SWORD ATTACKS": [
+          "Attacks using the Sword have a 15% chance to inflict Bleed dealing 1068.2 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
+          "Intercepting attacks has +1433.33 Critical Rating.",
+          "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
+        ],
+        "STANCE PREPARATION": [
+          "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
+          "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
+          "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 265.73. Max 7 stacks."
+        ],
+        "WHEN ENTERING A STANCE": [
+          "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3992.86 for 18 seconds."
+        ],
+        "GUARD STANCE": [
+          "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
+          "Entering this stance has a 100% chance to Purify a Debuff."
+        ],
+        "WRAITH STANCE": [
+          "All attacks reduce Defensive Ability Accuracy by 40%."
+        ],
+        "DEMON STANCE": [
+          "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
+          "Enters a prepared Stance."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Bleed that deals 1068.2 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
+          "Removes all Cruelty Passives."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain a Fury Passive increasing Attack Rating by 793.52 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 793.52.",
+          "Removes all Cruelty Passives."
+        ]
+      }
+    },
+    "6+4": {
+      "rank": 4,
+      "prestige": "11385",
+      "hp": "44949",
+      "attack": "3493",
+      "crit_rate": "773",
+      "crit_dmge": "773",
+      "armor": "359",
+      "block_prof": "3912",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for 0.4 to 2 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
+        "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 454.09 to 698.61 for 12 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/ronin/tier/6",
+      "champid": "ronin+6+4",
+      "challenger_rating": 140,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 271.91. Max 7 stacks."
+        ],
+        "SWORD ATTACKS": [
+          "Attacks using the Sword have a 15% chance to inflict Bleed dealing 1222.55 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
+          "Intercepting attacks has +1466.67 Critical Rating.",
+          "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
+        ],
+        "STANCE PREPARATION": [
+          "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
+          "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
+          "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 271.91. Max 7 stacks."
+        ],
+        "WHEN ENTERING A STANCE": [
+          "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 4085.71 for 18 seconds."
+        ],
+        "GUARD STANCE": [
+          "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
+          "Entering this stance has a 100% chance to Purify a Debuff."
+        ],
+        "WRAITH STANCE": [
+          "All attacks reduce Defensive Ability Accuracy by 40%."
+        ],
+        "DEMON STANCE": [
+          "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
+          "Enters a prepared Stance."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Bleed that deals 1222.55 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
+          "Removes all Cruelty Passives."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain a Fury Passive increasing Attack Rating by 908.18 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 908.18.",
+          "Removes all Cruelty Passives."
+        ]
+      }
+    },
+    "1+1": {
+      "rank": 1,
+      "prestige": 208,
+      "hp": 852,
+      "attack": 67,
+      "crit_rate": 545,
+      "crit_dmge": 545,
+      "armor": 0,
+      "block_prof": 2756,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/ronin/tier/1",
+      "champid": "ronin+1+1",
+      "challenger_rating": 10,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 191.57. Max 7 stacks."
+        ],
+        "SWORD ATTACKS": [
+          "Attacks using the Sword have a 15% chance to inflict Bleed dealing 23.45 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
+          "Intercepting attacks has +1033.33 Critical Rating.",
+          "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
+        ],
+        "STANCE PREPARATION": [
+          "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
+          "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
+          "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 191.57. Max 7 stacks."
+        ],
+        "WHEN ENTERING A STANCE": [
+          "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 2878.57 for 18 seconds."
+        ],
+        "GUARD STANCE": [
+          "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
+          "Entering this stance has a 100% chance to Purify a Debuff."
+        ],
+        "WRAITH STANCE": [
+          "All attacks reduce Defensive Ability Accuracy by 40%."
+        ],
+        "DEMON STANCE": [
+          "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
+          "Enters a prepared Stance."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Bleed that deals 23.45 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
+          "Removes all Cruelty Passives."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain a Fury Passive increasing Attack Rating by 17.42 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 17.42.",
+          "Removes all Cruelty Passives."
+        ]
+      }
+    },
+    "1+2": {
+      "rank": 2,
+      "prestige": 292,
+      "hp": 1179,
+      "attack": 92,
+      "crit_rate": 563,
+      "crit_dmge": 563,
+      "armor": 0,
+      "block_prof": 2845,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/ronin/tier/1",
+      "champid": "ronin+1+2",
+      "challenger_rating": 20,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 197.75. Max 7 stacks."
+        ],
+        "SWORD ATTACKS": [
+          "Attacks using the Sword have a 15% chance to inflict Bleed dealing 32.2 Direct Damage over 3.50 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
+          "Intercepting attacks has +1066.67 Critical Rating.",
+          "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s)."
+        ],
+        "STANCE PREPARATION": [
+          "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
+          "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
+          "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 197.75. Max 7 stacks."
+        ],
+        "WHEN ENTERING A STANCE": [
+          "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 2971.43 for 18 seconds."
+        ],
+        "GUARD STANCE": [
+          "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is non-contact. Ronin gains +35% chance to Perfect Block.",
+          "Entering this stance has a 100% chance to Purify a Debuff."
+        ],
+        "WRAITH STANCE": [
+          "All attacks reduce Defensive Ability Accuracy by 40%."
+        ],
+        "DEMON STANCE": [
+          "All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.",
+          "Enters a prepared Stance."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Inflicts a Bleed that deals 32.2 Direct Damage over 3.50 seconds for each active Cruelty Passive.",
+          "Removes all Cruelty Passives."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain a Fury Passive increasing Attack Rating by 23.92 for 35 seconds. Each active Cruelty Passsive increases the Attack Rating by an additional 23.92.",
+          "Removes all Cruelty Passives."
+        ]
+      }
+    },
+    "find": {
+      "story_quests": {
+        "act_1": [],
+        "act_2": ["2.1.6"],
+        "act_3": ["3.1.1", "3.1.6"],
+        "act_4": [],
+        "act_5": [],
+        "act_6": [
+          "6.2.1",
+          "6.3.2",
+          "6.3.3",
+          "6.3.4",
+          "6.3.6",
+          "6.4.1",
+          "6.4.4"
+        ],
+        "act_7": ["7.1.3", "7.1.6", "7.2.3", "7.2.6", "7.3.5", "7.4.2", "7.4.5"]
+      }
     }
+  },
+  "name": "RONIN",
+  "class": "Skill",
+  "img_portrait": "https://api.rexians.tk/assets/portraits/ronin.png",
+  "contact": "PHYSICAL",
+  "tags": ["Hero", "Avengers", "Size: M"],
+  "released": "5/2/2019"
 }

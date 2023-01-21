@@ -1,1355 +1,1415 @@
 {
-    "name": "MISTER NEGATIVE",
-    "class": "Science",
-    "img_portrait": "https://api.rexians.tk/assets/portraits/misternegative.png",
-    "contact": "PHYSICAL",
-    "tags": [
-        "Villain",
-        "Size: M"
-    ],
-    "released": "5/6/2021",
-    "champid": "misternegative",
-    "data": {
-        "2+1": {
-            "rank": 1,
-            "prestige": "244",
-            "hp": "1045",
-            "attack": "87",
-            "crit_rate": "686",
-            "crit_dmge": "563",
-            "armor": "33",
-            "block_prof": "2037",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 8.7 to 34.8 Physical Damage.",
-                "While suffering from Degeneration, Regenerate +10.45 to 20.77 Health per second.",
-                "Each Light Energy grants +16.16 to 102.04 Energy Resistance.",
-                "Each Dark Energy deals 0.87 to 1.73 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
-            ],
-            "url_page": "https://auntm.ai/champions/misternegative/tier/2",
-            "champid": "misternegative+2+1",
-            "challenger_rating": 20,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
-                    "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
-                    "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 73.95 Physical Damage and granting the Opponent Power equal to a Medium Attack."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit grants a Fury Buff increasing Attack Rating by +13.05 for 10 seconds.",
-                    "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
-                ],
-                "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
-                    "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
-                    "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
-                    "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
-                ],
-                "DARK ENERGY PASSIVE - MAX STACKS 20": [
-                    "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
-                    "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
-                    "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
-                    "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
-                    "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +533.33 for each Light Energy, then convert all Light Energy into Dark Energy.",
-                    "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 171.43 for 20 seconds."
-                ],
-                "PASSIVE": [
-                    "Inflict a Delirium Debuff for 0 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
-                    "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
-                    "The 3rd hit inflicts a Degeneration Debuff, dealing up to 117.45 Direct Damage over 10 seconds.",
-                    "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Delirium Debuff for 20 seconds.",
-                    "All Light Energy is consumed, each Regenerating 13.59 Health.",
-                    "All Dark Energy is consumed, each dealing a burst of 73.95 Direct Damage to the Opponent."
-                ]
-            }
-        },
-        "2+2": {
-            "rank": 2,
-            "prestige": "321",
-            "hp": "1380",
-            "attack": "115",
-            "crit_rate": "708",
-            "crit_dmge": "580",
-            "armor": "52",
-            "block_prof": "2101",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 11.5 to 46 Physical Damage.",
-                "While suffering from Degeneration, Regenerate +13.8 to 27.43 Health per second.",
-                "Each Light Energy grants +16.67 to 105.22 Energy Resistance.",
-                "Each Dark Energy deals 1.15 to 2.29 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
-            ],
-            "url_page": "https://auntm.ai/champions/misternegative/tier/2",
-            "champid": "misternegative+2+2",
-            "challenger_rating": 30,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
-                    "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
-                    "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 97.75 Physical Damage and granting the Opponent Power equal to a Medium Attack."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit grants a Fury Buff increasing Attack Rating by +17.25 for 10 seconds.",
-                    "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
-                ],
-                "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
-                    "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
-                    "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
-                    "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
-                ],
-                "DARK ENERGY PASSIVE - MAX STACKS 20": [
-                    "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
-                    "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
-                    "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
-                    "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
-                    "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +550 for each Light Energy, then convert all Light Energy into Dark Energy.",
-                    "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 176.79 for 20 seconds."
-                ],
-                "PASSIVE": [
-                    "Inflict a Delirium Debuff for 0 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
-                    "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
-                    "The 3rd hit inflicts a Degeneration Debuff, dealing up to 155.25 Direct Damage over 10 seconds.",
-                    "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Delirium Debuff for 20 seconds.",
-                    "All Light Energy is consumed, each Regenerating 17.94 Health.",
-                    "All Dark Energy is consumed, each dealing a burst of 97.75 Direct Damage to the Opponent."
-                ]
-            }
-        },
-        "2+3": {
-            "rank": 3,
-            "prestige": "585",
-            "hp": "2191",
-            "attack": "183",
-            "crit_rate": "729",
-            "crit_dmge": "598",
-            "armor": "71",
-            "block_prof": "2164",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 18.3 to 73.19 Physical Damage.",
-                "While suffering from Degeneration, Regenerate +21.91 to 43.56 Health per second.",
-                "Each Light Energy grants +17.17 to 108.41 Energy Resistance.",
-                "Each Dark Energy deals 1.83 to 3.64 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
-            ],
-            "url_page": "https://auntm.ai/champions/misternegative/tier/2",
-            "champid": "misternegative+2+3",
-            "challenger_rating": 40,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
-                    "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
-                    "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 155.55 Physical Damage and granting the Opponent Power equal to a Medium Attack."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit grants a Fury Buff increasing Attack Rating by +27.45 for 10 seconds.",
-                    "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
-                ],
-                "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
-                    "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
-                    "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
-                    "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
-                ],
-                "DARK ENERGY PASSIVE - MAX STACKS 20": [
-                    "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
-                    "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
-                    "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
-                    "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
-                    "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +566.67 for each Light Energy, then convert all Light Energy into Dark Energy.",
-                    "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 182.14 for 20 seconds."
-                ],
-                "PASSIVE": [
-                    "Inflict a Delirium Debuff for 0 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
-                    "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
-                    "The 3rd hit inflicts a Degeneration Debuff, dealing up to 247.05 Direct Damage over 10 seconds.",
-                    "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Delirium Debuff for 20 seconds.",
-                    "All Light Energy is consumed, each Regenerating 28.48 Health.",
-                    "All Dark Energy is consumed, each dealing a burst of 155.55 Direct Damage to the Opponent."
-                ]
-            }
-        },
-        "3+1": {
-            "rank": 1,
-            "prestige": "506",
-            "hp": "1894",
-            "attack": "158",
-            "crit_rate": "729",
-            "crit_dmge": "598",
-            "armor": "71",
-            "block_prof": "2164",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 15.8 to 63.2 Physical Damage.",
-                "While suffering from Degeneration, Regenerate +18.94 to 37.65 Health per second.",
-                "Each Light Energy grants +17.17 to 108.41 Energy Resistance.",
-                "Each Dark Energy deals 1.58 to 3.14 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
-            ],
-            "url_page": "https://auntm.ai/champions/misternegative/tier/3",
-            "champid": "misternegative+3+1",
-            "challenger_rating": 40,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
-                    "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
-                    "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 134.3 Physical Damage and granting the Opponent Power equal to a Medium Attack."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit grants a Fury Buff increasing Attack Rating by +23.7 for 10 seconds.",
-                    "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
-                ],
-                "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
-                    "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
-                    "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
-                    "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
-                ],
-                "DARK ENERGY PASSIVE - MAX STACKS 20": [
-                    "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
-                    "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
-                    "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
-                    "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
-                    "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +566.67 for each Light Energy, then convert all Light Energy into Dark Energy.",
-                    "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 182.14 for 20 seconds."
-                ],
-                "PASSIVE": [
-                    "Inflict a Delirium Debuff for 0 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
-                    "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
-                    "The 3rd hit inflicts a Degeneration Debuff, dealing up to 213.3 Direct Damage over 10 seconds.",
-                    "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Delirium Debuff for 20 seconds.",
-                    "All Light Energy is consumed, each Regenerating 24.62 Health.",
-                    "All Dark Energy is consumed, each dealing a burst of 134.3 Direct Damage to the Opponent."
-                ]
-            }
-        },
-        "3+2": {
-            "rank": 2,
-            "prestige": "807",
-            "hp": "3030",
-            "attack": "253",
-            "crit_rate": "751",
-            "crit_dmge": "615",
-            "armor": "93",
-            "block_prof": "2228",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 25.3 to 101.19 Physical Damage.",
-                "While suffering from Degeneration, Regenerate +30.3 to 60.23 Health per second.",
-                "Each Light Energy grants +17.68 to 111.6 Energy Resistance.",
-                "Each Dark Energy deals 2.53 to 5.03 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
-            ],
-            "url_page": "https://auntm.ai/champions/misternegative/tier/3",
-            "champid": "misternegative+3+2",
-            "challenger_rating": 50,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
-                    "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
-                    "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 215.05 Physical Damage and granting the Opponent Power equal to a Medium Attack."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit grants a Fury Buff increasing Attack Rating by +37.95 for 10 seconds.",
-                    "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
-                ],
-                "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
-                    "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
-                    "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
-                    "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
-                ],
-                "DARK ENERGY PASSIVE - MAX STACKS 20": [
-                    "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
-                    "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
-                    "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
-                    "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
-                    "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +583.33 for each Light Energy, then convert all Light Energy into Dark Energy.",
-                    "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 187.5 for 20 seconds."
-                ],
-                "PASSIVE": [
-                    "Inflict a Delirium Debuff for 0 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
-                    "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
-                    "The 3rd hit inflicts a Degeneration Debuff, dealing up to 341.55 Direct Damage over 10 seconds.",
-                    "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Delirium Debuff for 20 seconds.",
-                    "All Light Energy is consumed, each Regenerating 39.39 Health.",
-                    "All Dark Energy is consumed, each dealing a burst of 215.05 Direct Damage to the Opponent."
-                ]
-            }
-        },
-        "3+3": {
-            "rank": 3,
-            "prestige": "1124",
-            "hp": "4239",
-            "attack": "353",
-            "crit_rate": "772",
-            "crit_dmge": "633",
-            "armor": "115",
-            "block_prof": "2291",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 35.3 to 141.19 Physical Damage.",
-                "While suffering from Degeneration, Regenerate +42.39 to 84.27 Health per second.",
-                "Each Light Energy grants +18.18 to 114.79 Energy Resistance.",
-                "Each Dark Energy deals 3.53 to 7.02 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
-            ],
-            "url_page": "https://auntm.ai/champions/misternegative/tier/3",
-            "champid": "misternegative+3+3",
-            "challenger_rating": 60,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
-                    "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
-                    "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 300.05 Physical Damage and granting the Opponent Power equal to a Medium Attack."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit grants a Fury Buff increasing Attack Rating by +52.95 for 10 seconds.",
-                    "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
-                ],
-                "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
-                    "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
-                    "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
-                    "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
-                ],
-                "DARK ENERGY PASSIVE - MAX STACKS 20": [
-                    "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
-                    "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
-                    "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
-                    "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
-                    "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +600 for each Light Energy, then convert all Light Energy into Dark Energy.",
-                    "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 192.86 for 20 seconds."
-                ],
-                "PASSIVE": [
-                    "Inflict a Delirium Debuff for 0 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
-                    "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
-                    "The 3rd hit inflicts a Degeneration Debuff, dealing up to 476.55 Direct Damage over 10 seconds.",
-                    "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Delirium Debuff for 20 seconds.",
-                    "All Light Energy is consumed, each Regenerating 55.11 Health.",
-                    "All Dark Energy is consumed, each dealing a burst of 300.05 Direct Damage to the Opponent."
-                ]
-            }
-        },
-        "3+4": {
-            "rank": 4,
-            "prestige": "1546",
-            "hp": "5821",
-            "attack": "485",
-            "crit_rate": "793",
-            "crit_dmge": "650",
-            "armor": "140",
-            "block_prof": "2355",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 48.5 to 193.99 Physical Damage.",
-                "While suffering from Degeneration, Regenerate +58.21 to 115.72 Health per second.",
-                "Each Light Energy grants +18.69 to 117.98 Energy Resistance.",
-                "Each Dark Energy deals 4.85 to 9.64 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
-            ],
-            "url_page": "https://auntm.ai/champions/misternegative/tier/3",
-            "champid": "misternegative+3+4",
-            "challenger_rating": 70,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
-                    "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
-                    "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 412.25 Physical Damage and granting the Opponent Power equal to a Medium Attack."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit grants a Fury Buff increasing Attack Rating by +72.75 for 10 seconds.",
-                    "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
-                ],
-                "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
-                    "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
-                    "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
-                    "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
-                ],
-                "DARK ENERGY PASSIVE - MAX STACKS 20": [
-                    "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
-                    "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
-                    "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
-                    "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
-                    "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +616.67 for each Light Energy, then convert all Light Energy into Dark Energy.",
-                    "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 198.21 for 20 seconds."
-                ],
-                "PASSIVE": [
-                    "Inflict a Delirium Debuff for 0 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
-                    "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
-                    "The 3rd hit inflicts a Degeneration Debuff, dealing up to 654.75 Direct Damage over 10 seconds.",
-                    "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Delirium Debuff for 20 seconds.",
-                    "All Light Energy is consumed, each Regenerating 75.67 Health.",
-                    "All Dark Energy is consumed, each dealing a burst of 412.25 Direct Damage to the Opponent."
-                ]
-            }
-        },
-        "4+1": {
-            "rank": 1,
-            "prestige": "1126",
-            "hp": "4236",
-            "attack": "353",
-            "crit_rate": "772",
-            "crit_dmge": "633",
-            "armor": "157",
-            "block_prof": "2291",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 35.3 to 141.19 Physical Damage.",
-                "While suffering from Degeneration, Regenerate +42.36 to 84.21 Health per second.",
-                "Each Light Energy grants +18.18 to 114.79 Energy Resistance.",
-                "Each Dark Energy deals 3.53 to 7.02 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
-            ],
-            "url_page": "https://auntm.ai/champions/misternegative/tier/4",
-            "champid": "misternegative+4+1",
-            "challenger_rating": 60,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
-                    "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
-                    "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 300.05 Physical Damage and granting the Opponent Power equal to a Medium Attack."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit grants a Fury Buff increasing Attack Rating by +52.95 for 10 seconds.",
-                    "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
-                ],
-                "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
-                    "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
-                    "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
-                    "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
-                ],
-                "DARK ENERGY PASSIVE - MAX STACKS 20": [
-                    "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
-                    "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
-                    "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
-                    "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
-                    "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +600 for each Light Energy, then convert all Light Energy into Dark Energy.",
-                    "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 192.86 for 20 seconds."
-                ],
-                "PASSIVE": [
-                    "Inflict a Delirium Debuff for 0 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
-                    "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
-                    "The 3rd hit inflicts a Degeneration Debuff, dealing up to 476.55 Direct Damage over 10 seconds.",
-                    "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Delirium Debuff for 20 seconds.",
-                    "All Light Energy is consumed, each Regenerating 55.07 Health.",
-                    "All Dark Energy is consumed, each dealing a burst of 300.05 Direct Damage to the Opponent."
-                ]
-            }
-        },
-        "4+2": {
-            "rank": 2,
-            "prestige": "1580",
-            "hp": "5942",
-            "attack": "495",
-            "crit_rate": "793",
-            "crit_dmge": "650",
-            "armor": "183",
-            "block_prof": "2355",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 49.5 to 197.98 Physical Damage.",
-                "While suffering from Degeneration, Regenerate +59.42 to 118.12 Health per second.",
-                "Each Light Energy grants +18.69 to 117.98 Energy Resistance.",
-                "Each Dark Energy deals 4.95 to 9.84 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
-            ],
-            "url_page": "https://auntm.ai/champions/misternegative/tier/4",
-            "champid": "misternegative+4+2",
-            "challenger_rating": 70,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
-                    "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
-                    "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 420.75 Physical Damage and granting the Opponent Power equal to a Medium Attack."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit grants a Fury Buff increasing Attack Rating by +74.25 for 10 seconds.",
-                    "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
-                ],
-                "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
-                    "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
-                    "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
-                    "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
-                ],
-                "DARK ENERGY PASSIVE - MAX STACKS 20": [
-                    "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
-                    "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
-                    "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
-                    "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
-                    "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +616.67 for each Light Energy, then convert all Light Energy into Dark Energy.",
-                    "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 198.21 for 20 seconds."
-                ],
-                "PASSIVE": [
-                    "Inflict a Delirium Debuff for 0 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
-                    "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
-                    "The 3rd hit inflicts a Degeneration Debuff, dealing up to 668.25 Direct Damage over 10 seconds.",
-                    "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Delirium Debuff for 20 seconds.",
-                    "All Light Energy is consumed, each Regenerating 77.25 Health.",
-                    "All Dark Energy is consumed, each dealing a burst of 420.75 Direct Damage to the Opponent."
-                ]
-            }
-        },
-        "4+3": {
-            "rank": 3,
-            "prestige": "2212",
-            "hp": "8325",
-            "attack": "694",
-            "crit_rate": "815",
-            "crit_dmge": "668",
-            "armor": "212",
-            "block_prof": "2419",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 69.4 to 277.58 Physical Damage.",
-                "While suffering from Degeneration, Regenerate +83.25 to 165.5 Health per second.",
-                "Each Light Energy grants +19.19 to 121.17 Energy Resistance.",
-                "Each Dark Energy deals 6.94 to 13.8 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
-            ],
-            "url_page": "https://auntm.ai/champions/misternegative/tier/4",
-            "champid": "misternegative+4+3",
-            "challenger_rating": 80,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
-                    "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
-                    "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 589.9 Physical Damage and granting the Opponent Power equal to a Medium Attack."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit grants a Fury Buff increasing Attack Rating by +104.1 for 10 seconds.",
-                    "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
-                ],
-                "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
-                    "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
-                    "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
-                    "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
-                ],
-                "DARK ENERGY PASSIVE - MAX STACKS 20": [
-                    "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
-                    "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
-                    "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
-                    "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
-                    "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +633.33 for each Light Energy, then convert all Light Energy into Dark Energy.",
-                    "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 203.57 for 20 seconds."
-                ],
-                "PASSIVE": [
-                    "Inflict a Delirium Debuff for 0 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
-                    "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
-                    "The 3rd hit inflicts a Degeneration Debuff, dealing up to 936.9 Direct Damage over 10 seconds.",
-                    "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Delirium Debuff for 20 seconds.",
-                    "All Light Energy is consumed, each Regenerating 108.23 Health.",
-                    "All Dark Energy is consumed, each dealing a burst of 589.9 Direct Damage to the Opponent."
-                ]
-            }
-        },
-        "4+4": {
-            "rank": 4,
-            "prestige": "2908",
-            "hp": "10939",
-            "attack": "911",
-            "crit_rate": "836",
-            "crit_dmge": "686",
-            "armor": "242",
-            "block_prof": "2482",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 91.1 to 364.37 Physical Damage.",
-                "While suffering from Degeneration, Regenerate +109.39 to 217.46 Health per second.",
-                "Each Light Energy grants +19.7 to 124.36 Energy Resistance.",
-                "Each Dark Energy deals 9.11 to 18.11 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
-            ],
-            "url_page": "https://auntm.ai/champions/misternegative/tier/4",
-            "champid": "misternegative+4+4",
-            "challenger_rating": 90,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
-                    "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
-                    "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 774.35 Physical Damage and granting the Opponent Power equal to a Medium Attack."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit grants a Fury Buff increasing Attack Rating by +136.65 for 10 seconds.",
-                    "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
-                ],
-                "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
-                    "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
-                    "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
-                    "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
-                ],
-                "DARK ENERGY PASSIVE - MAX STACKS 20": [
-                    "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
-                    "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
-                    "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
-                    "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
-                    "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +650 for each Light Energy, then convert all Light Energy into Dark Energy.",
-                    "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 208.93 for 20 seconds."
-                ],
-                "PASSIVE": [
-                    "Inflict a Delirium Debuff for 0 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
-                    "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
-                    "The 3rd hit inflicts a Degeneration Debuff, dealing up to 1229.85 Direct Damage over 10 seconds.",
-                    "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Delirium Debuff for 20 seconds.",
-                    "All Light Energy is consumed, each Regenerating 142.21 Health.",
-                    "All Dark Energy is consumed, each dealing a burst of 774.35 Direct Damage to the Opponent."
-                ]
-            }
-        },
-        "4+5": {
-            "rank": 5,
-            "prestige": "3879",
-            "hp": "14596",
-            "attack": "1216",
-            "crit_rate": "858",
-            "crit_dmge": "703",
-            "armor": "273",
-            "block_prof": "2546",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 121.6 to 486.36 Physical Damage.",
-                "While suffering from Degeneration, Regenerate +145.96 to 290.16 Health per second.",
-                "Each Light Energy grants +20.2 to 127.54 Energy Resistance.",
-                "Each Dark Energy deals 12.16 to 24.17 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
-            ],
-            "url_page": "https://auntm.ai/champions/misternegative/tier/4",
-            "champid": "misternegative+4+5",
-            "challenger_rating": 100,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
-                    "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
-                    "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 1033.6 Physical Damage and granting the Opponent Power equal to a Medium Attack."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit grants a Fury Buff increasing Attack Rating by +182.4 for 10 seconds.",
-                    "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
-                ],
-                "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
-                    "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
-                    "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
-                    "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
-                ],
-                "DARK ENERGY PASSIVE - MAX STACKS 20": [
-                    "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
-                    "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
-                    "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
-                    "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
-                    "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +666.67 for each Light Energy, then convert all Light Energy into Dark Energy.",
-                    "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 214.29 for 20 seconds."
-                ],
-                "PASSIVE": [
-                    "Inflict a Delirium Debuff for 0 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
-                    "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
-                    "The 3rd hit inflicts a Degeneration Debuff, dealing up to 1641.6 Direct Damage over 10 seconds.",
-                    "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Delirium Debuff for 20 seconds.",
-                    "All Light Energy is consumed, each Regenerating 189.75 Health.",
-                    "All Dark Energy is consumed, each dealing a burst of 1033.6 Direct Damage to the Opponent."
-                ]
-            }
-        },
-        "5+1": {
-            "rank": 1,
-            "prestige": "2321",
-            "hp": "8710",
-            "attack": "726",
-            "crit_rate": "815",
-            "crit_dmge": "668",
-            "armor": "362",
-            "block_prof": "2419",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 79.77 to 363 Physical Damage.",
-                "While suffering from Degeneration, Regenerate +143.78 to 217.79 Health per second.",
-                "Each Light Energy grants +28.84 to 165.23 Energy Resistance.",
-                "Each Dark Energy deals 13.41 to 18.15 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
-            ],
-            "url_page": "https://auntm.ai/champions/misternegative/tier/5",
-            "champid": "misternegative+5+1",
-            "challenger_rating": 80,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
-                    "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
-                    "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 617.1 Physical Damage and granting the Opponent Power equal to a Medium Attack."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit grants a Fury Buff increasing Attack Rating by +108.9 for 10 seconds.",
-                    "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
-                ],
-                "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
-                    "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
-                    "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
-                    "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
-                ],
-                "DARK ENERGY PASSIVE - MAX STACKS 20": [
-                    "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
-                    "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
-                    "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
-                    "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
-                    "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +633.33 for each Light Energy, then convert all Light Energy into Dark Energy.",
-                    "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 203.57 for 20 seconds."
-                ],
-                "PASSIVE": [
-                    "Inflict a Delirium Debuff for 0 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
-                    "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
-                    "The 3rd hit inflicts a Degeneration Debuff, dealing up to 980.1 Direct Damage over 10 seconds.",
-                    "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Delirium Debuff for 20 seconds.",
-                    "All Light Energy is consumed, each Regenerating 113.23 Health.",
-                    "All Dark Energy is consumed, each dealing a burst of 617.1 Direct Damage to the Opponent."
-                ]
-            }
-        },
-        "5+2": {
-            "rank": 2,
-            "prestige": "3061",
-            "hp": "11506",
-            "attack": "958",
-            "crit_rate": "836",
-            "crit_dmge": "686",
-            "armor": "400",
-            "block_prof": "2482",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 105.26 to 479 Physical Damage.",
-                "While suffering from Degeneration, Regenerate +189.93 to 287.7 Health per second.",
-                "Each Light Energy grants +29.59 to 169.57 Energy Resistance.",
-                "Each Dark Energy deals 17.69 to 23.95 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
-            ],
-            "url_page": "https://auntm.ai/champions/misternegative/tier/5",
-            "champid": "misternegative+5+2",
-            "challenger_rating": 90,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
-                    "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
-                    "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 814.3 Physical Damage and granting the Opponent Power equal to a Medium Attack."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit grants a Fury Buff increasing Attack Rating by +143.7 for 10 seconds.",
-                    "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
-                ],
-                "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
-                    "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
-                    "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
-                    "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
-                ],
-                "DARK ENERGY PASSIVE - MAX STACKS 20": [
-                    "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
-                    "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
-                    "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
-                    "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
-                    "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +650 for each Light Energy, then convert all Light Energy into Dark Energy.",
-                    "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 208.93 for 20 seconds."
-                ],
-                "PASSIVE": [
-                    "Inflict a Delirium Debuff for 0 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
-                    "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
-                    "The 3rd hit inflicts a Degeneration Debuff, dealing up to 1293.3 Direct Damage over 10 seconds.",
-                    "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Delirium Debuff for 20 seconds.",
-                    "All Light Energy is consumed, each Regenerating 149.58 Health.",
-                    "All Dark Energy is consumed, each dealing a burst of 814.3 Direct Damage to the Opponent."
-                ]
-            }
-        },
-        "5+3": {
-            "rank": 3,
-            "prestige": "4289",
-            "hp": "16085",
-            "attack": "1340",
-            "crit_rate": "858",
-            "crit_dmge": "703",
-            "armor": "440",
-            "block_prof": "2546",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 147.23 to 670 Physical Damage.",
-                "While suffering from Degeneration, Regenerate +265.52 to 402.2 Health per second.",
-                "Each Light Energy grants +30.35 to 173.92 Energy Resistance.",
-                "Each Dark Energy deals 24.75 to 33.5 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
-            ],
-            "url_page": "https://auntm.ai/champions/misternegative/tier/5",
-            "champid": "misternegative+5+3",
-            "challenger_rating": 100,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
-                    "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
-                    "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 1139 Physical Damage and granting the Opponent Power equal to a Medium Attack."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit grants a Fury Buff increasing Attack Rating by +201 for 10 seconds.",
-                    "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
-                ],
-                "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
-                    "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
-                    "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
-                    "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
-                ],
-                "DARK ENERGY PASSIVE - MAX STACKS 20": [
-                    "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
-                    "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
-                    "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
-                    "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
-                    "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +666.67 for each Light Energy, then convert all Light Energy into Dark Energy.",
-                    "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 214.29 for 20 seconds."
-                ],
-                "PASSIVE": [
-                    "Inflict a Delirium Debuff for 0 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
-                    "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
-                    "The 3rd hit inflicts a Degeneration Debuff, dealing up to 1809 Direct Damage over 10 seconds.",
-                    "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Delirium Debuff for 20 seconds.",
-                    "All Light Energy is consumed, each Regenerating 209.11 Health.",
-                    "All Dark Energy is consumed, each dealing a burst of 1139 Direct Damage to the Opponent."
-                ]
-            }
-        },
-        "5+4": {
-            "rank": 4,
-            "prestige": "5775",
-            "hp": "21675",
-            "attack": "1805",
-            "crit_rate": "879",
-            "crit_dmge": "721",
-            "armor": "481",
-            "block_prof": "2610",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 198.32 to 902.5 Physical Damage.",
-                "While suffering from Degeneration, Regenerate +357.79 to 541.97 Health per second.",
-                "Each Light Energy grants +31.11 to 178.27 Energy Resistance.",
-                "Each Dark Energy deals 33.33 to 45.13 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
-            ],
-            "url_page": "https://auntm.ai/champions/misternegative/tier/5",
-            "champid": "misternegative+5+4",
-            "challenger_rating": 110,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
-                    "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
-                    "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 1534.25 Physical Damage and granting the Opponent Power equal to a Medium Attack."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit grants a Fury Buff increasing Attack Rating by +270.75 for 10 seconds.",
-                    "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
-                ],
-                "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
-                    "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
-                    "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
-                    "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
-                ],
-                "DARK ENERGY PASSIVE - MAX STACKS 20": [
-                    "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
-                    "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
-                    "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
-                    "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
-                    "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +683.33 for each Light Energy, then convert all Light Energy into Dark Energy.",
-                    "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 219.64 for 20 seconds."
-                ],
-                "PASSIVE": [
-                    "Inflict a Delirium Debuff for 0 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
-                    "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
-                    "The 3rd hit inflicts a Degeneration Debuff, dealing up to 2436.75 Direct Damage over 10 seconds.",
-                    "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Delirium Debuff for 20 seconds.",
-                    "All Light Energy is consumed, each Regenerating 281.77 Health.",
-                    "All Dark Energy is consumed, each dealing a burst of 1534.25 Direct Damage to the Opponent."
-                ]
-            }
-        },
-        "5+5": {
-            "rank": 5,
-            "prestige": "7806",
-            "hp": "29264",
-            "attack": "2437",
-            "crit_rate": "901",
-            "crit_dmge": "738",
-            "armor": "525",
-            "block_prof": "2673",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 267.75 to 1218.49 Physical Damage.",
-                "While suffering from Degeneration, Regenerate +483.06 to 731.73 Health per second.",
-                "Each Light Energy grants +31.87 to 182.62 Energy Resistance.",
-                "Each Dark Energy deals 45 to 60.93 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
-            ],
-            "url_page": "https://auntm.ai/champions/misternegative/tier/5",
-            "champid": "misternegative+5+5",
-            "challenger_rating": 120,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
-                    "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
-                    "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 2071.45 Physical Damage and granting the Opponent Power equal to a Medium Attack."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit grants a Fury Buff increasing Attack Rating by +365.55 for 10 seconds.",
-                    "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
-                ],
-                "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
-                    "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
-                    "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
-                    "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
-                ],
-                "DARK ENERGY PASSIVE - MAX STACKS 20": [
-                    "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
-                    "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
-                    "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
-                    "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
-                    "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +700 for each Light Energy, then convert all Light Energy into Dark Energy.",
-                    "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 225 for 20 seconds."
-                ],
-                "PASSIVE": [
-                    "Inflict a Delirium Debuff for 0 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
-                    "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
-                    "The 3rd hit inflicts a Degeneration Debuff, dealing up to 3289.95 Direct Damage over 10 seconds.",
-                    "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Delirium Debuff for 20 seconds.",
-                    "All Light Energy is consumed, each Regenerating 380.43 Health.",
-                    "All Dark Energy is consumed, each dealing a burst of 2071.45 Direct Damage to the Opponent."
-                ]
-            }
-        },
-        "6+1": {
-            "rank": 1,
-            "prestige": "6119",
-            "hp": "23011",
-            "attack": "1916",
-            "crit_rate": "879",
-            "crit_dmge": "721",
-            "armor": "391",
-            "block_prof": "2610",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 210.51 to 958 Physical Damage.",
-                "While suffering from Degeneration, Regenerate +379.84 to 575.38 Health per second.",
-                "Each Light Energy grants +31.11 to 178.27 Energy Resistance.",
-                "Each Dark Energy deals 35.38 to 47.91 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
-            ],
-            "url_page": "https://auntm.ai/champions/misternegative/tier/6",
-            "champid": "misternegative+6+1",
-            "challenger_rating": 110,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
-                    "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
-                    "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 1628.6 Physical Damage and granting the Opponent Power equal to a Medium Attack."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit grants a Fury Buff increasing Attack Rating by +287.4 for 10 seconds.",
-                    "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
-                ],
-                "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
-                    "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
-                    "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
-                    "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
-                ],
-                "DARK ENERGY PASSIVE - MAX STACKS 20": [
-                    "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
-                    "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
-                    "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
-                    "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
-                    "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +683.33 for each Light Energy, then convert all Light Energy into Dark Energy.",
-                    "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 219.64 for 20 seconds."
-                ],
-                "PASSIVE": [
-                    "Inflict a Delirium Debuff for 0 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
-                    "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
-                    "The 3rd hit inflicts a Degeneration Debuff, dealing up to 2586.6 Direct Damage over 10 seconds.",
-                    "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Delirium Debuff for 20 seconds.",
-                    "All Light Energy is consumed, each Regenerating 299.14 Health.",
-                    "All Dark Energy is consumed, each dealing a burst of 1628.6 Direct Damage to the Opponent."
-                ]
-            }
-        },
-        "6+2": {
-            "rank": 2,
-            "prestige": "8452",
-            "hp": "31785",
-            "attack": "2647",
-            "crit_rate": "901",
-            "crit_dmge": "738",
-            "armor": "431",
-            "block_prof": "2673",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 290.83 to 1323.49 Physical Damage.",
-                "While suffering from Degeneration, Regenerate +524.67 to 794.77 Health per second.",
-                "Each Light Energy grants +31.87 to 182.62 Energy Resistance.",
-                "Each Dark Energy deals 48.88 to 66.18 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
-            ],
-            "url_page": "https://auntm.ai/champions/misternegative/tier/6",
-            "champid": "misternegative+6+2",
-            "challenger_rating": 120,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
-                    "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
-                    "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 2249.95 Physical Damage and granting the Opponent Power equal to a Medium Attack."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit grants a Fury Buff increasing Attack Rating by +397.05 for 10 seconds.",
-                    "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
-                ],
-                "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
-                    "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
-                    "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
-                    "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
-                ],
-                "DARK ENERGY PASSIVE - MAX STACKS 20": [
-                    "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
-                    "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
-                    "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
-                    "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
-                    "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +700 for each Light Energy, then convert all Light Energy into Dark Energy.",
-                    "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 225 for 20 seconds."
-                ],
-                "PASSIVE": [
-                    "Inflict a Delirium Debuff for 0 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
-                    "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
-                    "The 3rd hit inflicts a Degeneration Debuff, dealing up to 3573.45 Direct Damage over 10 seconds.",
-                    "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Delirium Debuff for 20 seconds.",
-                    "All Light Energy is consumed, each Regenerating 413.21 Health.",
-                    "All Dark Energy is consumed, each dealing a burst of 2249.95 Direct Damage to the Opponent."
-                ]
-            }
-        },
-        "6+3": {
-            "rank": 3,
-            "prestige": "10043",
-            "hp": "37708",
-            "attack": "3140",
-            "crit_rate": "922",
-            "crit_dmge": "756",
-            "armor": "472",
-            "block_prof": "2737",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 344.99 to 1569.99 Physical Damage.",
-                "While suffering from Degeneration, Regenerate +622.45 to 942.87 Health per second.",
-                "Each Light Energy grants +32.63 to 186.97 Energy Resistance.",
-                "Each Dark Energy deals 57.99 to 78.51 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
-            ],
-            "url_page": "https://auntm.ai/champions/misternegative/tier/6",
-            "champid": "misternegative+6+3",
-            "challenger_rating": 130,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
-                    "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
-                    "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 2669 Physical Damage and granting the Opponent Power equal to a Medium Attack."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit grants a Fury Buff increasing Attack Rating by +471 for 10 seconds.",
-                    "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
-                ],
-                "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
-                    "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
-                    "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
-                    "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
-                ],
-                "DARK ENERGY PASSIVE - MAX STACKS 20": [
-                    "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
-                    "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
-                    "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
-                    "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
-                    "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +716.67 for each Light Energy, then convert all Light Energy into Dark Energy.",
-                    "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 230.36 for 20 seconds."
-                ],
-                "PASSIVE": [
-                    "Inflict a Delirium Debuff for 0 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
-                    "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
-                    "The 3rd hit inflicts a Degeneration Debuff, dealing up to 4239 Direct Damage over 10 seconds.",
-                    "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Delirium Debuff for 20 seconds.",
-                    "All Light Energy is consumed, each Regenerating 490.2 Health.",
-                    "All Dark Energy is consumed, each dealing a burst of 2669 Direct Damage to the Opponent."
-                ]
-            }
-        },
-        "6+4": {
-            "rank": 4,
-            "prestige": "11492",
-            "hp": "43152",
-            "attack": "3593",
-            "crit_rate": "943",
-            "crit_dmge": "773",
-            "armor": "517",
-            "block_prof": "2801",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 394.76 to 1796.49 Physical Damage.",
-                "While suffering from Degeneration, Regenerate +712.31 to 1078.99 Health per second.",
-                "Each Light Energy grants +33.39 to 191.31 Energy Resistance.",
-                "Each Dark Energy deals 66.35 to 89.84 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
-            ],
-            "url_page": "https://auntm.ai/champions/misternegative/tier/6",
-            "champid": "misternegative+6+4",
-            "challenger_rating": 140,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
-                    "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
-                    "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 3054.05 Physical Damage and granting the Opponent Power equal to a Medium Attack."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit grants a Fury Buff increasing Attack Rating by +538.95 for 10 seconds.",
-                    "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
-                ],
-                "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
-                    "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
-                    "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
-                    "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
-                ],
-                "DARK ENERGY PASSIVE - MAX STACKS 20": [
-                    "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
-                    "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
-                    "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
-                    "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
-                    "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +733.33 for each Light Energy, then convert all Light Energy into Dark Energy.",
-                    "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 235.71 for 20 seconds."
-                ],
-                "PASSIVE": [
-                    "Inflict a Delirium Debuff for 0 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
-                    "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
-                    "The 3rd hit inflicts a Degeneration Debuff, dealing up to 4850.55 Direct Damage over 10 seconds.",
-                    "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a Delirium Debuff for 20 seconds.",
-                    "All Light Energy is consumed, each Regenerating 560.98 Health.",
-                    "All Dark Energy is consumed, each dealing a burst of 3054.05 Direct Damage to the Opponent."
-                ]
-            }
-        },
-        "find": {
-            "story_quests": {
-                "act_1": [],
-                "act_2": [],
-                "act_3": [
-                    "3.2.3",
-                    "3.2.6"
-                ],
-                "act_4": [],
-                "act_5": [],
-                "act_6": [],
-                "act_7": [
-                    "7.3.1",
-                    "7.3.4",
-                    "7.4.5"
-                ]
-            }
-        }
+  "champid": "misternegative",
+  "data": {
+    "2+1": {
+      "rank": 1,
+      "prestige": "244",
+      "hp": "1045",
+      "attack": "87",
+      "crit_rate": "686",
+      "crit_dmge": "563",
+      "armor": "33",
+      "block_prof": "2037",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 8.7 to 34.8 Physical Damage.",
+        "While suffering from Degeneration, Regenerate +10.45 to 20.77 Health per second.",
+        "Each Light Energy grants +16.16 to 102.04 Energy Resistance.",
+        "Each Dark Energy deals 0.87 to 1.73 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
+      ],
+      "url_page": "https://auntm.ai/champions/misternegative/tier/2",
+      "champid": "misternegative+2+1",
+      "challenger_rating": 20,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
+          "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
+          "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 73.95 Physical Damage and granting the Opponent Power equal to a Medium Attack."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit grants a Fury Buff increasing Attack Rating by +13.05 for 10 seconds.",
+          "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
+        ],
+        "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
+          "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
+          "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
+          "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
+        ],
+        "DARK ENERGY PASSIVE - MAX STACKS 20": [
+          "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
+          "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
+          "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
+          "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
+          "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +533.33 for each Light Energy, then convert all Light Energy into Dark Energy.",
+          "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 171.43 for 20 seconds."
+        ],
+        "PASSIVE": ["Inflict a Delirium Debuff for 0 seconds."],
+        "SPECIAL ATTACK 2": [
+          "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
+          "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
+          "The 3rd hit inflicts a Degeneration Debuff, dealing up to 117.45 Direct Damage over 10 seconds.",
+          "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Delirium Debuff for 20 seconds.",
+          "All Light Energy is consumed, each Regenerating 13.59 Health.",
+          "All Dark Energy is consumed, each dealing a burst of 73.95 Direct Damage to the Opponent."
+        ]
+      }
+    },
+    "2+2": {
+      "rank": 2,
+      "prestige": "321",
+      "hp": "1380",
+      "attack": "115",
+      "crit_rate": "708",
+      "crit_dmge": "580",
+      "armor": "52",
+      "block_prof": "2101",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 11.5 to 46 Physical Damage.",
+        "While suffering from Degeneration, Regenerate +13.8 to 27.43 Health per second.",
+        "Each Light Energy grants +16.67 to 105.22 Energy Resistance.",
+        "Each Dark Energy deals 1.15 to 2.29 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
+      ],
+      "url_page": "https://auntm.ai/champions/misternegative/tier/2",
+      "champid": "misternegative+2+2",
+      "challenger_rating": 30,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
+          "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
+          "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 97.75 Physical Damage and granting the Opponent Power equal to a Medium Attack."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit grants a Fury Buff increasing Attack Rating by +17.25 for 10 seconds.",
+          "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
+        ],
+        "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
+          "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
+          "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
+          "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
+        ],
+        "DARK ENERGY PASSIVE - MAX STACKS 20": [
+          "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
+          "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
+          "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
+          "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
+          "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +550 for each Light Energy, then convert all Light Energy into Dark Energy.",
+          "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 176.79 for 20 seconds."
+        ],
+        "PASSIVE": ["Inflict a Delirium Debuff for 0 seconds."],
+        "SPECIAL ATTACK 2": [
+          "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
+          "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
+          "The 3rd hit inflicts a Degeneration Debuff, dealing up to 155.25 Direct Damage over 10 seconds.",
+          "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Delirium Debuff for 20 seconds.",
+          "All Light Energy is consumed, each Regenerating 17.94 Health.",
+          "All Dark Energy is consumed, each dealing a burst of 97.75 Direct Damage to the Opponent."
+        ]
+      }
+    },
+    "2+3": {
+      "rank": 3,
+      "prestige": "585",
+      "hp": "2191",
+      "attack": "183",
+      "crit_rate": "729",
+      "crit_dmge": "598",
+      "armor": "71",
+      "block_prof": "2164",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 18.3 to 73.19 Physical Damage.",
+        "While suffering from Degeneration, Regenerate +21.91 to 43.56 Health per second.",
+        "Each Light Energy grants +17.17 to 108.41 Energy Resistance.",
+        "Each Dark Energy deals 1.83 to 3.64 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
+      ],
+      "url_page": "https://auntm.ai/champions/misternegative/tier/2",
+      "champid": "misternegative+2+3",
+      "challenger_rating": 40,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
+          "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
+          "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 155.55 Physical Damage and granting the Opponent Power equal to a Medium Attack."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit grants a Fury Buff increasing Attack Rating by +27.45 for 10 seconds.",
+          "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
+        ],
+        "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
+          "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
+          "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
+          "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
+        ],
+        "DARK ENERGY PASSIVE - MAX STACKS 20": [
+          "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
+          "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
+          "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
+          "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
+          "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +566.67 for each Light Energy, then convert all Light Energy into Dark Energy.",
+          "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 182.14 for 20 seconds."
+        ],
+        "PASSIVE": ["Inflict a Delirium Debuff for 0 seconds."],
+        "SPECIAL ATTACK 2": [
+          "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
+          "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
+          "The 3rd hit inflicts a Degeneration Debuff, dealing up to 247.05 Direct Damage over 10 seconds.",
+          "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Delirium Debuff for 20 seconds.",
+          "All Light Energy is consumed, each Regenerating 28.48 Health.",
+          "All Dark Energy is consumed, each dealing a burst of 155.55 Direct Damage to the Opponent."
+        ]
+      }
+    },
+    "3+1": {
+      "rank": 1,
+      "prestige": "506",
+      "hp": "1894",
+      "attack": "158",
+      "crit_rate": "729",
+      "crit_dmge": "598",
+      "armor": "71",
+      "block_prof": "2164",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 15.8 to 63.2 Physical Damage.",
+        "While suffering from Degeneration, Regenerate +18.94 to 37.65 Health per second.",
+        "Each Light Energy grants +17.17 to 108.41 Energy Resistance.",
+        "Each Dark Energy deals 1.58 to 3.14 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
+      ],
+      "url_page": "https://auntm.ai/champions/misternegative/tier/3",
+      "champid": "misternegative+3+1",
+      "challenger_rating": 40,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
+          "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
+          "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 134.3 Physical Damage and granting the Opponent Power equal to a Medium Attack."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit grants a Fury Buff increasing Attack Rating by +23.7 for 10 seconds.",
+          "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
+        ],
+        "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
+          "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
+          "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
+          "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
+        ],
+        "DARK ENERGY PASSIVE - MAX STACKS 20": [
+          "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
+          "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
+          "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
+          "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
+          "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +566.67 for each Light Energy, then convert all Light Energy into Dark Energy.",
+          "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 182.14 for 20 seconds."
+        ],
+        "PASSIVE": ["Inflict a Delirium Debuff for 0 seconds."],
+        "SPECIAL ATTACK 2": [
+          "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
+          "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
+          "The 3rd hit inflicts a Degeneration Debuff, dealing up to 213.3 Direct Damage over 10 seconds.",
+          "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Delirium Debuff for 20 seconds.",
+          "All Light Energy is consumed, each Regenerating 24.62 Health.",
+          "All Dark Energy is consumed, each dealing a burst of 134.3 Direct Damage to the Opponent."
+        ]
+      }
+    },
+    "3+2": {
+      "rank": 2,
+      "prestige": "807",
+      "hp": "3030",
+      "attack": "253",
+      "crit_rate": "751",
+      "crit_dmge": "615",
+      "armor": "93",
+      "block_prof": "2228",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 25.3 to 101.19 Physical Damage.",
+        "While suffering from Degeneration, Regenerate +30.3 to 60.23 Health per second.",
+        "Each Light Energy grants +17.68 to 111.6 Energy Resistance.",
+        "Each Dark Energy deals 2.53 to 5.03 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
+      ],
+      "url_page": "https://auntm.ai/champions/misternegative/tier/3",
+      "champid": "misternegative+3+2",
+      "challenger_rating": 50,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
+          "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
+          "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 215.05 Physical Damage and granting the Opponent Power equal to a Medium Attack."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit grants a Fury Buff increasing Attack Rating by +37.95 for 10 seconds.",
+          "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
+        ],
+        "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
+          "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
+          "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
+          "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
+        ],
+        "DARK ENERGY PASSIVE - MAX STACKS 20": [
+          "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
+          "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
+          "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
+          "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
+          "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +583.33 for each Light Energy, then convert all Light Energy into Dark Energy.",
+          "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 187.5 for 20 seconds."
+        ],
+        "PASSIVE": ["Inflict a Delirium Debuff for 0 seconds."],
+        "SPECIAL ATTACK 2": [
+          "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
+          "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
+          "The 3rd hit inflicts a Degeneration Debuff, dealing up to 341.55 Direct Damage over 10 seconds.",
+          "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Delirium Debuff for 20 seconds.",
+          "All Light Energy is consumed, each Regenerating 39.39 Health.",
+          "All Dark Energy is consumed, each dealing a burst of 215.05 Direct Damage to the Opponent."
+        ]
+      }
+    },
+    "3+3": {
+      "rank": 3,
+      "prestige": "1124",
+      "hp": "4239",
+      "attack": "353",
+      "crit_rate": "772",
+      "crit_dmge": "633",
+      "armor": "115",
+      "block_prof": "2291",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 35.3 to 141.19 Physical Damage.",
+        "While suffering from Degeneration, Regenerate +42.39 to 84.27 Health per second.",
+        "Each Light Energy grants +18.18 to 114.79 Energy Resistance.",
+        "Each Dark Energy deals 3.53 to 7.02 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
+      ],
+      "url_page": "https://auntm.ai/champions/misternegative/tier/3",
+      "champid": "misternegative+3+3",
+      "challenger_rating": 60,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
+          "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
+          "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 300.05 Physical Damage and granting the Opponent Power equal to a Medium Attack."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit grants a Fury Buff increasing Attack Rating by +52.95 for 10 seconds.",
+          "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
+        ],
+        "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
+          "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
+          "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
+          "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
+        ],
+        "DARK ENERGY PASSIVE - MAX STACKS 20": [
+          "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
+          "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
+          "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
+          "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
+          "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +600 for each Light Energy, then convert all Light Energy into Dark Energy.",
+          "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 192.86 for 20 seconds."
+        ],
+        "PASSIVE": ["Inflict a Delirium Debuff for 0 seconds."],
+        "SPECIAL ATTACK 2": [
+          "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
+          "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
+          "The 3rd hit inflicts a Degeneration Debuff, dealing up to 476.55 Direct Damage over 10 seconds.",
+          "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Delirium Debuff for 20 seconds.",
+          "All Light Energy is consumed, each Regenerating 55.11 Health.",
+          "All Dark Energy is consumed, each dealing a burst of 300.05 Direct Damage to the Opponent."
+        ]
+      }
+    },
+    "3+4": {
+      "rank": 4,
+      "prestige": "1546",
+      "hp": "5821",
+      "attack": "485",
+      "crit_rate": "793",
+      "crit_dmge": "650",
+      "armor": "140",
+      "block_prof": "2355",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 48.5 to 193.99 Physical Damage.",
+        "While suffering from Degeneration, Regenerate +58.21 to 115.72 Health per second.",
+        "Each Light Energy grants +18.69 to 117.98 Energy Resistance.",
+        "Each Dark Energy deals 4.85 to 9.64 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
+      ],
+      "url_page": "https://auntm.ai/champions/misternegative/tier/3",
+      "champid": "misternegative+3+4",
+      "challenger_rating": 70,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
+          "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
+          "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 412.25 Physical Damage and granting the Opponent Power equal to a Medium Attack."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit grants a Fury Buff increasing Attack Rating by +72.75 for 10 seconds.",
+          "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
+        ],
+        "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
+          "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
+          "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
+          "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
+        ],
+        "DARK ENERGY PASSIVE - MAX STACKS 20": [
+          "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
+          "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
+          "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
+          "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
+          "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +616.67 for each Light Energy, then convert all Light Energy into Dark Energy.",
+          "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 198.21 for 20 seconds."
+        ],
+        "PASSIVE": ["Inflict a Delirium Debuff for 0 seconds."],
+        "SPECIAL ATTACK 2": [
+          "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
+          "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
+          "The 3rd hit inflicts a Degeneration Debuff, dealing up to 654.75 Direct Damage over 10 seconds.",
+          "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Delirium Debuff for 20 seconds.",
+          "All Light Energy is consumed, each Regenerating 75.67 Health.",
+          "All Dark Energy is consumed, each dealing a burst of 412.25 Direct Damage to the Opponent."
+        ]
+      }
+    },
+    "4+1": {
+      "rank": 1,
+      "prestige": "1126",
+      "hp": "4236",
+      "attack": "353",
+      "crit_rate": "772",
+      "crit_dmge": "633",
+      "armor": "157",
+      "block_prof": "2291",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 35.3 to 141.19 Physical Damage.",
+        "While suffering from Degeneration, Regenerate +42.36 to 84.21 Health per second.",
+        "Each Light Energy grants +18.18 to 114.79 Energy Resistance.",
+        "Each Dark Energy deals 3.53 to 7.02 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
+      ],
+      "url_page": "https://auntm.ai/champions/misternegative/tier/4",
+      "champid": "misternegative+4+1",
+      "challenger_rating": 60,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
+          "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
+          "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 300.05 Physical Damage and granting the Opponent Power equal to a Medium Attack."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit grants a Fury Buff increasing Attack Rating by +52.95 for 10 seconds.",
+          "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
+        ],
+        "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
+          "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
+          "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
+          "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
+        ],
+        "DARK ENERGY PASSIVE - MAX STACKS 20": [
+          "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
+          "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
+          "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
+          "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
+          "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +600 for each Light Energy, then convert all Light Energy into Dark Energy.",
+          "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 192.86 for 20 seconds."
+        ],
+        "PASSIVE": ["Inflict a Delirium Debuff for 0 seconds."],
+        "SPECIAL ATTACK 2": [
+          "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
+          "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
+          "The 3rd hit inflicts a Degeneration Debuff, dealing up to 476.55 Direct Damage over 10 seconds.",
+          "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Delirium Debuff for 20 seconds.",
+          "All Light Energy is consumed, each Regenerating 55.07 Health.",
+          "All Dark Energy is consumed, each dealing a burst of 300.05 Direct Damage to the Opponent."
+        ]
+      }
+    },
+    "4+2": {
+      "rank": 2,
+      "prestige": "1580",
+      "hp": "5942",
+      "attack": "495",
+      "crit_rate": "793",
+      "crit_dmge": "650",
+      "armor": "183",
+      "block_prof": "2355",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 49.5 to 197.98 Physical Damage.",
+        "While suffering from Degeneration, Regenerate +59.42 to 118.12 Health per second.",
+        "Each Light Energy grants +18.69 to 117.98 Energy Resistance.",
+        "Each Dark Energy deals 4.95 to 9.84 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
+      ],
+      "url_page": "https://auntm.ai/champions/misternegative/tier/4",
+      "champid": "misternegative+4+2",
+      "challenger_rating": 70,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
+          "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
+          "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 420.75 Physical Damage and granting the Opponent Power equal to a Medium Attack."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit grants a Fury Buff increasing Attack Rating by +74.25 for 10 seconds.",
+          "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
+        ],
+        "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
+          "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
+          "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
+          "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
+        ],
+        "DARK ENERGY PASSIVE - MAX STACKS 20": [
+          "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
+          "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
+          "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
+          "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
+          "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +616.67 for each Light Energy, then convert all Light Energy into Dark Energy.",
+          "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 198.21 for 20 seconds."
+        ],
+        "PASSIVE": ["Inflict a Delirium Debuff for 0 seconds."],
+        "SPECIAL ATTACK 2": [
+          "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
+          "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
+          "The 3rd hit inflicts a Degeneration Debuff, dealing up to 668.25 Direct Damage over 10 seconds.",
+          "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Delirium Debuff for 20 seconds.",
+          "All Light Energy is consumed, each Regenerating 77.25 Health.",
+          "All Dark Energy is consumed, each dealing a burst of 420.75 Direct Damage to the Opponent."
+        ]
+      }
+    },
+    "4+3": {
+      "rank": 3,
+      "prestige": "2212",
+      "hp": "8325",
+      "attack": "694",
+      "crit_rate": "815",
+      "crit_dmge": "668",
+      "armor": "212",
+      "block_prof": "2419",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 69.4 to 277.58 Physical Damage.",
+        "While suffering from Degeneration, Regenerate +83.25 to 165.5 Health per second.",
+        "Each Light Energy grants +19.19 to 121.17 Energy Resistance.",
+        "Each Dark Energy deals 6.94 to 13.8 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
+      ],
+      "url_page": "https://auntm.ai/champions/misternegative/tier/4",
+      "champid": "misternegative+4+3",
+      "challenger_rating": 80,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
+          "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
+          "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 589.9 Physical Damage and granting the Opponent Power equal to a Medium Attack."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit grants a Fury Buff increasing Attack Rating by +104.1 for 10 seconds.",
+          "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
+        ],
+        "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
+          "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
+          "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
+          "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
+        ],
+        "DARK ENERGY PASSIVE - MAX STACKS 20": [
+          "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
+          "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
+          "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
+          "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
+          "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +633.33 for each Light Energy, then convert all Light Energy into Dark Energy.",
+          "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 203.57 for 20 seconds."
+        ],
+        "PASSIVE": ["Inflict a Delirium Debuff for 0 seconds."],
+        "SPECIAL ATTACK 2": [
+          "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
+          "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
+          "The 3rd hit inflicts a Degeneration Debuff, dealing up to 936.9 Direct Damage over 10 seconds.",
+          "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Delirium Debuff for 20 seconds.",
+          "All Light Energy is consumed, each Regenerating 108.23 Health.",
+          "All Dark Energy is consumed, each dealing a burst of 589.9 Direct Damage to the Opponent."
+        ]
+      }
+    },
+    "4+4": {
+      "rank": 4,
+      "prestige": "2908",
+      "hp": "10939",
+      "attack": "911",
+      "crit_rate": "836",
+      "crit_dmge": "686",
+      "armor": "242",
+      "block_prof": "2482",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 91.1 to 364.37 Physical Damage.",
+        "While suffering from Degeneration, Regenerate +109.39 to 217.46 Health per second.",
+        "Each Light Energy grants +19.7 to 124.36 Energy Resistance.",
+        "Each Dark Energy deals 9.11 to 18.11 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
+      ],
+      "url_page": "https://auntm.ai/champions/misternegative/tier/4",
+      "champid": "misternegative+4+4",
+      "challenger_rating": 90,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
+          "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
+          "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 774.35 Physical Damage and granting the Opponent Power equal to a Medium Attack."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit grants a Fury Buff increasing Attack Rating by +136.65 for 10 seconds.",
+          "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
+        ],
+        "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
+          "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
+          "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
+          "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
+        ],
+        "DARK ENERGY PASSIVE - MAX STACKS 20": [
+          "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
+          "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
+          "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
+          "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
+          "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +650 for each Light Energy, then convert all Light Energy into Dark Energy.",
+          "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 208.93 for 20 seconds."
+        ],
+        "PASSIVE": ["Inflict a Delirium Debuff for 0 seconds."],
+        "SPECIAL ATTACK 2": [
+          "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
+          "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
+          "The 3rd hit inflicts a Degeneration Debuff, dealing up to 1229.85 Direct Damage over 10 seconds.",
+          "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Delirium Debuff for 20 seconds.",
+          "All Light Energy is consumed, each Regenerating 142.21 Health.",
+          "All Dark Energy is consumed, each dealing a burst of 774.35 Direct Damage to the Opponent."
+        ]
+      }
+    },
+    "4+5": {
+      "rank": 5,
+      "prestige": "3879",
+      "hp": "14596",
+      "attack": "1216",
+      "crit_rate": "858",
+      "crit_dmge": "703",
+      "armor": "273",
+      "block_prof": "2546",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 121.6 to 486.36 Physical Damage.",
+        "While suffering from Degeneration, Regenerate +145.96 to 290.16 Health per second.",
+        "Each Light Energy grants +20.2 to 127.54 Energy Resistance.",
+        "Each Dark Energy deals 12.16 to 24.17 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
+      ],
+      "url_page": "https://auntm.ai/champions/misternegative/tier/4",
+      "champid": "misternegative+4+5",
+      "challenger_rating": 100,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
+          "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
+          "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 1033.6 Physical Damage and granting the Opponent Power equal to a Medium Attack."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit grants a Fury Buff increasing Attack Rating by +182.4 for 10 seconds.",
+          "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
+        ],
+        "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
+          "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
+          "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
+          "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
+        ],
+        "DARK ENERGY PASSIVE - MAX STACKS 20": [
+          "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
+          "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
+          "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
+          "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
+          "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +666.67 for each Light Energy, then convert all Light Energy into Dark Energy.",
+          "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 214.29 for 20 seconds."
+        ],
+        "PASSIVE": ["Inflict a Delirium Debuff for 0 seconds."],
+        "SPECIAL ATTACK 2": [
+          "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
+          "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
+          "The 3rd hit inflicts a Degeneration Debuff, dealing up to 1641.6 Direct Damage over 10 seconds.",
+          "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Delirium Debuff for 20 seconds.",
+          "All Light Energy is consumed, each Regenerating 189.75 Health.",
+          "All Dark Energy is consumed, each dealing a burst of 1033.6 Direct Damage to the Opponent."
+        ]
+      }
+    },
+    "5+1": {
+      "rank": 1,
+      "prestige": "2321",
+      "hp": "8710",
+      "attack": "726",
+      "crit_rate": "815",
+      "crit_dmge": "668",
+      "armor": "362",
+      "block_prof": "2419",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 79.77 to 363 Physical Damage.",
+        "While suffering from Degeneration, Regenerate +143.78 to 217.79 Health per second.",
+        "Each Light Energy grants +28.84 to 165.23 Energy Resistance.",
+        "Each Dark Energy deals 13.41 to 18.15 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
+      ],
+      "url_page": "https://auntm.ai/champions/misternegative/tier/5",
+      "champid": "misternegative+5+1",
+      "challenger_rating": 80,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
+          "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
+          "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 617.1 Physical Damage and granting the Opponent Power equal to a Medium Attack."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit grants a Fury Buff increasing Attack Rating by +108.9 for 10 seconds.",
+          "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
+        ],
+        "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
+          "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
+          "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
+          "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
+        ],
+        "DARK ENERGY PASSIVE - MAX STACKS 20": [
+          "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
+          "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
+          "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
+          "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
+          "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +633.33 for each Light Energy, then convert all Light Energy into Dark Energy.",
+          "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 203.57 for 20 seconds."
+        ],
+        "PASSIVE": ["Inflict a Delirium Debuff for 0 seconds."],
+        "SPECIAL ATTACK 2": [
+          "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
+          "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
+          "The 3rd hit inflicts a Degeneration Debuff, dealing up to 980.1 Direct Damage over 10 seconds.",
+          "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Delirium Debuff for 20 seconds.",
+          "All Light Energy is consumed, each Regenerating 113.23 Health.",
+          "All Dark Energy is consumed, each dealing a burst of 617.1 Direct Damage to the Opponent."
+        ]
+      }
+    },
+    "5+2": {
+      "rank": 2,
+      "prestige": "3061",
+      "hp": "11506",
+      "attack": "958",
+      "crit_rate": "836",
+      "crit_dmge": "686",
+      "armor": "400",
+      "block_prof": "2482",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 105.26 to 479 Physical Damage.",
+        "While suffering from Degeneration, Regenerate +189.93 to 287.7 Health per second.",
+        "Each Light Energy grants +29.59 to 169.57 Energy Resistance.",
+        "Each Dark Energy deals 17.69 to 23.95 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
+      ],
+      "url_page": "https://auntm.ai/champions/misternegative/tier/5",
+      "champid": "misternegative+5+2",
+      "challenger_rating": 90,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
+          "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
+          "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 814.3 Physical Damage and granting the Opponent Power equal to a Medium Attack."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit grants a Fury Buff increasing Attack Rating by +143.7 for 10 seconds.",
+          "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
+        ],
+        "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
+          "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
+          "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
+          "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
+        ],
+        "DARK ENERGY PASSIVE - MAX STACKS 20": [
+          "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
+          "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
+          "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
+          "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
+          "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +650 for each Light Energy, then convert all Light Energy into Dark Energy.",
+          "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 208.93 for 20 seconds."
+        ],
+        "PASSIVE": ["Inflict a Delirium Debuff for 0 seconds."],
+        "SPECIAL ATTACK 2": [
+          "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
+          "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
+          "The 3rd hit inflicts a Degeneration Debuff, dealing up to 1293.3 Direct Damage over 10 seconds.",
+          "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Delirium Debuff for 20 seconds.",
+          "All Light Energy is consumed, each Regenerating 149.58 Health.",
+          "All Dark Energy is consumed, each dealing a burst of 814.3 Direct Damage to the Opponent."
+        ]
+      }
+    },
+    "5+3": {
+      "rank": 3,
+      "prestige": "4289",
+      "hp": "16085",
+      "attack": "1340",
+      "crit_rate": "858",
+      "crit_dmge": "703",
+      "armor": "440",
+      "block_prof": "2546",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 147.23 to 670 Physical Damage.",
+        "While suffering from Degeneration, Regenerate +265.52 to 402.2 Health per second.",
+        "Each Light Energy grants +30.35 to 173.92 Energy Resistance.",
+        "Each Dark Energy deals 24.75 to 33.5 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
+      ],
+      "url_page": "https://auntm.ai/champions/misternegative/tier/5",
+      "champid": "misternegative+5+3",
+      "challenger_rating": 100,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
+          "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
+          "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 1139 Physical Damage and granting the Opponent Power equal to a Medium Attack."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit grants a Fury Buff increasing Attack Rating by +201 for 10 seconds.",
+          "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
+        ],
+        "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
+          "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
+          "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
+          "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
+        ],
+        "DARK ENERGY PASSIVE - MAX STACKS 20": [
+          "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
+          "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
+          "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
+          "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
+          "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +666.67 for each Light Energy, then convert all Light Energy into Dark Energy.",
+          "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 214.29 for 20 seconds."
+        ],
+        "PASSIVE": ["Inflict a Delirium Debuff for 0 seconds."],
+        "SPECIAL ATTACK 2": [
+          "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
+          "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
+          "The 3rd hit inflicts a Degeneration Debuff, dealing up to 1809 Direct Damage over 10 seconds.",
+          "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Delirium Debuff for 20 seconds.",
+          "All Light Energy is consumed, each Regenerating 209.11 Health.",
+          "All Dark Energy is consumed, each dealing a burst of 1139 Direct Damage to the Opponent."
+        ]
+      }
+    },
+    "5+4": {
+      "rank": 4,
+      "prestige": "5775",
+      "hp": "21675",
+      "attack": "1805",
+      "crit_rate": "879",
+      "crit_dmge": "721",
+      "armor": "481",
+      "block_prof": "2610",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 198.32 to 902.5 Physical Damage.",
+        "While suffering from Degeneration, Regenerate +357.79 to 541.97 Health per second.",
+        "Each Light Energy grants +31.11 to 178.27 Energy Resistance.",
+        "Each Dark Energy deals 33.33 to 45.13 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
+      ],
+      "url_page": "https://auntm.ai/champions/misternegative/tier/5",
+      "champid": "misternegative+5+4",
+      "challenger_rating": 110,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
+          "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
+          "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 1534.25 Physical Damage and granting the Opponent Power equal to a Medium Attack."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit grants a Fury Buff increasing Attack Rating by +270.75 for 10 seconds.",
+          "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
+        ],
+        "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
+          "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
+          "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
+          "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
+        ],
+        "DARK ENERGY PASSIVE - MAX STACKS 20": [
+          "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
+          "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
+          "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
+          "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
+          "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +683.33 for each Light Energy, then convert all Light Energy into Dark Energy.",
+          "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 219.64 for 20 seconds."
+        ],
+        "PASSIVE": ["Inflict a Delirium Debuff for 0 seconds."],
+        "SPECIAL ATTACK 2": [
+          "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
+          "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
+          "The 3rd hit inflicts a Degeneration Debuff, dealing up to 2436.75 Direct Damage over 10 seconds.",
+          "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Delirium Debuff for 20 seconds.",
+          "All Light Energy is consumed, each Regenerating 281.77 Health.",
+          "All Dark Energy is consumed, each dealing a burst of 1534.25 Direct Damage to the Opponent."
+        ]
+      }
+    },
+    "5+5": {
+      "rank": 5,
+      "prestige": "7806",
+      "hp": "29264",
+      "attack": "2437",
+      "crit_rate": "901",
+      "crit_dmge": "738",
+      "armor": "525",
+      "block_prof": "2673",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 267.75 to 1218.49 Physical Damage.",
+        "While suffering from Degeneration, Regenerate +483.06 to 731.73 Health per second.",
+        "Each Light Energy grants +31.87 to 182.62 Energy Resistance.",
+        "Each Dark Energy deals 45 to 60.93 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
+      ],
+      "url_page": "https://auntm.ai/champions/misternegative/tier/5",
+      "champid": "misternegative+5+5",
+      "challenger_rating": 120,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
+          "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
+          "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 2071.45 Physical Damage and granting the Opponent Power equal to a Medium Attack."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit grants a Fury Buff increasing Attack Rating by +365.55 for 10 seconds.",
+          "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
+        ],
+        "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
+          "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
+          "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
+          "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
+        ],
+        "DARK ENERGY PASSIVE - MAX STACKS 20": [
+          "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
+          "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
+          "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
+          "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
+          "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +700 for each Light Energy, then convert all Light Energy into Dark Energy.",
+          "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 225 for 20 seconds."
+        ],
+        "PASSIVE": ["Inflict a Delirium Debuff for 0 seconds."],
+        "SPECIAL ATTACK 2": [
+          "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
+          "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
+          "The 3rd hit inflicts a Degeneration Debuff, dealing up to 3289.95 Direct Damage over 10 seconds.",
+          "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Delirium Debuff for 20 seconds.",
+          "All Light Energy is consumed, each Regenerating 380.43 Health.",
+          "All Dark Energy is consumed, each dealing a burst of 2071.45 Direct Damage to the Opponent."
+        ]
+      }
+    },
+    "6+1": {
+      "rank": 1,
+      "prestige": "6119",
+      "hp": "23011",
+      "attack": "1916",
+      "crit_rate": "879",
+      "crit_dmge": "721",
+      "armor": "391",
+      "block_prof": "2610",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 210.51 to 958 Physical Damage.",
+        "While suffering from Degeneration, Regenerate +379.84 to 575.38 Health per second.",
+        "Each Light Energy grants +31.11 to 178.27 Energy Resistance.",
+        "Each Dark Energy deals 35.38 to 47.91 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
+      ],
+      "url_page": "https://auntm.ai/champions/misternegative/tier/6",
+      "champid": "misternegative+6+1",
+      "challenger_rating": 110,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
+          "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
+          "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 1628.6 Physical Damage and granting the Opponent Power equal to a Medium Attack."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit grants a Fury Buff increasing Attack Rating by +287.4 for 10 seconds.",
+          "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
+        ],
+        "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
+          "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
+          "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
+          "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
+        ],
+        "DARK ENERGY PASSIVE - MAX STACKS 20": [
+          "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
+          "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
+          "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
+          "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
+          "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +683.33 for each Light Energy, then convert all Light Energy into Dark Energy.",
+          "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 219.64 for 20 seconds."
+        ],
+        "PASSIVE": ["Inflict a Delirium Debuff for 0 seconds."],
+        "SPECIAL ATTACK 2": [
+          "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
+          "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
+          "The 3rd hit inflicts a Degeneration Debuff, dealing up to 2586.6 Direct Damage over 10 seconds.",
+          "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Delirium Debuff for 20 seconds.",
+          "All Light Energy is consumed, each Regenerating 299.14 Health.",
+          "All Dark Energy is consumed, each dealing a burst of 1628.6 Direct Damage to the Opponent."
+        ]
+      }
+    },
+    "6+2": {
+      "rank": 2,
+      "prestige": "8452",
+      "hp": "31785",
+      "attack": "2647",
+      "crit_rate": "901",
+      "crit_dmge": "738",
+      "armor": "431",
+      "block_prof": "2673",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 290.83 to 1323.49 Physical Damage.",
+        "While suffering from Degeneration, Regenerate +524.67 to 794.77 Health per second.",
+        "Each Light Energy grants +31.87 to 182.62 Energy Resistance.",
+        "Each Dark Energy deals 48.88 to 66.18 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
+      ],
+      "url_page": "https://auntm.ai/champions/misternegative/tier/6",
+      "champid": "misternegative+6+2",
+      "challenger_rating": 120,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
+          "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
+          "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 2249.95 Physical Damage and granting the Opponent Power equal to a Medium Attack."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit grants a Fury Buff increasing Attack Rating by +397.05 for 10 seconds.",
+          "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
+        ],
+        "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
+          "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
+          "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
+          "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
+        ],
+        "DARK ENERGY PASSIVE - MAX STACKS 20": [
+          "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
+          "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
+          "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
+          "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
+          "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +700 for each Light Energy, then convert all Light Energy into Dark Energy.",
+          "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 225 for 20 seconds."
+        ],
+        "PASSIVE": ["Inflict a Delirium Debuff for 0 seconds."],
+        "SPECIAL ATTACK 2": [
+          "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
+          "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
+          "The 3rd hit inflicts a Degeneration Debuff, dealing up to 3573.45 Direct Damage over 10 seconds.",
+          "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Delirium Debuff for 20 seconds.",
+          "All Light Energy is consumed, each Regenerating 413.21 Health.",
+          "All Dark Energy is consumed, each dealing a burst of 2249.95 Direct Damage to the Opponent."
+        ]
+      }
+    },
+    "6+3": {
+      "rank": 3,
+      "prestige": "10043",
+      "hp": "37708",
+      "attack": "3140",
+      "crit_rate": "922",
+      "crit_dmge": "756",
+      "armor": "472",
+      "block_prof": "2737",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 344.99 to 1569.99 Physical Damage.",
+        "While suffering from Degeneration, Regenerate +622.45 to 942.87 Health per second.",
+        "Each Light Energy grants +32.63 to 186.97 Energy Resistance.",
+        "Each Dark Energy deals 57.99 to 78.51 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
+      ],
+      "url_page": "https://auntm.ai/champions/misternegative/tier/6",
+      "champid": "misternegative+6+3",
+      "challenger_rating": 130,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
+          "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
+          "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 2669 Physical Damage and granting the Opponent Power equal to a Medium Attack."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit grants a Fury Buff increasing Attack Rating by +471 for 10 seconds.",
+          "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
+        ],
+        "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
+          "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
+          "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
+          "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
+        ],
+        "DARK ENERGY PASSIVE - MAX STACKS 20": [
+          "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
+          "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
+          "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
+          "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
+          "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +716.67 for each Light Energy, then convert all Light Energy into Dark Energy.",
+          "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 230.36 for 20 seconds."
+        ],
+        "PASSIVE": ["Inflict a Delirium Debuff for 0 seconds."],
+        "SPECIAL ATTACK 2": [
+          "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
+          "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
+          "The 3rd hit inflicts a Degeneration Debuff, dealing up to 4239 Direct Damage over 10 seconds.",
+          "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Delirium Debuff for 20 seconds.",
+          "All Light Energy is consumed, each Regenerating 490.2 Health.",
+          "All Dark Energy is consumed, each dealing a burst of 2669 Direct Damage to the Opponent."
+        ]
+      }
+    },
+    "6+4": {
+      "rank": 4,
+      "prestige": "11492",
+      "hp": "43152",
+      "attack": "3593",
+      "crit_rate": "943",
+      "crit_dmge": "773",
+      "armor": "517",
+      "block_prof": "2801",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Whenever a Nullify, Stagger, or Fateseal is prevented by Mister Negative\u2019s immunity, deal a burst of 394.76 to 1796.49 Physical Damage.",
+        "While suffering from Degeneration, Regenerate +712.31 to 1078.99 Health per second.",
+        "Each Light Energy grants +33.39 to 191.31 Energy Resistance.",
+        "Each Dark Energy deals 66.35 to 89.84 Physical Damage every second while the Opponent is suffering from a non-damaging Debuff. This scales with Base Attack only."
+      ],
+      "url_page": "https://auntm.ai/champions/misternegative/tier/6",
+      "champid": "misternegative+6+4",
+      "challenger_rating": 140,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
+          "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
+          "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 3054.05 Physical Damage and granting the Opponent Power equal to a Medium Attack."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit grants a Fury Buff increasing Attack Rating by +538.95 for 10 seconds.",
+          "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
+        ],
+        "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
+          "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
+          "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
+          "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
+        ],
+        "DARK ENERGY PASSIVE - MAX STACKS 20": [
+          "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
+          "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
+          "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
+          "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
+          "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +733.33 for each Light Energy, then convert all Light Energy into Dark Energy.",
+          "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 235.71 for 20 seconds."
+        ],
+        "PASSIVE": ["Inflict a Delirium Debuff for 0 seconds."],
+        "SPECIAL ATTACK 2": [
+          "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
+          "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
+          "The 3rd hit inflicts a Degeneration Debuff, dealing up to 4850.55 Direct Damage over 10 seconds.",
+          "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Delirium Debuff for 20 seconds.",
+          "All Light Energy is consumed, each Regenerating 560.98 Health.",
+          "All Dark Energy is consumed, each dealing a burst of 3054.05 Direct Damage to the Opponent."
+        ]
+      }
+    },
+    "1+1": {
+      "rank": 1,
+      "prestige": 165,
+      "hp": 818,
+      "attack": 69,
+      "crit_rate": 665,
+      "crit_dmge": 545,
+      "armor": 0,
+      "block_prof": 1973,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/misternegative/tier/1",
+      "champid": "misternegative+1+1",
+      "challenger_rating": 10,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
+          "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
+          "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 58.65 Physical Damage and granting the Opponent Power equal to a Medium Attack."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit grants a Fury Buff increasing Attack Rating by +10.35 for 10 seconds.",
+          "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
+        ],
+        "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
+          "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
+          "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
+          "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
+        ],
+        "DARK ENERGY PASSIVE - MAX STACKS 20": [
+          "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
+          "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
+          "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
+          "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
+          "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +516.67 for each Light Energy, then convert all Light Energy into Dark Energy.",
+          "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 166.07 for 20 seconds."
+        ],
+        "PASSIVE": ["Inflict a Delirium Debuff for 0 seconds."],
+        "SPECIAL ATTACK 2": [
+          "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
+          "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
+          "The 3rd hit inflicts a Degeneration Debuff, dealing up to 93.15 Direct Damage over 10 seconds.",
+          "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Delirium Debuff for 20 seconds.",
+          "All Light Energy is consumed, each Regenerating 10.63 Health.",
+          "All Dark Energy is consumed, each dealing a burst of 58.65 Direct Damage to the Opponent."
+        ]
+      }
+    },
+    "1+2": {
+      "rank": 2,
+      "prestige": 262,
+      "hp": 1132,
+      "attack": 95,
+      "crit_rate": 686,
+      "crit_dmge": 563,
+      "armor": 0,
+      "block_prof": 2037,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/misternegative/tier/1",
+      "champid": "misternegative+1+2",
+      "challenger_rating": 20,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Mister Negative is immune to all Nullify, Stagger and Fateseal effects.",
+          "The potency of the Opponent's Degeneration effects are reduced by 40% for each unique Debuff they suffer.",
+          "When Evading, Mister Negative counter-attacks with a hit dealing a burst of 80.75 Physical Damage and granting the Opponent Power equal to a Medium Attack."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit grants a Fury Buff increasing Attack Rating by +14.25 for 10 seconds.",
+          "While Charging a Heavy Attack, if 1 or more Light Energy are active, gain 100% Evade chance against Basic Attacks."
+        ],
+        "LIGHT ENERGY PASSIVE - MAX STACKS 20": [
+          "Whenever either champion performs a Well-Timed Block, gain +2 Light Energy.",
+          "Dashing back removes all Buffs on Mister Negative, granting +1 Light Energy per Buff removed.",
+          "Light Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 6 seconds."
+        ],
+        "DARK ENERGY PASSIVE - MAX STACKS 20": [
+          "If Mister Negative performs an Evade or is Knocked down, all Light Energy is converted into Dark Energy.",
+          "Dark Energy lasts indefinitely until reaching 10 stacks after which all stacks will expire over 16 seconds.",
+          "While suffering from Disorient, all Dark Energy is removed and additional Dark Energy cannot be gained.",
+          "Each time Dark Energy is gained, inflict a Delirium Debuff lasting a flat 0.8 second(s) per Light Energy converted.",
+          "A Delirious Opponent suffers -60% Defensive Combat Power Rate and has their Dash and Dodge controls reversed."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation gain a Bulwark Passive for 30 seconds, increasing Block Proficiency by +533.33 for each Light Energy, then convert all Light Energy into Dark Energy.",
+          "The final hit inflicts an Exhaustion Debuff, lowering the Opponent\u2019s Critical Damage Rating by 171.43 for 20 seconds."
+        ],
+        "PASSIVE": ["Inflict a Delirium Debuff for 0 seconds."],
+        "SPECIAL ATTACK 2": [
+          "The 1st hit inflicts a Petrify Debuff of 80% Potency for 20 seconds.",
+          "The 2nd hit inflicts another Petrify if 10 or more Dark Energy are active.",
+          "The 3rd hit inflicts a Degeneration Debuff, dealing up to 128.25 Direct Damage over 10 seconds.",
+          "The final hit consumes all remaining Dark Energy, inflicting 1 additional Degeneration for each Dark Energy consumed."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a Delirium Debuff for 20 seconds.",
+          "All Light Energy is consumed, each Regenerating 14.72 Health.",
+          "All Dark Energy is consumed, each dealing a burst of 80.75 Direct Damage to the Opponent."
+        ]
+      }
+    },
+    "find": {
+      "story_quests": {
+        "act_1": [],
+        "act_2": [],
+        "act_3": ["3.2.3", "3.2.6"],
+        "act_4": [],
+        "act_5": [],
+        "act_6": [],
+        "act_7": ["7.3.1", "7.3.4", "7.4.5"]
+      }
     }
+  },
+  "name": "MISTER NEGATIVE",
+  "class": "Science",
+  "img_portrait": "https://api.rexians.tk/assets/portraits/misternegative.png",
+  "contact": "PHYSICAL",
+  "tags": ["Villain", "Size: M"],
+  "released": "5/6/2021"
 }

@@ -1,1278 +1,1327 @@
 {
-    "name": "SORCERER SUPREME",
-    "class": "Mystic",
-    "img_portrait": "https://api.rexians.tk/assets/portraits/drstrange_realm.png",
-    "contact": "ENERGY",
-    "tags": [
-        "Hero",
-        "Size: S"
-    ],
-    "released": "4/8/2020",
-    "champid": "drstrange_realm",
-    "data": {
-        "2+1": {
-            "rank": 1,
-            "prestige": "273",
-            "hp": "936",
-            "attack": "87",
-            "crit_rate": "563",
-            "crit_dmge": "686",
-            "armor": "33",
-            "block_prof": "2845",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Sorcerer Supreme gains +10 to 40% Ability Accuracy.",
-                "The Potency of Blessings is increased by 5 to 25%."
-            ],
-            "url_page": "https://auntm.ai/champions/drstrange_realm/tier/2",
-            "champid": "drstrange_realm+2+1",
-            "challenger_rating": 20,
-            "abilities": {
-                "PASSIVE": [
-                    "Basic attacks deal Energy Damage instead of Physical.",
-                    "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
-                    "-282.35 Physical Resistance.",
-                    "+1600 Energy Resistance."
-                ],
-                "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
-                    "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
-                    "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
-                    "Cyttorak\u2019s Ferocity grants +43.5 Attack Rating and increased Critical Damage Rating.",
-                    "Raggadorr\u2019s Resolve grants +1066.67 Armor and 30% Perfect Block chance.",
-                    "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
-                ],
-                "SPECIAL ATTACKS - RUNIC SPELLS": [
-                    "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
-                    "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
-                    "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -1600.",
-                    "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 18.72 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
-                    "Runes of Ikonn Slow the Opponent for 12 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "Rotate to the next Blessing."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Store 2 Rune(s) of the current Blessing.",
-                    "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
-                    "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Store 3 Rune(s) of the current Blessing.",
-                    "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
-                    "Subsequent uses store 2 non-permanent Runes instead.",
-                    "Attack Rating is increased by up to +261 based on stored Runes."
-                ]
-            }
-        },
-        "2+2": {
-            "rank": 2,
-            "prestige": "360",
-            "hp": "1236",
-            "attack": "115",
-            "crit_rate": "580",
-            "crit_dmge": "708",
-            "armor": "52",
-            "block_prof": "2934",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Sorcerer Supreme gains +10 to 40% Ability Accuracy.",
-                "The Potency of Blessings is increased by 5 to 25%."
-            ],
-            "url_page": "https://auntm.ai/champions/drstrange_realm/tier/2",
-            "champid": "drstrange_realm+2+2",
-            "challenger_rating": 30,
-            "abilities": {
-                "PASSIVE": [
-                    "Basic attacks deal Energy Damage instead of Physical.",
-                    "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
-                    "-291.18 Physical Resistance.",
-                    "+1650 Energy Resistance."
-                ],
-                "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
-                    "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
-                    "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
-                    "Cyttorak\u2019s Ferocity grants +57.5 Attack Rating and increased Critical Damage Rating.",
-                    "Raggadorr\u2019s Resolve grants +1100 Armor and 30% Perfect Block chance.",
-                    "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
-                ],
-                "SPECIAL ATTACKS - RUNIC SPELLS": [
-                    "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
-                    "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
-                    "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -1650.",
-                    "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 24.72 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
-                    "Runes of Ikonn Slow the Opponent for 12 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "Rotate to the next Blessing."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Store 2 Rune(s) of the current Blessing.",
-                    "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
-                    "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Store 3 Rune(s) of the current Blessing.",
-                    "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
-                    "Subsequent uses store 2 non-permanent Runes instead.",
-                    "Attack Rating is increased by up to +345 based on stored Runes."
-                ]
-            }
-        },
-        "2+3": {
-            "rank": 3,
-            "prestige": "581",
-            "hp": "1962",
-            "attack": "183",
-            "crit_rate": "598",
-            "crit_dmge": "729",
-            "armor": "71",
-            "block_prof": "3023",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Sorcerer Supreme gains +10 to 40% Ability Accuracy.",
-                "The Potency of Blessings is increased by 5 to 25%."
-            ],
-            "url_page": "https://auntm.ai/champions/drstrange_realm/tier/2",
-            "champid": "drstrange_realm+2+3",
-            "challenger_rating": 40,
-            "abilities": {
-                "PASSIVE": [
-                    "Basic attacks deal Energy Damage instead of Physical.",
-                    "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
-                    "-300 Physical Resistance.",
-                    "+1700 Energy Resistance."
-                ],
-                "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
-                    "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
-                    "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
-                    "Cyttorak\u2019s Ferocity grants +91.5 Attack Rating and increased Critical Damage Rating.",
-                    "Raggadorr\u2019s Resolve grants +1133.33 Armor and 30% Perfect Block chance.",
-                    "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
-                ],
-                "SPECIAL ATTACKS - RUNIC SPELLS": [
-                    "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
-                    "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
-                    "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -1700.",
-                    "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 39.24 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
-                    "Runes of Ikonn Slow the Opponent for 12 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "Rotate to the next Blessing."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Store 2 Rune(s) of the current Blessing.",
-                    "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
-                    "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Store 3 Rune(s) of the current Blessing.",
-                    "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
-                    "Subsequent uses store 2 non-permanent Runes instead.",
-                    "Attack Rating is increased by up to +549 based on stored Runes."
-                ]
-            }
-        },
-        "3+1": {
-            "rank": 1,
-            "prestige": "503",
-            "hp": "1697",
-            "attack": "158",
-            "crit_rate": "598",
-            "crit_dmge": "729",
-            "armor": "71",
-            "block_prof": "3023",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Sorcerer Supreme gains +10 to 40% Ability Accuracy.",
-                "The Potency of Blessings is increased by 5 to 25%."
-            ],
-            "url_page": "https://auntm.ai/champions/drstrange_realm/tier/3",
-            "champid": "drstrange_realm+3+1",
-            "challenger_rating": 40,
-            "abilities": {
-                "PASSIVE": [
-                    "Basic attacks deal Energy Damage instead of Physical.",
-                    "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
-                    "-300 Physical Resistance.",
-                    "+1700 Energy Resistance."
-                ],
-                "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
-                    "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
-                    "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
-                    "Cyttorak\u2019s Ferocity grants +79 Attack Rating and increased Critical Damage Rating.",
-                    "Raggadorr\u2019s Resolve grants +1133.33 Armor and 30% Perfect Block chance.",
-                    "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
-                ],
-                "SPECIAL ATTACKS - RUNIC SPELLS": [
-                    "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
-                    "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
-                    "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -1700.",
-                    "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 33.94 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
-                    "Runes of Ikonn Slow the Opponent for 12 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "Rotate to the next Blessing."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Store 2 Rune(s) of the current Blessing.",
-                    "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
-                    "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Store 3 Rune(s) of the current Blessing.",
-                    "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
-                    "Subsequent uses store 2 non-permanent Runes instead.",
-                    "Attack Rating is increased by up to +474 based on stored Runes."
-                ]
-            }
-        },
-        "3+2": {
-            "rank": 2,
-            "prestige": "803",
-            "hp": "2715",
-            "attack": "253",
-            "crit_rate": "615",
-            "crit_dmge": "750",
-            "armor": "93",
-            "block_prof": "3112",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Sorcerer Supreme gains +10 to 40% Ability Accuracy.",
-                "The Potency of Blessings is increased by 5 to 25%."
-            ],
-            "url_page": "https://auntm.ai/champions/drstrange_realm/tier/3",
-            "champid": "drstrange_realm+3+2",
-            "challenger_rating": 50,
-            "abilities": {
-                "PASSIVE": [
-                    "Basic attacks deal Energy Damage instead of Physical.",
-                    "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
-                    "-308.82 Physical Resistance.",
-                    "+1750 Energy Resistance."
-                ],
-                "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
-                    "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
-                    "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
-                    "Cyttorak\u2019s Ferocity grants +126.5 Attack Rating and increased Critical Damage Rating.",
-                    "Raggadorr\u2019s Resolve grants +1166.67 Armor and 30% Perfect Block chance.",
-                    "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
-                ],
-                "SPECIAL ATTACKS - RUNIC SPELLS": [
-                    "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
-                    "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
-                    "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -1750.",
-                    "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 54.3 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
-                    "Runes of Ikonn Slow the Opponent for 12 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "Rotate to the next Blessing."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Store 2 Rune(s) of the current Blessing.",
-                    "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
-                    "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Store 3 Rune(s) of the current Blessing.",
-                    "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
-                    "Subsequent uses store 2 non-permanent Runes instead.",
-                    "Attack Rating is increased by up to +759 based on stored Runes."
-                ]
-            }
-        },
-        "3+3": {
-            "rank": 3,
-            "prestige": "1123",
-            "hp": "3798",
-            "attack": "353",
-            "crit_rate": "633",
-            "crit_dmge": "772",
-            "armor": "115",
-            "block_prof": "3200",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Sorcerer Supreme gains +10 to 40% Ability Accuracy.",
-                "The Potency of Blessings is increased by 5 to 25%."
-            ],
-            "url_page": "https://auntm.ai/champions/drstrange_realm/tier/3",
-            "champid": "drstrange_realm+3+3",
-            "challenger_rating": 60,
-            "abilities": {
-                "PASSIVE": [
-                    "Basic attacks deal Energy Damage instead of Physical.",
-                    "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
-                    "-317.65 Physical Resistance.",
-                    "+1800 Energy Resistance."
-                ],
-                "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
-                    "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
-                    "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
-                    "Cyttorak\u2019s Ferocity grants +176.5 Attack Rating and increased Critical Damage Rating.",
-                    "Raggadorr\u2019s Resolve grants +1200 Armor and 30% Perfect Block chance.",
-                    "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
-                ],
-                "SPECIAL ATTACKS - RUNIC SPELLS": [
-                    "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
-                    "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
-                    "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -1800.",
-                    "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 75.96 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
-                    "Runes of Ikonn Slow the Opponent for 12 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "Rotate to the next Blessing."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Store 2 Rune(s) of the current Blessing.",
-                    "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
-                    "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Store 3 Rune(s) of the current Blessing.",
-                    "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
-                    "Subsequent uses store 2 non-permanent Runes instead.",
-                    "Attack Rating is increased by up to +1059 based on stored Runes."
-                ]
-            }
-        },
-        "3+4": {
-            "rank": 4,
-            "prestige": "1542",
-            "hp": "5214",
-            "attack": "485",
-            "crit_rate": "650",
-            "crit_dmge": "793",
-            "armor": "140",
-            "block_prof": "3289",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Sorcerer Supreme gains +10 to 40% Ability Accuracy.",
-                "The Potency of Blessings is increased by 5 to 25%."
-            ],
-            "url_page": "https://auntm.ai/champions/drstrange_realm/tier/3",
-            "champid": "drstrange_realm+3+4",
-            "challenger_rating": 70,
-            "abilities": {
-                "PASSIVE": [
-                    "Basic attacks deal Energy Damage instead of Physical.",
-                    "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
-                    "-326.47 Physical Resistance.",
-                    "+1850 Energy Resistance."
-                ],
-                "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
-                    "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
-                    "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
-                    "Cyttorak\u2019s Ferocity grants +242.5 Attack Rating and increased Critical Damage Rating.",
-                    "Raggadorr\u2019s Resolve grants +1233.33 Armor and 30% Perfect Block chance.",
-                    "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
-                ],
-                "SPECIAL ATTACKS - RUNIC SPELLS": [
-                    "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
-                    "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
-                    "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -1850.",
-                    "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 104.28 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
-                    "Runes of Ikonn Slow the Opponent for 12 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "Rotate to the next Blessing."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Store 2 Rune(s) of the current Blessing.",
-                    "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
-                    "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Store 3 Rune(s) of the current Blessing.",
-                    "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
-                    "Subsequent uses store 2 non-permanent Runes instead.",
-                    "Attack Rating is increased by up to +1455 based on stored Runes."
-                ]
-            }
-        },
-        "4+1": {
-            "rank": 1,
-            "prestige": "1124",
-            "hp": "3795",
-            "attack": "353",
-            "crit_rate": "633",
-            "crit_dmge": "772",
-            "armor": "157",
-            "block_prof": "3200",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Sorcerer Supreme gains +10 to 40% Ability Accuracy.",
-                "The Potency of Blessings is increased by 5 to 25%."
-            ],
-            "url_page": "https://auntm.ai/champions/drstrange_realm/tier/4",
-            "champid": "drstrange_realm+4+1",
-            "challenger_rating": 60,
-            "abilities": {
-                "PASSIVE": [
-                    "Basic attacks deal Energy Damage instead of Physical.",
-                    "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
-                    "-317.65 Physical Resistance.",
-                    "+1800 Energy Resistance."
-                ],
-                "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
-                    "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
-                    "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
-                    "Cyttorak\u2019s Ferocity grants +176.5 Attack Rating and increased Critical Damage Rating.",
-                    "Raggadorr\u2019s Resolve grants +1200 Armor and 30% Perfect Block chance.",
-                    "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
-                ],
-                "SPECIAL ATTACKS - RUNIC SPELLS": [
-                    "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
-                    "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
-                    "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -1800.",
-                    "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 75.9 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
-                    "Runes of Ikonn Slow the Opponent for 12 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "Rotate to the next Blessing."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Store 2 Rune(s) of the current Blessing.",
-                    "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
-                    "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Store 3 Rune(s) of the current Blessing.",
-                    "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
-                    "Subsequent uses store 2 non-permanent Runes instead.",
-                    "Attack Rating is increased by up to +1059 based on stored Runes."
-                ]
-            }
-        },
-        "4+2": {
-            "rank": 2,
-            "prestige": "1577",
-            "hp": "5323",
-            "attack": "495",
-            "crit_rate": "650",
-            "crit_dmge": "793",
-            "armor": "183",
-            "block_prof": "3289",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Sorcerer Supreme gains +10 to 40% Ability Accuracy.",
-                "The Potency of Blessings is increased by 5 to 25%."
-            ],
-            "url_page": "https://auntm.ai/champions/drstrange_realm/tier/4",
-            "champid": "drstrange_realm+4+2",
-            "challenger_rating": 70,
-            "abilities": {
-                "PASSIVE": [
-                    "Basic attacks deal Energy Damage instead of Physical.",
-                    "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
-                    "-326.47 Physical Resistance.",
-                    "+1850 Energy Resistance."
-                ],
-                "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
-                    "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
-                    "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
-                    "Cyttorak\u2019s Ferocity grants +247.5 Attack Rating and increased Critical Damage Rating.",
-                    "Raggadorr\u2019s Resolve grants +1233.33 Armor and 30% Perfect Block chance.",
-                    "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
-                ],
-                "SPECIAL ATTACKS - RUNIC SPELLS": [
-                    "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
-                    "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
-                    "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -1850.",
-                    "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 106.46 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
-                    "Runes of Ikonn Slow the Opponent for 12 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "Rotate to the next Blessing."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Store 2 Rune(s) of the current Blessing.",
-                    "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
-                    "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Store 3 Rune(s) of the current Blessing.",
-                    "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
-                    "Subsequent uses store 2 non-permanent Runes instead.",
-                    "Attack Rating is increased by up to +1485 based on stored Runes."
-                ]
-            }
-        },
-        "4+3": {
-            "rank": 3,
-            "prestige": "2210",
-            "hp": "7458",
-            "attack": "694",
-            "crit_rate": "668",
-            "crit_dmge": "815",
-            "armor": "212",
-            "block_prof": "3378",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Sorcerer Supreme gains +10 to 40% Ability Accuracy.",
-                "The Potency of Blessings is increased by 5 to 25%."
-            ],
-            "url_page": "https://auntm.ai/champions/drstrange_realm/tier/4",
-            "champid": "drstrange_realm+4+3",
-            "challenger_rating": 80,
-            "abilities": {
-                "PASSIVE": [
-                    "Basic attacks deal Energy Damage instead of Physical.",
-                    "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
-                    "-335.29 Physical Resistance.",
-                    "+1900 Energy Resistance."
-                ],
-                "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
-                    "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
-                    "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
-                    "Cyttorak\u2019s Ferocity grants +347 Attack Rating and increased Critical Damage Rating.",
-                    "Raggadorr\u2019s Resolve grants +1266.67 Armor and 30% Perfect Block chance.",
-                    "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
-                ],
-                "SPECIAL ATTACKS - RUNIC SPELLS": [
-                    "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
-                    "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
-                    "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -1900.",
-                    "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 149.16 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
-                    "Runes of Ikonn Slow the Opponent for 12 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "Rotate to the next Blessing."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Store 2 Rune(s) of the current Blessing.",
-                    "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
-                    "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Store 3 Rune(s) of the current Blessing.",
-                    "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
-                    "Subsequent uses store 2 non-permanent Runes instead.",
-                    "Attack Rating is increased by up to +2082 based on stored Runes."
-                ]
-            }
-        },
-        "4+4": {
-            "rank": 4,
-            "prestige": "2908",
-            "hp": "9799",
-            "attack": "911",
-            "crit_rate": "686",
-            "crit_dmge": "836",
-            "armor": "242",
-            "block_prof": "3467",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Sorcerer Supreme gains +10 to 40% Ability Accuracy.",
-                "The Potency of Blessings is increased by 5 to 25%."
-            ],
-            "url_page": "https://auntm.ai/champions/drstrange_realm/tier/4",
-            "champid": "drstrange_realm+4+4",
-            "challenger_rating": 90,
-            "abilities": {
-                "PASSIVE": [
-                    "Basic attacks deal Energy Damage instead of Physical.",
-                    "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
-                    "-344.12 Physical Resistance.",
-                    "+1950 Energy Resistance."
-                ],
-                "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
-                    "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
-                    "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
-                    "Cyttorak\u2019s Ferocity grants +455.5 Attack Rating and increased Critical Damage Rating.",
-                    "Raggadorr\u2019s Resolve grants +1300 Armor and 30% Perfect Block chance.",
-                    "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
-                ],
-                "SPECIAL ATTACKS - RUNIC SPELLS": [
-                    "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
-                    "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
-                    "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -1950.",
-                    "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 195.98 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
-                    "Runes of Ikonn Slow the Opponent for 12 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "Rotate to the next Blessing."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Store 2 Rune(s) of the current Blessing.",
-                    "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
-                    "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Store 3 Rune(s) of the current Blessing.",
-                    "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
-                    "Subsequent uses store 2 non-permanent Runes instead.",
-                    "Attack Rating is increased by up to +2733 based on stored Runes."
-                ]
-            }
-        },
-        "4+5": {
-            "rank": 5,
-            "prestige": "3878",
-            "hp": "13075",
-            "attack": "1216",
-            "crit_rate": "703",
-            "crit_dmge": "858",
-            "armor": "273",
-            "block_prof": "3556",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Sorcerer Supreme gains +10 to 40% Ability Accuracy.",
-                "The Potency of Blessings is increased by 5 to 25%."
-            ],
-            "url_page": "https://auntm.ai/champions/drstrange_realm/tier/4",
-            "champid": "drstrange_realm+4+5",
-            "challenger_rating": 100,
-            "abilities": {
-                "PASSIVE": [
-                    "Basic attacks deal Energy Damage instead of Physical.",
-                    "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
-                    "-352.94 Physical Resistance.",
-                    "+2000 Energy Resistance."
-                ],
-                "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
-                    "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
-                    "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
-                    "Cyttorak\u2019s Ferocity grants +608 Attack Rating and increased Critical Damage Rating.",
-                    "Raggadorr\u2019s Resolve grants +1333.33 Armor and 30% Perfect Block chance.",
-                    "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
-                ],
-                "SPECIAL ATTACKS - RUNIC SPELLS": [
-                    "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
-                    "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
-                    "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -2000.",
-                    "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 261.5 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
-                    "Runes of Ikonn Slow the Opponent for 12 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "Rotate to the next Blessing."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Store 2 Rune(s) of the current Blessing.",
-                    "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
-                    "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Store 3 Rune(s) of the current Blessing.",
-                    "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
-                    "Subsequent uses store 2 non-permanent Runes instead.",
-                    "Attack Rating is increased by up to +3648 based on stored Runes."
-                ]
-            }
-        },
-        "5+1": {
-            "rank": 1,
-            "prestige": "2320",
-            "hp": "7803",
-            "attack": "726",
-            "crit_rate": "668",
-            "crit_dmge": "815",
-            "armor": "362",
-            "block_prof": "3378",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Sorcerer Supreme gains +10 to 50% Ability Accuracy.",
-                "The Potency of Blessings is increased by 5 to 33%."
-            ],
-            "url_page": "https://auntm.ai/champions/drstrange_realm/tier/5",
-            "champid": "drstrange_realm+5+1",
-            "challenger_rating": 80,
-            "abilities": {
-                "PASSIVE": [
-                    "Basic attacks deal Energy Damage instead of Physical.",
-                    "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
-                    "-335.29 Physical Resistance.",
-                    "+1900 Energy Resistance."
-                ],
-                "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
-                    "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
-                    "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
-                    "Cyttorak\u2019s Ferocity grants +363 Attack Rating and increased Critical Damage Rating.",
-                    "Raggadorr\u2019s Resolve grants +1266.67 Armor and 30% Perfect Block chance.",
-                    "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
-                ],
-                "SPECIAL ATTACKS - RUNIC SPELLS": [
-                    "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
-                    "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
-                    "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -1900.",
-                    "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 156.06 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
-                    "Runes of Ikonn Slow the Opponent for 12 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "Rotate to the next Blessing."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Store 2 Rune(s) of the current Blessing.",
-                    "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
-                    "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Store 3 Rune(s) of the current Blessing.",
-                    "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
-                    "Subsequent uses store 2 non-permanent Runes instead.",
-                    "Attack Rating is increased by up to +2178 based on stored Runes."
-                ]
-            }
-        },
-        "5+2": {
-            "rank": 2,
-            "prestige": "3062",
-            "hp": "10307",
-            "attack": "958",
-            "crit_rate": "686",
-            "crit_dmge": "836",
-            "armor": "400",
-            "block_prof": "3467",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Sorcerer Supreme gains +10 to 50% Ability Accuracy.",
-                "The Potency of Blessings is increased by 5 to 33%."
-            ],
-            "url_page": "https://auntm.ai/champions/drstrange_realm/tier/5",
-            "champid": "drstrange_realm+5+2",
-            "challenger_rating": 90,
-            "abilities": {
-                "PASSIVE": [
-                    "Basic attacks deal Energy Damage instead of Physical.",
-                    "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
-                    "-344.12 Physical Resistance.",
-                    "+1950 Energy Resistance."
-                ],
-                "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
-                    "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
-                    "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
-                    "Cyttorak\u2019s Ferocity grants +479 Attack Rating and increased Critical Damage Rating.",
-                    "Raggadorr\u2019s Resolve grants +1300 Armor and 30% Perfect Block chance.",
-                    "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
-                ],
-                "SPECIAL ATTACKS - RUNIC SPELLS": [
-                    "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
-                    "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
-                    "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -1950.",
-                    "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 206.14 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
-                    "Runes of Ikonn Slow the Opponent for 12 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "Rotate to the next Blessing."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Store 2 Rune(s) of the current Blessing.",
-                    "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
-                    "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Store 3 Rune(s) of the current Blessing.",
-                    "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
-                    "Subsequent uses store 2 non-permanent Runes instead.",
-                    "Attack Rating is increased by up to +2874 based on stored Runes."
-                ]
-            }
-        },
-        "5+3": {
-            "rank": 3,
-            "prestige": "4290",
-            "hp": "14409",
-            "attack": "1340",
-            "crit_rate": "703",
-            "crit_dmge": "858",
-            "armor": "440",
-            "block_prof": "3556",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Sorcerer Supreme gains +10 to 50% Ability Accuracy.",
-                "The Potency of Blessings is increased by 5 to 33%."
-            ],
-            "url_page": "https://auntm.ai/champions/drstrange_realm/tier/5",
-            "champid": "drstrange_realm+5+3",
-            "challenger_rating": 100,
-            "abilities": {
-                "PASSIVE": [
-                    "Basic attacks deal Energy Damage instead of Physical.",
-                    "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
-                    "-352.94 Physical Resistance.",
-                    "+2000 Energy Resistance."
-                ],
-                "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
-                    "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
-                    "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
-                    "Cyttorak\u2019s Ferocity grants +670 Attack Rating and increased Critical Damage Rating.",
-                    "Raggadorr\u2019s Resolve grants +1333.33 Armor and 30% Perfect Block chance.",
-                    "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
-                ],
-                "SPECIAL ATTACKS - RUNIC SPELLS": [
-                    "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
-                    "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
-                    "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -2000.",
-                    "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 288.18 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
-                    "Runes of Ikonn Slow the Opponent for 12 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "Rotate to the next Blessing."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Store 2 Rune(s) of the current Blessing.",
-                    "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
-                    "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Store 3 Rune(s) of the current Blessing.",
-                    "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
-                    "Subsequent uses store 2 non-permanent Runes instead.",
-                    "Attack Rating is increased by up to +4020 based on stored Runes."
-                ]
-            }
-        },
-        "5+4": {
-            "rank": 4,
-            "prestige": "5777",
-            "hp": "19417",
-            "attack": "1805",
-            "crit_rate": "721",
-            "crit_dmge": "879",
-            "armor": "481",
-            "block_prof": "3645",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Sorcerer Supreme gains +10 to 50% Ability Accuracy.",
-                "The Potency of Blessings is increased by 5 to 33%."
-            ],
-            "url_page": "https://auntm.ai/champions/drstrange_realm/tier/5",
-            "champid": "drstrange_realm+5+4",
-            "challenger_rating": 110,
-            "abilities": {
-                "PASSIVE": [
-                    "Basic attacks deal Energy Damage instead of Physical.",
-                    "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
-                    "-361.76 Physical Resistance.",
-                    "+2050 Energy Resistance."
-                ],
-                "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
-                    "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
-                    "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
-                    "Cyttorak\u2019s Ferocity grants +902.5 Attack Rating and increased Critical Damage Rating.",
-                    "Raggadorr\u2019s Resolve grants +1366.67 Armor and 30% Perfect Block chance.",
-                    "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
-                ],
-                "SPECIAL ATTACKS - RUNIC SPELLS": [
-                    "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
-                    "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
-                    "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -2050.",
-                    "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 388.34 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
-                    "Runes of Ikonn Slow the Opponent for 12 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "Rotate to the next Blessing."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Store 2 Rune(s) of the current Blessing.",
-                    "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
-                    "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Store 3 Rune(s) of the current Blessing.",
-                    "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
-                    "Subsequent uses store 2 non-permanent Runes instead.",
-                    "Attack Rating is increased by up to +5415 based on stored Runes."
-                ]
-            }
-        },
-        "5+5": {
-            "rank": 5,
-            "prestige": "7813",
-            "hp": "26216",
-            "attack": "2437",
-            "crit_rate": "738",
-            "crit_dmge": "900",
-            "armor": "525",
-            "block_prof": "3734",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Sorcerer Supreme gains +10 to 50% Ability Accuracy.",
-                "The Potency of Blessings is increased by 5 to 33%."
-            ],
-            "url_page": "https://auntm.ai/champions/drstrange_realm/tier/5",
-            "champid": "drstrange_realm+5+5",
-            "challenger_rating": 120,
-            "abilities": {
-                "PASSIVE": [
-                    "Basic attacks deal Energy Damage instead of Physical.",
-                    "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
-                    "-370.59 Physical Resistance.",
-                    "+2100 Energy Resistance."
-                ],
-                "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
-                    "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
-                    "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
-                    "Cyttorak\u2019s Ferocity grants +1218.5 Attack Rating and increased Critical Damage Rating.",
-                    "Raggadorr\u2019s Resolve grants +1400 Armor and 30% Perfect Block chance.",
-                    "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
-                ],
-                "SPECIAL ATTACKS - RUNIC SPELLS": [
-                    "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
-                    "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
-                    "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -2100.",
-                    "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 524.32 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
-                    "Runes of Ikonn Slow the Opponent for 12 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "Rotate to the next Blessing."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Store 2 Rune(s) of the current Blessing.",
-                    "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
-                    "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Store 3 Rune(s) of the current Blessing.",
-                    "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
-                    "Subsequent uses store 2 non-permanent Runes instead.",
-                    "Attack Rating is increased by up to +7311 based on stored Runes."
-                ]
-            }
-        },
-        "6+1": {
-            "rank": 1,
-            "prestige": "6123",
-            "hp": "20614",
-            "attack": "1916",
-            "crit_rate": "721",
-            "crit_dmge": "879",
-            "armor": "391",
-            "block_prof": "3645",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Sorcerer Supreme gains +10 to 50% Ability Accuracy.",
-                "The Potency of Blessings is increased by 5 to 33%."
-            ],
-            "url_page": "https://auntm.ai/champions/drstrange_realm/tier/6",
-            "champid": "drstrange_realm+6+1",
-            "challenger_rating": 110,
-            "abilities": {
-                "PASSIVE": [
-                    "Basic attacks deal Energy Damage instead of Physical.",
-                    "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
-                    "-361.76 Physical Resistance.",
-                    "+2050 Energy Resistance."
-                ],
-                "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
-                    "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
-                    "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
-                    "Cyttorak\u2019s Ferocity grants +958 Attack Rating and increased Critical Damage Rating.",
-                    "Raggadorr\u2019s Resolve grants +1366.67 Armor and 30% Perfect Block chance.",
-                    "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
-                ],
-                "SPECIAL ATTACKS - RUNIC SPELLS": [
-                    "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
-                    "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
-                    "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -2050.",
-                    "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 412.28 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
-                    "Runes of Ikonn Slow the Opponent for 12 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "Rotate to the next Blessing."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Store 2 Rune(s) of the current Blessing.",
-                    "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
-                    "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Store 3 Rune(s) of the current Blessing.",
-                    "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
-                    "Subsequent uses store 2 non-permanent Runes instead.",
-                    "Attack Rating is increased by up to +5748 based on stored Runes."
-                ]
-            }
-        },
-        "6+2": {
-            "rank": 2,
-            "prestige": "8457",
-            "hp": "28474",
-            "attack": "2647",
-            "crit_rate": "738",
-            "crit_dmge": "900",
-            "armor": "431",
-            "block_prof": "3734",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Sorcerer Supreme gains +10 to 50% Ability Accuracy.",
-                "The Potency of Blessings is increased by 5 to 33%."
-            ],
-            "url_page": "https://auntm.ai/champions/drstrange_realm/tier/6",
-            "champid": "drstrange_realm+6+2",
-            "challenger_rating": 120,
-            "abilities": {
-                "PASSIVE": [
-                    "Basic attacks deal Energy Damage instead of Physical.",
-                    "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
-                    "-370.59 Physical Resistance.",
-                    "+2100 Energy Resistance."
-                ],
-                "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
-                    "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
-                    "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
-                    "Cyttorak\u2019s Ferocity grants +1323.5 Attack Rating and increased Critical Damage Rating.",
-                    "Raggadorr\u2019s Resolve grants +1400 Armor and 30% Perfect Block chance.",
-                    "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
-                ],
-                "SPECIAL ATTACKS - RUNIC SPELLS": [
-                    "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
-                    "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
-                    "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -2100.",
-                    "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 569.48 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
-                    "Runes of Ikonn Slow the Opponent for 12 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "Rotate to the next Blessing."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Store 2 Rune(s) of the current Blessing.",
-                    "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
-                    "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Store 3 Rune(s) of the current Blessing.",
-                    "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
-                    "Subsequent uses store 2 non-permanent Runes instead.",
-                    "Attack Rating is increased by up to +7941 based on stored Runes."
-                ]
-            }
-        },
-        "6+3": {
-            "rank": 3,
-            "prestige": "10048",
-            "hp": "33780",
-            "attack": "3140",
-            "crit_rate": "756",
-            "crit_dmge": "922",
-            "armor": "472",
-            "block_prof": "3823",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Sorcerer Supreme gains +10 to 50% Ability Accuracy.",
-                "The Potency of Blessings is increased by 5 to 33%."
-            ],
-            "url_page": "https://auntm.ai/champions/drstrange_realm/tier/6",
-            "champid": "drstrange_realm+6+3",
-            "challenger_rating": 130,
-            "abilities": {
-                "PASSIVE": [
-                    "Basic attacks deal Energy Damage instead of Physical.",
-                    "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
-                    "-379.41 Physical Resistance.",
-                    "+2150 Energy Resistance."
-                ],
-                "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
-                    "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
-                    "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
-                    "Cyttorak\u2019s Ferocity grants +1570 Attack Rating and increased Critical Damage Rating.",
-                    "Raggadorr\u2019s Resolve grants +1433.33 Armor and 30% Perfect Block chance.",
-                    "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
-                ],
-                "SPECIAL ATTACKS - RUNIC SPELLS": [
-                    "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
-                    "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
-                    "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -2150.",
-                    "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 675.6 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
-                    "Runes of Ikonn Slow the Opponent for 12 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "Rotate to the next Blessing."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Store 2 Rune(s) of the current Blessing.",
-                    "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
-                    "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Store 3 Rune(s) of the current Blessing.",
-                    "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
-                    "Subsequent uses store 2 non-permanent Runes instead.",
-                    "Attack Rating is increased by up to +9420 based on stored Runes."
-                ]
-            }
-        },
-        "6+4": {
-            "rank": 4,
-            "prestige": "11499",
-            "hp": "38657",
-            "attack": "3593",
-            "crit_rate": "773",
-            "crit_dmge": "943",
-            "armor": "517",
-            "block_prof": "3912",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "Sorcerer Supreme gains +10 to 50% Ability Accuracy.",
-                "The Potency of Blessings is increased by 5 to 33%."
-            ],
-            "url_page": "https://auntm.ai/champions/drstrange_realm/tier/6",
-            "champid": "drstrange_realm+6+4",
-            "challenger_rating": 140,
-            "abilities": {
-                "PASSIVE": [
-                    "Basic attacks deal Energy Damage instead of Physical.",
-                    "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
-                    "-388.24 Physical Resistance.",
-                    "+2200 Energy Resistance."
-                ],
-                "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
-                    "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
-                    "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
-                    "Cyttorak\u2019s Ferocity grants +1796.5 Attack Rating and increased Critical Damage Rating.",
-                    "Raggadorr\u2019s Resolve grants +1466.67 Armor and 30% Perfect Block chance.",
-                    "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
-                ],
-                "SPECIAL ATTACKS - RUNIC SPELLS": [
-                    "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
-                    "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
-                    "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -2200.",
-                    "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 773.14 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
-                    "Runes of Ikonn Slow the Opponent for 12 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "Rotate to the next Blessing."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Store 2 Rune(s) of the current Blessing.",
-                    "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
-                    "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Store 3 Rune(s) of the current Blessing.",
-                    "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
-                    "Subsequent uses store 2 non-permanent Runes instead.",
-                    "Attack Rating is increased by up to +10779 based on stored Runes."
-                ]
-            }
-        },
-        "find": {
-            "story_quests": {
-                "act_1": [
-                    "1.1.5"
-                ],
-                "act_2": [],
-                "act_3": [
-                    "3.1.5",
-                    "3.2.3",
-                    "3.2.4",
-                    "3.2.6"
-                ],
-                "act_4": [],
-                "act_5": [],
-                "act_6": [],
-                "act_7": [
-                    "7.1.2",
-                    "7.1.3",
-                    "7.2.2",
-                    "7.3.4",
-                    "7.4.1",
-                    "7.4.6"
-                ]
-            }
-        }
+  "champid": "drstrange_realm",
+  "data": {
+    "2+1": {
+      "rank": 1,
+      "prestige": "273",
+      "hp": "936",
+      "attack": "87",
+      "crit_rate": "563",
+      "crit_dmge": "686",
+      "armor": "33",
+      "block_prof": "2845",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Sorcerer Supreme gains +10 to 40% Ability Accuracy.",
+        "The Potency of Blessings is increased by 5 to 25%."
+      ],
+      "url_page": "https://auntm.ai/champions/drstrange_realm/tier/2",
+      "champid": "drstrange_realm+2+1",
+      "challenger_rating": 20,
+      "abilities": {
+        "PASSIVE": [
+          "Basic attacks deal Energy Damage instead of Physical.",
+          "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
+          "-282.35 Physical Resistance.",
+          "+1600 Energy Resistance."
+        ],
+        "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
+          "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
+          "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
+          "Cyttorak\u2019s Ferocity grants +43.5 Attack Rating and increased Critical Damage Rating.",
+          "Raggadorr\u2019s Resolve grants +1066.67 Armor and 30% Perfect Block chance.",
+          "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
+        ],
+        "SPECIAL ATTACKS - RUNIC SPELLS": [
+          "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
+          "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
+          "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -1600.",
+          "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 18.72 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
+          "Runes of Ikonn Slow the Opponent for 12 second(s)."
+        ],
+        "HEAVY ATTACKS": ["Rotate to the next Blessing."],
+        "SPECIAL ATTACK 1": [
+          "Store 2 Rune(s) of the current Blessing.",
+          "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
+          "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Store 3 Rune(s) of the current Blessing.",
+          "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
+        ],
+        "SPECIAL ATTACK 3": [
+          "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
+          "Subsequent uses store 2 non-permanent Runes instead.",
+          "Attack Rating is increased by up to +261 based on stored Runes."
+        ]
+      }
+    },
+    "2+2": {
+      "rank": 2,
+      "prestige": "360",
+      "hp": "1236",
+      "attack": "115",
+      "crit_rate": "580",
+      "crit_dmge": "708",
+      "armor": "52",
+      "block_prof": "2934",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Sorcerer Supreme gains +10 to 40% Ability Accuracy.",
+        "The Potency of Blessings is increased by 5 to 25%."
+      ],
+      "url_page": "https://auntm.ai/champions/drstrange_realm/tier/2",
+      "champid": "drstrange_realm+2+2",
+      "challenger_rating": 30,
+      "abilities": {
+        "PASSIVE": [
+          "Basic attacks deal Energy Damage instead of Physical.",
+          "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
+          "-291.18 Physical Resistance.",
+          "+1650 Energy Resistance."
+        ],
+        "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
+          "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
+          "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
+          "Cyttorak\u2019s Ferocity grants +57.5 Attack Rating and increased Critical Damage Rating.",
+          "Raggadorr\u2019s Resolve grants +1100 Armor and 30% Perfect Block chance.",
+          "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
+        ],
+        "SPECIAL ATTACKS - RUNIC SPELLS": [
+          "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
+          "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
+          "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -1650.",
+          "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 24.72 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
+          "Runes of Ikonn Slow the Opponent for 12 second(s)."
+        ],
+        "HEAVY ATTACKS": ["Rotate to the next Blessing."],
+        "SPECIAL ATTACK 1": [
+          "Store 2 Rune(s) of the current Blessing.",
+          "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
+          "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Store 3 Rune(s) of the current Blessing.",
+          "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
+        ],
+        "SPECIAL ATTACK 3": [
+          "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
+          "Subsequent uses store 2 non-permanent Runes instead.",
+          "Attack Rating is increased by up to +345 based on stored Runes."
+        ]
+      }
+    },
+    "2+3": {
+      "rank": 3,
+      "prestige": "581",
+      "hp": "1962",
+      "attack": "183",
+      "crit_rate": "598",
+      "crit_dmge": "729",
+      "armor": "71",
+      "block_prof": "3023",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Sorcerer Supreme gains +10 to 40% Ability Accuracy.",
+        "The Potency of Blessings is increased by 5 to 25%."
+      ],
+      "url_page": "https://auntm.ai/champions/drstrange_realm/tier/2",
+      "champid": "drstrange_realm+2+3",
+      "challenger_rating": 40,
+      "abilities": {
+        "PASSIVE": [
+          "Basic attacks deal Energy Damage instead of Physical.",
+          "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
+          "-300 Physical Resistance.",
+          "+1700 Energy Resistance."
+        ],
+        "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
+          "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
+          "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
+          "Cyttorak\u2019s Ferocity grants +91.5 Attack Rating and increased Critical Damage Rating.",
+          "Raggadorr\u2019s Resolve grants +1133.33 Armor and 30% Perfect Block chance.",
+          "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
+        ],
+        "SPECIAL ATTACKS - RUNIC SPELLS": [
+          "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
+          "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
+          "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -1700.",
+          "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 39.24 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
+          "Runes of Ikonn Slow the Opponent for 12 second(s)."
+        ],
+        "HEAVY ATTACKS": ["Rotate to the next Blessing."],
+        "SPECIAL ATTACK 1": [
+          "Store 2 Rune(s) of the current Blessing.",
+          "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
+          "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Store 3 Rune(s) of the current Blessing.",
+          "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
+        ],
+        "SPECIAL ATTACK 3": [
+          "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
+          "Subsequent uses store 2 non-permanent Runes instead.",
+          "Attack Rating is increased by up to +549 based on stored Runes."
+        ]
+      }
+    },
+    "3+1": {
+      "rank": 1,
+      "prestige": "503",
+      "hp": "1697",
+      "attack": "158",
+      "crit_rate": "598",
+      "crit_dmge": "729",
+      "armor": "71",
+      "block_prof": "3023",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Sorcerer Supreme gains +10 to 40% Ability Accuracy.",
+        "The Potency of Blessings is increased by 5 to 25%."
+      ],
+      "url_page": "https://auntm.ai/champions/drstrange_realm/tier/3",
+      "champid": "drstrange_realm+3+1",
+      "challenger_rating": 40,
+      "abilities": {
+        "PASSIVE": [
+          "Basic attacks deal Energy Damage instead of Physical.",
+          "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
+          "-300 Physical Resistance.",
+          "+1700 Energy Resistance."
+        ],
+        "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
+          "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
+          "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
+          "Cyttorak\u2019s Ferocity grants +79 Attack Rating and increased Critical Damage Rating.",
+          "Raggadorr\u2019s Resolve grants +1133.33 Armor and 30% Perfect Block chance.",
+          "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
+        ],
+        "SPECIAL ATTACKS - RUNIC SPELLS": [
+          "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
+          "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
+          "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -1700.",
+          "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 33.94 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
+          "Runes of Ikonn Slow the Opponent for 12 second(s)."
+        ],
+        "HEAVY ATTACKS": ["Rotate to the next Blessing."],
+        "SPECIAL ATTACK 1": [
+          "Store 2 Rune(s) of the current Blessing.",
+          "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
+          "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Store 3 Rune(s) of the current Blessing.",
+          "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
+        ],
+        "SPECIAL ATTACK 3": [
+          "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
+          "Subsequent uses store 2 non-permanent Runes instead.",
+          "Attack Rating is increased by up to +474 based on stored Runes."
+        ]
+      }
+    },
+    "3+2": {
+      "rank": 2,
+      "prestige": "803",
+      "hp": "2715",
+      "attack": "253",
+      "crit_rate": "615",
+      "crit_dmge": "750",
+      "armor": "93",
+      "block_prof": "3112",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Sorcerer Supreme gains +10 to 40% Ability Accuracy.",
+        "The Potency of Blessings is increased by 5 to 25%."
+      ],
+      "url_page": "https://auntm.ai/champions/drstrange_realm/tier/3",
+      "champid": "drstrange_realm+3+2",
+      "challenger_rating": 50,
+      "abilities": {
+        "PASSIVE": [
+          "Basic attacks deal Energy Damage instead of Physical.",
+          "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
+          "-308.82 Physical Resistance.",
+          "+1750 Energy Resistance."
+        ],
+        "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
+          "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
+          "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
+          "Cyttorak\u2019s Ferocity grants +126.5 Attack Rating and increased Critical Damage Rating.",
+          "Raggadorr\u2019s Resolve grants +1166.67 Armor and 30% Perfect Block chance.",
+          "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
+        ],
+        "SPECIAL ATTACKS - RUNIC SPELLS": [
+          "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
+          "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
+          "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -1750.",
+          "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 54.3 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
+          "Runes of Ikonn Slow the Opponent for 12 second(s)."
+        ],
+        "HEAVY ATTACKS": ["Rotate to the next Blessing."],
+        "SPECIAL ATTACK 1": [
+          "Store 2 Rune(s) of the current Blessing.",
+          "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
+          "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Store 3 Rune(s) of the current Blessing.",
+          "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
+        ],
+        "SPECIAL ATTACK 3": [
+          "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
+          "Subsequent uses store 2 non-permanent Runes instead.",
+          "Attack Rating is increased by up to +759 based on stored Runes."
+        ]
+      }
+    },
+    "3+3": {
+      "rank": 3,
+      "prestige": "1123",
+      "hp": "3798",
+      "attack": "353",
+      "crit_rate": "633",
+      "crit_dmge": "772",
+      "armor": "115",
+      "block_prof": "3200",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Sorcerer Supreme gains +10 to 40% Ability Accuracy.",
+        "The Potency of Blessings is increased by 5 to 25%."
+      ],
+      "url_page": "https://auntm.ai/champions/drstrange_realm/tier/3",
+      "champid": "drstrange_realm+3+3",
+      "challenger_rating": 60,
+      "abilities": {
+        "PASSIVE": [
+          "Basic attacks deal Energy Damage instead of Physical.",
+          "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
+          "-317.65 Physical Resistance.",
+          "+1800 Energy Resistance."
+        ],
+        "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
+          "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
+          "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
+          "Cyttorak\u2019s Ferocity grants +176.5 Attack Rating and increased Critical Damage Rating.",
+          "Raggadorr\u2019s Resolve grants +1200 Armor and 30% Perfect Block chance.",
+          "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
+        ],
+        "SPECIAL ATTACKS - RUNIC SPELLS": [
+          "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
+          "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
+          "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -1800.",
+          "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 75.96 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
+          "Runes of Ikonn Slow the Opponent for 12 second(s)."
+        ],
+        "HEAVY ATTACKS": ["Rotate to the next Blessing."],
+        "SPECIAL ATTACK 1": [
+          "Store 2 Rune(s) of the current Blessing.",
+          "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
+          "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Store 3 Rune(s) of the current Blessing.",
+          "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
+        ],
+        "SPECIAL ATTACK 3": [
+          "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
+          "Subsequent uses store 2 non-permanent Runes instead.",
+          "Attack Rating is increased by up to +1059 based on stored Runes."
+        ]
+      }
+    },
+    "3+4": {
+      "rank": 4,
+      "prestige": "1542",
+      "hp": "5214",
+      "attack": "485",
+      "crit_rate": "650",
+      "crit_dmge": "793",
+      "armor": "140",
+      "block_prof": "3289",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Sorcerer Supreme gains +10 to 40% Ability Accuracy.",
+        "The Potency of Blessings is increased by 5 to 25%."
+      ],
+      "url_page": "https://auntm.ai/champions/drstrange_realm/tier/3",
+      "champid": "drstrange_realm+3+4",
+      "challenger_rating": 70,
+      "abilities": {
+        "PASSIVE": [
+          "Basic attacks deal Energy Damage instead of Physical.",
+          "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
+          "-326.47 Physical Resistance.",
+          "+1850 Energy Resistance."
+        ],
+        "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
+          "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
+          "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
+          "Cyttorak\u2019s Ferocity grants +242.5 Attack Rating and increased Critical Damage Rating.",
+          "Raggadorr\u2019s Resolve grants +1233.33 Armor and 30% Perfect Block chance.",
+          "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
+        ],
+        "SPECIAL ATTACKS - RUNIC SPELLS": [
+          "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
+          "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
+          "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -1850.",
+          "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 104.28 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
+          "Runes of Ikonn Slow the Opponent for 12 second(s)."
+        ],
+        "HEAVY ATTACKS": ["Rotate to the next Blessing."],
+        "SPECIAL ATTACK 1": [
+          "Store 2 Rune(s) of the current Blessing.",
+          "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
+          "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Store 3 Rune(s) of the current Blessing.",
+          "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
+        ],
+        "SPECIAL ATTACK 3": [
+          "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
+          "Subsequent uses store 2 non-permanent Runes instead.",
+          "Attack Rating is increased by up to +1455 based on stored Runes."
+        ]
+      }
+    },
+    "4+1": {
+      "rank": 1,
+      "prestige": "1124",
+      "hp": "3795",
+      "attack": "353",
+      "crit_rate": "633",
+      "crit_dmge": "772",
+      "armor": "157",
+      "block_prof": "3200",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Sorcerer Supreme gains +10 to 40% Ability Accuracy.",
+        "The Potency of Blessings is increased by 5 to 25%."
+      ],
+      "url_page": "https://auntm.ai/champions/drstrange_realm/tier/4",
+      "champid": "drstrange_realm+4+1",
+      "challenger_rating": 60,
+      "abilities": {
+        "PASSIVE": [
+          "Basic attacks deal Energy Damage instead of Physical.",
+          "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
+          "-317.65 Physical Resistance.",
+          "+1800 Energy Resistance."
+        ],
+        "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
+          "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
+          "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
+          "Cyttorak\u2019s Ferocity grants +176.5 Attack Rating and increased Critical Damage Rating.",
+          "Raggadorr\u2019s Resolve grants +1200 Armor and 30% Perfect Block chance.",
+          "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
+        ],
+        "SPECIAL ATTACKS - RUNIC SPELLS": [
+          "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
+          "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
+          "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -1800.",
+          "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 75.9 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
+          "Runes of Ikonn Slow the Opponent for 12 second(s)."
+        ],
+        "HEAVY ATTACKS": ["Rotate to the next Blessing."],
+        "SPECIAL ATTACK 1": [
+          "Store 2 Rune(s) of the current Blessing.",
+          "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
+          "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Store 3 Rune(s) of the current Blessing.",
+          "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
+        ],
+        "SPECIAL ATTACK 3": [
+          "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
+          "Subsequent uses store 2 non-permanent Runes instead.",
+          "Attack Rating is increased by up to +1059 based on stored Runes."
+        ]
+      }
+    },
+    "4+2": {
+      "rank": 2,
+      "prestige": "1577",
+      "hp": "5323",
+      "attack": "495",
+      "crit_rate": "650",
+      "crit_dmge": "793",
+      "armor": "183",
+      "block_prof": "3289",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Sorcerer Supreme gains +10 to 40% Ability Accuracy.",
+        "The Potency of Blessings is increased by 5 to 25%."
+      ],
+      "url_page": "https://auntm.ai/champions/drstrange_realm/tier/4",
+      "champid": "drstrange_realm+4+2",
+      "challenger_rating": 70,
+      "abilities": {
+        "PASSIVE": [
+          "Basic attacks deal Energy Damage instead of Physical.",
+          "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
+          "-326.47 Physical Resistance.",
+          "+1850 Energy Resistance."
+        ],
+        "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
+          "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
+          "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
+          "Cyttorak\u2019s Ferocity grants +247.5 Attack Rating and increased Critical Damage Rating.",
+          "Raggadorr\u2019s Resolve grants +1233.33 Armor and 30% Perfect Block chance.",
+          "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
+        ],
+        "SPECIAL ATTACKS - RUNIC SPELLS": [
+          "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
+          "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
+          "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -1850.",
+          "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 106.46 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
+          "Runes of Ikonn Slow the Opponent for 12 second(s)."
+        ],
+        "HEAVY ATTACKS": ["Rotate to the next Blessing."],
+        "SPECIAL ATTACK 1": [
+          "Store 2 Rune(s) of the current Blessing.",
+          "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
+          "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Store 3 Rune(s) of the current Blessing.",
+          "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
+        ],
+        "SPECIAL ATTACK 3": [
+          "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
+          "Subsequent uses store 2 non-permanent Runes instead.",
+          "Attack Rating is increased by up to +1485 based on stored Runes."
+        ]
+      }
+    },
+    "4+3": {
+      "rank": 3,
+      "prestige": "2210",
+      "hp": "7458",
+      "attack": "694",
+      "crit_rate": "668",
+      "crit_dmge": "815",
+      "armor": "212",
+      "block_prof": "3378",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Sorcerer Supreme gains +10 to 40% Ability Accuracy.",
+        "The Potency of Blessings is increased by 5 to 25%."
+      ],
+      "url_page": "https://auntm.ai/champions/drstrange_realm/tier/4",
+      "champid": "drstrange_realm+4+3",
+      "challenger_rating": 80,
+      "abilities": {
+        "PASSIVE": [
+          "Basic attacks deal Energy Damage instead of Physical.",
+          "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
+          "-335.29 Physical Resistance.",
+          "+1900 Energy Resistance."
+        ],
+        "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
+          "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
+          "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
+          "Cyttorak\u2019s Ferocity grants +347 Attack Rating and increased Critical Damage Rating.",
+          "Raggadorr\u2019s Resolve grants +1266.67 Armor and 30% Perfect Block chance.",
+          "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
+        ],
+        "SPECIAL ATTACKS - RUNIC SPELLS": [
+          "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
+          "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
+          "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -1900.",
+          "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 149.16 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
+          "Runes of Ikonn Slow the Opponent for 12 second(s)."
+        ],
+        "HEAVY ATTACKS": ["Rotate to the next Blessing."],
+        "SPECIAL ATTACK 1": [
+          "Store 2 Rune(s) of the current Blessing.",
+          "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
+          "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Store 3 Rune(s) of the current Blessing.",
+          "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
+        ],
+        "SPECIAL ATTACK 3": [
+          "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
+          "Subsequent uses store 2 non-permanent Runes instead.",
+          "Attack Rating is increased by up to +2082 based on stored Runes."
+        ]
+      }
+    },
+    "4+4": {
+      "rank": 4,
+      "prestige": "2908",
+      "hp": "9799",
+      "attack": "911",
+      "crit_rate": "686",
+      "crit_dmge": "836",
+      "armor": "242",
+      "block_prof": "3467",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Sorcerer Supreme gains +10 to 40% Ability Accuracy.",
+        "The Potency of Blessings is increased by 5 to 25%."
+      ],
+      "url_page": "https://auntm.ai/champions/drstrange_realm/tier/4",
+      "champid": "drstrange_realm+4+4",
+      "challenger_rating": 90,
+      "abilities": {
+        "PASSIVE": [
+          "Basic attacks deal Energy Damage instead of Physical.",
+          "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
+          "-344.12 Physical Resistance.",
+          "+1950 Energy Resistance."
+        ],
+        "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
+          "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
+          "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
+          "Cyttorak\u2019s Ferocity grants +455.5 Attack Rating and increased Critical Damage Rating.",
+          "Raggadorr\u2019s Resolve grants +1300 Armor and 30% Perfect Block chance.",
+          "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
+        ],
+        "SPECIAL ATTACKS - RUNIC SPELLS": [
+          "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
+          "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
+          "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -1950.",
+          "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 195.98 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
+          "Runes of Ikonn Slow the Opponent for 12 second(s)."
+        ],
+        "HEAVY ATTACKS": ["Rotate to the next Blessing."],
+        "SPECIAL ATTACK 1": [
+          "Store 2 Rune(s) of the current Blessing.",
+          "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
+          "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Store 3 Rune(s) of the current Blessing.",
+          "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
+        ],
+        "SPECIAL ATTACK 3": [
+          "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
+          "Subsequent uses store 2 non-permanent Runes instead.",
+          "Attack Rating is increased by up to +2733 based on stored Runes."
+        ]
+      }
+    },
+    "4+5": {
+      "rank": 5,
+      "prestige": "3878",
+      "hp": "13075",
+      "attack": "1216",
+      "crit_rate": "703",
+      "crit_dmge": "858",
+      "armor": "273",
+      "block_prof": "3556",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Sorcerer Supreme gains +10 to 40% Ability Accuracy.",
+        "The Potency of Blessings is increased by 5 to 25%."
+      ],
+      "url_page": "https://auntm.ai/champions/drstrange_realm/tier/4",
+      "champid": "drstrange_realm+4+5",
+      "challenger_rating": 100,
+      "abilities": {
+        "PASSIVE": [
+          "Basic attacks deal Energy Damage instead of Physical.",
+          "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
+          "-352.94 Physical Resistance.",
+          "+2000 Energy Resistance."
+        ],
+        "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
+          "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
+          "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
+          "Cyttorak\u2019s Ferocity grants +608 Attack Rating and increased Critical Damage Rating.",
+          "Raggadorr\u2019s Resolve grants +1333.33 Armor and 30% Perfect Block chance.",
+          "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
+        ],
+        "SPECIAL ATTACKS - RUNIC SPELLS": [
+          "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
+          "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
+          "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -2000.",
+          "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 261.5 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
+          "Runes of Ikonn Slow the Opponent for 12 second(s)."
+        ],
+        "HEAVY ATTACKS": ["Rotate to the next Blessing."],
+        "SPECIAL ATTACK 1": [
+          "Store 2 Rune(s) of the current Blessing.",
+          "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
+          "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Store 3 Rune(s) of the current Blessing.",
+          "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
+        ],
+        "SPECIAL ATTACK 3": [
+          "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
+          "Subsequent uses store 2 non-permanent Runes instead.",
+          "Attack Rating is increased by up to +3648 based on stored Runes."
+        ]
+      }
+    },
+    "5+1": {
+      "rank": 1,
+      "prestige": "2320",
+      "hp": "7803",
+      "attack": "726",
+      "crit_rate": "668",
+      "crit_dmge": "815",
+      "armor": "362",
+      "block_prof": "3378",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Sorcerer Supreme gains +10 to 50% Ability Accuracy.",
+        "The Potency of Blessings is increased by 5 to 33%."
+      ],
+      "url_page": "https://auntm.ai/champions/drstrange_realm/tier/5",
+      "champid": "drstrange_realm+5+1",
+      "challenger_rating": 80,
+      "abilities": {
+        "PASSIVE": [
+          "Basic attacks deal Energy Damage instead of Physical.",
+          "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
+          "-335.29 Physical Resistance.",
+          "+1900 Energy Resistance."
+        ],
+        "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
+          "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
+          "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
+          "Cyttorak\u2019s Ferocity grants +363 Attack Rating and increased Critical Damage Rating.",
+          "Raggadorr\u2019s Resolve grants +1266.67 Armor and 30% Perfect Block chance.",
+          "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
+        ],
+        "SPECIAL ATTACKS - RUNIC SPELLS": [
+          "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
+          "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
+          "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -1900.",
+          "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 156.06 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
+          "Runes of Ikonn Slow the Opponent for 12 second(s)."
+        ],
+        "HEAVY ATTACKS": ["Rotate to the next Blessing."],
+        "SPECIAL ATTACK 1": [
+          "Store 2 Rune(s) of the current Blessing.",
+          "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
+          "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Store 3 Rune(s) of the current Blessing.",
+          "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
+        ],
+        "SPECIAL ATTACK 3": [
+          "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
+          "Subsequent uses store 2 non-permanent Runes instead.",
+          "Attack Rating is increased by up to +2178 based on stored Runes."
+        ]
+      }
+    },
+    "5+2": {
+      "rank": 2,
+      "prestige": "3062",
+      "hp": "10307",
+      "attack": "958",
+      "crit_rate": "686",
+      "crit_dmge": "836",
+      "armor": "400",
+      "block_prof": "3467",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Sorcerer Supreme gains +10 to 50% Ability Accuracy.",
+        "The Potency of Blessings is increased by 5 to 33%."
+      ],
+      "url_page": "https://auntm.ai/champions/drstrange_realm/tier/5",
+      "champid": "drstrange_realm+5+2",
+      "challenger_rating": 90,
+      "abilities": {
+        "PASSIVE": [
+          "Basic attacks deal Energy Damage instead of Physical.",
+          "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
+          "-344.12 Physical Resistance.",
+          "+1950 Energy Resistance."
+        ],
+        "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
+          "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
+          "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
+          "Cyttorak\u2019s Ferocity grants +479 Attack Rating and increased Critical Damage Rating.",
+          "Raggadorr\u2019s Resolve grants +1300 Armor and 30% Perfect Block chance.",
+          "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
+        ],
+        "SPECIAL ATTACKS - RUNIC SPELLS": [
+          "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
+          "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
+          "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -1950.",
+          "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 206.14 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
+          "Runes of Ikonn Slow the Opponent for 12 second(s)."
+        ],
+        "HEAVY ATTACKS": ["Rotate to the next Blessing."],
+        "SPECIAL ATTACK 1": [
+          "Store 2 Rune(s) of the current Blessing.",
+          "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
+          "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Store 3 Rune(s) of the current Blessing.",
+          "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
+        ],
+        "SPECIAL ATTACK 3": [
+          "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
+          "Subsequent uses store 2 non-permanent Runes instead.",
+          "Attack Rating is increased by up to +2874 based on stored Runes."
+        ]
+      }
+    },
+    "5+3": {
+      "rank": 3,
+      "prestige": "4290",
+      "hp": "14409",
+      "attack": "1340",
+      "crit_rate": "703",
+      "crit_dmge": "858",
+      "armor": "440",
+      "block_prof": "3556",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Sorcerer Supreme gains +10 to 50% Ability Accuracy.",
+        "The Potency of Blessings is increased by 5 to 33%."
+      ],
+      "url_page": "https://auntm.ai/champions/drstrange_realm/tier/5",
+      "champid": "drstrange_realm+5+3",
+      "challenger_rating": 100,
+      "abilities": {
+        "PASSIVE": [
+          "Basic attacks deal Energy Damage instead of Physical.",
+          "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
+          "-352.94 Physical Resistance.",
+          "+2000 Energy Resistance."
+        ],
+        "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
+          "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
+          "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
+          "Cyttorak\u2019s Ferocity grants +670 Attack Rating and increased Critical Damage Rating.",
+          "Raggadorr\u2019s Resolve grants +1333.33 Armor and 30% Perfect Block chance.",
+          "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
+        ],
+        "SPECIAL ATTACKS - RUNIC SPELLS": [
+          "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
+          "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
+          "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -2000.",
+          "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 288.18 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
+          "Runes of Ikonn Slow the Opponent for 12 second(s)."
+        ],
+        "HEAVY ATTACKS": ["Rotate to the next Blessing."],
+        "SPECIAL ATTACK 1": [
+          "Store 2 Rune(s) of the current Blessing.",
+          "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
+          "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Store 3 Rune(s) of the current Blessing.",
+          "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
+        ],
+        "SPECIAL ATTACK 3": [
+          "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
+          "Subsequent uses store 2 non-permanent Runes instead.",
+          "Attack Rating is increased by up to +4020 based on stored Runes."
+        ]
+      }
+    },
+    "5+4": {
+      "rank": 4,
+      "prestige": "5777",
+      "hp": "19417",
+      "attack": "1805",
+      "crit_rate": "721",
+      "crit_dmge": "879",
+      "armor": "481",
+      "block_prof": "3645",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Sorcerer Supreme gains +10 to 50% Ability Accuracy.",
+        "The Potency of Blessings is increased by 5 to 33%."
+      ],
+      "url_page": "https://auntm.ai/champions/drstrange_realm/tier/5",
+      "champid": "drstrange_realm+5+4",
+      "challenger_rating": 110,
+      "abilities": {
+        "PASSIVE": [
+          "Basic attacks deal Energy Damage instead of Physical.",
+          "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
+          "-361.76 Physical Resistance.",
+          "+2050 Energy Resistance."
+        ],
+        "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
+          "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
+          "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
+          "Cyttorak\u2019s Ferocity grants +902.5 Attack Rating and increased Critical Damage Rating.",
+          "Raggadorr\u2019s Resolve grants +1366.67 Armor and 30% Perfect Block chance.",
+          "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
+        ],
+        "SPECIAL ATTACKS - RUNIC SPELLS": [
+          "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
+          "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
+          "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -2050.",
+          "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 388.34 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
+          "Runes of Ikonn Slow the Opponent for 12 second(s)."
+        ],
+        "HEAVY ATTACKS": ["Rotate to the next Blessing."],
+        "SPECIAL ATTACK 1": [
+          "Store 2 Rune(s) of the current Blessing.",
+          "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
+          "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Store 3 Rune(s) of the current Blessing.",
+          "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
+        ],
+        "SPECIAL ATTACK 3": [
+          "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
+          "Subsequent uses store 2 non-permanent Runes instead.",
+          "Attack Rating is increased by up to +5415 based on stored Runes."
+        ]
+      }
+    },
+    "5+5": {
+      "rank": 5,
+      "prestige": "7813",
+      "hp": "26216",
+      "attack": "2437",
+      "crit_rate": "738",
+      "crit_dmge": "900",
+      "armor": "525",
+      "block_prof": "3734",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Sorcerer Supreme gains +10 to 50% Ability Accuracy.",
+        "The Potency of Blessings is increased by 5 to 33%."
+      ],
+      "url_page": "https://auntm.ai/champions/drstrange_realm/tier/5",
+      "champid": "drstrange_realm+5+5",
+      "challenger_rating": 120,
+      "abilities": {
+        "PASSIVE": [
+          "Basic attacks deal Energy Damage instead of Physical.",
+          "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
+          "-370.59 Physical Resistance.",
+          "+2100 Energy Resistance."
+        ],
+        "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
+          "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
+          "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
+          "Cyttorak\u2019s Ferocity grants +1218.5 Attack Rating and increased Critical Damage Rating.",
+          "Raggadorr\u2019s Resolve grants +1400 Armor and 30% Perfect Block chance.",
+          "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
+        ],
+        "SPECIAL ATTACKS - RUNIC SPELLS": [
+          "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
+          "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
+          "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -2100.",
+          "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 524.32 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
+          "Runes of Ikonn Slow the Opponent for 12 second(s)."
+        ],
+        "HEAVY ATTACKS": ["Rotate to the next Blessing."],
+        "SPECIAL ATTACK 1": [
+          "Store 2 Rune(s) of the current Blessing.",
+          "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
+          "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Store 3 Rune(s) of the current Blessing.",
+          "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
+        ],
+        "SPECIAL ATTACK 3": [
+          "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
+          "Subsequent uses store 2 non-permanent Runes instead.",
+          "Attack Rating is increased by up to +7311 based on stored Runes."
+        ]
+      }
+    },
+    "6+1": {
+      "rank": 1,
+      "prestige": "6123",
+      "hp": "20614",
+      "attack": "1916",
+      "crit_rate": "721",
+      "crit_dmge": "879",
+      "armor": "391",
+      "block_prof": "3645",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Sorcerer Supreme gains +10 to 50% Ability Accuracy.",
+        "The Potency of Blessings is increased by 5 to 33%."
+      ],
+      "url_page": "https://auntm.ai/champions/drstrange_realm/tier/6",
+      "champid": "drstrange_realm+6+1",
+      "challenger_rating": 110,
+      "abilities": {
+        "PASSIVE": [
+          "Basic attacks deal Energy Damage instead of Physical.",
+          "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
+          "-361.76 Physical Resistance.",
+          "+2050 Energy Resistance."
+        ],
+        "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
+          "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
+          "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
+          "Cyttorak\u2019s Ferocity grants +958 Attack Rating and increased Critical Damage Rating.",
+          "Raggadorr\u2019s Resolve grants +1366.67 Armor and 30% Perfect Block chance.",
+          "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
+        ],
+        "SPECIAL ATTACKS - RUNIC SPELLS": [
+          "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
+          "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
+          "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -2050.",
+          "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 412.28 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
+          "Runes of Ikonn Slow the Opponent for 12 second(s)."
+        ],
+        "HEAVY ATTACKS": ["Rotate to the next Blessing."],
+        "SPECIAL ATTACK 1": [
+          "Store 2 Rune(s) of the current Blessing.",
+          "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
+          "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Store 3 Rune(s) of the current Blessing.",
+          "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
+        ],
+        "SPECIAL ATTACK 3": [
+          "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
+          "Subsequent uses store 2 non-permanent Runes instead.",
+          "Attack Rating is increased by up to +5748 based on stored Runes."
+        ]
+      }
+    },
+    "6+2": {
+      "rank": 2,
+      "prestige": "8457",
+      "hp": "28474",
+      "attack": "2647",
+      "crit_rate": "738",
+      "crit_dmge": "900",
+      "armor": "431",
+      "block_prof": "3734",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Sorcerer Supreme gains +10 to 50% Ability Accuracy.",
+        "The Potency of Blessings is increased by 5 to 33%."
+      ],
+      "url_page": "https://auntm.ai/champions/drstrange_realm/tier/6",
+      "champid": "drstrange_realm+6+2",
+      "challenger_rating": 120,
+      "abilities": {
+        "PASSIVE": [
+          "Basic attacks deal Energy Damage instead of Physical.",
+          "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
+          "-370.59 Physical Resistance.",
+          "+2100 Energy Resistance."
+        ],
+        "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
+          "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
+          "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
+          "Cyttorak\u2019s Ferocity grants +1323.5 Attack Rating and increased Critical Damage Rating.",
+          "Raggadorr\u2019s Resolve grants +1400 Armor and 30% Perfect Block chance.",
+          "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
+        ],
+        "SPECIAL ATTACKS - RUNIC SPELLS": [
+          "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
+          "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
+          "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -2100.",
+          "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 569.48 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
+          "Runes of Ikonn Slow the Opponent for 12 second(s)."
+        ],
+        "HEAVY ATTACKS": ["Rotate to the next Blessing."],
+        "SPECIAL ATTACK 1": [
+          "Store 2 Rune(s) of the current Blessing.",
+          "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
+          "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Store 3 Rune(s) of the current Blessing.",
+          "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
+        ],
+        "SPECIAL ATTACK 3": [
+          "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
+          "Subsequent uses store 2 non-permanent Runes instead.",
+          "Attack Rating is increased by up to +7941 based on stored Runes."
+        ]
+      }
+    },
+    "6+3": {
+      "rank": 3,
+      "prestige": "10048",
+      "hp": "33780",
+      "attack": "3140",
+      "crit_rate": "756",
+      "crit_dmge": "922",
+      "armor": "472",
+      "block_prof": "3823",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Sorcerer Supreme gains +10 to 50% Ability Accuracy.",
+        "The Potency of Blessings is increased by 5 to 33%."
+      ],
+      "url_page": "https://auntm.ai/champions/drstrange_realm/tier/6",
+      "champid": "drstrange_realm+6+3",
+      "challenger_rating": 130,
+      "abilities": {
+        "PASSIVE": [
+          "Basic attacks deal Energy Damage instead of Physical.",
+          "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
+          "-379.41 Physical Resistance.",
+          "+2150 Energy Resistance."
+        ],
+        "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
+          "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
+          "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
+          "Cyttorak\u2019s Ferocity grants +1570 Attack Rating and increased Critical Damage Rating.",
+          "Raggadorr\u2019s Resolve grants +1433.33 Armor and 30% Perfect Block chance.",
+          "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
+        ],
+        "SPECIAL ATTACKS - RUNIC SPELLS": [
+          "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
+          "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
+          "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -2150.",
+          "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 675.6 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
+          "Runes of Ikonn Slow the Opponent for 12 second(s)."
+        ],
+        "HEAVY ATTACKS": ["Rotate to the next Blessing."],
+        "SPECIAL ATTACK 1": [
+          "Store 2 Rune(s) of the current Blessing.",
+          "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
+          "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Store 3 Rune(s) of the current Blessing.",
+          "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
+        ],
+        "SPECIAL ATTACK 3": [
+          "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
+          "Subsequent uses store 2 non-permanent Runes instead.",
+          "Attack Rating is increased by up to +9420 based on stored Runes."
+        ]
+      }
+    },
+    "6+4": {
+      "rank": 4,
+      "prestige": "11499",
+      "hp": "38657",
+      "attack": "3593",
+      "crit_rate": "773",
+      "crit_dmge": "943",
+      "armor": "517",
+      "block_prof": "3912",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "Sorcerer Supreme gains +10 to 50% Ability Accuracy.",
+        "The Potency of Blessings is increased by 5 to 33%."
+      ],
+      "url_page": "https://auntm.ai/champions/drstrange_realm/tier/6",
+      "champid": "drstrange_realm+6+4",
+      "challenger_rating": 140,
+      "abilities": {
+        "PASSIVE": [
+          "Basic attacks deal Energy Damage instead of Physical.",
+          "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
+          "-388.24 Physical Resistance.",
+          "+2200 Energy Resistance."
+        ],
+        "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
+          "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
+          "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
+          "Cyttorak\u2019s Ferocity grants +1796.5 Attack Rating and increased Critical Damage Rating.",
+          "Raggadorr\u2019s Resolve grants +1466.67 Armor and 30% Perfect Block chance.",
+          "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
+        ],
+        "SPECIAL ATTACKS - RUNIC SPELLS": [
+          "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
+          "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
+          "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -2200.",
+          "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 773.14 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
+          "Runes of Ikonn Slow the Opponent for 12 second(s)."
+        ],
+        "HEAVY ATTACKS": ["Rotate to the next Blessing."],
+        "SPECIAL ATTACK 1": [
+          "Store 2 Rune(s) of the current Blessing.",
+          "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
+          "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Store 3 Rune(s) of the current Blessing.",
+          "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
+        ],
+        "SPECIAL ATTACK 3": [
+          "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
+          "Subsequent uses store 2 non-permanent Runes instead.",
+          "Attack Rating is increased by up to +10779 based on stored Runes."
+        ]
+      }
+    },
+    "1+1": {
+      "rank": 1,
+      "prestige": 215,
+      "hp": 733,
+      "attack": 69,
+      "crit_rate": 545,
+      "crit_dmge": 665,
+      "armor": 0,
+      "block_prof": 2756,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/drstrange_realm/tier/1",
+      "champid": "drstrange_realm+1+1",
+      "challenger_rating": 10,
+      "abilities": {
+        "PASSIVE": [
+          "Basic attacks deal Energy Damage instead of Physical.",
+          "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
+          "-273.53 Physical Resistance.",
+          "+1550 Energy Resistance."
+        ],
+        "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
+          "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
+          "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
+          "Cyttorak\u2019s Ferocity grants +34.5 Attack Rating and increased Critical Damage Rating.",
+          "Raggadorr\u2019s Resolve grants +1033.33 Armor and 30% Perfect Block chance.",
+          "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
+        ],
+        "SPECIAL ATTACKS - RUNIC SPELLS": [
+          "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
+          "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
+          "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -1550.",
+          "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 14.66 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
+          "Runes of Ikonn Slow the Opponent for 12 second(s)."
+        ],
+        "HEAVY ATTACKS": ["Rotate to the next Blessing."],
+        "SPECIAL ATTACK 1": [
+          "Store 2 Rune(s) of the current Blessing.",
+          "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
+          "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Store 3 Rune(s) of the current Blessing.",
+          "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
+        ],
+        "SPECIAL ATTACK 3": [
+          "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
+          "Subsequent uses store 2 non-permanent Runes instead.",
+          "Attack Rating is increased by up to +207 based on stored Runes."
+        ]
+      }
+    },
+    "1+2": {
+      "rank": 2,
+      "prestige": 296,
+      "hp": 1014,
+      "attack": 95,
+      "crit_rate": 563,
+      "crit_dmge": 686,
+      "armor": 0,
+      "block_prof": 2845,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/drstrange_realm/tier/1",
+      "champid": "drstrange_realm+1+2",
+      "challenger_rating": 20,
+      "abilities": {
+        "PASSIVE": [
+          "Basic attacks deal Energy Damage instead of Physical.",
+          "Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).",
+          "-282.35 Physical Resistance.",
+          "+1600 Energy Resistance."
+        ],
+        "PASSIVE - BLESSINGS OF THE REALM - PRE-FIGHT ABILITY": [
+          "Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak\u2019s Ferocity, Raggadorr\u2019s Resolve, and Ikonn\u2019s Ingenuity.",
+          "Each fight starts in Cyttorak\u2019s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.",
+          "Cyttorak\u2019s Ferocity grants +47.5 Attack Rating and increased Critical Damage Rating.",
+          "Raggadorr\u2019s Resolve grants +1066.67 Armor and 30% Perfect Block chance.",
+          "Ikonn\u2019s Ingenuity grants all hits Power Steal for 3% of the Opponent\u2019s current Power. Sorcerer Supreme gains 150% of the Power Stolen."
+        ],
+        "SPECIAL ATTACKS - RUNIC SPELLS": [
+          "All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.",
+          "After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.",
+          "Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -1600.",
+          "Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 20.28 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.",
+          "Runes of Ikonn Slow the Opponent for 12 second(s)."
+        ],
+        "HEAVY ATTACKS": ["Rotate to the next Blessing."],
+        "SPECIAL ATTACK 1": [
+          "Store 2 Rune(s) of the current Blessing.",
+          "The first hit has a 100% chance to Nullify 1 Buff off the Opponent.",
+          "After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Store 3 Rune(s) of the current Blessing.",
+          "After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends."
+        ],
+        "SPECIAL ATTACK 3": [
+          "The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.",
+          "Subsequent uses store 2 non-permanent Runes instead.",
+          "Attack Rating is increased by up to +285 based on stored Runes."
+        ]
+      }
+    },
+    "find": {
+      "story_quests": {
+        "act_1": ["1.1.5"],
+        "act_2": [],
+        "act_3": ["3.1.5", "3.2.3", "3.2.4", "3.2.6"],
+        "act_4": [],
+        "act_5": [],
+        "act_6": [],
+        "act_7": ["7.1.2", "7.1.3", "7.2.2", "7.3.4", "7.4.1", "7.4.6"]
+      }
     }
+  },
+  "name": "SORCERER SUPREME",
+  "class": "Mystic",
+  "img_portrait": "https://api.rexians.tk/assets/portraits/drstrange_realm.png",
+  "contact": "ENERGY",
+  "tags": ["Hero", "Size: S"],
+  "released": "4/8/2020"
 }

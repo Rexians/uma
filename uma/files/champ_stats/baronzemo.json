@@ -1,1117 +1,1180 @@
 {
-    "name": "BARON ZEMO",
-    "class": "Skill",
-    "img_portrait": "https://api.rexians.tk/assets/portraits/baronzemo.png",
-    "contact": "PHYSICAL",
-    "tags": [
-        "Villain",
-        "Size: M"
-    ],
-    "released": "1/26/2023",
-    "champid": "baronzemo",
-    "data": {
-        "2+1": {
-            "challenger_rating": 20,
-            "rank": 1,
-            "prestige": 286,
-            "hp": 1154,
-            "attack": 85,
-            "crit_rate": 654,
-            "crit_dmge": 598,
-            "armor": 33,
-            "block_prof": 2303,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Zemo gains +75 to 750 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
-                "When fighting #Heroes, attacks that intercept the Opponent gain +75 to 750 Critical Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/baronzemo/tier/2",
-            "champid": "baronzemo+2+1",
-            "abilities": {
-                "BASIC ATTACKS": [
-                    "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
-                    "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +170."
-                ],
-                "YOUR DEFEAT IS CERTAIN": [
-                    "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 0.68 Direct Damage per second.",
-                    "All of Zemo\u2019s personal effects can be inflicted through Block."
-                ],
-                "GRAND MACHINATION": [
-                    "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
-                    "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +6400 for 20 seconds.",
-                    "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
-                ],
-                "RIGHT WHERE I WANT YOU - ROOT": [
-                    "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
-                    "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
-                    "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
-                    "The final hit inflicts an indefinite Bleed Debuff.",
-                    "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
-                    "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
-                ]
-            }
-        },
-        "2+2": {
-            "challenger_rating": 30,
-            "rank": 2,
-            "prestige": 376,
-            "hp": 1524,
-            "attack": 112,
-            "crit_rate": 674,
-            "crit_dmge": 617,
-            "armor": 52,
-            "block_prof": 2375,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Zemo gains +75 to 750 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
-                "When fighting #Heroes, attacks that intercept the Opponent gain +75 to 750 Critical Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/baronzemo/tier/2",
-            "champid": "baronzemo+2+2",
-            "abilities": {
-                "BASIC ATTACKS": [
-                    "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
-                    "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +224."
-                ],
-                "YOUR DEFEAT IS CERTAIN": [
-                    "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 0.9 Direct Damage per second.",
-                    "All of Zemo\u2019s personal effects can be inflicted through Block."
-                ],
-                "GRAND MACHINATION": [
-                    "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
-                    "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +6600 for 20 seconds.",
-                    "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
-                ],
-                "RIGHT WHERE I WANT YOU - ROOT": [
-                    "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
-                    "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
-                    "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
-                    "The final hit inflicts an indefinite Bleed Debuff.",
-                    "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
-                    "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
-                ]
-            }
-        },
-        "2+3": {
-            "challenger_rating": 40,
-            "rank": 3,
-            "prestige": 598,
-            "hp": 2419,
-            "attack": 178,
-            "crit_rate": 695,
-            "crit_dmge": 636,
-            "armor": 71,
-            "block_prof": 2447,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Zemo gains +75 to 750 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
-                "When fighting #Heroes, attacks that intercept the Opponent gain +75 to 750 Critical Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/baronzemo/tier/2",
-            "champid": "baronzemo+2+3",
-            "abilities": {
-                "BASIC ATTACKS": [
-                    "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
-                    "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +356."
-                ],
-                "YOUR DEFEAT IS CERTAIN": [
-                    "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 1.42 Direct Damage per second.",
-                    "All of Zemo\u2019s personal effects can be inflicted through Block."
-                ],
-                "GRAND MACHINATION": [
-                    "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
-                    "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +6800 for 20 seconds.",
-                    "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
-                ],
-                "RIGHT WHERE I WANT YOU - ROOT": [
-                    "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
-                    "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
-                    "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
-                    "The final hit inflicts an indefinite Bleed Debuff.",
-                    "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
-                    "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
-                ]
-            }
-        },
-        "3+1": {
-            "challenger_rating": 40,
-            "rank": 1,
-            "prestige": 516,
-            "hp": 2091,
-            "attack": 154,
-            "crit_rate": 695,
-            "crit_dmge": 636,
-            "armor": 71,
-            "block_prof": 2447,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Zemo gains +75 to 750 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
-                "When fighting #Heroes, attacks that intercept the Opponent gain +75 to 750 Critical Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/baronzemo/tier/3",
-            "champid": "baronzemo+3+1",
-            "abilities": {
-                "BASIC ATTACKS": [
-                    "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
-                    "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +308."
-                ],
-                "YOUR DEFEAT IS CERTAIN": [
-                    "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 1.23 Direct Damage per second.",
-                    "All of Zemo\u2019s personal effects can be inflicted through Block."
-                ],
-                "GRAND MACHINATION": [
-                    "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
-                    "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +6800 for 20 seconds.",
-                    "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
-                ],
-                "RIGHT WHERE I WANT YOU - ROOT": [
-                    "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
-                    "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
-                    "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
-                    "The final hit inflicts an indefinite Bleed Debuff.",
-                    "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
-                    "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
-                ]
-            }
-        },
-        "3+2": {
-            "challenger_rating": 50,
-            "rank": 2,
-            "prestige": 826,
-            "hp": 3346,
-            "attack": 246,
-            "crit_rate": 715,
-            "crit_dmge": 654,
-            "armor": 93,
-            "block_prof": 2519,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Zemo gains +75 to 750 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
-                "When fighting #Heroes, attacks that intercept the Opponent gain +75 to 750 Critical Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/baronzemo/tier/3",
-            "champid": "baronzemo+3+2",
-            "abilities": {
-                "BASIC ATTACKS": [
-                    "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
-                    "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +492."
-                ],
-                "YOUR DEFEAT IS CERTAIN": [
-                    "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 1.97 Direct Damage per second.",
-                    "All of Zemo\u2019s personal effects can be inflicted through Block."
-                ],
-                "GRAND MACHINATION": [
-                    "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
-                    "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +7000 for 20 seconds.",
-                    "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
-                ],
-                "RIGHT WHERE I WANT YOU - ROOT": [
-                    "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
-                    "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
-                    "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
-                    "The final hit inflicts an indefinite Bleed Debuff.",
-                    "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
-                    "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
-                ]
-            }
-        },
-        "3+3": {
-            "challenger_rating": 60,
-            "rank": 3,
-            "prestige": 1155,
-            "hp": 4681,
-            "attack": 344,
-            "crit_rate": 736,
-            "crit_dmge": 673,
-            "armor": 115,
-            "block_prof": 2591,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Zemo gains +75 to 750 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
-                "When fighting #Heroes, attacks that intercept the Opponent gain +75 to 750 Critical Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/baronzemo/tier/3",
-            "champid": "baronzemo+3+3",
-            "abilities": {
-                "BASIC ATTACKS": [
-                    "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
-                    "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +688."
-                ],
-                "YOUR DEFEAT IS CERTAIN": [
-                    "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 2.75 Direct Damage per second.",
-                    "All of Zemo\u2019s personal effects can be inflicted through Block."
-                ],
-                "GRAND MACHINATION": [
-                    "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
-                    "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +7200 for 20 seconds.",
-                    "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
-                ],
-                "RIGHT WHERE I WANT YOU - ROOT": [
-                    "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
-                    "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
-                    "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
-                    "The final hit inflicts an indefinite Bleed Debuff.",
-                    "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
-                    "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
-                ]
-            }
-        },
-        "3+4": {
-            "challenger_rating": 70,
-            "rank": 4,
-            "prestige": 1587,
-            "hp": 6427,
-            "attack": 472,
-            "crit_rate": 756,
-            "crit_dmge": 692,
-            "armor": 140,
-            "block_prof": 2663,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Zemo gains +75 to 750 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
-                "When fighting #Heroes, attacks that intercept the Opponent gain +75 to 750 Critical Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/baronzemo/tier/3",
-            "champid": "baronzemo+3+4",
-            "abilities": {
-                "BASIC ATTACKS": [
-                    "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
-                    "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +944."
-                ],
-                "YOUR DEFEAT IS CERTAIN": [
-                    "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 3.78 Direct Damage per second.",
-                    "All of Zemo\u2019s personal effects can be inflicted through Block."
-                ],
-                "GRAND MACHINATION": [
-                    "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
-                    "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +7400 for 20 seconds.",
-                    "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
-                ],
-                "RIGHT WHERE I WANT YOU - ROOT": [
-                    "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
-                    "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
-                    "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
-                    "The final hit inflicts an indefinite Bleed Debuff.",
-                    "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
-                    "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
-                ]
-            }
-        },
-        "4+1": {
-            "challenger_rating": 60,
-            "rank": 1,
-            "prestige": 1156,
-            "hp": 4677,
-            "attack": 343,
-            "crit_rate": 736,
-            "crit_dmge": 673,
-            "armor": 157,
-            "block_prof": 2591,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Zemo gains +75 to 750 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
-                "When fighting #Heroes, attacks that intercept the Opponent gain +75 to 750 Critical Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/baronzemo/tier/4",
-            "champid": "baronzemo+4+1",
-            "abilities": {
-                "BASIC ATTACKS": [
-                    "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
-                    "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +686."
-                ],
-                "YOUR DEFEAT IS CERTAIN": [
-                    "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 2.74 Direct Damage per second.",
-                    "All of Zemo\u2019s personal effects can be inflicted through Block."
-                ],
-                "GRAND MACHINATION": [
-                    "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
-                    "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +7200 for 20 seconds.",
-                    "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
-                ],
-                "RIGHT WHERE I WANT YOU - ROOT": [
-                    "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
-                    "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
-                    "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
-                    "The final hit inflicts an indefinite Bleed Debuff.",
-                    "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
-                    "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
-                ]
-            }
-        },
-        "4+2": {
-            "challenger_rating": 70,
-            "rank": 2,
-            "prestige": 1623,
-            "hp": 6561,
-            "attack": 481,
-            "crit_rate": 756,
-            "crit_dmge": 692,
-            "armor": 183,
-            "block_prof": 2663,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Zemo gains +75 to 750 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
-                "When fighting #Heroes, attacks that intercept the Opponent gain +75 to 750 Critical Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/baronzemo/tier/4",
-            "champid": "baronzemo+4+2",
-            "abilities": {
-                "BASIC ATTACKS": [
-                    "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
-                    "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +962."
-                ],
-                "YOUR DEFEAT IS CERTAIN": [
-                    "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 3.85 Direct Damage per second.",
-                    "All of Zemo\u2019s personal effects can be inflicted through Block."
-                ],
-                "GRAND MACHINATION": [
-                    "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
-                    "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +7400 for 20 seconds.",
-                    "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
-                ],
-                "RIGHT WHERE I WANT YOU - ROOT": [
-                    "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
-                    "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
-                    "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
-                    "The final hit inflicts an indefinite Bleed Debuff.",
-                    "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
-                    "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
-                ]
-            }
-        },
-        "4+3": {
-            "challenger_rating": 80,
-            "rank": 3,
-            "prestige": 2273,
-            "hp": 9192,
-            "attack": 674,
-            "crit_rate": 777,
-            "crit_dmge": 710,
-            "armor": 212,
-            "block_prof": 2735,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Zemo gains +75 to 750 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
-                "When fighting #Heroes, attacks that intercept the Opponent gain +75 to 750 Critical Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/baronzemo/tier/4",
-            "champid": "baronzemo+4+3",
-            "abilities": {
-                "BASIC ATTACKS": [
-                    "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
-                    "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +1348."
-                ],
-                "YOUR DEFEAT IS CERTAIN": [
-                    "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 5.39 Direct Damage per second.",
-                    "All of Zemo\u2019s personal effects can be inflicted through Block."
-                ],
-                "GRAND MACHINATION": [
-                    "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
-                    "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +7600 for 20 seconds.",
-                    "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
-                ],
-                "RIGHT WHERE I WANT YOU - ROOT": [
-                    "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
-                    "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
-                    "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
-                    "The final hit inflicts an indefinite Bleed Debuff.",
-                    "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
-                    "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
-                ]
-            }
-        },
-        "4+4": {
-            "challenger_rating": 90,
-            "rank": 4,
-            "prestige": 2991,
-            "hp": 12078,
-            "attack": 886,
-            "crit_rate": 797,
-            "crit_dmge": 729,
-            "armor": 242,
-            "block_prof": 2807,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Zemo gains +75 to 750 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
-                "When fighting #Heroes, attacks that intercept the Opponent gain +75 to 750 Critical Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/baronzemo/tier/4",
-            "champid": "baronzemo+4+4",
-            "abilities": {
-                "BASIC ATTACKS": [
-                    "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
-                    "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +1772."
-                ],
-                "YOUR DEFEAT IS CERTAIN": [
-                    "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 7.09 Direct Damage per second.",
-                    "All of Zemo\u2019s personal effects can be inflicted through Block."
-                ],
-                "GRAND MACHINATION": [
-                    "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
-                    "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +7800 for 20 seconds.",
-                    "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
-                ],
-                "RIGHT WHERE I WANT YOU - ROOT": [
-                    "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
-                    "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
-                    "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
-                    "The final hit inflicts an indefinite Bleed Debuff.",
-                    "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
-                    "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
-                ]
-            }
-        },
-        "4+5": {
-            "challenger_rating": 100,
-            "rank": 5,
-            "prestige": 3991,
-            "hp": 16116,
-            "attack": 1182,
-            "crit_rate": 817,
-            "crit_dmge": 748,
-            "armor": 273,
-            "block_prof": 2879,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Zemo gains +75 to 750 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
-                "When fighting #Heroes, attacks that intercept the Opponent gain +75 to 750 Critical Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/baronzemo/tier/4",
-            "champid": "baronzemo+4+5",
-            "abilities": {
-                "BASIC ATTACKS": [
-                    "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
-                    "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +2364."
-                ],
-                "YOUR DEFEAT IS CERTAIN": [
-                    "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 9.46 Direct Damage per second.",
-                    "All of Zemo\u2019s personal effects can be inflicted through Block."
-                ],
-                "GRAND MACHINATION": [
-                    "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
-                    "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +8000 for 20 seconds.",
-                    "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
-                ],
-                "RIGHT WHERE I WANT YOU - ROOT": [
-                    "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
-                    "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
-                    "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
-                    "The final hit inflicts an indefinite Bleed Debuff.",
-                    "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
-                    "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
-                ]
-            }
-        },
-        "5+1": {
-            "challenger_rating": 80,
-            "rank": 1,
-            "prestige": 2386,
-            "hp": 9618,
-            "attack": 705,
-            "crit_rate": 777,
-            "crit_dmge": 710,
-            "armor": 362,
-            "block_prof": 2735,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Zemo gains +100 to 1000 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
-                "When fighting #Heroes, attacks that intercept the Opponent gain +100 to 1000 Critical Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/baronzemo/tier/5",
-            "champid": "baronzemo+5+1",
-            "abilities": {
-                "BASIC ATTACKS": [
-                    "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
-                    "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +1410."
-                ],
-                "YOUR DEFEAT IS CERTAIN": [
-                    "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 5.64 Direct Damage per second.",
-                    "All of Zemo\u2019s personal effects can be inflicted through Block."
-                ],
-                "GRAND MACHINATION": [
-                    "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
-                    "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +7600 for 20 seconds.",
-                    "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
-                ],
-                "RIGHT WHERE I WANT YOU - ROOT": [
-                    "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
-                    "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
-                    "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
-                    "The final hit inflicts an indefinite Bleed Debuff.",
-                    "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
-                    "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
-                ]
-            }
-        },
-        "5+2": {
-            "challenger_rating": 90,
-            "rank": 2,
-            "prestige": 3154,
-            "hp": 12704,
-            "attack": 932,
-            "crit_rate": 797,
-            "crit_dmge": 729,
-            "armor": 400,
-            "block_prof": 2807,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Zemo gains +100 to 1000 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
-                "When fighting #Heroes, attacks that intercept the Opponent gain +100 to 1000 Critical Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/baronzemo/tier/5",
-            "champid": "baronzemo+5+2",
-            "abilities": {
-                "BASIC ATTACKS": [
-                    "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
-                    "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +1864."
-                ],
-                "YOUR DEFEAT IS CERTAIN": [
-                    "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 7.46 Direct Damage per second.",
-                    "All of Zemo\u2019s personal effects can be inflicted through Block."
-                ],
-                "GRAND MACHINATION": [
-                    "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
-                    "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +7800 for 20 seconds.",
-                    "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
-                ],
-                "RIGHT WHERE I WANT YOU - ROOT": [
-                    "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
-                    "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
-                    "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
-                    "The final hit inflicts an indefinite Bleed Debuff.",
-                    "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
-                    "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
-                ]
-            }
-        },
-        "5+3": {
-            "challenger_rating": 100,
-            "rank": 3,
-            "prestige": 4414,
-            "hp": 17760,
-            "attack": 1302,
-            "crit_rate": 817,
-            "crit_dmge": 748,
-            "armor": 440,
-            "block_prof": 2879,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Zemo gains +100 to 1000 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
-                "When fighting #Heroes, attacks that intercept the Opponent gain +100 to 1000 Critical Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/baronzemo/tier/5",
-            "champid": "baronzemo+5+3",
-            "abilities": {
-                "BASIC ATTACKS": [
-                    "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
-                    "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +2604."
-                ],
-                "YOUR DEFEAT IS CERTAIN": [
-                    "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 10.42 Direct Damage per second.",
-                    "All of Zemo\u2019s personal effects can be inflicted through Block."
-                ],
-                "GRAND MACHINATION": [
-                    "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
-                    "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +8000 for 20 seconds.",
-                    "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
-                ],
-                "RIGHT WHERE I WANT YOU - ROOT": [
-                    "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
-                    "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
-                    "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
-                    "The final hit inflicts an indefinite Bleed Debuff.",
-                    "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
-                    "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
-                ]
-            }
-        },
-        "5+4": {
-            "challenger_rating": 110,
-            "rank": 4,
-            "prestige": 5948,
-            "hp": 23933,
-            "attack": 1755,
-            "crit_rate": 838,
-            "crit_dmge": 766,
-            "armor": 481,
-            "block_prof": 2950,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Zemo gains +100 to 1000 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
-                "When fighting #Heroes, attacks that intercept the Opponent gain +100 to 1000 Critical Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/baronzemo/tier/5",
-            "champid": "baronzemo+5+4",
-            "abilities": {
-                "BASIC ATTACKS": [
-                    "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
-                    "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +3510."
-                ],
-                "YOUR DEFEAT IS CERTAIN": [
-                    "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 14.04 Direct Damage per second.",
-                    "All of Zemo\u2019s personal effects can be inflicted through Block."
-                ],
-                "GRAND MACHINATION": [
-                    "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
-                    "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +8200 for 20 seconds.",
-                    "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
-                ],
-                "RIGHT WHERE I WANT YOU - ROOT": [
-                    "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
-                    "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
-                    "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
-                    "The final hit inflicts an indefinite Bleed Debuff.",
-                    "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
-                    "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
-                ]
-            }
-        },
-        "5+5": {
-            "challenger_rating": 120,
-            "rank": 5,
-            "prestige": 8046,
-            "hp": 32313,
-            "attack": 2369,
-            "crit_rate": 858,
-            "crit_dmge": 785,
-            "armor": 525,
-            "block_prof": 3022,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Zemo gains +100 to 1000 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
-                "When fighting #Heroes, attacks that intercept the Opponent gain +100 to 1000 Critical Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/baronzemo/tier/5",
-            "champid": "baronzemo+5+5",
-            "abilities": {
-                "BASIC ATTACKS": [
-                    "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
-                    "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +4738."
-                ],
-                "YOUR DEFEAT IS CERTAIN": [
-                    "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 18.95 Direct Damage per second.",
-                    "All of Zemo\u2019s personal effects can be inflicted through Block."
-                ],
-                "GRAND MACHINATION": [
-                    "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
-                    "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +8400 for 20 seconds.",
-                    "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
-                ],
-                "RIGHT WHERE I WANT YOU - ROOT": [
-                    "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
-                    "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
-                    "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
-                    "The final hit inflicts an indefinite Bleed Debuff.",
-                    "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
-                    "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
-                ]
-            }
-        },
-        "6+1": {
-            "challenger_rating": 110,
-            "rank": 1,
-            "prestige": 6302,
-            "hp": 25408,
-            "attack": 1863,
-            "crit_rate": 838,
-            "crit_dmge": 766,
-            "armor": 391,
-            "block_prof": 2950,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Zemo gains +100 to 1000 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
-                "When fighting #Heroes, attacks that intercept the Opponent gain +100 to 1000 Critical Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/baronzemo/tier/6",
-            "champid": "baronzemo+6+1",
-            "abilities": {
-                "BASIC ATTACKS": [
-                    "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
-                    "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +3726."
-                ],
-                "YOUR DEFEAT IS CERTAIN": [
-                    "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 14.9 Direct Damage per second.",
-                    "All of Zemo\u2019s personal effects can be inflicted through Block."
-                ],
-                "GRAND MACHINATION": [
-                    "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
-                    "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +8200 for 20 seconds.",
-                    "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
-                ],
-                "RIGHT WHERE I WANT YOU - ROOT": [
-                    "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
-                    "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
-                    "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
-                    "The final hit inflicts an indefinite Bleed Debuff.",
-                    "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
-                    "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
-                ]
-            }
-        },
-        "6+2": {
-            "challenger_rating": 120,
-            "rank": 2,
-            "prestige": 8705,
-            "hp": 35096,
-            "attack": 2573,
-            "crit_rate": 858,
-            "crit_dmge": 785,
-            "armor": 431,
-            "block_prof": 3022,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Zemo gains +100 to 1000 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
-                "When fighting #Heroes, attacks that intercept the Opponent gain +100 to 1000 Critical Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/baronzemo/tier/6",
-            "champid": "baronzemo+6+2",
-            "abilities": {
-                "BASIC ATTACKS": [
-                    "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
-                    "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +5146."
-                ],
-                "YOUR DEFEAT IS CERTAIN": [
-                    "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 20.58 Direct Damage per second.",
-                    "All of Zemo\u2019s personal effects can be inflicted through Block."
-                ],
-                "GRAND MACHINATION": [
-                    "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
-                    "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +8400 for 20 seconds.",
-                    "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
-                ],
-                "RIGHT WHERE I WANT YOU - ROOT": [
-                    "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
-                    "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
-                    "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
-                    "The final hit inflicts an indefinite Bleed Debuff.",
-                    "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
-                    "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
-                ]
-            }
-        },
-        "6+3": {
-            "challenger_rating": 130,
-            "rank": 3,
-            "prestige": 10344,
-            "hp": 41636,
-            "attack": 3052,
-            "crit_rate": 879,
-            "crit_dmge": 804,
-            "armor": 472,
-            "block_prof": 3094,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Zemo gains +100 to 1000 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
-                "When fighting #Heroes, attacks that intercept the Opponent gain +100 to 1000 Critical Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/baronzemo/tier/6",
-            "champid": "baronzemo+6+3",
-            "abilities": {
-                "BASIC ATTACKS": [
-                    "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
-                    "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +6104."
-                ],
-                "YOUR DEFEAT IS CERTAIN": [
-                    "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 24.42 Direct Damage per second.",
-                    "All of Zemo\u2019s personal effects can be inflicted through Block."
-                ],
-                "GRAND MACHINATION": [
-                    "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
-                    "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +8600 for 20 seconds.",
-                    "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
-                ],
-                "RIGHT WHERE I WANT YOU - ROOT": [
-                    "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
-                    "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
-                    "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
-                    "The final hit inflicts an indefinite Bleed Debuff.",
-                    "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
-                    "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
-                ]
-            }
-        },
-        "6+4": {
-            "challenger_rating": 140,
-            "rank": 4,
-            "prestige": 11838,
-            "hp": 47646,
-            "attack": 3493,
-            "crit_rate": 899,
-            "crit_dmge": 822,
-            "armor": 517,
-            "block_prof": 3166,
-            "energy_resist": 0,
-            "physical_resist": 0,
-            "crit_resist": 0,
-            "sig_info": [
-                "Zemo gains +100 to 1000 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
-                "When fighting #Heroes, attacks that intercept the Opponent gain +100 to 1000 Critical Rating."
-            ],
-            "url_page": "https://auntm.ai/champions/baronzemo/tier/6",
-            "champid": "baronzemo+6+4",
-            "abilities": {
-                "BASIC ATTACKS": [
-                    "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
-                    "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +6986."
-                ],
-                "YOUR DEFEAT IS CERTAIN": [
-                    "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 27.94 Direct Damage per second.",
-                    "All of Zemo\u2019s personal effects can be inflicted through Block."
-                ],
-                "GRAND MACHINATION": [
-                    "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
-                    "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +8800 for 20 seconds.",
-                    "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
-                ],
-                "RIGHT WHERE I WANT YOU - ROOT": [
-                    "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
-                    "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
-                    "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
-                    "The final hit inflicts an indefinite Bleed Debuff.",
-                    "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
-                    "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
-                ]
-            }
-        },
-        "find": {
-            "story_quests": {
-                "act_1": [],
-                "act_2": [],
-                "act_3": [],
-                "act_4": [],
-                "act_5": [],
-                "act_6": [],
-                "act_7": []
-            }
-        }
+  "data": {
+    "1+1": {
+      "challenger_rating": 10,
+      "rank": 1,
+      "prestige": 223,
+      "hp": 904,
+      "attack": 67,
+      "crit_rate": 634,
+      "crit_dmge": 580,
+      "armor": 0,
+      "block_prof": 2231,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [],
+      "url_page": "https://auntm.ai/champions/baronzemo/tier/1",
+      "champid": "baronzemo+1+1",
+      "abilities": {
+        "BASIC ATTACKS": [
+          "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
+          "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +134."
+        ],
+        "YOUR DEFEAT IS CERTAIN": [
+          "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 0.54 Direct Damage per second.",
+          "All of Zemo\u2019s personal effects can be inflicted through Block."
+        ],
+        "GRAND MACHINATION": [
+          "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
+          "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +6200 for 20 seconds.",
+          "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
+        ],
+        "RIGHT WHERE I WANT YOU - ROOT": [
+          "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
+          "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
+          "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
+          "The final hit inflicts an indefinite Bleed Debuff.",
+          "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
+          "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
+        ]
+      }
+    },
+    "1+2": {
+      "challenger_rating": 20,
+      "rank": 2,
+      "prestige": 309,
+      "hp": 1250,
+      "attack": 92,
+      "crit_rate": 654,
+      "crit_dmge": 598,
+      "armor": 0,
+      "block_prof": 2303,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [],
+      "url_page": "https://auntm.ai/champions/baronzemo/tier/1",
+      "champid": "baronzemo+1+2"
+    },
+    "2+1": {
+      "challenger_rating": 20,
+      "rank": 1,
+      "prestige": 286,
+      "hp": 1154,
+      "attack": 85,
+      "crit_rate": 654,
+      "crit_dmge": 598,
+      "armor": 33,
+      "block_prof": 2303,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Zemo gains +75 to 750 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
+        "When fighting #Heroes, attacks that intercept the Opponent gain +75 to 750 Critical Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/baronzemo/tier/2",
+      "champid": "baronzemo+2+1",
+      "abilities": {
+        "BASIC ATTACKS": [
+          "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
+          "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +170."
+        ],
+        "YOUR DEFEAT IS CERTAIN": [
+          "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 0.68 Direct Damage per second.",
+          "All of Zemo\u2019s personal effects can be inflicted through Block."
+        ],
+        "GRAND MACHINATION": [
+          "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
+          "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +6400 for 20 seconds.",
+          "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
+        ],
+        "RIGHT WHERE I WANT YOU - ROOT": [
+          "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
+          "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
+          "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
+          "The final hit inflicts an indefinite Bleed Debuff.",
+          "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
+          "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
+        ]
+      }
+    },
+    "2+2": {
+      "challenger_rating": 30,
+      "rank": 2,
+      "prestige": 376,
+      "hp": 1524,
+      "attack": 112,
+      "crit_rate": 674,
+      "crit_dmge": 617,
+      "armor": 52,
+      "block_prof": 2375,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Zemo gains +75 to 750 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
+        "When fighting #Heroes, attacks that intercept the Opponent gain +75 to 750 Critical Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/baronzemo/tier/2",
+      "champid": "baronzemo+2+2",
+      "abilities": {
+        "BASIC ATTACKS": [
+          "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
+          "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +224."
+        ],
+        "YOUR DEFEAT IS CERTAIN": [
+          "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 0.9 Direct Damage per second.",
+          "All of Zemo\u2019s personal effects can be inflicted through Block."
+        ],
+        "GRAND MACHINATION": [
+          "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
+          "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +6600 for 20 seconds.",
+          "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
+        ],
+        "RIGHT WHERE I WANT YOU - ROOT": [
+          "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
+          "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
+          "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
+          "The final hit inflicts an indefinite Bleed Debuff.",
+          "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
+          "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
+        ]
+      }
+    },
+    "2+3": {
+      "challenger_rating": 40,
+      "rank": 3,
+      "prestige": 598,
+      "hp": 2419,
+      "attack": 178,
+      "crit_rate": 695,
+      "crit_dmge": 636,
+      "armor": 71,
+      "block_prof": 2447,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Zemo gains +75 to 750 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
+        "When fighting #Heroes, attacks that intercept the Opponent gain +75 to 750 Critical Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/baronzemo/tier/2",
+      "champid": "baronzemo+2+3",
+      "abilities": {
+        "BASIC ATTACKS": [
+          "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
+          "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +356."
+        ],
+        "YOUR DEFEAT IS CERTAIN": [
+          "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 1.42 Direct Damage per second.",
+          "All of Zemo\u2019s personal effects can be inflicted through Block."
+        ],
+        "GRAND MACHINATION": [
+          "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
+          "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +6800 for 20 seconds.",
+          "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
+        ],
+        "RIGHT WHERE I WANT YOU - ROOT": [
+          "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
+          "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
+          "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
+          "The final hit inflicts an indefinite Bleed Debuff.",
+          "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
+          "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
+        ]
+      }
+    },
+    "3+1": {
+      "challenger_rating": 40,
+      "rank": 1,
+      "prestige": 516,
+      "hp": 2091,
+      "attack": 154,
+      "crit_rate": 695,
+      "crit_dmge": 636,
+      "armor": 71,
+      "block_prof": 2447,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Zemo gains +75 to 750 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
+        "When fighting #Heroes, attacks that intercept the Opponent gain +75 to 750 Critical Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/baronzemo/tier/3",
+      "champid": "baronzemo+3+1",
+      "abilities": {
+        "BASIC ATTACKS": [
+          "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
+          "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +308."
+        ],
+        "YOUR DEFEAT IS CERTAIN": [
+          "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 1.23 Direct Damage per second.",
+          "All of Zemo\u2019s personal effects can be inflicted through Block."
+        ],
+        "GRAND MACHINATION": [
+          "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
+          "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +6800 for 20 seconds.",
+          "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
+        ],
+        "RIGHT WHERE I WANT YOU - ROOT": [
+          "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
+          "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
+          "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
+          "The final hit inflicts an indefinite Bleed Debuff.",
+          "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
+          "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
+        ]
+      }
+    },
+    "3+2": {
+      "challenger_rating": 50,
+      "rank": 2,
+      "prestige": 826,
+      "hp": 3346,
+      "attack": 246,
+      "crit_rate": 715,
+      "crit_dmge": 654,
+      "armor": 93,
+      "block_prof": 2519,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Zemo gains +75 to 750 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
+        "When fighting #Heroes, attacks that intercept the Opponent gain +75 to 750 Critical Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/baronzemo/tier/3",
+      "champid": "baronzemo+3+2",
+      "abilities": {
+        "BASIC ATTACKS": [
+          "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
+          "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +492."
+        ],
+        "YOUR DEFEAT IS CERTAIN": [
+          "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 1.97 Direct Damage per second.",
+          "All of Zemo\u2019s personal effects can be inflicted through Block."
+        ],
+        "GRAND MACHINATION": [
+          "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
+          "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +7000 for 20 seconds.",
+          "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
+        ],
+        "RIGHT WHERE I WANT YOU - ROOT": [
+          "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
+          "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
+          "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
+          "The final hit inflicts an indefinite Bleed Debuff.",
+          "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
+          "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
+        ]
+      }
+    },
+    "3+3": {
+      "challenger_rating": 60,
+      "rank": 3,
+      "prestige": 1155,
+      "hp": 4681,
+      "attack": 344,
+      "crit_rate": 736,
+      "crit_dmge": 673,
+      "armor": 115,
+      "block_prof": 2591,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Zemo gains +75 to 750 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
+        "When fighting #Heroes, attacks that intercept the Opponent gain +75 to 750 Critical Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/baronzemo/tier/3",
+      "champid": "baronzemo+3+3",
+      "abilities": {
+        "BASIC ATTACKS": [
+          "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
+          "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +688."
+        ],
+        "YOUR DEFEAT IS CERTAIN": [
+          "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 2.75 Direct Damage per second.",
+          "All of Zemo\u2019s personal effects can be inflicted through Block."
+        ],
+        "GRAND MACHINATION": [
+          "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
+          "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +7200 for 20 seconds.",
+          "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
+        ],
+        "RIGHT WHERE I WANT YOU - ROOT": [
+          "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
+          "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
+          "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
+          "The final hit inflicts an indefinite Bleed Debuff.",
+          "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
+          "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
+        ]
+      }
+    },
+    "3+4": {
+      "challenger_rating": 70,
+      "rank": 4,
+      "prestige": 1587,
+      "hp": 6427,
+      "attack": 472,
+      "crit_rate": 756,
+      "crit_dmge": 692,
+      "armor": 140,
+      "block_prof": 2663,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Zemo gains +75 to 750 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
+        "When fighting #Heroes, attacks that intercept the Opponent gain +75 to 750 Critical Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/baronzemo/tier/3",
+      "champid": "baronzemo+3+4",
+      "abilities": {
+        "BASIC ATTACKS": [
+          "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
+          "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +944."
+        ],
+        "YOUR DEFEAT IS CERTAIN": [
+          "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 3.78 Direct Damage per second.",
+          "All of Zemo\u2019s personal effects can be inflicted through Block."
+        ],
+        "GRAND MACHINATION": [
+          "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
+          "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +7400 for 20 seconds.",
+          "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
+        ],
+        "RIGHT WHERE I WANT YOU - ROOT": [
+          "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
+          "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
+          "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
+          "The final hit inflicts an indefinite Bleed Debuff.",
+          "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
+          "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
+        ]
+      }
+    },
+    "4+1": {
+      "challenger_rating": 60,
+      "rank": 1,
+      "prestige": 1156,
+      "hp": 4677,
+      "attack": 343,
+      "crit_rate": 736,
+      "crit_dmge": 673,
+      "armor": 157,
+      "block_prof": 2591,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Zemo gains +75 to 750 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
+        "When fighting #Heroes, attacks that intercept the Opponent gain +75 to 750 Critical Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/baronzemo/tier/4",
+      "champid": "baronzemo+4+1",
+      "abilities": {
+        "BASIC ATTACKS": [
+          "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
+          "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +686."
+        ],
+        "YOUR DEFEAT IS CERTAIN": [
+          "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 2.74 Direct Damage per second.",
+          "All of Zemo\u2019s personal effects can be inflicted through Block."
+        ],
+        "GRAND MACHINATION": [
+          "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
+          "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +7200 for 20 seconds.",
+          "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
+        ],
+        "RIGHT WHERE I WANT YOU - ROOT": [
+          "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
+          "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
+          "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
+          "The final hit inflicts an indefinite Bleed Debuff.",
+          "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
+          "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
+        ]
+      }
+    },
+    "4+2": {
+      "challenger_rating": 70,
+      "rank": 2,
+      "prestige": 1623,
+      "hp": 6561,
+      "attack": 481,
+      "crit_rate": 756,
+      "crit_dmge": 692,
+      "armor": 183,
+      "block_prof": 2663,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Zemo gains +75 to 750 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
+        "When fighting #Heroes, attacks that intercept the Opponent gain +75 to 750 Critical Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/baronzemo/tier/4",
+      "champid": "baronzemo+4+2",
+      "abilities": {
+        "BASIC ATTACKS": [
+          "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
+          "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +962."
+        ],
+        "YOUR DEFEAT IS CERTAIN": [
+          "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 3.85 Direct Damage per second.",
+          "All of Zemo\u2019s personal effects can be inflicted through Block."
+        ],
+        "GRAND MACHINATION": [
+          "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
+          "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +7400 for 20 seconds.",
+          "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
+        ],
+        "RIGHT WHERE I WANT YOU - ROOT": [
+          "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
+          "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
+          "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
+          "The final hit inflicts an indefinite Bleed Debuff.",
+          "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
+          "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
+        ]
+      }
+    },
+    "4+3": {
+      "challenger_rating": 80,
+      "rank": 3,
+      "prestige": 2273,
+      "hp": 9192,
+      "attack": 674,
+      "crit_rate": 777,
+      "crit_dmge": 710,
+      "armor": 212,
+      "block_prof": 2735,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Zemo gains +75 to 750 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
+        "When fighting #Heroes, attacks that intercept the Opponent gain +75 to 750 Critical Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/baronzemo/tier/4",
+      "champid": "baronzemo+4+3",
+      "abilities": {
+        "BASIC ATTACKS": [
+          "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
+          "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +1348."
+        ],
+        "YOUR DEFEAT IS CERTAIN": [
+          "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 5.39 Direct Damage per second.",
+          "All of Zemo\u2019s personal effects can be inflicted through Block."
+        ],
+        "GRAND MACHINATION": [
+          "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
+          "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +7600 for 20 seconds.",
+          "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
+        ],
+        "RIGHT WHERE I WANT YOU - ROOT": [
+          "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
+          "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
+          "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
+          "The final hit inflicts an indefinite Bleed Debuff.",
+          "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
+          "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
+        ]
+      }
+    },
+    "4+4": {
+      "challenger_rating": 90,
+      "rank": 4,
+      "prestige": 2991,
+      "hp": 12078,
+      "attack": 886,
+      "crit_rate": 797,
+      "crit_dmge": 729,
+      "armor": 242,
+      "block_prof": 2807,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Zemo gains +75 to 750 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
+        "When fighting #Heroes, attacks that intercept the Opponent gain +75 to 750 Critical Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/baronzemo/tier/4",
+      "champid": "baronzemo+4+4",
+      "abilities": {
+        "BASIC ATTACKS": [
+          "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
+          "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +1772."
+        ],
+        "YOUR DEFEAT IS CERTAIN": [
+          "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 7.09 Direct Damage per second.",
+          "All of Zemo\u2019s personal effects can be inflicted through Block."
+        ],
+        "GRAND MACHINATION": [
+          "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
+          "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +7800 for 20 seconds.",
+          "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
+        ],
+        "RIGHT WHERE I WANT YOU - ROOT": [
+          "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
+          "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
+          "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
+          "The final hit inflicts an indefinite Bleed Debuff.",
+          "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
+          "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
+        ]
+      }
+    },
+    "4+5": {
+      "challenger_rating": 100,
+      "rank": 5,
+      "prestige": 3991,
+      "hp": 16116,
+      "attack": 1182,
+      "crit_rate": 817,
+      "crit_dmge": 748,
+      "armor": 273,
+      "block_prof": 2879,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Zemo gains +75 to 750 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
+        "When fighting #Heroes, attacks that intercept the Opponent gain +75 to 750 Critical Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/baronzemo/tier/4",
+      "champid": "baronzemo+4+5",
+      "abilities": {
+        "BASIC ATTACKS": [
+          "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
+          "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +2364."
+        ],
+        "YOUR DEFEAT IS CERTAIN": [
+          "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 9.46 Direct Damage per second.",
+          "All of Zemo\u2019s personal effects can be inflicted through Block."
+        ],
+        "GRAND MACHINATION": [
+          "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
+          "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +8000 for 20 seconds.",
+          "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
+        ],
+        "RIGHT WHERE I WANT YOU - ROOT": [
+          "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
+          "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
+          "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
+          "The final hit inflicts an indefinite Bleed Debuff.",
+          "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
+          "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
+        ]
+      }
+    },
+    "5+1": {
+      "challenger_rating": 80,
+      "rank": 1,
+      "prestige": 2386,
+      "hp": 9618,
+      "attack": 705,
+      "crit_rate": 777,
+      "crit_dmge": 710,
+      "armor": 362,
+      "block_prof": 2735,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Zemo gains +100 to 1000 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
+        "When fighting #Heroes, attacks that intercept the Opponent gain +100 to 1000 Critical Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/baronzemo/tier/5",
+      "champid": "baronzemo+5+1",
+      "abilities": {
+        "BASIC ATTACKS": [
+          "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
+          "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +1410."
+        ],
+        "YOUR DEFEAT IS CERTAIN": [
+          "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 5.64 Direct Damage per second.",
+          "All of Zemo\u2019s personal effects can be inflicted through Block."
+        ],
+        "GRAND MACHINATION": [
+          "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
+          "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +7600 for 20 seconds.",
+          "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
+        ],
+        "RIGHT WHERE I WANT YOU - ROOT": [
+          "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
+          "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
+          "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
+          "The final hit inflicts an indefinite Bleed Debuff.",
+          "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
+          "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
+        ]
+      }
+    },
+    "5+2": {
+      "challenger_rating": 90,
+      "rank": 2,
+      "prestige": 3154,
+      "hp": 12704,
+      "attack": 932,
+      "crit_rate": 797,
+      "crit_dmge": 729,
+      "armor": 400,
+      "block_prof": 2807,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Zemo gains +100 to 1000 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
+        "When fighting #Heroes, attacks that intercept the Opponent gain +100 to 1000 Critical Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/baronzemo/tier/5",
+      "champid": "baronzemo+5+2",
+      "abilities": {
+        "BASIC ATTACKS": [
+          "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
+          "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +1864."
+        ],
+        "YOUR DEFEAT IS CERTAIN": [
+          "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 7.46 Direct Damage per second.",
+          "All of Zemo\u2019s personal effects can be inflicted through Block."
+        ],
+        "GRAND MACHINATION": [
+          "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
+          "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +7800 for 20 seconds.",
+          "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
+        ],
+        "RIGHT WHERE I WANT YOU - ROOT": [
+          "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
+          "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
+          "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
+          "The final hit inflicts an indefinite Bleed Debuff.",
+          "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
+          "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
+        ]
+      }
+    },
+    "5+3": {
+      "challenger_rating": 100,
+      "rank": 3,
+      "prestige": 4414,
+      "hp": 17760,
+      "attack": 1302,
+      "crit_rate": 817,
+      "crit_dmge": 748,
+      "armor": 440,
+      "block_prof": 2879,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Zemo gains +100 to 1000 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
+        "When fighting #Heroes, attacks that intercept the Opponent gain +100 to 1000 Critical Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/baronzemo/tier/5",
+      "champid": "baronzemo+5+3",
+      "abilities": {
+        "BASIC ATTACKS": [
+          "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
+          "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +2604."
+        ],
+        "YOUR DEFEAT IS CERTAIN": [
+          "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 10.42 Direct Damage per second.",
+          "All of Zemo\u2019s personal effects can be inflicted through Block."
+        ],
+        "GRAND MACHINATION": [
+          "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
+          "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +8000 for 20 seconds.",
+          "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
+        ],
+        "RIGHT WHERE I WANT YOU - ROOT": [
+          "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
+          "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
+          "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
+          "The final hit inflicts an indefinite Bleed Debuff.",
+          "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
+          "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
+        ]
+      }
+    },
+    "5+4": {
+      "challenger_rating": 110,
+      "rank": 4,
+      "prestige": 5948,
+      "hp": 23933,
+      "attack": 1755,
+      "crit_rate": 838,
+      "crit_dmge": 766,
+      "armor": 481,
+      "block_prof": 2950,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Zemo gains +100 to 1000 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
+        "When fighting #Heroes, attacks that intercept the Opponent gain +100 to 1000 Critical Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/baronzemo/tier/5",
+      "champid": "baronzemo+5+4",
+      "abilities": {
+        "BASIC ATTACKS": [
+          "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
+          "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +3510."
+        ],
+        "YOUR DEFEAT IS CERTAIN": [
+          "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 14.04 Direct Damage per second.",
+          "All of Zemo\u2019s personal effects can be inflicted through Block."
+        ],
+        "GRAND MACHINATION": [
+          "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
+          "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +8200 for 20 seconds.",
+          "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
+        ],
+        "RIGHT WHERE I WANT YOU - ROOT": [
+          "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
+          "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
+          "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
+          "The final hit inflicts an indefinite Bleed Debuff.",
+          "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
+          "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
+        ]
+      }
+    },
+    "5+5": {
+      "challenger_rating": 120,
+      "rank": 5,
+      "prestige": 8046,
+      "hp": 32313,
+      "attack": 2369,
+      "crit_rate": 858,
+      "crit_dmge": 785,
+      "armor": 525,
+      "block_prof": 3022,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Zemo gains +100 to 1000 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
+        "When fighting #Heroes, attacks that intercept the Opponent gain +100 to 1000 Critical Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/baronzemo/tier/5",
+      "champid": "baronzemo+5+5",
+      "abilities": {
+        "BASIC ATTACKS": [
+          "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
+          "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +4738."
+        ],
+        "YOUR DEFEAT IS CERTAIN": [
+          "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 18.95 Direct Damage per second.",
+          "All of Zemo\u2019s personal effects can be inflicted through Block."
+        ],
+        "GRAND MACHINATION": [
+          "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
+          "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +8400 for 20 seconds.",
+          "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
+        ],
+        "RIGHT WHERE I WANT YOU - ROOT": [
+          "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
+          "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
+          "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
+          "The final hit inflicts an indefinite Bleed Debuff.",
+          "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
+          "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
+        ]
+      }
+    },
+    "6+1": {
+      "challenger_rating": 110,
+      "rank": 1,
+      "prestige": 6302,
+      "hp": 25408,
+      "attack": 1863,
+      "crit_rate": 838,
+      "crit_dmge": 766,
+      "armor": 391,
+      "block_prof": 2950,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Zemo gains +100 to 1000 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
+        "When fighting #Heroes, attacks that intercept the Opponent gain +100 to 1000 Critical Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/baronzemo/tier/6",
+      "champid": "baronzemo+6+1",
+      "abilities": {
+        "BASIC ATTACKS": [
+          "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
+          "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +3726."
+        ],
+        "YOUR DEFEAT IS CERTAIN": [
+          "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 14.9 Direct Damage per second.",
+          "All of Zemo\u2019s personal effects can be inflicted through Block."
+        ],
+        "GRAND MACHINATION": [
+          "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
+          "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +8200 for 20 seconds.",
+          "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
+        ],
+        "RIGHT WHERE I WANT YOU - ROOT": [
+          "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
+          "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
+          "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
+          "The final hit inflicts an indefinite Bleed Debuff.",
+          "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
+          "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
+        ]
+      }
+    },
+    "6+2": {
+      "challenger_rating": 120,
+      "rank": 2,
+      "prestige": 8705,
+      "hp": 35096,
+      "attack": 2573,
+      "crit_rate": 858,
+      "crit_dmge": 785,
+      "armor": 431,
+      "block_prof": 3022,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Zemo gains +100 to 1000 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
+        "When fighting #Heroes, attacks that intercept the Opponent gain +100 to 1000 Critical Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/baronzemo/tier/6",
+      "champid": "baronzemo+6+2",
+      "abilities": {
+        "BASIC ATTACKS": [
+          "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
+          "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +5146."
+        ],
+        "YOUR DEFEAT IS CERTAIN": [
+          "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 20.58 Direct Damage per second.",
+          "All of Zemo\u2019s personal effects can be inflicted through Block."
+        ],
+        "GRAND MACHINATION": [
+          "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
+          "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +8400 for 20 seconds.",
+          "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
+        ],
+        "RIGHT WHERE I WANT YOU - ROOT": [
+          "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
+          "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
+          "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
+          "The final hit inflicts an indefinite Bleed Debuff.",
+          "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
+          "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
+        ]
+      }
+    },
+    "6+3": {
+      "challenger_rating": 130,
+      "rank": 3,
+      "prestige": 10344,
+      "hp": 41636,
+      "attack": 3052,
+      "crit_rate": 879,
+      "crit_dmge": 804,
+      "armor": 472,
+      "block_prof": 3094,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Zemo gains +100 to 1000 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
+        "When fighting #Heroes, attacks that intercept the Opponent gain +100 to 1000 Critical Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/baronzemo/tier/6",
+      "champid": "baronzemo+6+3",
+      "abilities": {
+        "BASIC ATTACKS": [
+          "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
+          "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +6104."
+        ],
+        "YOUR DEFEAT IS CERTAIN": [
+          "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 24.42 Direct Damage per second.",
+          "All of Zemo\u2019s personal effects can be inflicted through Block."
+        ],
+        "GRAND MACHINATION": [
+          "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
+          "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +8600 for 20 seconds.",
+          "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
+        ],
+        "RIGHT WHERE I WANT YOU - ROOT": [
+          "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
+          "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
+          "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
+          "The final hit inflicts an indefinite Bleed Debuff.",
+          "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
+          "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
+        ]
+      }
+    },
+    "6+4": {
+      "challenger_rating": 140,
+      "rank": 4,
+      "prestige": 11838,
+      "hp": 47646,
+      "attack": 3493,
+      "crit_rate": 899,
+      "crit_dmge": 822,
+      "armor": 517,
+      "block_prof": 3166,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": [
+        "Zemo gains +100 to 1000 Critical Damage Rating and can perform Critical Hits through the Opponent's Block.",
+        "When fighting #Heroes, attacks that intercept the Opponent gain +100 to 1000 Critical Rating."
+      ],
+      "url_page": "https://auntm.ai/champions/baronzemo/tier/6",
+      "champid": "baronzemo+6+4",
+      "abilities": {
+        "BASIC ATTACKS": [
+          "For Zemo\u2019s Medium Attacks, he wields a gun. These attacks do not make contact.",
+          "Whenever the Opponent Purifies a Debuff or is Immune to an effect, Zemo gains a Fury Buff increasing the Attack Rating of his next hit by +6986."
+        ],
+        "YOUR DEFEAT IS CERTAIN": [
+          "Zemo\u2019s personal Bleeds are indefinite Debuffs that deal 27.94 Direct Damage per second.",
+          "All of Zemo\u2019s personal effects can be inflicted through Block."
+        ],
+        "GRAND MACHINATION": [
+          "Enter each fight with 5 indefinite Cleanse Passives. Zemo\u2019s Cleanses can\u2019t Purify Stun Debuffs.",
+          "When Zemo runs out of Cleanses, he inflicts a Root Passive on the Opponent for 5 seconds and gains an Armor Up Buff increasing his Armor Rating by +8800 for 20 seconds.",
+          "While this Armor Up is active, Zemo can\u2019t gain Cleanses. When Zemo has no personal Armor Up or Cleanses active, he gains 5 indefinite Cleanse Passives."
+        ],
+        "RIGHT WHERE I WANT YOU - ROOT": [
+          "When the Opponent becomes Rooted, they are inflicted with an indefinite 50% Decelerate Passive. Max Stacks: 2.",
+          "While the Opponent is Rooted, their Combat Power Rate is reduced by 40% and Zemo\u2019s is increased by 40%. Additionally, Zemo\u2019s attacks can\u2019t Miss and all his hits inflict an indefinite Bleed Debuff.",
+          "If the Opponent breaks free of Zemo\u2019s Root before it expires, inflict 5 additional indefinite Bleed Debuffs, reduced by 1 for each Prowess effect they have."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, inflict an indefinite Disorient Passive reducing Block Proficiency by 25% and Defensive Ability Accuracy by 10%. Max Stacks: 4.",
+          "The final hit inflicts an indefinite Bleed Debuff.",
+          "If the Opponent is Rooted, pause Root for the duration of this Special Attack and the final hit inflicts 5 additional indefinite Bleed Debuffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a Root Passive on the Opponent for 5 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict a non-stacking indefinite Sunder Passive reducing Critical Resistance to 0 and preventing it from increasing.",
+          "This attack gains +600 Attack Rating for each of Zemo\u2019s indefinite effects the Opponent is suffering."
+        ]
+      }
+    },
+    "find": {
+      "story_quests": {
+        "act_1": [],
+        "act_2": [],
+        "act_3": [],
+        "act_4": [],
+        "act_5": [],
+        "act_6": [],
+        "act_7": []
+      }
     }
+  },
+  "name": "BARON ZEMO",
+  "champid": "baronzemo",
+  "class": "Skill",
+  "img_portrait": "https://api.rexians.tk/assets/portraits/baronzemo.png",
+  "contact": "PHYSICAL",
+  "tags": ["Villain", "Size: M"],
+  "est. release": "1/26/2023"
 }

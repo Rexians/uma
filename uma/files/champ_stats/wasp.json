@@ -1,907 +1,979 @@
 {
-    "name": "WASP",
-    "class": "Science",
-    "img_portrait": "https://api.rexians.tk/assets/portraits/wasp.png",
-    "contact": "PHYSICAL",
-    "tags": [
-        "Hero",
-        "Size: S"
-    ],
-    "released": "7/5/2018",
-    "champid": "wasp",
-    "data": {
-        "2+1": {
-            "rank": 1,
-            "prestige": "278",
-            "hp": "795",
-            "attack": "100",
-            "crit_rate": "563",
-            "crit_dmge": "900",
-            "armor": "33",
-            "block_prof": "1023",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "When attacked Wasp gains an additional 20% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 20.4 to 60%.",
-            "url_page": "https://auntm.ai/champions/wasp/tier/2",
-            "champid": "wasp+2+1",
-            "challenger_rating": 20,
-            "abilities": {
-                "HEAVY ATTACKS": [
-                    "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
-                    "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
-                ],
-                "EVASION - PASSIVE": [
-                    "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 100 Energy Damage over 8 seconds."
-                ],
-                "PASSIVE": [
-                    "Whenever Wasp shrinks down, her next 2 hits will be critical, with +45 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
-                    "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "40% chance to Stun for 2 second(s).",
-                    "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Stings the opponent for 6 seconds. An opponent with sting takes 80 damage when activating a special attack.",
-                    "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "+5 Attack Rating for each hit on her Combo Meter."
-                ]
-            }
-        },
-        "2+2": {
-            "rank": 2,
-            "prestige": "365",
-            "hp": "1050",
-            "attack": "131",
-            "crit_rate": "580",
-            "crit_dmge": "929",
-            "armor": "52",
-            "block_prof": "1055",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "When attacked Wasp gains an additional 20% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 20.4 to 60%.",
-            "url_page": "https://auntm.ai/champions/wasp/tier/2",
-            "champid": "wasp+2+2",
-            "challenger_rating": 30,
-            "abilities": {
-                "HEAVY ATTACKS": [
-                    "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
-                    "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
-                ],
-                "EVASION - PASSIVE": [
-                    "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 131 Energy Damage over 8 seconds."
-                ],
-                "PASSIVE": [
-                    "Whenever Wasp shrinks down, her next 2 hits will be critical, with +58.95 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
-                    "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "40% chance to Stun for 2 second(s).",
-                    "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Stings the opponent for 6 seconds. An opponent with sting takes 104.8 damage when activating a special attack.",
-                    "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "+6.55 Attack Rating for each hit on her Combo Meter."
-                ]
-            }
-        },
-        "2+3": {
-            "rank": 3,
-            "prestige": "585",
-            "hp": "1666",
-            "attack": "208",
-            "crit_rate": "598",
-            "crit_dmge": "957",
-            "armor": "71",
-            "block_prof": "1087",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "When attacked Wasp gains an additional 20% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 20.4 to 60%.",
-            "url_page": "https://auntm.ai/champions/wasp/tier/2",
-            "champid": "wasp+2+3",
-            "challenger_rating": 40,
-            "abilities": {
-                "HEAVY ATTACKS": [
-                    "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
-                    "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
-                ],
-                "EVASION - PASSIVE": [
-                    "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 208 Energy Damage over 8 seconds."
-                ],
-                "PASSIVE": [
-                    "Whenever Wasp shrinks down, her next 2 hits will be critical, with +93.6 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
-                    "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "40% chance to Stun for 2 second(s).",
-                    "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Stings the opponent for 6 seconds. An opponent with sting takes 166.4 damage when activating a special attack.",
-                    "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "+10.4 Attack Rating for each hit on her Combo Meter."
-                ]
-            }
-        },
-        "3+1": {
-            "rank": 1,
-            "prestige": "506",
-            "hp": "1440",
-            "attack": "180",
-            "crit_rate": "598",
-            "crit_dmge": "957",
-            "armor": "71",
-            "block_prof": "1087",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "When attacked Wasp gains an additional 20% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 20.4 to 60%.",
-            "url_page": "https://auntm.ai/champions/wasp/tier/3",
-            "champid": "wasp+3+1",
-            "challenger_rating": 40,
-            "abilities": {
-                "HEAVY ATTACKS": [
-                    "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
-                    "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
-                ],
-                "EVASION - PASSIVE": [
-                    "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 180 Energy Damage over 8 seconds."
-                ],
-                "PASSIVE": [
-                    "Whenever Wasp shrinks down, her next 2 hits will be critical, with +81 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
-                    "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "40% chance to Stun for 2 second(s).",
-                    "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Stings the opponent for 6 seconds. An opponent with sting takes 144 damage when activating a special attack.",
-                    "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "+9 Attack Rating for each hit on her Combo Meter."
-                ]
-            }
-        },
-        "3+2": {
-            "rank": 2,
-            "prestige": "810",
-            "hp": "2304",
-            "attack": "288",
-            "crit_rate": "615",
-            "crit_dmge": "985",
-            "armor": "93",
-            "block_prof": "1119",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "When attacked Wasp gains an additional 20% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 20.4 to 60%.",
-            "url_page": "https://auntm.ai/champions/wasp/tier/3",
-            "champid": "wasp+3+2",
-            "challenger_rating": 50,
-            "abilities": {
-                "HEAVY ATTACKS": [
-                    "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
-                    "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
-                ],
-                "EVASION - PASSIVE": [
-                    "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 288 Energy Damage over 8 seconds."
-                ],
-                "PASSIVE": [
-                    "Whenever Wasp shrinks down, her next 2 hits will be critical, with +129.6 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
-                    "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "40% chance to Stun for 2 second(s).",
-                    "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Stings the opponent for 6 seconds. An opponent with sting takes 230.4 damage when activating a special attack.",
-                    "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "+14.4 Attack Rating for each hit on her Combo Meter."
-                ]
-            }
-        },
-        "3+3": {
-            "rank": 3,
-            "prestige": "1128",
-            "hp": "3224",
-            "attack": "402",
-            "crit_rate": "633",
-            "crit_dmge": "1013",
-            "armor": "115",
-            "block_prof": "1151",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "When attacked Wasp gains an additional 20% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 20.4 to 60%.",
-            "url_page": "https://auntm.ai/champions/wasp/tier/3",
-            "champid": "wasp+3+3",
-            "challenger_rating": 60,
-            "abilities": {
-                "HEAVY ATTACKS": [
-                    "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
-                    "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
-                ],
-                "EVASION - PASSIVE": [
-                    "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 402 Energy Damage over 8 seconds."
-                ],
-                "PASSIVE": [
-                    "Whenever Wasp shrinks down, her next 2 hits will be critical, with +180.9 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
-                    "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "40% chance to Stun for 2 second(s).",
-                    "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Stings the opponent for 6 seconds. An opponent with sting takes 321.6 damage when activating a special attack.",
-                    "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "+20.1 Attack Rating for each hit on her Combo Meter."
-                ]
-            }
-        },
-        "3+4": {
-            "rank": 4,
-            "prestige": "1549",
-            "hp": "4426",
-            "attack": "552",
-            "crit_rate": "650",
-            "crit_dmge": "1041",
-            "armor": "140",
-            "block_prof": "1183",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "When attacked Wasp gains an additional 20% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 20.4 to 60%.",
-            "url_page": "https://auntm.ai/champions/wasp/tier/3",
-            "champid": "wasp+3+4",
-            "challenger_rating": 70,
-            "abilities": {
-                "HEAVY ATTACKS": [
-                    "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
-                    "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
-                ],
-                "EVASION - PASSIVE": [
-                    "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 552 Energy Damage over 8 seconds."
-                ],
-                "PASSIVE": [
-                    "Whenever Wasp shrinks down, her next 2 hits will be critical, with +248.4 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
-                    "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "40% chance to Stun for 2 second(s).",
-                    "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Stings the opponent for 6 seconds. An opponent with sting takes 441.6 damage when activating a special attack.",
-                    "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "+27.6 Attack Rating for each hit on her Combo Meter."
-                ]
-            }
-        },
-        "4+1": {
-            "rank": 1,
-            "prestige": "1130",
-            "hp": "3221",
-            "attack": "402",
-            "crit_rate": "633",
-            "crit_dmge": "1013",
-            "armor": "157",
-            "block_prof": "1151",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "When attacked Wasp gains an additional 20% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 20.4 to 60%.",
-            "url_page": "https://auntm.ai/champions/wasp/tier/4",
-            "champid": "wasp+4+1",
-            "challenger_rating": 60,
-            "abilities": {
-                "HEAVY ATTACKS": [
-                    "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
-                    "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
-                ],
-                "EVASION - PASSIVE": [
-                    "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 402 Energy Damage over 8 seconds."
-                ],
-                "PASSIVE": [
-                    "Whenever Wasp shrinks down, her next 2 hits will be critical, with +180.9 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
-                    "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "40% chance to Stun for 2 second(s).",
-                    "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Stings the opponent for 6 seconds. An opponent with sting takes 321.6 damage when activating a special attack.",
-                    "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "+20.1 Attack Rating for each hit on her Combo Meter."
-                ]
-            }
-        },
-        "4+2": {
-            "rank": 2,
-            "prestige": "1585",
-            "hp": "4518",
-            "attack": "564",
-            "crit_rate": "650",
-            "crit_dmge": "1041",
-            "armor": "183",
-            "block_prof": "1183",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "When attacked Wasp gains an additional 20% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 20.4 to 60%.",
-            "url_page": "https://auntm.ai/champions/wasp/tier/4",
-            "champid": "wasp+4+2",
-            "challenger_rating": 70,
-            "abilities": {
-                "HEAVY ATTACKS": [
-                    "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
-                    "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
-                ],
-                "EVASION - PASSIVE": [
-                    "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 564 Energy Damage over 8 seconds."
-                ],
-                "PASSIVE": [
-                    "Whenever Wasp shrinks down, her next 2 hits will be critical, with +253.8 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
-                    "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "40% chance to Stun for 2 second(s).",
-                    "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Stings the opponent for 6 seconds. An opponent with sting takes 451.2 damage when activating a special attack.",
-                    "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "+28.2 Attack Rating for each hit on her Combo Meter."
-                ]
-            }
-        },
-        "4+3": {
-            "rank": 3,
-            "prestige": "2218",
-            "hp": "6331",
-            "attack": "790",
-            "crit_rate": "668",
-            "crit_dmge": "1069",
-            "armor": "212",
-            "block_prof": "1215",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "When attacked Wasp gains an additional 20% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 20.4 to 60%.",
-            "url_page": "https://auntm.ai/champions/wasp/tier/4",
-            "champid": "wasp+4+3",
-            "challenger_rating": 80,
-            "abilities": {
-                "HEAVY ATTACKS": [
-                    "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
-                    "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
-                ],
-                "EVASION - PASSIVE": [
-                    "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 790 Energy Damage over 8 seconds."
-                ],
-                "PASSIVE": [
-                    "Whenever Wasp shrinks down, her next 2 hits will be critical, with +355.5 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
-                    "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "40% chance to Stun for 2 second(s).",
-                    "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Stings the opponent for 6 seconds. An opponent with sting takes 632 damage when activating a special attack.",
-                    "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "+39.5 Attack Rating for each hit on her Combo Meter."
-                ]
-            }
-        },
-        "4+4": {
-            "rank": 4,
-            "prestige": "2917",
-            "hp": "8318",
-            "attack": "1038",
-            "crit_rate": "686",
-            "crit_dmge": "1097",
-            "armor": "242",
-            "block_prof": "1247",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "When attacked Wasp gains an additional 20% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 20.4 to 60%.",
-            "url_page": "https://auntm.ai/champions/wasp/tier/4",
-            "champid": "wasp+4+4",
-            "challenger_rating": 90,
-            "abilities": {
-                "HEAVY ATTACKS": [
-                    "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
-                    "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
-                ],
-                "EVASION - PASSIVE": [
-                    "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 1038 Energy Damage over 8 seconds."
-                ],
-                "PASSIVE": [
-                    "Whenever Wasp shrinks down, her next 2 hits will be critical, with +467.1 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
-                    "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "40% chance to Stun for 2 second(s).",
-                    "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Stings the opponent for 6 seconds. An opponent with sting takes 830.4 damage when activating a special attack.",
-                    "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "+51.9 Attack Rating for each hit on her Combo Meter."
-                ]
-            }
-        },
-        "4+5": {
-            "rank": 5,
-            "prestige": "3887",
-            "hp": "11099",
-            "attack": "1384",
-            "crit_rate": "703",
-            "crit_dmge": "1125",
-            "armor": "273",
-            "block_prof": "1279",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "When attacked Wasp gains an additional 20% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 20.4 to 60%.",
-            "url_page": "https://auntm.ai/champions/wasp/tier/4",
-            "champid": "wasp+4+5",
-            "challenger_rating": 100,
-            "abilities": {
-                "HEAVY ATTACKS": [
-                    "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
-                    "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
-                ],
-                "EVASION - PASSIVE": [
-                    "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 1384 Energy Damage over 8 seconds."
-                ],
-                "PASSIVE": [
-                    "Whenever Wasp shrinks down, her next 2 hits will be critical, with +622.8 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
-                    "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "40% chance to Stun for 2 second(s).",
-                    "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Stings the opponent for 6 seconds. An opponent with sting takes 1107.2 damage when activating a special attack.",
-                    "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "+69.2 Attack Rating for each hit on her Combo Meter."
-                ]
-            }
-        },
-        "5+1": {
-            "rank": 1,
-            "prestige": "2326",
-            "hp": "6624",
-            "attack": "826",
-            "crit_rate": "668",
-            "crit_dmge": "1069",
-            "armor": "362",
-            "block_prof": "1215",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "When attacked Wasp gains an additional 25% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 25.58 to 64.99%.",
-            "url_page": "https://auntm.ai/champions/wasp/tier/5",
-            "champid": "wasp+5+1",
-            "challenger_rating": 80,
-            "abilities": {
-                "HEAVY ATTACKS": [
-                    "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
-                    "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
-                ],
-                "EVASION - PASSIVE": [
-                    "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 826 Energy Damage over 8 seconds."
-                ],
-                "PASSIVE": [
-                    "Whenever Wasp shrinks down, her next 2 hits will be critical, with +371.7 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
-                    "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "40% chance to Stun for 2 second(s).",
-                    "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Stings the opponent for 6 seconds. An opponent with sting takes 660.8 damage when activating a special attack.",
-                    "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "+41.3 Attack Rating for each hit on her Combo Meter."
-                ]
-            }
-        },
-        "5+2": {
-            "rank": 2,
-            "prestige": "3070",
-            "hp": "8749",
-            "attack": "1091",
-            "crit_rate": "686",
-            "crit_dmge": "1097",
-            "armor": "400",
-            "block_prof": "1247",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "When attacked Wasp gains an additional 25% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 25.58 to 64.99%.",
-            "url_page": "https://auntm.ai/champions/wasp/tier/5",
-            "champid": "wasp+5+2",
-            "challenger_rating": 90,
-            "abilities": {
-                "HEAVY ATTACKS": [
-                    "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
-                    "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
-                ],
-                "EVASION - PASSIVE": [
-                    "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 1091 Energy Damage over 8 seconds."
-                ],
-                "PASSIVE": [
-                    "Whenever Wasp shrinks down, her next 2 hits will be critical, with +490.95 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
-                    "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "40% chance to Stun for 2 second(s).",
-                    "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Stings the opponent for 6 seconds. An opponent with sting takes 872.8 damage when activating a special attack.",
-                    "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "+54.55 Attack Rating for each hit on her Combo Meter."
-                ]
-            }
-        },
-        "5+3": {
-            "rank": 3,
-            "prestige": "4297",
-            "hp": "12231",
-            "attack": "1526",
-            "crit_rate": "703",
-            "crit_dmge": "1125",
-            "armor": "440",
-            "block_prof": "1279",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "When attacked Wasp gains an additional 25% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 25.58 to 64.99%.",
-            "url_page": "https://auntm.ai/champions/wasp/tier/5",
-            "champid": "wasp+5+3",
-            "challenger_rating": 100,
-            "abilities": {
-                "HEAVY ATTACKS": [
-                    "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
-                    "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
-                ],
-                "EVASION - PASSIVE": [
-                    "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 1526 Energy Damage over 8 seconds."
-                ],
-                "PASSIVE": [
-                    "Whenever Wasp shrinks down, her next 2 hits will be critical, with +686.7 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
-                    "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "40% chance to Stun for 2 second(s).",
-                    "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Stings the opponent for 6 seconds. An opponent with sting takes 1220.8 damage when activating a special attack.",
-                    "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "+76.3 Attack Rating for each hit on her Combo Meter."
-                ]
-            }
-        },
-        "5+4": {
-            "rank": 4,
-            "prestige": "5788",
-            "hp": "16482",
-            "attack": "2055",
-            "crit_rate": "721",
-            "crit_dmge": "1154",
-            "armor": "481",
-            "block_prof": "1311",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "When attacked Wasp gains an additional 25% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 25.58 to 64.99%.",
-            "url_page": "https://auntm.ai/champions/wasp/tier/5",
-            "champid": "wasp+5+4",
-            "challenger_rating": 110,
-            "abilities": {
-                "HEAVY ATTACKS": [
-                    "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
-                    "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
-                ],
-                "EVASION - PASSIVE": [
-                    "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 2055 Energy Damage over 8 seconds."
-                ],
-                "PASSIVE": [
-                    "Whenever Wasp shrinks down, her next 2 hits will be critical, with +924.75 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
-                    "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "40% chance to Stun for 2 second(s).",
-                    "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Stings the opponent for 6 seconds. An opponent with sting takes 1644 damage when activating a special attack.",
-                    "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "+102.75 Attack Rating for each hit on her Combo Meter."
-                ]
-            }
-        },
-        "5+5": {
-            "rank": 5,
-            "prestige": "7825",
-            "hp": "22253",
-            "attack": "2775",
-            "crit_rate": "738",
-            "crit_dmge": "1182",
-            "armor": "525",
-            "block_prof": "1343",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "When attacked Wasp gains an additional 25% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 25.58 to 64.99%.",
-            "url_page": "https://auntm.ai/champions/wasp/tier/5",
-            "champid": "wasp+5+5",
-            "challenger_rating": 120,
-            "abilities": {
-                "HEAVY ATTACKS": [
-                    "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
-                    "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
-                ],
-                "EVASION - PASSIVE": [
-                    "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 2775 Energy Damage over 8 seconds."
-                ],
-                "PASSIVE": [
-                    "Whenever Wasp shrinks down, her next 2 hits will be critical, with +1248.75 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
-                    "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "40% chance to Stun for 2 second(s).",
-                    "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Stings the opponent for 6 seconds. An opponent with sting takes 2220 damage when activating a special attack.",
-                    "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "+138.75 Attack Rating for each hit on her Combo Meter."
-                ]
-            }
-        },
-        "6+1": {
-            "rank": 1,
-            "prestige": "6134",
-            "hp": "17498",
-            "attack": "2182",
-            "crit_rate": "721",
-            "crit_dmge": "1154",
-            "armor": "391",
-            "block_prof": "1311",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "When attacked Wasp gains an additional 25% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 25.58 to 64.99%.",
-            "url_page": "https://auntm.ai/champions/wasp/tier/6",
-            "champid": "wasp+6+1",
-            "challenger_rating": 110,
-            "abilities": {
-                "HEAVY ATTACKS": [
-                    "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
-                    "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
-                ],
-                "EVASION - PASSIVE": [
-                    "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 2182 Energy Damage over 8 seconds."
-                ],
-                "PASSIVE": [
-                    "Whenever Wasp shrinks down, her next 2 hits will be critical, with +981.9 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
-                    "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "40% chance to Stun for 2 second(s).",
-                    "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Stings the opponent for 6 seconds. An opponent with sting takes 1745.6 damage when activating a special attack.",
-                    "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "+109.1 Attack Rating for each hit on her Combo Meter."
-                ]
-            }
-        },
-        "6+2": {
-            "rank": 2,
-            "prestige": "8474",
-            "hp": "24170",
-            "attack": "3014",
-            "crit_rate": "738",
-            "crit_dmge": "1182",
-            "armor": "431",
-            "block_prof": "1343",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "When attacked Wasp gains an additional 25% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 25.58 to 64.99%.",
-            "url_page": "https://auntm.ai/champions/wasp/tier/6",
-            "champid": "wasp+6+2",
-            "challenger_rating": 120,
-            "abilities": {
-                "HEAVY ATTACKS": [
-                    "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
-                    "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
-                ],
-                "EVASION - PASSIVE": [
-                    "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 3014 Energy Damage over 8 seconds."
-                ],
-                "PASSIVE": [
-                    "Whenever Wasp shrinks down, her next 2 hits will be critical, with +1356.3 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
-                    "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "40% chance to Stun for 2 second(s).",
-                    "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Stings the opponent for 6 seconds. An opponent with sting takes 2411.2 damage when activating a special attack.",
-                    "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "+150.7 Attack Rating for each hit on her Combo Meter."
-                ]
-            }
-        },
-        "6+3": {
-            "rank": 3,
-            "prestige": "10067",
-            "hp": "28674",
-            "attack": "3576",
-            "crit_rate": "756",
-            "crit_dmge": "1210",
-            "armor": "472",
-            "block_prof": "1375",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "When attacked Wasp gains an additional 25% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 25.58 to 64.99%.",
-            "url_page": "https://auntm.ai/champions/wasp/tier/6",
-            "champid": "wasp+6+3",
-            "challenger_rating": 130,
-            "abilities": {
-                "HEAVY ATTACKS": [
-                    "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
-                    "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
-                ],
-                "EVASION - PASSIVE": [
-                    "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 3576 Energy Damage over 8 seconds."
-                ],
-                "PASSIVE": [
-                    "Whenever Wasp shrinks down, her next 2 hits will be critical, with +1609.2 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
-                    "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "40% chance to Stun for 2 second(s).",
-                    "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Stings the opponent for 6 seconds. An opponent with sting takes 2860.8 damage when activating a special attack.",
-                    "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "+178.8 Attack Rating for each hit on her Combo Meter."
-                ]
-            }
-        },
-        "6+4": {
-            "rank": 4,
-            "prestige": "11520",
-            "hp": "32813",
-            "attack": "4092",
-            "crit_rate": "773",
-            "crit_dmge": "1238",
-            "armor": "517",
-            "block_prof": "1407",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "When attacked Wasp gains an additional 25% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 25.58 to 64.99%.",
-            "url_page": "https://auntm.ai/champions/wasp/tier/6",
-            "champid": "wasp+6+4",
-            "challenger_rating": 140,
-            "abilities": {
-                "HEAVY ATTACKS": [
-                    "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
-                    "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
-                ],
-                "EVASION - PASSIVE": [
-                    "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 4092 Energy Damage over 8 seconds."
-                ],
-                "PASSIVE": [
-                    "Whenever Wasp shrinks down, her next 2 hits will be critical, with +1841.4 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
-                    "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "40% chance to Stun for 2 second(s).",
-                    "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Stings the opponent for 6 seconds. An opponent with sting takes 3273.6 damage when activating a special attack.",
-                    "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "+204.6 Attack Rating for each hit on her Combo Meter."
-                ]
-            }
-        },
-        "find": {
-            "story_quests": {
-                "act_1": [],
-                "act_2": [],
-                "act_3": [],
-                "act_4": [],
-                "act_5": [],
-                "act_6": [
-                    "6.1.2",
-                    "6.1.4",
-                    "6.1.5",
-                    "6.2.2",
-                    "6.2.5",
-                    "6.3.1",
-                    "6.3.2",
-                    "6.3.4",
-                    "6.3.5",
-                    "6.4.1",
-                    "6.4.4",
-                    "6.4.5",
-                    "6.4.6"
-                ],
-                "act_7": [
-                    "7.2.1",
-                    "7.2.6",
-                    "7.3.3",
-                    "7.3.4",
-                    "7.4.4",
-                    "7.4.6"
-                ]
-            }
-        }
+  "champid": "wasp",
+  "data": {
+    "2+1": {
+      "rank": 1,
+      "prestige": "278",
+      "hp": "795",
+      "attack": "100",
+      "crit_rate": "563",
+      "crit_dmge": "900",
+      "armor": "33",
+      "block_prof": "1023",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "When attacked Wasp gains an additional 20% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 20.4 to 60%.",
+      "url_page": "https://auntm.ai/champions/wasp/tier/2",
+      "champid": "wasp+2+1",
+      "challenger_rating": 20,
+      "abilities": {
+        "HEAVY ATTACKS": [
+          "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
+          "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
+        ],
+        "EVASION - PASSIVE": [
+          "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 100 Energy Damage over 8 seconds."
+        ],
+        "PASSIVE": [
+          "Whenever Wasp shrinks down, her next 2 hits will be critical, with +45 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
+          "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
+        ],
+        "SPECIAL ATTACK 1": [
+          "40% chance to Stun for 2 second(s).",
+          "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Stings the opponent for 6 seconds. An opponent with sting takes 80 damage when activating a special attack.",
+          "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "+5 Attack Rating for each hit on her Combo Meter."
+        ]
+      }
+    },
+    "2+2": {
+      "rank": 2,
+      "prestige": "365",
+      "hp": "1050",
+      "attack": "131",
+      "crit_rate": "580",
+      "crit_dmge": "929",
+      "armor": "52",
+      "block_prof": "1055",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "When attacked Wasp gains an additional 20% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 20.4 to 60%.",
+      "url_page": "https://auntm.ai/champions/wasp/tier/2",
+      "champid": "wasp+2+2",
+      "challenger_rating": 30,
+      "abilities": {
+        "HEAVY ATTACKS": [
+          "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
+          "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
+        ],
+        "EVASION - PASSIVE": [
+          "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 131 Energy Damage over 8 seconds."
+        ],
+        "PASSIVE": [
+          "Whenever Wasp shrinks down, her next 2 hits will be critical, with +58.95 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
+          "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
+        ],
+        "SPECIAL ATTACK 1": [
+          "40% chance to Stun for 2 second(s).",
+          "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Stings the opponent for 6 seconds. An opponent with sting takes 104.8 damage when activating a special attack.",
+          "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "+6.55 Attack Rating for each hit on her Combo Meter."
+        ]
+      }
+    },
+    "2+3": {
+      "rank": 3,
+      "prestige": "585",
+      "hp": "1666",
+      "attack": "208",
+      "crit_rate": "598",
+      "crit_dmge": "957",
+      "armor": "71",
+      "block_prof": "1087",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "When attacked Wasp gains an additional 20% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 20.4 to 60%.",
+      "url_page": "https://auntm.ai/champions/wasp/tier/2",
+      "champid": "wasp+2+3",
+      "challenger_rating": 40,
+      "abilities": {
+        "HEAVY ATTACKS": [
+          "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
+          "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
+        ],
+        "EVASION - PASSIVE": [
+          "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 208 Energy Damage over 8 seconds."
+        ],
+        "PASSIVE": [
+          "Whenever Wasp shrinks down, her next 2 hits will be critical, with +93.6 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
+          "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
+        ],
+        "SPECIAL ATTACK 1": [
+          "40% chance to Stun for 2 second(s).",
+          "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Stings the opponent for 6 seconds. An opponent with sting takes 166.4 damage when activating a special attack.",
+          "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "+10.4 Attack Rating for each hit on her Combo Meter."
+        ]
+      }
+    },
+    "3+1": {
+      "rank": 1,
+      "prestige": "506",
+      "hp": "1440",
+      "attack": "180",
+      "crit_rate": "598",
+      "crit_dmge": "957",
+      "armor": "71",
+      "block_prof": "1087",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "When attacked Wasp gains an additional 20% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 20.4 to 60%.",
+      "url_page": "https://auntm.ai/champions/wasp/tier/3",
+      "champid": "wasp+3+1",
+      "challenger_rating": 40,
+      "abilities": {
+        "HEAVY ATTACKS": [
+          "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
+          "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
+        ],
+        "EVASION - PASSIVE": [
+          "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 180 Energy Damage over 8 seconds."
+        ],
+        "PASSIVE": [
+          "Whenever Wasp shrinks down, her next 2 hits will be critical, with +81 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
+          "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
+        ],
+        "SPECIAL ATTACK 1": [
+          "40% chance to Stun for 2 second(s).",
+          "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Stings the opponent for 6 seconds. An opponent with sting takes 144 damage when activating a special attack.",
+          "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "+9 Attack Rating for each hit on her Combo Meter."
+        ]
+      }
+    },
+    "3+2": {
+      "rank": 2,
+      "prestige": "810",
+      "hp": "2304",
+      "attack": "288",
+      "crit_rate": "615",
+      "crit_dmge": "985",
+      "armor": "93",
+      "block_prof": "1119",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "When attacked Wasp gains an additional 20% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 20.4 to 60%.",
+      "url_page": "https://auntm.ai/champions/wasp/tier/3",
+      "champid": "wasp+3+2",
+      "challenger_rating": 50,
+      "abilities": {
+        "HEAVY ATTACKS": [
+          "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
+          "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
+        ],
+        "EVASION - PASSIVE": [
+          "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 288 Energy Damage over 8 seconds."
+        ],
+        "PASSIVE": [
+          "Whenever Wasp shrinks down, her next 2 hits will be critical, with +129.6 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
+          "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
+        ],
+        "SPECIAL ATTACK 1": [
+          "40% chance to Stun for 2 second(s).",
+          "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Stings the opponent for 6 seconds. An opponent with sting takes 230.4 damage when activating a special attack.",
+          "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "+14.4 Attack Rating for each hit on her Combo Meter."
+        ]
+      }
+    },
+    "3+3": {
+      "rank": 3,
+      "prestige": "1128",
+      "hp": "3224",
+      "attack": "402",
+      "crit_rate": "633",
+      "crit_dmge": "1013",
+      "armor": "115",
+      "block_prof": "1151",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "When attacked Wasp gains an additional 20% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 20.4 to 60%.",
+      "url_page": "https://auntm.ai/champions/wasp/tier/3",
+      "champid": "wasp+3+3",
+      "challenger_rating": 60,
+      "abilities": {
+        "HEAVY ATTACKS": [
+          "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
+          "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
+        ],
+        "EVASION - PASSIVE": [
+          "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 402 Energy Damage over 8 seconds."
+        ],
+        "PASSIVE": [
+          "Whenever Wasp shrinks down, her next 2 hits will be critical, with +180.9 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
+          "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
+        ],
+        "SPECIAL ATTACK 1": [
+          "40% chance to Stun for 2 second(s).",
+          "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Stings the opponent for 6 seconds. An opponent with sting takes 321.6 damage when activating a special attack.",
+          "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "+20.1 Attack Rating for each hit on her Combo Meter."
+        ]
+      }
+    },
+    "3+4": {
+      "rank": 4,
+      "prestige": "1549",
+      "hp": "4426",
+      "attack": "552",
+      "crit_rate": "650",
+      "crit_dmge": "1041",
+      "armor": "140",
+      "block_prof": "1183",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "When attacked Wasp gains an additional 20% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 20.4 to 60%.",
+      "url_page": "https://auntm.ai/champions/wasp/tier/3",
+      "champid": "wasp+3+4",
+      "challenger_rating": 70,
+      "abilities": {
+        "HEAVY ATTACKS": [
+          "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
+          "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
+        ],
+        "EVASION - PASSIVE": [
+          "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 552 Energy Damage over 8 seconds."
+        ],
+        "PASSIVE": [
+          "Whenever Wasp shrinks down, her next 2 hits will be critical, with +248.4 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
+          "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
+        ],
+        "SPECIAL ATTACK 1": [
+          "40% chance to Stun for 2 second(s).",
+          "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Stings the opponent for 6 seconds. An opponent with sting takes 441.6 damage when activating a special attack.",
+          "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "+27.6 Attack Rating for each hit on her Combo Meter."
+        ]
+      }
+    },
+    "4+1": {
+      "rank": 1,
+      "prestige": "1130",
+      "hp": "3221",
+      "attack": "402",
+      "crit_rate": "633",
+      "crit_dmge": "1013",
+      "armor": "157",
+      "block_prof": "1151",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "When attacked Wasp gains an additional 20% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 20.4 to 60%.",
+      "url_page": "https://auntm.ai/champions/wasp/tier/4",
+      "champid": "wasp+4+1",
+      "challenger_rating": 60,
+      "abilities": {
+        "HEAVY ATTACKS": [
+          "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
+          "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
+        ],
+        "EVASION - PASSIVE": [
+          "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 402 Energy Damage over 8 seconds."
+        ],
+        "PASSIVE": [
+          "Whenever Wasp shrinks down, her next 2 hits will be critical, with +180.9 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
+          "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
+        ],
+        "SPECIAL ATTACK 1": [
+          "40% chance to Stun for 2 second(s).",
+          "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Stings the opponent for 6 seconds. An opponent with sting takes 321.6 damage when activating a special attack.",
+          "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "+20.1 Attack Rating for each hit on her Combo Meter."
+        ]
+      }
+    },
+    "4+2": {
+      "rank": 2,
+      "prestige": "1585",
+      "hp": "4518",
+      "attack": "564",
+      "crit_rate": "650",
+      "crit_dmge": "1041",
+      "armor": "183",
+      "block_prof": "1183",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "When attacked Wasp gains an additional 20% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 20.4 to 60%.",
+      "url_page": "https://auntm.ai/champions/wasp/tier/4",
+      "champid": "wasp+4+2",
+      "challenger_rating": 70,
+      "abilities": {
+        "HEAVY ATTACKS": [
+          "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
+          "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
+        ],
+        "EVASION - PASSIVE": [
+          "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 564 Energy Damage over 8 seconds."
+        ],
+        "PASSIVE": [
+          "Whenever Wasp shrinks down, her next 2 hits will be critical, with +253.8 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
+          "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
+        ],
+        "SPECIAL ATTACK 1": [
+          "40% chance to Stun for 2 second(s).",
+          "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Stings the opponent for 6 seconds. An opponent with sting takes 451.2 damage when activating a special attack.",
+          "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "+28.2 Attack Rating for each hit on her Combo Meter."
+        ]
+      }
+    },
+    "4+3": {
+      "rank": 3,
+      "prestige": "2218",
+      "hp": "6331",
+      "attack": "790",
+      "crit_rate": "668",
+      "crit_dmge": "1069",
+      "armor": "212",
+      "block_prof": "1215",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "When attacked Wasp gains an additional 20% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 20.4 to 60%.",
+      "url_page": "https://auntm.ai/champions/wasp/tier/4",
+      "champid": "wasp+4+3",
+      "challenger_rating": 80,
+      "abilities": {
+        "HEAVY ATTACKS": [
+          "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
+          "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
+        ],
+        "EVASION - PASSIVE": [
+          "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 790 Energy Damage over 8 seconds."
+        ],
+        "PASSIVE": [
+          "Whenever Wasp shrinks down, her next 2 hits will be critical, with +355.5 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
+          "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
+        ],
+        "SPECIAL ATTACK 1": [
+          "40% chance to Stun for 2 second(s).",
+          "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Stings the opponent for 6 seconds. An opponent with sting takes 632 damage when activating a special attack.",
+          "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "+39.5 Attack Rating for each hit on her Combo Meter."
+        ]
+      }
+    },
+    "4+4": {
+      "rank": 4,
+      "prestige": "2917",
+      "hp": "8318",
+      "attack": "1038",
+      "crit_rate": "686",
+      "crit_dmge": "1097",
+      "armor": "242",
+      "block_prof": "1247",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "When attacked Wasp gains an additional 20% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 20.4 to 60%.",
+      "url_page": "https://auntm.ai/champions/wasp/tier/4",
+      "champid": "wasp+4+4",
+      "challenger_rating": 90,
+      "abilities": {
+        "HEAVY ATTACKS": [
+          "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
+          "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
+        ],
+        "EVASION - PASSIVE": [
+          "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 1038 Energy Damage over 8 seconds."
+        ],
+        "PASSIVE": [
+          "Whenever Wasp shrinks down, her next 2 hits will be critical, with +467.1 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
+          "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
+        ],
+        "SPECIAL ATTACK 1": [
+          "40% chance to Stun for 2 second(s).",
+          "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Stings the opponent for 6 seconds. An opponent with sting takes 830.4 damage when activating a special attack.",
+          "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "+51.9 Attack Rating for each hit on her Combo Meter."
+        ]
+      }
+    },
+    "4+5": {
+      "rank": 5,
+      "prestige": "3887",
+      "hp": "11099",
+      "attack": "1384",
+      "crit_rate": "703",
+      "crit_dmge": "1125",
+      "armor": "273",
+      "block_prof": "1279",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "When attacked Wasp gains an additional 20% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 20.4 to 60%.",
+      "url_page": "https://auntm.ai/champions/wasp/tier/4",
+      "champid": "wasp+4+5",
+      "challenger_rating": 100,
+      "abilities": {
+        "HEAVY ATTACKS": [
+          "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
+          "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
+        ],
+        "EVASION - PASSIVE": [
+          "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 1384 Energy Damage over 8 seconds."
+        ],
+        "PASSIVE": [
+          "Whenever Wasp shrinks down, her next 2 hits will be critical, with +622.8 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
+          "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
+        ],
+        "SPECIAL ATTACK 1": [
+          "40% chance to Stun for 2 second(s).",
+          "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Stings the opponent for 6 seconds. An opponent with sting takes 1107.2 damage when activating a special attack.",
+          "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "+69.2 Attack Rating for each hit on her Combo Meter."
+        ]
+      }
+    },
+    "5+1": {
+      "rank": 1,
+      "prestige": "2326",
+      "hp": "6624",
+      "attack": "826",
+      "crit_rate": "668",
+      "crit_dmge": "1069",
+      "armor": "362",
+      "block_prof": "1215",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "When attacked Wasp gains an additional 25% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 25.58 to 64.99%.",
+      "url_page": "https://auntm.ai/champions/wasp/tier/5",
+      "champid": "wasp+5+1",
+      "challenger_rating": 80,
+      "abilities": {
+        "HEAVY ATTACKS": [
+          "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
+          "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
+        ],
+        "EVASION - PASSIVE": [
+          "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 826 Energy Damage over 8 seconds."
+        ],
+        "PASSIVE": [
+          "Whenever Wasp shrinks down, her next 2 hits will be critical, with +371.7 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
+          "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
+        ],
+        "SPECIAL ATTACK 1": [
+          "40% chance to Stun for 2 second(s).",
+          "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Stings the opponent for 6 seconds. An opponent with sting takes 660.8 damage when activating a special attack.",
+          "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "+41.3 Attack Rating for each hit on her Combo Meter."
+        ]
+      }
+    },
+    "5+2": {
+      "rank": 2,
+      "prestige": "3070",
+      "hp": "8749",
+      "attack": "1091",
+      "crit_rate": "686",
+      "crit_dmge": "1097",
+      "armor": "400",
+      "block_prof": "1247",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "When attacked Wasp gains an additional 25% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 25.58 to 64.99%.",
+      "url_page": "https://auntm.ai/champions/wasp/tier/5",
+      "champid": "wasp+5+2",
+      "challenger_rating": 90,
+      "abilities": {
+        "HEAVY ATTACKS": [
+          "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
+          "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
+        ],
+        "EVASION - PASSIVE": [
+          "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 1091 Energy Damage over 8 seconds."
+        ],
+        "PASSIVE": [
+          "Whenever Wasp shrinks down, her next 2 hits will be critical, with +490.95 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
+          "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
+        ],
+        "SPECIAL ATTACK 1": [
+          "40% chance to Stun for 2 second(s).",
+          "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Stings the opponent for 6 seconds. An opponent with sting takes 872.8 damage when activating a special attack.",
+          "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "+54.55 Attack Rating for each hit on her Combo Meter."
+        ]
+      }
+    },
+    "5+3": {
+      "rank": 3,
+      "prestige": "4297",
+      "hp": "12231",
+      "attack": "1526",
+      "crit_rate": "703",
+      "crit_dmge": "1125",
+      "armor": "440",
+      "block_prof": "1279",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "When attacked Wasp gains an additional 25% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 25.58 to 64.99%.",
+      "url_page": "https://auntm.ai/champions/wasp/tier/5",
+      "champid": "wasp+5+3",
+      "challenger_rating": 100,
+      "abilities": {
+        "HEAVY ATTACKS": [
+          "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
+          "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
+        ],
+        "EVASION - PASSIVE": [
+          "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 1526 Energy Damage over 8 seconds."
+        ],
+        "PASSIVE": [
+          "Whenever Wasp shrinks down, her next 2 hits will be critical, with +686.7 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
+          "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
+        ],
+        "SPECIAL ATTACK 1": [
+          "40% chance to Stun for 2 second(s).",
+          "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Stings the opponent for 6 seconds. An opponent with sting takes 1220.8 damage when activating a special attack.",
+          "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "+76.3 Attack Rating for each hit on her Combo Meter."
+        ]
+      }
+    },
+    "5+4": {
+      "rank": 4,
+      "prestige": "5788",
+      "hp": "16482",
+      "attack": "2055",
+      "crit_rate": "721",
+      "crit_dmge": "1154",
+      "armor": "481",
+      "block_prof": "1311",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "When attacked Wasp gains an additional 25% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 25.58 to 64.99%.",
+      "url_page": "https://auntm.ai/champions/wasp/tier/5",
+      "champid": "wasp+5+4",
+      "challenger_rating": 110,
+      "abilities": {
+        "HEAVY ATTACKS": [
+          "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
+          "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
+        ],
+        "EVASION - PASSIVE": [
+          "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 2055 Energy Damage over 8 seconds."
+        ],
+        "PASSIVE": [
+          "Whenever Wasp shrinks down, her next 2 hits will be critical, with +924.75 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
+          "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
+        ],
+        "SPECIAL ATTACK 1": [
+          "40% chance to Stun for 2 second(s).",
+          "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Stings the opponent for 6 seconds. An opponent with sting takes 1644 damage when activating a special attack.",
+          "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "+102.75 Attack Rating for each hit on her Combo Meter."
+        ]
+      }
+    },
+    "5+5": {
+      "rank": 5,
+      "prestige": "7825",
+      "hp": "22253",
+      "attack": "2775",
+      "crit_rate": "738",
+      "crit_dmge": "1182",
+      "armor": "525",
+      "block_prof": "1343",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "When attacked Wasp gains an additional 25% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 25.58 to 64.99%.",
+      "url_page": "https://auntm.ai/champions/wasp/tier/5",
+      "champid": "wasp+5+5",
+      "challenger_rating": 120,
+      "abilities": {
+        "HEAVY ATTACKS": [
+          "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
+          "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
+        ],
+        "EVASION - PASSIVE": [
+          "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 2775 Energy Damage over 8 seconds."
+        ],
+        "PASSIVE": [
+          "Whenever Wasp shrinks down, her next 2 hits will be critical, with +1248.75 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
+          "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
+        ],
+        "SPECIAL ATTACK 1": [
+          "40% chance to Stun for 2 second(s).",
+          "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Stings the opponent for 6 seconds. An opponent with sting takes 2220 damage when activating a special attack.",
+          "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "+138.75 Attack Rating for each hit on her Combo Meter."
+        ]
+      }
+    },
+    "6+1": {
+      "rank": 1,
+      "prestige": "6134",
+      "hp": "17498",
+      "attack": "2182",
+      "crit_rate": "721",
+      "crit_dmge": "1154",
+      "armor": "391",
+      "block_prof": "1311",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "When attacked Wasp gains an additional 25% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 25.58 to 64.99%.",
+      "url_page": "https://auntm.ai/champions/wasp/tier/6",
+      "champid": "wasp+6+1",
+      "challenger_rating": 110,
+      "abilities": {
+        "HEAVY ATTACKS": [
+          "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
+          "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
+        ],
+        "EVASION - PASSIVE": [
+          "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 2182 Energy Damage over 8 seconds."
+        ],
+        "PASSIVE": [
+          "Whenever Wasp shrinks down, her next 2 hits will be critical, with +981.9 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
+          "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
+        ],
+        "SPECIAL ATTACK 1": [
+          "40% chance to Stun for 2 second(s).",
+          "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Stings the opponent for 6 seconds. An opponent with sting takes 1745.6 damage when activating a special attack.",
+          "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "+109.1 Attack Rating for each hit on her Combo Meter."
+        ]
+      }
+    },
+    "6+2": {
+      "rank": 2,
+      "prestige": "8474",
+      "hp": "24170",
+      "attack": "3014",
+      "crit_rate": "738",
+      "crit_dmge": "1182",
+      "armor": "431",
+      "block_prof": "1343",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "When attacked Wasp gains an additional 25% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 25.58 to 64.99%.",
+      "url_page": "https://auntm.ai/champions/wasp/tier/6",
+      "champid": "wasp+6+2",
+      "challenger_rating": 120,
+      "abilities": {
+        "HEAVY ATTACKS": [
+          "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
+          "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
+        ],
+        "EVASION - PASSIVE": [
+          "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 3014 Energy Damage over 8 seconds."
+        ],
+        "PASSIVE": [
+          "Whenever Wasp shrinks down, her next 2 hits will be critical, with +1356.3 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
+          "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
+        ],
+        "SPECIAL ATTACK 1": [
+          "40% chance to Stun for 2 second(s).",
+          "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Stings the opponent for 6 seconds. An opponent with sting takes 2411.2 damage when activating a special attack.",
+          "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "+150.7 Attack Rating for each hit on her Combo Meter."
+        ]
+      }
+    },
+    "6+3": {
+      "rank": 3,
+      "prestige": "10067",
+      "hp": "28674",
+      "attack": "3576",
+      "crit_rate": "756",
+      "crit_dmge": "1210",
+      "armor": "472",
+      "block_prof": "1375",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "When attacked Wasp gains an additional 25% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 25.58 to 64.99%.",
+      "url_page": "https://auntm.ai/champions/wasp/tier/6",
+      "champid": "wasp+6+3",
+      "challenger_rating": 130,
+      "abilities": {
+        "HEAVY ATTACKS": [
+          "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
+          "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
+        ],
+        "EVASION - PASSIVE": [
+          "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 3576 Energy Damage over 8 seconds."
+        ],
+        "PASSIVE": [
+          "Whenever Wasp shrinks down, her next 2 hits will be critical, with +1609.2 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
+          "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
+        ],
+        "SPECIAL ATTACK 1": [
+          "40% chance to Stun for 2 second(s).",
+          "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Stings the opponent for 6 seconds. An opponent with sting takes 2860.8 damage when activating a special attack.",
+          "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "+178.8 Attack Rating for each hit on her Combo Meter."
+        ]
+      }
+    },
+    "6+4": {
+      "rank": 4,
+      "prestige": "11520",
+      "hp": "32813",
+      "attack": "4092",
+      "crit_rate": "773",
+      "crit_dmge": "1238",
+      "armor": "517",
+      "block_prof": "1407",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "When attacked Wasp gains an additional 25% chance to Purify, then Evade and Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by 25.58 to 64.99%.",
+      "url_page": "https://auntm.ai/champions/wasp/tier/6",
+      "champid": "wasp+6+4",
+      "challenger_rating": 140,
+      "abilities": {
+        "HEAVY ATTACKS": [
+          "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
+          "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
+        ],
+        "EVASION - PASSIVE": [
+          "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 4092 Energy Damage over 8 seconds."
+        ],
+        "PASSIVE": [
+          "Whenever Wasp shrinks down, her next 2 hits will be critical, with +1841.4 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
+          "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
+        ],
+        "SPECIAL ATTACK 1": [
+          "40% chance to Stun for 2 second(s).",
+          "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Stings the opponent for 6 seconds. An opponent with sting takes 3273.6 damage when activating a special attack.",
+          "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "+204.6 Attack Rating for each hit on her Combo Meter."
+        ]
+      }
+    },
+    "1+1": {
+      "rank": 1,
+      "prestige": 220,
+      "hp": 622,
+      "attack": 78,
+      "crit_rate": 545,
+      "crit_dmge": 872,
+      "armor": 0,
+      "block_prof": 991,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/wasp/tier/1",
+      "champid": "wasp+1+1",
+      "challenger_rating": 10,
+      "abilities": {
+        "HEAVY ATTACKS": [
+          "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
+          "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
+        ],
+        "EVASION - PASSIVE": [
+          "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 78 Energy Damage over 8 seconds."
+        ],
+        "PASSIVE": [
+          "Whenever Wasp shrinks down, her next 2 hits will be critical, with +35.1 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
+          "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
+        ],
+        "SPECIAL ATTACK 1": [
+          "40% chance to Stun for 2 second(s).",
+          "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Stings the opponent for 6 seconds. An opponent with sting takes 62.4 damage when activating a special attack.",
+          "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "+3.9 Attack Rating for each hit on her Combo Meter."
+        ]
+      }
+    },
+    "1+2": {
+      "rank": 2,
+      "prestige": 301,
+      "hp": 861,
+      "attack": 108,
+      "crit_rate": 563,
+      "crit_dmge": 900,
+      "armor": 0,
+      "block_prof": 1023,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/wasp/tier/1",
+      "champid": "wasp+1+2",
+      "challenger_rating": 20,
+      "abilities": {
+        "HEAVY ATTACKS": [
+          "When Wasp charges a Heavy Attack while hitting with a Basic Attack Combo, the opponent loses sight of her and passively gets Stunned for 0.60 seconds.",
+          "Inflicts Weakness for 10 seconds if this attack was chained while hitting with a Basic Attack Combo, reducing the opponent\u2019s Attack Rating by 30%."
+        ],
+        "EVASION - PASSIVE": [
+          "When attacked Wasp has a 8% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then Passively shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing 108 Energy Damage over 8 seconds."
+        ],
+        "PASSIVE": [
+          "Whenever Wasp shrinks down, her next 2 hits will be critical, with +48.6 Attack Rating for each Debuff active on the opponent. Additionally, Counter Attack is disabled for 10 seconds.",
+          "When Wasp has Class Advantage, all of her abilities that are based on the Combo Meter receive an additional bonus equivalent to 40 more hits on her Combo Meter."
+        ],
+        "SPECIAL ATTACK 1": [
+          "40% chance to Stun for 2 second(s).",
+          "Concussion, reducing the opponent\u2019s Ability Accuracy by 1% for each hit on her Combo Meter for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Stings the opponent for 6 seconds. An opponent with sting takes 86.4 damage when activating a special attack.",
+          "After lasting its full duration Sting will convert into a Petrify Debuff of 1.75% Potency per hit on Wasp\u2019s Combo Meter, lasting 12 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "+5.4 Attack Rating for each hit on her Combo Meter."
+        ]
+      }
+    },
+    "find": {
+      "story_quests": {
+        "act_1": [],
+        "act_2": [],
+        "act_3": [],
+        "act_4": [],
+        "act_5": [],
+        "act_6": [
+          "6.1.2",
+          "6.1.4",
+          "6.1.5",
+          "6.2.2",
+          "6.2.5",
+          "6.3.1",
+          "6.3.2",
+          "6.3.4",
+          "6.3.5",
+          "6.4.1",
+          "6.4.4",
+          "6.4.5",
+          "6.4.6"
+        ],
+        "act_7": ["7.2.1", "7.2.6", "7.3.3", "7.3.4", "7.4.4", "7.4.6"]
+      }
     }
+  },
+  "name": "WASP",
+  "class": "Science",
+  "img_portrait": "https://api.rexians.tk/assets/portraits/wasp.png",
+  "contact": "PHYSICAL",
+  "tags": ["Hero", "Size: S"],
+  "released": "7/5/2018"
 }

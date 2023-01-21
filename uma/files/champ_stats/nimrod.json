@@ -1,1288 +1,1396 @@
 {
-    "name": "NIMROD",
-    "class": "Tech",
-    "img_portrait": "https://api.rexians.tk/assets/portraits/nimrod.png",
-    "contact": "ENERGY",
-    "tags": [
-        "Robot",
-        "Villain",
-        "Size: L"
-    ],
-    "released": "9/23/2021",
-    "champid": "nimrod",
-    "data": {
-        "2+1": {
-            "rank": 1,
-            "prestige": "276",
-            "hp": "1050",
-            "attack": "83",
-            "crit_rate": "305",
-            "crit_dmge": "400",
-            "armor": "607",
-            "block_prof": "2972",
-            "energy_resist": "85",
-            "physical_resist": "85",
-            "crit_resist": "0",
-            "sig_info": [
-                "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 25%.",
-                "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team."
-            ],
-            "url_page": "https://auntm.ai/champions/nimrod/tier/2",
-            "champid": "nimrod+2+1",
-            "challenger_rating": 20,
-            "abilities": {
-                "WHEN DEFENDING A QUEST NODE:": [
-                    "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
-                ],
-                "SUPERIOR MUTANT HUNTING ROBOT": [
-                    "Advanced Robotics provides Immunity to Bleed & Poison effects.",
-                    "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
-                    "All Attacks deal Energy Damage instead of Physical.",
-                    "Against Mutants, gain Immunity to Ability Accuracy Modification."
-                ],
-                "ADAPTIVE PROTOCOLS:": [
-                    "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
-                    "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +400 Armor Rating for 20 seconds.",
-                    "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
-                    "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
-                    "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
-                ],
-                "TITAN PROTOCOL": [
-                    "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
-                    "Well-Timed Blocks create 1 Armor Up."
-                ],
-                "BLITZ PROTOCOL": [
-                    "Attacks have +33.2 Attack Rating. +25% Potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
-                    "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 16.6 Energy Damage over 1.50 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
-                    ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 861.54 for 25 seconds. Max 1."
-                ],
-                "SPECIAL ATTACK 2": [
-                    ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
-                    ": Each Hit inflicts a Passive Shock, dealing 153.55 Energy Damage over 2 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
-                    ": Deal a burst of up to 996 Energy Damage based on Opponents missing health."
-                ]
-            }
-        },
-        "2+2": {
-            "rank": 2,
-            "prestige": "365",
-            "hp": "1387",
-            "attack": "110",
-            "crit_rate": "315",
-            "crit_dmge": "413",
-            "armor": "658",
-            "block_prof": "3065",
-            "energy_resist": "87",
-            "physical_resist": "87",
-            "crit_resist": "0",
-            "sig_info": [
-                "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 25%.",
-                "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team."
-            ],
-            "url_page": "https://auntm.ai/champions/nimrod/tier/2",
-            "champid": "nimrod+2+2",
-            "challenger_rating": 30,
-            "abilities": {
-                "WHEN DEFENDING A QUEST NODE:": [
-                    "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
-                ],
-                "SUPERIOR MUTANT HUNTING ROBOT": [
-                    "Advanced Robotics provides Immunity to Bleed & Poison effects.",
-                    "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
-                    "All Attacks deal Energy Damage instead of Physical.",
-                    "Against Mutants, gain Immunity to Ability Accuracy Modification."
-                ],
-                "ADAPTIVE PROTOCOLS:": [
-                    "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
-                    "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +412.5 Armor Rating for 20 seconds.",
-                    "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
-                    "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
-                    "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
-                ],
-                "TITAN PROTOCOL": [
-                    "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
-                    "Well-Timed Blocks create 1 Armor Up."
-                ],
-                "BLITZ PROTOCOL": [
-                    "Attacks have +44 Attack Rating. +25% Potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
-                    "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 22 Energy Damage over 1.50 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
-                    ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 888.46 for 25 seconds. Max 1."
-                ],
-                "SPECIAL ATTACK 2": [
-                    ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
-                    ": Each Hit inflicts a Passive Shock, dealing 203.5 Energy Damage over 2 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
-                    ": Deal a burst of up to 1320 Energy Damage based on Opponents missing health."
-                ]
-            }
-        },
-        "2+3": {
-            "rank": 3,
-            "prestige": "577",
-            "hp": "2202",
-            "attack": "174",
-            "crit_rate": "324",
-            "crit_dmge": "425",
-            "armor": "712",
-            "block_prof": "3158",
-            "energy_resist": "90",
-            "physical_resist": "90",
-            "crit_resist": "0",
-            "sig_info": [
-                "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 25%.",
-                "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team."
-            ],
-            "url_page": "https://auntm.ai/champions/nimrod/tier/2",
-            "champid": "nimrod+2+3",
-            "challenger_rating": 40,
-            "abilities": {
-                "WHEN DEFENDING A QUEST NODE:": [
-                    "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
-                ],
-                "SUPERIOR MUTANT HUNTING ROBOT": [
-                    "Advanced Robotics provides Immunity to Bleed & Poison effects.",
-                    "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
-                    "All Attacks deal Energy Damage instead of Physical.",
-                    "Against Mutants, gain Immunity to Ability Accuracy Modification."
-                ],
-                "ADAPTIVE PROTOCOLS:": [
-                    "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
-                    "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +425 Armor Rating for 20 seconds.",
-                    "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
-                    "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
-                    "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
-                ],
-                "TITAN PROTOCOL": [
-                    "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
-                    "Well-Timed Blocks create 1 Armor Up."
-                ],
-                "BLITZ PROTOCOL": [
-                    "Attacks have +69.6 Attack Rating. +25% Potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
-                    "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 34.8 Energy Damage over 1.50 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
-                    ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 915.38 for 25 seconds. Max 1."
-                ],
-                "SPECIAL ATTACK 2": [
-                    ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
-                    ": Each Hit inflicts a Passive Shock, dealing 321.9 Energy Damage over 2 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
-                    ": Deal a burst of up to 2088 Energy Damage based on Opponents missing health."
-                ]
-            }
-        },
-        "3+1": {
-            "rank": 1,
-            "prestige": "500",
-            "hp": "1904",
-            "attack": "151",
-            "crit_rate": "324",
-            "crit_dmge": "425",
-            "armor": "645",
-            "block_prof": "3158",
-            "energy_resist": "90",
-            "physical_resist": "90",
-            "crit_resist": "0",
-            "sig_info": [
-                "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 25%.",
-                "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team."
-            ],
-            "url_page": "https://auntm.ai/champions/nimrod/tier/3",
-            "champid": "nimrod+3+1",
-            "challenger_rating": 40,
-            "abilities": {
-                "WHEN DEFENDING A QUEST NODE:": [
-                    "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
-                ],
-                "SUPERIOR MUTANT HUNTING ROBOT": [
-                    "Advanced Robotics provides Immunity to Bleed & Poison effects.",
-                    "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
-                    "All Attacks deal Energy Damage instead of Physical.",
-                    "Against Mutants, gain Immunity to Ability Accuracy Modification."
-                ],
-                "ADAPTIVE PROTOCOLS:": [
-                    "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
-                    "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +425 Armor Rating for 20 seconds.",
-                    "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
-                    "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
-                    "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
-                ],
-                "TITAN PROTOCOL": [
-                    "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
-                    "Well-Timed Blocks create 1 Armor Up."
-                ],
-                "BLITZ PROTOCOL": [
-                    "Attacks have +60.4 Attack Rating. +25% Potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
-                    "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 30.2 Energy Damage over 1.50 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
-                    ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 915.38 for 25 seconds. Max 1."
-                ],
-                "SPECIAL ATTACK 2": [
-                    ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
-                    ": Each Hit inflicts a Passive Shock, dealing 279.35 Energy Damage over 2 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
-                    ": Deal a burst of up to 1812 Energy Damage based on Opponents missing health."
-                ]
-            }
-        },
-        "3+2": {
-            "rank": 2,
-            "prestige": "800",
-            "hp": "3046",
-            "attack": "241",
-            "crit_rate": "334",
-            "crit_dmge": "438",
-            "armor": "698",
-            "block_prof": "3250",
-            "energy_resist": "93",
-            "physical_resist": "93",
-            "crit_resist": "0",
-            "sig_info": [
-                "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 25%.",
-                "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team."
-            ],
-            "url_page": "https://auntm.ai/champions/nimrod/tier/3",
-            "champid": "nimrod+3+2",
-            "challenger_rating": 50,
-            "abilities": {
-                "WHEN DEFENDING A QUEST NODE:": [
-                    "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
-                ],
-                "SUPERIOR MUTANT HUNTING ROBOT": [
-                    "Advanced Robotics provides Immunity to Bleed & Poison effects.",
-                    "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
-                    "All Attacks deal Energy Damage instead of Physical.",
-                    "Against Mutants, gain Immunity to Ability Accuracy Modification."
-                ],
-                "ADAPTIVE PROTOCOLS:": [
-                    "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
-                    "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +437.5 Armor Rating for 20 seconds.",
-                    "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
-                    "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
-                    "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
-                ],
-                "TITAN PROTOCOL": [
-                    "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
-                    "Well-Timed Blocks create 1 Armor Up."
-                ],
-                "BLITZ PROTOCOL": [
-                    "Attacks have +96.4 Attack Rating. +25% Potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
-                    "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 48.2 Energy Damage over 1.50 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
-                    ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 942.31 for 25 seconds. Max 1."
-                ],
-                "SPECIAL ATTACK 2": [
-                    ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
-                    ": Each Hit inflicts a Passive Shock, dealing 445.85 Energy Damage over 2 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
-                    ": Deal a burst of up to 2892 Energy Damage based on Opponents missing health."
-                ]
-            }
-        },
-        "3+3": {
-            "rank": 3,
-            "prestige": "1119",
-            "hp": "4261",
-            "attack": "337",
-            "crit_rate": "343",
-            "crit_dmge": "450",
-            "armor": "754",
-            "block_prof": "3343",
-            "energy_resist": "95",
-            "physical_resist": "95",
-            "crit_resist": "0",
-            "sig_info": [
-                "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 25%.",
-                "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team."
-            ],
-            "url_page": "https://auntm.ai/champions/nimrod/tier/3",
-            "champid": "nimrod+3+3",
-            "challenger_rating": 60,
-            "abilities": {
-                "WHEN DEFENDING A QUEST NODE:": [
-                    "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
-                ],
-                "SUPERIOR MUTANT HUNTING ROBOT": [
-                    "Advanced Robotics provides Immunity to Bleed & Poison effects.",
-                    "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
-                    "All Attacks deal Energy Damage instead of Physical.",
-                    "Against Mutants, gain Immunity to Ability Accuracy Modification."
-                ],
-                "ADAPTIVE PROTOCOLS:": [
-                    "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
-                    "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +450 Armor Rating for 20 seconds.",
-                    "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
-                    "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
-                    "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
-                ],
-                "TITAN PROTOCOL": [
-                    "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
-                    "Well-Timed Blocks create 1 Armor Up."
-                ],
-                "BLITZ PROTOCOL": [
-                    "Attacks have +134.8 Attack Rating. +25% Potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
-                    "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 67.4 Energy Damage over 1.50 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
-                    ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 969.23 for 25 seconds. Max 1."
-                ],
-                "SPECIAL ATTACK 2": [
-                    ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
-                    ": Each Hit inflicts a Passive Shock, dealing 623.45 Energy Damage over 2 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
-                    ": Deal a burst of up to 4044 Energy Damage based on Opponents missing health."
-                ]
-            }
-        },
-        "3+4": {
-            "rank": 4,
-            "prestige": "1538",
-            "hp": "5851",
-            "attack": "463",
-            "crit_rate": "353",
-            "crit_dmge": "463",
-            "armor": "812",
-            "block_prof": "3436",
-            "energy_resist": "98",
-            "physical_resist": "98",
-            "crit_resist": "0",
-            "sig_info": [
-                "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 25%.",
-                "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team."
-            ],
-            "url_page": "https://auntm.ai/champions/nimrod/tier/3",
-            "champid": "nimrod+3+4",
-            "challenger_rating": 70,
-            "abilities": {
-                "WHEN DEFENDING A QUEST NODE:": [
-                    "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
-                ],
-                "SUPERIOR MUTANT HUNTING ROBOT": [
-                    "Advanced Robotics provides Immunity to Bleed & Poison effects.",
-                    "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
-                    "All Attacks deal Energy Damage instead of Physical.",
-                    "Against Mutants, gain Immunity to Ability Accuracy Modification."
-                ],
-                "ADAPTIVE PROTOCOLS:": [
-                    "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
-                    "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +462.5 Armor Rating for 20 seconds.",
-                    "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
-                    "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
-                    "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
-                ],
-                "TITAN PROTOCOL": [
-                    "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
-                    "Well-Timed Blocks create 1 Armor Up."
-                ],
-                "BLITZ PROTOCOL": [
-                    "Attacks have +185.2 Attack Rating. +25% Potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
-                    "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 92.6 Energy Damage over 1.50 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
-                    ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 996.15 for 25 seconds. Max 1."
-                ],
-                "SPECIAL ATTACK 2": [
-                    ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
-                    ": Each Hit inflicts a Passive Shock, dealing 856.55 Energy Damage over 2 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
-                    ": Deal a burst of up to 5556 Energy Damage based on Opponents missing health."
-                ]
-            }
-        },
-        "4+1": {
-            "rank": 1,
-            "prestige": "1121",
-            "hp": "4258",
-            "attack": "337",
-            "crit_rate": "343",
-            "crit_dmge": "450",
-            "armor": "683",
-            "block_prof": "3343",
-            "energy_resist": "95",
-            "physical_resist": "95",
-            "crit_resist": "0",
-            "sig_info": [
-                "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 25%.",
-                "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team."
-            ],
-            "url_page": "https://auntm.ai/champions/nimrod/tier/4",
-            "champid": "nimrod+4+1",
-            "challenger_rating": 60,
-            "abilities": {
-                "WHEN DEFENDING A QUEST NODE:": [
-                    "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
-                ],
-                "SUPERIOR MUTANT HUNTING ROBOT": [
-                    "Advanced Robotics provides Immunity to Bleed & Poison effects.",
-                    "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
-                    "All Attacks deal Energy Damage instead of Physical.",
-                    "Against Mutants, gain Immunity to Ability Accuracy Modification."
-                ],
-                "ADAPTIVE PROTOCOLS:": [
-                    "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
-                    "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +450 Armor Rating for 20 seconds.",
-                    "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
-                    "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
-                    "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
-                ],
-                "TITAN PROTOCOL": [
-                    "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
-                    "Well-Timed Blocks create 1 Armor Up."
-                ],
-                "BLITZ PROTOCOL": [
-                    "Attacks have +134.8 Attack Rating. +25% Potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
-                    "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 67.4 Energy Damage over 1.50 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
-                    ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 969.23 for 25 seconds. Max 1."
-                ],
-                "SPECIAL ATTACK 2": [
-                    ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
-                    ": Each Hit inflicts a Passive Shock, dealing 623.45 Energy Damage over 2 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
-                    ": Deal a burst of up to 4044 Energy Damage based on Opponents missing health."
-                ]
-            }
-        },
-        "4+2": {
-            "rank": 2,
-            "prestige": "1573",
-            "hp": "5973",
-            "attack": "472",
-            "crit_rate": "353",
-            "crit_dmge": "463",
-            "armor": "738",
-            "block_prof": "3436",
-            "energy_resist": "98",
-            "physical_resist": "98",
-            "crit_resist": "0",
-            "sig_info": [
-                "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 25%.",
-                "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team."
-            ],
-            "url_page": "https://auntm.ai/champions/nimrod/tier/4",
-            "champid": "nimrod+4+2",
-            "challenger_rating": 70,
-            "abilities": {
-                "WHEN DEFENDING A QUEST NODE:": [
-                    "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
-                ],
-                "SUPERIOR MUTANT HUNTING ROBOT": [
-                    "Advanced Robotics provides Immunity to Bleed & Poison effects.",
-                    "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
-                    "All Attacks deal Energy Damage instead of Physical.",
-                    "Against Mutants, gain Immunity to Ability Accuracy Modification."
-                ],
-                "ADAPTIVE PROTOCOLS:": [
-                    "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
-                    "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +462.5 Armor Rating for 20 seconds.",
-                    "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
-                    "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
-                    "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
-                ],
-                "TITAN PROTOCOL": [
-                    "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
-                    "Well-Timed Blocks create 1 Armor Up."
-                ],
-                "BLITZ PROTOCOL": [
-                    "Attacks have +188.8 Attack Rating. +25% Potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
-                    "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 94.4 Energy Damage over 1.50 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
-                    ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 996.15 for 25 seconds. Max 1."
-                ],
-                "SPECIAL ATTACK 2": [
-                    ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
-                    ": Each Hit inflicts a Passive Shock, dealing 873.2 Energy Damage over 2 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
-                    ": Deal a burst of up to 5664 Energy Damage based on Opponents missing health."
-                ]
-            }
-        },
-        "4+3": {
-            "rank": 3,
-            "prestige": "2202",
-            "hp": "8368",
-            "attack": "661",
-            "crit_rate": "362",
-            "crit_dmge": "475",
-            "armor": "796",
-            "block_prof": "3529",
-            "energy_resist": "100",
-            "physical_resist": "100",
-            "crit_resist": "0",
-            "sig_info": [
-                "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 25%.",
-                "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team."
-            ],
-            "url_page": "https://auntm.ai/champions/nimrod/tier/4",
-            "champid": "nimrod+4+3",
-            "challenger_rating": 80,
-            "abilities": {
-                "WHEN DEFENDING A QUEST NODE:": [
-                    "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
-                ],
-                "SUPERIOR MUTANT HUNTING ROBOT": [
-                    "Advanced Robotics provides Immunity to Bleed & Poison effects.",
-                    "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
-                    "All Attacks deal Energy Damage instead of Physical.",
-                    "Against Mutants, gain Immunity to Ability Accuracy Modification."
-                ],
-                "ADAPTIVE PROTOCOLS:": [
-                    "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
-                    "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +475 Armor Rating for 20 seconds.",
-                    "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
-                    "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
-                    "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
-                ],
-                "TITAN PROTOCOL": [
-                    "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
-                    "Well-Timed Blocks create 1 Armor Up."
-                ],
-                "BLITZ PROTOCOL": [
-                    "Attacks have +264.4 Attack Rating. +25% Potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
-                    "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 132.2 Energy Damage over 1.50 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
-                    ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 1023.08 for 25 seconds. Max 1."
-                ],
-                "SPECIAL ATTACK 2": [
-                    ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
-                    ": Each Hit inflicts a Passive Shock, dealing 1222.85 Energy Damage over 2 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
-                    ": Deal a burst of up to 7932 Energy Damage based on Opponents missing health."
-                ]
-            }
-        },
-        "4+4": {
-            "rank": 4,
-            "prestige": "2899",
-            "hp": "10996",
-            "attack": "869",
-            "crit_rate": "372",
-            "crit_dmge": "488",
-            "armor": "856",
-            "block_prof": "3622",
-            "energy_resist": "103",
-            "physical_resist": "103",
-            "crit_resist": "0",
-            "sig_info": [
-                "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 25%.",
-                "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team."
-            ],
-            "url_page": "https://auntm.ai/champions/nimrod/tier/4",
-            "champid": "nimrod+4+4",
-            "challenger_rating": 90,
-            "abilities": {
-                "WHEN DEFENDING A QUEST NODE:": [
-                    "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
-                ],
-                "SUPERIOR MUTANT HUNTING ROBOT": [
-                    "Advanced Robotics provides Immunity to Bleed & Poison effects.",
-                    "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
-                    "All Attacks deal Energy Damage instead of Physical.",
-                    "Against Mutants, gain Immunity to Ability Accuracy Modification."
-                ],
-                "ADAPTIVE PROTOCOLS:": [
-                    "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
-                    "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +487.5 Armor Rating for 20 seconds.",
-                    "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
-                    "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
-                    "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
-                ],
-                "TITAN PROTOCOL": [
-                    "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
-                    "Well-Timed Blocks create 1 Armor Up."
-                ],
-                "BLITZ PROTOCOL": [
-                    "Attacks have +347.6 Attack Rating. +25% Potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
-                    "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 173.8 Energy Damage over 1.50 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
-                    ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 1050 for 25 seconds. Max 1."
-                ],
-                "SPECIAL ATTACK 2": [
-                    ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
-                    ": Each Hit inflicts a Passive Shock, dealing 1607.65 Energy Damage over 2 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
-                    ": Deal a burst of up to 10428 Energy Damage based on Opponents missing health."
-                ]
-            }
-        },
-        "4+5": {
-            "rank": 5,
-            "prestige": "3867",
-            "hp": "14672",
-            "attack": "1159",
-            "crit_rate": "381",
-            "crit_dmge": "500",
-            "armor": "920",
-            "block_prof": "3715",
-            "energy_resist": "106",
-            "physical_resist": "106",
-            "crit_resist": "0",
-            "sig_info": [
-                "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 25%.",
-                "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team."
-            ],
-            "url_page": "https://auntm.ai/champions/nimrod/tier/4",
-            "champid": "nimrod+4+5",
-            "challenger_rating": 100,
-            "abilities": {
-                "WHEN DEFENDING A QUEST NODE:": [
-                    "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
-                ],
-                "SUPERIOR MUTANT HUNTING ROBOT": [
-                    "Advanced Robotics provides Immunity to Bleed & Poison effects.",
-                    "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
-                    "All Attacks deal Energy Damage instead of Physical.",
-                    "Against Mutants, gain Immunity to Ability Accuracy Modification."
-                ],
-                "ADAPTIVE PROTOCOLS:": [
-                    "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
-                    "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +500 Armor Rating for 20 seconds.",
-                    "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
-                    "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
-                    "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
-                ],
-                "TITAN PROTOCOL": [
-                    "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
-                    "Well-Timed Blocks create 1 Armor Up."
-                ],
-                "BLITZ PROTOCOL": [
-                    "Attacks have +463.6 Attack Rating. +25% Potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
-                    "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 231.8 Energy Damage over 1.50 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
-                    ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 1076.92 for 25 seconds. Max 1."
-                ],
-                "SPECIAL ATTACK 2": [
-                    ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
-                    ": Each Hit inflicts a Passive Shock, dealing 2144.15 Energy Damage over 2 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
-                    ": Deal a burst of up to 13908 Energy Damage based on Opponents missing health."
-                ]
-            }
-        },
-        "5+1": {
-            "rank": 1,
-            "prestige": "2313",
-            "hp": "8756",
-            "attack": "692",
-            "crit_rate": "362",
-            "crit_dmge": "475",
-            "armor": "721",
-            "block_prof": "3529",
-            "energy_resist": "100",
-            "physical_resist": "100",
-            "crit_resist": "0",
-            "sig_info": [
-                "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team.",
-                "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 35%."
-            ],
-            "url_page": "https://auntm.ai/champions/nimrod/tier/5",
-            "champid": "nimrod+5+1",
-            "challenger_rating": 80,
-            "abilities": {
-                "WHEN DEFENDING A QUEST NODE:": [
-                    "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
-                ],
-                "SUPERIOR MUTANT HUNTING ROBOT": [
-                    "Advanced Robotics provides Immunity to Bleed & Poison effects.",
-                    "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
-                    "All Attacks deal Energy Damage instead of Physical.",
-                    "Against Mutants, gain Immunity to Ability Accuracy Modification."
-                ],
-                "ADAPTIVE PROTOCOLS:": [
-                    "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
-                    "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +475 Armor Rating for 20 seconds.",
-                    "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
-                    "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
-                    "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
-                ],
-                "TITAN PROTOCOL": [
-                    "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
-                    "Well-Timed Blocks create 1 Armor Up."
-                ],
-                "BLITZ PROTOCOL": [
-                    "Attacks have +276.8 Attack Rating. +25% Potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
-                    "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 138.4 Energy Damage over 1.50 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
-                    ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 1023.08 for 25 seconds. Max 1."
-                ],
-                "SPECIAL ATTACK 2": [
-                    ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
-                    ": Each Hit inflicts a Passive Shock, dealing 1280.2 Energy Damage over 2 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
-                    ": Deal a burst of up to 8304 Energy Damage based on Opponents missing health."
-                ]
-            }
-        },
-        "5+2": {
-            "rank": 2,
-            "prestige": "3055",
-            "hp": "11566",
-            "attack": "914",
-            "crit_rate": "372",
-            "crit_dmge": "488",
-            "armor": "778",
-            "block_prof": "3622",
-            "energy_resist": "103",
-            "physical_resist": "103",
-            "crit_resist": "0",
-            "sig_info": [
-                "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team.",
-                "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 35%."
-            ],
-            "url_page": "https://auntm.ai/champions/nimrod/tier/5",
-            "champid": "nimrod+5+2",
-            "challenger_rating": 90,
-            "abilities": {
-                "WHEN DEFENDING A QUEST NODE:": [
-                    "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
-                ],
-                "SUPERIOR MUTANT HUNTING ROBOT": [
-                    "Advanced Robotics provides Immunity to Bleed & Poison effects.",
-                    "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
-                    "All Attacks deal Energy Damage instead of Physical.",
-                    "Against Mutants, gain Immunity to Ability Accuracy Modification."
-                ],
-                "ADAPTIVE PROTOCOLS:": [
-                    "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
-                    "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +487.5 Armor Rating for 20 seconds.",
-                    "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
-                    "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
-                    "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
-                ],
-                "TITAN PROTOCOL": [
-                    "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
-                    "Well-Timed Blocks create 1 Armor Up."
-                ],
-                "BLITZ PROTOCOL": [
-                    "Attacks have +365.6 Attack Rating. +25% Potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
-                    "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 182.8 Energy Damage over 1.50 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
-                    ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 1050 for 25 seconds. Max 1."
-                ],
-                "SPECIAL ATTACK 2": [
-                    ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
-                    ": Each Hit inflicts a Passive Shock, dealing 1690.9 Energy Damage over 2 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
-                    ": Deal a burst of up to 10968 Energy Damage based on Opponents missing health."
-                ]
-            }
-        },
-        "5+3": {
-            "rank": 3,
-            "prestige": "4280",
-            "hp": "16169",
-            "attack": "1278",
-            "crit_rate": "381",
-            "crit_dmge": "500",
-            "armor": "837",
-            "block_prof": "3715",
-            "energy_resist": "106",
-            "physical_resist": "106",
-            "crit_resist": "0",
-            "sig_info": [
-                "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team.",
-                "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 35%."
-            ],
-            "url_page": "https://auntm.ai/champions/nimrod/tier/5",
-            "champid": "nimrod+5+3",
-            "challenger_rating": 100,
-            "abilities": {
-                "WHEN DEFENDING A QUEST NODE:": [
-                    "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
-                ],
-                "SUPERIOR MUTANT HUNTING ROBOT": [
-                    "Advanced Robotics provides Immunity to Bleed & Poison effects.",
-                    "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
-                    "All Attacks deal Energy Damage instead of Physical.",
-                    "Against Mutants, gain Immunity to Ability Accuracy Modification."
-                ],
-                "ADAPTIVE PROTOCOLS:": [
-                    "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
-                    "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +500 Armor Rating for 20 seconds.",
-                    "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
-                    "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
-                    "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
-                ],
-                "TITAN PROTOCOL": [
-                    "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
-                    "Well-Timed Blocks create 1 Armor Up."
-                ],
-                "BLITZ PROTOCOL": [
-                    "Attacks have +511.2 Attack Rating. +25% Potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
-                    "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 255.6 Energy Damage over 1.50 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
-                    ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 1076.92 for 25 seconds. Max 1."
-                ],
-                "SPECIAL ATTACK 2": [
-                    ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
-                    ": Each Hit inflicts a Passive Shock, dealing 2364.3 Energy Damage over 2 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
-                    ": Deal a burst of up to 15336 Energy Damage based on Opponents missing health."
-                ]
-            }
-        },
-        "5+4": {
-            "rank": 4,
-            "prestige": "5767",
-            "hp": "21788",
-            "attack": "1721",
-            "crit_rate": "391",
-            "crit_dmge": "513",
-            "armor": "900",
-            "block_prof": "3808",
-            "energy_resist": "108",
-            "physical_resist": "108",
-            "crit_resist": "0",
-            "sig_info": [
-                "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team.",
-                "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 35%."
-            ],
-            "url_page": "https://auntm.ai/champions/nimrod/tier/5",
-            "champid": "nimrod+5+4",
-            "challenger_rating": 110,
-            "abilities": {
-                "WHEN DEFENDING A QUEST NODE:": [
-                    "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
-                ],
-                "SUPERIOR MUTANT HUNTING ROBOT": [
-                    "Advanced Robotics provides Immunity to Bleed & Poison effects.",
-                    "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
-                    "All Attacks deal Energy Damage instead of Physical.",
-                    "Against Mutants, gain Immunity to Ability Accuracy Modification."
-                ],
-                "ADAPTIVE PROTOCOLS:": [
-                    "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
-                    "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +512.5 Armor Rating for 20 seconds.",
-                    "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
-                    "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
-                    "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
-                ],
-                "TITAN PROTOCOL": [
-                    "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
-                    "Well-Timed Blocks create 1 Armor Up."
-                ],
-                "BLITZ PROTOCOL": [
-                    "Attacks have +688.4 Attack Rating. +25% Potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
-                    "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 344.2 Energy Damage over 1.50 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
-                    ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 1103.85 for 25 seconds. Max 1."
-                ],
-                "SPECIAL ATTACK 2": [
-                    ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
-                    ": Each Hit inflicts a Passive Shock, dealing 3183.85 Energy Damage over 2 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
-                    ": Deal a burst of up to 20652 Energy Damage based on Opponents missing health."
-                ]
-            }
-        },
-        "5+5": {
-            "rank": 5,
-            "prestige": "7800",
-            "hp": "29417",
-            "attack": "2324",
-            "crit_rate": "400",
-            "crit_dmge": "525",
-            "armor": "966",
-            "block_prof": "3901",
-            "energy_resist": "111",
-            "physical_resist": "111",
-            "crit_resist": "0",
-            "sig_info": [
-                "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team.",
-                "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 35%."
-            ],
-            "url_page": "https://auntm.ai/champions/nimrod/tier/5",
-            "champid": "nimrod+5+5",
-            "challenger_rating": 120,
-            "abilities": {
-                "WHEN DEFENDING A QUEST NODE:": [
-                    "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
-                ],
-                "SUPERIOR MUTANT HUNTING ROBOT": [
-                    "Advanced Robotics provides Immunity to Bleed & Poison effects.",
-                    "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
-                    "All Attacks deal Energy Damage instead of Physical.",
-                    "Against Mutants, gain Immunity to Ability Accuracy Modification."
-                ],
-                "ADAPTIVE PROTOCOLS:": [
-                    "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
-                    "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +525 Armor Rating for 20 seconds.",
-                    "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
-                    "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
-                    "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
-                ],
-                "TITAN PROTOCOL": [
-                    "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
-                    "Well-Timed Blocks create 1 Armor Up."
-                ],
-                "BLITZ PROTOCOL": [
-                    "Attacks have +929.6 Attack Rating. +25% Potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
-                    "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 464.8 Energy Damage over 1.50 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
-                    ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 1130.77 for 25 seconds. Max 1."
-                ],
-                "SPECIAL ATTACK 2": [
-                    ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
-                    ": Each Hit inflicts a Passive Shock, dealing 4299.4 Energy Damage over 2 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
-                    ": Deal a burst of up to 27888 Energy Damage based on Opponents missing health."
-                ]
-            }
-        },
-        "6+1": {
-            "rank": 1,
-            "prestige": "6108",
-            "hp": "23131",
-            "attack": "1827",
-            "crit_rate": "391",
-            "crit_dmge": "513",
-            "armor": "778",
-            "block_prof": "3808",
-            "energy_resist": "108",
-            "physical_resist": "108",
-            "crit_resist": "0",
-            "sig_info": [
-                "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team.",
-                "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 35%."
-            ],
-            "url_page": "https://auntm.ai/champions/nimrod/tier/6",
-            "champid": "nimrod+6+1",
-            "challenger_rating": 110,
-            "abilities": {
-                "WHEN DEFENDING A QUEST NODE:": [
-                    "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
-                ],
-                "SUPERIOR MUTANT HUNTING ROBOT": [
-                    "Advanced Robotics provides Immunity to Bleed & Poison effects.",
-                    "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
-                    "All Attacks deal Energy Damage instead of Physical.",
-                    "Against Mutants, gain Immunity to Ability Accuracy Modification."
-                ],
-                "ADAPTIVE PROTOCOLS:": [
-                    "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
-                    "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +512.5 Armor Rating for 20 seconds.",
-                    "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
-                    "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
-                    "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
-                ],
-                "TITAN PROTOCOL": [
-                    "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
-                    "Well-Timed Blocks create 1 Armor Up."
-                ],
-                "BLITZ PROTOCOL": [
-                    "Attacks have +730.8 Attack Rating. +25% Potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
-                    "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 365.4 Energy Damage over 1.50 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
-                    ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 1103.85 for 25 seconds. Max 1."
-                ],
-                "SPECIAL ATTACK 2": [
-                    ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
-                    ": Each Hit inflicts a Passive Shock, dealing 3379.95 Energy Damage over 2 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
-                    ": Deal a burst of up to 21924 Energy Damage based on Opponents missing health."
-                ]
-            }
-        },
-        "6+2": {
-            "rank": 2,
-            "prestige": "8436",
-            "hp": "31951",
-            "attack": "2524",
-            "crit_rate": "400",
-            "crit_dmge": "525",
-            "armor": "838",
-            "block_prof": "3901",
-            "energy_resist": "111",
-            "physical_resist": "111",
-            "crit_resist": "0",
-            "sig_info": [
-                "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team.",
-                "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 35%."
-            ],
-            "url_page": "https://auntm.ai/champions/nimrod/tier/6",
-            "champid": "nimrod+6+2",
-            "challenger_rating": 120,
-            "abilities": {
-                "WHEN DEFENDING A QUEST NODE:": [
-                    "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
-                ],
-                "SUPERIOR MUTANT HUNTING ROBOT": [
-                    "Advanced Robotics provides Immunity to Bleed & Poison effects.",
-                    "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
-                    "All Attacks deal Energy Damage instead of Physical.",
-                    "Against Mutants, gain Immunity to Ability Accuracy Modification."
-                ],
-                "ADAPTIVE PROTOCOLS:": [
-                    "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
-                    "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +525 Armor Rating for 20 seconds.",
-                    "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
-                    "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
-                    "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
-                ],
-                "TITAN PROTOCOL": [
-                    "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
-                    "Well-Timed Blocks create 1 Armor Up."
-                ],
-                "BLITZ PROTOCOL": [
-                    "Attacks have +1009.6 Attack Rating. +25% Potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
-                    "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 504.8 Energy Damage over 1.50 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
-                    ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 1130.77 for 25 seconds. Max 1."
-                ],
-                "SPECIAL ATTACK 2": [
-                    ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
-                    ": Each Hit inflicts a Passive Shock, dealing 4669.4 Energy Damage over 2 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
-                    ": Deal a burst of up to 30288 Energy Damage based on Opponents missing health."
-                ]
-            }
-        },
-        "6+3": {
-            "rank": 3,
-            "prestige": "10028",
-            "hp": "37905",
-            "attack": "2994",
-            "crit_rate": "410",
-            "crit_dmge": "538",
-            "armor": "900",
-            "block_prof": "3993",
-            "energy_resist": "114",
-            "physical_resist": "114",
-            "crit_resist": "0",
-            "sig_info": [
-                "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team.",
-                "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 35%."
-            ],
-            "url_page": "https://auntm.ai/champions/nimrod/tier/6",
-            "champid": "nimrod+6+3",
-            "challenger_rating": 130,
-            "abilities": {
-                "WHEN DEFENDING A QUEST NODE:": [
-                    "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
-                ],
-                "SUPERIOR MUTANT HUNTING ROBOT": [
-                    "Advanced Robotics provides Immunity to Bleed & Poison effects.",
-                    "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
-                    "All Attacks deal Energy Damage instead of Physical.",
-                    "Against Mutants, gain Immunity to Ability Accuracy Modification."
-                ],
-                "ADAPTIVE PROTOCOLS:": [
-                    "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
-                    "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +537.5 Armor Rating for 20 seconds.",
-                    "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
-                    "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
-                    "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
-                ],
-                "TITAN PROTOCOL": [
-                    "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
-                    "Well-Timed Blocks create 1 Armor Up."
-                ],
-                "BLITZ PROTOCOL": [
-                    "Attacks have +1197.6 Attack Rating. +25% Potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
-                    "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 598.8 Energy Damage over 1.50 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
-                    ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 1157.69 for 25 seconds. Max 1."
-                ],
-                "SPECIAL ATTACK 2": [
-                    ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
-                    ": Each Hit inflicts a Passive Shock, dealing 5538.9 Energy Damage over 2 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
-                    ": Deal a burst of up to 35928 Energy Damage based on Opponents missing health."
-                ]
-            }
-        },
-        "6+4": {
-            "rank": 4,
-            "prestige": "11477",
-            "hp": "43376",
-            "attack": "3427",
-            "crit_rate": "420",
-            "crit_dmge": "550",
-            "armor": "966",
-            "block_prof": "4086",
-            "energy_resist": "116",
-            "physical_resist": "116",
-            "crit_resist": "0",
-            "sig_info": [
-                "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team.",
-                "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 35%."
-            ],
-            "url_page": "https://auntm.ai/champions/nimrod/tier/6",
-            "champid": "nimrod+6+4",
-            "challenger_rating": 140,
-            "abilities": {
-                "WHEN DEFENDING A QUEST NODE:": [
-                    "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
-                ],
-                "SUPERIOR MUTANT HUNTING ROBOT": [
-                    "Advanced Robotics provides Immunity to Bleed & Poison effects.",
-                    "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
-                    "All Attacks deal Energy Damage instead of Physical.",
-                    "Against Mutants, gain Immunity to Ability Accuracy Modification."
-                ],
-                "ADAPTIVE PROTOCOLS:": [
-                    "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
-                    "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +550 Armor Rating for 20 seconds.",
-                    "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
-                    "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
-                    "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
-                ],
-                "TITAN PROTOCOL": [
-                    "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
-                    "Well-Timed Blocks create 1 Armor Up."
-                ],
-                "BLITZ PROTOCOL": [
-                    "Attacks have +1370.8 Attack Rating. +25% Potency per Armor Up.",
-                    "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
-                    "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 685.4 Energy Damage over 1.50 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
-                    ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 1184.62 for 25 seconds. Max 1."
-                ],
-                "SPECIAL ATTACK 2": [
-                    ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
-                    ": Each Hit inflicts a Passive Shock, dealing 6339.95 Energy Damage over 2 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
-                    ": Deal a burst of up to 41124 Energy Damage based on Opponents missing health."
-                ]
-            }
-        },
-        "find": {
-            "story_quests": {
-                "act_1": [],
-                "act_2": [],
-                "act_3": [
-                    "3.1"
-                ],
-                "act_4": [],
-                "act_5": [],
-                "act_6": [],
-                "act_7": []
-            }
-        }
+  "champid": "nimrod",
+  "data": {
+    "2+1": {
+      "rank": 1,
+      "prestige": "276",
+      "hp": "1050",
+      "attack": "83",
+      "crit_rate": "305",
+      "crit_dmge": "400",
+      "armor": "607",
+      "block_prof": "2972",
+      "energy_resist": "85",
+      "physical_resist": "85",
+      "crit_resist": "0",
+      "sig_info": [
+        "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 25%.",
+        "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team."
+      ],
+      "url_page": "https://auntm.ai/champions/nimrod/tier/2",
+      "champid": "nimrod+2+1",
+      "challenger_rating": 20,
+      "abilities": {
+        "WHEN DEFENDING A QUEST NODE:": [
+          "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
+        ],
+        "SUPERIOR MUTANT HUNTING ROBOT": [
+          "Advanced Robotics provides Immunity to Bleed & Poison effects.",
+          "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
+          "All Attacks deal Energy Damage instead of Physical.",
+          "Against Mutants, gain Immunity to Ability Accuracy Modification."
+        ],
+        "ADAPTIVE PROTOCOLS:": [
+          "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
+          "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +400 Armor Rating for 20 seconds.",
+          "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
+          "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
+          "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
+        ],
+        "TITAN PROTOCOL": [
+          "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
+          "Well-Timed Blocks create 1 Armor Up."
+        ],
+        "BLITZ PROTOCOL": [
+          "Attacks have +33.2 Attack Rating. +25% Potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
+          "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 16.6 Energy Damage over 1.50 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
+          ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 861.54 for 25 seconds. Max 1."
+        ],
+        "SPECIAL ATTACK 2": [
+          ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
+          ": Each Hit inflicts a Passive Shock, dealing 153.55 Energy Damage over 2 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
+          ": Deal a burst of up to 996 Energy Damage based on Opponents missing health."
+        ]
+      }
+    },
+    "2+2": {
+      "rank": 2,
+      "prestige": "365",
+      "hp": "1387",
+      "attack": "110",
+      "crit_rate": "315",
+      "crit_dmge": "413",
+      "armor": "658",
+      "block_prof": "3065",
+      "energy_resist": "87",
+      "physical_resist": "87",
+      "crit_resist": "0",
+      "sig_info": [
+        "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 25%.",
+        "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team."
+      ],
+      "url_page": "https://auntm.ai/champions/nimrod/tier/2",
+      "champid": "nimrod+2+2",
+      "challenger_rating": 30,
+      "abilities": {
+        "WHEN DEFENDING A QUEST NODE:": [
+          "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
+        ],
+        "SUPERIOR MUTANT HUNTING ROBOT": [
+          "Advanced Robotics provides Immunity to Bleed & Poison effects.",
+          "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
+          "All Attacks deal Energy Damage instead of Physical.",
+          "Against Mutants, gain Immunity to Ability Accuracy Modification."
+        ],
+        "ADAPTIVE PROTOCOLS:": [
+          "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
+          "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +412.5 Armor Rating for 20 seconds.",
+          "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
+          "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
+          "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
+        ],
+        "TITAN PROTOCOL": [
+          "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
+          "Well-Timed Blocks create 1 Armor Up."
+        ],
+        "BLITZ PROTOCOL": [
+          "Attacks have +44 Attack Rating. +25% Potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
+          "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 22 Energy Damage over 1.50 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
+          ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 888.46 for 25 seconds. Max 1."
+        ],
+        "SPECIAL ATTACK 2": [
+          ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
+          ": Each Hit inflicts a Passive Shock, dealing 203.5 Energy Damage over 2 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
+          ": Deal a burst of up to 1320 Energy Damage based on Opponents missing health."
+        ]
+      }
+    },
+    "2+3": {
+      "rank": 3,
+      "prestige": "577",
+      "hp": "2202",
+      "attack": "174",
+      "crit_rate": "324",
+      "crit_dmge": "425",
+      "armor": "712",
+      "block_prof": "3158",
+      "energy_resist": "90",
+      "physical_resist": "90",
+      "crit_resist": "0",
+      "sig_info": [
+        "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 25%.",
+        "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team."
+      ],
+      "url_page": "https://auntm.ai/champions/nimrod/tier/2",
+      "champid": "nimrod+2+3",
+      "challenger_rating": 40,
+      "abilities": {
+        "WHEN DEFENDING A QUEST NODE:": [
+          "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
+        ],
+        "SUPERIOR MUTANT HUNTING ROBOT": [
+          "Advanced Robotics provides Immunity to Bleed & Poison effects.",
+          "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
+          "All Attacks deal Energy Damage instead of Physical.",
+          "Against Mutants, gain Immunity to Ability Accuracy Modification."
+        ],
+        "ADAPTIVE PROTOCOLS:": [
+          "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
+          "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +425 Armor Rating for 20 seconds.",
+          "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
+          "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
+          "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
+        ],
+        "TITAN PROTOCOL": [
+          "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
+          "Well-Timed Blocks create 1 Armor Up."
+        ],
+        "BLITZ PROTOCOL": [
+          "Attacks have +69.6 Attack Rating. +25% Potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
+          "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 34.8 Energy Damage over 1.50 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
+          ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 915.38 for 25 seconds. Max 1."
+        ],
+        "SPECIAL ATTACK 2": [
+          ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
+          ": Each Hit inflicts a Passive Shock, dealing 321.9 Energy Damage over 2 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
+          ": Deal a burst of up to 2088 Energy Damage based on Opponents missing health."
+        ]
+      }
+    },
+    "3+1": {
+      "rank": 1,
+      "prestige": "500",
+      "hp": "1904",
+      "attack": "151",
+      "crit_rate": "324",
+      "crit_dmge": "425",
+      "armor": "645",
+      "block_prof": "3158",
+      "energy_resist": "90",
+      "physical_resist": "90",
+      "crit_resist": "0",
+      "sig_info": [
+        "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 25%.",
+        "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team."
+      ],
+      "url_page": "https://auntm.ai/champions/nimrod/tier/3",
+      "champid": "nimrod+3+1",
+      "challenger_rating": 40,
+      "abilities": {
+        "WHEN DEFENDING A QUEST NODE:": [
+          "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
+        ],
+        "SUPERIOR MUTANT HUNTING ROBOT": [
+          "Advanced Robotics provides Immunity to Bleed & Poison effects.",
+          "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
+          "All Attacks deal Energy Damage instead of Physical.",
+          "Against Mutants, gain Immunity to Ability Accuracy Modification."
+        ],
+        "ADAPTIVE PROTOCOLS:": [
+          "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
+          "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +425 Armor Rating for 20 seconds.",
+          "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
+          "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
+          "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
+        ],
+        "TITAN PROTOCOL": [
+          "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
+          "Well-Timed Blocks create 1 Armor Up."
+        ],
+        "BLITZ PROTOCOL": [
+          "Attacks have +60.4 Attack Rating. +25% Potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
+          "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 30.2 Energy Damage over 1.50 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
+          ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 915.38 for 25 seconds. Max 1."
+        ],
+        "SPECIAL ATTACK 2": [
+          ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
+          ": Each Hit inflicts a Passive Shock, dealing 279.35 Energy Damage over 2 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
+          ": Deal a burst of up to 1812 Energy Damage based on Opponents missing health."
+        ]
+      }
+    },
+    "3+2": {
+      "rank": 2,
+      "prestige": "800",
+      "hp": "3046",
+      "attack": "241",
+      "crit_rate": "334",
+      "crit_dmge": "438",
+      "armor": "698",
+      "block_prof": "3250",
+      "energy_resist": "93",
+      "physical_resist": "93",
+      "crit_resist": "0",
+      "sig_info": [
+        "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 25%.",
+        "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team."
+      ],
+      "url_page": "https://auntm.ai/champions/nimrod/tier/3",
+      "champid": "nimrod+3+2",
+      "challenger_rating": 50,
+      "abilities": {
+        "WHEN DEFENDING A QUEST NODE:": [
+          "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
+        ],
+        "SUPERIOR MUTANT HUNTING ROBOT": [
+          "Advanced Robotics provides Immunity to Bleed & Poison effects.",
+          "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
+          "All Attacks deal Energy Damage instead of Physical.",
+          "Against Mutants, gain Immunity to Ability Accuracy Modification."
+        ],
+        "ADAPTIVE PROTOCOLS:": [
+          "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
+          "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +437.5 Armor Rating for 20 seconds.",
+          "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
+          "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
+          "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
+        ],
+        "TITAN PROTOCOL": [
+          "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
+          "Well-Timed Blocks create 1 Armor Up."
+        ],
+        "BLITZ PROTOCOL": [
+          "Attacks have +96.4 Attack Rating. +25% Potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
+          "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 48.2 Energy Damage over 1.50 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
+          ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 942.31 for 25 seconds. Max 1."
+        ],
+        "SPECIAL ATTACK 2": [
+          ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
+          ": Each Hit inflicts a Passive Shock, dealing 445.85 Energy Damage over 2 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
+          ": Deal a burst of up to 2892 Energy Damage based on Opponents missing health."
+        ]
+      }
+    },
+    "3+3": {
+      "rank": 3,
+      "prestige": "1119",
+      "hp": "4261",
+      "attack": "337",
+      "crit_rate": "343",
+      "crit_dmge": "450",
+      "armor": "754",
+      "block_prof": "3343",
+      "energy_resist": "95",
+      "physical_resist": "95",
+      "crit_resist": "0",
+      "sig_info": [
+        "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 25%.",
+        "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team."
+      ],
+      "url_page": "https://auntm.ai/champions/nimrod/tier/3",
+      "champid": "nimrod+3+3",
+      "challenger_rating": 60,
+      "abilities": {
+        "WHEN DEFENDING A QUEST NODE:": [
+          "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
+        ],
+        "SUPERIOR MUTANT HUNTING ROBOT": [
+          "Advanced Robotics provides Immunity to Bleed & Poison effects.",
+          "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
+          "All Attacks deal Energy Damage instead of Physical.",
+          "Against Mutants, gain Immunity to Ability Accuracy Modification."
+        ],
+        "ADAPTIVE PROTOCOLS:": [
+          "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
+          "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +450 Armor Rating for 20 seconds.",
+          "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
+          "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
+          "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
+        ],
+        "TITAN PROTOCOL": [
+          "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
+          "Well-Timed Blocks create 1 Armor Up."
+        ],
+        "BLITZ PROTOCOL": [
+          "Attacks have +134.8 Attack Rating. +25% Potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
+          "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 67.4 Energy Damage over 1.50 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
+          ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 969.23 for 25 seconds. Max 1."
+        ],
+        "SPECIAL ATTACK 2": [
+          ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
+          ": Each Hit inflicts a Passive Shock, dealing 623.45 Energy Damage over 2 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
+          ": Deal a burst of up to 4044 Energy Damage based on Opponents missing health."
+        ]
+      }
+    },
+    "3+4": {
+      "rank": 4,
+      "prestige": "1538",
+      "hp": "5851",
+      "attack": "463",
+      "crit_rate": "353",
+      "crit_dmge": "463",
+      "armor": "812",
+      "block_prof": "3436",
+      "energy_resist": "98",
+      "physical_resist": "98",
+      "crit_resist": "0",
+      "sig_info": [
+        "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 25%.",
+        "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team."
+      ],
+      "url_page": "https://auntm.ai/champions/nimrod/tier/3",
+      "champid": "nimrod+3+4",
+      "challenger_rating": 70,
+      "abilities": {
+        "WHEN DEFENDING A QUEST NODE:": [
+          "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
+        ],
+        "SUPERIOR MUTANT HUNTING ROBOT": [
+          "Advanced Robotics provides Immunity to Bleed & Poison effects.",
+          "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
+          "All Attacks deal Energy Damage instead of Physical.",
+          "Against Mutants, gain Immunity to Ability Accuracy Modification."
+        ],
+        "ADAPTIVE PROTOCOLS:": [
+          "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
+          "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +462.5 Armor Rating for 20 seconds.",
+          "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
+          "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
+          "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
+        ],
+        "TITAN PROTOCOL": [
+          "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
+          "Well-Timed Blocks create 1 Armor Up."
+        ],
+        "BLITZ PROTOCOL": [
+          "Attacks have +185.2 Attack Rating. +25% Potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
+          "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 92.6 Energy Damage over 1.50 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
+          ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 996.15 for 25 seconds. Max 1."
+        ],
+        "SPECIAL ATTACK 2": [
+          ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
+          ": Each Hit inflicts a Passive Shock, dealing 856.55 Energy Damage over 2 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
+          ": Deal a burst of up to 5556 Energy Damage based on Opponents missing health."
+        ]
+      }
+    },
+    "4+1": {
+      "rank": 1,
+      "prestige": "1121",
+      "hp": "4258",
+      "attack": "337",
+      "crit_rate": "343",
+      "crit_dmge": "450",
+      "armor": "683",
+      "block_prof": "3343",
+      "energy_resist": "95",
+      "physical_resist": "95",
+      "crit_resist": "0",
+      "sig_info": [
+        "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 25%.",
+        "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team."
+      ],
+      "url_page": "https://auntm.ai/champions/nimrod/tier/4",
+      "champid": "nimrod+4+1",
+      "challenger_rating": 60,
+      "abilities": {
+        "WHEN DEFENDING A QUEST NODE:": [
+          "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
+        ],
+        "SUPERIOR MUTANT HUNTING ROBOT": [
+          "Advanced Robotics provides Immunity to Bleed & Poison effects.",
+          "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
+          "All Attacks deal Energy Damage instead of Physical.",
+          "Against Mutants, gain Immunity to Ability Accuracy Modification."
+        ],
+        "ADAPTIVE PROTOCOLS:": [
+          "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
+          "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +450 Armor Rating for 20 seconds.",
+          "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
+          "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
+          "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
+        ],
+        "TITAN PROTOCOL": [
+          "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
+          "Well-Timed Blocks create 1 Armor Up."
+        ],
+        "BLITZ PROTOCOL": [
+          "Attacks have +134.8 Attack Rating. +25% Potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
+          "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 67.4 Energy Damage over 1.50 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
+          ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 969.23 for 25 seconds. Max 1."
+        ],
+        "SPECIAL ATTACK 2": [
+          ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
+          ": Each Hit inflicts a Passive Shock, dealing 623.45 Energy Damage over 2 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
+          ": Deal a burst of up to 4044 Energy Damage based on Opponents missing health."
+        ]
+      }
+    },
+    "4+2": {
+      "rank": 2,
+      "prestige": "1573",
+      "hp": "5973",
+      "attack": "472",
+      "crit_rate": "353",
+      "crit_dmge": "463",
+      "armor": "738",
+      "block_prof": "3436",
+      "energy_resist": "98",
+      "physical_resist": "98",
+      "crit_resist": "0",
+      "sig_info": [
+        "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 25%.",
+        "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team."
+      ],
+      "url_page": "https://auntm.ai/champions/nimrod/tier/4",
+      "champid": "nimrod+4+2",
+      "challenger_rating": 70,
+      "abilities": {
+        "WHEN DEFENDING A QUEST NODE:": [
+          "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
+        ],
+        "SUPERIOR MUTANT HUNTING ROBOT": [
+          "Advanced Robotics provides Immunity to Bleed & Poison effects.",
+          "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
+          "All Attacks deal Energy Damage instead of Physical.",
+          "Against Mutants, gain Immunity to Ability Accuracy Modification."
+        ],
+        "ADAPTIVE PROTOCOLS:": [
+          "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
+          "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +462.5 Armor Rating for 20 seconds.",
+          "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
+          "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
+          "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
+        ],
+        "TITAN PROTOCOL": [
+          "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
+          "Well-Timed Blocks create 1 Armor Up."
+        ],
+        "BLITZ PROTOCOL": [
+          "Attacks have +188.8 Attack Rating. +25% Potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
+          "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 94.4 Energy Damage over 1.50 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
+          ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 996.15 for 25 seconds. Max 1."
+        ],
+        "SPECIAL ATTACK 2": [
+          ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
+          ": Each Hit inflicts a Passive Shock, dealing 873.2 Energy Damage over 2 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
+          ": Deal a burst of up to 5664 Energy Damage based on Opponents missing health."
+        ]
+      }
+    },
+    "4+3": {
+      "rank": 3,
+      "prestige": "2202",
+      "hp": "8368",
+      "attack": "661",
+      "crit_rate": "362",
+      "crit_dmge": "475",
+      "armor": "796",
+      "block_prof": "3529",
+      "energy_resist": "100",
+      "physical_resist": "100",
+      "crit_resist": "0",
+      "sig_info": [
+        "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 25%.",
+        "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team."
+      ],
+      "url_page": "https://auntm.ai/champions/nimrod/tier/4",
+      "champid": "nimrod+4+3",
+      "challenger_rating": 80,
+      "abilities": {
+        "WHEN DEFENDING A QUEST NODE:": [
+          "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
+        ],
+        "SUPERIOR MUTANT HUNTING ROBOT": [
+          "Advanced Robotics provides Immunity to Bleed & Poison effects.",
+          "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
+          "All Attacks deal Energy Damage instead of Physical.",
+          "Against Mutants, gain Immunity to Ability Accuracy Modification."
+        ],
+        "ADAPTIVE PROTOCOLS:": [
+          "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
+          "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +475 Armor Rating for 20 seconds.",
+          "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
+          "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
+          "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
+        ],
+        "TITAN PROTOCOL": [
+          "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
+          "Well-Timed Blocks create 1 Armor Up."
+        ],
+        "BLITZ PROTOCOL": [
+          "Attacks have +264.4 Attack Rating. +25% Potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
+          "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 132.2 Energy Damage over 1.50 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
+          ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 1023.08 for 25 seconds. Max 1."
+        ],
+        "SPECIAL ATTACK 2": [
+          ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
+          ": Each Hit inflicts a Passive Shock, dealing 1222.85 Energy Damage over 2 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
+          ": Deal a burst of up to 7932 Energy Damage based on Opponents missing health."
+        ]
+      }
+    },
+    "4+4": {
+      "rank": 4,
+      "prestige": "2899",
+      "hp": "10996",
+      "attack": "869",
+      "crit_rate": "372",
+      "crit_dmge": "488",
+      "armor": "856",
+      "block_prof": "3622",
+      "energy_resist": "103",
+      "physical_resist": "103",
+      "crit_resist": "0",
+      "sig_info": [
+        "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 25%.",
+        "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team."
+      ],
+      "url_page": "https://auntm.ai/champions/nimrod/tier/4",
+      "champid": "nimrod+4+4",
+      "challenger_rating": 90,
+      "abilities": {
+        "WHEN DEFENDING A QUEST NODE:": [
+          "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
+        ],
+        "SUPERIOR MUTANT HUNTING ROBOT": [
+          "Advanced Robotics provides Immunity to Bleed & Poison effects.",
+          "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
+          "All Attacks deal Energy Damage instead of Physical.",
+          "Against Mutants, gain Immunity to Ability Accuracy Modification."
+        ],
+        "ADAPTIVE PROTOCOLS:": [
+          "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
+          "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +487.5 Armor Rating for 20 seconds.",
+          "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
+          "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
+          "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
+        ],
+        "TITAN PROTOCOL": [
+          "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
+          "Well-Timed Blocks create 1 Armor Up."
+        ],
+        "BLITZ PROTOCOL": [
+          "Attacks have +347.6 Attack Rating. +25% Potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
+          "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 173.8 Energy Damage over 1.50 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
+          ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 1050 for 25 seconds. Max 1."
+        ],
+        "SPECIAL ATTACK 2": [
+          ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
+          ": Each Hit inflicts a Passive Shock, dealing 1607.65 Energy Damage over 2 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
+          ": Deal a burst of up to 10428 Energy Damage based on Opponents missing health."
+        ]
+      }
+    },
+    "4+5": {
+      "rank": 5,
+      "prestige": "3867",
+      "hp": "14672",
+      "attack": "1159",
+      "crit_rate": "381",
+      "crit_dmge": "500",
+      "armor": "920",
+      "block_prof": "3715",
+      "energy_resist": "106",
+      "physical_resist": "106",
+      "crit_resist": "0",
+      "sig_info": [
+        "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 25%.",
+        "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team."
+      ],
+      "url_page": "https://auntm.ai/champions/nimrod/tier/4",
+      "champid": "nimrod+4+5",
+      "challenger_rating": 100,
+      "abilities": {
+        "WHEN DEFENDING A QUEST NODE:": [
+          "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
+        ],
+        "SUPERIOR MUTANT HUNTING ROBOT": [
+          "Advanced Robotics provides Immunity to Bleed & Poison effects.",
+          "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
+          "All Attacks deal Energy Damage instead of Physical.",
+          "Against Mutants, gain Immunity to Ability Accuracy Modification."
+        ],
+        "ADAPTIVE PROTOCOLS:": [
+          "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
+          "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +500 Armor Rating for 20 seconds.",
+          "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
+          "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
+          "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
+        ],
+        "TITAN PROTOCOL": [
+          "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
+          "Well-Timed Blocks create 1 Armor Up."
+        ],
+        "BLITZ PROTOCOL": [
+          "Attacks have +463.6 Attack Rating. +25% Potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
+          "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 231.8 Energy Damage over 1.50 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
+          ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 1076.92 for 25 seconds. Max 1."
+        ],
+        "SPECIAL ATTACK 2": [
+          ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
+          ": Each Hit inflicts a Passive Shock, dealing 2144.15 Energy Damage over 2 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
+          ": Deal a burst of up to 13908 Energy Damage based on Opponents missing health."
+        ]
+      }
+    },
+    "5+1": {
+      "rank": 1,
+      "prestige": "2313",
+      "hp": "8756",
+      "attack": "692",
+      "crit_rate": "362",
+      "crit_dmge": "475",
+      "armor": "721",
+      "block_prof": "3529",
+      "energy_resist": "100",
+      "physical_resist": "100",
+      "crit_resist": "0",
+      "sig_info": [
+        "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team.",
+        "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 35%."
+      ],
+      "url_page": "https://auntm.ai/champions/nimrod/tier/5",
+      "champid": "nimrod+5+1",
+      "challenger_rating": 80,
+      "abilities": {
+        "WHEN DEFENDING A QUEST NODE:": [
+          "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
+        ],
+        "SUPERIOR MUTANT HUNTING ROBOT": [
+          "Advanced Robotics provides Immunity to Bleed & Poison effects.",
+          "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
+          "All Attacks deal Energy Damage instead of Physical.",
+          "Against Mutants, gain Immunity to Ability Accuracy Modification."
+        ],
+        "ADAPTIVE PROTOCOLS:": [
+          "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
+          "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +475 Armor Rating for 20 seconds.",
+          "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
+          "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
+          "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
+        ],
+        "TITAN PROTOCOL": [
+          "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
+          "Well-Timed Blocks create 1 Armor Up."
+        ],
+        "BLITZ PROTOCOL": [
+          "Attacks have +276.8 Attack Rating. +25% Potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
+          "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 138.4 Energy Damage over 1.50 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
+          ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 1023.08 for 25 seconds. Max 1."
+        ],
+        "SPECIAL ATTACK 2": [
+          ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
+          ": Each Hit inflicts a Passive Shock, dealing 1280.2 Energy Damage over 2 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
+          ": Deal a burst of up to 8304 Energy Damage based on Opponents missing health."
+        ]
+      }
+    },
+    "5+2": {
+      "rank": 2,
+      "prestige": "3055",
+      "hp": "11566",
+      "attack": "914",
+      "crit_rate": "372",
+      "crit_dmge": "488",
+      "armor": "778",
+      "block_prof": "3622",
+      "energy_resist": "103",
+      "physical_resist": "103",
+      "crit_resist": "0",
+      "sig_info": [
+        "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team.",
+        "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 35%."
+      ],
+      "url_page": "https://auntm.ai/champions/nimrod/tier/5",
+      "champid": "nimrod+5+2",
+      "challenger_rating": 90,
+      "abilities": {
+        "WHEN DEFENDING A QUEST NODE:": [
+          "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
+        ],
+        "SUPERIOR MUTANT HUNTING ROBOT": [
+          "Advanced Robotics provides Immunity to Bleed & Poison effects.",
+          "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
+          "All Attacks deal Energy Damage instead of Physical.",
+          "Against Mutants, gain Immunity to Ability Accuracy Modification."
+        ],
+        "ADAPTIVE PROTOCOLS:": [
+          "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
+          "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +487.5 Armor Rating for 20 seconds.",
+          "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
+          "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
+          "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
+        ],
+        "TITAN PROTOCOL": [
+          "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
+          "Well-Timed Blocks create 1 Armor Up."
+        ],
+        "BLITZ PROTOCOL": [
+          "Attacks have +365.6 Attack Rating. +25% Potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
+          "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 182.8 Energy Damage over 1.50 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
+          ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 1050 for 25 seconds. Max 1."
+        ],
+        "SPECIAL ATTACK 2": [
+          ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
+          ": Each Hit inflicts a Passive Shock, dealing 1690.9 Energy Damage over 2 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
+          ": Deal a burst of up to 10968 Energy Damage based on Opponents missing health."
+        ]
+      }
+    },
+    "5+3": {
+      "rank": 3,
+      "prestige": "4280",
+      "hp": "16169",
+      "attack": "1278",
+      "crit_rate": "381",
+      "crit_dmge": "500",
+      "armor": "837",
+      "block_prof": "3715",
+      "energy_resist": "106",
+      "physical_resist": "106",
+      "crit_resist": "0",
+      "sig_info": [
+        "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team.",
+        "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 35%."
+      ],
+      "url_page": "https://auntm.ai/champions/nimrod/tier/5",
+      "champid": "nimrod+5+3",
+      "challenger_rating": 100,
+      "abilities": {
+        "WHEN DEFENDING A QUEST NODE:": [
+          "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
+        ],
+        "SUPERIOR MUTANT HUNTING ROBOT": [
+          "Advanced Robotics provides Immunity to Bleed & Poison effects.",
+          "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
+          "All Attacks deal Energy Damage instead of Physical.",
+          "Against Mutants, gain Immunity to Ability Accuracy Modification."
+        ],
+        "ADAPTIVE PROTOCOLS:": [
+          "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
+          "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +500 Armor Rating for 20 seconds.",
+          "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
+          "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
+          "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
+        ],
+        "TITAN PROTOCOL": [
+          "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
+          "Well-Timed Blocks create 1 Armor Up."
+        ],
+        "BLITZ PROTOCOL": [
+          "Attacks have +511.2 Attack Rating. +25% Potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
+          "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 255.6 Energy Damage over 1.50 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
+          ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 1076.92 for 25 seconds. Max 1."
+        ],
+        "SPECIAL ATTACK 2": [
+          ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
+          ": Each Hit inflicts a Passive Shock, dealing 2364.3 Energy Damage over 2 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
+          ": Deal a burst of up to 15336 Energy Damage based on Opponents missing health."
+        ]
+      }
+    },
+    "5+4": {
+      "rank": 4,
+      "prestige": "5767",
+      "hp": "21788",
+      "attack": "1721",
+      "crit_rate": "391",
+      "crit_dmge": "513",
+      "armor": "900",
+      "block_prof": "3808",
+      "energy_resist": "108",
+      "physical_resist": "108",
+      "crit_resist": "0",
+      "sig_info": [
+        "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team.",
+        "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 35%."
+      ],
+      "url_page": "https://auntm.ai/champions/nimrod/tier/5",
+      "champid": "nimrod+5+4",
+      "challenger_rating": 110,
+      "abilities": {
+        "WHEN DEFENDING A QUEST NODE:": [
+          "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
+        ],
+        "SUPERIOR MUTANT HUNTING ROBOT": [
+          "Advanced Robotics provides Immunity to Bleed & Poison effects.",
+          "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
+          "All Attacks deal Energy Damage instead of Physical.",
+          "Against Mutants, gain Immunity to Ability Accuracy Modification."
+        ],
+        "ADAPTIVE PROTOCOLS:": [
+          "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
+          "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +512.5 Armor Rating for 20 seconds.",
+          "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
+          "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
+          "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
+        ],
+        "TITAN PROTOCOL": [
+          "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
+          "Well-Timed Blocks create 1 Armor Up."
+        ],
+        "BLITZ PROTOCOL": [
+          "Attacks have +688.4 Attack Rating. +25% Potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
+          "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 344.2 Energy Damage over 1.50 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
+          ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 1103.85 for 25 seconds. Max 1."
+        ],
+        "SPECIAL ATTACK 2": [
+          ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
+          ": Each Hit inflicts a Passive Shock, dealing 3183.85 Energy Damage over 2 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
+          ": Deal a burst of up to 20652 Energy Damage based on Opponents missing health."
+        ]
+      }
+    },
+    "5+5": {
+      "rank": 5,
+      "prestige": "7800",
+      "hp": "29417",
+      "attack": "2324",
+      "crit_rate": "400",
+      "crit_dmge": "525",
+      "armor": "966",
+      "block_prof": "3901",
+      "energy_resist": "111",
+      "physical_resist": "111",
+      "crit_resist": "0",
+      "sig_info": [
+        "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team.",
+        "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 35%."
+      ],
+      "url_page": "https://auntm.ai/champions/nimrod/tier/5",
+      "champid": "nimrod+5+5",
+      "challenger_rating": 120,
+      "abilities": {
+        "WHEN DEFENDING A QUEST NODE:": [
+          "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
+        ],
+        "SUPERIOR MUTANT HUNTING ROBOT": [
+          "Advanced Robotics provides Immunity to Bleed & Poison effects.",
+          "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
+          "All Attacks deal Energy Damage instead of Physical.",
+          "Against Mutants, gain Immunity to Ability Accuracy Modification."
+        ],
+        "ADAPTIVE PROTOCOLS:": [
+          "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
+          "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +525 Armor Rating for 20 seconds.",
+          "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
+          "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
+          "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
+        ],
+        "TITAN PROTOCOL": [
+          "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
+          "Well-Timed Blocks create 1 Armor Up."
+        ],
+        "BLITZ PROTOCOL": [
+          "Attacks have +929.6 Attack Rating. +25% Potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
+          "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 464.8 Energy Damage over 1.50 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
+          ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 1130.77 for 25 seconds. Max 1."
+        ],
+        "SPECIAL ATTACK 2": [
+          ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
+          ": Each Hit inflicts a Passive Shock, dealing 4299.4 Energy Damage over 2 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
+          ": Deal a burst of up to 27888 Energy Damage based on Opponents missing health."
+        ]
+      }
+    },
+    "6+1": {
+      "rank": 1,
+      "prestige": "6108",
+      "hp": "23131",
+      "attack": "1827",
+      "crit_rate": "391",
+      "crit_dmge": "513",
+      "armor": "778",
+      "block_prof": "3808",
+      "energy_resist": "108",
+      "physical_resist": "108",
+      "crit_resist": "0",
+      "sig_info": [
+        "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team.",
+        "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 35%."
+      ],
+      "url_page": "https://auntm.ai/champions/nimrod/tier/6",
+      "champid": "nimrod+6+1",
+      "challenger_rating": 110,
+      "abilities": {
+        "WHEN DEFENDING A QUEST NODE:": [
+          "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
+        ],
+        "SUPERIOR MUTANT HUNTING ROBOT": [
+          "Advanced Robotics provides Immunity to Bleed & Poison effects.",
+          "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
+          "All Attacks deal Energy Damage instead of Physical.",
+          "Against Mutants, gain Immunity to Ability Accuracy Modification."
+        ],
+        "ADAPTIVE PROTOCOLS:": [
+          "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
+          "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +512.5 Armor Rating for 20 seconds.",
+          "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
+          "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
+          "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
+        ],
+        "TITAN PROTOCOL": [
+          "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
+          "Well-Timed Blocks create 1 Armor Up."
+        ],
+        "BLITZ PROTOCOL": [
+          "Attacks have +730.8 Attack Rating. +25% Potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
+          "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 365.4 Energy Damage over 1.50 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
+          ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 1103.85 for 25 seconds. Max 1."
+        ],
+        "SPECIAL ATTACK 2": [
+          ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
+          ": Each Hit inflicts a Passive Shock, dealing 3379.95 Energy Damage over 2 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
+          ": Deal a burst of up to 21924 Energy Damage based on Opponents missing health."
+        ]
+      }
+    },
+    "6+2": {
+      "rank": 2,
+      "prestige": "8436",
+      "hp": "31951",
+      "attack": "2524",
+      "crit_rate": "400",
+      "crit_dmge": "525",
+      "armor": "838",
+      "block_prof": "3901",
+      "energy_resist": "111",
+      "physical_resist": "111",
+      "crit_resist": "0",
+      "sig_info": [
+        "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team.",
+        "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 35%."
+      ],
+      "url_page": "https://auntm.ai/champions/nimrod/tier/6",
+      "champid": "nimrod+6+2",
+      "challenger_rating": 120,
+      "abilities": {
+        "WHEN DEFENDING A QUEST NODE:": [
+          "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
+        ],
+        "SUPERIOR MUTANT HUNTING ROBOT": [
+          "Advanced Robotics provides Immunity to Bleed & Poison effects.",
+          "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
+          "All Attacks deal Energy Damage instead of Physical.",
+          "Against Mutants, gain Immunity to Ability Accuracy Modification."
+        ],
+        "ADAPTIVE PROTOCOLS:": [
+          "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
+          "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +525 Armor Rating for 20 seconds.",
+          "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
+          "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
+          "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
+        ],
+        "TITAN PROTOCOL": [
+          "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
+          "Well-Timed Blocks create 1 Armor Up."
+        ],
+        "BLITZ PROTOCOL": [
+          "Attacks have +1009.6 Attack Rating. +25% Potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
+          "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 504.8 Energy Damage over 1.50 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
+          ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 1130.77 for 25 seconds. Max 1."
+        ],
+        "SPECIAL ATTACK 2": [
+          ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
+          ": Each Hit inflicts a Passive Shock, dealing 4669.4 Energy Damage over 2 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
+          ": Deal a burst of up to 30288 Energy Damage based on Opponents missing health."
+        ]
+      }
+    },
+    "6+3": {
+      "rank": 3,
+      "prestige": "10028",
+      "hp": "37905",
+      "attack": "2994",
+      "crit_rate": "410",
+      "crit_dmge": "538",
+      "armor": "900",
+      "block_prof": "3993",
+      "energy_resist": "114",
+      "physical_resist": "114",
+      "crit_resist": "0",
+      "sig_info": [
+        "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team.",
+        "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 35%."
+      ],
+      "url_page": "https://auntm.ai/champions/nimrod/tier/6",
+      "champid": "nimrod+6+3",
+      "challenger_rating": 130,
+      "abilities": {
+        "WHEN DEFENDING A QUEST NODE:": [
+          "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
+        ],
+        "SUPERIOR MUTANT HUNTING ROBOT": [
+          "Advanced Robotics provides Immunity to Bleed & Poison effects.",
+          "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
+          "All Attacks deal Energy Damage instead of Physical.",
+          "Against Mutants, gain Immunity to Ability Accuracy Modification."
+        ],
+        "ADAPTIVE PROTOCOLS:": [
+          "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
+          "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +537.5 Armor Rating for 20 seconds.",
+          "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
+          "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
+          "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
+        ],
+        "TITAN PROTOCOL": [
+          "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
+          "Well-Timed Blocks create 1 Armor Up."
+        ],
+        "BLITZ PROTOCOL": [
+          "Attacks have +1197.6 Attack Rating. +25% Potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
+          "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 598.8 Energy Damage over 1.50 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
+          ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 1157.69 for 25 seconds. Max 1."
+        ],
+        "SPECIAL ATTACK 2": [
+          ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
+          ": Each Hit inflicts a Passive Shock, dealing 5538.9 Energy Damage over 2 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
+          ": Deal a burst of up to 35928 Energy Damage based on Opponents missing health."
+        ]
+      }
+    },
+    "6+4": {
+      "rank": 4,
+      "prestige": "11477",
+      "hp": "43376",
+      "attack": "3427",
+      "crit_rate": "420",
+      "crit_dmge": "550",
+      "armor": "966",
+      "block_prof": "4086",
+      "energy_resist": "116",
+      "physical_resist": "116",
+      "crit_resist": "0",
+      "sig_info": [
+        "If attacking against a Mutant, Nimrod's Abilities generate +1 Armor Up whenever gaining a personal Armor Up. If Defending, instead gain +1 Armor Up per Mutant on the Attacker's team.",
+        "Eradicate Protocol grants Unblockable Special Attacks and increases the Potency and Duration of Special Attack effects by 10 to 35%."
+      ],
+      "url_page": "https://auntm.ai/champions/nimrod/tier/6",
+      "champid": "nimrod+6+4",
+      "challenger_rating": 140,
+      "abilities": {
+        "WHEN DEFENDING A QUEST NODE:": [
+          "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
+        ],
+        "SUPERIOR MUTANT HUNTING ROBOT": [
+          "Advanced Robotics provides Immunity to Bleed & Poison effects.",
+          "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
+          "All Attacks deal Energy Damage instead of Physical.",
+          "Against Mutants, gain Immunity to Ability Accuracy Modification."
+        ],
+        "ADAPTIVE PROTOCOLS:": [
+          "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
+          "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +550 Armor Rating for 20 seconds.",
+          "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
+          "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
+          "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
+        ],
+        "TITAN PROTOCOL": [
+          "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
+          "Well-Timed Blocks create 1 Armor Up."
+        ],
+        "BLITZ PROTOCOL": [
+          "Attacks have +1370.8 Attack Rating. +25% Potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
+          "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 685.4 Energy Damage over 1.50 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
+          ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 1184.62 for 25 seconds. Max 1."
+        ],
+        "SPECIAL ATTACK 2": [
+          ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
+          ": Each Hit inflicts a Passive Shock, dealing 6339.95 Energy Damage over 2 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
+          ": Deal a burst of up to 41124 Energy Damage based on Opponents missing health."
+        ]
+      }
+    },
+    "1+1": {
+      "rank": 1,
+      "prestige": 216,
+      "hp": 823,
+      "attack": 65,
+      "crit_rate": 296,
+      "crit_dmge": 388,
+      "armor": 588,
+      "block_prof": 2879,
+      "energy_resist": 82,
+      "physical_resist": 82,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/nimrod/tier/1",
+      "champid": "nimrod+1+1",
+      "challenger_rating": 10,
+      "abilities": {
+        "WHEN DEFENDING A QUEST NODE:": [
+          "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
+        ],
+        "SUPERIOR MUTANT HUNTING ROBOT": [
+          "Advanced Robotics provides Immunity to Bleed & Poison effects.",
+          "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
+          "All Attacks deal Energy Damage instead of Physical.",
+          "Against Mutants, gain Immunity to Ability Accuracy Modification."
+        ],
+        "ADAPTIVE PROTOCOLS:": [
+          "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
+          "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +387.5 Armor Rating for 20 seconds.",
+          "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
+          "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
+          "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
+        ],
+        "TITAN PROTOCOL": [
+          "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
+          "Well-Timed Blocks create 1 Armor Up."
+        ],
+        "BLITZ PROTOCOL": [
+          "Attacks have +26 Attack Rating. +25% Potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
+          "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 13 Energy Damage over 1.50 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
+          ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 834.62 for 25 seconds. Max 1."
+        ],
+        "SPECIAL ATTACK 2": [
+          ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
+          ": Each Hit inflicts a Passive Shock, dealing 120.25 Energy Damage over 2 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
+          ": Deal a burst of up to 780 Energy Damage based on Opponents missing health."
+        ]
+      }
+    },
+    "1+2": {
+      "rank": 2,
+      "prestige": 300,
+      "hp": 1138,
+      "attack": 90,
+      "crit_rate": 305,
+      "crit_dmge": 400,
+      "armor": 638,
+      "block_prof": 2972,
+      "energy_resist": 85,
+      "physical_resist": 85,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/nimrod/tier/1",
+      "champid": "nimrod+1+2",
+      "challenger_rating": 20,
+      "abilities": {
+        "WHEN DEFENDING A QUEST NODE:": [
+          "If Opponent fills a bar of Power, Inflict Passive Special Lock for 1.50 second(s)."
+        ],
+        "SUPERIOR MUTANT HUNTING ROBOT": [
+          "Advanced Robotics provides Immunity to Bleed & Poison effects.",
+          "Armor Breaks cannot remove Armor Ups and suffer -100% Potency.",
+          "All Attacks deal Energy Damage instead of Physical.",
+          "Against Mutants, gain Immunity to Ability Accuracy Modification."
+        ],
+        "ADAPTIVE PROTOCOLS:": [
+          "Nimrod Starts in TITAN Protocol. Swap protocols every 11 seconds and when landing a 4th light attack in a basic Combo.",
+          "On Start, and when the protocol timer expires, gain 1 Armor Up Buff. All personal Armor Ups provide +400 Armor Rating for 20 seconds.",
+          "Gain 1 Protocol charge per unique ability applied by each Protocol during a Special Attack.",
+          "Gain 1 Protocol charge when gaining Armor Up, and when the Opponent activates Prowess or Regeneration.",
+          "At 10 Protocol charges, launch a Special Attack to activate ERADICATE Protocol for 16 seconds, combining the effects of TITAN and BLITZ Protocols."
+        ],
+        "TITAN PROTOCOL": [
+          "20% Damage Reduction on all incoming Critical Hits. +25% potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict a Cowardice Debuff reducing Special Attack damage by 40% for 15 seconds.",
+          "Well-Timed Blocks create 1 Armor Up."
+        ],
+        "BLITZ PROTOCOL": [
+          "Attacks have +36 Attack Rating. +25% Potency per Armor Up.",
+          "When the Opponent launches a Special Attack, Inflict Power Drain, draining 150% of a bar of Power over 15 seconds.",
+          "Attacks remove 1 Prowess and Regeneration, replacing it with a Shock Debuff dealing 18 Energy Damage over 1.50 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          ": Gain an Energize Buff, Increasing Combat Power Rate by 45% for 25 seconds. Max 1.",
+          ": On hit, Inflict Energy Vulnerability, reducing Opponent's Energy Resistance by 861.54 for 25 seconds. Max 1."
+        ],
+        "SPECIAL ATTACK 2": [
+          ": Gain an Unstoppable Buff for 5 seconds. Duration is paused until the Special Attack ends.",
+          ": Each Hit inflicts a Passive Shock, dealing 166.5 Energy Damage over 2 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          ": Gain Self-Repair. Regenerating 12.5% of missing Health over 15 seconds. This effect ends early if Stunned.",
+          ": Deal a burst of up to 1080 Energy Damage based on Opponents missing health."
+        ]
+      }
+    },
+    "find": {
+      "story_quests": {
+        "act_1": [],
+        "act_2": [],
+        "act_3": ["3.1"],
+        "act_4": [],
+        "act_5": [],
+        "act_6": [],
+        "act_7": []
+      }
     }
+  },
+  "name": "NIMROD",
+  "class": "Tech",
+  "img_portrait": "https://api.rexians.tk/assets/portraits/nimrod.png",
+  "contact": "ENERGY",
+  "tags": ["Robot", "Villain", "Size: L"],
+  "released": "9/23/2021"
 }

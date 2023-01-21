@@ -1,1161 +1,1258 @@
 {
-    "name": "SERSI",
-    "class": "Cosmic",
-    "img_portrait": "https://api.rexians.tk/assets/portraits/sersi.png",
-    "contact": "PHYSICAL",
-    "tags": [
-        "Hero",
-        "Size: S"
-    ],
-    "released": "11/11/2021",
-    "champid": "sersi",
-    "data": {
-        "2+1": {
-            "rank": 1,
-            "prestige": "270",
-            "hp": "Hero",
-            "attack": "85",
-            "crit_rate": "563",
-            "crit_dmge": "686",
-            "armor": "67",
-            "block_prof": "2303",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 13% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
-                "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
-            ],
-            "url_page": "https://auntm.ai/champions/sersi/tier/2",
-            "champid": "sersi+2+1",
-            "challenger_rating": 20,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
-                ],
-                "GLANCING BUFF": [
-                    "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
-                    "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
-                    "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
-                    "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
-                ],
-                "TRANSMUTATION BUFFS - MAX 5 STACKS": [
-                    "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
-                    "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
-                    "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
-                    "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
-                    "Gain +25.5 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
-                    "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 25.5 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
-                    "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
-                    "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict an Incinerate Debuff, dealing 38.25 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-                    "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
-                ]
-            }
-        },
-        "2+2": {
-            "rank": 2,
-            "prestige": "357",
-            "hp": "Hero",
-            "attack": "112",
-            "crit_rate": "580",
-            "crit_dmge": "708",
-            "armor": "87",
-            "block_prof": "2375",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 13% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
-                "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
-            ],
-            "url_page": "https://auntm.ai/champions/sersi/tier/2",
-            "champid": "sersi+2+2",
-            "challenger_rating": 30,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
-                ],
-                "GLANCING BUFF": [
-                    "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
-                    "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
-                    "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
-                    "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
-                ],
-                "TRANSMUTATION BUFFS - MAX 5 STACKS": [
-                    "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
-                    "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
-                    "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
-                    "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
-                    "Gain +33.6 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
-                    "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 33.6 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
-                    "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
-                    "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict an Incinerate Debuff, dealing 50.4 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-                    "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
-                ]
-            }
-        },
-        "2+3": {
-            "rank": 3,
-            "prestige": "579",
-            "hp": "Hero",
-            "attack": "178",
-            "crit_rate": "598",
-            "crit_dmge": "729",
-            "armor": "109",
-            "block_prof": "2447",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 13% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
-                "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
-            ],
-            "url_page": "https://auntm.ai/champions/sersi/tier/2",
-            "champid": "sersi+2+3",
-            "challenger_rating": 40,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
-                ],
-                "GLANCING BUFF": [
-                    "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
-                    "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
-                    "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
-                    "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
-                ],
-                "TRANSMUTATION BUFFS - MAX 5 STACKS": [
-                    "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
-                    "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
-                    "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
-                    "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
-                    "Gain +53.4 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
-                    "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 53.4 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
-                    "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
-                    "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict an Incinerate Debuff, dealing 80.1 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-                    "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
-                ]
-            }
-        },
-        "3+1": {
-            "rank": 1,
-            "prestige": "495",
-            "hp": "Hero",
-            "attack": "152",
-            "crit_rate": "598",
-            "crit_dmge": "729",
-            "armor": "109",
-            "block_prof": "2447",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 13% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
-                "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
-            ],
-            "url_page": "https://auntm.ai/champions/sersi/tier/3",
-            "champid": "sersi+3+1",
-            "challenger_rating": 40,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
-                ],
-                "GLANCING BUFF": [
-                    "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
-                    "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
-                    "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
-                    "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
-                ],
-                "TRANSMUTATION BUFFS - MAX 5 STACKS": [
-                    "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
-                    "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
-                    "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
-                    "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
-                    "Gain +45.6 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
-                    "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 45.6 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
-                    "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
-                    "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict an Incinerate Debuff, dealing 68.4 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-                    "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
-                ]
-            }
-        },
-        "3+2": {
-            "rank": 2,
-            "prestige": "790",
-            "hp": "Hero",
-            "attack": "243",
-            "crit_rate": "615",
-            "crit_dmge": "750",
-            "armor": "132",
-            "block_prof": "2519",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 13% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
-                "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
-            ],
-            "url_page": "https://auntm.ai/champions/sersi/tier/3",
-            "champid": "sersi+3+2",
-            "challenger_rating": 50,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
-                ],
-                "GLANCING BUFF": [
-                    "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
-                    "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
-                    "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
-                    "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
-                ],
-                "TRANSMUTATION BUFFS - MAX 5 STACKS": [
-                    "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
-                    "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
-                    "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
-                    "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
-                    "Gain +72.9 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
-                    "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 72.9 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
-                    "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
-                    "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict an Incinerate Debuff, dealing 109.35 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-                    "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
-                ]
-            }
-        },
-        "3+3": {
-            "rank": 3,
-            "prestige": "1106",
-            "hp": "Hero",
-            "attack": "340",
-            "crit_rate": "633",
-            "crit_dmge": "772",
-            "armor": "157",
-            "block_prof": "2591",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 13% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
-                "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
-            ],
-            "url_page": "https://auntm.ai/champions/sersi/tier/3",
-            "champid": "sersi+3+3",
-            "challenger_rating": 60,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
-                ],
-                "GLANCING BUFF": [
-                    "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
-                    "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
-                    "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
-                    "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
-                ],
-                "TRANSMUTATION BUFFS - MAX 5 STACKS": [
-                    "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
-                    "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
-                    "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
-                    "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
-                    "Gain +102 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
-                    "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 102 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
-                    "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
-                    "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict an Incinerate Debuff, dealing 153 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-                    "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
-                ]
-            }
-        },
-        "3+4": {
-            "rank": 4,
-            "prestige": "1520",
-            "hp": "Hero",
-            "attack": "467",
-            "crit_rate": "650",
-            "crit_dmge": "793",
-            "armor": "183",
-            "block_prof": "2663",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 13% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
-                "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
-            ],
-            "url_page": "https://auntm.ai/champions/sersi/tier/3",
-            "champid": "sersi+3+4",
-            "challenger_rating": 70,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
-                ],
-                "GLANCING BUFF": [
-                    "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
-                    "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
-                    "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
-                    "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
-                ],
-                "TRANSMUTATION BUFFS - MAX 5 STACKS": [
-                    "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
-                    "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
-                    "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
-                    "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
-                    "Gain +140.1 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
-                    "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 140.1 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
-                    "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
-                    "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict an Incinerate Debuff, dealing 210.15 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-                    "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
-                ]
-            }
-        },
-        "4+1": {
-            "rank": 1,
-            "prestige": "1098",
-            "hp": "Hero",
-            "attack": "337",
-            "crit_rate": "633",
-            "crit_dmge": "772",
-            "armor": "223",
-            "block_prof": "2591",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 13% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
-                "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
-            ],
-            "url_page": "https://auntm.ai/champions/sersi/tier/4",
-            "champid": "sersi+4+1",
-            "challenger_rating": 60,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
-                ],
-                "GLANCING BUFF": [
-                    "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
-                    "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
-                    "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
-                    "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
-                ],
-                "TRANSMUTATION BUFFS - MAX 5 STACKS": [
-                    "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
-                    "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
-                    "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
-                    "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
-                    "Gain +101.1 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
-                    "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 101.1 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
-                    "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
-                    "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict an Incinerate Debuff, dealing 151.65 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-                    "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
-                ]
-            }
-        },
-        "4+2": {
-            "rank": 2,
-            "prestige": "1540",
-            "hp": "Hero",
-            "attack": "472",
-            "crit_rate": "650",
-            "crit_dmge": "793",
-            "armor": "253",
-            "block_prof": "2663",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 13% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
-                "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
-            ],
-            "url_page": "https://auntm.ai/champions/sersi/tier/4",
-            "champid": "sersi+4+2",
-            "challenger_rating": 70,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
-                ],
-                "GLANCING BUFF": [
-                    "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
-                    "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
-                    "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
-                    "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
-                ],
-                "TRANSMUTATION BUFFS - MAX 5 STACKS": [
-                    "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
-                    "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
-                    "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
-                    "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
-                    "Gain +141.6 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
-                    "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 141.6 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
-                    "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
-                    "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict an Incinerate Debuff, dealing 212.4 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-                    "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
-                ]
-            }
-        },
-        "4+3": {
-            "rank": 3,
-            "prestige": "2155",
-            "hp": "Hero",
-            "attack": "661",
-            "crit_rate": "668",
-            "crit_dmge": "815",
-            "armor": "284",
-            "block_prof": "2735",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 13% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
-                "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
-            ],
-            "url_page": "https://auntm.ai/champions/sersi/tier/4",
-            "champid": "sersi+4+3",
-            "challenger_rating": 80,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
-                ],
-                "GLANCING BUFF": [
-                    "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
-                    "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
-                    "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
-                    "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
-                ],
-                "TRANSMUTATION BUFFS - MAX 5 STACKS": [
-                    "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
-                    "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
-                    "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
-                    "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
-                    "Gain +198.3 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
-                    "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 198.3 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
-                    "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
-                    "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict an Incinerate Debuff, dealing 297.45 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-                    "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
-                ]
-            }
-        },
-        "4+4": {
-            "rank": 4,
-            "prestige": "2838",
-            "hp": "Hero",
-            "attack": "869",
-            "crit_rate": "686",
-            "crit_dmge": "836",
-            "armor": "318",
-            "block_prof": "2807",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 13% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
-                "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
-            ],
-            "url_page": "https://auntm.ai/champions/sersi/tier/4",
-            "champid": "sersi+4+4",
-            "challenger_rating": 90,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
-                ],
-                "GLANCING BUFF": [
-                    "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
-                    "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
-                    "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
-                    "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
-                ],
-                "TRANSMUTATION BUFFS - MAX 5 STACKS": [
-                    "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
-                    "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
-                    "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
-                    "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
-                    "Gain +260.7 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
-                    "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 260.7 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
-                    "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
-                    "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict an Incinerate Debuff, dealing 391.05 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-                    "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
-                ]
-            }
-        },
-        "4+5": {
-            "rank": 5,
-            "prestige": "3785",
-            "hp": "Hero",
-            "attack": "1159",
-            "crit_rate": "703",
-            "crit_dmge": "858",
-            "armor": "353",
-            "block_prof": "2879",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 13% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
-                "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
-            ],
-            "url_page": "https://auntm.ai/champions/sersi/tier/4",
-            "champid": "sersi+4+5",
-            "challenger_rating": 100,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
-                ],
-                "GLANCING BUFF": [
-                    "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
-                    "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
-                    "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
-                    "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
-                ],
-                "TRANSMUTATION BUFFS - MAX 5 STACKS": [
-                    "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
-                    "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
-                    "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
-                    "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
-                    "Gain +347.7 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
-                    "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 347.7 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
-                    "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
-                    "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict an Incinerate Debuff, dealing 521.55 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-                    "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
-                ]
-            }
-        },
-        "5+1": {
-            "rank": 1,
-            "prestige": "2268",
-            "hp": "Hero",
-            "attack": "692",
-            "crit_rate": "668",
-            "crit_dmge": "815",
-            "armor": "446",
-            "block_prof": "2735",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 15% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
-                "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
-            ],
-            "url_page": "https://auntm.ai/champions/sersi/tier/5",
-            "champid": "sersi+5+1",
-            "challenger_rating": 80,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
-                ],
-                "GLANCING BUFF": [
-                    "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
-                    "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
-                    "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
-                    "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
-                ],
-                "TRANSMUTATION BUFFS - MAX 5 STACKS": [
-                    "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
-                    "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
-                    "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
-                    "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
-                    "Gain +207.6 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
-                    "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 207.6 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
-                    "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
-                    "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict an Incinerate Debuff, dealing 311.4 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-                    "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
-                ]
-            }
-        },
-        "5+2": {
-            "rank": 2,
-            "prestige": "2992",
-            "hp": "Hero",
-            "attack": "914",
-            "crit_rate": "686",
-            "crit_dmge": "836",
-            "armor": "488",
-            "block_prof": "2807",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 15% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
-                "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
-            ],
-            "url_page": "https://auntm.ai/champions/sersi/tier/5",
-            "champid": "sersi+5+2",
-            "challenger_rating": 90,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
-                ],
-                "GLANCING BUFF": [
-                    "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
-                    "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
-                    "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
-                    "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
-                ],
-                "TRANSMUTATION BUFFS - MAX 5 STACKS": [
-                    "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
-                    "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
-                    "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
-                    "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
-                    "Gain +274.2 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
-                    "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 274.2 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
-                    "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
-                    "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict an Incinerate Debuff, dealing 411.3 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-                    "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
-                ]
-            }
-        },
-        "5+3": {
-            "rank": 3,
-            "prestige": "4192",
-            "hp": "Hero",
-            "attack": "1278",
-            "crit_rate": "703",
-            "crit_dmge": "858",
-            "armor": "532",
-            "block_prof": "2879",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 15% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
-                "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
-            ],
-            "url_page": "https://auntm.ai/champions/sersi/tier/5",
-            "champid": "sersi+5+3",
-            "challenger_rating": 100,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
-                ],
-                "GLANCING BUFF": [
-                    "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
-                    "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
-                    "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
-                    "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
-                ],
-                "TRANSMUTATION BUFFS - MAX 5 STACKS": [
-                    "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
-                    "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
-                    "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
-                    "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
-                    "Gain +383.4 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
-                    "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 383.4 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
-                    "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
-                    "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict an Incinerate Debuff, dealing 575.1 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-                    "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
-                ]
-            }
-        },
-        "5+4": {
-            "rank": 4,
-            "prestige": "5645",
-            "hp": "Hero",
-            "attack": "1721",
-            "crit_rate": "721",
-            "crit_dmge": "879",
-            "armor": "579",
-            "block_prof": "2950",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 15% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
-                "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
-            ],
-            "url_page": "https://auntm.ai/champions/sersi/tier/5",
-            "champid": "sersi+5+4",
-            "challenger_rating": 110,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
-                ],
-                "GLANCING BUFF": [
-                    "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
-                    "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
-                    "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
-                    "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
-                ],
-                "TRANSMUTATION BUFFS - MAX 5 STACKS": [
-                    "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
-                    "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
-                    "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
-                    "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
-                    "Gain +516.3 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
-                    "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 516.3 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
-                    "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
-                    "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict an Incinerate Debuff, dealing 774.45 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-                    "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
-                ]
-            }
-        },
-        "5+5": {
-            "rank": 5,
-            "prestige": "7637",
-            "hp": "Hero",
-            "attack": "2324",
-            "crit_rate": "738",
-            "crit_dmge": "900",
-            "armor": "628",
-            "block_prof": "3022",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 15% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
-                "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
-            ],
-            "url_page": "https://auntm.ai/champions/sersi/tier/5",
-            "champid": "sersi+5+5",
-            "challenger_rating": 120,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
-                ],
-                "GLANCING BUFF": [
-                    "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
-                    "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
-                    "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
-                    "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
-                ],
-                "TRANSMUTATION BUFFS - MAX 5 STACKS": [
-                    "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
-                    "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
-                    "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
-                    "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
-                    "Gain +697.2 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
-                    "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 697.2 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
-                    "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
-                    "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict an Incinerate Debuff, dealing 1045.8 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-                    "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
-                ]
-            }
-        },
-        "6+1": {
-            "rank": 1,
-            "prestige": "5980",
-            "hp": "Hero",
-            "attack": "1827",
-            "crit_rate": "721",
-            "crit_dmge": "879",
-            "armor": "513",
-            "block_prof": "2950",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 15% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
-                "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
-            ],
-            "url_page": "https://auntm.ai/champions/sersi/tier/6",
-            "champid": "sersi+6+1",
-            "challenger_rating": 110,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
-                ],
-                "GLANCING BUFF": [
-                    "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
-                    "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
-                    "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
-                    "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
-                ],
-                "TRANSMUTATION BUFFS - MAX 5 STACKS": [
-                    "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
-                    "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
-                    "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
-                    "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
-                    "Gain +548.1 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
-                    "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 548.1 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
-                    "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
-                    "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict an Incinerate Debuff, dealing 822.15 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-                    "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
-                ]
-            }
-        },
-        "6+2": {
-            "rank": 2,
-            "prestige": "8259",
-            "hp": "Hero",
-            "attack": "2524",
-            "crit_rate": "738",
-            "crit_dmge": "900",
-            "armor": "559",
-            "block_prof": "3022",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 15% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
-                "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
-            ],
-            "url_page": "https://auntm.ai/champions/sersi/tier/6",
-            "champid": "sersi+6+2",
-            "challenger_rating": 120,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
-                ],
-                "GLANCING BUFF": [
-                    "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
-                    "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
-                    "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
-                    "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
-                ],
-                "TRANSMUTATION BUFFS - MAX 5 STACKS": [
-                    "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
-                    "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
-                    "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
-                    "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
-                    "Gain +757.2 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
-                    "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 757.2 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
-                    "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
-                    "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict an Incinerate Debuff, dealing 1135.8 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-                    "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
-                ]
-            }
-        },
-        "6+3": {
-            "rank": 3,
-            "prestige": "9820",
-            "hp": "Hero",
-            "attack": "2994",
-            "crit_rate": "756",
-            "crit_dmge": "922",
-            "armor": "607",
-            "block_prof": "3094",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 15% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
-                "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
-            ],
-            "url_page": "https://auntm.ai/champions/sersi/tier/6",
-            "champid": "sersi+6+3",
-            "challenger_rating": 130,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
-                ],
-                "GLANCING BUFF": [
-                    "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
-                    "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
-                    "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
-                    "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
-                ],
-                "TRANSMUTATION BUFFS - MAX 5 STACKS": [
-                    "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
-                    "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
-                    "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
-                    "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
-                    "Gain +898.2 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
-                    "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 898.2 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
-                    "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
-                    "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict an Incinerate Debuff, dealing 1347.3 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-                    "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
-                ]
-            }
-        },
-        "6+4": {
-            "rank": 4,
-            "prestige": "11237",
-            "hp": "Hero",
-            "attack": "3427",
-            "crit_rate": "773",
-            "crit_dmge": "943",
-            "armor": "658",
-            "block_prof": "3166",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 15% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
-                "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
-            ],
-            "url_page": "https://auntm.ai/champions/sersi/tier/6",
-            "champid": "sersi+6+4",
-            "challenger_rating": 140,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
-                ],
-                "GLANCING BUFF": [
-                    "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
-                    "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
-                    "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
-                    "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
-                ],
-                "TRANSMUTATION BUFFS - MAX 5 STACKS": [
-                    "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
-                    "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
-                    "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
-                    "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
-                    "Gain +1028.1 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
-                    "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 1028.1 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
-                    "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
-                    "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Inflict an Incinerate Debuff, dealing 1542.15 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-                    "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
-                ]
-            }
-        },
-        "find": {
-            "story_quests": {
-                "act_1": [],
-                "act_2": [],
-                "act_3": [],
-                "act_4": [],
-                "act_5": [],
-                "act_6": [],
-                "act_7": [
-                    "7.4.2"
-                ]
-            }
-        }
+  "champid": "sersi",
+  "data": {
+    "2+1": {
+      "rank": 1,
+      "prestige": "270",
+      "hp": "Hero",
+      "attack": "85",
+      "crit_rate": "563",
+      "crit_dmge": "686",
+      "armor": "67",
+      "block_prof": "2303",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 13% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
+        "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
+      ],
+      "url_page": "https://auntm.ai/champions/sersi/tier/2",
+      "champid": "sersi+2+1",
+      "challenger_rating": 20,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
+        ],
+        "GLANCING BUFF": [
+          "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
+          "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
+          "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
+          "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
+        ],
+        "TRANSMUTATION BUFFS - MAX 5 STACKS": [
+          "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
+          "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
+          "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
+          "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
+        ],
+        "SPECIAL ATTACKS": [
+          "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
+          "Gain +25.5 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
+          "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 25.5 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
+          "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
+          "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict an Incinerate Debuff, dealing 38.25 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+          "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
+        ]
+      }
+    },
+    "2+2": {
+      "rank": 2,
+      "prestige": "357",
+      "hp": "Hero",
+      "attack": "112",
+      "crit_rate": "580",
+      "crit_dmge": "708",
+      "armor": "87",
+      "block_prof": "2375",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 13% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
+        "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
+      ],
+      "url_page": "https://auntm.ai/champions/sersi/tier/2",
+      "champid": "sersi+2+2",
+      "challenger_rating": 30,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
+        ],
+        "GLANCING BUFF": [
+          "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
+          "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
+          "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
+          "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
+        ],
+        "TRANSMUTATION BUFFS - MAX 5 STACKS": [
+          "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
+          "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
+          "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
+          "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
+        ],
+        "SPECIAL ATTACKS": [
+          "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
+          "Gain +33.6 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
+          "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 33.6 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
+          "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
+          "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict an Incinerate Debuff, dealing 50.4 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+          "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
+        ]
+      }
+    },
+    "2+3": {
+      "rank": 3,
+      "prestige": "579",
+      "hp": "Hero",
+      "attack": "178",
+      "crit_rate": "598",
+      "crit_dmge": "729",
+      "armor": "109",
+      "block_prof": "2447",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 13% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
+        "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
+      ],
+      "url_page": "https://auntm.ai/champions/sersi/tier/2",
+      "champid": "sersi+2+3",
+      "challenger_rating": 40,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
+        ],
+        "GLANCING BUFF": [
+          "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
+          "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
+          "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
+          "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
+        ],
+        "TRANSMUTATION BUFFS - MAX 5 STACKS": [
+          "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
+          "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
+          "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
+          "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
+        ],
+        "SPECIAL ATTACKS": [
+          "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
+          "Gain +53.4 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
+          "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 53.4 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
+          "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
+          "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict an Incinerate Debuff, dealing 80.1 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+          "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
+        ]
+      }
+    },
+    "3+1": {
+      "rank": 1,
+      "prestige": "495",
+      "hp": "Hero",
+      "attack": "152",
+      "crit_rate": "598",
+      "crit_dmge": "729",
+      "armor": "109",
+      "block_prof": "2447",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 13% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
+        "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
+      ],
+      "url_page": "https://auntm.ai/champions/sersi/tier/3",
+      "champid": "sersi+3+1",
+      "challenger_rating": 40,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
+        ],
+        "GLANCING BUFF": [
+          "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
+          "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
+          "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
+          "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
+        ],
+        "TRANSMUTATION BUFFS - MAX 5 STACKS": [
+          "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
+          "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
+          "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
+          "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
+        ],
+        "SPECIAL ATTACKS": [
+          "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
+          "Gain +45.6 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
+          "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 45.6 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
+          "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
+          "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict an Incinerate Debuff, dealing 68.4 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+          "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
+        ]
+      }
+    },
+    "3+2": {
+      "rank": 2,
+      "prestige": "790",
+      "hp": "Hero",
+      "attack": "243",
+      "crit_rate": "615",
+      "crit_dmge": "750",
+      "armor": "132",
+      "block_prof": "2519",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 13% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
+        "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
+      ],
+      "url_page": "https://auntm.ai/champions/sersi/tier/3",
+      "champid": "sersi+3+2",
+      "challenger_rating": 50,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
+        ],
+        "GLANCING BUFF": [
+          "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
+          "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
+          "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
+          "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
+        ],
+        "TRANSMUTATION BUFFS - MAX 5 STACKS": [
+          "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
+          "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
+          "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
+          "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
+        ],
+        "SPECIAL ATTACKS": [
+          "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
+          "Gain +72.9 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
+          "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 72.9 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
+          "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
+          "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict an Incinerate Debuff, dealing 109.35 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+          "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
+        ]
+      }
+    },
+    "3+3": {
+      "rank": 3,
+      "prestige": "1106",
+      "hp": "Hero",
+      "attack": "340",
+      "crit_rate": "633",
+      "crit_dmge": "772",
+      "armor": "157",
+      "block_prof": "2591",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 13% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
+        "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
+      ],
+      "url_page": "https://auntm.ai/champions/sersi/tier/3",
+      "champid": "sersi+3+3",
+      "challenger_rating": 60,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
+        ],
+        "GLANCING BUFF": [
+          "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
+          "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
+          "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
+          "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
+        ],
+        "TRANSMUTATION BUFFS - MAX 5 STACKS": [
+          "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
+          "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
+          "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
+          "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
+        ],
+        "SPECIAL ATTACKS": [
+          "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
+          "Gain +102 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
+          "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 102 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
+          "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
+          "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict an Incinerate Debuff, dealing 153 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+          "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
+        ]
+      }
+    },
+    "3+4": {
+      "rank": 4,
+      "prestige": "1520",
+      "hp": "Hero",
+      "attack": "467",
+      "crit_rate": "650",
+      "crit_dmge": "793",
+      "armor": "183",
+      "block_prof": "2663",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 13% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
+        "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
+      ],
+      "url_page": "https://auntm.ai/champions/sersi/tier/3",
+      "champid": "sersi+3+4",
+      "challenger_rating": 70,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
+        ],
+        "GLANCING BUFF": [
+          "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
+          "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
+          "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
+          "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
+        ],
+        "TRANSMUTATION BUFFS - MAX 5 STACKS": [
+          "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
+          "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
+          "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
+          "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
+        ],
+        "SPECIAL ATTACKS": [
+          "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
+          "Gain +140.1 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
+          "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 140.1 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
+          "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
+          "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict an Incinerate Debuff, dealing 210.15 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+          "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
+        ]
+      }
+    },
+    "4+1": {
+      "rank": 1,
+      "prestige": "1098",
+      "hp": "Hero",
+      "attack": "337",
+      "crit_rate": "633",
+      "crit_dmge": "772",
+      "armor": "223",
+      "block_prof": "2591",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 13% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
+        "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
+      ],
+      "url_page": "https://auntm.ai/champions/sersi/tier/4",
+      "champid": "sersi+4+1",
+      "challenger_rating": 60,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
+        ],
+        "GLANCING BUFF": [
+          "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
+          "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
+          "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
+          "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
+        ],
+        "TRANSMUTATION BUFFS - MAX 5 STACKS": [
+          "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
+          "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
+          "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
+          "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
+        ],
+        "SPECIAL ATTACKS": [
+          "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
+          "Gain +101.1 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
+          "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 101.1 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
+          "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
+          "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict an Incinerate Debuff, dealing 151.65 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+          "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
+        ]
+      }
+    },
+    "4+2": {
+      "rank": 2,
+      "prestige": "1540",
+      "hp": "Hero",
+      "attack": "472",
+      "crit_rate": "650",
+      "crit_dmge": "793",
+      "armor": "253",
+      "block_prof": "2663",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 13% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
+        "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
+      ],
+      "url_page": "https://auntm.ai/champions/sersi/tier/4",
+      "champid": "sersi+4+2",
+      "challenger_rating": 70,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
+        ],
+        "GLANCING BUFF": [
+          "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
+          "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
+          "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
+          "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
+        ],
+        "TRANSMUTATION BUFFS - MAX 5 STACKS": [
+          "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
+          "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
+          "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
+          "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
+        ],
+        "SPECIAL ATTACKS": [
+          "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
+          "Gain +141.6 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
+          "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 141.6 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
+          "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
+          "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict an Incinerate Debuff, dealing 212.4 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+          "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
+        ]
+      }
+    },
+    "4+3": {
+      "rank": 3,
+      "prestige": "2155",
+      "hp": "Hero",
+      "attack": "661",
+      "crit_rate": "668",
+      "crit_dmge": "815",
+      "armor": "284",
+      "block_prof": "2735",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 13% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
+        "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
+      ],
+      "url_page": "https://auntm.ai/champions/sersi/tier/4",
+      "champid": "sersi+4+3",
+      "challenger_rating": 80,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
+        ],
+        "GLANCING BUFF": [
+          "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
+          "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
+          "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
+          "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
+        ],
+        "TRANSMUTATION BUFFS - MAX 5 STACKS": [
+          "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
+          "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
+          "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
+          "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
+        ],
+        "SPECIAL ATTACKS": [
+          "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
+          "Gain +198.3 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
+          "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 198.3 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
+          "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
+          "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict an Incinerate Debuff, dealing 297.45 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+          "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
+        ]
+      }
+    },
+    "4+4": {
+      "rank": 4,
+      "prestige": "2838",
+      "hp": "Hero",
+      "attack": "869",
+      "crit_rate": "686",
+      "crit_dmge": "836",
+      "armor": "318",
+      "block_prof": "2807",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 13% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
+        "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
+      ],
+      "url_page": "https://auntm.ai/champions/sersi/tier/4",
+      "champid": "sersi+4+4",
+      "challenger_rating": 90,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
+        ],
+        "GLANCING BUFF": [
+          "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
+          "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
+          "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
+          "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
+        ],
+        "TRANSMUTATION BUFFS - MAX 5 STACKS": [
+          "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
+          "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
+          "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
+          "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
+        ],
+        "SPECIAL ATTACKS": [
+          "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
+          "Gain +260.7 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
+          "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 260.7 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
+          "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
+          "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict an Incinerate Debuff, dealing 391.05 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+          "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
+        ]
+      }
+    },
+    "4+5": {
+      "rank": 5,
+      "prestige": "3785",
+      "hp": "Hero",
+      "attack": "1159",
+      "crit_rate": "703",
+      "crit_dmge": "858",
+      "armor": "353",
+      "block_prof": "2879",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 13% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
+        "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
+      ],
+      "url_page": "https://auntm.ai/champions/sersi/tier/4",
+      "champid": "sersi+4+5",
+      "challenger_rating": 100,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
+        ],
+        "GLANCING BUFF": [
+          "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
+          "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
+          "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
+          "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
+        ],
+        "TRANSMUTATION BUFFS - MAX 5 STACKS": [
+          "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
+          "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
+          "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
+          "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
+        ],
+        "SPECIAL ATTACKS": [
+          "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
+          "Gain +347.7 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
+          "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 347.7 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
+          "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
+          "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict an Incinerate Debuff, dealing 521.55 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+          "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
+        ]
+      }
+    },
+    "5+1": {
+      "rank": 1,
+      "prestige": "2268",
+      "hp": "Hero",
+      "attack": "692",
+      "crit_rate": "668",
+      "crit_dmge": "815",
+      "armor": "446",
+      "block_prof": "2735",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 15% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
+        "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
+      ],
+      "url_page": "https://auntm.ai/champions/sersi/tier/5",
+      "champid": "sersi+5+1",
+      "challenger_rating": 80,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
+        ],
+        "GLANCING BUFF": [
+          "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
+          "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
+          "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
+          "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
+        ],
+        "TRANSMUTATION BUFFS - MAX 5 STACKS": [
+          "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
+          "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
+          "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
+          "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
+        ],
+        "SPECIAL ATTACKS": [
+          "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
+          "Gain +207.6 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
+          "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 207.6 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
+          "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
+          "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict an Incinerate Debuff, dealing 311.4 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+          "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
+        ]
+      }
+    },
+    "5+2": {
+      "rank": 2,
+      "prestige": "2992",
+      "hp": "Hero",
+      "attack": "914",
+      "crit_rate": "686",
+      "crit_dmge": "836",
+      "armor": "488",
+      "block_prof": "2807",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 15% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
+        "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
+      ],
+      "url_page": "https://auntm.ai/champions/sersi/tier/5",
+      "champid": "sersi+5+2",
+      "challenger_rating": 90,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
+        ],
+        "GLANCING BUFF": [
+          "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
+          "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
+          "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
+          "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
+        ],
+        "TRANSMUTATION BUFFS - MAX 5 STACKS": [
+          "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
+          "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
+          "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
+          "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
+        ],
+        "SPECIAL ATTACKS": [
+          "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
+          "Gain +274.2 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
+          "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 274.2 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
+          "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
+          "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict an Incinerate Debuff, dealing 411.3 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+          "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
+        ]
+      }
+    },
+    "5+3": {
+      "rank": 3,
+      "prestige": "4192",
+      "hp": "Hero",
+      "attack": "1278",
+      "crit_rate": "703",
+      "crit_dmge": "858",
+      "armor": "532",
+      "block_prof": "2879",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 15% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
+        "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
+      ],
+      "url_page": "https://auntm.ai/champions/sersi/tier/5",
+      "champid": "sersi+5+3",
+      "challenger_rating": 100,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
+        ],
+        "GLANCING BUFF": [
+          "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
+          "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
+          "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
+          "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
+        ],
+        "TRANSMUTATION BUFFS - MAX 5 STACKS": [
+          "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
+          "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
+          "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
+          "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
+        ],
+        "SPECIAL ATTACKS": [
+          "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
+          "Gain +383.4 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
+          "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 383.4 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
+          "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
+          "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict an Incinerate Debuff, dealing 575.1 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+          "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
+        ]
+      }
+    },
+    "5+4": {
+      "rank": 4,
+      "prestige": "5645",
+      "hp": "Hero",
+      "attack": "1721",
+      "crit_rate": "721",
+      "crit_dmge": "879",
+      "armor": "579",
+      "block_prof": "2950",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 15% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
+        "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
+      ],
+      "url_page": "https://auntm.ai/champions/sersi/tier/5",
+      "champid": "sersi+5+4",
+      "challenger_rating": 110,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
+        ],
+        "GLANCING BUFF": [
+          "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
+          "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
+          "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
+          "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
+        ],
+        "TRANSMUTATION BUFFS - MAX 5 STACKS": [
+          "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
+          "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
+          "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
+          "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
+        ],
+        "SPECIAL ATTACKS": [
+          "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
+          "Gain +516.3 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
+          "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 516.3 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
+          "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
+          "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict an Incinerate Debuff, dealing 774.45 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+          "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
+        ]
+      }
+    },
+    "5+5": {
+      "rank": 5,
+      "prestige": "7637",
+      "hp": "Hero",
+      "attack": "2324",
+      "crit_rate": "738",
+      "crit_dmge": "900",
+      "armor": "628",
+      "block_prof": "3022",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 15% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
+        "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
+      ],
+      "url_page": "https://auntm.ai/champions/sersi/tier/5",
+      "champid": "sersi+5+5",
+      "challenger_rating": 120,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
+        ],
+        "GLANCING BUFF": [
+          "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
+          "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
+          "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
+          "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
+        ],
+        "TRANSMUTATION BUFFS - MAX 5 STACKS": [
+          "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
+          "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
+          "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
+          "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
+        ],
+        "SPECIAL ATTACKS": [
+          "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
+          "Gain +697.2 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
+          "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 697.2 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
+          "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
+          "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict an Incinerate Debuff, dealing 1045.8 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+          "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
+        ]
+      }
+    },
+    "6+1": {
+      "rank": 1,
+      "prestige": "5980",
+      "hp": "Hero",
+      "attack": "1827",
+      "crit_rate": "721",
+      "crit_dmge": "879",
+      "armor": "513",
+      "block_prof": "2950",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 15% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
+        "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
+      ],
+      "url_page": "https://auntm.ai/champions/sersi/tier/6",
+      "champid": "sersi+6+1",
+      "challenger_rating": 110,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
+        ],
+        "GLANCING BUFF": [
+          "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
+          "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
+          "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
+          "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
+        ],
+        "TRANSMUTATION BUFFS - MAX 5 STACKS": [
+          "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
+          "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
+          "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
+          "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
+        ],
+        "SPECIAL ATTACKS": [
+          "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
+          "Gain +548.1 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
+          "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 548.1 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
+          "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
+          "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict an Incinerate Debuff, dealing 822.15 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+          "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
+        ]
+      }
+    },
+    "6+2": {
+      "rank": 2,
+      "prestige": "8259",
+      "hp": "Hero",
+      "attack": "2524",
+      "crit_rate": "738",
+      "crit_dmge": "900",
+      "armor": "559",
+      "block_prof": "3022",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 15% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
+        "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
+      ],
+      "url_page": "https://auntm.ai/champions/sersi/tier/6",
+      "champid": "sersi+6+2",
+      "challenger_rating": 120,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
+        ],
+        "GLANCING BUFF": [
+          "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
+          "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
+          "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
+          "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
+        ],
+        "TRANSMUTATION BUFFS - MAX 5 STACKS": [
+          "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
+          "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
+          "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
+          "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
+        ],
+        "SPECIAL ATTACKS": [
+          "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
+          "Gain +757.2 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
+          "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 757.2 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
+          "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
+          "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict an Incinerate Debuff, dealing 1135.8 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+          "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
+        ]
+      }
+    },
+    "6+3": {
+      "rank": 3,
+      "prestige": "9820",
+      "hp": "Hero",
+      "attack": "2994",
+      "crit_rate": "756",
+      "crit_dmge": "922",
+      "armor": "607",
+      "block_prof": "3094",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 15% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
+        "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
+      ],
+      "url_page": "https://auntm.ai/champions/sersi/tier/6",
+      "champid": "sersi+6+3",
+      "challenger_rating": 130,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
+        ],
+        "GLANCING BUFF": [
+          "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
+          "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
+          "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
+          "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
+        ],
+        "TRANSMUTATION BUFFS - MAX 5 STACKS": [
+          "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
+          "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
+          "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
+          "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
+        ],
+        "SPECIAL ATTACKS": [
+          "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
+          "Gain +898.2 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
+          "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 898.2 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
+          "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
+          "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict an Incinerate Debuff, dealing 1347.3 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+          "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
+        ]
+      }
+    },
+    "6+4": {
+      "rank": 4,
+      "prestige": "11237",
+      "hp": "Hero",
+      "attack": "3427",
+      "crit_rate": "773",
+      "crit_dmge": "943",
+      "armor": "658",
+      "block_prof": "3166",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "While Sersi\u2019s Glancing Buff is active, Glanced hits grant a Regeneration Buff healing 5 to 15% of damage taken per Transmutation over 3 seconds. This ability activates before checking Armor and Resistances and cannot be triggered by Blocking. Transmutation Buffs that exceed the maximum do not count towards this ability.",
+        "Gain a Power Gain Buff, generating 15% of a Bar of Power over 1.50 seconds each time Sersi\u2019s Fury or Glancing Buffs expire or are Nullified."
+      ],
+      "url_page": "https://auntm.ai/champions/sersi/tier/6",
+      "champid": "sersi+6+4",
+      "challenger_rating": 140,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
+        ],
+        "GLANCING BUFF": [
+          "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
+          "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
+          "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
+          "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
+        ],
+        "TRANSMUTATION BUFFS - MAX 5 STACKS": [
+          "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
+          "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
+          "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
+          "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
+        ],
+        "SPECIAL ATTACKS": [
+          "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
+          "Gain +1028.1 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
+          "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 1028.1 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
+          "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
+          "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict an Incinerate Debuff, dealing 1542.15 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+          "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
+        ]
+      }
+    },
+    "1+1": {
+      "rank": 1,
+      "prestige": 214,
+      "hp": 793,
+      "attack": 67,
+      "crit_rate": 545,
+      "crit_dmge": 665,
+      "armor": 32,
+      "block_prof": 2231,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/sersi/tier/1",
+      "champid": "sersi+1+1",
+      "challenger_rating": 10,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
+        ],
+        "GLANCING BUFF": [
+          "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
+          "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
+          "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
+          "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
+        ],
+        "TRANSMUTATION BUFFS - MAX 5 STACKS": [
+          "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
+          "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
+          "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
+          "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
+        ],
+        "SPECIAL ATTACKS": [
+          "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
+          "Gain +20.1 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
+          "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 20.1 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
+          "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
+          "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict an Incinerate Debuff, dealing 30.15 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+          "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
+        ]
+      }
+    },
+    "1+2": {
+      "rank": 2,
+      "prestige": 294,
+      "hp": 1096,
+      "attack": 92,
+      "crit_rate": 563,
+      "crit_dmge": 686,
+      "armor": 33,
+      "block_prof": 2303,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/sersi/tier/1",
+      "champid": "sersi+1+2",
+      "challenger_rating": 20,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Sersi\u2019s control of matter prevents her Regeneration Rate from being lowered below 0%."
+        ],
+        "GLANCING BUFF": [
+          "Taking damage equal to or more than 120% of the Opponent\u2019s Attack Rating in a single hit activates a Glancing Buff for 10 seconds.",
+          "While this buff is active, gain a 100% chance for incoming attacks to Glance. This effect then goes on cooldown for 7 seconds.",
+          "Charging a Heavy Attack has a 100% chance to activate a Glancing Buff for 10 seconds.",
+          "Glancing Buffs are paused for 4 seconds during Sersi's Special Attacks."
+        ],
+        "TRANSMUTATION BUFFS - MAX 5 STACKS": [
+          "Transmutation Buffs are indefinite and reduce the duration of Bleeds, Shocks, Incinerates, and Heal Blocks by 30%. Max 90%. Transmutation Buffs that exceed the maximum last 8 seconds.",
+          "Gain a Transmutation Buff when Sersi\u2019s Glancing Buff is activated. Gain an additional Transmutation Buff if the Glancing Buff activates due to being Struck.",
+          "Gain a Transmutation Buff on a Medium Combo Ender. Gain an additional Transmutation Buff while the Glancing Buff is active.",
+          "Gain a Transmutation Buff when an Armor Up is triggered on either champion or when inflicted with a Special Lock."
+        ],
+        "SPECIAL ATTACKS": [
+          "Far from Opponent: While at or above 1 Transmutation Buff gain an Unblockable Buff for 2.75 seconds.",
+          "Gain +27.6 Attack Rating for each Armor Up on either champion for the duration of the Special Attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Close to Opponent: Gain a True Damage Buff ignoring Armor and Resistances for 12 seconds. Consume 1 Transmutation Buff to extend the duration of this Buff by 9 seconds.",
+          "Far from Opponent: Inflict a Stun Debuff for 2 second(s). Consume 1 Transmutation Buff to refresh all personal Fury and True Damage Buffs."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Close to Opponent: Gain a Fury Buff increasing Attack Rating by 27.6 for 24 seconds. Consume all Transmutation Buffs and gain an additional Fury Buff for each Transmutation Buff consumed. Max 15 Stacks.",
+          "Far from Opponent: Regenerate 5% of the damage dealt. Consume all Transmutation Buffs for an additional 3% for each Transmutation Buff consumed.",
+          "On the last hit, deal an additional 30% of damage dealt as a burst of Energy Damage."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Inflict an Incinerate Debuff, dealing 41.4 Energy damage over 12 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+          "Inflict an additional Incinerate Debuff for each Transmutation Buff consumed throughout the fight. Max 25."
+        ]
+      }
+    },
+    "find": {
+      "story_quests": {
+        "act_1": [],
+        "act_2": [],
+        "act_3": [],
+        "act_4": [],
+        "act_5": [],
+        "act_6": [],
+        "act_7": ["7.4.2"]
+      }
     }
+  },
+  "name": "SERSI",
+  "class": "Cosmic",
+  "img_portrait": "https://api.rexians.tk/assets/portraits/sersi.png",
+  "contact": "PHYSICAL",
+  "tags": ["Hero", "Size: S"],
+  "released": "11/11/2021"
 }

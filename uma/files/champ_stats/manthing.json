@@ -1,1315 +1,1373 @@
 {
-    "name": "MAN-THING",
-    "class": "Mystic",
-    "img_portrait": "https://api.rexians.tk/assets/portraits/manthing.png",
-    "contact": "PHYSICAL",
-    "tags": [
-        "Hero",
-        "Size: L"
-    ],
-    "released": "10/17/2019",
-    "champid": "manthing",
-    "data": {
-        "2+1": {
-            "rank": 1,
-            "prestige": "274",
-            "hp": "1349",
-            "attack": "79",
-            "crit_rate": "305",
-            "crit_dmge": "400",
-            "armor": "0",
-            "block_prof": "2400",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 9.88 to 19.74 for 10 seconds.",
-                "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 33.73 to 53.84 Health over 10 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/manthing/tier/2",
-            "champid": "manthing+2+1",
-            "challenger_rating": 20,
-            "abilities": {
-                "MADE OF MUSH - PASSIVE": [
-                    "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
-                    "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
-                ],
-                "EMPATHIC AGITATION - PASSIVE": [
-                    "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
-                    "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 63.2 Attack based on Agitation.",
-                    "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
-                    "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
-                ],
-                "ACIDIC SECRETIONS - PASSIVE": [
-                    "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
-                ],
-                "TOXIC PUSTULES - BUFF": [
-                    "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
-                    "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
-                    "The Poison Debuff does 73.08 damage over 15 seconds, and reduces Regeneration effects by 30%.",
-                    "The Armor Break Debuff reduces Armor by 177.78 and lasts 15 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
-                ],
-                "SPECIAL ATTACKS": [
-                    "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to Nullify up to 2 Buff(s) per Hit."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant a Fury Buff increasing Attack by up to 63.2 based on Agitation for 30 seconds.",
-                    "100% Chance to place a Poison Debuff on the Opponent causing up to 116.53 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
-                    "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
-                ]
-            }
-        },
-        "2+2": {
-            "rank": 2,
-            "prestige": "363",
-            "hp": "1804",
-            "attack": "105",
-            "crit_rate": "315",
-            "crit_dmge": "413",
-            "armor": "0",
-            "block_prof": "2475",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 13.13 to 26.24 for 10 seconds.",
-                "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 45.11 to 72.01 Health over 10 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/manthing/tier/2",
-            "champid": "manthing+2+2",
-            "challenger_rating": 30,
-            "abilities": {
-                "MADE OF MUSH - PASSIVE": [
-                    "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
-                    "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
-                ],
-                "EMPATHIC AGITATION - PASSIVE": [
-                    "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
-                    "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 84 Attack based on Agitation.",
-                    "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
-                    "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
-                ],
-                "ACIDIC SECRETIONS - PASSIVE": [
-                    "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
-                ],
-                "TOXIC PUSTULES - BUFF": [
-                    "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
-                    "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
-                    "The Poison Debuff does 97.13 damage over 15 seconds, and reduces Regeneration effects by 30%.",
-                    "The Armor Break Debuff reduces Armor by 183.33 and lasts 15 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
-                ],
-                "SPECIAL ATTACKS": [
-                    "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to Nullify up to 2 Buff(s) per Hit."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant a Fury Buff increasing Attack by up to 84 based on Agitation for 30 seconds.",
-                    "100% Chance to place a Poison Debuff on the Opponent causing up to 154.88 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
-                    "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
-                ]
-            }
-        },
-        "2+3": {
-            "rank": 3,
-            "prestige": "575",
-            "hp": "2898",
-            "attack": "166",
-            "crit_rate": "324",
-            "crit_dmge": "425",
-            "armor": "0",
-            "block_prof": "2550",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 20.76 to 41.48 for 10 seconds.",
-                "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 72.46 to 115.67 Health over 10 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/manthing/tier/2",
-            "champid": "manthing+2+3",
-            "challenger_rating": 40,
-            "abilities": {
-                "MADE OF MUSH - PASSIVE": [
-                    "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
-                    "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
-                ],
-                "EMPATHIC AGITATION - PASSIVE": [
-                    "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
-                    "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 132.8 Attack based on Agitation.",
-                    "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
-                    "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
-                ],
-                "ACIDIC SECRETIONS - PASSIVE": [
-                    "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
-                ],
-                "TOXIC PUSTULES - BUFF": [
-                    "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
-                    "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
-                    "The Poison Debuff does 153.55 damage over 15 seconds, and reduces Regeneration effects by 30%.",
-                    "The Armor Break Debuff reduces Armor by 188.89 and lasts 15 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
-                ],
-                "SPECIAL ATTACKS": [
-                    "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to Nullify up to 2 Buff(s) per Hit."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant a Fury Buff increasing Attack by up to 132.8 based on Agitation for 30 seconds.",
-                    "100% Chance to place a Poison Debuff on the Opponent causing up to 244.85 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
-                    "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
-                ]
-            }
-        },
-        "3+1": {
-            "rank": 1,
-            "prestige": "495",
-            "hp": "2446",
-            "attack": "144",
-            "crit_rate": "324",
-            "crit_dmge": "425",
-            "armor": "0",
-            "block_prof": "2550",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 18.01 to 35.99 for 10 seconds.",
-                "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 61.16 to 97.63 Health over 10 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/manthing/tier/3",
-            "champid": "manthing+3+1",
-            "challenger_rating": 40,
-            "abilities": {
-                "MADE OF MUSH - PASSIVE": [
-                    "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
-                    "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
-                ],
-                "EMPATHIC AGITATION - PASSIVE": [
-                    "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
-                    "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 115.2 Attack based on Agitation.",
-                    "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
-                    "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
-                ],
-                "ACIDIC SECRETIONS - PASSIVE": [
-                    "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
-                ],
-                "TOXIC PUSTULES - BUFF": [
-                    "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
-                    "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
-                    "The Poison Debuff does 133.2 damage over 15 seconds, and reduces Regeneration effects by 30%.",
-                    "The Armor Break Debuff reduces Armor by 188.89 and lasts 15 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
-                ],
-                "SPECIAL ATTACKS": [
-                    "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to Nullify up to 2 Buff(s) per Hit."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant a Fury Buff increasing Attack by up to 115.2 based on Agitation for 30 seconds.",
-                    "100% Chance to place a Poison Debuff on the Opponent causing up to 212.4 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
-                    "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
-                ]
-            }
-        },
-        "3+2": {
-            "rank": 2,
-            "prestige": "789",
-            "hp": "3961",
-            "attack": "229",
-            "crit_rate": "334",
-            "crit_dmge": "438",
-            "armor": "0",
-            "block_prof": "2625",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 28.63 to 57.23 for 10 seconds.",
-                "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 99.04 to 158.1 Health over 10 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/manthing/tier/3",
-            "champid": "manthing+3+2",
-            "challenger_rating": 50,
-            "abilities": {
-                "MADE OF MUSH - PASSIVE": [
-                    "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
-                    "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
-                ],
-                "EMPATHIC AGITATION - PASSIVE": [
-                    "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
-                    "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 183.2 Attack based on Agitation.",
-                    "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
-                    "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
-                ],
-                "ACIDIC SECRETIONS - PASSIVE": [
-                    "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
-                ],
-                "TOXIC PUSTULES - BUFF": [
-                    "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
-                    "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
-                    "The Poison Debuff does 211.83 damage over 15 seconds, and reduces Regeneration effects by 30%.",
-                    "The Armor Break Debuff reduces Armor by 194.44 and lasts 15 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
-                ],
-                "SPECIAL ATTACKS": [
-                    "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to Nullify up to 2 Buff(s) per Hit."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant a Fury Buff increasing Attack by up to 183.2 based on Agitation for 30 seconds.",
-                    "100% Chance to place a Poison Debuff on the Opponent causing up to 337.78 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
-                    "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
-                ]
-            }
-        },
-        "3+3": {
-            "rank": 3,
-            "prestige": "1109",
-            "hp": "5608",
-            "attack": "321",
-            "crit_rate": "343",
-            "crit_dmge": "450",
-            "armor": "0",
-            "block_prof": "2700",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 40.14 to 80.22 for 10 seconds.",
-                "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 140.23 to 223.84 Health over 10 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/manthing/tier/3",
-            "champid": "manthing+3+3",
-            "challenger_rating": 60,
-            "abilities": {
-                "MADE OF MUSH - PASSIVE": [
-                    "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
-                    "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
-                ],
-                "EMPATHIC AGITATION - PASSIVE": [
-                    "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
-                    "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 256.8 Attack based on Agitation.",
-                    "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
-                    "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
-                ],
-                "ACIDIC SECRETIONS - PASSIVE": [
-                    "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
-                ],
-                "TOXIC PUSTULES - BUFF": [
-                    "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
-                    "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
-                    "The Poison Debuff does 296.93 damage over 15 seconds, and reduces Regeneration effects by 30%.",
-                    "The Armor Break Debuff reduces Armor by 200 and lasts 15 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
-                ],
-                "SPECIAL ATTACKS": [
-                    "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to Nullify up to 2 Buff(s) per Hit."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant a Fury Buff increasing Attack by up to 256.8 based on Agitation for 30 seconds.",
-                    "100% Chance to place a Poison Debuff on the Opponent causing up to 473.48 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
-                    "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
-                ]
-            }
-        },
-        "3+4": {
-            "rank": 4,
-            "prestige": "1529",
-            "hp": "7791",
-            "attack": "440",
-            "crit_rate": "353",
-            "crit_dmge": "463",
-            "armor": "0",
-            "block_prof": "2775",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 55.02 to 109.96 for 10 seconds.",
-                "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 194.81 to 310.97 Health over 10 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/manthing/tier/3",
-            "champid": "manthing+3+4",
-            "challenger_rating": 70,
-            "abilities": {
-                "MADE OF MUSH - PASSIVE": [
-                    "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
-                    "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
-                ],
-                "EMPATHIC AGITATION - PASSIVE": [
-                    "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
-                    "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 352 Attack based on Agitation.",
-                    "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
-                    "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
-                ],
-                "ACIDIC SECRETIONS - PASSIVE": [
-                    "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
-                ],
-                "TOXIC PUSTULES - BUFF": [
-                    "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
-                    "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
-                    "The Poison Debuff does 407 damage over 15 seconds, and reduces Regeneration effects by 30%.",
-                    "The Armor Break Debuff reduces Armor by 205.56 and lasts 15 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
-                ],
-                "SPECIAL ATTACKS": [
-                    "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to Nullify up to 2 Buff(s) per Hit."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant a Fury Buff increasing Attack by up to 352 based on Agitation for 30 seconds.",
-                    "100% Chance to place a Poison Debuff on the Opponent causing up to 649 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
-                    "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
-                ]
-            }
-        },
-        "4+1": {
-            "rank": 1,
-            "prestige": "1093",
-            "hp": "5471",
-            "attack": "320",
-            "crit_rate": "343",
-            "crit_dmge": "450",
-            "armor": "0",
-            "block_prof": "2700",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 40.01 to 79.97 for 10 seconds.",
-                "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 136.8 to 218.37 Health over 10 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/manthing/tier/4",
-            "champid": "manthing+4+1",
-            "challenger_rating": 60,
-            "abilities": {
-                "MADE OF MUSH - PASSIVE": [
-                    "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
-                    "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
-                ],
-                "EMPATHIC AGITATION - PASSIVE": [
-                    "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
-                    "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 256 Attack based on Agitation.",
-                    "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
-                    "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
-                ],
-                "ACIDIC SECRETIONS - PASSIVE": [
-                    "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
-                ],
-                "TOXIC PUSTULES - BUFF": [
-                    "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
-                    "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
-                    "The Poison Debuff does 296 damage over 15 seconds, and reduces Regeneration effects by 30%.",
-                    "The Armor Break Debuff reduces Armor by 200 and lasts 15 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
-                ],
-                "SPECIAL ATTACKS": [
-                    "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to Nullify up to 2 Buff(s) per Hit."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant a Fury Buff increasing Attack by up to 256 based on Agitation for 30 seconds.",
-                    "100% Chance to place a Poison Debuff on the Opponent causing up to 472 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
-                    "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
-                ]
-            }
-        },
-        "4+2": {
-            "rank": 2,
-            "prestige": "1544",
-            "hp": "7768",
-            "attack": "449",
-            "crit_rate": "353",
-            "crit_dmge": "463",
-            "armor": "0",
-            "block_prof": "2775",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 56.14 to 112.21 for 10 seconds.",
-                "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 194.24 to 310.05 Health over 10 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/manthing/tier/4",
-            "champid": "manthing+4+2",
-            "challenger_rating": 70,
-            "abilities": {
-                "MADE OF MUSH - PASSIVE": [
-                    "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
-                    "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
-                ],
-                "EMPATHIC AGITATION - PASSIVE": [
-                    "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
-                    "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 359.2 Attack based on Agitation.",
-                    "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
-                    "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
-                ],
-                "ACIDIC SECRETIONS - PASSIVE": [
-                    "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
-                ],
-                "TOXIC PUSTULES - BUFF": [
-                    "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
-                    "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
-                    "The Poison Debuff does 415.33 damage over 15 seconds, and reduces Regeneration effects by 30%.",
-                    "The Armor Break Debuff reduces Armor by 205.56 and lasts 15 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
-                ],
-                "SPECIAL ATTACKS": [
-                    "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to Nullify up to 2 Buff(s) per Hit."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant a Fury Buff increasing Attack by up to 359.2 based on Agitation for 30 seconds.",
-                    "100% Chance to place a Poison Debuff on the Opponent causing up to 662.28 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
-                    "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
-                ]
-            }
-        },
-        "4+3": {
-            "rank": 3,
-            "prestige": "2174",
-            "hp": "11013",
-            "attack": "629",
-            "crit_rate": "362",
-            "crit_dmge": "475",
-            "armor": "0",
-            "block_prof": "2850",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 78.65 to 157.19 for 10 seconds.",
-                "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 275.38 to 439.58 Health over 10 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/manthing/tier/4",
-            "champid": "manthing+4+3",
-            "challenger_rating": 80,
-            "abilities": {
-                "MADE OF MUSH - PASSIVE": [
-                    "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
-                    "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
-                ],
-                "EMPATHIC AGITATION - PASSIVE": [
-                    "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
-                    "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 503.2 Attack based on Agitation.",
-                    "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
-                    "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
-                ],
-                "ACIDIC SECRETIONS - PASSIVE": [
-                    "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
-                ],
-                "TOXIC PUSTULES - BUFF": [
-                    "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
-                    "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
-                    "The Poison Debuff does 581.83 damage over 15 seconds, and reduces Regeneration effects by 30%.",
-                    "The Armor Break Debuff reduces Armor by 211.11 and lasts 15 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
-                ],
-                "SPECIAL ATTACKS": [
-                    "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to Nullify up to 2 Buff(s) per Hit."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant a Fury Buff increasing Attack by up to 503.2 based on Agitation for 30 seconds.",
-                    "100% Chance to place a Poison Debuff on the Opponent causing up to 927.78 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
-                    "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
-                ]
-            }
-        },
-        "4+4": {
-            "rank": 4,
-            "prestige": "2878",
-            "hp": "14642",
-            "attack": "827",
-            "crit_rate": "372",
-            "crit_dmge": "488",
-            "armor": "0",
-            "block_prof": "2925",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 103.41 to 206.67 for 10 seconds.",
-                "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 366.12 to 584.43 Health over 10 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/manthing/tier/4",
-            "champid": "manthing+4+4",
-            "challenger_rating": 90,
-            "abilities": {
-                "MADE OF MUSH - PASSIVE": [
-                    "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
-                    "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
-                ],
-                "EMPATHIC AGITATION - PASSIVE": [
-                    "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
-                    "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 661.6 Attack based on Agitation.",
-                    "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
-                    "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
-                ],
-                "ACIDIC SECRETIONS - PASSIVE": [
-                    "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
-                ],
-                "TOXIC PUSTULES - BUFF": [
-                    "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
-                    "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
-                    "The Poison Debuff does 764.98 damage over 15 seconds, and reduces Regeneration effects by 30%.",
-                    "The Armor Break Debuff reduces Armor by 216.67 and lasts 15 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
-                ],
-                "SPECIAL ATTACKS": [
-                    "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to Nullify up to 2 Buff(s) per Hit."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant a Fury Buff increasing Attack by up to 661.6 based on Agitation for 30 seconds.",
-                    "100% Chance to place a Poison Debuff on the Opponent causing up to 1219.83 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
-                    "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
-                ]
-            }
-        },
-        "4+5": {
-            "rank": 5,
-            "prestige": "3862",
-            "hp": "19765",
-            "attack": "1103",
-            "crit_rate": "381",
-            "crit_dmge": "500",
-            "armor": "0",
-            "block_prof": "3000",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 137.92 to 275.65 for 10 seconds.",
-                "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 494.22 to 788.91 Health over 10 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/manthing/tier/4",
-            "champid": "manthing+4+5",
-            "challenger_rating": 100,
-            "abilities": {
-                "MADE OF MUSH - PASSIVE": [
-                    "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
-                    "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
-                ],
-                "EMPATHIC AGITATION - PASSIVE": [
-                    "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
-                    "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 882.4 Attack based on Agitation.",
-                    "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
-                    "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
-                ],
-                "ACIDIC SECRETIONS - PASSIVE": [
-                    "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
-                ],
-                "TOXIC PUSTULES - BUFF": [
-                    "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
-                    "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
-                    "The Poison Debuff does 1020.28 damage over 15 seconds, and reduces Regeneration effects by 30%.",
-                    "The Armor Break Debuff reduces Armor by 222.22 and lasts 15 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
-                ],
-                "SPECIAL ATTACKS": [
-                    "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to Nullify up to 2 Buff(s) per Hit."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant a Fury Buff increasing Attack by up to 882.4 based on Agitation for 30 seconds.",
-                    "100% Chance to place a Poison Debuff on the Opponent causing up to 1626.93 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
-                    "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
-                ]
-            }
-        },
-        "5+1": {
-            "rank": 1,
-            "prestige": "2257",
-            "hp": "11251",
-            "attack": "658",
-            "crit_rate": "362",
-            "crit_dmge": "475",
-            "armor": "0",
-            "block_prof": "2850",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 82.26 to 197.73 for 10 seconds.",
-                "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 281.3 to 508.65 Health over 10 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/manthing/tier/5",
-            "champid": "manthing+5+1",
-            "challenger_rating": 80,
-            "abilities": {
-                "MADE OF MUSH - PASSIVE": [
-                    "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
-                    "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
-                ],
-                "EMPATHIC AGITATION - PASSIVE": [
-                    "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
-                    "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 526.4 Attack based on Agitation.",
-                    "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
-                    "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
-                ],
-                "ACIDIC SECRETIONS - PASSIVE": [
-                    "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
-                ],
-                "TOXIC PUSTULES - BUFF": [
-                    "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
-                    "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
-                    "The Poison Debuff does 608.65 damage over 15 seconds, and reduces Regeneration effects by 30%.",
-                    "The Armor Break Debuff reduces Armor by 211.11 and lasts 15 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
-                ],
-                "SPECIAL ATTACKS": [
-                    "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to Nullify up to 2 Buff(s) per Hit."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant a Fury Buff increasing Attack by up to 526.4 based on Agitation for 30 seconds.",
-                    "100% Chance to place a Poison Debuff on the Opponent causing up to 970.55 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
-                    "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
-                ]
-            }
-        },
-        "5+2": {
-            "rank": 2,
-            "prestige": "2997",
-            "hp": "15041",
-            "attack": "870",
-            "crit_rate": "372",
-            "crit_dmge": "488",
-            "armor": "0",
-            "block_prof": "2925",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 108.76 to 261.44 for 10 seconds.",
-                "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 376.05 to 680 Health over 10 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/manthing/tier/5",
-            "champid": "manthing+5+2",
-            "challenger_rating": 90,
-            "abilities": {
-                "MADE OF MUSH - PASSIVE": [
-                    "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
-                    "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
-                ],
-                "EMPATHIC AGITATION - PASSIVE": [
-                    "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
-                    "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 696 Attack based on Agitation.",
-                    "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
-                    "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
-                ],
-                "ACIDIC SECRETIONS - PASSIVE": [
-                    "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
-                ],
-                "TOXIC PUSTULES - BUFF": [
-                    "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
-                    "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
-                    "The Poison Debuff does 804.75 damage over 15 seconds, and reduces Regeneration effects by 30%.",
-                    "The Armor Break Debuff reduces Armor by 216.67 and lasts 15 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
-                ],
-                "SPECIAL ATTACKS": [
-                    "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to Nullify up to 2 Buff(s) per Hit."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant a Fury Buff increasing Attack by up to 696 based on Agitation for 30 seconds.",
-                    "100% Chance to place a Poison Debuff on the Opponent causing up to 1283.25 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
-                    "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
-                ]
-            }
-        },
-        "5+3": {
-            "rank": 3,
-            "prestige": "4221",
-            "hp": "21279",
-            "attack": "1216",
-            "crit_rate": "381",
-            "crit_dmge": "500",
-            "armor": "0",
-            "block_prof": "3000",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 152.02 to 365.41 for 10 seconds.",
-                "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 532.02 to 962.01 Health over 10 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/manthing/tier/5",
-            "champid": "manthing+5+3",
-            "challenger_rating": 100,
-            "abilities": {
-                "MADE OF MUSH - PASSIVE": [
-                    "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
-                    "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
-                ],
-                "EMPATHIC AGITATION - PASSIVE": [
-                    "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
-                    "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 972.8 Attack based on Agitation.",
-                    "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
-                    "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
-                ],
-                "ACIDIC SECRETIONS - PASSIVE": [
-                    "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
-                ],
-                "TOXIC PUSTULES - BUFF": [
-                    "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
-                    "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
-                    "The Poison Debuff does 1124.8 damage over 15 seconds, and reduces Regeneration effects by 30%.",
-                    "The Armor Break Debuff reduces Armor by 222.22 and lasts 15 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
-                ],
-                "SPECIAL ATTACKS": [
-                    "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to Nullify up to 2 Buff(s) per Hit."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant a Fury Buff increasing Attack by up to 972.8 based on Agitation for 30 seconds.",
-                    "100% Chance to place a Poison Debuff on the Opponent causing up to 1793.6 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
-                    "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
-                ]
-            }
-        },
-        "5+4": {
-            "rank": 4,
-            "prestige": "5719",
-            "hp": "29012",
-            "attack": "1638",
-            "crit_rate": "391",
-            "crit_dmge": "513",
-            "armor": "0",
-            "block_prof": "3075",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 204.78 to 492.23 for 10 seconds.",
-                "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 725.36 to 1311.62 Health over 10 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/manthing/tier/5",
-            "champid": "manthing+5+4",
-            "challenger_rating": 110,
-            "abilities": {
-                "MADE OF MUSH - PASSIVE": [
-                    "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
-                    "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
-                ],
-                "EMPATHIC AGITATION - PASSIVE": [
-                    "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
-                    "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 1310.4 Attack based on Agitation.",
-                    "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
-                    "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
-                ],
-                "ACIDIC SECRETIONS - PASSIVE": [
-                    "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
-                ],
-                "TOXIC PUSTULES - BUFF": [
-                    "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
-                    "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
-                    "The Poison Debuff does 1515.15 damage over 15 seconds, and reduces Regeneration effects by 30%.",
-                    "The Armor Break Debuff reduces Armor by 227.78 and lasts 15 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
-                ],
-                "SPECIAL ATTACKS": [
-                    "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to Nullify up to 2 Buff(s) per Hit."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant a Fury Buff increasing Attack by up to 1310.4 based on Agitation for 30 seconds.",
-                    "100% Chance to place a Poison Debuff on the Opponent causing up to 2416.05 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
-                    "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
-                ]
-            }
-        },
-        "5+5": {
-            "rank": 5,
-            "prestige": "7783",
-            "hp": "39629",
-            "attack": "2211",
-            "crit_rate": "400",
-            "crit_dmge": "525",
-            "armor": "0",
-            "block_prof": "3150",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 276.41 to 664.41 for 10 seconds.",
-                "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 990.8 to 1791.61 Health over 10 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/manthing/tier/5",
-            "champid": "manthing+5+5",
-            "challenger_rating": 120,
-            "abilities": {
-                "MADE OF MUSH - PASSIVE": [
-                    "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
-                    "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
-                ],
-                "EMPATHIC AGITATION - PASSIVE": [
-                    "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
-                    "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 1768.8 Attack based on Agitation.",
-                    "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
-                    "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
-                ],
-                "ACIDIC SECRETIONS - PASSIVE": [
-                    "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
-                ],
-                "TOXIC PUSTULES - BUFF": [
-                    "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
-                    "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
-                    "The Poison Debuff does 2045.18 damage over 15 seconds, and reduces Regeneration effects by 30%.",
-                    "The Armor Break Debuff reduces Armor by 233.33 and lasts 15 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
-                ],
-                "SPECIAL ATTACKS": [
-                    "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to Nullify up to 2 Buff(s) per Hit."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant a Fury Buff increasing Attack by up to 1768.8 based on Agitation for 30 seconds.",
-                    "100% Chance to place a Poison Debuff on the Opponent causing up to 3261.23 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
-                    "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
-                ]
-            }
-        },
-        "6+1": {
-            "rank": 1,
-            "prestige": "5946",
-            "hp": "29723",
-            "attack": "1739",
-            "crit_rate": "391",
-            "crit_dmge": "513",
-            "armor": "0",
-            "block_prof": "3075",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 217.4 to 522.58 for 10 seconds.",
-                "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 743.13 to 1343.76 Health over 10 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/manthing/tier/6",
-            "champid": "manthing+6+1",
-            "challenger_rating": 110,
-            "abilities": {
-                "MADE OF MUSH - PASSIVE": [
-                    "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
-                    "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
-                ],
-                "EMPATHIC AGITATION - PASSIVE": [
-                    "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
-                    "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 1391.2 Attack based on Agitation.",
-                    "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
-                    "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
-                ],
-                "ACIDIC SECRETIONS - PASSIVE": [
-                    "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
-                ],
-                "TOXIC PUSTULES - BUFF": [
-                    "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
-                    "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
-                    "The Poison Debuff does 1608.58 damage over 15 seconds, and reduces Regeneration effects by 30%.",
-                    "The Armor Break Debuff reduces Armor by 227.78 and lasts 15 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
-                ],
-                "SPECIAL ATTACKS": [
-                    "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to Nullify up to 2 Buff(s) per Hit."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant a Fury Buff increasing Attack by up to 1391.2 based on Agitation for 30 seconds.",
-                    "100% Chance to place a Poison Debuff on the Opponent causing up to 2565.03 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
-                    "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
-                ]
-            }
-        },
-        "6+2": {
-            "rank": 2,
-            "prestige": "8263",
-            "hp": "41553",
-            "attack": "2402",
-            "crit_rate": "400",
-            "crit_dmge": "525",
-            "armor": "0",
-            "block_prof": "3150",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 300.29 to 721.81 for 10 seconds.",
-                "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 1038.9 to 1878.59 Health over 10 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/manthing/tier/6",
-            "champid": "manthing+6+2",
-            "challenger_rating": 120,
-            "abilities": {
-                "MADE OF MUSH - PASSIVE": [
-                    "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
-                    "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
-                ],
-                "EMPATHIC AGITATION - PASSIVE": [
-                    "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
-                    "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 1921.6 Attack based on Agitation.",
-                    "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
-                    "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
-                ],
-                "ACIDIC SECRETIONS - PASSIVE": [
-                    "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
-                ],
-                "TOXIC PUSTULES - BUFF": [
-                    "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
-                    "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
-                    "The Poison Debuff does 2221.85 damage over 15 seconds, and reduces Regeneration effects by 30%.",
-                    "The Armor Break Debuff reduces Armor by 233.33 and lasts 15 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
-                ],
-                "SPECIAL ATTACKS": [
-                    "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to Nullify up to 2 Buff(s) per Hit."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant a Fury Buff increasing Attack by up to 1921.6 based on Agitation for 30 seconds.",
-                    "100% Chance to place a Poison Debuff on the Opponent causing up to 3542.95 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
-                    "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
-                ]
-            }
-        },
-        "6+3": {
-            "rank": 3,
-            "prestige": "9881",
-            "hp": "49885",
-            "attack": "2849",
-            "crit_rate": "410",
-            "crit_dmge": "538",
-            "armor": "0",
-            "block_prof": "3225",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 356.17 to 856.14 for 10 seconds.",
-                "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 1247.22 to 2255.28 Health over 10 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/manthing/tier/6",
-            "champid": "manthing+6+3",
-            "challenger_rating": 130,
-            "abilities": {
-                "MADE OF MUSH - PASSIVE": [
-                    "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
-                    "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
-                ],
-                "EMPATHIC AGITATION - PASSIVE": [
-                    "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
-                    "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 2279.2 Attack based on Agitation.",
-                    "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
-                    "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
-                ],
-                "ACIDIC SECRETIONS - PASSIVE": [
-                    "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
-                ],
-                "TOXIC PUSTULES - BUFF": [
-                    "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
-                    "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
-                    "The Poison Debuff does 2635.33 damage over 15 seconds, and reduces Regeneration effects by 30%.",
-                    "The Armor Break Debuff reduces Armor by 238.89 and lasts 15 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
-                ],
-                "SPECIAL ATTACKS": [
-                    "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to Nullify up to 2 Buff(s) per Hit."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant a Fury Buff increasing Attack by up to 2279.2 based on Agitation for 30 seconds.",
-                    "100% Chance to place a Poison Debuff on the Opponent causing up to 4202.28 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
-                    "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
-                ]
-            }
-        },
-        "6+4": {
-            "rank": 4,
-            "prestige": "11374",
-            "hp": "57760",
-            "attack": "3260",
-            "crit_rate": "420",
-            "crit_dmge": "550",
-            "armor": "0",
-            "block_prof": "3300",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": [
-                "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 407.55 to 979.64 for 10 seconds.",
-                "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 1444.11 to 2611.3 Health over 10 seconds."
-            ],
-            "url_page": "https://auntm.ai/champions/manthing/tier/6",
-            "champid": "manthing+6+4",
-            "challenger_rating": 140,
-            "abilities": {
-                "MADE OF MUSH - PASSIVE": [
-                    "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
-                    "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
-                ],
-                "EMPATHIC AGITATION - PASSIVE": [
-                    "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
-                    "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 2608 Attack based on Agitation.",
-                    "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
-                    "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
-                ],
-                "ACIDIC SECRETIONS - PASSIVE": [
-                    "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
-                ],
-                "TOXIC PUSTULES - BUFF": [
-                    "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
-                    "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
-                    "The Poison Debuff does 3015.5 damage over 15 seconds, and reduces Regeneration effects by 30%.",
-                    "The Armor Break Debuff reduces Armor by 244.44 and lasts 15 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
-                ],
-                "HEAVY ATTACKS": [
-                    "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
-                ],
-                "SPECIAL ATTACKS": [
-                    "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% Chance to Nullify up to 2 Buff(s) per Hit."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% Chance to grant a Fury Buff increasing Attack by up to 2608 based on Agitation for 30 seconds.",
-                    "100% Chance to place a Poison Debuff on the Opponent causing up to 4808.5 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
-                    "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
-                ]
-            }
-        },
-        "find": {
-            "story_quests": {
-                "act_1": [],
-                "act_2": [],
-                "act_3": [],
-                "act_4": [],
-                "act_5": [],
-                "act_6": [
-                    "6.4.1",
-                    "6.4.2",
-                    "6.4.5"
-                ],
-                "act_7": [
-                    "7.1.2",
-                    "7.1.5",
-                    "7.2.4",
-                    "7.4.1"
-                ]
-            }
-        }
+  "champid": "manthing",
+  "data": {
+    "2+1": {
+      "rank": 1,
+      "prestige": "274",
+      "hp": "1349",
+      "attack": "79",
+      "crit_rate": "305",
+      "crit_dmge": "400",
+      "armor": "0",
+      "block_prof": "2400",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 9.88 to 19.74 for 10 seconds.",
+        "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 33.73 to 53.84 Health over 10 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/manthing/tier/2",
+      "champid": "manthing+2+1",
+      "challenger_rating": 20,
+      "abilities": {
+        "MADE OF MUSH - PASSIVE": [
+          "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
+          "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
+        ],
+        "EMPATHIC AGITATION - PASSIVE": [
+          "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
+          "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 63.2 Attack based on Agitation.",
+          "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
+          "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
+        ],
+        "ACIDIC SECRETIONS - PASSIVE": [
+          "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
+        ],
+        "TOXIC PUSTULES - BUFF": [
+          "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
+          "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
+          "The Poison Debuff does 73.08 damage over 15 seconds, and reduces Regeneration effects by 30%.",
+          "The Armor Break Debuff reduces Armor by 177.78 and lasts 15 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
+        ],
+        "SPECIAL ATTACKS": [
+          "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 2": ["100% Chance to Nullify up to 2 Buff(s) per Hit."],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant a Fury Buff increasing Attack by up to 63.2 based on Agitation for 30 seconds.",
+          "100% Chance to place a Poison Debuff on the Opponent causing up to 116.53 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
+          "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
+        ]
+      }
+    },
+    "2+2": {
+      "rank": 2,
+      "prestige": "363",
+      "hp": "1804",
+      "attack": "105",
+      "crit_rate": "315",
+      "crit_dmge": "413",
+      "armor": "0",
+      "block_prof": "2475",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 13.13 to 26.24 for 10 seconds.",
+        "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 45.11 to 72.01 Health over 10 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/manthing/tier/2",
+      "champid": "manthing+2+2",
+      "challenger_rating": 30,
+      "abilities": {
+        "MADE OF MUSH - PASSIVE": [
+          "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
+          "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
+        ],
+        "EMPATHIC AGITATION - PASSIVE": [
+          "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
+          "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 84 Attack based on Agitation.",
+          "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
+          "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
+        ],
+        "ACIDIC SECRETIONS - PASSIVE": [
+          "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
+        ],
+        "TOXIC PUSTULES - BUFF": [
+          "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
+          "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
+          "The Poison Debuff does 97.13 damage over 15 seconds, and reduces Regeneration effects by 30%.",
+          "The Armor Break Debuff reduces Armor by 183.33 and lasts 15 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
+        ],
+        "SPECIAL ATTACKS": [
+          "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 2": ["100% Chance to Nullify up to 2 Buff(s) per Hit."],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant a Fury Buff increasing Attack by up to 84 based on Agitation for 30 seconds.",
+          "100% Chance to place a Poison Debuff on the Opponent causing up to 154.88 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
+          "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
+        ]
+      }
+    },
+    "2+3": {
+      "rank": 3,
+      "prestige": "575",
+      "hp": "2898",
+      "attack": "166",
+      "crit_rate": "324",
+      "crit_dmge": "425",
+      "armor": "0",
+      "block_prof": "2550",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 20.76 to 41.48 for 10 seconds.",
+        "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 72.46 to 115.67 Health over 10 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/manthing/tier/2",
+      "champid": "manthing+2+3",
+      "challenger_rating": 40,
+      "abilities": {
+        "MADE OF MUSH - PASSIVE": [
+          "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
+          "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
+        ],
+        "EMPATHIC AGITATION - PASSIVE": [
+          "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
+          "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 132.8 Attack based on Agitation.",
+          "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
+          "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
+        ],
+        "ACIDIC SECRETIONS - PASSIVE": [
+          "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
+        ],
+        "TOXIC PUSTULES - BUFF": [
+          "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
+          "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
+          "The Poison Debuff does 153.55 damage over 15 seconds, and reduces Regeneration effects by 30%.",
+          "The Armor Break Debuff reduces Armor by 188.89 and lasts 15 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
+        ],
+        "SPECIAL ATTACKS": [
+          "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 2": ["100% Chance to Nullify up to 2 Buff(s) per Hit."],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant a Fury Buff increasing Attack by up to 132.8 based on Agitation for 30 seconds.",
+          "100% Chance to place a Poison Debuff on the Opponent causing up to 244.85 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
+          "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
+        ]
+      }
+    },
+    "3+1": {
+      "rank": 1,
+      "prestige": "495",
+      "hp": "2446",
+      "attack": "144",
+      "crit_rate": "324",
+      "crit_dmge": "425",
+      "armor": "0",
+      "block_prof": "2550",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 18.01 to 35.99 for 10 seconds.",
+        "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 61.16 to 97.63 Health over 10 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/manthing/tier/3",
+      "champid": "manthing+3+1",
+      "challenger_rating": 40,
+      "abilities": {
+        "MADE OF MUSH - PASSIVE": [
+          "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
+          "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
+        ],
+        "EMPATHIC AGITATION - PASSIVE": [
+          "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
+          "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 115.2 Attack based on Agitation.",
+          "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
+          "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
+        ],
+        "ACIDIC SECRETIONS - PASSIVE": [
+          "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
+        ],
+        "TOXIC PUSTULES - BUFF": [
+          "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
+          "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
+          "The Poison Debuff does 133.2 damage over 15 seconds, and reduces Regeneration effects by 30%.",
+          "The Armor Break Debuff reduces Armor by 188.89 and lasts 15 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
+        ],
+        "SPECIAL ATTACKS": [
+          "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 2": ["100% Chance to Nullify up to 2 Buff(s) per Hit."],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant a Fury Buff increasing Attack by up to 115.2 based on Agitation for 30 seconds.",
+          "100% Chance to place a Poison Debuff on the Opponent causing up to 212.4 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
+          "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
+        ]
+      }
+    },
+    "3+2": {
+      "rank": 2,
+      "prestige": "789",
+      "hp": "3961",
+      "attack": "229",
+      "crit_rate": "334",
+      "crit_dmge": "438",
+      "armor": "0",
+      "block_prof": "2625",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 28.63 to 57.23 for 10 seconds.",
+        "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 99.04 to 158.1 Health over 10 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/manthing/tier/3",
+      "champid": "manthing+3+2",
+      "challenger_rating": 50,
+      "abilities": {
+        "MADE OF MUSH - PASSIVE": [
+          "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
+          "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
+        ],
+        "EMPATHIC AGITATION - PASSIVE": [
+          "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
+          "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 183.2 Attack based on Agitation.",
+          "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
+          "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
+        ],
+        "ACIDIC SECRETIONS - PASSIVE": [
+          "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
+        ],
+        "TOXIC PUSTULES - BUFF": [
+          "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
+          "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
+          "The Poison Debuff does 211.83 damage over 15 seconds, and reduces Regeneration effects by 30%.",
+          "The Armor Break Debuff reduces Armor by 194.44 and lasts 15 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
+        ],
+        "SPECIAL ATTACKS": [
+          "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 2": ["100% Chance to Nullify up to 2 Buff(s) per Hit."],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant a Fury Buff increasing Attack by up to 183.2 based on Agitation for 30 seconds.",
+          "100% Chance to place a Poison Debuff on the Opponent causing up to 337.78 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
+          "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
+        ]
+      }
+    },
+    "3+3": {
+      "rank": 3,
+      "prestige": "1109",
+      "hp": "5608",
+      "attack": "321",
+      "crit_rate": "343",
+      "crit_dmge": "450",
+      "armor": "0",
+      "block_prof": "2700",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 40.14 to 80.22 for 10 seconds.",
+        "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 140.23 to 223.84 Health over 10 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/manthing/tier/3",
+      "champid": "manthing+3+3",
+      "challenger_rating": 60,
+      "abilities": {
+        "MADE OF MUSH - PASSIVE": [
+          "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
+          "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
+        ],
+        "EMPATHIC AGITATION - PASSIVE": [
+          "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
+          "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 256.8 Attack based on Agitation.",
+          "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
+          "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
+        ],
+        "ACIDIC SECRETIONS - PASSIVE": [
+          "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
+        ],
+        "TOXIC PUSTULES - BUFF": [
+          "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
+          "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
+          "The Poison Debuff does 296.93 damage over 15 seconds, and reduces Regeneration effects by 30%.",
+          "The Armor Break Debuff reduces Armor by 200 and lasts 15 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
+        ],
+        "SPECIAL ATTACKS": [
+          "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 2": ["100% Chance to Nullify up to 2 Buff(s) per Hit."],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant a Fury Buff increasing Attack by up to 256.8 based on Agitation for 30 seconds.",
+          "100% Chance to place a Poison Debuff on the Opponent causing up to 473.48 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
+          "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
+        ]
+      }
+    },
+    "3+4": {
+      "rank": 4,
+      "prestige": "1529",
+      "hp": "7791",
+      "attack": "440",
+      "crit_rate": "353",
+      "crit_dmge": "463",
+      "armor": "0",
+      "block_prof": "2775",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 55.02 to 109.96 for 10 seconds.",
+        "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 194.81 to 310.97 Health over 10 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/manthing/tier/3",
+      "champid": "manthing+3+4",
+      "challenger_rating": 70,
+      "abilities": {
+        "MADE OF MUSH - PASSIVE": [
+          "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
+          "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
+        ],
+        "EMPATHIC AGITATION - PASSIVE": [
+          "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
+          "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 352 Attack based on Agitation.",
+          "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
+          "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
+        ],
+        "ACIDIC SECRETIONS - PASSIVE": [
+          "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
+        ],
+        "TOXIC PUSTULES - BUFF": [
+          "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
+          "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
+          "The Poison Debuff does 407 damage over 15 seconds, and reduces Regeneration effects by 30%.",
+          "The Armor Break Debuff reduces Armor by 205.56 and lasts 15 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
+        ],
+        "SPECIAL ATTACKS": [
+          "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 2": ["100% Chance to Nullify up to 2 Buff(s) per Hit."],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant a Fury Buff increasing Attack by up to 352 based on Agitation for 30 seconds.",
+          "100% Chance to place a Poison Debuff on the Opponent causing up to 649 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
+          "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
+        ]
+      }
+    },
+    "4+1": {
+      "rank": 1,
+      "prestige": "1093",
+      "hp": "5471",
+      "attack": "320",
+      "crit_rate": "343",
+      "crit_dmge": "450",
+      "armor": "0",
+      "block_prof": "2700",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 40.01 to 79.97 for 10 seconds.",
+        "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 136.8 to 218.37 Health over 10 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/manthing/tier/4",
+      "champid": "manthing+4+1",
+      "challenger_rating": 60,
+      "abilities": {
+        "MADE OF MUSH - PASSIVE": [
+          "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
+          "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
+        ],
+        "EMPATHIC AGITATION - PASSIVE": [
+          "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
+          "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 256 Attack based on Agitation.",
+          "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
+          "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
+        ],
+        "ACIDIC SECRETIONS - PASSIVE": [
+          "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
+        ],
+        "TOXIC PUSTULES - BUFF": [
+          "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
+          "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
+          "The Poison Debuff does 296 damage over 15 seconds, and reduces Regeneration effects by 30%.",
+          "The Armor Break Debuff reduces Armor by 200 and lasts 15 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
+        ],
+        "SPECIAL ATTACKS": [
+          "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 2": ["100% Chance to Nullify up to 2 Buff(s) per Hit."],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant a Fury Buff increasing Attack by up to 256 based on Agitation for 30 seconds.",
+          "100% Chance to place a Poison Debuff on the Opponent causing up to 472 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
+          "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
+        ]
+      }
+    },
+    "4+2": {
+      "rank": 2,
+      "prestige": "1544",
+      "hp": "7768",
+      "attack": "449",
+      "crit_rate": "353",
+      "crit_dmge": "463",
+      "armor": "0",
+      "block_prof": "2775",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 56.14 to 112.21 for 10 seconds.",
+        "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 194.24 to 310.05 Health over 10 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/manthing/tier/4",
+      "champid": "manthing+4+2",
+      "challenger_rating": 70,
+      "abilities": {
+        "MADE OF MUSH - PASSIVE": [
+          "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
+          "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
+        ],
+        "EMPATHIC AGITATION - PASSIVE": [
+          "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
+          "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 359.2 Attack based on Agitation.",
+          "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
+          "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
+        ],
+        "ACIDIC SECRETIONS - PASSIVE": [
+          "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
+        ],
+        "TOXIC PUSTULES - BUFF": [
+          "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
+          "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
+          "The Poison Debuff does 415.33 damage over 15 seconds, and reduces Regeneration effects by 30%.",
+          "The Armor Break Debuff reduces Armor by 205.56 and lasts 15 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
+        ],
+        "SPECIAL ATTACKS": [
+          "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 2": ["100% Chance to Nullify up to 2 Buff(s) per Hit."],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant a Fury Buff increasing Attack by up to 359.2 based on Agitation for 30 seconds.",
+          "100% Chance to place a Poison Debuff on the Opponent causing up to 662.28 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
+          "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
+        ]
+      }
+    },
+    "4+3": {
+      "rank": 3,
+      "prestige": "2174",
+      "hp": "11013",
+      "attack": "629",
+      "crit_rate": "362",
+      "crit_dmge": "475",
+      "armor": "0",
+      "block_prof": "2850",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 78.65 to 157.19 for 10 seconds.",
+        "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 275.38 to 439.58 Health over 10 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/manthing/tier/4",
+      "champid": "manthing+4+3",
+      "challenger_rating": 80,
+      "abilities": {
+        "MADE OF MUSH - PASSIVE": [
+          "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
+          "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
+        ],
+        "EMPATHIC AGITATION - PASSIVE": [
+          "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
+          "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 503.2 Attack based on Agitation.",
+          "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
+          "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
+        ],
+        "ACIDIC SECRETIONS - PASSIVE": [
+          "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
+        ],
+        "TOXIC PUSTULES - BUFF": [
+          "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
+          "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
+          "The Poison Debuff does 581.83 damage over 15 seconds, and reduces Regeneration effects by 30%.",
+          "The Armor Break Debuff reduces Armor by 211.11 and lasts 15 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
+        ],
+        "SPECIAL ATTACKS": [
+          "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 2": ["100% Chance to Nullify up to 2 Buff(s) per Hit."],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant a Fury Buff increasing Attack by up to 503.2 based on Agitation for 30 seconds.",
+          "100% Chance to place a Poison Debuff on the Opponent causing up to 927.78 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
+          "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
+        ]
+      }
+    },
+    "4+4": {
+      "rank": 4,
+      "prestige": "2878",
+      "hp": "14642",
+      "attack": "827",
+      "crit_rate": "372",
+      "crit_dmge": "488",
+      "armor": "0",
+      "block_prof": "2925",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 103.41 to 206.67 for 10 seconds.",
+        "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 366.12 to 584.43 Health over 10 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/manthing/tier/4",
+      "champid": "manthing+4+4",
+      "challenger_rating": 90,
+      "abilities": {
+        "MADE OF MUSH - PASSIVE": [
+          "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
+          "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
+        ],
+        "EMPATHIC AGITATION - PASSIVE": [
+          "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
+          "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 661.6 Attack based on Agitation.",
+          "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
+          "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
+        ],
+        "ACIDIC SECRETIONS - PASSIVE": [
+          "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
+        ],
+        "TOXIC PUSTULES - BUFF": [
+          "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
+          "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
+          "The Poison Debuff does 764.98 damage over 15 seconds, and reduces Regeneration effects by 30%.",
+          "The Armor Break Debuff reduces Armor by 216.67 and lasts 15 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
+        ],
+        "SPECIAL ATTACKS": [
+          "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 2": ["100% Chance to Nullify up to 2 Buff(s) per Hit."],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant a Fury Buff increasing Attack by up to 661.6 based on Agitation for 30 seconds.",
+          "100% Chance to place a Poison Debuff on the Opponent causing up to 1219.83 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
+          "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
+        ]
+      }
+    },
+    "4+5": {
+      "rank": 5,
+      "prestige": "3862",
+      "hp": "19765",
+      "attack": "1103",
+      "crit_rate": "381",
+      "crit_dmge": "500",
+      "armor": "0",
+      "block_prof": "3000",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 137.92 to 275.65 for 10 seconds.",
+        "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 494.22 to 788.91 Health over 10 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/manthing/tier/4",
+      "champid": "manthing+4+5",
+      "challenger_rating": 100,
+      "abilities": {
+        "MADE OF MUSH - PASSIVE": [
+          "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
+          "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
+        ],
+        "EMPATHIC AGITATION - PASSIVE": [
+          "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
+          "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 882.4 Attack based on Agitation.",
+          "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
+          "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
+        ],
+        "ACIDIC SECRETIONS - PASSIVE": [
+          "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
+        ],
+        "TOXIC PUSTULES - BUFF": [
+          "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
+          "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
+          "The Poison Debuff does 1020.28 damage over 15 seconds, and reduces Regeneration effects by 30%.",
+          "The Armor Break Debuff reduces Armor by 222.22 and lasts 15 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
+        ],
+        "SPECIAL ATTACKS": [
+          "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 2": ["100% Chance to Nullify up to 2 Buff(s) per Hit."],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant a Fury Buff increasing Attack by up to 882.4 based on Agitation for 30 seconds.",
+          "100% Chance to place a Poison Debuff on the Opponent causing up to 1626.93 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
+          "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
+        ]
+      }
+    },
+    "5+1": {
+      "rank": 1,
+      "prestige": "2257",
+      "hp": "11251",
+      "attack": "658",
+      "crit_rate": "362",
+      "crit_dmge": "475",
+      "armor": "0",
+      "block_prof": "2850",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 82.26 to 197.73 for 10 seconds.",
+        "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 281.3 to 508.65 Health over 10 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/manthing/tier/5",
+      "champid": "manthing+5+1",
+      "challenger_rating": 80,
+      "abilities": {
+        "MADE OF MUSH - PASSIVE": [
+          "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
+          "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
+        ],
+        "EMPATHIC AGITATION - PASSIVE": [
+          "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
+          "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 526.4 Attack based on Agitation.",
+          "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
+          "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
+        ],
+        "ACIDIC SECRETIONS - PASSIVE": [
+          "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
+        ],
+        "TOXIC PUSTULES - BUFF": [
+          "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
+          "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
+          "The Poison Debuff does 608.65 damage over 15 seconds, and reduces Regeneration effects by 30%.",
+          "The Armor Break Debuff reduces Armor by 211.11 and lasts 15 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
+        ],
+        "SPECIAL ATTACKS": [
+          "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 2": ["100% Chance to Nullify up to 2 Buff(s) per Hit."],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant a Fury Buff increasing Attack by up to 526.4 based on Agitation for 30 seconds.",
+          "100% Chance to place a Poison Debuff on the Opponent causing up to 970.55 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
+          "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
+        ]
+      }
+    },
+    "5+2": {
+      "rank": 2,
+      "prestige": "2997",
+      "hp": "15041",
+      "attack": "870",
+      "crit_rate": "372",
+      "crit_dmge": "488",
+      "armor": "0",
+      "block_prof": "2925",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 108.76 to 261.44 for 10 seconds.",
+        "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 376.05 to 680 Health over 10 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/manthing/tier/5",
+      "champid": "manthing+5+2",
+      "challenger_rating": 90,
+      "abilities": {
+        "MADE OF MUSH - PASSIVE": [
+          "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
+          "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
+        ],
+        "EMPATHIC AGITATION - PASSIVE": [
+          "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
+          "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 696 Attack based on Agitation.",
+          "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
+          "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
+        ],
+        "ACIDIC SECRETIONS - PASSIVE": [
+          "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
+        ],
+        "TOXIC PUSTULES - BUFF": [
+          "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
+          "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
+          "The Poison Debuff does 804.75 damage over 15 seconds, and reduces Regeneration effects by 30%.",
+          "The Armor Break Debuff reduces Armor by 216.67 and lasts 15 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
+        ],
+        "SPECIAL ATTACKS": [
+          "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 2": ["100% Chance to Nullify up to 2 Buff(s) per Hit."],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant a Fury Buff increasing Attack by up to 696 based on Agitation for 30 seconds.",
+          "100% Chance to place a Poison Debuff on the Opponent causing up to 1283.25 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
+          "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
+        ]
+      }
+    },
+    "5+3": {
+      "rank": 3,
+      "prestige": "4221",
+      "hp": "21279",
+      "attack": "1216",
+      "crit_rate": "381",
+      "crit_dmge": "500",
+      "armor": "0",
+      "block_prof": "3000",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 152.02 to 365.41 for 10 seconds.",
+        "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 532.02 to 962.01 Health over 10 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/manthing/tier/5",
+      "champid": "manthing+5+3",
+      "challenger_rating": 100,
+      "abilities": {
+        "MADE OF MUSH - PASSIVE": [
+          "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
+          "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
+        ],
+        "EMPATHIC AGITATION - PASSIVE": [
+          "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
+          "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 972.8 Attack based on Agitation.",
+          "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
+          "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
+        ],
+        "ACIDIC SECRETIONS - PASSIVE": [
+          "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
+        ],
+        "TOXIC PUSTULES - BUFF": [
+          "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
+          "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
+          "The Poison Debuff does 1124.8 damage over 15 seconds, and reduces Regeneration effects by 30%.",
+          "The Armor Break Debuff reduces Armor by 222.22 and lasts 15 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
+        ],
+        "SPECIAL ATTACKS": [
+          "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 2": ["100% Chance to Nullify up to 2 Buff(s) per Hit."],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant a Fury Buff increasing Attack by up to 972.8 based on Agitation for 30 seconds.",
+          "100% Chance to place a Poison Debuff on the Opponent causing up to 1793.6 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
+          "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
+        ]
+      }
+    },
+    "5+4": {
+      "rank": 4,
+      "prestige": "5719",
+      "hp": "29012",
+      "attack": "1638",
+      "crit_rate": "391",
+      "crit_dmge": "513",
+      "armor": "0",
+      "block_prof": "3075",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 204.78 to 492.23 for 10 seconds.",
+        "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 725.36 to 1311.62 Health over 10 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/manthing/tier/5",
+      "champid": "manthing+5+4",
+      "challenger_rating": 110,
+      "abilities": {
+        "MADE OF MUSH - PASSIVE": [
+          "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
+          "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
+        ],
+        "EMPATHIC AGITATION - PASSIVE": [
+          "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
+          "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 1310.4 Attack based on Agitation.",
+          "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
+          "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
+        ],
+        "ACIDIC SECRETIONS - PASSIVE": [
+          "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
+        ],
+        "TOXIC PUSTULES - BUFF": [
+          "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
+          "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
+          "The Poison Debuff does 1515.15 damage over 15 seconds, and reduces Regeneration effects by 30%.",
+          "The Armor Break Debuff reduces Armor by 227.78 and lasts 15 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
+        ],
+        "SPECIAL ATTACKS": [
+          "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 2": ["100% Chance to Nullify up to 2 Buff(s) per Hit."],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant a Fury Buff increasing Attack by up to 1310.4 based on Agitation for 30 seconds.",
+          "100% Chance to place a Poison Debuff on the Opponent causing up to 2416.05 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
+          "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
+        ]
+      }
+    },
+    "5+5": {
+      "rank": 5,
+      "prestige": "7783",
+      "hp": "39629",
+      "attack": "2211",
+      "crit_rate": "400",
+      "crit_dmge": "525",
+      "armor": "0",
+      "block_prof": "3150",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 276.41 to 664.41 for 10 seconds.",
+        "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 990.8 to 1791.61 Health over 10 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/manthing/tier/5",
+      "champid": "manthing+5+5",
+      "challenger_rating": 120,
+      "abilities": {
+        "MADE OF MUSH - PASSIVE": [
+          "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
+          "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
+        ],
+        "EMPATHIC AGITATION - PASSIVE": [
+          "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
+          "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 1768.8 Attack based on Agitation.",
+          "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
+          "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
+        ],
+        "ACIDIC SECRETIONS - PASSIVE": [
+          "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
+        ],
+        "TOXIC PUSTULES - BUFF": [
+          "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
+          "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
+          "The Poison Debuff does 2045.18 damage over 15 seconds, and reduces Regeneration effects by 30%.",
+          "The Armor Break Debuff reduces Armor by 233.33 and lasts 15 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
+        ],
+        "SPECIAL ATTACKS": [
+          "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 2": ["100% Chance to Nullify up to 2 Buff(s) per Hit."],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant a Fury Buff increasing Attack by up to 1768.8 based on Agitation for 30 seconds.",
+          "100% Chance to place a Poison Debuff on the Opponent causing up to 3261.23 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
+          "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
+        ]
+      }
+    },
+    "6+1": {
+      "rank": 1,
+      "prestige": "5946",
+      "hp": "29723",
+      "attack": "1739",
+      "crit_rate": "391",
+      "crit_dmge": "513",
+      "armor": "0",
+      "block_prof": "3075",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 217.4 to 522.58 for 10 seconds.",
+        "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 743.13 to 1343.76 Health over 10 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/manthing/tier/6",
+      "champid": "manthing+6+1",
+      "challenger_rating": 110,
+      "abilities": {
+        "MADE OF MUSH - PASSIVE": [
+          "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
+          "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
+        ],
+        "EMPATHIC AGITATION - PASSIVE": [
+          "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
+          "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 1391.2 Attack based on Agitation.",
+          "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
+          "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
+        ],
+        "ACIDIC SECRETIONS - PASSIVE": [
+          "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
+        ],
+        "TOXIC PUSTULES - BUFF": [
+          "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
+          "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
+          "The Poison Debuff does 1608.58 damage over 15 seconds, and reduces Regeneration effects by 30%.",
+          "The Armor Break Debuff reduces Armor by 227.78 and lasts 15 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
+        ],
+        "SPECIAL ATTACKS": [
+          "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 2": ["100% Chance to Nullify up to 2 Buff(s) per Hit."],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant a Fury Buff increasing Attack by up to 1391.2 based on Agitation for 30 seconds.",
+          "100% Chance to place a Poison Debuff on the Opponent causing up to 2565.03 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
+          "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
+        ]
+      }
+    },
+    "6+2": {
+      "rank": 2,
+      "prestige": "8263",
+      "hp": "41553",
+      "attack": "2402",
+      "crit_rate": "400",
+      "crit_dmge": "525",
+      "armor": "0",
+      "block_prof": "3150",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 300.29 to 721.81 for 10 seconds.",
+        "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 1038.9 to 1878.59 Health over 10 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/manthing/tier/6",
+      "champid": "manthing+6+2",
+      "challenger_rating": 120,
+      "abilities": {
+        "MADE OF MUSH - PASSIVE": [
+          "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
+          "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
+        ],
+        "EMPATHIC AGITATION - PASSIVE": [
+          "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
+          "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 1921.6 Attack based on Agitation.",
+          "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
+          "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
+        ],
+        "ACIDIC SECRETIONS - PASSIVE": [
+          "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
+        ],
+        "TOXIC PUSTULES - BUFF": [
+          "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
+          "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
+          "The Poison Debuff does 2221.85 damage over 15 seconds, and reduces Regeneration effects by 30%.",
+          "The Armor Break Debuff reduces Armor by 233.33 and lasts 15 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
+        ],
+        "SPECIAL ATTACKS": [
+          "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 2": ["100% Chance to Nullify up to 2 Buff(s) per Hit."],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant a Fury Buff increasing Attack by up to 1921.6 based on Agitation for 30 seconds.",
+          "100% Chance to place a Poison Debuff on the Opponent causing up to 3542.95 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
+          "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
+        ]
+      }
+    },
+    "6+3": {
+      "rank": 3,
+      "prestige": "9881",
+      "hp": "49885",
+      "attack": "2849",
+      "crit_rate": "410",
+      "crit_dmge": "538",
+      "armor": "0",
+      "block_prof": "3225",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 356.17 to 856.14 for 10 seconds.",
+        "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 1247.22 to 2255.28 Health over 10 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/manthing/tier/6",
+      "champid": "manthing+6+3",
+      "challenger_rating": 130,
+      "abilities": {
+        "MADE OF MUSH - PASSIVE": [
+          "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
+          "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
+        ],
+        "EMPATHIC AGITATION - PASSIVE": [
+          "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
+          "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 2279.2 Attack based on Agitation.",
+          "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
+          "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
+        ],
+        "ACIDIC SECRETIONS - PASSIVE": [
+          "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
+        ],
+        "TOXIC PUSTULES - BUFF": [
+          "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
+          "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
+          "The Poison Debuff does 2635.33 damage over 15 seconds, and reduces Regeneration effects by 30%.",
+          "The Armor Break Debuff reduces Armor by 238.89 and lasts 15 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
+        ],
+        "SPECIAL ATTACKS": [
+          "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 2": ["100% Chance to Nullify up to 2 Buff(s) per Hit."],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant a Fury Buff increasing Attack by up to 2279.2 based on Agitation for 30 seconds.",
+          "100% Chance to place a Poison Debuff on the Opponent causing up to 4202.28 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
+          "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
+        ]
+      }
+    },
+    "6+4": {
+      "rank": 4,
+      "prestige": "11374",
+      "hp": "57760",
+      "attack": "3260",
+      "crit_rate": "420",
+      "crit_dmge": "550",
+      "armor": "0",
+      "block_prof": "3300",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": [
+        "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 407.55 to 979.64 for 10 seconds.",
+        "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 1444.11 to 2611.3 Health over 10 seconds."
+      ],
+      "url_page": "https://auntm.ai/champions/manthing/tier/6",
+      "champid": "manthing+6+4",
+      "challenger_rating": 140,
+      "abilities": {
+        "MADE OF MUSH - PASSIVE": [
+          "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
+          "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
+        ],
+        "EMPATHIC AGITATION - PASSIVE": [
+          "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
+          "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 2608 Attack based on Agitation.",
+          "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
+          "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
+        ],
+        "ACIDIC SECRETIONS - PASSIVE": [
+          "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
+        ],
+        "TOXIC PUSTULES - BUFF": [
+          "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
+          "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
+          "The Poison Debuff does 3015.5 damage over 15 seconds, and reduces Regeneration effects by 30%.",
+          "The Armor Break Debuff reduces Armor by 244.44 and lasts 15 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
+        ],
+        "SPECIAL ATTACKS": [
+          "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 2": ["100% Chance to Nullify up to 2 Buff(s) per Hit."],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant a Fury Buff increasing Attack by up to 2608 based on Agitation for 30 seconds.",
+          "100% Chance to place a Poison Debuff on the Opponent causing up to 4808.5 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
+          "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
+        ]
+      }
+    },
+    "1+1": {
+      "rank": 1,
+      "prestige": 216,
+      "hp": 1057,
+      "attack": 62,
+      "crit_rate": 296,
+      "crit_dmge": 388,
+      "armor": 0,
+      "block_prof": 2325,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/manthing/tier/1",
+      "champid": "manthing+1+1",
+      "challenger_rating": 10,
+      "abilities": {
+        "MADE OF MUSH - PASSIVE": [
+          "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
+          "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
+        ],
+        "EMPATHIC AGITATION - PASSIVE": [
+          "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
+          "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 49.6 Attack based on Agitation.",
+          "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
+          "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
+        ],
+        "ACIDIC SECRETIONS - PASSIVE": [
+          "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
+        ],
+        "TOXIC PUSTULES - BUFF": [
+          "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
+          "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
+          "The Poison Debuff does 57.35 damage over 15 seconds, and reduces Regeneration effects by 30%.",
+          "The Armor Break Debuff reduces Armor by 172.22 and lasts 15 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
+        ],
+        "SPECIAL ATTACKS": [
+          "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 2": ["100% Chance to Nullify up to 2 Buff(s) per Hit."],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant a Fury Buff increasing Attack by up to 49.6 based on Agitation for 30 seconds.",
+          "100% Chance to place a Poison Debuff on the Opponent causing up to 91.45 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
+          "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
+        ]
+      }
+    },
+    "1+2": {
+      "rank": 2,
+      "prestige": 298,
+      "hp": 1479,
+      "attack": 86,
+      "crit_rate": 305,
+      "crit_dmge": 400,
+      "armor": 0,
+      "block_prof": 2400,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/manthing/tier/1",
+      "champid": "manthing+1+2",
+      "challenger_rating": 20,
+      "abilities": {
+        "MADE OF MUSH - PASSIVE": [
+          "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
+          "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
+        ],
+        "EMPATHIC AGITATION - PASSIVE": [
+          "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
+          "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 68.8 Attack based on Agitation.",
+          "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
+          "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
+        ],
+        "ACIDIC SECRETIONS - PASSIVE": [
+          "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
+        ],
+        "TOXIC PUSTULES - BUFF": [
+          "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
+          "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
+          "The Poison Debuff does 79.55 damage over 15 seconds, and reduces Regeneration effects by 30%.",
+          "The Armor Break Debuff reduces Armor by 177.78 and lasts 15 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
+        ],
+        "HEAVY ATTACKS": [
+          "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
+        ],
+        "SPECIAL ATTACKS": [
+          "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 1": [
+          "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+        ],
+        "SPECIAL ATTACK 2": ["100% Chance to Nullify up to 2 Buff(s) per Hit."],
+        "SPECIAL ATTACK 3": [
+          "100% Chance to grant a Fury Buff increasing Attack by up to 68.8 based on Agitation for 30 seconds.",
+          "100% Chance to place a Poison Debuff on the Opponent causing up to 126.85 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
+          "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
+        ]
+      }
+    },
+    "find": {
+      "story_quests": {
+        "act_1": [],
+        "act_2": [],
+        "act_3": [],
+        "act_4": [],
+        "act_5": [],
+        "act_6": ["6.4.1", "6.4.2", "6.4.5"],
+        "act_7": ["7.1.2", "7.1.5", "7.2.4", "7.4.1"]
+      }
     }
+  },
+  "name": "MAN-THING",
+  "class": "Mystic",
+  "img_portrait": "https://api.rexians.tk/assets/portraits/manthing.png",
+  "contact": "PHYSICAL",
+  "tags": ["Hero", "Size: L"],
+  "released": "10/17/2019"
 }

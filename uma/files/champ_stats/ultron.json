@@ -1,913 +1,965 @@
 {
-    "name": "ULTRON",
-    "class": "Tech",
-    "img_portrait": "https://api.rexians.tk/assets/portraits/ultron.png",
-    "contact": "PHYSICAL",
-    "tags": [
-        "Villain",
-        "Robot",
-        "Size: M"
-    ],
-    "released": "8/17/2016",
-    "champid": "ultron",
-    "data": {
-        "2+1": {
-            "rank": 1,
-            "prestige": "283",
-            "hp": "1126",
-            "attack": "83",
-            "crit_rate": "478",
-            "crit_dmge": "563",
-            "armor": "33",
-            "block_prof": "2303",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 5 to 25% per stack.",
-            "url_page": "https://auntm.ai/champions/ultron/tier/2",
-            "champid": "ultron+2+1",
-            "challenger_rating": 20,
-            "abilities": {
-                "PASSIVE": [
-                    "function Armor(3733.33 Armor Rating Increase, 8 seconds, every 15% Health lost)",
-                    "function Evade(every 7 seconds)",
-                    "Advanced robotics provides full immunity to Poison and Bleed effects.",
-                    "Duckslug Editorial",
-                    "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
-                    "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
-                    "This is different than Ultron Prime's evade, like Cat said."
-                ],
-                "BLOCKING": [
-                    "function Armor(25% chance, 84.21 rating increase, 15 seconds)"
-                ],
-                "BASIC ATTACKS": [
-                    "function Radiation(30.71 Poison damage, 6.50 seconds, 19% chance)"
-                ],
-                "SPECIAL ATTACKS": [
-                    "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
-                    "function Stun(40% chance, 3 seconds)"
-                ],
-                "ALL ATTACKS": [
-                    "function Fury(20.75 attack increase, 6 seconds, every 5 attacks)"
-                ]
-            }
-        },
-        "2+2": {
-            "rank": 2,
-            "prestige": "373",
-            "hp": "1488",
-            "attack": "110",
-            "crit_rate": "493",
-            "crit_dmge": "580",
-            "armor": "52",
-            "block_prof": "2375",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 5 to 25% per stack.",
-            "url_page": "https://auntm.ai/champions/ultron/tier/2",
-            "champid": "ultron+2+2",
-            "challenger_rating": 30,
-            "abilities": {
-                "PASSIVE": [
-                    "function Armor(3850 Armor Rating Increase, 8 seconds, every 15% Health lost)",
-                    "function Evade(every 7 seconds)",
-                    "Advanced robotics provides full immunity to Poison and Bleed effects.",
-                    "Duckslug Editorial",
-                    "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
-                    "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
-                    "This is different than Ultron Prime's evade, like Cat said."
-                ],
-                "BLOCKING": [
-                    "function Armor(25% chance, 86.84 rating increase, 15 seconds)"
-                ],
-                "BASIC ATTACKS": [
-                    "function Radiation(40.7 Poison damage, 6.50 seconds, 19% chance)"
-                ],
-                "SPECIAL ATTACKS": [
-                    "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
-                    "function Stun(40% chance, 3 seconds)"
-                ],
-                "ALL ATTACKS": [
-                    "function Fury(27.5 attack increase, 6 seconds, every 5 attacks)"
-                ]
-            }
-        },
-        "2+3": {
-            "rank": 3,
-            "prestige": "583",
-            "hp": "2362",
-            "attack": "174",
-            "crit_rate": "508",
-            "crit_dmge": "598",
-            "armor": "71",
-            "block_prof": "2447",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 5 to 25% per stack.",
-            "url_page": "https://auntm.ai/champions/ultron/tier/2",
-            "champid": "ultron+2+3",
-            "challenger_rating": 40,
-            "abilities": {
-                "PASSIVE": [
-                    "function Armor(3966.67 Armor Rating Increase, 8 seconds, every 15% Health lost)",
-                    "function Evade(every 7 seconds)",
-                    "Advanced robotics provides full immunity to Poison and Bleed effects.",
-                    "Duckslug Editorial",
-                    "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
-                    "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
-                    "This is different than Ultron Prime's evade, like Cat said."
-                ],
-                "BLOCKING": [
-                    "function Armor(25% chance, 89.47 rating increase, 15 seconds)"
-                ],
-                "BASIC ATTACKS": [
-                    "function Radiation(64.38 Poison damage, 6.50 seconds, 19% chance)"
-                ],
-                "SPECIAL ATTACKS": [
-                    "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
-                    "function Stun(40% chance, 3 seconds)"
-                ],
-                "ALL ATTACKS": [
-                    "function Fury(43.5 attack increase, 6 seconds, every 5 attacks)"
-                ]
-            }
-        },
-        "3+1": {
-            "rank": 1,
-            "prestige": "508",
-            "hp": "2042",
-            "attack": "151",
-            "crit_rate": "508",
-            "crit_dmge": "598",
-            "armor": "71",
-            "block_prof": "2447",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 5 to 25% per stack.",
-            "url_page": "https://auntm.ai/champions/ultron/tier/3",
-            "champid": "ultron+3+1",
-            "challenger_rating": 40,
-            "abilities": {
-                "PASSIVE": [
-                    "function Armor(3966.67 Armor Rating Increase, 8 seconds, every 15% Health lost)",
-                    "function Evade(every 7 seconds)",
-                    "Advanced robotics provides full immunity to Poison and Bleed effects.",
-                    "Duckslug Editorial",
-                    "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
-                    "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
-                    "This is different than Ultron Prime's evade, like Cat said."
-                ],
-                "BLOCKING": [
-                    "function Armor(25% chance, 89.47 rating increase, 15 seconds)"
-                ],
-                "BASIC ATTACKS": [
-                    "function Radiation(55.87 Poison damage, 6.50 seconds, 19% chance)"
-                ],
-                "SPECIAL ATTACKS": [
-                    "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
-                    "function Stun(40% chance, 3 seconds)"
-                ],
-                "ALL ATTACKS": [
-                    "function Fury(37.75 attack increase, 6 seconds, every 5 attacks)"
-                ]
-            }
-        },
-        "3+2": {
-            "rank": 2,
-            "prestige": "806",
-            "hp": "3267",
-            "attack": "241",
-            "crit_rate": "523",
-            "crit_dmge": "615",
-            "armor": "93",
-            "block_prof": "2519",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 5 to 25% per stack.",
-            "url_page": "https://auntm.ai/champions/ultron/tier/3",
-            "champid": "ultron+3+2",
-            "challenger_rating": 50,
-            "abilities": {
-                "PASSIVE": [
-                    "function Armor(4083.33 Armor Rating Increase, 8 seconds, every 15% Health lost)",
-                    "function Evade(every 7 seconds)",
-                    "Advanced robotics provides full immunity to Poison and Bleed effects.",
-                    "Duckslug Editorial",
-                    "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
-                    "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
-                    "This is different than Ultron Prime's evade, like Cat said."
-                ],
-                "BLOCKING": [
-                    "function Armor(25% chance, 92.11 rating increase, 15 seconds)"
-                ],
-                "BASIC ATTACKS": [
-                    "function Radiation(89.17 Poison damage, 6.50 seconds, 19% chance)"
-                ],
-                "SPECIAL ATTACKS": [
-                    "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
-                    "function Stun(40% chance, 3 seconds)"
-                ],
-                "ALL ATTACKS": [
-                    "function Fury(60.25 attack increase, 6 seconds, every 5 attacks)"
-                ]
-            }
-        },
-        "3+3": {
-            "rank": 3,
-            "prestige": "1126",
-            "hp": "4570",
-            "attack": "337",
-            "crit_rate": "538",
-            "crit_dmge": "633",
-            "armor": "115",
-            "block_prof": "2591",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 5 to 25% per stack.",
-            "url_page": "https://auntm.ai/champions/ultron/tier/3",
-            "champid": "ultron+3+3",
-            "challenger_rating": 60,
-            "abilities": {
-                "PASSIVE": [
-                    "function Armor(4200 Armor Rating Increase, 8 seconds, every 15% Health lost)",
-                    "function Evade(every 7 seconds)",
-                    "Advanced robotics provides full immunity to Poison and Bleed effects.",
-                    "Duckslug Editorial",
-                    "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
-                    "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
-                    "This is different than Ultron Prime's evade, like Cat said."
-                ],
-                "BLOCKING": [
-                    "function Armor(25% chance, 94.74 rating increase, 15 seconds)"
-                ],
-                "BASIC ATTACKS": [
-                    "function Radiation(124.69 Poison damage, 6.50 seconds, 19% chance)"
-                ],
-                "SPECIAL ATTACKS": [
-                    "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
-                    "function Stun(40% chance, 3 seconds)"
-                ],
-                "ALL ATTACKS": [
-                    "function Fury(84.25 attack increase, 6 seconds, every 5 attacks)"
-                ]
-            }
-        },
-        "3+4": {
-            "rank": 4,
-            "prestige": "1542",
-            "hp": "6275",
-            "attack": "463",
-            "crit_rate": "553",
-            "crit_dmge": "650",
-            "armor": "140",
-            "block_prof": "2663",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 5 to 25% per stack.",
-            "url_page": "https://auntm.ai/champions/ultron/tier/3",
-            "champid": "ultron+3+4",
-            "challenger_rating": 70,
-            "abilities": {
-                "PASSIVE": [
-                    "function Armor(4316.67 Armor Rating Increase, 8 seconds, every 15% Health lost)",
-                    "function Evade(every 7 seconds)",
-                    "Advanced robotics provides full immunity to Poison and Bleed effects.",
-                    "Duckslug Editorial",
-                    "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
-                    "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
-                    "This is different than Ultron Prime's evade, like Cat said."
-                ],
-                "BLOCKING": [
-                    "function Armor(25% chance, 97.37 rating increase, 15 seconds)"
-                ],
-                "BASIC ATTACKS": [
-                    "function Radiation(171.31 Poison damage, 6.50 seconds, 19% chance)"
-                ],
-                "SPECIAL ATTACKS": [
-                    "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
-                    "function Stun(40% chance, 3 seconds)"
-                ],
-                "ALL ATTACKS": [
-                    "function Fury(115.75 attack increase, 6 seconds, every 5 attacks)"
-                ]
-            }
-        },
-        "4+1": {
-            "rank": 1,
-            "prestige": "1127",
-            "hp": "4567",
-            "attack": "337",
-            "crit_rate": "538",
-            "crit_dmge": "633",
-            "armor": "157",
-            "block_prof": "2591",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 5 to 25% per stack.",
-            "url_page": "https://auntm.ai/champions/ultron/tier/4",
-            "champid": "ultron+4+1",
-            "challenger_rating": 60,
-            "abilities": {
-                "PASSIVE": [
-                    "function Armor(4200 Armor Rating Increase, 8 seconds, every 15% Health lost)",
-                    "function Evade(every 7 seconds)",
-                    "Advanced robotics provides full immunity to Poison and Bleed effects.",
-                    "Duckslug Editorial",
-                    "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
-                    "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
-                    "This is different than Ultron Prime's evade, like Cat said."
-                ],
-                "BLOCKING": [
-                    "function Armor(25% chance, 94.74 rating increase, 15 seconds)"
-                ],
-                "BASIC ATTACKS": [
-                    "function Radiation(124.69 Poison damage, 6.50 seconds, 19% chance)"
-                ],
-                "SPECIAL ATTACKS": [
-                    "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
-                    "function Stun(40% chance, 3 seconds)"
-                ],
-                "ALL ATTACKS": [
-                    "function Fury(84.25 attack increase, 6 seconds, every 5 attacks)"
-                ]
-            }
-        },
-        "4+2": {
-            "rank": 2,
-            "prestige": "1580",
-            "hp": "6406",
-            "attack": "472",
-            "crit_rate": "553",
-            "crit_dmge": "650",
-            "armor": "183",
-            "block_prof": "2663",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 5 to 25% per stack.",
-            "url_page": "https://auntm.ai/champions/ultron/tier/4",
-            "champid": "ultron+4+2",
-            "challenger_rating": 70,
-            "abilities": {
-                "PASSIVE": [
-                    "function Armor(4316.67 Armor Rating Increase, 8 seconds, every 15% Health lost)",
-                    "function Evade(every 7 seconds)",
-                    "Advanced robotics provides full immunity to Poison and Bleed effects.",
-                    "Duckslug Editorial",
-                    "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
-                    "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
-                    "This is different than Ultron Prime's evade, like Cat said."
-                ],
-                "BLOCKING": [
-                    "function Armor(25% chance, 97.37 rating increase, 15 seconds)"
-                ],
-                "BASIC ATTACKS": [
-                    "function Radiation(174.64 Poison damage, 6.50 seconds, 19% chance)"
-                ],
-                "SPECIAL ATTACKS": [
-                    "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
-                    "function Stun(40% chance, 3 seconds)"
-                ],
-                "ALL ATTACKS": [
-                    "function Fury(118 attack increase, 6 seconds, every 5 attacks)"
-                ]
-            }
-        },
-        "4+3": {
-            "rank": 3,
-            "prestige": "2209",
-            "hp": "8975",
-            "attack": "661",
-            "crit_rate": "568",
-            "crit_dmge": "668",
-            "armor": "212",
-            "block_prof": "2735",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 5 to 25% per stack.",
-            "url_page": "https://auntm.ai/champions/ultron/tier/4",
-            "champid": "ultron+4+3",
-            "challenger_rating": 80,
-            "abilities": {
-                "PASSIVE": [
-                    "function Armor(4433.33 Armor Rating Increase, 8 seconds, every 15% Health lost)",
-                    "function Evade(every 7 seconds)",
-                    "Advanced robotics provides full immunity to Poison and Bleed effects.",
-                    "Duckslug Editorial",
-                    "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
-                    "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
-                    "This is different than Ultron Prime's evade, like Cat said."
-                ],
-                "BLOCKING": [
-                    "function Armor(25% chance, 100 rating increase, 15 seconds)"
-                ],
-                "BASIC ATTACKS": [
-                    "function Radiation(244.57 Poison damage, 6.50 seconds, 19% chance)"
-                ],
-                "SPECIAL ATTACKS": [
-                    "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
-                    "function Stun(40% chance, 3 seconds)"
-                ],
-                "ALL ATTACKS": [
-                    "function Fury(165.25 attack increase, 6 seconds, every 5 attacks)"
-                ]
-            }
-        },
-        "4+4": {
-            "rank": 4,
-            "prestige": "2907",
-            "hp": "11793",
-            "attack": "869",
-            "crit_rate": "583",
-            "crit_dmge": "686",
-            "armor": "242",
-            "block_prof": "2807",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 5 to 25% per stack.",
-            "url_page": "https://auntm.ai/champions/ultron/tier/4",
-            "champid": "ultron+4+4",
-            "challenger_rating": 90,
-            "abilities": {
-                "PASSIVE": [
-                    "function Armor(4550 Armor Rating Increase, 8 seconds, every 15% Health lost)",
-                    "function Evade(every 7 seconds)",
-                    "Advanced robotics provides full immunity to Poison and Bleed effects.",
-                    "Duckslug Editorial",
-                    "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
-                    "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
-                    "This is different than Ultron Prime's evade, like Cat said."
-                ],
-                "BLOCKING": [
-                    "function Armor(25% chance, 102.63 rating increase, 15 seconds)"
-                ],
-                "BASIC ATTACKS": [
-                    "function Radiation(321.53 Poison damage, 6.50 seconds, 19% chance)"
-                ],
-                "SPECIAL ATTACKS": [
-                    "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
-                    "function Stun(40% chance, 3 seconds)"
-                ],
-                "ALL ATTACKS": [
-                    "function Fury(217.25 attack increase, 6 seconds, every 5 attacks)"
-                ]
-            }
-        },
-        "4+5": {
-            "rank": 5,
-            "prestige": "3877",
-            "hp": "15736",
-            "attack": "1159",
-            "crit_rate": "598",
-            "crit_dmge": "703",
-            "armor": "273",
-            "block_prof": "2879",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 5 to 25% per stack.",
-            "url_page": "https://auntm.ai/champions/ultron/tier/4",
-            "champid": "ultron+4+5",
-            "challenger_rating": 100,
-            "abilities": {
-                "PASSIVE": [
-                    "function Armor(4666.67 Armor Rating Increase, 8 seconds, every 15% Health lost)",
-                    "function Evade(every 7 seconds)",
-                    "Advanced robotics provides full immunity to Poison and Bleed effects.",
-                    "Duckslug Editorial",
-                    "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
-                    "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
-                    "This is different than Ultron Prime's evade, like Cat said."
-                ],
-                "BLOCKING": [
-                    "function Armor(25% chance, 105.26 rating increase, 15 seconds)"
-                ],
-                "BASIC ATTACKS": [
-                    "function Radiation(428.83 Poison damage, 6.50 seconds, 19% chance)"
-                ],
-                "SPECIAL ATTACKS": [
-                    "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
-                    "function Stun(40% chance, 3 seconds)"
-                ],
-                "ALL ATTACKS": [
-                    "function Fury(289.75 attack increase, 6 seconds, every 5 attacks)"
-                ]
-            }
-        },
-        "5+1": {
-            "rank": 1,
-            "prestige": "2321",
-            "hp": "9391",
-            "attack": "692",
-            "crit_rate": "568",
-            "crit_dmge": "668",
-            "armor": "362",
-            "block_prof": "2735",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 8 to 28.04% per stack.",
-            "url_page": "https://auntm.ai/champions/ultron/tier/5",
-            "champid": "ultron+5+1",
-            "challenger_rating": 80,
-            "abilities": {
-                "PASSIVE": [
-                    "function Armor(4433.33 Armor Rating Increase, 8 seconds, every 15% Health lost)",
-                    "function Evade(every 7 seconds)",
-                    "Advanced robotics provides full immunity to Poison and Bleed effects.",
-                    "Duckslug Editorial",
-                    "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
-                    "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
-                    "This is different than Ultron Prime's evade, like Cat said."
-                ],
-                "BLOCKING": [
-                    "function Armor(25% chance, 100 rating increase, 15 seconds)"
-                ],
-                "BASIC ATTACKS": [
-                    "function Radiation(256.04 Poison damage, 6.50 seconds, 19% chance)"
-                ],
-                "SPECIAL ATTACKS": [
-                    "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
-                    "function Stun(40% chance, 3 seconds)"
-                ],
-                "ALL ATTACKS": [
-                    "function Fury(173 attack increase, 6 seconds, every 5 attacks)"
-                ]
-            }
-        },
-        "5+2": {
-            "rank": 2,
-            "prestige": "3064",
-            "hp": "12405",
-            "attack": "914",
-            "crit_rate": "583",
-            "crit_dmge": "686",
-            "armor": "400",
-            "block_prof": "2807",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 8 to 28.04% per stack.",
-            "url_page": "https://auntm.ai/champions/ultron/tier/5",
-            "champid": "ultron+5+2",
-            "challenger_rating": 90,
-            "abilities": {
-                "PASSIVE": [
-                    "function Armor(4550 Armor Rating Increase, 8 seconds, every 15% Health lost)",
-                    "function Evade(every 7 seconds)",
-                    "Advanced robotics provides full immunity to Poison and Bleed effects.",
-                    "Duckslug Editorial",
-                    "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
-                    "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
-                    "This is different than Ultron Prime's evade, like Cat said."
-                ],
-                "BLOCKING": [
-                    "function Armor(25% chance, 102.63 rating increase, 15 seconds)"
-                ],
-                "BASIC ATTACKS": [
-                    "function Radiation(338.18 Poison damage, 6.50 seconds, 19% chance)"
-                ],
-                "SPECIAL ATTACKS": [
-                    "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
-                    "function Stun(40% chance, 3 seconds)"
-                ],
-                "ALL ATTACKS": [
-                    "function Fury(228.5 attack increase, 6 seconds, every 5 attacks)"
-                ]
-            }
-        },
-        "5+3": {
-            "rank": 3,
-            "prestige": "4292",
-            "hp": "17342",
-            "attack": "1278",
-            "crit_rate": "598",
-            "crit_dmge": "703",
-            "armor": "440",
-            "block_prof": "2879",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 8 to 28.04% per stack.",
-            "url_page": "https://auntm.ai/champions/ultron/tier/5",
-            "champid": "ultron+5+3",
-            "challenger_rating": 100,
-            "abilities": {
-                "PASSIVE": [
-                    "function Armor(4666.67 Armor Rating Increase, 8 seconds, every 15% Health lost)",
-                    "function Evade(every 7 seconds)",
-                    "Advanced robotics provides full immunity to Poison and Bleed effects.",
-                    "Duckslug Editorial",
-                    "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
-                    "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
-                    "This is different than Ultron Prime's evade, like Cat said."
-                ],
-                "BLOCKING": [
-                    "function Armor(25% chance, 105.26 rating increase, 15 seconds)"
-                ],
-                "BASIC ATTACKS": [
-                    "function Radiation(472.86 Poison damage, 6.50 seconds, 19% chance)"
-                ],
-                "SPECIAL ATTACKS": [
-                    "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
-                    "function Stun(40% chance, 3 seconds)"
-                ],
-                "ALL ATTACKS": [
-                    "function Fury(319.5 attack increase, 6 seconds, every 5 attacks)"
-                ]
-            }
-        },
-        "5+4": {
-            "rank": 4,
-            "prestige": "5778",
-            "hp": "23368",
-            "attack": "1721",
-            "crit_rate": "613",
-            "crit_dmge": "721",
-            "armor": "481",
-            "block_prof": "2950",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 8 to 28.04% per stack.",
-            "url_page": "https://auntm.ai/champions/ultron/tier/5",
-            "champid": "ultron+5+4",
-            "challenger_rating": 110,
-            "abilities": {
-                "PASSIVE": [
-                    "function Armor(4783.33 Armor Rating Increase, 8 seconds, every 15% Health lost)",
-                    "function Evade(every 7 seconds)",
-                    "Advanced robotics provides full immunity to Poison and Bleed effects.",
-                    "Duckslug Editorial",
-                    "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
-                    "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
-                    "This is different than Ultron Prime's evade, like Cat said."
-                ],
-                "BLOCKING": [
-                    "function Armor(25% chance, 107.89 rating increase, 15 seconds)"
-                ],
-                "BASIC ATTACKS": [
-                    "function Radiation(636.77 Poison damage, 6.50 seconds, 19% chance)"
-                ],
-                "SPECIAL ATTACKS": [
-                    "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
-                    "function Stun(40% chance, 3 seconds)"
-                ],
-                "ALL ATTACKS": [
-                    "function Fury(430.25 attack increase, 6 seconds, every 5 attacks)"
-                ]
-            }
-        },
-        "5+5": {
-            "rank": 5,
-            "prestige": "7814",
-            "hp": "31551",
-            "attack": "2324",
-            "crit_rate": "628",
-            "crit_dmge": "738",
-            "armor": "525",
-            "block_prof": "3022",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 8 to 28.04% per stack.",
-            "url_page": "https://auntm.ai/champions/ultron/tier/5",
-            "champid": "ultron+5+5",
-            "challenger_rating": 120,
-            "abilities": {
-                "PASSIVE": [
-                    "function Armor(4900 Armor Rating Increase, 8 seconds, every 15% Health lost)",
-                    "function Evade(every 7 seconds)",
-                    "Advanced robotics provides full immunity to Poison and Bleed effects.",
-                    "Duckslug Editorial",
-                    "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
-                    "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
-                    "This is different than Ultron Prime's evade, like Cat said."
-                ],
-                "BLOCKING": [
-                    "function Armor(25% chance, 110.53 rating increase, 15 seconds)"
-                ],
-                "BASIC ATTACKS": [
-                    "function Radiation(859.88 Poison damage, 6.50 seconds, 19% chance)"
-                ],
-                "SPECIAL ATTACKS": [
-                    "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
-                    "function Stun(40% chance, 3 seconds)"
-                ],
-                "ALL ATTACKS": [
-                    "function Fury(581 attack increase, 6 seconds, every 5 attacks)"
-                ]
-            }
-        },
-        "6+1": {
-            "rank": 1,
-            "prestige": "6118",
-            "hp": "24809",
-            "attack": "1827",
-            "crit_rate": "613",
-            "crit_dmge": "721",
-            "armor": "391",
-            "block_prof": "2950",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 8 to 28.04% per stack.",
-            "url_page": "https://auntm.ai/champions/ultron/tier/6",
-            "champid": "ultron+6+1",
-            "challenger_rating": 110,
-            "abilities": {
-                "PASSIVE": [
-                    "function Armor(4783.33 Armor Rating Increase, 8 seconds, every 15% Health lost)",
-                    "function Evade(every 7 seconds)",
-                    "Advanced robotics provides full immunity to Poison and Bleed effects.",
-                    "Duckslug Editorial",
-                    "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
-                    "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
-                    "This is different than Ultron Prime's evade, like Cat said."
-                ],
-                "BLOCKING": [
-                    "function Armor(25% chance, 107.89 rating increase, 15 seconds)"
-                ],
-                "BASIC ATTACKS": [
-                    "function Radiation(675.99 Poison damage, 6.50 seconds, 19% chance)"
-                ],
-                "SPECIAL ATTACKS": [
-                    "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
-                    "function Stun(40% chance, 3 seconds)"
-                ],
-                "ALL ATTACKS": [
-                    "function Fury(456.75 attack increase, 6 seconds, every 5 attacks)"
-                ]
-            }
-        },
-        "6+2": {
-            "rank": 2,
-            "prestige": "8451",
-            "hp": "34269",
-            "attack": "2524",
-            "crit_rate": "628",
-            "crit_dmge": "738",
-            "armor": "431",
-            "block_prof": "3022",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 8 to 28.04% per stack.",
-            "url_page": "https://auntm.ai/champions/ultron/tier/6",
-            "champid": "ultron+6+2",
-            "challenger_rating": 120,
-            "abilities": {
-                "PASSIVE": [
-                    "function Armor(4900 Armor Rating Increase, 8 seconds, every 15% Health lost)",
-                    "function Evade(every 7 seconds)",
-                    "Advanced robotics provides full immunity to Poison and Bleed effects.",
-                    "Duckslug Editorial",
-                    "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
-                    "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
-                    "This is different than Ultron Prime's evade, like Cat said."
-                ],
-                "BLOCKING": [
-                    "function Armor(25% chance, 110.53 rating increase, 15 seconds)"
-                ],
-                "BASIC ATTACKS": [
-                    "function Radiation(933.88 Poison damage, 6.50 seconds, 19% chance)"
-                ],
-                "SPECIAL ATTACKS": [
-                    "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
-                    "function Stun(40% chance, 3 seconds)"
-                ],
-                "ALL ATTACKS": [
-                    "function Fury(631 attack increase, 6 seconds, every 5 attacks)"
-                ]
-            }
-        },
-        "6+3": {
-            "rank": 3,
-            "prestige": "10044",
-            "hp": "40654",
-            "attack": "2994",
-            "crit_rate": "643",
-            "crit_dmge": "756",
-            "armor": "472",
-            "block_prof": "3094",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 8 to 28.04% per stack.",
-            "url_page": "https://auntm.ai/champions/ultron/tier/6",
-            "champid": "ultron+6+3",
-            "challenger_rating": 130,
-            "abilities": {
-                "PASSIVE": [
-                    "function Armor(5016.67 Armor Rating Increase, 8 seconds, every 15% Health lost)",
-                    "function Evade(every 7 seconds)",
-                    "Advanced robotics provides full immunity to Poison and Bleed effects.",
-                    "Duckslug Editorial",
-                    "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
-                    "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
-                    "This is different than Ultron Prime's evade, like Cat said."
-                ],
-                "BLOCKING": [
-                    "function Armor(25% chance, 113.16 rating increase, 15 seconds)"
-                ],
-                "BASIC ATTACKS": [
-                    "function Radiation(1107.78 Poison damage, 6.50 seconds, 19% chance)"
-                ],
-                "SPECIAL ATTACKS": [
-                    "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
-                    "function Stun(40% chance, 3 seconds)"
-                ],
-                "ALL ATTACKS": [
-                    "function Fury(748.5 attack increase, 6 seconds, every 5 attacks)"
-                ]
-            }
-        },
-        "6+4": {
-            "rank": 4,
-            "prestige": "11494",
-            "hp": "46523",
-            "attack": "3427",
-            "crit_rate": "658",
-            "crit_dmge": "773",
-            "armor": "517",
-            "block_prof": "3166",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 8 to 28.04% per stack.",
-            "url_page": "https://auntm.ai/champions/ultron/tier/6",
-            "champid": "ultron+6+4",
-            "challenger_rating": 140,
-            "abilities": {
-                "PASSIVE": [
-                    "function Armor(5133.33 Armor Rating Increase, 8 seconds, every 15% Health lost)",
-                    "function Evade(every 7 seconds)",
-                    "Advanced robotics provides full immunity to Poison and Bleed effects.",
-                    "Duckslug Editorial",
-                    "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
-                    "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
-                    "This is different than Ultron Prime's evade, like Cat said."
-                ],
-                "BLOCKING": [
-                    "function Armor(25% chance, 115.79 rating increase, 15 seconds)"
-                ],
-                "BASIC ATTACKS": [
-                    "function Radiation(1267.99 Poison damage, 6.50 seconds, 19% chance)"
-                ],
-                "SPECIAL ATTACKS": [
-                    "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
-                    "function Stun(40% chance, 3 seconds)"
-                ],
-                "ALL ATTACKS": [
-                    "function Fury(856.75 attack increase, 6 seconds, every 5 attacks)"
-                ]
-            }
-        },
-        "find": {
-            "story_quests": {
-                "act_1": [],
-                "act_2": [
-                    "2.1.3",
-                    "2.1.6"
-                ],
-                "act_3": [
-                    "3.1.4",
-                    "3.1.6",
-                    "3.2.2",
-                    "3.2.3",
-                    "3.2.5"
-                ],
-                "act_4": [],
-                "act_5": [
-                    "5.3.3",
-                    "5.3.4",
-                    "5.4.6"
-                ],
-                "act_6": [
-                    "6.1.2",
-                    "6.1.5",
-                    "6.3.3",
-                    "6.4.1",
-                    "6.4.3",
-                    "6.4.5"
-                ],
-                "act_7": [
-                    "7.1.1",
-                    "7.2.1",
-                    "7.3.1",
-                    "7.4.1",
-                    "7.4.3"
-                ]
-            }
-        }
+  "champid": "ultron",
+  "data": {
+    "2+1": {
+      "rank": 1,
+      "prestige": "283",
+      "hp": "1126",
+      "attack": "83",
+      "crit_rate": "478",
+      "crit_dmge": "563",
+      "armor": "33",
+      "block_prof": "2303",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 5 to 25% per stack.",
+      "url_page": "https://auntm.ai/champions/ultron/tier/2",
+      "champid": "ultron+2+1",
+      "challenger_rating": 20,
+      "abilities": {
+        "PASSIVE": [
+          "function Armor(3733.33 Armor Rating Increase, 8 seconds, every 15% Health lost)",
+          "function Evade(every 7 seconds)",
+          "Advanced robotics provides full immunity to Poison and Bleed effects.",
+          "Duckslug Editorial",
+          "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
+          "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
+          "This is different than Ultron Prime's evade, like Cat said."
+        ],
+        "BLOCKING": [
+          "function Armor(25% chance, 84.21 rating increase, 15 seconds)"
+        ],
+        "BASIC ATTACKS": [
+          "function Radiation(30.71 Poison damage, 6.50 seconds, 19% chance)"
+        ],
+        "SPECIAL ATTACKS": [
+          "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
+          "function Stun(40% chance, 3 seconds)"
+        ],
+        "ALL ATTACKS": [
+          "function Fury(20.75 attack increase, 6 seconds, every 5 attacks)"
+        ]
+      }
+    },
+    "2+2": {
+      "rank": 2,
+      "prestige": "373",
+      "hp": "1488",
+      "attack": "110",
+      "crit_rate": "493",
+      "crit_dmge": "580",
+      "armor": "52",
+      "block_prof": "2375",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 5 to 25% per stack.",
+      "url_page": "https://auntm.ai/champions/ultron/tier/2",
+      "champid": "ultron+2+2",
+      "challenger_rating": 30,
+      "abilities": {
+        "PASSIVE": [
+          "function Armor(3850 Armor Rating Increase, 8 seconds, every 15% Health lost)",
+          "function Evade(every 7 seconds)",
+          "Advanced robotics provides full immunity to Poison and Bleed effects.",
+          "Duckslug Editorial",
+          "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
+          "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
+          "This is different than Ultron Prime's evade, like Cat said."
+        ],
+        "BLOCKING": [
+          "function Armor(25% chance, 86.84 rating increase, 15 seconds)"
+        ],
+        "BASIC ATTACKS": [
+          "function Radiation(40.7 Poison damage, 6.50 seconds, 19% chance)"
+        ],
+        "SPECIAL ATTACKS": [
+          "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
+          "function Stun(40% chance, 3 seconds)"
+        ],
+        "ALL ATTACKS": [
+          "function Fury(27.5 attack increase, 6 seconds, every 5 attacks)"
+        ]
+      }
+    },
+    "2+3": {
+      "rank": 3,
+      "prestige": "583",
+      "hp": "2362",
+      "attack": "174",
+      "crit_rate": "508",
+      "crit_dmge": "598",
+      "armor": "71",
+      "block_prof": "2447",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 5 to 25% per stack.",
+      "url_page": "https://auntm.ai/champions/ultron/tier/2",
+      "champid": "ultron+2+3",
+      "challenger_rating": 40,
+      "abilities": {
+        "PASSIVE": [
+          "function Armor(3966.67 Armor Rating Increase, 8 seconds, every 15% Health lost)",
+          "function Evade(every 7 seconds)",
+          "Advanced robotics provides full immunity to Poison and Bleed effects.",
+          "Duckslug Editorial",
+          "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
+          "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
+          "This is different than Ultron Prime's evade, like Cat said."
+        ],
+        "BLOCKING": [
+          "function Armor(25% chance, 89.47 rating increase, 15 seconds)"
+        ],
+        "BASIC ATTACKS": [
+          "function Radiation(64.38 Poison damage, 6.50 seconds, 19% chance)"
+        ],
+        "SPECIAL ATTACKS": [
+          "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
+          "function Stun(40% chance, 3 seconds)"
+        ],
+        "ALL ATTACKS": [
+          "function Fury(43.5 attack increase, 6 seconds, every 5 attacks)"
+        ]
+      }
+    },
+    "3+1": {
+      "rank": 1,
+      "prestige": "508",
+      "hp": "2042",
+      "attack": "151",
+      "crit_rate": "508",
+      "crit_dmge": "598",
+      "armor": "71",
+      "block_prof": "2447",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 5 to 25% per stack.",
+      "url_page": "https://auntm.ai/champions/ultron/tier/3",
+      "champid": "ultron+3+1",
+      "challenger_rating": 40,
+      "abilities": {
+        "PASSIVE": [
+          "function Armor(3966.67 Armor Rating Increase, 8 seconds, every 15% Health lost)",
+          "function Evade(every 7 seconds)",
+          "Advanced robotics provides full immunity to Poison and Bleed effects.",
+          "Duckslug Editorial",
+          "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
+          "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
+          "This is different than Ultron Prime's evade, like Cat said."
+        ],
+        "BLOCKING": [
+          "function Armor(25% chance, 89.47 rating increase, 15 seconds)"
+        ],
+        "BASIC ATTACKS": [
+          "function Radiation(55.87 Poison damage, 6.50 seconds, 19% chance)"
+        ],
+        "SPECIAL ATTACKS": [
+          "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
+          "function Stun(40% chance, 3 seconds)"
+        ],
+        "ALL ATTACKS": [
+          "function Fury(37.75 attack increase, 6 seconds, every 5 attacks)"
+        ]
+      }
+    },
+    "3+2": {
+      "rank": 2,
+      "prestige": "806",
+      "hp": "3267",
+      "attack": "241",
+      "crit_rate": "523",
+      "crit_dmge": "615",
+      "armor": "93",
+      "block_prof": "2519",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 5 to 25% per stack.",
+      "url_page": "https://auntm.ai/champions/ultron/tier/3",
+      "champid": "ultron+3+2",
+      "challenger_rating": 50,
+      "abilities": {
+        "PASSIVE": [
+          "function Armor(4083.33 Armor Rating Increase, 8 seconds, every 15% Health lost)",
+          "function Evade(every 7 seconds)",
+          "Advanced robotics provides full immunity to Poison and Bleed effects.",
+          "Duckslug Editorial",
+          "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
+          "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
+          "This is different than Ultron Prime's evade, like Cat said."
+        ],
+        "BLOCKING": [
+          "function Armor(25% chance, 92.11 rating increase, 15 seconds)"
+        ],
+        "BASIC ATTACKS": [
+          "function Radiation(89.17 Poison damage, 6.50 seconds, 19% chance)"
+        ],
+        "SPECIAL ATTACKS": [
+          "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
+          "function Stun(40% chance, 3 seconds)"
+        ],
+        "ALL ATTACKS": [
+          "function Fury(60.25 attack increase, 6 seconds, every 5 attacks)"
+        ]
+      }
+    },
+    "3+3": {
+      "rank": 3,
+      "prestige": "1126",
+      "hp": "4570",
+      "attack": "337",
+      "crit_rate": "538",
+      "crit_dmge": "633",
+      "armor": "115",
+      "block_prof": "2591",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 5 to 25% per stack.",
+      "url_page": "https://auntm.ai/champions/ultron/tier/3",
+      "champid": "ultron+3+3",
+      "challenger_rating": 60,
+      "abilities": {
+        "PASSIVE": [
+          "function Armor(4200 Armor Rating Increase, 8 seconds, every 15% Health lost)",
+          "function Evade(every 7 seconds)",
+          "Advanced robotics provides full immunity to Poison and Bleed effects.",
+          "Duckslug Editorial",
+          "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
+          "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
+          "This is different than Ultron Prime's evade, like Cat said."
+        ],
+        "BLOCKING": [
+          "function Armor(25% chance, 94.74 rating increase, 15 seconds)"
+        ],
+        "BASIC ATTACKS": [
+          "function Radiation(124.69 Poison damage, 6.50 seconds, 19% chance)"
+        ],
+        "SPECIAL ATTACKS": [
+          "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
+          "function Stun(40% chance, 3 seconds)"
+        ],
+        "ALL ATTACKS": [
+          "function Fury(84.25 attack increase, 6 seconds, every 5 attacks)"
+        ]
+      }
+    },
+    "3+4": {
+      "rank": 4,
+      "prestige": "1542",
+      "hp": "6275",
+      "attack": "463",
+      "crit_rate": "553",
+      "crit_dmge": "650",
+      "armor": "140",
+      "block_prof": "2663",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 5 to 25% per stack.",
+      "url_page": "https://auntm.ai/champions/ultron/tier/3",
+      "champid": "ultron+3+4",
+      "challenger_rating": 70,
+      "abilities": {
+        "PASSIVE": [
+          "function Armor(4316.67 Armor Rating Increase, 8 seconds, every 15% Health lost)",
+          "function Evade(every 7 seconds)",
+          "Advanced robotics provides full immunity to Poison and Bleed effects.",
+          "Duckslug Editorial",
+          "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
+          "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
+          "This is different than Ultron Prime's evade, like Cat said."
+        ],
+        "BLOCKING": [
+          "function Armor(25% chance, 97.37 rating increase, 15 seconds)"
+        ],
+        "BASIC ATTACKS": [
+          "function Radiation(171.31 Poison damage, 6.50 seconds, 19% chance)"
+        ],
+        "SPECIAL ATTACKS": [
+          "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
+          "function Stun(40% chance, 3 seconds)"
+        ],
+        "ALL ATTACKS": [
+          "function Fury(115.75 attack increase, 6 seconds, every 5 attacks)"
+        ]
+      }
+    },
+    "4+1": {
+      "rank": 1,
+      "prestige": "1127",
+      "hp": "4567",
+      "attack": "337",
+      "crit_rate": "538",
+      "crit_dmge": "633",
+      "armor": "157",
+      "block_prof": "2591",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 5 to 25% per stack.",
+      "url_page": "https://auntm.ai/champions/ultron/tier/4",
+      "champid": "ultron+4+1",
+      "challenger_rating": 60,
+      "abilities": {
+        "PASSIVE": [
+          "function Armor(4200 Armor Rating Increase, 8 seconds, every 15% Health lost)",
+          "function Evade(every 7 seconds)",
+          "Advanced robotics provides full immunity to Poison and Bleed effects.",
+          "Duckslug Editorial",
+          "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
+          "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
+          "This is different than Ultron Prime's evade, like Cat said."
+        ],
+        "BLOCKING": [
+          "function Armor(25% chance, 94.74 rating increase, 15 seconds)"
+        ],
+        "BASIC ATTACKS": [
+          "function Radiation(124.69 Poison damage, 6.50 seconds, 19% chance)"
+        ],
+        "SPECIAL ATTACKS": [
+          "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
+          "function Stun(40% chance, 3 seconds)"
+        ],
+        "ALL ATTACKS": [
+          "function Fury(84.25 attack increase, 6 seconds, every 5 attacks)"
+        ]
+      }
+    },
+    "4+2": {
+      "rank": 2,
+      "prestige": "1580",
+      "hp": "6406",
+      "attack": "472",
+      "crit_rate": "553",
+      "crit_dmge": "650",
+      "armor": "183",
+      "block_prof": "2663",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 5 to 25% per stack.",
+      "url_page": "https://auntm.ai/champions/ultron/tier/4",
+      "champid": "ultron+4+2",
+      "challenger_rating": 70,
+      "abilities": {
+        "PASSIVE": [
+          "function Armor(4316.67 Armor Rating Increase, 8 seconds, every 15% Health lost)",
+          "function Evade(every 7 seconds)",
+          "Advanced robotics provides full immunity to Poison and Bleed effects.",
+          "Duckslug Editorial",
+          "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
+          "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
+          "This is different than Ultron Prime's evade, like Cat said."
+        ],
+        "BLOCKING": [
+          "function Armor(25% chance, 97.37 rating increase, 15 seconds)"
+        ],
+        "BASIC ATTACKS": [
+          "function Radiation(174.64 Poison damage, 6.50 seconds, 19% chance)"
+        ],
+        "SPECIAL ATTACKS": [
+          "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
+          "function Stun(40% chance, 3 seconds)"
+        ],
+        "ALL ATTACKS": [
+          "function Fury(118 attack increase, 6 seconds, every 5 attacks)"
+        ]
+      }
+    },
+    "4+3": {
+      "rank": 3,
+      "prestige": "2209",
+      "hp": "8975",
+      "attack": "661",
+      "crit_rate": "568",
+      "crit_dmge": "668",
+      "armor": "212",
+      "block_prof": "2735",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 5 to 25% per stack.",
+      "url_page": "https://auntm.ai/champions/ultron/tier/4",
+      "champid": "ultron+4+3",
+      "challenger_rating": 80,
+      "abilities": {
+        "PASSIVE": [
+          "function Armor(4433.33 Armor Rating Increase, 8 seconds, every 15% Health lost)",
+          "function Evade(every 7 seconds)",
+          "Advanced robotics provides full immunity to Poison and Bleed effects.",
+          "Duckslug Editorial",
+          "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
+          "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
+          "This is different than Ultron Prime's evade, like Cat said."
+        ],
+        "BLOCKING": [
+          "function Armor(25% chance, 100 rating increase, 15 seconds)"
+        ],
+        "BASIC ATTACKS": [
+          "function Radiation(244.57 Poison damage, 6.50 seconds, 19% chance)"
+        ],
+        "SPECIAL ATTACKS": [
+          "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
+          "function Stun(40% chance, 3 seconds)"
+        ],
+        "ALL ATTACKS": [
+          "function Fury(165.25 attack increase, 6 seconds, every 5 attacks)"
+        ]
+      }
+    },
+    "4+4": {
+      "rank": 4,
+      "prestige": "2907",
+      "hp": "11793",
+      "attack": "869",
+      "crit_rate": "583",
+      "crit_dmge": "686",
+      "armor": "242",
+      "block_prof": "2807",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 5 to 25% per stack.",
+      "url_page": "https://auntm.ai/champions/ultron/tier/4",
+      "champid": "ultron+4+4",
+      "challenger_rating": 90,
+      "abilities": {
+        "PASSIVE": [
+          "function Armor(4550 Armor Rating Increase, 8 seconds, every 15% Health lost)",
+          "function Evade(every 7 seconds)",
+          "Advanced robotics provides full immunity to Poison and Bleed effects.",
+          "Duckslug Editorial",
+          "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
+          "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
+          "This is different than Ultron Prime's evade, like Cat said."
+        ],
+        "BLOCKING": [
+          "function Armor(25% chance, 102.63 rating increase, 15 seconds)"
+        ],
+        "BASIC ATTACKS": [
+          "function Radiation(321.53 Poison damage, 6.50 seconds, 19% chance)"
+        ],
+        "SPECIAL ATTACKS": [
+          "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
+          "function Stun(40% chance, 3 seconds)"
+        ],
+        "ALL ATTACKS": [
+          "function Fury(217.25 attack increase, 6 seconds, every 5 attacks)"
+        ]
+      }
+    },
+    "4+5": {
+      "rank": 5,
+      "prestige": "3877",
+      "hp": "15736",
+      "attack": "1159",
+      "crit_rate": "598",
+      "crit_dmge": "703",
+      "armor": "273",
+      "block_prof": "2879",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 5 to 25% per stack.",
+      "url_page": "https://auntm.ai/champions/ultron/tier/4",
+      "champid": "ultron+4+5",
+      "challenger_rating": 100,
+      "abilities": {
+        "PASSIVE": [
+          "function Armor(4666.67 Armor Rating Increase, 8 seconds, every 15% Health lost)",
+          "function Evade(every 7 seconds)",
+          "Advanced robotics provides full immunity to Poison and Bleed effects.",
+          "Duckslug Editorial",
+          "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
+          "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
+          "This is different than Ultron Prime's evade, like Cat said."
+        ],
+        "BLOCKING": [
+          "function Armor(25% chance, 105.26 rating increase, 15 seconds)"
+        ],
+        "BASIC ATTACKS": [
+          "function Radiation(428.83 Poison damage, 6.50 seconds, 19% chance)"
+        ],
+        "SPECIAL ATTACKS": [
+          "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
+          "function Stun(40% chance, 3 seconds)"
+        ],
+        "ALL ATTACKS": [
+          "function Fury(289.75 attack increase, 6 seconds, every 5 attacks)"
+        ]
+      }
+    },
+    "5+1": {
+      "rank": 1,
+      "prestige": "2321",
+      "hp": "9391",
+      "attack": "692",
+      "crit_rate": "568",
+      "crit_dmge": "668",
+      "armor": "362",
+      "block_prof": "2735",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 8 to 28.04% per stack.",
+      "url_page": "https://auntm.ai/champions/ultron/tier/5",
+      "champid": "ultron+5+1",
+      "challenger_rating": 80,
+      "abilities": {
+        "PASSIVE": [
+          "function Armor(4433.33 Armor Rating Increase, 8 seconds, every 15% Health lost)",
+          "function Evade(every 7 seconds)",
+          "Advanced robotics provides full immunity to Poison and Bleed effects.",
+          "Duckslug Editorial",
+          "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
+          "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
+          "This is different than Ultron Prime's evade, like Cat said."
+        ],
+        "BLOCKING": [
+          "function Armor(25% chance, 100 rating increase, 15 seconds)"
+        ],
+        "BASIC ATTACKS": [
+          "function Radiation(256.04 Poison damage, 6.50 seconds, 19% chance)"
+        ],
+        "SPECIAL ATTACKS": [
+          "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
+          "function Stun(40% chance, 3 seconds)"
+        ],
+        "ALL ATTACKS": [
+          "function Fury(173 attack increase, 6 seconds, every 5 attacks)"
+        ]
+      }
+    },
+    "5+2": {
+      "rank": 2,
+      "prestige": "3064",
+      "hp": "12405",
+      "attack": "914",
+      "crit_rate": "583",
+      "crit_dmge": "686",
+      "armor": "400",
+      "block_prof": "2807",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 8 to 28.04% per stack.",
+      "url_page": "https://auntm.ai/champions/ultron/tier/5",
+      "champid": "ultron+5+2",
+      "challenger_rating": 90,
+      "abilities": {
+        "PASSIVE": [
+          "function Armor(4550 Armor Rating Increase, 8 seconds, every 15% Health lost)",
+          "function Evade(every 7 seconds)",
+          "Advanced robotics provides full immunity to Poison and Bleed effects.",
+          "Duckslug Editorial",
+          "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
+          "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
+          "This is different than Ultron Prime's evade, like Cat said."
+        ],
+        "BLOCKING": [
+          "function Armor(25% chance, 102.63 rating increase, 15 seconds)"
+        ],
+        "BASIC ATTACKS": [
+          "function Radiation(338.18 Poison damage, 6.50 seconds, 19% chance)"
+        ],
+        "SPECIAL ATTACKS": [
+          "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
+          "function Stun(40% chance, 3 seconds)"
+        ],
+        "ALL ATTACKS": [
+          "function Fury(228.5 attack increase, 6 seconds, every 5 attacks)"
+        ]
+      }
+    },
+    "5+3": {
+      "rank": 3,
+      "prestige": "4292",
+      "hp": "17342",
+      "attack": "1278",
+      "crit_rate": "598",
+      "crit_dmge": "703",
+      "armor": "440",
+      "block_prof": "2879",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 8 to 28.04% per stack.",
+      "url_page": "https://auntm.ai/champions/ultron/tier/5",
+      "champid": "ultron+5+3",
+      "challenger_rating": 100,
+      "abilities": {
+        "PASSIVE": [
+          "function Armor(4666.67 Armor Rating Increase, 8 seconds, every 15% Health lost)",
+          "function Evade(every 7 seconds)",
+          "Advanced robotics provides full immunity to Poison and Bleed effects.",
+          "Duckslug Editorial",
+          "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
+          "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
+          "This is different than Ultron Prime's evade, like Cat said."
+        ],
+        "BLOCKING": [
+          "function Armor(25% chance, 105.26 rating increase, 15 seconds)"
+        ],
+        "BASIC ATTACKS": [
+          "function Radiation(472.86 Poison damage, 6.50 seconds, 19% chance)"
+        ],
+        "SPECIAL ATTACKS": [
+          "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
+          "function Stun(40% chance, 3 seconds)"
+        ],
+        "ALL ATTACKS": [
+          "function Fury(319.5 attack increase, 6 seconds, every 5 attacks)"
+        ]
+      }
+    },
+    "5+4": {
+      "rank": 4,
+      "prestige": "5778",
+      "hp": "23368",
+      "attack": "1721",
+      "crit_rate": "613",
+      "crit_dmge": "721",
+      "armor": "481",
+      "block_prof": "2950",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 8 to 28.04% per stack.",
+      "url_page": "https://auntm.ai/champions/ultron/tier/5",
+      "champid": "ultron+5+4",
+      "challenger_rating": 110,
+      "abilities": {
+        "PASSIVE": [
+          "function Armor(4783.33 Armor Rating Increase, 8 seconds, every 15% Health lost)",
+          "function Evade(every 7 seconds)",
+          "Advanced robotics provides full immunity to Poison and Bleed effects.",
+          "Duckslug Editorial",
+          "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
+          "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
+          "This is different than Ultron Prime's evade, like Cat said."
+        ],
+        "BLOCKING": [
+          "function Armor(25% chance, 107.89 rating increase, 15 seconds)"
+        ],
+        "BASIC ATTACKS": [
+          "function Radiation(636.77 Poison damage, 6.50 seconds, 19% chance)"
+        ],
+        "SPECIAL ATTACKS": [
+          "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
+          "function Stun(40% chance, 3 seconds)"
+        ],
+        "ALL ATTACKS": [
+          "function Fury(430.25 attack increase, 6 seconds, every 5 attacks)"
+        ]
+      }
+    },
+    "5+5": {
+      "rank": 5,
+      "prestige": "7814",
+      "hp": "31551",
+      "attack": "2324",
+      "crit_rate": "628",
+      "crit_dmge": "738",
+      "armor": "525",
+      "block_prof": "3022",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 8 to 28.04% per stack.",
+      "url_page": "https://auntm.ai/champions/ultron/tier/5",
+      "champid": "ultron+5+5",
+      "challenger_rating": 120,
+      "abilities": {
+        "PASSIVE": [
+          "function Armor(4900 Armor Rating Increase, 8 seconds, every 15% Health lost)",
+          "function Evade(every 7 seconds)",
+          "Advanced robotics provides full immunity to Poison and Bleed effects.",
+          "Duckslug Editorial",
+          "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
+          "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
+          "This is different than Ultron Prime's evade, like Cat said."
+        ],
+        "BLOCKING": [
+          "function Armor(25% chance, 110.53 rating increase, 15 seconds)"
+        ],
+        "BASIC ATTACKS": [
+          "function Radiation(859.88 Poison damage, 6.50 seconds, 19% chance)"
+        ],
+        "SPECIAL ATTACKS": [
+          "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
+          "function Stun(40% chance, 3 seconds)"
+        ],
+        "ALL ATTACKS": [
+          "function Fury(581 attack increase, 6 seconds, every 5 attacks)"
+        ]
+      }
+    },
+    "6+1": {
+      "rank": 1,
+      "prestige": "6118",
+      "hp": "24809",
+      "attack": "1827",
+      "crit_rate": "613",
+      "crit_dmge": "721",
+      "armor": "391",
+      "block_prof": "2950",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 8 to 28.04% per stack.",
+      "url_page": "https://auntm.ai/champions/ultron/tier/6",
+      "champid": "ultron+6+1",
+      "challenger_rating": 110,
+      "abilities": {
+        "PASSIVE": [
+          "function Armor(4783.33 Armor Rating Increase, 8 seconds, every 15% Health lost)",
+          "function Evade(every 7 seconds)",
+          "Advanced robotics provides full immunity to Poison and Bleed effects.",
+          "Duckslug Editorial",
+          "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
+          "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
+          "This is different than Ultron Prime's evade, like Cat said."
+        ],
+        "BLOCKING": [
+          "function Armor(25% chance, 107.89 rating increase, 15 seconds)"
+        ],
+        "BASIC ATTACKS": [
+          "function Radiation(675.99 Poison damage, 6.50 seconds, 19% chance)"
+        ],
+        "SPECIAL ATTACKS": [
+          "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
+          "function Stun(40% chance, 3 seconds)"
+        ],
+        "ALL ATTACKS": [
+          "function Fury(456.75 attack increase, 6 seconds, every 5 attacks)"
+        ]
+      }
+    },
+    "6+2": {
+      "rank": 2,
+      "prestige": "8451",
+      "hp": "34269",
+      "attack": "2524",
+      "crit_rate": "628",
+      "crit_dmge": "738",
+      "armor": "431",
+      "block_prof": "3022",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 8 to 28.04% per stack.",
+      "url_page": "https://auntm.ai/champions/ultron/tier/6",
+      "champid": "ultron+6+2",
+      "challenger_rating": 120,
+      "abilities": {
+        "PASSIVE": [
+          "function Armor(4900 Armor Rating Increase, 8 seconds, every 15% Health lost)",
+          "function Evade(every 7 seconds)",
+          "Advanced robotics provides full immunity to Poison and Bleed effects.",
+          "Duckslug Editorial",
+          "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
+          "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
+          "This is different than Ultron Prime's evade, like Cat said."
+        ],
+        "BLOCKING": [
+          "function Armor(25% chance, 110.53 rating increase, 15 seconds)"
+        ],
+        "BASIC ATTACKS": [
+          "function Radiation(933.88 Poison damage, 6.50 seconds, 19% chance)"
+        ],
+        "SPECIAL ATTACKS": [
+          "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
+          "function Stun(40% chance, 3 seconds)"
+        ],
+        "ALL ATTACKS": [
+          "function Fury(631 attack increase, 6 seconds, every 5 attacks)"
+        ]
+      }
+    },
+    "6+3": {
+      "rank": 3,
+      "prestige": "10044",
+      "hp": "40654",
+      "attack": "2994",
+      "crit_rate": "643",
+      "crit_dmge": "756",
+      "armor": "472",
+      "block_prof": "3094",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 8 to 28.04% per stack.",
+      "url_page": "https://auntm.ai/champions/ultron/tier/6",
+      "champid": "ultron+6+3",
+      "challenger_rating": 130,
+      "abilities": {
+        "PASSIVE": [
+          "function Armor(5016.67 Armor Rating Increase, 8 seconds, every 15% Health lost)",
+          "function Evade(every 7 seconds)",
+          "Advanced robotics provides full immunity to Poison and Bleed effects.",
+          "Duckslug Editorial",
+          "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
+          "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
+          "This is different than Ultron Prime's evade, like Cat said."
+        ],
+        "BLOCKING": [
+          "function Armor(25% chance, 113.16 rating increase, 15 seconds)"
+        ],
+        "BASIC ATTACKS": [
+          "function Radiation(1107.78 Poison damage, 6.50 seconds, 19% chance)"
+        ],
+        "SPECIAL ATTACKS": [
+          "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
+          "function Stun(40% chance, 3 seconds)"
+        ],
+        "ALL ATTACKS": [
+          "function Fury(748.5 attack increase, 6 seconds, every 5 attacks)"
+        ]
+      }
+    },
+    "6+4": {
+      "rank": 4,
+      "prestige": "11494",
+      "hp": "46523",
+      "attack": "3427",
+      "crit_rate": "658",
+      "crit_dmge": "773",
+      "armor": "517",
+      "block_prof": "3166",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "For each Armor Up effect active, Ultron releases more Nano-Inhibitors, reducing his opponent's Offensive Ability Accuracy by 8 to 28.04% per stack.",
+      "url_page": "https://auntm.ai/champions/ultron/tier/6",
+      "champid": "ultron+6+4",
+      "challenger_rating": 140,
+      "abilities": {
+        "PASSIVE": [
+          "function Armor(5133.33 Armor Rating Increase, 8 seconds, every 15% Health lost)",
+          "function Evade(every 7 seconds)",
+          "Advanced robotics provides full immunity to Poison and Bleed effects.",
+          "Duckslug Editorial",
+          "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
+          "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
+          "This is different than Ultron Prime's evade, like Cat said."
+        ],
+        "BLOCKING": [
+          "function Armor(25% chance, 115.79 rating increase, 15 seconds)"
+        ],
+        "BASIC ATTACKS": [
+          "function Radiation(1267.99 Poison damage, 6.50 seconds, 19% chance)"
+        ],
+        "SPECIAL ATTACKS": [
+          "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
+          "function Stun(40% chance, 3 seconds)"
+        ],
+        "ALL ATTACKS": [
+          "function Fury(856.75 attack increase, 6 seconds, every 5 attacks)"
+        ]
+      }
+    },
+    "1+1": {
+      "rank": 1,
+      "prestige": 223,
+      "hp": 882,
+      "attack": 65,
+      "crit_rate": 463,
+      "crit_dmge": 545,
+      "armor": 0,
+      "block_prof": 2231,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/ultron/tier/1",
+      "champid": "ultron+1+1",
+      "challenger_rating": 10,
+      "abilities": {
+        "PASSIVE": [
+          "function Armor(3616.67 Armor Rating Increase, 8 seconds, every 15% Health lost)",
+          "function Evade(every 7 seconds)",
+          "Advanced robotics provides full immunity to Poison and Bleed effects.",
+          "Duckslug Editorial",
+          "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
+          "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
+          "This is different than Ultron Prime's evade, like Cat said."
+        ],
+        "BLOCKING": [
+          "function Armor(25% chance, 81.58 rating increase, 15 seconds)"
+        ],
+        "BASIC ATTACKS": [
+          "function Radiation(24.05 Poison damage, 6.50 seconds, 19% chance)"
+        ],
+        "SPECIAL ATTACKS": [
+          "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
+          "function Stun(40% chance, 3 seconds)"
+        ],
+        "ALL ATTACKS": [
+          "function Fury(16.25 attack increase, 6 seconds, every 5 attacks)"
+        ]
+      }
+    },
+    "1+2": {
+      "rank": 2,
+      "prestige": 305,
+      "hp": 1220,
+      "attack": 90,
+      "crit_rate": 478,
+      "crit_dmge": 563,
+      "armor": 0,
+      "block_prof": 2303,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/ultron/tier/1",
+      "champid": "ultron+1+2",
+      "challenger_rating": 20,
+      "abilities": {
+        "PASSIVE": [
+          "function Armor(3733.33 Armor Rating Increase, 8 seconds, every 15% Health lost)",
+          "function Evade(every 7 seconds)",
+          "Advanced robotics provides full immunity to Poison and Bleed effects.",
+          "Duckslug Editorial",
+          "Ultron gains an invisible evade charge 7 seconds after the fight starts. Ultron will not evade or expend the charge while stunned.",
+          "The charge will refresh 7 seconds after being used, and he cannot have more than one charge at a time.",
+          "This is different than Ultron Prime's evade, like Cat said."
+        ],
+        "BLOCKING": [
+          "function Armor(25% chance, 84.21 rating increase, 15 seconds)"
+        ],
+        "BASIC ATTACKS": [
+          "function Radiation(33.3 Poison damage, 6.50 seconds, 19% chance)"
+        ],
+        "SPECIAL ATTACKS": [
+          "function Heal Block(remove all Poison effects, 1.50 seconds per Poison removed)",
+          "function Stun(40% chance, 3 seconds)"
+        ],
+        "ALL ATTACKS": [
+          "function Fury(22.5 attack increase, 6 seconds, every 5 attacks)"
+        ]
+      }
+    },
+    "find": {
+      "story_quests": {
+        "act_1": [],
+        "act_2": ["2.1.3", "2.1.6"],
+        "act_3": ["3.1.4", "3.1.6", "3.2.2", "3.2.3", "3.2.5"],
+        "act_4": [],
+        "act_5": ["5.3.3", "5.3.4", "5.4.6"],
+        "act_6": ["6.1.2", "6.1.5", "6.3.3", "6.4.1", "6.4.3", "6.4.5"],
+        "act_7": ["7.1.1", "7.2.1", "7.3.1", "7.4.1", "7.4.3"]
+      }
     }
+  },
+  "name": "ULTRON",
+  "class": "Tech",
+  "img_portrait": "https://api.rexians.tk/assets/portraits/ultron.png",
+  "contact": "PHYSICAL",
+  "tags": ["Villain", "Robot", "Size: M"],
+  "released": "8/17/2016"
 }

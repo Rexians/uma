@@ -1,1130 +1,1218 @@
 {
-    "name": "SILVER SURFER",
-    "class": "Cosmic",
-    "img_portrait": "https://api.rexians.tk/assets/portraits/silversurfer.png",
-    "contact": "PHYSICAL",
-    "tags": [
-        "Hero",
-        "Size: M"
-    ],
-    "released": "12/12/2019",
-    "champid": "silversurfer",
-    "data": {
-        "2+1": {
-            "rank": 1,
-            "prestige": "286",
-            "hp": "1135",
-            "attack": "79",
-            "crit_rate": "478",
-            "crit_dmge": "563",
-            "armor": "33",
-            "block_prof": "2845",
-            "energy_resist": "862",
-            "physical_resist": "-177",
-            "crit_resist": "0",
-            "sig_info": "All Buffs on Silver Surfer have 5 to 50.01% increased Potency.",
-            "url_page": "https://auntm.ai/champions/silversurfer/tier/2",
-            "champid": "silversurfer+2+1",
-            "challenger_rating": 20,
-            "abilities": {
-                "PASSIVE": [
-                    "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
-                    "Each hit deals a Burst of 9.88 Energy Damage for each Unique Buff. This scales with base attack only."
-                ],
-                "THE POWER COSMIC BUFF": [
-                    "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
-                    "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
-                    "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 282.35 for 12 seconds. Max 3 Stacks."
-                ],
-                "ROTATING BUFFS - MAX 2 OF EACH:": [
-                    "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
-                    "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
-                    "Fury: Increase Attack Rating by 39.5 for 24 seconds.",
-                    "Armor Up: Increase Armor Rating by 1600 for 24 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
-                    "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
-                ]
-            }
-        },
-        "2+2": {
-            "rank": 2,
-            "prestige": "376",
-            "hp": "1499",
-            "attack": "104",
-            "crit_rate": "493",
-            "crit_dmge": "580",
-            "armor": "52",
-            "block_prof": "2934",
-            "energy_resist": "889",
-            "physical_resist": "-183",
-            "crit_resist": "0",
-            "sig_info": "All Buffs on Silver Surfer have 5 to 50.01% increased Potency.",
-            "url_page": "https://auntm.ai/champions/silversurfer/tier/2",
-            "champid": "silversurfer+2+2",
-            "challenger_rating": 30,
-            "abilities": {
-                "PASSIVE": [
-                    "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
-                    "Each hit deals a Burst of 13 Energy Damage for each Unique Buff. This scales with base attack only."
-                ],
-                "THE POWER COSMIC BUFF": [
-                    "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
-                    "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
-                    "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 291.18 for 12 seconds. Max 3 Stacks."
-                ],
-                "ROTATING BUFFS - MAX 2 OF EACH:": [
-                    "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
-                    "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
-                    "Fury: Increase Attack Rating by 52 for 24 seconds.",
-                    "Armor Up: Increase Armor Rating by 1650 for 24 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
-                    "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
-                ]
-            }
-        },
-        "2+3": {
-            "rank": 3,
-            "prestige": "595",
-            "hp": "2379",
-            "attack": "164",
-            "crit_rate": "508",
-            "crit_dmge": "598",
-            "armor": "71",
-            "block_prof": "3023",
-            "energy_resist": "916",
-            "physical_resist": "-188",
-            "crit_resist": "0",
-            "sig_info": "All Buffs on Silver Surfer have 5 to 50.01% increased Potency.",
-            "url_page": "https://auntm.ai/champions/silversurfer/tier/2",
-            "champid": "silversurfer+2+3",
-            "challenger_rating": 40,
-            "abilities": {
-                "PASSIVE": [
-                    "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
-                    "Each hit deals a Burst of 20.5 Energy Damage for each Unique Buff. This scales with base attack only."
-                ],
-                "THE POWER COSMIC BUFF": [
-                    "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
-                    "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
-                    "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 300 for 12 seconds. Max 3 Stacks."
-                ],
-                "ROTATING BUFFS - MAX 2 OF EACH:": [
-                    "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
-                    "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
-                    "Fury: Increase Attack Rating by 82 for 24 seconds.",
-                    "Armor Up: Increase Armor Rating by 1700 for 24 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
-                    "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
-                ]
-            }
-        },
-        "3+1": {
-            "rank": 1,
-            "prestige": "516",
-            "hp": "2057",
-            "attack": "142",
-            "crit_rate": "508",
-            "crit_dmge": "598",
-            "armor": "71",
-            "block_prof": "3023",
-            "energy_resist": "916",
-            "physical_resist": "-188",
-            "crit_resist": "0",
-            "sig_info": "All Buffs on Silver Surfer have 5 to 50.01% increased Potency.",
-            "url_page": "https://auntm.ai/champions/silversurfer/tier/3",
-            "champid": "silversurfer+3+1",
-            "challenger_rating": 40,
-            "abilities": {
-                "PASSIVE": [
-                    "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
-                    "Each hit deals a Burst of 17.75 Energy Damage for each Unique Buff. This scales with base attack only."
-                ],
-                "THE POWER COSMIC BUFF": [
-                    "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
-                    "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
-                    "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 300 for 12 seconds. Max 3 Stacks."
-                ],
-                "ROTATING BUFFS - MAX 2 OF EACH:": [
-                    "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
-                    "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
-                    "Fury: Increase Attack Rating by 71 for 24 seconds.",
-                    "Armor Up: Increase Armor Rating by 1700 for 24 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
-                    "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
-                ]
-            }
-        },
-        "3+2": {
-            "rank": 2,
-            "prestige": "824",
-            "hp": "3291",
-            "attack": "227",
-            "crit_rate": "523",
-            "crit_dmge": "615",
-            "armor": "93",
-            "block_prof": "3112",
-            "energy_resist": "943",
-            "physical_resist": "-194",
-            "crit_resist": "0",
-            "sig_info": "All Buffs on Silver Surfer have 5 to 50.01% increased Potency.",
-            "url_page": "https://auntm.ai/champions/silversurfer/tier/3",
-            "champid": "silversurfer+3+2",
-            "challenger_rating": 50,
-            "abilities": {
-                "PASSIVE": [
-                    "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
-                    "Each hit deals a Burst of 28.38 Energy Damage for each Unique Buff. This scales with base attack only."
-                ],
-                "THE POWER COSMIC BUFF": [
-                    "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
-                    "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
-                    "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 308.82 for 12 seconds. Max 3 Stacks."
-                ],
-                "ROTATING BUFFS - MAX 2 OF EACH:": [
-                    "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
-                    "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
-                    "Fury: Increase Attack Rating by 113.5 for 24 seconds.",
-                    "Armor Up: Increase Armor Rating by 1750 for 24 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
-                    "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
-                ]
-            }
-        },
-        "3+3": {
-            "rank": 3,
-            "prestige": "1151",
-            "hp": "4603",
-            "attack": "317",
-            "crit_rate": "538",
-            "crit_dmge": "633",
-            "armor": "115",
-            "block_prof": "3200",
-            "energy_resist": "970",
-            "physical_resist": "-200",
-            "crit_resist": "0",
-            "sig_info": "All Buffs on Silver Surfer have 5 to 50.01% increased Potency.",
-            "url_page": "https://auntm.ai/champions/silversurfer/tier/3",
-            "champid": "silversurfer+3+3",
-            "challenger_rating": 60,
-            "abilities": {
-                "PASSIVE": [
-                    "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
-                    "Each hit deals a Burst of 39.63 Energy Damage for each Unique Buff. This scales with base attack only."
-                ],
-                "THE POWER COSMIC BUFF": [
-                    "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
-                    "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
-                    "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 317.65 for 12 seconds. Max 3 Stacks."
-                ],
-                "ROTATING BUFFS - MAX 2 OF EACH:": [
-                    "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
-                    "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
-                    "Fury: Increase Attack Rating by 158.5 for 24 seconds.",
-                    "Armor Up: Increase Armor Rating by 1800 for 24 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
-                    "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
-                ]
-            }
-        },
-        "3+4": {
-            "rank": 4,
-            "prestige": "1584",
-            "hp": "6321",
-            "attack": "436",
-            "crit_rate": "553",
-            "crit_dmge": "650",
-            "armor": "140",
-            "block_prof": "3289",
-            "energy_resist": "997",
-            "physical_resist": "-205",
-            "crit_resist": "0",
-            "sig_info": "All Buffs on Silver Surfer have 5 to 50.01% increased Potency.",
-            "url_page": "https://auntm.ai/champions/silversurfer/tier/3",
-            "champid": "silversurfer+3+4",
-            "challenger_rating": 70,
-            "abilities": {
-                "PASSIVE": [
-                    "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
-                    "Each hit deals a Burst of 54.5 Energy Damage for each Unique Buff. This scales with base attack only."
-                ],
-                "THE POWER COSMIC BUFF": [
-                    "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
-                    "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
-                    "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 326.47 for 12 seconds. Max 3 Stacks."
-                ],
-                "ROTATING BUFFS - MAX 2 OF EACH:": [
-                    "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
-                    "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
-                    "Fury: Increase Attack Rating by 218 for 24 seconds.",
-                    "Armor Up: Increase Armor Rating by 1850 for 24 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
-                    "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
-                ]
-            }
-        },
-        "4+1": {
-            "rank": 1,
-            "prestige": "1152",
-            "hp": "4600",
-            "attack": "317",
-            "crit_rate": "538",
-            "crit_dmge": "633",
-            "armor": "157",
-            "block_prof": "3200",
-            "energy_resist": "970",
-            "physical_resist": "-200",
-            "crit_resist": "0",
-            "sig_info": "All Buffs on Silver Surfer have 5 to 50.01% increased Potency.",
-            "url_page": "https://auntm.ai/champions/silversurfer/tier/4",
-            "champid": "silversurfer+4+1",
-            "challenger_rating": 60,
-            "abilities": {
-                "PASSIVE": [
-                    "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
-                    "Each hit deals a Burst of 39.63 Energy Damage for each Unique Buff. This scales with base attack only."
-                ],
-                "THE POWER COSMIC BUFF": [
-                    "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
-                    "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
-                    "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 317.65 for 12 seconds. Max 3 Stacks."
-                ],
-                "ROTATING BUFFS - MAX 2 OF EACH:": [
-                    "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
-                    "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
-                    "Fury: Increase Attack Rating by 158.5 for 24 seconds.",
-                    "Armor Up: Increase Armor Rating by 1800 for 24 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
-                    "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
-                ]
-            }
-        },
-        "4+2": {
-            "rank": 2,
-            "prestige": "1619",
-            "hp": "6452",
-            "attack": "445",
-            "crit_rate": "553",
-            "crit_dmge": "650",
-            "armor": "183",
-            "block_prof": "3289",
-            "energy_resist": "997",
-            "physical_resist": "-205",
-            "crit_resist": "0",
-            "sig_info": "All Buffs on Silver Surfer have 5 to 50.01% increased Potency.",
-            "url_page": "https://auntm.ai/champions/silversurfer/tier/4",
-            "champid": "silversurfer+4+2",
-            "challenger_rating": 70,
-            "abilities": {
-                "PASSIVE": [
-                    "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
-                    "Each hit deals a Burst of 55.63 Energy Damage for each Unique Buff. This scales with base attack only."
-                ],
-                "THE POWER COSMIC BUFF": [
-                    "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
-                    "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
-                    "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 326.47 for 12 seconds. Max 3 Stacks."
-                ],
-                "ROTATING BUFFS - MAX 2 OF EACH:": [
-                    "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
-                    "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
-                    "Fury: Increase Attack Rating by 222.5 for 24 seconds.",
-                    "Armor Up: Increase Armor Rating by 1850 for 24 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
-                    "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
-                ]
-            }
-        },
-        "4+3": {
-            "rank": 3,
-            "prestige": "2265",
-            "hp": "9040",
-            "attack": "623",
-            "crit_rate": "568",
-            "crit_dmge": "668",
-            "armor": "212",
-            "block_prof": "3378",
-            "energy_resist": "1024",
-            "physical_resist": "-211",
-            "crit_resist": "0",
-            "sig_info": "All Buffs on Silver Surfer have 5 to 50.01% increased Potency.",
-            "url_page": "https://auntm.ai/champions/silversurfer/tier/4",
-            "champid": "silversurfer+4+3",
-            "challenger_rating": 80,
-            "abilities": {
-                "PASSIVE": [
-                    "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
-                    "Each hit deals a Burst of 77.88 Energy Damage for each Unique Buff. This scales with base attack only."
-                ],
-                "THE POWER COSMIC BUFF": [
-                    "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
-                    "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
-                    "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 335.29 for 12 seconds. Max 3 Stacks."
-                ],
-                "ROTATING BUFFS - MAX 2 OF EACH:": [
-                    "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
-                    "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
-                    "Fury: Increase Attack Rating by 311.5 for 24 seconds.",
-                    "Armor Up: Increase Armor Rating by 1900 for 24 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
-                    "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
-                ]
-            }
-        },
-        "4+4": {
-            "rank": 4,
-            "prestige": "2980",
-            "hp": "11879",
-            "attack": "818",
-            "crit_rate": "583",
-            "crit_dmge": "686",
-            "armor": "242",
-            "block_prof": "3467",
-            "energy_resist": "1050",
-            "physical_resist": "-216",
-            "crit_resist": "0",
-            "sig_info": "All Buffs on Silver Surfer have 5 to 50.01% increased Potency.",
-            "url_page": "https://auntm.ai/champions/silversurfer/tier/4",
-            "champid": "silversurfer+4+4",
-            "challenger_rating": 90,
-            "abilities": {
-                "PASSIVE": [
-                    "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
-                    "Each hit deals a Burst of 102.25 Energy Damage for each Unique Buff. This scales with base attack only."
-                ],
-                "THE POWER COSMIC BUFF": [
-                    "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
-                    "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
-                    "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 344.12 for 12 seconds. Max 3 Stacks."
-                ],
-                "ROTATING BUFFS - MAX 2 OF EACH:": [
-                    "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
-                    "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
-                    "Fury: Increase Attack Rating by 409 for 24 seconds.",
-                    "Armor Up: Increase Armor Rating by 1950 for 24 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
-                    "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
-                ]
-            }
-        },
-        "4+5": {
-            "rank": 5,
-            "prestige": "3976",
-            "hp": "15850",
-            "attack": "1092",
-            "crit_rate": "598",
-            "crit_dmge": "703",
-            "armor": "273",
-            "block_prof": "3556",
-            "energy_resist": "1077",
-            "physical_resist": "-222",
-            "crit_resist": "0",
-            "sig_info": "All Buffs on Silver Surfer have 5 to 50.01% increased Potency.",
-            "url_page": "https://auntm.ai/champions/silversurfer/tier/4",
-            "champid": "silversurfer+4+5",
-            "challenger_rating": 100,
-            "abilities": {
-                "PASSIVE": [
-                    "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
-                    "Each hit deals a Burst of 136.5 Energy Damage for each Unique Buff. This scales with base attack only."
-                ],
-                "THE POWER COSMIC BUFF": [
-                    "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
-                    "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
-                    "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 352.94 for 12 seconds. Max 3 Stacks."
-                ],
-                "ROTATING BUFFS - MAX 2 OF EACH:": [
-                    "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
-                    "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
-                    "Fury: Increase Attack Rating by 546 for 24 seconds.",
-                    "Armor Up: Increase Armor Rating by 2000 for 24 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
-                    "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
-                ]
-            }
-        },
-        "5+1": {
-            "rank": 1,
-            "prestige": "2377",
-            "hp": "9459",
-            "attack": "652",
-            "crit_rate": "568",
-            "crit_dmge": "668",
-            "armor": "362",
-            "block_prof": "3378",
-            "energy_resist": "1024",
-            "physical_resist": "-211",
-            "crit_resist": "0",
-            "sig_info": "All Buffs on Silver Surfer have 5 to 50% increased Potency.",
-            "url_page": "https://auntm.ai/champions/silversurfer/tier/5",
-            "champid": "silversurfer+5+1",
-            "challenger_rating": 80,
-            "abilities": {
-                "PASSIVE": [
-                    "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
-                    "Each hit deals a Burst of 81.5 Energy Damage for each Unique Buff. This scales with base attack only."
-                ],
-                "THE POWER COSMIC BUFF": [
-                    "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
-                    "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
-                    "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 335.29 for 12 seconds. Max 3 Stacks."
-                ],
-                "ROTATING BUFFS - MAX 2 OF EACH:": [
-                    "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
-                    "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
-                    "Fury: Increase Attack Rating by 326 for 24 seconds.",
-                    "Armor Up: Increase Armor Rating by 1900 for 24 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
-                    "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
-                ]
-            }
-        },
-        "5+2": {
-            "rank": 2,
-            "prestige": "3140",
-            "hp": "12495",
-            "attack": "861",
-            "crit_rate": "583",
-            "crit_dmge": "686",
-            "armor": "400",
-            "block_prof": "3467",
-            "energy_resist": "1050",
-            "physical_resist": "-216",
-            "crit_resist": "0",
-            "sig_info": "All Buffs on Silver Surfer have 5 to 50% increased Potency.",
-            "url_page": "https://auntm.ai/champions/silversurfer/tier/5",
-            "champid": "silversurfer+5+2",
-            "challenger_rating": 90,
-            "abilities": {
-                "PASSIVE": [
-                    "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
-                    "Each hit deals a Burst of 107.63 Energy Damage for each Unique Buff. This scales with base attack only."
-                ],
-                "THE POWER COSMIC BUFF": [
-                    "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
-                    "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
-                    "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 344.12 for 12 seconds. Max 3 Stacks."
-                ],
-                "ROTATING BUFFS - MAX 2 OF EACH:": [
-                    "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
-                    "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
-                    "Fury: Increase Attack Rating by 430.5 for 24 seconds.",
-                    "Armor Up: Increase Armor Rating by 1950 for 24 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
-                    "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
-                ]
-            }
-        },
-        "5+3": {
-            "rank": 3,
-            "prestige": "4395",
-            "hp": "17467",
-            "attack": "1203",
-            "crit_rate": "598",
-            "crit_dmge": "703",
-            "armor": "440",
-            "block_prof": "3556",
-            "energy_resist": "1077",
-            "physical_resist": "-222",
-            "crit_resist": "0",
-            "sig_info": "All Buffs on Silver Surfer have 5 to 50% increased Potency.",
-            "url_page": "https://auntm.ai/champions/silversurfer/tier/5",
-            "champid": "silversurfer+5+3",
-            "challenger_rating": 100,
-            "abilities": {
-                "PASSIVE": [
-                    "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
-                    "Each hit deals a Burst of 150.38 Energy Damage for each Unique Buff. This scales with base attack only."
-                ],
-                "THE POWER COSMIC BUFF": [
-                    "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
-                    "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
-                    "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 352.94 for 12 seconds. Max 3 Stacks."
-                ],
-                "ROTATING BUFFS - MAX 2 OF EACH:": [
-                    "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
-                    "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
-                    "Fury: Increase Attack Rating by 601.5 for 24 seconds.",
-                    "Armor Up: Increase Armor Rating by 2000 for 24 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
-                    "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
-                ]
-            }
-        },
-        "5+4": {
-            "rank": 4,
-            "prestige": "5919",
-            "hp": "23537",
-            "attack": "1621",
-            "crit_rate": "613",
-            "crit_dmge": "721",
-            "armor": "481",
-            "block_prof": "3645",
-            "energy_resist": "1104",
-            "physical_resist": "-227",
-            "crit_resist": "0",
-            "sig_info": "All Buffs on Silver Surfer have 5 to 50% increased Potency.",
-            "url_page": "https://auntm.ai/champions/silversurfer/tier/5",
-            "champid": "silversurfer+5+4",
-            "challenger_rating": 110,
-            "abilities": {
-                "PASSIVE": [
-                    "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
-                    "Each hit deals a Burst of 202.63 Energy Damage for each Unique Buff. This scales with base attack only."
-                ],
-                "THE POWER COSMIC BUFF": [
-                    "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
-                    "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
-                    "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 361.76 for 12 seconds. Max 3 Stacks."
-                ],
-                "ROTATING BUFFS - MAX 2 OF EACH:": [
-                    "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
-                    "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
-                    "Fury: Increase Attack Rating by 810.5 for 24 seconds.",
-                    "Armor Up: Increase Armor Rating by 2050 for 24 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
-                    "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
-                ]
-            }
-        },
-        "5+5": {
-            "rank": 5,
-            "prestige": "8005",
-            "hp": "31779",
-            "attack": "2189",
-            "crit_rate": "628",
-            "crit_dmge": "738",
-            "armor": "525",
-            "block_prof": "3734",
-            "energy_resist": "1131",
-            "physical_resist": "-233",
-            "crit_resist": "0",
-            "sig_info": "All Buffs on Silver Surfer have 5 to 50% increased Potency.",
-            "url_page": "https://auntm.ai/champions/silversurfer/tier/5",
-            "champid": "silversurfer+5+5",
-            "challenger_rating": 120,
-            "abilities": {
-                "PASSIVE": [
-                    "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
-                    "Each hit deals a Burst of 273.63 Energy Damage for each Unique Buff. This scales with base attack only."
-                ],
-                "THE POWER COSMIC BUFF": [
-                    "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
-                    "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
-                    "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 370.59 for 12 seconds. Max 3 Stacks."
-                ],
-                "ROTATING BUFFS - MAX 2 OF EACH:": [
-                    "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
-                    "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
-                    "Fury: Increase Attack Rating by 1094.5 for 24 seconds.",
-                    "Armor Up: Increase Armor Rating by 2100 for 24 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
-                    "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
-                ]
-            }
-        },
-        "6+1": {
-            "rank": 1,
-            "prestige": "6276",
-            "hp": "24989",
-            "attack": "1721",
-            "crit_rate": "613",
-            "crit_dmge": "721",
-            "armor": "391",
-            "block_prof": "3645",
-            "energy_resist": "1104",
-            "physical_resist": "-227",
-            "crit_resist": "0",
-            "sig_info": "All Buffs on Silver Surfer have 5 to 50% increased Potency.",
-            "url_page": "https://auntm.ai/champions/silversurfer/tier/6",
-            "champid": "silversurfer+6+1",
-            "challenger_rating": 110,
-            "abilities": {
-                "PASSIVE": [
-                    "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
-                    "Each hit deals a Burst of 215.13 Energy Damage for each Unique Buff. This scales with base attack only."
-                ],
-                "THE POWER COSMIC BUFF": [
-                    "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
-                    "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
-                    "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 361.76 for 12 seconds. Max 3 Stacks."
-                ],
-                "ROTATING BUFFS - MAX 2 OF EACH:": [
-                    "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
-                    "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
-                    "Fury: Increase Attack Rating by 860.5 for 24 seconds.",
-                    "Armor Up: Increase Armor Rating by 2050 for 24 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
-                    "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
-                ]
-            }
-        },
-        "6+2": {
-            "rank": 2,
-            "prestige": "8668",
-            "hp": "34517",
-            "attack": "2377",
-            "crit_rate": "628",
-            "crit_dmge": "738",
-            "armor": "431",
-            "block_prof": "3734",
-            "energy_resist": "1131",
-            "physical_resist": "-233",
-            "crit_resist": "0",
-            "sig_info": "All Buffs on Silver Surfer have 5 to 50% increased Potency.",
-            "url_page": "https://auntm.ai/champions/silversurfer/tier/6",
-            "champid": "silversurfer+6+2",
-            "challenger_rating": 120,
-            "abilities": {
-                "PASSIVE": [
-                    "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
-                    "Each hit deals a Burst of 297.13 Energy Damage for each Unique Buff. This scales with base attack only."
-                ],
-                "THE POWER COSMIC BUFF": [
-                    "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
-                    "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
-                    "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 370.59 for 12 seconds. Max 3 Stacks."
-                ],
-                "ROTATING BUFFS - MAX 2 OF EACH:": [
-                    "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
-                    "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
-                    "Fury: Increase Attack Rating by 1188.5 for 24 seconds.",
-                    "Armor Up: Increase Armor Rating by 2100 for 24 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
-                    "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
-                ]
-            }
-        },
-        "6+3": {
-            "rank": 3,
-            "prestige": "10298",
-            "hp": "40949",
-            "attack": "2820",
-            "crit_rate": "643",
-            "crit_dmge": "756",
-            "armor": "472",
-            "block_prof": "3823",
-            "energy_resist": "1158",
-            "physical_resist": "-238",
-            "crit_resist": "0",
-            "sig_info": "All Buffs on Silver Surfer have 5 to 50% increased Potency.",
-            "url_page": "https://auntm.ai/champions/silversurfer/tier/6",
-            "champid": "silversurfer+6+3",
-            "challenger_rating": 130,
-            "abilities": {
-                "PASSIVE": [
-                    "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
-                    "Each hit deals a Burst of 352.5 Energy Damage for each Unique Buff. This scales with base attack only."
-                ],
-                "THE POWER COSMIC BUFF": [
-                    "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
-                    "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
-                    "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 379.41 for 12 seconds. Max 3 Stacks."
-                ],
-                "ROTATING BUFFS - MAX 2 OF EACH:": [
-                    "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
-                    "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
-                    "Fury: Increase Attack Rating by 1410 for 24 seconds.",
-                    "Armor Up: Increase Armor Rating by 2150 for 24 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
-                    "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
-                ]
-            }
-        },
-        "6+4": {
-            "rank": 4,
-            "prestige": "11784",
-            "hp": "46860",
-            "attack": "3227",
-            "crit_rate": "658",
-            "crit_dmge": "773",
-            "armor": "517",
-            "block_prof": "3912",
-            "energy_resist": "1185",
-            "physical_resist": "-244",
-            "crit_resist": "0",
-            "sig_info": "All Buffs on Silver Surfer have 5 to 50% increased Potency.",
-            "url_page": "https://auntm.ai/champions/silversurfer/tier/6",
-            "champid": "silversurfer+6+4",
-            "challenger_rating": 140,
-            "abilities": {
-                "PASSIVE": [
-                    "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
-                    "Each hit deals a Burst of 403.38 Energy Damage for each Unique Buff. This scales with base attack only."
-                ],
-                "THE POWER COSMIC BUFF": [
-                    "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
-                    "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
-                    "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 388.24 for 12 seconds. Max 3 Stacks."
-                ],
-                "ROTATING BUFFS - MAX 2 OF EACH:": [
-                    "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
-                    "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
-                    "Fury: Increase Attack Rating by 1613.5 for 24 seconds.",
-                    "Armor Up: Increase Armor Rating by 2200 for 24 seconds."
-                ],
-                "WHEN CHARGING A HEAVY ATTACK": [
-                    "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
-                ],
-                "SPECIAL ATTACKS": [
-                    "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
-                    "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
-                    "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
-                ]
-            }
-        },
-        "find": {
-            "story_quests": {
-                "act_1": [],
-                "act_2": [],
-                "act_3": [
-                    "3.1.5",
-                    "3.1.6",
-                    "3.2.3",
-                    "3.2.4"
-                ],
-                "act_4": [],
-                "act_5": [],
-                "act_6": [],
-                "act_7": [
-                    "7.1.2",
-                    "7.2.3",
-                    "7.2.6",
-                    "7.3.1",
-                    "7.3.5",
-                    "7.4.1",
-                    "7.4.6"
-                ]
-            }
-        }
+  "champid": "silversurfer",
+  "data": {
+    "2+1": {
+      "rank": 1,
+      "prestige": "286",
+      "hp": "1135",
+      "attack": "79",
+      "crit_rate": "478",
+      "crit_dmge": "563",
+      "armor": "33",
+      "block_prof": "2845",
+      "energy_resist": "862",
+      "physical_resist": "-177",
+      "crit_resist": "0",
+      "sig_info": "All Buffs on Silver Surfer have 5 to 50.01% increased Potency.",
+      "url_page": "https://auntm.ai/champions/silversurfer/tier/2",
+      "champid": "silversurfer+2+1",
+      "challenger_rating": 20,
+      "abilities": {
+        "PASSIVE": [
+          "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
+          "Each hit deals a Burst of 9.88 Energy Damage for each Unique Buff. This scales with base attack only."
+        ],
+        "THE POWER COSMIC BUFF": [
+          "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
+          "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
+          "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 282.35 for 12 seconds. Max 3 Stacks."
+        ],
+        "ROTATING BUFFS - MAX 2 OF EACH:": [
+          "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
+          "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
+          "Fury: Increase Attack Rating by 39.5 for 24 seconds.",
+          "Armor Up: Increase Armor Rating by 1600 for 24 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
+        ],
+        "SPECIAL ATTACKS": [
+          "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
+        ],
+        "SPECIAL ATTACK 1": [
+          "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
+          "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
+        ]
+      }
+    },
+    "2+2": {
+      "rank": 2,
+      "prestige": "376",
+      "hp": "1499",
+      "attack": "104",
+      "crit_rate": "493",
+      "crit_dmge": "580",
+      "armor": "52",
+      "block_prof": "2934",
+      "energy_resist": "889",
+      "physical_resist": "-183",
+      "crit_resist": "0",
+      "sig_info": "All Buffs on Silver Surfer have 5 to 50.01% increased Potency.",
+      "url_page": "https://auntm.ai/champions/silversurfer/tier/2",
+      "champid": "silversurfer+2+2",
+      "challenger_rating": 30,
+      "abilities": {
+        "PASSIVE": [
+          "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
+          "Each hit deals a Burst of 13 Energy Damage for each Unique Buff. This scales with base attack only."
+        ],
+        "THE POWER COSMIC BUFF": [
+          "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
+          "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
+          "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 291.18 for 12 seconds. Max 3 Stacks."
+        ],
+        "ROTATING BUFFS - MAX 2 OF EACH:": [
+          "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
+          "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
+          "Fury: Increase Attack Rating by 52 for 24 seconds.",
+          "Armor Up: Increase Armor Rating by 1650 for 24 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
+        ],
+        "SPECIAL ATTACKS": [
+          "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
+        ],
+        "SPECIAL ATTACK 1": [
+          "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
+          "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
+        ]
+      }
+    },
+    "2+3": {
+      "rank": 3,
+      "prestige": "595",
+      "hp": "2379",
+      "attack": "164",
+      "crit_rate": "508",
+      "crit_dmge": "598",
+      "armor": "71",
+      "block_prof": "3023",
+      "energy_resist": "916",
+      "physical_resist": "-188",
+      "crit_resist": "0",
+      "sig_info": "All Buffs on Silver Surfer have 5 to 50.01% increased Potency.",
+      "url_page": "https://auntm.ai/champions/silversurfer/tier/2",
+      "champid": "silversurfer+2+3",
+      "challenger_rating": 40,
+      "abilities": {
+        "PASSIVE": [
+          "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
+          "Each hit deals a Burst of 20.5 Energy Damage for each Unique Buff. This scales with base attack only."
+        ],
+        "THE POWER COSMIC BUFF": [
+          "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
+          "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
+          "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 300 for 12 seconds. Max 3 Stacks."
+        ],
+        "ROTATING BUFFS - MAX 2 OF EACH:": [
+          "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
+          "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
+          "Fury: Increase Attack Rating by 82 for 24 seconds.",
+          "Armor Up: Increase Armor Rating by 1700 for 24 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
+        ],
+        "SPECIAL ATTACKS": [
+          "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
+        ],
+        "SPECIAL ATTACK 1": [
+          "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
+          "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
+        ]
+      }
+    },
+    "3+1": {
+      "rank": 1,
+      "prestige": "516",
+      "hp": "2057",
+      "attack": "142",
+      "crit_rate": "508",
+      "crit_dmge": "598",
+      "armor": "71",
+      "block_prof": "3023",
+      "energy_resist": "916",
+      "physical_resist": "-188",
+      "crit_resist": "0",
+      "sig_info": "All Buffs on Silver Surfer have 5 to 50.01% increased Potency.",
+      "url_page": "https://auntm.ai/champions/silversurfer/tier/3",
+      "champid": "silversurfer+3+1",
+      "challenger_rating": 40,
+      "abilities": {
+        "PASSIVE": [
+          "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
+          "Each hit deals a Burst of 17.75 Energy Damage for each Unique Buff. This scales with base attack only."
+        ],
+        "THE POWER COSMIC BUFF": [
+          "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
+          "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
+          "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 300 for 12 seconds. Max 3 Stacks."
+        ],
+        "ROTATING BUFFS - MAX 2 OF EACH:": [
+          "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
+          "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
+          "Fury: Increase Attack Rating by 71 for 24 seconds.",
+          "Armor Up: Increase Armor Rating by 1700 for 24 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
+        ],
+        "SPECIAL ATTACKS": [
+          "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
+        ],
+        "SPECIAL ATTACK 1": [
+          "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
+          "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
+        ]
+      }
+    },
+    "3+2": {
+      "rank": 2,
+      "prestige": "824",
+      "hp": "3291",
+      "attack": "227",
+      "crit_rate": "523",
+      "crit_dmge": "615",
+      "armor": "93",
+      "block_prof": "3112",
+      "energy_resist": "943",
+      "physical_resist": "-194",
+      "crit_resist": "0",
+      "sig_info": "All Buffs on Silver Surfer have 5 to 50.01% increased Potency.",
+      "url_page": "https://auntm.ai/champions/silversurfer/tier/3",
+      "champid": "silversurfer+3+2",
+      "challenger_rating": 50,
+      "abilities": {
+        "PASSIVE": [
+          "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
+          "Each hit deals a Burst of 28.38 Energy Damage for each Unique Buff. This scales with base attack only."
+        ],
+        "THE POWER COSMIC BUFF": [
+          "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
+          "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
+          "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 308.82 for 12 seconds. Max 3 Stacks."
+        ],
+        "ROTATING BUFFS - MAX 2 OF EACH:": [
+          "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
+          "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
+          "Fury: Increase Attack Rating by 113.5 for 24 seconds.",
+          "Armor Up: Increase Armor Rating by 1750 for 24 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
+        ],
+        "SPECIAL ATTACKS": [
+          "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
+        ],
+        "SPECIAL ATTACK 1": [
+          "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
+          "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
+        ]
+      }
+    },
+    "3+3": {
+      "rank": 3,
+      "prestige": "1151",
+      "hp": "4603",
+      "attack": "317",
+      "crit_rate": "538",
+      "crit_dmge": "633",
+      "armor": "115",
+      "block_prof": "3200",
+      "energy_resist": "970",
+      "physical_resist": "-200",
+      "crit_resist": "0",
+      "sig_info": "All Buffs on Silver Surfer have 5 to 50.01% increased Potency.",
+      "url_page": "https://auntm.ai/champions/silversurfer/tier/3",
+      "champid": "silversurfer+3+3",
+      "challenger_rating": 60,
+      "abilities": {
+        "PASSIVE": [
+          "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
+          "Each hit deals a Burst of 39.63 Energy Damage for each Unique Buff. This scales with base attack only."
+        ],
+        "THE POWER COSMIC BUFF": [
+          "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
+          "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
+          "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 317.65 for 12 seconds. Max 3 Stacks."
+        ],
+        "ROTATING BUFFS - MAX 2 OF EACH:": [
+          "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
+          "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
+          "Fury: Increase Attack Rating by 158.5 for 24 seconds.",
+          "Armor Up: Increase Armor Rating by 1800 for 24 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
+        ],
+        "SPECIAL ATTACKS": [
+          "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
+        ],
+        "SPECIAL ATTACK 1": [
+          "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
+          "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
+        ]
+      }
+    },
+    "3+4": {
+      "rank": 4,
+      "prestige": "1584",
+      "hp": "6321",
+      "attack": "436",
+      "crit_rate": "553",
+      "crit_dmge": "650",
+      "armor": "140",
+      "block_prof": "3289",
+      "energy_resist": "997",
+      "physical_resist": "-205",
+      "crit_resist": "0",
+      "sig_info": "All Buffs on Silver Surfer have 5 to 50.01% increased Potency.",
+      "url_page": "https://auntm.ai/champions/silversurfer/tier/3",
+      "champid": "silversurfer+3+4",
+      "challenger_rating": 70,
+      "abilities": {
+        "PASSIVE": [
+          "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
+          "Each hit deals a Burst of 54.5 Energy Damage for each Unique Buff. This scales with base attack only."
+        ],
+        "THE POWER COSMIC BUFF": [
+          "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
+          "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
+          "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 326.47 for 12 seconds. Max 3 Stacks."
+        ],
+        "ROTATING BUFFS - MAX 2 OF EACH:": [
+          "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
+          "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
+          "Fury: Increase Attack Rating by 218 for 24 seconds.",
+          "Armor Up: Increase Armor Rating by 1850 for 24 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
+        ],
+        "SPECIAL ATTACKS": [
+          "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
+        ],
+        "SPECIAL ATTACK 1": [
+          "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
+          "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
+        ]
+      }
+    },
+    "4+1": {
+      "rank": 1,
+      "prestige": "1152",
+      "hp": "4600",
+      "attack": "317",
+      "crit_rate": "538",
+      "crit_dmge": "633",
+      "armor": "157",
+      "block_prof": "3200",
+      "energy_resist": "970",
+      "physical_resist": "-200",
+      "crit_resist": "0",
+      "sig_info": "All Buffs on Silver Surfer have 5 to 50.01% increased Potency.",
+      "url_page": "https://auntm.ai/champions/silversurfer/tier/4",
+      "champid": "silversurfer+4+1",
+      "challenger_rating": 60,
+      "abilities": {
+        "PASSIVE": [
+          "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
+          "Each hit deals a Burst of 39.63 Energy Damage for each Unique Buff. This scales with base attack only."
+        ],
+        "THE POWER COSMIC BUFF": [
+          "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
+          "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
+          "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 317.65 for 12 seconds. Max 3 Stacks."
+        ],
+        "ROTATING BUFFS - MAX 2 OF EACH:": [
+          "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
+          "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
+          "Fury: Increase Attack Rating by 158.5 for 24 seconds.",
+          "Armor Up: Increase Armor Rating by 1800 for 24 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
+        ],
+        "SPECIAL ATTACKS": [
+          "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
+        ],
+        "SPECIAL ATTACK 1": [
+          "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
+          "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
+        ]
+      }
+    },
+    "4+2": {
+      "rank": 2,
+      "prestige": "1619",
+      "hp": "6452",
+      "attack": "445",
+      "crit_rate": "553",
+      "crit_dmge": "650",
+      "armor": "183",
+      "block_prof": "3289",
+      "energy_resist": "997",
+      "physical_resist": "-205",
+      "crit_resist": "0",
+      "sig_info": "All Buffs on Silver Surfer have 5 to 50.01% increased Potency.",
+      "url_page": "https://auntm.ai/champions/silversurfer/tier/4",
+      "champid": "silversurfer+4+2",
+      "challenger_rating": 70,
+      "abilities": {
+        "PASSIVE": [
+          "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
+          "Each hit deals a Burst of 55.63 Energy Damage for each Unique Buff. This scales with base attack only."
+        ],
+        "THE POWER COSMIC BUFF": [
+          "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
+          "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
+          "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 326.47 for 12 seconds. Max 3 Stacks."
+        ],
+        "ROTATING BUFFS - MAX 2 OF EACH:": [
+          "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
+          "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
+          "Fury: Increase Attack Rating by 222.5 for 24 seconds.",
+          "Armor Up: Increase Armor Rating by 1850 for 24 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
+        ],
+        "SPECIAL ATTACKS": [
+          "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
+        ],
+        "SPECIAL ATTACK 1": [
+          "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
+          "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
+        ]
+      }
+    },
+    "4+3": {
+      "rank": 3,
+      "prestige": "2265",
+      "hp": "9040",
+      "attack": "623",
+      "crit_rate": "568",
+      "crit_dmge": "668",
+      "armor": "212",
+      "block_prof": "3378",
+      "energy_resist": "1024",
+      "physical_resist": "-211",
+      "crit_resist": "0",
+      "sig_info": "All Buffs on Silver Surfer have 5 to 50.01% increased Potency.",
+      "url_page": "https://auntm.ai/champions/silversurfer/tier/4",
+      "champid": "silversurfer+4+3",
+      "challenger_rating": 80,
+      "abilities": {
+        "PASSIVE": [
+          "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
+          "Each hit deals a Burst of 77.88 Energy Damage for each Unique Buff. This scales with base attack only."
+        ],
+        "THE POWER COSMIC BUFF": [
+          "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
+          "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
+          "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 335.29 for 12 seconds. Max 3 Stacks."
+        ],
+        "ROTATING BUFFS - MAX 2 OF EACH:": [
+          "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
+          "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
+          "Fury: Increase Attack Rating by 311.5 for 24 seconds.",
+          "Armor Up: Increase Armor Rating by 1900 for 24 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
+        ],
+        "SPECIAL ATTACKS": [
+          "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
+        ],
+        "SPECIAL ATTACK 1": [
+          "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
+          "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
+        ]
+      }
+    },
+    "4+4": {
+      "rank": 4,
+      "prestige": "2980",
+      "hp": "11879",
+      "attack": "818",
+      "crit_rate": "583",
+      "crit_dmge": "686",
+      "armor": "242",
+      "block_prof": "3467",
+      "energy_resist": "1050",
+      "physical_resist": "-216",
+      "crit_resist": "0",
+      "sig_info": "All Buffs on Silver Surfer have 5 to 50.01% increased Potency.",
+      "url_page": "https://auntm.ai/champions/silversurfer/tier/4",
+      "champid": "silversurfer+4+4",
+      "challenger_rating": 90,
+      "abilities": {
+        "PASSIVE": [
+          "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
+          "Each hit deals a Burst of 102.25 Energy Damage for each Unique Buff. This scales with base attack only."
+        ],
+        "THE POWER COSMIC BUFF": [
+          "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
+          "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
+          "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 344.12 for 12 seconds. Max 3 Stacks."
+        ],
+        "ROTATING BUFFS - MAX 2 OF EACH:": [
+          "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
+          "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
+          "Fury: Increase Attack Rating by 409 for 24 seconds.",
+          "Armor Up: Increase Armor Rating by 1950 for 24 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
+        ],
+        "SPECIAL ATTACKS": [
+          "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
+        ],
+        "SPECIAL ATTACK 1": [
+          "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
+          "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
+        ]
+      }
+    },
+    "4+5": {
+      "rank": 5,
+      "prestige": "3976",
+      "hp": "15850",
+      "attack": "1092",
+      "crit_rate": "598",
+      "crit_dmge": "703",
+      "armor": "273",
+      "block_prof": "3556",
+      "energy_resist": "1077",
+      "physical_resist": "-222",
+      "crit_resist": "0",
+      "sig_info": "All Buffs on Silver Surfer have 5 to 50.01% increased Potency.",
+      "url_page": "https://auntm.ai/champions/silversurfer/tier/4",
+      "champid": "silversurfer+4+5",
+      "challenger_rating": 100,
+      "abilities": {
+        "PASSIVE": [
+          "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
+          "Each hit deals a Burst of 136.5 Energy Damage for each Unique Buff. This scales with base attack only."
+        ],
+        "THE POWER COSMIC BUFF": [
+          "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
+          "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
+          "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 352.94 for 12 seconds. Max 3 Stacks."
+        ],
+        "ROTATING BUFFS - MAX 2 OF EACH:": [
+          "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
+          "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
+          "Fury: Increase Attack Rating by 546 for 24 seconds.",
+          "Armor Up: Increase Armor Rating by 2000 for 24 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
+        ],
+        "SPECIAL ATTACKS": [
+          "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
+        ],
+        "SPECIAL ATTACK 1": [
+          "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
+          "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
+        ]
+      }
+    },
+    "5+1": {
+      "rank": 1,
+      "prestige": "2377",
+      "hp": "9459",
+      "attack": "652",
+      "crit_rate": "568",
+      "crit_dmge": "668",
+      "armor": "362",
+      "block_prof": "3378",
+      "energy_resist": "1024",
+      "physical_resist": "-211",
+      "crit_resist": "0",
+      "sig_info": "All Buffs on Silver Surfer have 5 to 50% increased Potency.",
+      "url_page": "https://auntm.ai/champions/silversurfer/tier/5",
+      "champid": "silversurfer+5+1",
+      "challenger_rating": 80,
+      "abilities": {
+        "PASSIVE": [
+          "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
+          "Each hit deals a Burst of 81.5 Energy Damage for each Unique Buff. This scales with base attack only."
+        ],
+        "THE POWER COSMIC BUFF": [
+          "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
+          "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
+          "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 335.29 for 12 seconds. Max 3 Stacks."
+        ],
+        "ROTATING BUFFS - MAX 2 OF EACH:": [
+          "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
+          "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
+          "Fury: Increase Attack Rating by 326 for 24 seconds.",
+          "Armor Up: Increase Armor Rating by 1900 for 24 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
+        ],
+        "SPECIAL ATTACKS": [
+          "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
+        ],
+        "SPECIAL ATTACK 1": [
+          "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
+          "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
+        ]
+      }
+    },
+    "5+2": {
+      "rank": 2,
+      "prestige": "3140",
+      "hp": "12495",
+      "attack": "861",
+      "crit_rate": "583",
+      "crit_dmge": "686",
+      "armor": "400",
+      "block_prof": "3467",
+      "energy_resist": "1050",
+      "physical_resist": "-216",
+      "crit_resist": "0",
+      "sig_info": "All Buffs on Silver Surfer have 5 to 50% increased Potency.",
+      "url_page": "https://auntm.ai/champions/silversurfer/tier/5",
+      "champid": "silversurfer+5+2",
+      "challenger_rating": 90,
+      "abilities": {
+        "PASSIVE": [
+          "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
+          "Each hit deals a Burst of 107.63 Energy Damage for each Unique Buff. This scales with base attack only."
+        ],
+        "THE POWER COSMIC BUFF": [
+          "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
+          "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
+          "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 344.12 for 12 seconds. Max 3 Stacks."
+        ],
+        "ROTATING BUFFS - MAX 2 OF EACH:": [
+          "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
+          "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
+          "Fury: Increase Attack Rating by 430.5 for 24 seconds.",
+          "Armor Up: Increase Armor Rating by 1950 for 24 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
+        ],
+        "SPECIAL ATTACKS": [
+          "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
+        ],
+        "SPECIAL ATTACK 1": [
+          "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
+          "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
+        ]
+      }
+    },
+    "5+3": {
+      "rank": 3,
+      "prestige": "4395",
+      "hp": "17467",
+      "attack": "1203",
+      "crit_rate": "598",
+      "crit_dmge": "703",
+      "armor": "440",
+      "block_prof": "3556",
+      "energy_resist": "1077",
+      "physical_resist": "-222",
+      "crit_resist": "0",
+      "sig_info": "All Buffs on Silver Surfer have 5 to 50% increased Potency.",
+      "url_page": "https://auntm.ai/champions/silversurfer/tier/5",
+      "champid": "silversurfer+5+3",
+      "challenger_rating": 100,
+      "abilities": {
+        "PASSIVE": [
+          "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
+          "Each hit deals a Burst of 150.38 Energy Damage for each Unique Buff. This scales with base attack only."
+        ],
+        "THE POWER COSMIC BUFF": [
+          "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
+          "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
+          "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 352.94 for 12 seconds. Max 3 Stacks."
+        ],
+        "ROTATING BUFFS - MAX 2 OF EACH:": [
+          "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
+          "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
+          "Fury: Increase Attack Rating by 601.5 for 24 seconds.",
+          "Armor Up: Increase Armor Rating by 2000 for 24 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
+        ],
+        "SPECIAL ATTACKS": [
+          "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
+        ],
+        "SPECIAL ATTACK 1": [
+          "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
+          "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
+        ]
+      }
+    },
+    "5+4": {
+      "rank": 4,
+      "prestige": "5919",
+      "hp": "23537",
+      "attack": "1621",
+      "crit_rate": "613",
+      "crit_dmge": "721",
+      "armor": "481",
+      "block_prof": "3645",
+      "energy_resist": "1104",
+      "physical_resist": "-227",
+      "crit_resist": "0",
+      "sig_info": "All Buffs on Silver Surfer have 5 to 50% increased Potency.",
+      "url_page": "https://auntm.ai/champions/silversurfer/tier/5",
+      "champid": "silversurfer+5+4",
+      "challenger_rating": 110,
+      "abilities": {
+        "PASSIVE": [
+          "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
+          "Each hit deals a Burst of 202.63 Energy Damage for each Unique Buff. This scales with base attack only."
+        ],
+        "THE POWER COSMIC BUFF": [
+          "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
+          "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
+          "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 361.76 for 12 seconds. Max 3 Stacks."
+        ],
+        "ROTATING BUFFS - MAX 2 OF EACH:": [
+          "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
+          "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
+          "Fury: Increase Attack Rating by 810.5 for 24 seconds.",
+          "Armor Up: Increase Armor Rating by 2050 for 24 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
+        ],
+        "SPECIAL ATTACKS": [
+          "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
+        ],
+        "SPECIAL ATTACK 1": [
+          "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
+          "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
+        ]
+      }
+    },
+    "5+5": {
+      "rank": 5,
+      "prestige": "8005",
+      "hp": "31779",
+      "attack": "2189",
+      "crit_rate": "628",
+      "crit_dmge": "738",
+      "armor": "525",
+      "block_prof": "3734",
+      "energy_resist": "1131",
+      "physical_resist": "-233",
+      "crit_resist": "0",
+      "sig_info": "All Buffs on Silver Surfer have 5 to 50% increased Potency.",
+      "url_page": "https://auntm.ai/champions/silversurfer/tier/5",
+      "champid": "silversurfer+5+5",
+      "challenger_rating": 120,
+      "abilities": {
+        "PASSIVE": [
+          "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
+          "Each hit deals a Burst of 273.63 Energy Damage for each Unique Buff. This scales with base attack only."
+        ],
+        "THE POWER COSMIC BUFF": [
+          "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
+          "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
+          "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 370.59 for 12 seconds. Max 3 Stacks."
+        ],
+        "ROTATING BUFFS - MAX 2 OF EACH:": [
+          "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
+          "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
+          "Fury: Increase Attack Rating by 1094.5 for 24 seconds.",
+          "Armor Up: Increase Armor Rating by 2100 for 24 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
+        ],
+        "SPECIAL ATTACKS": [
+          "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
+        ],
+        "SPECIAL ATTACK 1": [
+          "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
+          "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
+        ]
+      }
+    },
+    "6+1": {
+      "rank": 1,
+      "prestige": "6276",
+      "hp": "24989",
+      "attack": "1721",
+      "crit_rate": "613",
+      "crit_dmge": "721",
+      "armor": "391",
+      "block_prof": "3645",
+      "energy_resist": "1104",
+      "physical_resist": "-227",
+      "crit_resist": "0",
+      "sig_info": "All Buffs on Silver Surfer have 5 to 50% increased Potency.",
+      "url_page": "https://auntm.ai/champions/silversurfer/tier/6",
+      "champid": "silversurfer+6+1",
+      "challenger_rating": 110,
+      "abilities": {
+        "PASSIVE": [
+          "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
+          "Each hit deals a Burst of 215.13 Energy Damage for each Unique Buff. This scales with base attack only."
+        ],
+        "THE POWER COSMIC BUFF": [
+          "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
+          "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
+          "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 361.76 for 12 seconds. Max 3 Stacks."
+        ],
+        "ROTATING BUFFS - MAX 2 OF EACH:": [
+          "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
+          "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
+          "Fury: Increase Attack Rating by 860.5 for 24 seconds.",
+          "Armor Up: Increase Armor Rating by 2050 for 24 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
+        ],
+        "SPECIAL ATTACKS": [
+          "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
+        ],
+        "SPECIAL ATTACK 1": [
+          "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
+          "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
+        ]
+      }
+    },
+    "6+2": {
+      "rank": 2,
+      "prestige": "8668",
+      "hp": "34517",
+      "attack": "2377",
+      "crit_rate": "628",
+      "crit_dmge": "738",
+      "armor": "431",
+      "block_prof": "3734",
+      "energy_resist": "1131",
+      "physical_resist": "-233",
+      "crit_resist": "0",
+      "sig_info": "All Buffs on Silver Surfer have 5 to 50% increased Potency.",
+      "url_page": "https://auntm.ai/champions/silversurfer/tier/6",
+      "champid": "silversurfer+6+2",
+      "challenger_rating": 120,
+      "abilities": {
+        "PASSIVE": [
+          "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
+          "Each hit deals a Burst of 297.13 Energy Damage for each Unique Buff. This scales with base attack only."
+        ],
+        "THE POWER COSMIC BUFF": [
+          "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
+          "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
+          "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 370.59 for 12 seconds. Max 3 Stacks."
+        ],
+        "ROTATING BUFFS - MAX 2 OF EACH:": [
+          "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
+          "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
+          "Fury: Increase Attack Rating by 1188.5 for 24 seconds.",
+          "Armor Up: Increase Armor Rating by 2100 for 24 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
+        ],
+        "SPECIAL ATTACKS": [
+          "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
+        ],
+        "SPECIAL ATTACK 1": [
+          "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
+          "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
+        ]
+      }
+    },
+    "6+3": {
+      "rank": 3,
+      "prestige": "10298",
+      "hp": "40949",
+      "attack": "2820",
+      "crit_rate": "643",
+      "crit_dmge": "756",
+      "armor": "472",
+      "block_prof": "3823",
+      "energy_resist": "1158",
+      "physical_resist": "-238",
+      "crit_resist": "0",
+      "sig_info": "All Buffs on Silver Surfer have 5 to 50% increased Potency.",
+      "url_page": "https://auntm.ai/champions/silversurfer/tier/6",
+      "champid": "silversurfer+6+3",
+      "challenger_rating": 130,
+      "abilities": {
+        "PASSIVE": [
+          "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
+          "Each hit deals a Burst of 352.5 Energy Damage for each Unique Buff. This scales with base attack only."
+        ],
+        "THE POWER COSMIC BUFF": [
+          "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
+          "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
+          "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 379.41 for 12 seconds. Max 3 Stacks."
+        ],
+        "ROTATING BUFFS - MAX 2 OF EACH:": [
+          "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
+          "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
+          "Fury: Increase Attack Rating by 1410 for 24 seconds.",
+          "Armor Up: Increase Armor Rating by 2150 for 24 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
+        ],
+        "SPECIAL ATTACKS": [
+          "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
+        ],
+        "SPECIAL ATTACK 1": [
+          "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
+          "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
+        ]
+      }
+    },
+    "6+4": {
+      "rank": 4,
+      "prestige": "11784",
+      "hp": "46860",
+      "attack": "3227",
+      "crit_rate": "658",
+      "crit_dmge": "773",
+      "armor": "517",
+      "block_prof": "3912",
+      "energy_resist": "1185",
+      "physical_resist": "-244",
+      "crit_resist": "0",
+      "sig_info": "All Buffs on Silver Surfer have 5 to 50% increased Potency.",
+      "url_page": "https://auntm.ai/champions/silversurfer/tier/6",
+      "champid": "silversurfer+6+4",
+      "challenger_rating": 140,
+      "abilities": {
+        "PASSIVE": [
+          "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
+          "Each hit deals a Burst of 403.38 Energy Damage for each Unique Buff. This scales with base attack only."
+        ],
+        "THE POWER COSMIC BUFF": [
+          "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
+          "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
+          "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 388.24 for 12 seconds. Max 3 Stacks."
+        ],
+        "ROTATING BUFFS - MAX 2 OF EACH:": [
+          "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
+          "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
+          "Fury: Increase Attack Rating by 1613.5 for 24 seconds.",
+          "Armor Up: Increase Armor Rating by 2200 for 24 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
+        ],
+        "SPECIAL ATTACKS": [
+          "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
+        ],
+        "SPECIAL ATTACK 1": [
+          "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
+          "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
+        ]
+      }
+    },
+    "1+1": {
+      "rank": 1,
+      "prestige": 224,
+      "hp": 889,
+      "attack": 62,
+      "crit_rate": 463,
+      "crit_dmge": 545,
+      "armor": 0,
+      "block_prof": 2756,
+      "energy_resist": 835,
+      "physical_resist": -172,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/silversurfer/tier/1",
+      "champid": "silversurfer+1+1",
+      "challenger_rating": 10,
+      "abilities": {
+        "PASSIVE": [
+          "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
+          "Each hit deals a Burst of 7.75 Energy Damage for each Unique Buff. This scales with base attack only."
+        ],
+        "THE POWER COSMIC BUFF": [
+          "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
+          "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
+          "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 273.53 for 12 seconds. Max 3 Stacks."
+        ],
+        "ROTATING BUFFS - MAX 2 OF EACH:": [
+          "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
+          "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
+          "Fury: Increase Attack Rating by 31 for 24 seconds.",
+          "Armor Up: Increase Armor Rating by 1550 for 24 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
+        ],
+        "SPECIAL ATTACKS": [
+          "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
+        ],
+        "SPECIAL ATTACK 1": [
+          "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
+          "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
+        ]
+      }
+    },
+    "1+2": {
+      "rank": 2,
+      "prestige": 308,
+      "hp": 1229,
+      "attack": 85,
+      "crit_rate": 478,
+      "crit_dmge": 563,
+      "armor": 0,
+      "block_prof": 2845,
+      "energy_resist": 862,
+      "physical_resist": -177,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/silversurfer/tier/1",
+      "champid": "silversurfer+1+2",
+      "challenger_rating": 20,
+      "abilities": {
+        "PASSIVE": [
+          "Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities.",
+          "Each hit deals a Burst of 10.63 Energy Damage for each Unique Buff. This scales with base attack only."
+        ],
+        "THE POWER COSMIC BUFF": [
+          "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9 seconds.",
+          "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Combat Power Rate, Fury, then Armor Up.",
+          "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by 282.35 for 12 seconds. Max 3 Stacks."
+        ],
+        "ROTATING BUFFS - MAX 2 OF EACH:": [
+          "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
+          "Combat Power Rate: Increase Combat Power Rate by 15% for 15 seconds.",
+          "Fury: Increase Attack Rating by 42.5 for 24 seconds.",
+          "Armor Up: Increase Armor Rating by 1600 for 24 seconds."
+        ],
+        "WHEN CHARGING A HEAVY ATTACK": [
+          "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's 100% chance to Miss for 1.10 second(s)."
+        ],
+        "SPECIAL ATTACKS": [
+          "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends."
+        ],
+        "SPECIAL ATTACK 1": [
+          "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.",
+          "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by 25% for 24 seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
+          "Each Aptitude Buff on Silver Surfer also increases the potency of his Combat Power Rate Buffs by 25%."
+        ]
+      }
+    },
+    "find": {
+      "story_quests": {
+        "act_1": [],
+        "act_2": [],
+        "act_3": ["3.1.5", "3.1.6", "3.2.3", "3.2.4"],
+        "act_4": [],
+        "act_5": [],
+        "act_6": [],
+        "act_7": ["7.1.2", "7.2.3", "7.2.6", "7.3.1", "7.3.5", "7.4.1", "7.4.6"]
+      }
     }
+  },
+  "name": "SILVER SURFER",
+  "class": "Cosmic",
+  "img_portrait": "https://api.rexians.tk/assets/portraits/silversurfer.png",
+  "contact": "PHYSICAL",
+  "tags": ["Hero", "Size: M"],
+  "released": "12/12/2019"
 }

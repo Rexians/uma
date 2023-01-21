@@ -1,1138 +1,1235 @@
 {
-    "name": "TITANIA",
-    "class": "Science",
-    "img_portrait": "https://api.rexians.tk/assets/portraits/titania.png",
-    "contact": "PHYSICAL",
-    "tags": [
-        "Villain",
-        "Size: L"
-    ],
-    "released": "9/8/2022",
-    "champid": "titania",
-    "data": {
-        "2+1": {
-            "challenger_rating": 20,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Titania is immune to Buffs. She doesn\u2019t need your help.",
-                    "+177.78 Physical Resistance."
-                ],
-                "HAYMAKERS": [
-                    "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
-                    "While these effects are active, each hit deals a burst of 3.95 Physical Damage for each Debuff on the Opponent."
-                ],
-                "ADDING INJURY TO INSULT": [
-                    "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +7.9 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
-                    "All of Titania\u2019s Debuffs can be inflicted through Block."
-                ],
-                "LIGHT ATTACKS": [
-                    "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit inflicts a Stagger Debuff for 8 seconds.",
-                    "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
-                    "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
-                ]
-            },
-            "rank": 1,
-            "prestige": 275,
-            "hp": 1295,
-            "attack": 79,
-            "crit_rate": 168,
-            "crit_dmge": 229,
-            "armor": 178,
-            "block_prof": 3106,
-            "energy_resist": 0,
-            "physical_resist": 178,
-            "crit_resist": 178,
-            "sig_info": [
-                "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 20% chance to inflict it twice.",
-                "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 20%."
-            ],
-            "url_page": "https://auntm.ai/champions/titania/tier/2",
-            "champid": "titania+2+1"
-        },
-        "2+2": {
-            "challenger_rating": 30,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Titania is immune to Buffs. She doesn\u2019t need your help.",
-                    "+183.33 Physical Resistance."
-                ],
-                "HAYMAKERS": [
-                    "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
-                    "While these effects are active, each hit deals a burst of 5.25 Physical Damage for each Debuff on the Opponent."
-                ],
-                "ADDING INJURY TO INSULT": [
-                    "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +10.5 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
-                    "All of Titania\u2019s Debuffs can be inflicted through Block."
-                ],
-                "LIGHT ATTACKS": [
-                    "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit inflicts a Stagger Debuff for 8 seconds.",
-                    "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
-                    "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
-                ]
-            },
-            "rank": 2,
-            "prestige": 364,
-            "hp": 1711,
-            "attack": 105,
-            "crit_rate": 174,
-            "crit_dmge": 236,
-            "armor": 204,
-            "block_prof": 3203,
-            "energy_resist": 0,
-            "physical_resist": 184,
-            "crit_resist": 184,
-            "sig_info": [
-                "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 20% chance to inflict it twice.",
-                "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 20%."
-            ],
-            "url_page": "https://auntm.ai/champions/titania/tier/2",
-            "champid": "titania+2+2"
-        },
-        "2+3": {
-            "challenger_rating": 40,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Titania is immune to Buffs. She doesn\u2019t need your help.",
-                    "+188.89 Physical Resistance."
-                ],
-                "HAYMAKERS": [
-                    "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
-                    "While these effects are active, each hit deals a burst of 8.3 Physical Damage for each Debuff on the Opponent."
-                ],
-                "ADDING INJURY TO INSULT": [
-                    "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +16.6 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
-                    "All of Titania\u2019s Debuffs can be inflicted through Block."
-                ],
-                "LIGHT ATTACKS": [
-                    "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit inflicts a Stagger Debuff for 8 seconds.",
-                    "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
-                    "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
-                ]
-            },
-            "rank": 3,
-            "prestige": 577,
-            "hp": 2715,
-            "attack": 166,
-            "crit_rate": 179,
-            "crit_dmge": 243,
-            "armor": 232,
-            "block_prof": 3300,
-            "energy_resist": 0,
-            "physical_resist": 189,
-            "crit_resist": 189,
-            "sig_info": [
-                "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 20% chance to inflict it twice.",
-                "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 20%."
-            ],
-            "url_page": "https://auntm.ai/champions/titania/tier/2",
-            "champid": "titania+2+3"
-        },
-        "3+1": {
-            "challenger_rating": 40,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Titania is immune to Buffs. She doesn\u2019t need your help.",
-                    "+188.89 Physical Resistance."
-                ],
-                "HAYMAKERS": [
-                    "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
-                    "While these effects are active, each hit deals a burst of 7.2 Physical Damage for each Debuff on the Opponent."
-                ],
-                "ADDING INJURY TO INSULT": [
-                    "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +14.4 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
-                    "All of Titania\u2019s Debuffs can be inflicted through Block."
-                ],
-                "LIGHT ATTACKS": [
-                    "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit inflicts a Stagger Debuff for 8 seconds.",
-                    "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
-                    "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
-                ]
-            },
-            "rank": 1,
-            "prestige": 500,
-            "hp": 2348,
-            "attack": 144,
-            "crit_rate": 179,
-            "crit_dmge": 243,
-            "armor": 189,
-            "block_prof": 3300,
-            "energy_resist": 0,
-            "physical_resist": 189,
-            "crit_resist": 189,
-            "sig_info": [
-                "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 20% chance to inflict it twice.",
-                "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 20%."
-            ],
-            "url_page": "https://auntm.ai/champions/titania/tier/3",
-            "champid": "titania+3+1"
-        },
-        "3+2": {
-            "challenger_rating": 50,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Titania is immune to Buffs. She doesn\u2019t need your help.",
-                    "+194.44 Physical Resistance."
-                ],
-                "HAYMAKERS": [
-                    "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
-                    "While these effects are active, each hit deals a burst of 11.45 Physical Damage for each Debuff on the Opponent."
-                ],
-                "ADDING INJURY TO INSULT": [
-                    "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +22.9 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
-                    "All of Titania\u2019s Debuffs can be inflicted through Block."
-                ],
-                "LIGHT ATTACKS": [
-                    "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit inflicts a Stagger Debuff for 8 seconds.",
-                    "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
-                    "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
-                ]
-            },
-            "rank": 2,
-            "prestige": 798,
-            "hp": 3756,
-            "attack": 229,
-            "crit_rate": 184,
-            "crit_dmge": 250,
-            "armor": 217,
-            "block_prof": 3398,
-            "energy_resist": 0,
-            "physical_resist": 195,
-            "crit_resist": 195,
-            "sig_info": [
-                "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 20% chance to inflict it twice.",
-                "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 20%."
-            ],
-            "url_page": "https://auntm.ai/champions/titania/tier/3",
-            "champid": "titania+3+2"
-        },
-        "3+3": {
-            "challenger_rating": 60,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Titania is immune to Buffs. She doesn\u2019t need your help.",
-                    "+200 Physical Resistance."
-                ],
-                "HAYMAKERS": [
-                    "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
-                    "While these effects are active, each hit deals a burst of 16.05 Physical Damage for each Debuff on the Opponent."
-                ],
-                "ADDING INJURY TO INSULT": [
-                    "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +32.1 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
-                    "All of Titania\u2019s Debuffs can be inflicted through Block."
-                ],
-                "LIGHT ATTACKS": [
-                    "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit inflicts a Stagger Debuff for 8 seconds.",
-                    "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
-                    "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
-                ]
-            },
-            "rank": 3,
-            "prestige": 1116,
-            "hp": 5255,
-            "attack": 321,
-            "crit_rate": 189,
-            "crit_dmge": 258,
-            "armor": 246,
-            "block_prof": 3495,
-            "energy_resist": 0,
-            "physical_resist": 200,
-            "crit_resist": 200,
-            "sig_info": [
-                "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 20% chance to inflict it twice.",
-                "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 20%."
-            ],
-            "url_page": "https://auntm.ai/champions/titania/tier/3",
-            "champid": "titania+3+3"
-        },
-        "3+4": {
-            "challenger_rating": 70,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Titania is immune to Buffs. She doesn\u2019t need your help.",
-                    "+205.56 Physical Resistance."
-                ],
-                "HAYMAKERS": [
-                    "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
-                    "While these effects are active, each hit deals a burst of 22 Physical Damage for each Debuff on the Opponent."
-                ],
-                "ADDING INJURY TO INSULT": [
-                    "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +44 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
-                    "All of Titania\u2019s Debuffs can be inflicted through Block."
-                ],
-                "LIGHT ATTACKS": [
-                    "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit inflicts a Stagger Debuff for 8 seconds.",
-                    "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
-                    "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
-                ]
-            },
-            "rank": 4,
-            "prestige": 1533,
-            "hp": 7215,
-            "attack": 440,
-            "crit_rate": 195,
-            "crit_dmge": 265,
-            "armor": 277,
-            "block_prof": 3592,
-            "energy_resist": 0,
-            "physical_resist": 206,
-            "crit_resist": 206,
-            "sig_info": [
-                "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 20% chance to inflict it twice.",
-                "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 20%."
-            ],
-            "url_page": "https://auntm.ai/champions/titania/tier/3",
-            "champid": "titania+3+4"
-        },
-        "4+1": {
-            "challenger_rating": 60,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Titania is immune to Buffs. She doesn\u2019t need your help.",
-                    "+200 Physical Resistance."
-                ],
-                "HAYMAKERS": [
-                    "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
-                    "While these effects are active, each hit deals a burst of 16 Physical Damage for each Debuff on the Opponent."
-                ],
-                "ADDING INJURY TO INSULT": [
-                    "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +32 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
-                    "All of Titania\u2019s Debuffs can be inflicted through Block."
-                ],
-                "LIGHT ATTACKS": [
-                    "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit inflicts a Stagger Debuff for 8 seconds.",
-                    "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
-                    "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
-                ]
-            },
-            "rank": 1,
-            "prestige": 1116,
-            "hp": 5251,
-            "attack": 320,
-            "crit_rate": 189,
-            "crit_dmge": 258,
-            "armor": 200,
-            "block_prof": 3495,
-            "energy_resist": 0,
-            "physical_resist": 200,
-            "crit_resist": 200,
-            "sig_info": [
-                "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 20% chance to inflict it twice.",
-                "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 20%."
-            ],
-            "url_page": "https://auntm.ai/champions/titania/tier/4",
-            "champid": "titania+4+1"
-        },
-        "4+2": {
-            "challenger_rating": 70,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Titania is immune to Buffs. She doesn\u2019t need your help.",
-                    "+205.56 Physical Resistance."
-                ],
-                "HAYMAKERS": [
-                    "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
-                    "While these effects are active, each hit deals a burst of 22.45 Physical Damage for each Debuff on the Opponent."
-                ],
-                "ADDING INJURY TO INSULT": [
-                    "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +44.9 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
-                    "All of Titania\u2019s Debuffs can be inflicted through Block."
-                ],
-                "LIGHT ATTACKS": [
-                    "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit inflicts a Stagger Debuff for 8 seconds.",
-                    "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
-                    "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
-                ]
-            },
-            "rank": 2,
-            "prestige": 1571,
-            "hp": 7365,
-            "attack": 449,
-            "crit_rate": 195,
-            "crit_dmge": 265,
-            "armor": 229,
-            "block_prof": 3592,
-            "energy_resist": 0,
-            "physical_resist": 206,
-            "crit_resist": 206,
-            "sig_info": [
-                "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 20% chance to inflict it twice.",
-                "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 20%."
-            ],
-            "url_page": "https://auntm.ai/champions/titania/tier/4",
-            "champid": "titania+4+2"
-        },
-        "4+3": {
-            "challenger_rating": 80,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Titania is immune to Buffs. She doesn\u2019t need your help.",
-                    "+211.11 Physical Resistance."
-                ],
-                "HAYMAKERS": [
-                    "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
-                    "While these effects are active, each hit deals a burst of 31.45 Physical Damage for each Debuff on the Opponent."
-                ],
-                "ADDING INJURY TO INSULT": [
-                    "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +62.9 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
-                    "All of Titania\u2019s Debuffs can be inflicted through Block."
-                ],
-                "LIGHT ATTACKS": [
-                    "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit inflicts a Stagger Debuff for 8 seconds.",
-                    "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
-                    "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
-                ]
-            },
-            "rank": 3,
-            "prestige": 2199,
-            "hp": 10319,
-            "attack": 629,
-            "crit_rate": 200,
-            "crit_dmge": 272,
-            "armor": 260,
-            "block_prof": 3689,
-            "energy_resist": 0,
-            "physical_resist": 212,
-            "crit_resist": 212,
-            "sig_info": [
-                "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 20% chance to inflict it twice.",
-                "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 20%."
-            ],
-            "url_page": "https://auntm.ai/champions/titania/tier/4",
-            "champid": "titania+4+3"
-        },
-        "4+4": {
-            "challenger_rating": 90,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Titania is immune to Buffs. She doesn\u2019t need your help.",
-                    "+216.67 Physical Resistance."
-                ],
-                "HAYMAKERS": [
-                    "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
-                    "While these effects are active, each hit deals a burst of 41.35 Physical Damage for each Debuff on the Opponent."
-                ],
-                "ADDING INJURY TO INSULT": [
-                    "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +82.7 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
-                    "All of Titania\u2019s Debuffs can be inflicted through Block."
-                ],
-                "LIGHT ATTACKS": [
-                    "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit inflicts a Stagger Debuff for 8 seconds.",
-                    "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
-                    "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
-                ]
-            },
-            "rank": 4,
-            "prestige": 2896,
-            "hp": 13559,
-            "attack": 827,
-            "crit_rate": 205,
-            "crit_dmge": 279,
-            "armor": 292,
-            "block_prof": 3786,
-            "energy_resist": 0,
-            "physical_resist": 217,
-            "crit_resist": 217,
-            "sig_info": [
-                "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 20% chance to inflict it twice.",
-                "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 20%."
-            ],
-            "url_page": "https://auntm.ai/champions/titania/tier/4",
-            "champid": "titania+4+4"
-        },
-        "4+5": {
-            "challenger_rating": 100,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Titania is immune to Buffs. She doesn\u2019t need your help.",
-                    "+222.22 Physical Resistance."
-                ],
-                "HAYMAKERS": [
-                    "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
-                    "While these effects are active, each hit deals a burst of 55.15 Physical Damage for each Debuff on the Opponent."
-                ],
-                "ADDING INJURY TO INSULT": [
-                    "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +110.3 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
-                    "All of Titania\u2019s Debuffs can be inflicted through Block."
-                ],
-                "LIGHT ATTACKS": [
-                    "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit inflicts a Stagger Debuff for 8 seconds.",
-                    "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
-                    "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
-                ]
-            },
-            "rank": 5,
-            "prestige": 3861,
-            "hp": 18092,
-            "attack": 1103,
-            "crit_rate": 210,
-            "crit_dmge": 286,
-            "armor": 326,
-            "block_prof": 3883,
-            "energy_resist": 0,
-            "physical_resist": 223,
-            "crit_resist": 223,
-            "sig_info": [
-                "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 20% chance to inflict it twice.",
-                "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 20%."
-            ],
-            "url_page": "https://auntm.ai/champions/titania/tier/4",
-            "champid": "titania+4+5"
-        },
-        "5+1": {
-            "challenger_rating": 80,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Titania is immune to Buffs. She doesn\u2019t need your help.",
-                    "+211.11 Physical Resistance."
-                ],
-                "HAYMAKERS": [
-                    "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
-                    "While these effects are active, each hit deals a burst of 32.9 Physical Damage for each Debuff on the Opponent."
-                ],
-                "ADDING INJURY TO INSULT": [
-                    "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +65.8 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
-                    "All of Titania\u2019s Debuffs can be inflicted through Block."
-                ],
-                "LIGHT ATTACKS": [
-                    "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit inflicts a Stagger Debuff for 8 seconds.",
-                    "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
-                    "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
-                ]
-            },
-            "rank": 1,
-            "prestige": 2311,
-            "hp": 10797,
-            "attack": 658,
-            "crit_rate": 200,
-            "crit_dmge": 272,
-            "armor": 212,
-            "block_prof": 3689,
-            "energy_resist": 0,
-            "physical_resist": 212,
-            "crit_resist": 212,
-            "sig_info": [
-                "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 30% chance to inflict it twice.",
-                "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 30%."
-            ],
-            "url_page": "https://auntm.ai/champions/titania/tier/5",
-            "champid": "titania+5+1"
-        },
-        "5+2": {
-            "challenger_rating": 90,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Titania is immune to Buffs. She doesn\u2019t need your help.",
-                    "+216.67 Physical Resistance."
-                ],
-                "HAYMAKERS": [
-                    "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
-                    "While these effects are active, each hit deals a burst of 43.5 Physical Damage for each Debuff on the Opponent."
-                ],
-                "ADDING INJURY TO INSULT": [
-                    "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +87 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
-                    "All of Titania\u2019s Debuffs can be inflicted through Block."
-                ],
-                "LIGHT ATTACKS": [
-                    "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit inflicts a Stagger Debuff for 8 seconds.",
-                    "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
-                    "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
-                ]
-            },
-            "rank": 2,
-            "prestige": 3053,
-            "hp": 14262,
-            "attack": 870,
-            "crit_rate": 205,
-            "crit_dmge": 279,
-            "armor": 242,
-            "block_prof": 3786,
-            "energy_resist": 0,
-            "physical_resist": 217,
-            "crit_resist": 217,
-            "sig_info": [
-                "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 30% chance to inflict it twice.",
-                "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 30%."
-            ],
-            "url_page": "https://auntm.ai/champions/titania/tier/5",
-            "champid": "titania+5+2"
-        },
-        "5+3": {
-            "challenger_rating": 100,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Titania is immune to Buffs. She doesn\u2019t need your help.",
-                    "+222.22 Physical Resistance."
-                ],
-                "HAYMAKERS": [
-                    "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
-                    "While these effects are active, each hit deals a burst of 60.8 Physical Damage for each Debuff on the Opponent."
-                ],
-                "ADDING INJURY TO INSULT": [
-                    "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +121.6 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
-                    "All of Titania\u2019s Debuffs can be inflicted through Block."
-                ],
-                "LIGHT ATTACKS": [
-                    "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit inflicts a Stagger Debuff for 8 seconds.",
-                    "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
-                    "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
-                ]
-            },
-            "rank": 3,
-            "prestige": 4278,
-            "hp": 19938,
-            "attack": 1216,
-            "crit_rate": 210,
-            "crit_dmge": 286,
-            "armor": 273,
-            "block_prof": 3883,
-            "energy_resist": 0,
-            "physical_resist": 223,
-            "crit_resist": 223,
-            "sig_info": [
-                "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 30% chance to inflict it twice.",
-                "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 30%."
-            ],
-            "url_page": "https://auntm.ai/champions/titania/tier/5",
-            "champid": "titania+5+3"
-        },
-        "5+4": {
-            "challenger_rating": 110,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Titania is immune to Buffs. She doesn\u2019t need your help.",
-                    "+227.78 Physical Resistance."
-                ],
-                "HAYMAKERS": [
-                    "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
-                    "While these effects are active, each hit deals a burst of 81.9 Physical Damage for each Debuff on the Opponent."
-                ],
-                "ADDING INJURY TO INSULT": [
-                    "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +163.8 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
-                    "All of Titania\u2019s Debuffs can be inflicted through Block."
-                ],
-                "LIGHT ATTACKS": [
-                    "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit inflicts a Stagger Debuff for 8 seconds.",
-                    "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
-                    "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
-                ]
-            },
-            "rank": 4,
-            "prestige": 5762,
-            "hp": 26868,
-            "attack": 1638,
-            "crit_rate": 216,
-            "crit_dmge": 293,
-            "armor": 307,
-            "block_prof": 3980,
-            "energy_resist": 0,
-            "physical_resist": 228,
-            "crit_resist": 228,
-            "sig_info": [
-                "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 30% chance to inflict it twice.",
-                "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 30%."
-            ],
-            "url_page": "https://auntm.ai/champions/titania/tier/5",
-            "champid": "titania+5+4"
-        },
-        "5+5": {
-            "challenger_rating": 120,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Titania is immune to Buffs. She doesn\u2019t need your help.",
-                    "+233.33 Physical Resistance."
-                ],
-                "HAYMAKERS": [
-                    "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
-                    "While these effects are active, each hit deals a burst of 110.55 Physical Damage for each Debuff on the Opponent."
-                ],
-                "ADDING INJURY TO INSULT": [
-                    "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +221.1 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
-                    "All of Titania\u2019s Debuffs can be inflicted through Block."
-                ],
-                "LIGHT ATTACKS": [
-                    "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit inflicts a Stagger Debuff for 8 seconds.",
-                    "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
-                    "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
-                ]
-            },
-            "rank": 5,
-            "prestige": 7797,
-            "hp": 36276,
-            "attack": 2211,
-            "crit_rate": 221,
-            "crit_dmge": 300,
-            "armor": 342,
-            "block_prof": 4077,
-            "energy_resist": 0,
-            "physical_resist": 234,
-            "crit_resist": 234,
-            "sig_info": [
-                "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 30% chance to inflict it twice.",
-                "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 30%."
-            ],
-            "url_page": "https://auntm.ai/champions/titania/tier/5",
-            "champid": "titania+5+5"
-        },
-        "6+1": {
-            "challenger_rating": 110,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Titania is immune to Buffs. She doesn\u2019t need your help.",
-                    "+227.78 Physical Resistance."
-                ],
-                "HAYMAKERS": [
-                    "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
-                    "While these effects are active, each hit deals a burst of 86.95 Physical Damage for each Debuff on the Opponent."
-                ],
-                "ADDING INJURY TO INSULT": [
-                    "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +173.9 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
-                    "All of Titania\u2019s Debuffs can be inflicted through Block."
-                ],
-                "LIGHT ATTACKS": [
-                    "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit inflicts a Stagger Debuff for 8 seconds.",
-                    "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
-                    "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
-                ]
-            },
-            "rank": 1,
-            "prestige": 6102,
-            "hp": 28524,
-            "attack": 1739,
-            "crit_rate": 216,
-            "crit_dmge": 293,
-            "armor": 228,
-            "block_prof": 3980,
-            "energy_resist": 0,
-            "physical_resist": 228,
-            "crit_resist": 228,
-            "sig_info": [
-                "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 30% chance to inflict it twice.",
-                "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 30%."
-            ],
-            "url_page": "https://auntm.ai/champions/titania/tier/6",
-            "champid": "titania+6+1"
-        },
-        "6+2": {
-            "challenger_rating": 120,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Titania is immune to Buffs. She doesn\u2019t need your help.",
-                    "+233.33 Physical Resistance."
-                ],
-                "HAYMAKERS": [
-                    "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
-                    "While these effects are active, each hit deals a burst of 120.1 Physical Damage for each Debuff on the Opponent."
-                ],
-                "ADDING INJURY TO INSULT": [
-                    "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +240.2 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
-                    "All of Titania\u2019s Debuffs can be inflicted through Block."
-                ],
-                "LIGHT ATTACKS": [
-                    "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit inflicts a Stagger Debuff for 8 seconds.",
-                    "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
-                    "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
-                ]
-            },
-            "rank": 2,
-            "prestige": 8428,
-            "hp": 39400,
-            "attack": 2402,
-            "crit_rate": 221,
-            "crit_dmge": 300,
-            "armor": 260,
-            "block_prof": 4077,
-            "energy_resist": 0,
-            "physical_resist": 234,
-            "crit_resist": 234,
-            "sig_info": [
-                "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 30% chance to inflict it twice.",
-                "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 30%."
-            ],
-            "url_page": "https://auntm.ai/champions/titania/tier/6",
-            "champid": "titania+6+2"
-        },
-        "6+3": {
-            "challenger_rating": 130,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Titania is immune to Buffs. She doesn\u2019t need your help.",
-                    "+238.89 Physical Resistance."
-                ],
-                "HAYMAKERS": [
-                    "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
-                    "While these effects are active, each hit deals a burst of 142.45 Physical Damage for each Debuff on the Opponent."
-                ],
-                "ADDING INJURY TO INSULT": [
-                    "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +284.9 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
-                    "All of Titania\u2019s Debuffs can be inflicted through Block."
-                ],
-                "LIGHT ATTACKS": [
-                    "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit inflicts a Stagger Debuff for 8 seconds.",
-                    "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
-                    "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
-                ]
-            },
-            "rank": 3,
-            "prestige": 10020,
-            "hp": 46743,
-            "attack": 2849,
-            "crit_rate": 226,
-            "crit_dmge": 308,
-            "armor": 294,
-            "block_prof": 4174,
-            "energy_resist": 0,
-            "physical_resist": 239,
-            "crit_resist": 239,
-            "sig_info": [
-                "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 30% chance to inflict it twice.",
-                "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 30%."
-            ],
-            "url_page": "https://auntm.ai/champions/titania/tier/6",
-            "champid": "titania+6+3"
-        },
-        "6+4": {
-            "challenger_rating": 140,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "Titania is immune to Buffs. She doesn\u2019t need your help.",
-                    "+244.44 Physical Resistance."
-                ],
-                "HAYMAKERS": [
-                    "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
-                    "While these effects are active, each hit deals a burst of 163 Physical Damage for each Debuff on the Opponent."
-                ],
-                "ADDING INJURY TO INSULT": [
-                    "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +326 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
-                    "All of Titania\u2019s Debuffs can be inflicted through Block."
-                ],
-                "LIGHT ATTACKS": [
-                    "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
-                ],
-                "HEAVY ATTACKS": [
-                    "The first hit inflicts a Stagger Debuff for 8 seconds.",
-                    "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
-                    "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
-                    "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
-                ]
-            },
-            "rank": 4,
-            "prestige": 11468,
-            "hp": 53490,
-            "attack": 3260,
-            "crit_rate": 231,
-            "crit_dmge": 315,
-            "armor": 329,
-            "block_prof": 4271,
-            "energy_resist": 0,
-            "physical_resist": 245,
-            "crit_resist": 245,
-            "sig_info": [
-                "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 30% chance to inflict it twice.",
-                "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 30%."
-            ],
-            "url_page": "https://auntm.ai/champions/titania/tier/6",
-            "champid": "titania+6+4"
-        },
-        "find": {
-            "story_quests": {
-                "act_1": [],
-                "act_2": [],
-                "act_3": [],
-                "act_4": [],
-                "act_5": [],
-                "act_6": [],
-                "act_7": []
-            }
-        }
+  "data": {
+    "1+1": {
+      "challenger_rating": 10,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Titania is immune to Buffs. She doesn\u2019t need your help.",
+          "+172.22 Physical Resistance."
+        ],
+        "HAYMAKERS": [
+          "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
+          "While these effects are active, each hit deals a burst of 3.1 Physical Damage for each Debuff on the Opponent."
+        ],
+        "ADDING INJURY TO INSULT": [
+          "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +6.2 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
+          "All of Titania\u2019s Debuffs can be inflicted through Block."
+        ],
+        "LIGHT ATTACKS": [
+          "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit inflicts a Stagger Debuff for 8 seconds.",
+          "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
+        ],
+        "SPECIAL ATTACK 1": [
+          "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
+          "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
+        ]
+      },
+      "rank": 1,
+      "prestige": 218,
+      "hp": 1014,
+      "attack": 62,
+      "crit_rate": 163,
+      "crit_dmge": 222,
+      "armor": 173,
+      "block_prof": 3009,
+      "energy_resist": 0,
+      "physical_resist": 173,
+      "crit_resist": 173,
+      "sig_info": [],
+      "url_page": "https://auntm.ai/champions/titania/tier/1",
+      "champid": "titania+1+1"
+    },
+    "1+2": {
+      "challenger_rating": 20,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Titania is immune to Buffs. She doesn\u2019t need your help.",
+          "+177.78 Physical Resistance."
+        ],
+        "HAYMAKERS": [
+          "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
+          "While these effects are active, each hit deals a burst of 4.3 Physical Damage for each Debuff on the Opponent."
+        ],
+        "ADDING INJURY TO INSULT": [
+          "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +8.6 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
+          "All of Titania\u2019s Debuffs can be inflicted through Block."
+        ],
+        "LIGHT ATTACKS": [
+          "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit inflicts a Stagger Debuff for 8 seconds.",
+          "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
+        ],
+        "SPECIAL ATTACK 1": [
+          "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
+          "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
+        ]
+      },
+      "rank": 2,
+      "prestige": 298,
+      "hp": 1403,
+      "attack": 86,
+      "crit_rate": 168,
+      "crit_dmge": 229,
+      "armor": 198,
+      "block_prof": 3106,
+      "energy_resist": 0,
+      "physical_resist": 178,
+      "crit_resist": 178,
+      "sig_info": [],
+      "url_page": "https://auntm.ai/champions/titania/tier/1",
+      "champid": "titania+1+2"
+    },
+    "2+1": {
+      "challenger_rating": 20,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Titania is immune to Buffs. She doesn\u2019t need your help.",
+          "+177.78 Physical Resistance."
+        ],
+        "HAYMAKERS": [
+          "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
+          "While these effects are active, each hit deals a burst of 3.95 Physical Damage for each Debuff on the Opponent."
+        ],
+        "ADDING INJURY TO INSULT": [
+          "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +7.9 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
+          "All of Titania\u2019s Debuffs can be inflicted through Block."
+        ],
+        "LIGHT ATTACKS": [
+          "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit inflicts a Stagger Debuff for 8 seconds.",
+          "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
+        ],
+        "SPECIAL ATTACK 1": [
+          "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
+          "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
+        ]
+      },
+      "rank": 1,
+      "prestige": 275,
+      "hp": 1295,
+      "attack": 79,
+      "crit_rate": 168,
+      "crit_dmge": 229,
+      "armor": 178,
+      "block_prof": 3106,
+      "energy_resist": 0,
+      "physical_resist": 178,
+      "crit_resist": 178,
+      "sig_info": [
+        "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 20% chance to inflict it twice.",
+        "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 20%."
+      ],
+      "url_page": "https://auntm.ai/champions/titania/tier/2",
+      "champid": "titania+2+1"
+    },
+    "2+2": {
+      "challenger_rating": 30,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Titania is immune to Buffs. She doesn\u2019t need your help.",
+          "+183.33 Physical Resistance."
+        ],
+        "HAYMAKERS": [
+          "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
+          "While these effects are active, each hit deals a burst of 5.25 Physical Damage for each Debuff on the Opponent."
+        ],
+        "ADDING INJURY TO INSULT": [
+          "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +10.5 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
+          "All of Titania\u2019s Debuffs can be inflicted through Block."
+        ],
+        "LIGHT ATTACKS": [
+          "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit inflicts a Stagger Debuff for 8 seconds.",
+          "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
+        ],
+        "SPECIAL ATTACK 1": [
+          "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
+          "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
+        ]
+      },
+      "rank": 2,
+      "prestige": 364,
+      "hp": 1711,
+      "attack": 105,
+      "crit_rate": 174,
+      "crit_dmge": 236,
+      "armor": 204,
+      "block_prof": 3203,
+      "energy_resist": 0,
+      "physical_resist": 184,
+      "crit_resist": 184,
+      "sig_info": [
+        "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 20% chance to inflict it twice.",
+        "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 20%."
+      ],
+      "url_page": "https://auntm.ai/champions/titania/tier/2",
+      "champid": "titania+2+2"
+    },
+    "2+3": {
+      "challenger_rating": 40,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Titania is immune to Buffs. She doesn\u2019t need your help.",
+          "+188.89 Physical Resistance."
+        ],
+        "HAYMAKERS": [
+          "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
+          "While these effects are active, each hit deals a burst of 8.3 Physical Damage for each Debuff on the Opponent."
+        ],
+        "ADDING INJURY TO INSULT": [
+          "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +16.6 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
+          "All of Titania\u2019s Debuffs can be inflicted through Block."
+        ],
+        "LIGHT ATTACKS": [
+          "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit inflicts a Stagger Debuff for 8 seconds.",
+          "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
+        ],
+        "SPECIAL ATTACK 1": [
+          "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
+          "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
+        ]
+      },
+      "rank": 3,
+      "prestige": 577,
+      "hp": 2715,
+      "attack": 166,
+      "crit_rate": 179,
+      "crit_dmge": 243,
+      "armor": 232,
+      "block_prof": 3300,
+      "energy_resist": 0,
+      "physical_resist": 189,
+      "crit_resist": 189,
+      "sig_info": [
+        "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 20% chance to inflict it twice.",
+        "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 20%."
+      ],
+      "url_page": "https://auntm.ai/champions/titania/tier/2",
+      "champid": "titania+2+3"
+    },
+    "3+1": {
+      "challenger_rating": 40,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Titania is immune to Buffs. She doesn\u2019t need your help.",
+          "+188.89 Physical Resistance."
+        ],
+        "HAYMAKERS": [
+          "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
+          "While these effects are active, each hit deals a burst of 7.2 Physical Damage for each Debuff on the Opponent."
+        ],
+        "ADDING INJURY TO INSULT": [
+          "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +14.4 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
+          "All of Titania\u2019s Debuffs can be inflicted through Block."
+        ],
+        "LIGHT ATTACKS": [
+          "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit inflicts a Stagger Debuff for 8 seconds.",
+          "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
+        ],
+        "SPECIAL ATTACK 1": [
+          "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
+          "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
+        ]
+      },
+      "rank": 1,
+      "prestige": 500,
+      "hp": 2348,
+      "attack": 144,
+      "crit_rate": 179,
+      "crit_dmge": 243,
+      "armor": 189,
+      "block_prof": 3300,
+      "energy_resist": 0,
+      "physical_resist": 189,
+      "crit_resist": 189,
+      "sig_info": [
+        "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 20% chance to inflict it twice.",
+        "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 20%."
+      ],
+      "url_page": "https://auntm.ai/champions/titania/tier/3",
+      "champid": "titania+3+1"
+    },
+    "3+2": {
+      "challenger_rating": 50,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Titania is immune to Buffs. She doesn\u2019t need your help.",
+          "+194.44 Physical Resistance."
+        ],
+        "HAYMAKERS": [
+          "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
+          "While these effects are active, each hit deals a burst of 11.45 Physical Damage for each Debuff on the Opponent."
+        ],
+        "ADDING INJURY TO INSULT": [
+          "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +22.9 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
+          "All of Titania\u2019s Debuffs can be inflicted through Block."
+        ],
+        "LIGHT ATTACKS": [
+          "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit inflicts a Stagger Debuff for 8 seconds.",
+          "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
+        ],
+        "SPECIAL ATTACK 1": [
+          "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
+          "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
+        ]
+      },
+      "rank": 2,
+      "prestige": 798,
+      "hp": 3756,
+      "attack": 229,
+      "crit_rate": 184,
+      "crit_dmge": 250,
+      "armor": 217,
+      "block_prof": 3398,
+      "energy_resist": 0,
+      "physical_resist": 195,
+      "crit_resist": 195,
+      "sig_info": [
+        "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 20% chance to inflict it twice.",
+        "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 20%."
+      ],
+      "url_page": "https://auntm.ai/champions/titania/tier/3",
+      "champid": "titania+3+2"
+    },
+    "3+3": {
+      "challenger_rating": 60,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Titania is immune to Buffs. She doesn\u2019t need your help.",
+          "+200 Physical Resistance."
+        ],
+        "HAYMAKERS": [
+          "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
+          "While these effects are active, each hit deals a burst of 16.05 Physical Damage for each Debuff on the Opponent."
+        ],
+        "ADDING INJURY TO INSULT": [
+          "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +32.1 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
+          "All of Titania\u2019s Debuffs can be inflicted through Block."
+        ],
+        "LIGHT ATTACKS": [
+          "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit inflicts a Stagger Debuff for 8 seconds.",
+          "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
+        ],
+        "SPECIAL ATTACK 1": [
+          "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
+          "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
+        ]
+      },
+      "rank": 3,
+      "prestige": 1116,
+      "hp": 5255,
+      "attack": 321,
+      "crit_rate": 189,
+      "crit_dmge": 258,
+      "armor": 246,
+      "block_prof": 3495,
+      "energy_resist": 0,
+      "physical_resist": 200,
+      "crit_resist": 200,
+      "sig_info": [
+        "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 20% chance to inflict it twice.",
+        "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 20%."
+      ],
+      "url_page": "https://auntm.ai/champions/titania/tier/3",
+      "champid": "titania+3+3"
+    },
+    "3+4": {
+      "challenger_rating": 70,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Titania is immune to Buffs. She doesn\u2019t need your help.",
+          "+205.56 Physical Resistance."
+        ],
+        "HAYMAKERS": [
+          "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
+          "While these effects are active, each hit deals a burst of 22 Physical Damage for each Debuff on the Opponent."
+        ],
+        "ADDING INJURY TO INSULT": [
+          "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +44 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
+          "All of Titania\u2019s Debuffs can be inflicted through Block."
+        ],
+        "LIGHT ATTACKS": [
+          "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit inflicts a Stagger Debuff for 8 seconds.",
+          "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
+        ],
+        "SPECIAL ATTACK 1": [
+          "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
+          "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
+        ]
+      },
+      "rank": 4,
+      "prestige": 1533,
+      "hp": 7215,
+      "attack": 440,
+      "crit_rate": 195,
+      "crit_dmge": 265,
+      "armor": 277,
+      "block_prof": 3592,
+      "energy_resist": 0,
+      "physical_resist": 206,
+      "crit_resist": 206,
+      "sig_info": [
+        "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 20% chance to inflict it twice.",
+        "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 20%."
+      ],
+      "url_page": "https://auntm.ai/champions/titania/tier/3",
+      "champid": "titania+3+4"
+    },
+    "4+1": {
+      "challenger_rating": 60,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Titania is immune to Buffs. She doesn\u2019t need your help.",
+          "+200 Physical Resistance."
+        ],
+        "HAYMAKERS": [
+          "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
+          "While these effects are active, each hit deals a burst of 16 Physical Damage for each Debuff on the Opponent."
+        ],
+        "ADDING INJURY TO INSULT": [
+          "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +32 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
+          "All of Titania\u2019s Debuffs can be inflicted through Block."
+        ],
+        "LIGHT ATTACKS": [
+          "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit inflicts a Stagger Debuff for 8 seconds.",
+          "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
+        ],
+        "SPECIAL ATTACK 1": [
+          "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
+          "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
+        ]
+      },
+      "rank": 1,
+      "prestige": 1116,
+      "hp": 5251,
+      "attack": 320,
+      "crit_rate": 189,
+      "crit_dmge": 258,
+      "armor": 200,
+      "block_prof": 3495,
+      "energy_resist": 0,
+      "physical_resist": 200,
+      "crit_resist": 200,
+      "sig_info": [
+        "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 20% chance to inflict it twice.",
+        "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 20%."
+      ],
+      "url_page": "https://auntm.ai/champions/titania/tier/4",
+      "champid": "titania+4+1"
+    },
+    "4+2": {
+      "challenger_rating": 70,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Titania is immune to Buffs. She doesn\u2019t need your help.",
+          "+205.56 Physical Resistance."
+        ],
+        "HAYMAKERS": [
+          "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
+          "While these effects are active, each hit deals a burst of 22.45 Physical Damage for each Debuff on the Opponent."
+        ],
+        "ADDING INJURY TO INSULT": [
+          "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +44.9 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
+          "All of Titania\u2019s Debuffs can be inflicted through Block."
+        ],
+        "LIGHT ATTACKS": [
+          "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit inflicts a Stagger Debuff for 8 seconds.",
+          "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
+        ],
+        "SPECIAL ATTACK 1": [
+          "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
+          "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
+        ]
+      },
+      "rank": 2,
+      "prestige": 1571,
+      "hp": 7365,
+      "attack": 449,
+      "crit_rate": 195,
+      "crit_dmge": 265,
+      "armor": 229,
+      "block_prof": 3592,
+      "energy_resist": 0,
+      "physical_resist": 206,
+      "crit_resist": 206,
+      "sig_info": [
+        "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 20% chance to inflict it twice.",
+        "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 20%."
+      ],
+      "url_page": "https://auntm.ai/champions/titania/tier/4",
+      "champid": "titania+4+2"
+    },
+    "4+3": {
+      "challenger_rating": 80,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Titania is immune to Buffs. She doesn\u2019t need your help.",
+          "+211.11 Physical Resistance."
+        ],
+        "HAYMAKERS": [
+          "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
+          "While these effects are active, each hit deals a burst of 31.45 Physical Damage for each Debuff on the Opponent."
+        ],
+        "ADDING INJURY TO INSULT": [
+          "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +62.9 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
+          "All of Titania\u2019s Debuffs can be inflicted through Block."
+        ],
+        "LIGHT ATTACKS": [
+          "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit inflicts a Stagger Debuff for 8 seconds.",
+          "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
+        ],
+        "SPECIAL ATTACK 1": [
+          "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
+          "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
+        ]
+      },
+      "rank": 3,
+      "prestige": 2199,
+      "hp": 10319,
+      "attack": 629,
+      "crit_rate": 200,
+      "crit_dmge": 272,
+      "armor": 260,
+      "block_prof": 3689,
+      "energy_resist": 0,
+      "physical_resist": 212,
+      "crit_resist": 212,
+      "sig_info": [
+        "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 20% chance to inflict it twice.",
+        "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 20%."
+      ],
+      "url_page": "https://auntm.ai/champions/titania/tier/4",
+      "champid": "titania+4+3"
+    },
+    "4+4": {
+      "challenger_rating": 90,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Titania is immune to Buffs. She doesn\u2019t need your help.",
+          "+216.67 Physical Resistance."
+        ],
+        "HAYMAKERS": [
+          "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
+          "While these effects are active, each hit deals a burst of 41.35 Physical Damage for each Debuff on the Opponent."
+        ],
+        "ADDING INJURY TO INSULT": [
+          "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +82.7 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
+          "All of Titania\u2019s Debuffs can be inflicted through Block."
+        ],
+        "LIGHT ATTACKS": [
+          "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit inflicts a Stagger Debuff for 8 seconds.",
+          "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
+        ],
+        "SPECIAL ATTACK 1": [
+          "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
+          "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
+        ]
+      },
+      "rank": 4,
+      "prestige": 2896,
+      "hp": 13559,
+      "attack": 827,
+      "crit_rate": 205,
+      "crit_dmge": 279,
+      "armor": 292,
+      "block_prof": 3786,
+      "energy_resist": 0,
+      "physical_resist": 217,
+      "crit_resist": 217,
+      "sig_info": [
+        "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 20% chance to inflict it twice.",
+        "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 20%."
+      ],
+      "url_page": "https://auntm.ai/champions/titania/tier/4",
+      "champid": "titania+4+4"
+    },
+    "4+5": {
+      "challenger_rating": 100,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Titania is immune to Buffs. She doesn\u2019t need your help.",
+          "+222.22 Physical Resistance."
+        ],
+        "HAYMAKERS": [
+          "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
+          "While these effects are active, each hit deals a burst of 55.15 Physical Damage for each Debuff on the Opponent."
+        ],
+        "ADDING INJURY TO INSULT": [
+          "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +110.3 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
+          "All of Titania\u2019s Debuffs can be inflicted through Block."
+        ],
+        "LIGHT ATTACKS": [
+          "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit inflicts a Stagger Debuff for 8 seconds.",
+          "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
+        ],
+        "SPECIAL ATTACK 1": [
+          "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
+          "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
+        ]
+      },
+      "rank": 5,
+      "prestige": 3861,
+      "hp": 18092,
+      "attack": 1103,
+      "crit_rate": 210,
+      "crit_dmge": 286,
+      "armor": 326,
+      "block_prof": 3883,
+      "energy_resist": 0,
+      "physical_resist": 223,
+      "crit_resist": 223,
+      "sig_info": [
+        "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 20% chance to inflict it twice.",
+        "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 20%."
+      ],
+      "url_page": "https://auntm.ai/champions/titania/tier/4",
+      "champid": "titania+4+5"
+    },
+    "5+1": {
+      "challenger_rating": 80,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Titania is immune to Buffs. She doesn\u2019t need your help.",
+          "+211.11 Physical Resistance."
+        ],
+        "HAYMAKERS": [
+          "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
+          "While these effects are active, each hit deals a burst of 32.9 Physical Damage for each Debuff on the Opponent."
+        ],
+        "ADDING INJURY TO INSULT": [
+          "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +65.8 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
+          "All of Titania\u2019s Debuffs can be inflicted through Block."
+        ],
+        "LIGHT ATTACKS": [
+          "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit inflicts a Stagger Debuff for 8 seconds.",
+          "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
+        ],
+        "SPECIAL ATTACK 1": [
+          "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
+          "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
+        ]
+      },
+      "rank": 1,
+      "prestige": 2311,
+      "hp": 10797,
+      "attack": 658,
+      "crit_rate": 200,
+      "crit_dmge": 272,
+      "armor": 212,
+      "block_prof": 3689,
+      "energy_resist": 0,
+      "physical_resist": 212,
+      "crit_resist": 212,
+      "sig_info": [
+        "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 30% chance to inflict it twice.",
+        "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 30%."
+      ],
+      "url_page": "https://auntm.ai/champions/titania/tier/5",
+      "champid": "titania+5+1"
+    },
+    "5+2": {
+      "challenger_rating": 90,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Titania is immune to Buffs. She doesn\u2019t need your help.",
+          "+216.67 Physical Resistance."
+        ],
+        "HAYMAKERS": [
+          "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
+          "While these effects are active, each hit deals a burst of 43.5 Physical Damage for each Debuff on the Opponent."
+        ],
+        "ADDING INJURY TO INSULT": [
+          "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +87 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
+          "All of Titania\u2019s Debuffs can be inflicted through Block."
+        ],
+        "LIGHT ATTACKS": [
+          "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit inflicts a Stagger Debuff for 8 seconds.",
+          "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
+        ],
+        "SPECIAL ATTACK 1": [
+          "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
+          "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
+        ]
+      },
+      "rank": 2,
+      "prestige": 3053,
+      "hp": 14262,
+      "attack": 870,
+      "crit_rate": 205,
+      "crit_dmge": 279,
+      "armor": 242,
+      "block_prof": 3786,
+      "energy_resist": 0,
+      "physical_resist": 217,
+      "crit_resist": 217,
+      "sig_info": [
+        "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 30% chance to inflict it twice.",
+        "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 30%."
+      ],
+      "url_page": "https://auntm.ai/champions/titania/tier/5",
+      "champid": "titania+5+2"
+    },
+    "5+3": {
+      "challenger_rating": 100,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Titania is immune to Buffs. She doesn\u2019t need your help.",
+          "+222.22 Physical Resistance."
+        ],
+        "HAYMAKERS": [
+          "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
+          "While these effects are active, each hit deals a burst of 60.8 Physical Damage for each Debuff on the Opponent."
+        ],
+        "ADDING INJURY TO INSULT": [
+          "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +121.6 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
+          "All of Titania\u2019s Debuffs can be inflicted through Block."
+        ],
+        "LIGHT ATTACKS": [
+          "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit inflicts a Stagger Debuff for 8 seconds.",
+          "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
+        ],
+        "SPECIAL ATTACK 1": [
+          "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
+          "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
+        ]
+      },
+      "rank": 3,
+      "prestige": 4278,
+      "hp": 19938,
+      "attack": 1216,
+      "crit_rate": 210,
+      "crit_dmge": 286,
+      "armor": 273,
+      "block_prof": 3883,
+      "energy_resist": 0,
+      "physical_resist": 223,
+      "crit_resist": 223,
+      "sig_info": [
+        "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 30% chance to inflict it twice.",
+        "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 30%."
+      ],
+      "url_page": "https://auntm.ai/champions/titania/tier/5",
+      "champid": "titania+5+3"
+    },
+    "5+4": {
+      "challenger_rating": 110,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Titania is immune to Buffs. She doesn\u2019t need your help.",
+          "+227.78 Physical Resistance."
+        ],
+        "HAYMAKERS": [
+          "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
+          "While these effects are active, each hit deals a burst of 81.9 Physical Damage for each Debuff on the Opponent."
+        ],
+        "ADDING INJURY TO INSULT": [
+          "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +163.8 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
+          "All of Titania\u2019s Debuffs can be inflicted through Block."
+        ],
+        "LIGHT ATTACKS": [
+          "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit inflicts a Stagger Debuff for 8 seconds.",
+          "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
+        ],
+        "SPECIAL ATTACK 1": [
+          "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
+          "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
+        ]
+      },
+      "rank": 4,
+      "prestige": 5762,
+      "hp": 26868,
+      "attack": 1638,
+      "crit_rate": 216,
+      "crit_dmge": 293,
+      "armor": 307,
+      "block_prof": 3980,
+      "energy_resist": 0,
+      "physical_resist": 228,
+      "crit_resist": 228,
+      "sig_info": [
+        "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 30% chance to inflict it twice.",
+        "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 30%."
+      ],
+      "url_page": "https://auntm.ai/champions/titania/tier/5",
+      "champid": "titania+5+4"
+    },
+    "5+5": {
+      "challenger_rating": 120,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Titania is immune to Buffs. She doesn\u2019t need your help.",
+          "+233.33 Physical Resistance."
+        ],
+        "HAYMAKERS": [
+          "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
+          "While these effects are active, each hit deals a burst of 110.55 Physical Damage for each Debuff on the Opponent."
+        ],
+        "ADDING INJURY TO INSULT": [
+          "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +221.1 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
+          "All of Titania\u2019s Debuffs can be inflicted through Block."
+        ],
+        "LIGHT ATTACKS": [
+          "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit inflicts a Stagger Debuff for 8 seconds.",
+          "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
+        ],
+        "SPECIAL ATTACK 1": [
+          "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
+          "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
+        ]
+      },
+      "rank": 5,
+      "prestige": 7797,
+      "hp": 36276,
+      "attack": 2211,
+      "crit_rate": 221,
+      "crit_dmge": 300,
+      "armor": 342,
+      "block_prof": 4077,
+      "energy_resist": 0,
+      "physical_resist": 234,
+      "crit_resist": 234,
+      "sig_info": [
+        "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 30% chance to inflict it twice.",
+        "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 30%."
+      ],
+      "url_page": "https://auntm.ai/champions/titania/tier/5",
+      "champid": "titania+5+5"
+    },
+    "6+1": {
+      "challenger_rating": 110,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Titania is immune to Buffs. She doesn\u2019t need your help.",
+          "+227.78 Physical Resistance."
+        ],
+        "HAYMAKERS": [
+          "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
+          "While these effects are active, each hit deals a burst of 86.95 Physical Damage for each Debuff on the Opponent."
+        ],
+        "ADDING INJURY TO INSULT": [
+          "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +173.9 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
+          "All of Titania\u2019s Debuffs can be inflicted through Block."
+        ],
+        "LIGHT ATTACKS": [
+          "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit inflicts a Stagger Debuff for 8 seconds.",
+          "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
+        ],
+        "SPECIAL ATTACK 1": [
+          "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
+          "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
+        ]
+      },
+      "rank": 1,
+      "prestige": 6102,
+      "hp": 28524,
+      "attack": 1739,
+      "crit_rate": 216,
+      "crit_dmge": 293,
+      "armor": 228,
+      "block_prof": 3980,
+      "energy_resist": 0,
+      "physical_resist": 228,
+      "crit_resist": 228,
+      "sig_info": [
+        "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 30% chance to inflict it twice.",
+        "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 30%."
+      ],
+      "url_page": "https://auntm.ai/champions/titania/tier/6",
+      "champid": "titania+6+1"
+    },
+    "6+2": {
+      "challenger_rating": 120,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Titania is immune to Buffs. She doesn\u2019t need your help.",
+          "+233.33 Physical Resistance."
+        ],
+        "HAYMAKERS": [
+          "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
+          "While these effects are active, each hit deals a burst of 120.1 Physical Damage for each Debuff on the Opponent."
+        ],
+        "ADDING INJURY TO INSULT": [
+          "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +240.2 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
+          "All of Titania\u2019s Debuffs can be inflicted through Block."
+        ],
+        "LIGHT ATTACKS": [
+          "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit inflicts a Stagger Debuff for 8 seconds.",
+          "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
+        ],
+        "SPECIAL ATTACK 1": [
+          "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
+          "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
+        ]
+      },
+      "rank": 2,
+      "prestige": 8428,
+      "hp": 39400,
+      "attack": 2402,
+      "crit_rate": 221,
+      "crit_dmge": 300,
+      "armor": 260,
+      "block_prof": 4077,
+      "energy_resist": 0,
+      "physical_resist": 234,
+      "crit_resist": 234,
+      "sig_info": [
+        "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 30% chance to inflict it twice.",
+        "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 30%."
+      ],
+      "url_page": "https://auntm.ai/champions/titania/tier/6",
+      "champid": "titania+6+2"
+    },
+    "6+3": {
+      "challenger_rating": 130,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Titania is immune to Buffs. She doesn\u2019t need your help.",
+          "+238.89 Physical Resistance."
+        ],
+        "HAYMAKERS": [
+          "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
+          "While these effects are active, each hit deals a burst of 142.45 Physical Damage for each Debuff on the Opponent."
+        ],
+        "ADDING INJURY TO INSULT": [
+          "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +284.9 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
+          "All of Titania\u2019s Debuffs can be inflicted through Block."
+        ],
+        "LIGHT ATTACKS": [
+          "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit inflicts a Stagger Debuff for 8 seconds.",
+          "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
+        ],
+        "SPECIAL ATTACK 1": [
+          "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
+          "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
+        ]
+      },
+      "rank": 3,
+      "prestige": 10020,
+      "hp": 46743,
+      "attack": 2849,
+      "crit_rate": 226,
+      "crit_dmge": 308,
+      "armor": 294,
+      "block_prof": 4174,
+      "energy_resist": 0,
+      "physical_resist": 239,
+      "crit_resist": 239,
+      "sig_info": [
+        "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 30% chance to inflict it twice.",
+        "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 30%."
+      ],
+      "url_page": "https://auntm.ai/champions/titania/tier/6",
+      "champid": "titania+6+3"
+    },
+    "6+4": {
+      "challenger_rating": 140,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "Titania is immune to Buffs. She doesn\u2019t need your help.",
+          "+244.44 Physical Resistance."
+        ],
+        "HAYMAKERS": [
+          "Performing a Dash, a second Medium Attack, or charging a Heavy Attack grants Titania Unblockable, Unstoppable, and Indestructible Passives for 4 seconds. 30 second cooldown.",
+          "While these effects are active, each hit deals a burst of 163 Physical Damage for each Debuff on the Opponent."
+        ],
+        "ADDING INJURY TO INSULT": [
+          "Whenever the Opponent is inflicted with a Debuff, Titania gains a Fury Passive increasing Attack Rating by +326 for 15 seconds, and Haymakers\u2019 cooldown is reduced by 1 second.",
+          "All of Titania\u2019s Debuffs can be inflicted through Block."
+        ],
+        "LIGHT ATTACKS": [
+          "Inflict a 5% Suppression Debuff for 2 seconds, paused during Titania\u2019s Special Attacks."
+        ],
+        "HEAVY ATTACKS": [
+          "The first hit inflicts a Stagger Debuff for 8 seconds.",
+          "If the first hit lands while Haymakers\u2019 effects are active, the final hit inflicts an extra stack of Titania\u2019s active personal Debuffs. If this attack is canceled into a Special Attack, the extra Debuffs are inflicted on the final hit of the Special instead."
+        ],
+        "SPECIAL ATTACK 1": [
+          "The first hit inflicts a non-stacking Debilitate Debuff, extending the duration of any new Debuffs by 50% for 30 seconds.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 2": [
+          "The final hit inflicts a non-stacking 20% Physical Vulnerability Debuff for 20 seconds. This Debuff is refreshed whenever the Opponent suffers 4 or more Suppression Debuffs.",
+          "Each hit inflicts a Weakness Debuff, reducing Attack Rating by 5% for 8 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Immediately activate Haymakers with +50% duration, ignoring their cooldown.",
+          "Inflict 30% potency Fatigue, Exhaust, Decelerate, Disorient, Falter, Stifle, Wither, Petrify, Cowardice, and Intimidate Debuffs on the Opponent for 4 seconds."
+        ]
+      },
+      "rank": 4,
+      "prestige": 11468,
+      "hp": 53490,
+      "attack": 3260,
+      "crit_rate": 231,
+      "crit_dmge": 315,
+      "armor": 329,
+      "block_prof": 4271,
+      "energy_resist": 0,
+      "physical_resist": 245,
+      "crit_resist": 245,
+      "sig_info": [
+        "Whenever Titania inflicts a stackable personal Debuff, she has a 10 to 30% chance to inflict it twice.",
+        "When fighting #L and #XL Opponents, Titania\u2019s Fury potency is increased by 10 to 30%."
+      ],
+      "url_page": "https://auntm.ai/champions/titania/tier/6",
+      "champid": "titania+6+4"
+    },
+    "find": {
+      "story_quests": {
+        "act_1": [],
+        "act_2": [],
+        "act_3": [],
+        "act_4": [],
+        "act_5": [],
+        "act_6": [],
+        "act_7": []
+      }
     }
+  },
+  "name": "TITANIA",
+  "champid": "titania",
+  "class": "Science",
+  "img_portrait": "https://api.rexians.tk/assets/portraits/titania.png",
+  "contact": "PHYSICAL",
+  "tags": ["Villain", "Size: L"],
+  "released": "9/8/2022"
 }

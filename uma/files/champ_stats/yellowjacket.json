@@ -1,1196 +1,1289 @@
 {
-    "name": "YELLOWJACKET",
-    "class": "Science",
-    "img_portrait": "https://api.rexians.tk/assets/portraits/yellowjacket.png",
-    "contact": "PHYSICAL",
-    "tags": [
-        "Villain",
-        "Size: M"
-    ],
-    "released": "7/30/2015",
-    "champid": "yellowjacket",
-    "data": {
-        "2+1": {
-            "rank": 1,
-            "prestige": "276",
-            "hp": "1186",
-            "attack": "90",
-            "crit_rate": "478",
-            "crit_dmge": "563",
-            "armor": "0",
-            "block_prof": "2845",
-            "energy_resist": "3734",
-            "physical_resist": "862",
-            "crit_resist": "0",
-            "sig_info": [
-                "Special 1: Power Sting has a 100% chance to inflict a 0.5 to 1.2 second Stun Debuff if it expires after lasting its full duration.",
-                "Special 2: Gain +4 Core Charge when Petrify ends.",
-                "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 50 to 10.02% each time this happens."
-            ],
-            "url_page": "https://auntm.ai/champions/yellowjacket/tier/2",
-            "champid": "yellowjacket+2+1",
-            "challenger_rating": 20,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "+861.54 Physical Resistance.",
-                    "+3733.33 Energy Resistance."
-                ],
-                "NUCLEAR CORE - ALWAYS ACTIVE": [
-                    "Starting Charge: 40. Overheat Point: 100+",
-                    "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
-                    "Either Champion lands a hit: +1 Charge. 60% Chance.",
-                    "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
-                ],
-                "NUCLEAR CORE - MELTDOWN": [
-                    "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
-                    "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 31.5 Physical Damage on them.",
-                    "When Meltdown ends: Reset Core back to Starting Charge."
-                ],
-                "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
-                    "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
-                ],
-                "SPECIAL ATTACKS - MYSTIC OPPONENT": [
-                    "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 67.5 direct damage if they activate a Special Attack."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to inflict an indefinite Power Sting Debuff causing 198 direct damage to the opponent if they activate a Special Attack."
-                ]
-            }
-        },
-        "2+2": {
-            "rank": 2,
-            "prestige": "363",
-            "hp": "1567",
-            "attack": "119",
-            "crit_rate": "493",
-            "crit_dmge": "580",
-            "armor": "0",
-            "block_prof": "2934",
-            "energy_resist": "3850",
-            "physical_resist": "889",
-            "crit_resist": "0",
-            "sig_info": [
-                "Special 1: Power Sting has a 100% chance to inflict a 0.5 to 1.2 second Stun Debuff if it expires after lasting its full duration.",
-                "Special 2: Gain +4 Core Charge when Petrify ends.",
-                "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 50 to 10.02% each time this happens."
-            ],
-            "url_page": "https://auntm.ai/champions/yellowjacket/tier/2",
-            "champid": "yellowjacket+2+2",
-            "challenger_rating": 30,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "+888.46 Physical Resistance.",
-                    "+3850 Energy Resistance."
-                ],
-                "NUCLEAR CORE - ALWAYS ACTIVE": [
-                    "Starting Charge: 40. Overheat Point: 100+",
-                    "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
-                    "Either Champion lands a hit: +1 Charge. 60% Chance.",
-                    "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
-                ],
-                "NUCLEAR CORE - MELTDOWN": [
-                    "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
-                    "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 41.65 Physical Damage on them.",
-                    "When Meltdown ends: Reset Core back to Starting Charge."
-                ],
-                "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
-                    "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
-                ],
-                "SPECIAL ATTACKS - MYSTIC OPPONENT": [
-                    "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 89.25 direct damage if they activate a Special Attack."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to inflict an indefinite Power Sting Debuff causing 261.8 direct damage to the opponent if they activate a Special Attack."
-                ]
-            }
-        },
-        "2+3": {
-            "rank": 3,
-            "prestige": "572",
-            "hp": "2487",
-            "attack": "188",
-            "crit_rate": "508",
-            "crit_dmge": "598",
-            "armor": "0",
-            "block_prof": "3023",
-            "energy_resist": "3967",
-            "physical_resist": "916",
-            "crit_resist": "0",
-            "sig_info": [
-                "Special 1: Power Sting has a 100% chance to inflict a 0.5 to 1.2 second Stun Debuff if it expires after lasting its full duration.",
-                "Special 2: Gain +4 Core Charge when Petrify ends.",
-                "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 50 to 10.02% each time this happens."
-            ],
-            "url_page": "https://auntm.ai/champions/yellowjacket/tier/2",
-            "champid": "yellowjacket+2+3",
-            "challenger_rating": 40,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "+915.38 Physical Resistance.",
-                    "+3966.67 Energy Resistance."
-                ],
-                "NUCLEAR CORE - ALWAYS ACTIVE": [
-                    "Starting Charge: 40. Overheat Point: 100+",
-                    "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
-                    "Either Champion lands a hit: +1 Charge. 60% Chance.",
-                    "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
-                ],
-                "NUCLEAR CORE - MELTDOWN": [
-                    "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
-                    "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 65.8 Physical Damage on them.",
-                    "When Meltdown ends: Reset Core back to Starting Charge."
-                ],
-                "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
-                    "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
-                ],
-                "SPECIAL ATTACKS - MYSTIC OPPONENT": [
-                    "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 141 direct damage if they activate a Special Attack."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to inflict an indefinite Power Sting Debuff causing 413.6 direct damage to the opponent if they activate a Special Attack."
-                ]
-            }
-        },
-        "3+1": {
-            "rank": 1,
-            "prestige": "495",
-            "hp": "2150",
-            "attack": "163",
-            "crit_rate": "508",
-            "crit_dmge": "598",
-            "armor": "0",
-            "block_prof": "3023",
-            "energy_resist": "3967",
-            "physical_resist": "916",
-            "crit_resist": "0",
-            "sig_info": [
-                "Special 1: Power Sting has a 100% chance to inflict a 0.5 to 1.2 second Stun Debuff if it expires after lasting its full duration.",
-                "Special 2: Gain +4 Core Charge when Petrify ends.",
-                "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 50 to 10.02% each time this happens."
-            ],
-            "url_page": "https://auntm.ai/champions/yellowjacket/tier/3",
-            "champid": "yellowjacket+3+1",
-            "challenger_rating": 40,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "+915.38 Physical Resistance.",
-                    "+3966.67 Energy Resistance."
-                ],
-                "NUCLEAR CORE - ALWAYS ACTIVE": [
-                    "Starting Charge: 40. Overheat Point: 100+",
-                    "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
-                    "Either Champion lands a hit: +1 Charge. 60% Chance.",
-                    "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
-                ],
-                "NUCLEAR CORE - MELTDOWN": [
-                    "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
-                    "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 57.05 Physical Damage on them.",
-                    "When Meltdown ends: Reset Core back to Starting Charge."
-                ],
-                "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
-                    "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
-                ],
-                "SPECIAL ATTACKS - MYSTIC OPPONENT": [
-                    "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 122.25 direct damage if they activate a Special Attack."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to inflict an indefinite Power Sting Debuff causing 358.6 direct damage to the opponent if they activate a Special Attack."
-                ]
-            }
-        },
-        "3+2": {
-            "rank": 2,
-            "prestige": "789",
-            "hp": "3440",
-            "attack": "260",
-            "crit_rate": "523",
-            "crit_dmge": "615",
-            "armor": "0",
-            "block_prof": "3112",
-            "energy_resist": "4084",
-            "physical_resist": "943",
-            "crit_resist": "0",
-            "sig_info": [
-                "Special 1: Power Sting has a 100% chance to inflict a 0.5 to 1.2 second Stun Debuff if it expires after lasting its full duration.",
-                "Special 2: Gain +4 Core Charge when Petrify ends.",
-                "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 50 to 10.02% each time this happens."
-            ],
-            "url_page": "https://auntm.ai/champions/yellowjacket/tier/3",
-            "champid": "yellowjacket+3+2",
-            "challenger_rating": 50,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "+942.31 Physical Resistance.",
-                    "+4083.33 Energy Resistance."
-                ],
-                "NUCLEAR CORE - ALWAYS ACTIVE": [
-                    "Starting Charge: 40. Overheat Point: 100+",
-                    "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
-                    "Either Champion lands a hit: +1 Charge. 60% Chance.",
-                    "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
-                ],
-                "NUCLEAR CORE - MELTDOWN": [
-                    "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
-                    "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 91 Physical Damage on them.",
-                    "When Meltdown ends: Reset Core back to Starting Charge."
-                ],
-                "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
-                    "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
-                ],
-                "SPECIAL ATTACKS - MYSTIC OPPONENT": [
-                    "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 195 direct damage if they activate a Special Attack."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to inflict an indefinite Power Sting Debuff causing 572 direct damage to the opponent if they activate a Special Attack."
-                ]
-            }
-        },
-        "3+3": {
-            "rank": 3,
-            "prestige": "1100",
-            "hp": "4813",
-            "attack": "363",
-            "crit_rate": "538",
-            "crit_dmge": "633",
-            "armor": "0",
-            "block_prof": "3200",
-            "energy_resist": "4200",
-            "physical_resist": "970",
-            "crit_resist": "0",
-            "sig_info": [
-                "Special 1: Power Sting has a 100% chance to inflict a 0.5 to 1.2 second Stun Debuff if it expires after lasting its full duration.",
-                "Special 2: Gain +4 Core Charge when Petrify ends.",
-                "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 50 to 10.02% each time this happens."
-            ],
-            "url_page": "https://auntm.ai/champions/yellowjacket/tier/3",
-            "champid": "yellowjacket+3+3",
-            "challenger_rating": 60,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "+969.23 Physical Resistance.",
-                    "+4200 Energy Resistance."
-                ],
-                "NUCLEAR CORE - ALWAYS ACTIVE": [
-                    "Starting Charge: 40. Overheat Point: 100+",
-                    "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
-                    "Either Champion lands a hit: +1 Charge. 60% Chance.",
-                    "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
-                ],
-                "NUCLEAR CORE - MELTDOWN": [
-                    "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
-                    "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 127.05 Physical Damage on them.",
-                    "When Meltdown ends: Reset Core back to Starting Charge."
-                ],
-                "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
-                    "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
-                ],
-                "SPECIAL ATTACKS - MYSTIC OPPONENT": [
-                    "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 272.25 direct damage if they activate a Special Attack."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to inflict an indefinite Power Sting Debuff causing 798.6 direct damage to the opponent if they activate a Special Attack."
-                ]
-            }
-        },
-        "3+4": {
-            "rank": 4,
-            "prestige": "1511",
-            "hp": "6609",
-            "attack": "498",
-            "crit_rate": "553",
-            "crit_dmge": "650",
-            "armor": "0",
-            "block_prof": "3289",
-            "energy_resist": "4317",
-            "physical_resist": "997",
-            "crit_resist": "0",
-            "sig_info": [
-                "Special 1: Power Sting has a 100% chance to inflict a 0.5 to 1.2 second Stun Debuff if it expires after lasting its full duration.",
-                "Special 2: Gain +4 Core Charge when Petrify ends.",
-                "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 50 to 10.02% each time this happens."
-            ],
-            "url_page": "https://auntm.ai/champions/yellowjacket/tier/3",
-            "champid": "yellowjacket+3+4",
-            "challenger_rating": 70,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "+996.15 Physical Resistance.",
-                    "+4316.67 Energy Resistance."
-                ],
-                "NUCLEAR CORE - ALWAYS ACTIVE": [
-                    "Starting Charge: 40. Overheat Point: 100+",
-                    "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
-                    "Either Champion lands a hit: +1 Charge. 60% Chance.",
-                    "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
-                ],
-                "NUCLEAR CORE - MELTDOWN": [
-                    "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
-                    "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 174.3 Physical Damage on them.",
-                    "When Meltdown ends: Reset Core back to Starting Charge."
-                ],
-                "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
-                    "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
-                ],
-                "SPECIAL ATTACKS - MYSTIC OPPONENT": [
-                    "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 373.5 direct damage if they activate a Special Attack."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to inflict an indefinite Power Sting Debuff causing 1095.6 direct damage to the opponent if they activate a Special Attack."
-                ]
-            }
-        },
-        "4+1": {
-            "rank": 1,
-            "prestige": "1101",
-            "hp": "4809",
-            "attack": "363",
-            "crit_rate": "538",
-            "crit_dmge": "633",
-            "armor": "0",
-            "block_prof": "3200",
-            "energy_resist": "4200",
-            "physical_resist": "970",
-            "crit_resist": "0",
-            "sig_info": [
-                "Special 1: Power Sting has a 100% chance to inflict a 0.5 to 1.2 second Stun Debuff if it expires after lasting its full duration.",
-                "Special 2: Gain +4 Core Charge when Petrify ends.",
-                "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 50 to 10.02% each time this happens."
-            ],
-            "url_page": "https://auntm.ai/champions/yellowjacket/tier/4",
-            "champid": "yellowjacket+4+1",
-            "challenger_rating": 60,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "+969.23 Physical Resistance.",
-                    "+4200 Energy Resistance."
-                ],
-                "NUCLEAR CORE - ALWAYS ACTIVE": [
-                    "Starting Charge: 40. Overheat Point: 100+",
-                    "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
-                    "Either Champion lands a hit: +1 Charge. 60% Chance.",
-                    "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
-                ],
-                "NUCLEAR CORE - MELTDOWN": [
-                    "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
-                    "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 127.05 Physical Damage on them.",
-                    "When Meltdown ends: Reset Core back to Starting Charge."
-                ],
-                "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
-                    "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
-                ],
-                "SPECIAL ATTACKS - MYSTIC OPPONENT": [
-                    "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 272.25 direct damage if they activate a Special Attack."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to inflict an indefinite Power Sting Debuff causing 798.6 direct damage to the opponent if they activate a Special Attack."
-                ]
-            }
-        },
-        "4+2": {
-            "rank": 2,
-            "prestige": "1545",
-            "hp": "6746",
-            "attack": "509",
-            "crit_rate": "553",
-            "crit_dmge": "650",
-            "armor": "0",
-            "block_prof": "3289",
-            "energy_resist": "4317",
-            "physical_resist": "997",
-            "crit_resist": "0",
-            "sig_info": [
-                "Special 1: Power Sting has a 100% chance to inflict a 0.5 to 1.2 second Stun Debuff if it expires after lasting its full duration.",
-                "Special 2: Gain +4 Core Charge when Petrify ends.",
-                "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 50 to 10.02% each time this happens."
-            ],
-            "url_page": "https://auntm.ai/champions/yellowjacket/tier/4",
-            "champid": "yellowjacket+4+2",
-            "challenger_rating": 70,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "+996.15 Physical Resistance.",
-                    "+4316.67 Energy Resistance."
-                ],
-                "NUCLEAR CORE - ALWAYS ACTIVE": [
-                    "Starting Charge: 40. Overheat Point: 100+",
-                    "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
-                    "Either Champion lands a hit: +1 Charge. 60% Chance.",
-                    "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
-                ],
-                "NUCLEAR CORE - MELTDOWN": [
-                    "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
-                    "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 178.15 Physical Damage on them.",
-                    "When Meltdown ends: Reset Core back to Starting Charge."
-                ],
-                "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
-                    "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
-                ],
-                "SPECIAL ATTACKS - MYSTIC OPPONENT": [
-                    "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 381.75 direct damage if they activate a Special Attack."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to inflict an indefinite Power Sting Debuff causing 1119.8 direct damage to the opponent if they activate a Special Attack."
-                ]
-            }
-        },
-        "4+3": {
-            "rank": 3,
-            "prestige": "2162",
-            "hp": "9452",
-            "attack": "713",
-            "crit_rate": "568",
-            "crit_dmge": "668",
-            "armor": "0",
-            "block_prof": "3378",
-            "energy_resist": "4434",
-            "physical_resist": "1024",
-            "crit_resist": "0",
-            "sig_info": [
-                "Special 1: Power Sting has a 100% chance to inflict a 0.5 to 1.2 second Stun Debuff if it expires after lasting its full duration.",
-                "Special 2: Gain +4 Core Charge when Petrify ends.",
-                "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 50 to 10.02% each time this happens."
-            ],
-            "url_page": "https://auntm.ai/champions/yellowjacket/tier/4",
-            "champid": "yellowjacket+4+3",
-            "challenger_rating": 80,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "+1023.08 Physical Resistance.",
-                    "+4433.33 Energy Resistance."
-                ],
-                "NUCLEAR CORE - ALWAYS ACTIVE": [
-                    "Starting Charge: 40. Overheat Point: 100+",
-                    "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
-                    "Either Champion lands a hit: +1 Charge. 60% Chance.",
-                    "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
-                ],
-                "NUCLEAR CORE - MELTDOWN": [
-                    "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
-                    "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 249.55 Physical Damage on them.",
-                    "When Meltdown ends: Reset Core back to Starting Charge."
-                ],
-                "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
-                    "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
-                ],
-                "SPECIAL ATTACKS - MYSTIC OPPONENT": [
-                    "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 534.75 direct damage if they activate a Special Attack."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to inflict an indefinite Power Sting Debuff causing 1568.6 direct damage to the opponent if they activate a Special Attack."
-                ]
-            }
-        },
-        "4+4": {
-            "rank": 4,
-            "prestige": "2844",
-            "hp": "12420",
-            "attack": "936",
-            "crit_rate": "583",
-            "crit_dmge": "686",
-            "armor": "0",
-            "block_prof": "3467",
-            "energy_resist": "4550",
-            "physical_resist": "1050",
-            "crit_resist": "0",
-            "sig_info": [
-                "Special 1: Power Sting has a 100% chance to inflict a 0.5 to 1.2 second Stun Debuff if it expires after lasting its full duration.",
-                "Special 2: Gain +4 Core Charge when Petrify ends.",
-                "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 50 to 10.02% each time this happens."
-            ],
-            "url_page": "https://auntm.ai/champions/yellowjacket/tier/4",
-            "champid": "yellowjacket+4+4",
-            "challenger_rating": 90,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "+1050 Physical Resistance.",
-                    "+4550 Energy Resistance."
-                ],
-                "NUCLEAR CORE - ALWAYS ACTIVE": [
-                    "Starting Charge: 40. Overheat Point: 100+",
-                    "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
-                    "Either Champion lands a hit: +1 Charge. 60% Chance.",
-                    "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
-                ],
-                "NUCLEAR CORE - MELTDOWN": [
-                    "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
-                    "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 327.6 Physical Damage on them.",
-                    "When Meltdown ends: Reset Core back to Starting Charge."
-                ],
-                "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
-                    "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
-                ],
-                "SPECIAL ATTACKS - MYSTIC OPPONENT": [
-                    "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 702 direct damage if they activate a Special Attack."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to inflict an indefinite Power Sting Debuff causing 2059.2 direct damage to the opponent if they activate a Special Attack."
-                ]
-            }
-        },
-        "4+5": {
-            "rank": 5,
-            "prestige": "3794",
-            "hp": "16572",
-            "attack": "1249",
-            "crit_rate": "598",
-            "crit_dmge": "703",
-            "armor": "0",
-            "block_prof": "3556",
-            "energy_resist": "4667",
-            "physical_resist": "1077",
-            "crit_resist": "0",
-            "sig_info": [
-                "Special 1: Power Sting has a 100% chance to inflict a 0.5 to 1.2 second Stun Debuff if it expires after lasting its full duration.",
-                "Special 2: Gain +4 Core Charge when Petrify ends.",
-                "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 50 to 10.02% each time this happens."
-            ],
-            "url_page": "https://auntm.ai/champions/yellowjacket/tier/4",
-            "champid": "yellowjacket+4+5",
-            "challenger_rating": 100,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "+1076.92 Physical Resistance.",
-                    "+4666.67 Energy Resistance."
-                ],
-                "NUCLEAR CORE - ALWAYS ACTIVE": [
-                    "Starting Charge: 40. Overheat Point: 100+",
-                    "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
-                    "Either Champion lands a hit: +1 Charge. 60% Chance.",
-                    "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
-                ],
-                "NUCLEAR CORE - MELTDOWN": [
-                    "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
-                    "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 437.15 Physical Damage on them.",
-                    "When Meltdown ends: Reset Core back to Starting Charge."
-                ],
-                "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
-                    "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
-                ],
-                "SPECIAL ATTACKS - MYSTIC OPPONENT": [
-                    "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 936.75 direct damage if they activate a Special Attack."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to inflict an indefinite Power Sting Debuff causing 2747.8 direct damage to the opponent if they activate a Special Attack."
-                ]
-            }
-        },
-        "5+1": {
-            "rank": 1,
-            "prestige": "2270",
-            "hp": "9890",
-            "attack": "746",
-            "crit_rate": "568",
-            "crit_dmge": "668",
-            "armor": "0",
-            "block_prof": "3378",
-            "energy_resist": "4434",
-            "physical_resist": "1024",
-            "crit_resist": "0",
-            "sig_info": [
-                "Special 1: Power Sting has a 100% chance to inflict a 0.7 to 2.1 second Stun Debuff if it expires after lasting its full duration.",
-                "Special 2: Gain +5 Core Charge when Petrify ends.",
-                "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 45 to 0% each time this happens."
-            ],
-            "url_page": "https://auntm.ai/champions/yellowjacket/tier/5",
-            "champid": "yellowjacket+5+1",
-            "challenger_rating": 80,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "+1023.08 Physical Resistance.",
-                    "+4433.33 Energy Resistance."
-                ],
-                "NUCLEAR CORE - ALWAYS ACTIVE": [
-                    "Starting Charge: 40. Overheat Point: 100+",
-                    "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
-                    "Either Champion lands a hit: +1 Charge. 60% Chance.",
-                    "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
-                ],
-                "NUCLEAR CORE - MELTDOWN": [
-                    "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
-                    "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 261.1 Physical Damage on them.",
-                    "When Meltdown ends: Reset Core back to Starting Charge."
-                ],
-                "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
-                    "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
-                ],
-                "SPECIAL ATTACKS - MYSTIC OPPONENT": [
-                    "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 559.5 direct damage if they activate a Special Attack."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to inflict an indefinite Power Sting Debuff causing 1641.2 direct damage to the opponent if they activate a Special Attack."
-                ]
-            }
-        },
-        "5+2": {
-            "rank": 2,
-            "prestige": "2997",
-            "hp": "13064",
-            "attack": "985",
-            "crit_rate": "583",
-            "crit_dmge": "686",
-            "armor": "0",
-            "block_prof": "3467",
-            "energy_resist": "4550",
-            "physical_resist": "1050",
-            "crit_resist": "0",
-            "sig_info": [
-                "Special 1: Power Sting has a 100% chance to inflict a 0.7 to 2.1 second Stun Debuff if it expires after lasting its full duration.",
-                "Special 2: Gain +5 Core Charge when Petrify ends.",
-                "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 45 to 0% each time this happens."
-            ],
-            "url_page": "https://auntm.ai/champions/yellowjacket/tier/5",
-            "champid": "yellowjacket+5+2",
-            "challenger_rating": 90,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "+1050 Physical Resistance.",
-                    "+4550 Energy Resistance."
-                ],
-                "NUCLEAR CORE - ALWAYS ACTIVE": [
-                    "Starting Charge: 40. Overheat Point: 100+",
-                    "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
-                    "Either Champion lands a hit: +1 Charge. 60% Chance.",
-                    "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
-                ],
-                "NUCLEAR CORE - MELTDOWN": [
-                    "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
-                    "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 344.75 Physical Damage on them.",
-                    "When Meltdown ends: Reset Core back to Starting Charge."
-                ],
-                "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
-                    "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
-                ],
-                "SPECIAL ATTACKS - MYSTIC OPPONENT": [
-                    "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 738.75 direct damage if they activate a Special Attack."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to inflict an indefinite Power Sting Debuff causing 2167 direct damage to the opponent if they activate a Special Attack."
-                ]
-            }
-        },
-        "5+3": {
-            "rank": 3,
-            "prestige": "4197",
-            "hp": "18263",
-            "attack": "1377",
-            "crit_rate": "598",
-            "crit_dmge": "703",
-            "armor": "0",
-            "block_prof": "3556",
-            "energy_resist": "4667",
-            "physical_resist": "1077",
-            "crit_resist": "0",
-            "sig_info": [
-                "Special 1: Power Sting has a 100% chance to inflict a 0.7 to 2.1 second Stun Debuff if it expires after lasting its full duration.",
-                "Special 2: Gain +5 Core Charge when Petrify ends.",
-                "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 45 to 0% each time this happens."
-            ],
-            "url_page": "https://auntm.ai/champions/yellowjacket/tier/5",
-            "champid": "yellowjacket+5+3",
-            "challenger_rating": 100,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "+1076.92 Physical Resistance.",
-                    "+4666.67 Energy Resistance."
-                ],
-                "NUCLEAR CORE - ALWAYS ACTIVE": [
-                    "Starting Charge: 40. Overheat Point: 100+",
-                    "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
-                    "Either Champion lands a hit: +1 Charge. 60% Chance.",
-                    "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
-                ],
-                "NUCLEAR CORE - MELTDOWN": [
-                    "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
-                    "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 481.95 Physical Damage on them.",
-                    "When Meltdown ends: Reset Core back to Starting Charge."
-                ],
-                "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
-                    "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
-                ],
-                "SPECIAL ATTACKS - MYSTIC OPPONENT": [
-                    "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 1032.75 direct damage if they activate a Special Attack."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to inflict an indefinite Power Sting Debuff causing 3029.4 direct damage to the opponent if they activate a Special Attack."
-                ]
-            }
-        },
-        "5+4": {
-            "rank": 4,
-            "prestige": "5652",
-            "hp": "24610",
-            "attack": "1855",
-            "crit_rate": "613",
-            "crit_dmge": "721",
-            "armor": "0",
-            "block_prof": "3645",
-            "energy_resist": "4784",
-            "physical_resist": "1104",
-            "crit_resist": "0",
-            "sig_info": [
-                "Special 1: Power Sting has a 100% chance to inflict a 0.7 to 2.1 second Stun Debuff if it expires after lasting its full duration.",
-                "Special 2: Gain +5 Core Charge when Petrify ends.",
-                "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 45 to 0% each time this happens."
-            ],
-            "url_page": "https://auntm.ai/champions/yellowjacket/tier/5",
-            "champid": "yellowjacket+5+4",
-            "challenger_rating": 110,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "+1103.85 Physical Resistance.",
-                    "+4783.33 Energy Resistance."
-                ],
-                "NUCLEAR CORE - ALWAYS ACTIVE": [
-                    "Starting Charge: 40. Overheat Point: 100+",
-                    "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
-                    "Either Champion lands a hit: +1 Charge. 60% Chance.",
-                    "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
-                ],
-                "NUCLEAR CORE - MELTDOWN": [
-                    "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
-                    "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 649.25 Physical Damage on them.",
-                    "When Meltdown ends: Reset Core back to Starting Charge."
-                ],
-                "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
-                    "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
-                ],
-                "SPECIAL ATTACKS - MYSTIC OPPONENT": [
-                    "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 1391.25 direct damage if they activate a Special Attack."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to inflict an indefinite Power Sting Debuff causing 4081 direct damage to the opponent if they activate a Special Attack."
-                ]
-            }
-        },
-        "5+5": {
-            "rank": 5,
-            "prestige": "7640",
-            "hp": "33227",
-            "attack": "2504",
-            "crit_rate": "628",
-            "crit_dmge": "738",
-            "armor": "0",
-            "block_prof": "3734",
-            "energy_resist": "4900",
-            "physical_resist": "1131",
-            "crit_resist": "0",
-            "sig_info": [
-                "Special 1: Power Sting has a 100% chance to inflict a 0.7 to 2.1 second Stun Debuff if it expires after lasting its full duration.",
-                "Special 2: Gain +5 Core Charge when Petrify ends.",
-                "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 45 to 0% each time this happens."
-            ],
-            "url_page": "https://auntm.ai/champions/yellowjacket/tier/5",
-            "champid": "yellowjacket+5+5",
-            "challenger_rating": 120,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "+1130.77 Physical Resistance.",
-                    "+4900 Energy Resistance."
-                ],
-                "NUCLEAR CORE - ALWAYS ACTIVE": [
-                    "Starting Charge: 40. Overheat Point: 100+",
-                    "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
-                    "Either Champion lands a hit: +1 Charge. 60% Chance.",
-                    "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
-                ],
-                "NUCLEAR CORE - MELTDOWN": [
-                    "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
-                    "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 876.4 Physical Damage on them.",
-                    "When Meltdown ends: Reset Core back to Starting Charge."
-                ],
-                "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
-                    "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
-                ],
-                "SPECIAL ATTACKS - MYSTIC OPPONENT": [
-                    "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 1878 direct damage if they activate a Special Attack."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to inflict an indefinite Power Sting Debuff causing 5508.8 direct damage to the opponent if they activate a Special Attack."
-                ]
-            }
-        },
-        "6+1": {
-            "rank": 1,
-            "prestige": "5987",
-            "hp": "26127",
-            "attack": "1969",
-            "crit_rate": "613",
-            "crit_dmge": "721",
-            "armor": "0",
-            "block_prof": "3645",
-            "energy_resist": "4784",
-            "physical_resist": "1104",
-            "crit_resist": "0",
-            "sig_info": [
-                "Special 1: Power Sting has a 100% chance to inflict a 0.7 to 2.1 second Stun Debuff if it expires after lasting its full duration.",
-                "Special 2: Gain +5 Core Charge when Petrify ends.",
-                "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 45 to 0% each time this happens."
-            ],
-            "url_page": "https://auntm.ai/champions/yellowjacket/tier/6",
-            "champid": "yellowjacket+6+1",
-            "challenger_rating": 110,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "+1103.85 Physical Resistance.",
-                    "+4783.33 Energy Resistance."
-                ],
-                "NUCLEAR CORE - ALWAYS ACTIVE": [
-                    "Starting Charge: 40. Overheat Point: 100+",
-                    "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
-                    "Either Champion lands a hit: +1 Charge. 60% Chance.",
-                    "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
-                ],
-                "NUCLEAR CORE - MELTDOWN": [
-                    "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
-                    "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 689.15 Physical Damage on them.",
-                    "When Meltdown ends: Reset Core back to Starting Charge."
-                ],
-                "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
-                    "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
-                ],
-                "SPECIAL ATTACKS - MYSTIC OPPONENT": [
-                    "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 1476.75 direct damage if they activate a Special Attack."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to inflict an indefinite Power Sting Debuff causing 4331.8 direct damage to the opponent if they activate a Special Attack."
-                ]
-            }
-        },
-        "6+2": {
-            "rank": 2,
-            "prestige": "8265",
-            "hp": "36090",
-            "attack": "2720",
-            "crit_rate": "628",
-            "crit_dmge": "738",
-            "armor": "0",
-            "block_prof": "3734",
-            "energy_resist": "4900",
-            "physical_resist": "1131",
-            "crit_resist": "0",
-            "sig_info": [
-                "Special 1: Power Sting has a 100% chance to inflict a 0.7 to 2.1 second Stun Debuff if it expires after lasting its full duration.",
-                "Special 2: Gain +5 Core Charge when Petrify ends.",
-                "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 45 to 0% each time this happens."
-            ],
-            "url_page": "https://auntm.ai/champions/yellowjacket/tier/6",
-            "champid": "yellowjacket+6+2",
-            "challenger_rating": 120,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "+1130.77 Physical Resistance.",
-                    "+4900 Energy Resistance."
-                ],
-                "NUCLEAR CORE - ALWAYS ACTIVE": [
-                    "Starting Charge: 40. Overheat Point: 100+",
-                    "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
-                    "Either Champion lands a hit: +1 Charge. 60% Chance.",
-                    "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
-                ],
-                "NUCLEAR CORE - MELTDOWN": [
-                    "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
-                    "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 952 Physical Damage on them.",
-                    "When Meltdown ends: Reset Core back to Starting Charge."
-                ],
-                "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
-                    "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
-                ],
-                "SPECIAL ATTACKS - MYSTIC OPPONENT": [
-                    "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 2040 direct damage if they activate a Special Attack."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to inflict an indefinite Power Sting Debuff causing 5984 direct damage to the opponent if they activate a Special Attack."
-                ]
-            }
-        },
-        "6+3": {
-            "rank": 3,
-            "prestige": "9826",
-            "hp": "42815",
-            "attack": "3227",
-            "crit_rate": "643",
-            "crit_dmge": "756",
-            "armor": "0",
-            "block_prof": "3823",
-            "energy_resist": "5017",
-            "physical_resist": "1158",
-            "crit_resist": "0",
-            "sig_info": [
-                "Special 1: Power Sting has a 100% chance to inflict a 0.7 to 2.1 second Stun Debuff if it expires after lasting its full duration.",
-                "Special 2: Gain +5 Core Charge when Petrify ends.",
-                "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 45 to 0% each time this happens."
-            ],
-            "url_page": "https://auntm.ai/champions/yellowjacket/tier/6",
-            "champid": "yellowjacket+6+3",
-            "challenger_rating": 130,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "+1157.69 Physical Resistance.",
-                    "+5016.67 Energy Resistance."
-                ],
-                "NUCLEAR CORE - ALWAYS ACTIVE": [
-                    "Starting Charge: 40. Overheat Point: 100+",
-                    "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
-                    "Either Champion lands a hit: +1 Charge. 60% Chance.",
-                    "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
-                ],
-                "NUCLEAR CORE - MELTDOWN": [
-                    "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
-                    "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 1129.45 Physical Damage on them.",
-                    "When Meltdown ends: Reset Core back to Starting Charge."
-                ],
-                "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
-                    "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
-                ],
-                "SPECIAL ATTACKS - MYSTIC OPPONENT": [
-                    "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 2420.25 direct damage if they activate a Special Attack."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to inflict an indefinite Power Sting Debuff causing 7099.4 direct damage to the opponent if they activate a Special Attack."
-                ]
-            }
-        },
-        "6+4": {
-            "rank": 4,
-            "prestige": "11245",
-            "hp": "48995",
-            "attack": "3693",
-            "crit_rate": "658",
-            "crit_dmge": "773",
-            "armor": "0",
-            "block_prof": "3912",
-            "energy_resist": "5134",
-            "physical_resist": "1185",
-            "crit_resist": "0",
-            "sig_info": [
-                "Special 1: Power Sting has a 100% chance to inflict a 0.7 to 2.1 second Stun Debuff if it expires after lasting its full duration.",
-                "Special 2: Gain +5 Core Charge when Petrify ends.",
-                "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 45 to 0% each time this happens."
-            ],
-            "url_page": "https://auntm.ai/champions/yellowjacket/tier/6",
-            "champid": "yellowjacket+6+4",
-            "challenger_rating": 140,
-            "abilities": {
-                "ALWAYS ACTIVE": [
-                    "+1184.62 Physical Resistance.",
-                    "+5133.33 Energy Resistance."
-                ],
-                "NUCLEAR CORE - ALWAYS ACTIVE": [
-                    "Starting Charge: 40. Overheat Point: 100+",
-                    "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
-                    "Either Champion lands a hit: +1 Charge. 60% Chance.",
-                    "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
-                ],
-                "NUCLEAR CORE - MELTDOWN": [
-                    "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
-                    "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 1292.55 Physical Damage on them.",
-                    "When Meltdown ends: Reset Core back to Starting Charge."
-                ],
-                "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
-                    "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
-                ],
-                "SPECIAL ATTACKS - MYSTIC OPPONENT": [
-                    "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 2769.75 direct damage if they activate a Special Attack."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "100% chance to inflict an indefinite Power Sting Debuff causing 8124.6 direct damage to the opponent if they activate a Special Attack."
-                ]
-            }
-        },
-        "find": {
-            "story_quests": {
-                "act_1": [],
-                "act_2": [],
-                "act_3": [
-                    "3.1.1"
-                ],
-                "act_4": [
-                    "4.1.2",
-                    "4.1.4",
-                    "4.1.5",
-                    "4.1.6",
-                    "4.2.2",
-                    "4.2.3",
-                    "4.2.4",
-                    "4.2.5",
-                    "4.2.6",
-                    "4.3.1",
-                    "4.3.2",
-                    "4.3.3",
-                    "4.3.5",
-                    "4.3.6",
-                    "4.4.2",
-                    "4.4.3",
-                    "4.4.4",
-                    "4.4.5",
-                    "4.4.6"
-                ],
-                "act_5": [
-                    "5.1.1",
-                    "5.1.2",
-                    "5.1.3",
-                    "5.1.4",
-                    "5.1.5",
-                    "5.1.6",
-                    "5.2.4",
-                    "5.2.6",
-                    "5.3.2",
-                    "5.3.4",
-                    "5.3.6",
-                    "5.4.2",
-                    "5.4.3",
-                    "5.4.5",
-                    "5.4.6"
-                ],
-                "act_6": [
-                    "6.1.1",
-                    "6.1.2",
-                    "6.1.3",
-                    "6.1.4",
-                    "6.1.5",
-                    "6.2.4",
-                    "6.3.1",
-                    "6.3.4",
-                    "6.4.4",
-                    "6.4.6"
-                ],
-                "act_7": [
-                    "7.1.1",
-                    "7.1.5",
-                    "7.2.1",
-                    "7.2.3",
-                    "7.2.5",
-                    "7.3.2",
-                    "7.3.5",
-                    "7.4.2"
-                ]
-            }
-        }
+  "champid": "yellowjacket",
+  "data": {
+    "2+1": {
+      "rank": 1,
+      "prestige": "276",
+      "hp": "1186",
+      "attack": "90",
+      "crit_rate": "478",
+      "crit_dmge": "563",
+      "armor": "0",
+      "block_prof": "2845",
+      "energy_resist": "3734",
+      "physical_resist": "862",
+      "crit_resist": "0",
+      "sig_info": [
+        "Special 1: Power Sting has a 100% chance to inflict a 0.5 to 1.2 second Stun Debuff if it expires after lasting its full duration.",
+        "Special 2: Gain +4 Core Charge when Petrify ends.",
+        "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 50 to 10.02% each time this happens."
+      ],
+      "url_page": "https://auntm.ai/champions/yellowjacket/tier/2",
+      "champid": "yellowjacket+2+1",
+      "challenger_rating": 20,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "+861.54 Physical Resistance.",
+          "+3733.33 Energy Resistance."
+        ],
+        "NUCLEAR CORE - ALWAYS ACTIVE": [
+          "Starting Charge: 40. Overheat Point: 100+",
+          "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
+          "Either Champion lands a hit: +1 Charge. 60% Chance.",
+          "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
+        ],
+        "NUCLEAR CORE - MELTDOWN": [
+          "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
+          "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 31.5 Physical Damage on them.",
+          "When Meltdown ends: Reset Core back to Starting Charge."
+        ],
+        "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
+          "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
+        ],
+        "SPECIAL ATTACKS - MYSTIC OPPONENT": [
+          "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 67.5 direct damage if they activate a Special Attack."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to inflict an indefinite Power Sting Debuff causing 198 direct damage to the opponent if they activate a Special Attack."
+        ]
+      }
+    },
+    "2+2": {
+      "rank": 2,
+      "prestige": "363",
+      "hp": "1567",
+      "attack": "119",
+      "crit_rate": "493",
+      "crit_dmge": "580",
+      "armor": "0",
+      "block_prof": "2934",
+      "energy_resist": "3850",
+      "physical_resist": "889",
+      "crit_resist": "0",
+      "sig_info": [
+        "Special 1: Power Sting has a 100% chance to inflict a 0.5 to 1.2 second Stun Debuff if it expires after lasting its full duration.",
+        "Special 2: Gain +4 Core Charge when Petrify ends.",
+        "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 50 to 10.02% each time this happens."
+      ],
+      "url_page": "https://auntm.ai/champions/yellowjacket/tier/2",
+      "champid": "yellowjacket+2+2",
+      "challenger_rating": 30,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "+888.46 Physical Resistance.",
+          "+3850 Energy Resistance."
+        ],
+        "NUCLEAR CORE - ALWAYS ACTIVE": [
+          "Starting Charge: 40. Overheat Point: 100+",
+          "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
+          "Either Champion lands a hit: +1 Charge. 60% Chance.",
+          "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
+        ],
+        "NUCLEAR CORE - MELTDOWN": [
+          "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
+          "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 41.65 Physical Damage on them.",
+          "When Meltdown ends: Reset Core back to Starting Charge."
+        ],
+        "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
+          "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
+        ],
+        "SPECIAL ATTACKS - MYSTIC OPPONENT": [
+          "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 89.25 direct damage if they activate a Special Attack."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to inflict an indefinite Power Sting Debuff causing 261.8 direct damage to the opponent if they activate a Special Attack."
+        ]
+      }
+    },
+    "2+3": {
+      "rank": 3,
+      "prestige": "572",
+      "hp": "2487",
+      "attack": "188",
+      "crit_rate": "508",
+      "crit_dmge": "598",
+      "armor": "0",
+      "block_prof": "3023",
+      "energy_resist": "3967",
+      "physical_resist": "916",
+      "crit_resist": "0",
+      "sig_info": [
+        "Special 1: Power Sting has a 100% chance to inflict a 0.5 to 1.2 second Stun Debuff if it expires after lasting its full duration.",
+        "Special 2: Gain +4 Core Charge when Petrify ends.",
+        "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 50 to 10.02% each time this happens."
+      ],
+      "url_page": "https://auntm.ai/champions/yellowjacket/tier/2",
+      "champid": "yellowjacket+2+3",
+      "challenger_rating": 40,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "+915.38 Physical Resistance.",
+          "+3966.67 Energy Resistance."
+        ],
+        "NUCLEAR CORE - ALWAYS ACTIVE": [
+          "Starting Charge: 40. Overheat Point: 100+",
+          "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
+          "Either Champion lands a hit: +1 Charge. 60% Chance.",
+          "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
+        ],
+        "NUCLEAR CORE - MELTDOWN": [
+          "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
+          "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 65.8 Physical Damage on them.",
+          "When Meltdown ends: Reset Core back to Starting Charge."
+        ],
+        "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
+          "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
+        ],
+        "SPECIAL ATTACKS - MYSTIC OPPONENT": [
+          "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 141 direct damage if they activate a Special Attack."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to inflict an indefinite Power Sting Debuff causing 413.6 direct damage to the opponent if they activate a Special Attack."
+        ]
+      }
+    },
+    "3+1": {
+      "rank": 1,
+      "prestige": "495",
+      "hp": "2150",
+      "attack": "163",
+      "crit_rate": "508",
+      "crit_dmge": "598",
+      "armor": "0",
+      "block_prof": "3023",
+      "energy_resist": "3967",
+      "physical_resist": "916",
+      "crit_resist": "0",
+      "sig_info": [
+        "Special 1: Power Sting has a 100% chance to inflict a 0.5 to 1.2 second Stun Debuff if it expires after lasting its full duration.",
+        "Special 2: Gain +4 Core Charge when Petrify ends.",
+        "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 50 to 10.02% each time this happens."
+      ],
+      "url_page": "https://auntm.ai/champions/yellowjacket/tier/3",
+      "champid": "yellowjacket+3+1",
+      "challenger_rating": 40,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "+915.38 Physical Resistance.",
+          "+3966.67 Energy Resistance."
+        ],
+        "NUCLEAR CORE - ALWAYS ACTIVE": [
+          "Starting Charge: 40. Overheat Point: 100+",
+          "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
+          "Either Champion lands a hit: +1 Charge. 60% Chance.",
+          "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
+        ],
+        "NUCLEAR CORE - MELTDOWN": [
+          "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
+          "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 57.05 Physical Damage on them.",
+          "When Meltdown ends: Reset Core back to Starting Charge."
+        ],
+        "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
+          "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
+        ],
+        "SPECIAL ATTACKS - MYSTIC OPPONENT": [
+          "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 122.25 direct damage if they activate a Special Attack."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to inflict an indefinite Power Sting Debuff causing 358.6 direct damage to the opponent if they activate a Special Attack."
+        ]
+      }
+    },
+    "3+2": {
+      "rank": 2,
+      "prestige": "789",
+      "hp": "3440",
+      "attack": "260",
+      "crit_rate": "523",
+      "crit_dmge": "615",
+      "armor": "0",
+      "block_prof": "3112",
+      "energy_resist": "4084",
+      "physical_resist": "943",
+      "crit_resist": "0",
+      "sig_info": [
+        "Special 1: Power Sting has a 100% chance to inflict a 0.5 to 1.2 second Stun Debuff if it expires after lasting its full duration.",
+        "Special 2: Gain +4 Core Charge when Petrify ends.",
+        "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 50 to 10.02% each time this happens."
+      ],
+      "url_page": "https://auntm.ai/champions/yellowjacket/tier/3",
+      "champid": "yellowjacket+3+2",
+      "challenger_rating": 50,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "+942.31 Physical Resistance.",
+          "+4083.33 Energy Resistance."
+        ],
+        "NUCLEAR CORE - ALWAYS ACTIVE": [
+          "Starting Charge: 40. Overheat Point: 100+",
+          "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
+          "Either Champion lands a hit: +1 Charge. 60% Chance.",
+          "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
+        ],
+        "NUCLEAR CORE - MELTDOWN": [
+          "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
+          "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 91 Physical Damage on them.",
+          "When Meltdown ends: Reset Core back to Starting Charge."
+        ],
+        "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
+          "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
+        ],
+        "SPECIAL ATTACKS - MYSTIC OPPONENT": [
+          "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 195 direct damage if they activate a Special Attack."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to inflict an indefinite Power Sting Debuff causing 572 direct damage to the opponent if they activate a Special Attack."
+        ]
+      }
+    },
+    "3+3": {
+      "rank": 3,
+      "prestige": "1100",
+      "hp": "4813",
+      "attack": "363",
+      "crit_rate": "538",
+      "crit_dmge": "633",
+      "armor": "0",
+      "block_prof": "3200",
+      "energy_resist": "4200",
+      "physical_resist": "970",
+      "crit_resist": "0",
+      "sig_info": [
+        "Special 1: Power Sting has a 100% chance to inflict a 0.5 to 1.2 second Stun Debuff if it expires after lasting its full duration.",
+        "Special 2: Gain +4 Core Charge when Petrify ends.",
+        "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 50 to 10.02% each time this happens."
+      ],
+      "url_page": "https://auntm.ai/champions/yellowjacket/tier/3",
+      "champid": "yellowjacket+3+3",
+      "challenger_rating": 60,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "+969.23 Physical Resistance.",
+          "+4200 Energy Resistance."
+        ],
+        "NUCLEAR CORE - ALWAYS ACTIVE": [
+          "Starting Charge: 40. Overheat Point: 100+",
+          "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
+          "Either Champion lands a hit: +1 Charge. 60% Chance.",
+          "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
+        ],
+        "NUCLEAR CORE - MELTDOWN": [
+          "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
+          "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 127.05 Physical Damage on them.",
+          "When Meltdown ends: Reset Core back to Starting Charge."
+        ],
+        "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
+          "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
+        ],
+        "SPECIAL ATTACKS - MYSTIC OPPONENT": [
+          "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 272.25 direct damage if they activate a Special Attack."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to inflict an indefinite Power Sting Debuff causing 798.6 direct damage to the opponent if they activate a Special Attack."
+        ]
+      }
+    },
+    "3+4": {
+      "rank": 4,
+      "prestige": "1511",
+      "hp": "6609",
+      "attack": "498",
+      "crit_rate": "553",
+      "crit_dmge": "650",
+      "armor": "0",
+      "block_prof": "3289",
+      "energy_resist": "4317",
+      "physical_resist": "997",
+      "crit_resist": "0",
+      "sig_info": [
+        "Special 1: Power Sting has a 100% chance to inflict a 0.5 to 1.2 second Stun Debuff if it expires after lasting its full duration.",
+        "Special 2: Gain +4 Core Charge when Petrify ends.",
+        "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 50 to 10.02% each time this happens."
+      ],
+      "url_page": "https://auntm.ai/champions/yellowjacket/tier/3",
+      "champid": "yellowjacket+3+4",
+      "challenger_rating": 70,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "+996.15 Physical Resistance.",
+          "+4316.67 Energy Resistance."
+        ],
+        "NUCLEAR CORE - ALWAYS ACTIVE": [
+          "Starting Charge: 40. Overheat Point: 100+",
+          "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
+          "Either Champion lands a hit: +1 Charge. 60% Chance.",
+          "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
+        ],
+        "NUCLEAR CORE - MELTDOWN": [
+          "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
+          "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 174.3 Physical Damage on them.",
+          "When Meltdown ends: Reset Core back to Starting Charge."
+        ],
+        "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
+          "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
+        ],
+        "SPECIAL ATTACKS - MYSTIC OPPONENT": [
+          "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 373.5 direct damage if they activate a Special Attack."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to inflict an indefinite Power Sting Debuff causing 1095.6 direct damage to the opponent if they activate a Special Attack."
+        ]
+      }
+    },
+    "4+1": {
+      "rank": 1,
+      "prestige": "1101",
+      "hp": "4809",
+      "attack": "363",
+      "crit_rate": "538",
+      "crit_dmge": "633",
+      "armor": "0",
+      "block_prof": "3200",
+      "energy_resist": "4200",
+      "physical_resist": "970",
+      "crit_resist": "0",
+      "sig_info": [
+        "Special 1: Power Sting has a 100% chance to inflict a 0.5 to 1.2 second Stun Debuff if it expires after lasting its full duration.",
+        "Special 2: Gain +4 Core Charge when Petrify ends.",
+        "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 50 to 10.02% each time this happens."
+      ],
+      "url_page": "https://auntm.ai/champions/yellowjacket/tier/4",
+      "champid": "yellowjacket+4+1",
+      "challenger_rating": 60,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "+969.23 Physical Resistance.",
+          "+4200 Energy Resistance."
+        ],
+        "NUCLEAR CORE - ALWAYS ACTIVE": [
+          "Starting Charge: 40. Overheat Point: 100+",
+          "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
+          "Either Champion lands a hit: +1 Charge. 60% Chance.",
+          "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
+        ],
+        "NUCLEAR CORE - MELTDOWN": [
+          "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
+          "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 127.05 Physical Damage on them.",
+          "When Meltdown ends: Reset Core back to Starting Charge."
+        ],
+        "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
+          "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
+        ],
+        "SPECIAL ATTACKS - MYSTIC OPPONENT": [
+          "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 272.25 direct damage if they activate a Special Attack."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to inflict an indefinite Power Sting Debuff causing 798.6 direct damage to the opponent if they activate a Special Attack."
+        ]
+      }
+    },
+    "4+2": {
+      "rank": 2,
+      "prestige": "1545",
+      "hp": "6746",
+      "attack": "509",
+      "crit_rate": "553",
+      "crit_dmge": "650",
+      "armor": "0",
+      "block_prof": "3289",
+      "energy_resist": "4317",
+      "physical_resist": "997",
+      "crit_resist": "0",
+      "sig_info": [
+        "Special 1: Power Sting has a 100% chance to inflict a 0.5 to 1.2 second Stun Debuff if it expires after lasting its full duration.",
+        "Special 2: Gain +4 Core Charge when Petrify ends.",
+        "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 50 to 10.02% each time this happens."
+      ],
+      "url_page": "https://auntm.ai/champions/yellowjacket/tier/4",
+      "champid": "yellowjacket+4+2",
+      "challenger_rating": 70,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "+996.15 Physical Resistance.",
+          "+4316.67 Energy Resistance."
+        ],
+        "NUCLEAR CORE - ALWAYS ACTIVE": [
+          "Starting Charge: 40. Overheat Point: 100+",
+          "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
+          "Either Champion lands a hit: +1 Charge. 60% Chance.",
+          "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
+        ],
+        "NUCLEAR CORE - MELTDOWN": [
+          "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
+          "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 178.15 Physical Damage on them.",
+          "When Meltdown ends: Reset Core back to Starting Charge."
+        ],
+        "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
+          "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
+        ],
+        "SPECIAL ATTACKS - MYSTIC OPPONENT": [
+          "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 381.75 direct damage if they activate a Special Attack."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to inflict an indefinite Power Sting Debuff causing 1119.8 direct damage to the opponent if they activate a Special Attack."
+        ]
+      }
+    },
+    "4+3": {
+      "rank": 3,
+      "prestige": "2162",
+      "hp": "9452",
+      "attack": "713",
+      "crit_rate": "568",
+      "crit_dmge": "668",
+      "armor": "0",
+      "block_prof": "3378",
+      "energy_resist": "4434",
+      "physical_resist": "1024",
+      "crit_resist": "0",
+      "sig_info": [
+        "Special 1: Power Sting has a 100% chance to inflict a 0.5 to 1.2 second Stun Debuff if it expires after lasting its full duration.",
+        "Special 2: Gain +4 Core Charge when Petrify ends.",
+        "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 50 to 10.02% each time this happens."
+      ],
+      "url_page": "https://auntm.ai/champions/yellowjacket/tier/4",
+      "champid": "yellowjacket+4+3",
+      "challenger_rating": 80,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "+1023.08 Physical Resistance.",
+          "+4433.33 Energy Resistance."
+        ],
+        "NUCLEAR CORE - ALWAYS ACTIVE": [
+          "Starting Charge: 40. Overheat Point: 100+",
+          "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
+          "Either Champion lands a hit: +1 Charge. 60% Chance.",
+          "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
+        ],
+        "NUCLEAR CORE - MELTDOWN": [
+          "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
+          "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 249.55 Physical Damage on them.",
+          "When Meltdown ends: Reset Core back to Starting Charge."
+        ],
+        "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
+          "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
+        ],
+        "SPECIAL ATTACKS - MYSTIC OPPONENT": [
+          "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 534.75 direct damage if they activate a Special Attack."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to inflict an indefinite Power Sting Debuff causing 1568.6 direct damage to the opponent if they activate a Special Attack."
+        ]
+      }
+    },
+    "4+4": {
+      "rank": 4,
+      "prestige": "2844",
+      "hp": "12420",
+      "attack": "936",
+      "crit_rate": "583",
+      "crit_dmge": "686",
+      "armor": "0",
+      "block_prof": "3467",
+      "energy_resist": "4550",
+      "physical_resist": "1050",
+      "crit_resist": "0",
+      "sig_info": [
+        "Special 1: Power Sting has a 100% chance to inflict a 0.5 to 1.2 second Stun Debuff if it expires after lasting its full duration.",
+        "Special 2: Gain +4 Core Charge when Petrify ends.",
+        "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 50 to 10.02% each time this happens."
+      ],
+      "url_page": "https://auntm.ai/champions/yellowjacket/tier/4",
+      "champid": "yellowjacket+4+4",
+      "challenger_rating": 90,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "+1050 Physical Resistance.",
+          "+4550 Energy Resistance."
+        ],
+        "NUCLEAR CORE - ALWAYS ACTIVE": [
+          "Starting Charge: 40. Overheat Point: 100+",
+          "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
+          "Either Champion lands a hit: +1 Charge. 60% Chance.",
+          "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
+        ],
+        "NUCLEAR CORE - MELTDOWN": [
+          "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
+          "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 327.6 Physical Damage on them.",
+          "When Meltdown ends: Reset Core back to Starting Charge."
+        ],
+        "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
+          "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
+        ],
+        "SPECIAL ATTACKS - MYSTIC OPPONENT": [
+          "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 702 direct damage if they activate a Special Attack."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to inflict an indefinite Power Sting Debuff causing 2059.2 direct damage to the opponent if they activate a Special Attack."
+        ]
+      }
+    },
+    "4+5": {
+      "rank": 5,
+      "prestige": "3794",
+      "hp": "16572",
+      "attack": "1249",
+      "crit_rate": "598",
+      "crit_dmge": "703",
+      "armor": "0",
+      "block_prof": "3556",
+      "energy_resist": "4667",
+      "physical_resist": "1077",
+      "crit_resist": "0",
+      "sig_info": [
+        "Special 1: Power Sting has a 100% chance to inflict a 0.5 to 1.2 second Stun Debuff if it expires after lasting its full duration.",
+        "Special 2: Gain +4 Core Charge when Petrify ends.",
+        "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 50 to 10.02% each time this happens."
+      ],
+      "url_page": "https://auntm.ai/champions/yellowjacket/tier/4",
+      "champid": "yellowjacket+4+5",
+      "challenger_rating": 100,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "+1076.92 Physical Resistance.",
+          "+4666.67 Energy Resistance."
+        ],
+        "NUCLEAR CORE - ALWAYS ACTIVE": [
+          "Starting Charge: 40. Overheat Point: 100+",
+          "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
+          "Either Champion lands a hit: +1 Charge. 60% Chance.",
+          "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
+        ],
+        "NUCLEAR CORE - MELTDOWN": [
+          "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
+          "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 437.15 Physical Damage on them.",
+          "When Meltdown ends: Reset Core back to Starting Charge."
+        ],
+        "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
+          "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
+        ],
+        "SPECIAL ATTACKS - MYSTIC OPPONENT": [
+          "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 936.75 direct damage if they activate a Special Attack."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to inflict an indefinite Power Sting Debuff causing 2747.8 direct damage to the opponent if they activate a Special Attack."
+        ]
+      }
+    },
+    "5+1": {
+      "rank": 1,
+      "prestige": "2270",
+      "hp": "9890",
+      "attack": "746",
+      "crit_rate": "568",
+      "crit_dmge": "668",
+      "armor": "0",
+      "block_prof": "3378",
+      "energy_resist": "4434",
+      "physical_resist": "1024",
+      "crit_resist": "0",
+      "sig_info": [
+        "Special 1: Power Sting has a 100% chance to inflict a 0.7 to 2.1 second Stun Debuff if it expires after lasting its full duration.",
+        "Special 2: Gain +5 Core Charge when Petrify ends.",
+        "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 45 to 0% each time this happens."
+      ],
+      "url_page": "https://auntm.ai/champions/yellowjacket/tier/5",
+      "champid": "yellowjacket+5+1",
+      "challenger_rating": 80,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "+1023.08 Physical Resistance.",
+          "+4433.33 Energy Resistance."
+        ],
+        "NUCLEAR CORE - ALWAYS ACTIVE": [
+          "Starting Charge: 40. Overheat Point: 100+",
+          "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
+          "Either Champion lands a hit: +1 Charge. 60% Chance.",
+          "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
+        ],
+        "NUCLEAR CORE - MELTDOWN": [
+          "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
+          "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 261.1 Physical Damage on them.",
+          "When Meltdown ends: Reset Core back to Starting Charge."
+        ],
+        "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
+          "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
+        ],
+        "SPECIAL ATTACKS - MYSTIC OPPONENT": [
+          "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 559.5 direct damage if they activate a Special Attack."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to inflict an indefinite Power Sting Debuff causing 1641.2 direct damage to the opponent if they activate a Special Attack."
+        ]
+      }
+    },
+    "5+2": {
+      "rank": 2,
+      "prestige": "2997",
+      "hp": "13064",
+      "attack": "985",
+      "crit_rate": "583",
+      "crit_dmge": "686",
+      "armor": "0",
+      "block_prof": "3467",
+      "energy_resist": "4550",
+      "physical_resist": "1050",
+      "crit_resist": "0",
+      "sig_info": [
+        "Special 1: Power Sting has a 100% chance to inflict a 0.7 to 2.1 second Stun Debuff if it expires after lasting its full duration.",
+        "Special 2: Gain +5 Core Charge when Petrify ends.",
+        "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 45 to 0% each time this happens."
+      ],
+      "url_page": "https://auntm.ai/champions/yellowjacket/tier/5",
+      "champid": "yellowjacket+5+2",
+      "challenger_rating": 90,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "+1050 Physical Resistance.",
+          "+4550 Energy Resistance."
+        ],
+        "NUCLEAR CORE - ALWAYS ACTIVE": [
+          "Starting Charge: 40. Overheat Point: 100+",
+          "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
+          "Either Champion lands a hit: +1 Charge. 60% Chance.",
+          "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
+        ],
+        "NUCLEAR CORE - MELTDOWN": [
+          "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
+          "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 344.75 Physical Damage on them.",
+          "When Meltdown ends: Reset Core back to Starting Charge."
+        ],
+        "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
+          "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
+        ],
+        "SPECIAL ATTACKS - MYSTIC OPPONENT": [
+          "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 738.75 direct damage if they activate a Special Attack."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to inflict an indefinite Power Sting Debuff causing 2167 direct damage to the opponent if they activate a Special Attack."
+        ]
+      }
+    },
+    "5+3": {
+      "rank": 3,
+      "prestige": "4197",
+      "hp": "18263",
+      "attack": "1377",
+      "crit_rate": "598",
+      "crit_dmge": "703",
+      "armor": "0",
+      "block_prof": "3556",
+      "energy_resist": "4667",
+      "physical_resist": "1077",
+      "crit_resist": "0",
+      "sig_info": [
+        "Special 1: Power Sting has a 100% chance to inflict a 0.7 to 2.1 second Stun Debuff if it expires after lasting its full duration.",
+        "Special 2: Gain +5 Core Charge when Petrify ends.",
+        "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 45 to 0% each time this happens."
+      ],
+      "url_page": "https://auntm.ai/champions/yellowjacket/tier/5",
+      "champid": "yellowjacket+5+3",
+      "challenger_rating": 100,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "+1076.92 Physical Resistance.",
+          "+4666.67 Energy Resistance."
+        ],
+        "NUCLEAR CORE - ALWAYS ACTIVE": [
+          "Starting Charge: 40. Overheat Point: 100+",
+          "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
+          "Either Champion lands a hit: +1 Charge. 60% Chance.",
+          "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
+        ],
+        "NUCLEAR CORE - MELTDOWN": [
+          "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
+          "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 481.95 Physical Damage on them.",
+          "When Meltdown ends: Reset Core back to Starting Charge."
+        ],
+        "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
+          "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
+        ],
+        "SPECIAL ATTACKS - MYSTIC OPPONENT": [
+          "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 1032.75 direct damage if they activate a Special Attack."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to inflict an indefinite Power Sting Debuff causing 3029.4 direct damage to the opponent if they activate a Special Attack."
+        ]
+      }
+    },
+    "5+4": {
+      "rank": 4,
+      "prestige": "5652",
+      "hp": "24610",
+      "attack": "1855",
+      "crit_rate": "613",
+      "crit_dmge": "721",
+      "armor": "0",
+      "block_prof": "3645",
+      "energy_resist": "4784",
+      "physical_resist": "1104",
+      "crit_resist": "0",
+      "sig_info": [
+        "Special 1: Power Sting has a 100% chance to inflict a 0.7 to 2.1 second Stun Debuff if it expires after lasting its full duration.",
+        "Special 2: Gain +5 Core Charge when Petrify ends.",
+        "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 45 to 0% each time this happens."
+      ],
+      "url_page": "https://auntm.ai/champions/yellowjacket/tier/5",
+      "champid": "yellowjacket+5+4",
+      "challenger_rating": 110,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "+1103.85 Physical Resistance.",
+          "+4783.33 Energy Resistance."
+        ],
+        "NUCLEAR CORE - ALWAYS ACTIVE": [
+          "Starting Charge: 40. Overheat Point: 100+",
+          "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
+          "Either Champion lands a hit: +1 Charge. 60% Chance.",
+          "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
+        ],
+        "NUCLEAR CORE - MELTDOWN": [
+          "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
+          "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 649.25 Physical Damage on them.",
+          "When Meltdown ends: Reset Core back to Starting Charge."
+        ],
+        "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
+          "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
+        ],
+        "SPECIAL ATTACKS - MYSTIC OPPONENT": [
+          "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 1391.25 direct damage if they activate a Special Attack."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to inflict an indefinite Power Sting Debuff causing 4081 direct damage to the opponent if they activate a Special Attack."
+        ]
+      }
+    },
+    "5+5": {
+      "rank": 5,
+      "prestige": "7640",
+      "hp": "33227",
+      "attack": "2504",
+      "crit_rate": "628",
+      "crit_dmge": "738",
+      "armor": "0",
+      "block_prof": "3734",
+      "energy_resist": "4900",
+      "physical_resist": "1131",
+      "crit_resist": "0",
+      "sig_info": [
+        "Special 1: Power Sting has a 100% chance to inflict a 0.7 to 2.1 second Stun Debuff if it expires after lasting its full duration.",
+        "Special 2: Gain +5 Core Charge when Petrify ends.",
+        "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 45 to 0% each time this happens."
+      ],
+      "url_page": "https://auntm.ai/champions/yellowjacket/tier/5",
+      "champid": "yellowjacket+5+5",
+      "challenger_rating": 120,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "+1130.77 Physical Resistance.",
+          "+4900 Energy Resistance."
+        ],
+        "NUCLEAR CORE - ALWAYS ACTIVE": [
+          "Starting Charge: 40. Overheat Point: 100+",
+          "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
+          "Either Champion lands a hit: +1 Charge. 60% Chance.",
+          "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
+        ],
+        "NUCLEAR CORE - MELTDOWN": [
+          "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
+          "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 876.4 Physical Damage on them.",
+          "When Meltdown ends: Reset Core back to Starting Charge."
+        ],
+        "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
+          "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
+        ],
+        "SPECIAL ATTACKS - MYSTIC OPPONENT": [
+          "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 1878 direct damage if they activate a Special Attack."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to inflict an indefinite Power Sting Debuff causing 5508.8 direct damage to the opponent if they activate a Special Attack."
+        ]
+      }
+    },
+    "6+1": {
+      "rank": 1,
+      "prestige": "5987",
+      "hp": "26127",
+      "attack": "1969",
+      "crit_rate": "613",
+      "crit_dmge": "721",
+      "armor": "0",
+      "block_prof": "3645",
+      "energy_resist": "4784",
+      "physical_resist": "1104",
+      "crit_resist": "0",
+      "sig_info": [
+        "Special 1: Power Sting has a 100% chance to inflict a 0.7 to 2.1 second Stun Debuff if it expires after lasting its full duration.",
+        "Special 2: Gain +5 Core Charge when Petrify ends.",
+        "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 45 to 0% each time this happens."
+      ],
+      "url_page": "https://auntm.ai/champions/yellowjacket/tier/6",
+      "champid": "yellowjacket+6+1",
+      "challenger_rating": 110,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "+1103.85 Physical Resistance.",
+          "+4783.33 Energy Resistance."
+        ],
+        "NUCLEAR CORE - ALWAYS ACTIVE": [
+          "Starting Charge: 40. Overheat Point: 100+",
+          "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
+          "Either Champion lands a hit: +1 Charge. 60% Chance.",
+          "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
+        ],
+        "NUCLEAR CORE - MELTDOWN": [
+          "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
+          "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 689.15 Physical Damage on them.",
+          "When Meltdown ends: Reset Core back to Starting Charge."
+        ],
+        "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
+          "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
+        ],
+        "SPECIAL ATTACKS - MYSTIC OPPONENT": [
+          "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 1476.75 direct damage if they activate a Special Attack."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to inflict an indefinite Power Sting Debuff causing 4331.8 direct damage to the opponent if they activate a Special Attack."
+        ]
+      }
+    },
+    "6+2": {
+      "rank": 2,
+      "prestige": "8265",
+      "hp": "36090",
+      "attack": "2720",
+      "crit_rate": "628",
+      "crit_dmge": "738",
+      "armor": "0",
+      "block_prof": "3734",
+      "energy_resist": "4900",
+      "physical_resist": "1131",
+      "crit_resist": "0",
+      "sig_info": [
+        "Special 1: Power Sting has a 100% chance to inflict a 0.7 to 2.1 second Stun Debuff if it expires after lasting its full duration.",
+        "Special 2: Gain +5 Core Charge when Petrify ends.",
+        "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 45 to 0% each time this happens."
+      ],
+      "url_page": "https://auntm.ai/champions/yellowjacket/tier/6",
+      "champid": "yellowjacket+6+2",
+      "challenger_rating": 120,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "+1130.77 Physical Resistance.",
+          "+4900 Energy Resistance."
+        ],
+        "NUCLEAR CORE - ALWAYS ACTIVE": [
+          "Starting Charge: 40. Overheat Point: 100+",
+          "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
+          "Either Champion lands a hit: +1 Charge. 60% Chance.",
+          "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
+        ],
+        "NUCLEAR CORE - MELTDOWN": [
+          "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
+          "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 952 Physical Damage on them.",
+          "When Meltdown ends: Reset Core back to Starting Charge."
+        ],
+        "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
+          "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
+        ],
+        "SPECIAL ATTACKS - MYSTIC OPPONENT": [
+          "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 2040 direct damage if they activate a Special Attack."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to inflict an indefinite Power Sting Debuff causing 5984 direct damage to the opponent if they activate a Special Attack."
+        ]
+      }
+    },
+    "6+3": {
+      "rank": 3,
+      "prestige": "9826",
+      "hp": "42815",
+      "attack": "3227",
+      "crit_rate": "643",
+      "crit_dmge": "756",
+      "armor": "0",
+      "block_prof": "3823",
+      "energy_resist": "5017",
+      "physical_resist": "1158",
+      "crit_resist": "0",
+      "sig_info": [
+        "Special 1: Power Sting has a 100% chance to inflict a 0.7 to 2.1 second Stun Debuff if it expires after lasting its full duration.",
+        "Special 2: Gain +5 Core Charge when Petrify ends.",
+        "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 45 to 0% each time this happens."
+      ],
+      "url_page": "https://auntm.ai/champions/yellowjacket/tier/6",
+      "champid": "yellowjacket+6+3",
+      "challenger_rating": 130,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "+1157.69 Physical Resistance.",
+          "+5016.67 Energy Resistance."
+        ],
+        "NUCLEAR CORE - ALWAYS ACTIVE": [
+          "Starting Charge: 40. Overheat Point: 100+",
+          "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
+          "Either Champion lands a hit: +1 Charge. 60% Chance.",
+          "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
+        ],
+        "NUCLEAR CORE - MELTDOWN": [
+          "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
+          "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 1129.45 Physical Damage on them.",
+          "When Meltdown ends: Reset Core back to Starting Charge."
+        ],
+        "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
+          "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
+        ],
+        "SPECIAL ATTACKS - MYSTIC OPPONENT": [
+          "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 2420.25 direct damage if they activate a Special Attack."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to inflict an indefinite Power Sting Debuff causing 7099.4 direct damage to the opponent if they activate a Special Attack."
+        ]
+      }
+    },
+    "6+4": {
+      "rank": 4,
+      "prestige": "11245",
+      "hp": "48995",
+      "attack": "3693",
+      "crit_rate": "658",
+      "crit_dmge": "773",
+      "armor": "0",
+      "block_prof": "3912",
+      "energy_resist": "5134",
+      "physical_resist": "1185",
+      "crit_resist": "0",
+      "sig_info": [
+        "Special 1: Power Sting has a 100% chance to inflict a 0.7 to 2.1 second Stun Debuff if it expires after lasting its full duration.",
+        "Special 2: Gain +5 Core Charge when Petrify ends.",
+        "Special 3: Power Sting has a 100% chance to re-apply itself once activated. Chance decreases by 45 to 0% each time this happens."
+      ],
+      "url_page": "https://auntm.ai/champions/yellowjacket/tier/6",
+      "champid": "yellowjacket+6+4",
+      "challenger_rating": 140,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "+1184.62 Physical Resistance.",
+          "+5133.33 Energy Resistance."
+        ],
+        "NUCLEAR CORE - ALWAYS ACTIVE": [
+          "Starting Charge: 40. Overheat Point: 100+",
+          "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
+          "Either Champion lands a hit: +1 Charge. 60% Chance.",
+          "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
+        ],
+        "NUCLEAR CORE - MELTDOWN": [
+          "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
+          "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 1292.55 Physical Damage on them.",
+          "When Meltdown ends: Reset Core back to Starting Charge."
+        ],
+        "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
+          "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
+        ],
+        "SPECIAL ATTACKS - MYSTIC OPPONENT": [
+          "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 2769.75 direct damage if they activate a Special Attack."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to inflict an indefinite Power Sting Debuff causing 8124.6 direct damage to the opponent if they activate a Special Attack."
+        ]
+      }
+    },
+    "1+1": {
+      "rank": 1,
+      "prestige": 215,
+      "hp": 929,
+      "attack": 70,
+      "crit_rate": 463,
+      "crit_dmge": 545,
+      "armor": 0,
+      "block_prof": 2756,
+      "energy_resist": 3617,
+      "physical_resist": 835,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/yellowjacket/tier/1",
+      "champid": "yellowjacket+1+1",
+      "challenger_rating": 10,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "+834.62 Physical Resistance.",
+          "+3616.67 Energy Resistance."
+        ],
+        "NUCLEAR CORE - ALWAYS ACTIVE": [
+          "Starting Charge: 40. Overheat Point: 100+",
+          "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
+          "Either Champion lands a hit: +1 Charge. 60% Chance.",
+          "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
+        ],
+        "NUCLEAR CORE - MELTDOWN": [
+          "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
+          "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 24.5 Physical Damage on them.",
+          "When Meltdown ends: Reset Core back to Starting Charge."
+        ],
+        "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
+          "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
+        ],
+        "SPECIAL ATTACKS - MYSTIC OPPONENT": [
+          "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 52.5 direct damage if they activate a Special Attack."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to inflict an indefinite Power Sting Debuff causing 154 direct damage to the opponent if they activate a Special Attack."
+        ]
+      }
+    },
+    "1+2": {
+      "rank": 2,
+      "prestige": 296,
+      "hp": 1285,
+      "attack": 97,
+      "crit_rate": 478,
+      "crit_dmge": 563,
+      "armor": 0,
+      "block_prof": 2845,
+      "energy_resist": 3734,
+      "physical_resist": 862,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/yellowjacket/tier/1",
+      "champid": "yellowjacket+1+2",
+      "challenger_rating": 20,
+      "abilities": {
+        "ALWAYS ACTIVE": [
+          "+861.54 Physical Resistance.",
+          "+3733.33 Energy Resistance."
+        ],
+        "NUCLEAR CORE - ALWAYS ACTIVE": [
+          "Starting Charge: 40. Overheat Point: 100+",
+          "Each Charge increases the Potency of personal Debuffs by 1% & reduces the opponent\u2019s Regeneration Rate by 1%.",
+          "Either Champion lands a hit: +1 Charge. 60% Chance.",
+          "Opponent Launches a Special Attack: +10 Charge. 100% Chance."
+        ],
+        "NUCLEAR CORE - MELTDOWN": [
+          "When Charge is gained above the Overheat Point, there\u2019s a chance to enter Meltdown for 12 seconds. Chance increases with Charge.",
+          "While Meltdown is active: Any contact with the opponent has a 75% chance to inflict a burst of 33.95 Physical Damage on them.",
+          "When Meltdown ends: Reset Core back to Starting Charge."
+        ],
+        "INCOMING UNBLOCKABLE SPECIAL ATTACKS": [
+          "Each hit has 100% chance to spend 10 Nuclear Core Charge to reduce the opponent\u2019s Attack Rating by 75%."
+        ],
+        "SPECIAL ATTACKS - MYSTIC OPPONENT": [
+          "Personal Debuffs trigger when the attack is launched instead of on hit and they are Paused for the duration of the attack."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Inflicts up to 3 Power Sting Debuffs, with each having a 90% chance to activate and lasting 10 seconds. An opponent with Power Sting takes 72.75 direct damage if they activate a Special Attack."
+        ],
+        "SPECIAL ATTACK 2": [
+          "100% chance to inflict a Petrify Debuff of 50% Potency for 15 seconds."
+        ],
+        "SPECIAL ATTACK 3": [
+          "100% chance to inflict an indefinite Power Sting Debuff causing 213.4 direct damage to the opponent if they activate a Special Attack."
+        ]
+      }
+    },
+    "find": {
+      "story_quests": {
+        "act_1": [],
+        "act_2": [],
+        "act_3": ["3.1.1"],
+        "act_4": [
+          "4.1.2",
+          "4.1.4",
+          "4.1.5",
+          "4.1.6",
+          "4.2.2",
+          "4.2.3",
+          "4.2.4",
+          "4.2.5",
+          "4.2.6",
+          "4.3.1",
+          "4.3.2",
+          "4.3.3",
+          "4.3.5",
+          "4.3.6",
+          "4.4.2",
+          "4.4.3",
+          "4.4.4",
+          "4.4.5",
+          "4.4.6"
+        ],
+        "act_5": [
+          "5.1.1",
+          "5.1.2",
+          "5.1.3",
+          "5.1.4",
+          "5.1.5",
+          "5.1.6",
+          "5.2.4",
+          "5.2.6",
+          "5.3.2",
+          "5.3.4",
+          "5.3.6",
+          "5.4.2",
+          "5.4.3",
+          "5.4.5",
+          "5.4.6"
+        ],
+        "act_6": [
+          "6.1.1",
+          "6.1.2",
+          "6.1.3",
+          "6.1.4",
+          "6.1.5",
+          "6.2.4",
+          "6.3.1",
+          "6.3.4",
+          "6.4.4",
+          "6.4.6"
+        ],
+        "act_7": [
+          "7.1.1",
+          "7.1.5",
+          "7.2.1",
+          "7.2.3",
+          "7.2.5",
+          "7.3.2",
+          "7.3.5",
+          "7.4.2"
+        ]
+      }
     }
+  },
+  "name": "YELLOWJACKET",
+  "class": "Science",
+  "img_portrait": "https://api.rexians.tk/assets/portraits/yellowjacket.png",
+  "contact": "PHYSICAL",
+  "tags": ["Villain", "Size: M"],
+  "released": "7/30/2015"
 }

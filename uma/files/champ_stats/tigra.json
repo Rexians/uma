@@ -1,1024 +1,1112 @@
 {
-    "name": "TIGRA",
-    "class": "Mystic",
-    "img_portrait": "https://api.rexians.tk/assets/portraits/tigra.png",
-    "contact": "PHYSICAL",
-    "tags": [
-        "Hero",
-        "Size: S"
-    ],
-    "released": "6/11/2020",
-    "champid": "tigra",
-    "data": {
-        "2+1": {
-            "rank": 1,
-            "prestige": "275",
-            "hp": "1001",
-            "attack": "95",
-            "crit_rate": "426",
-            "crit_dmge": "686",
-            "armor": "33",
-            "block_prof": "2303",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 9 seconds.",
-            "url_page": "https://auntm.ai/champions/tigra/tier/2",
-            "champid": "tigra+2+1",
-            "challenger_rating": 20,
-            "abilities": {
-                "ALL ATTACKS": [
-                    "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
-                    "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 4.75 Physical Damage over 1 second(s). Cooldown 1 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
-                    "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 47.5 Physical Damage over 18 seconds."
-                ],
-                "SPECIAL ATTACKS": [
-                    "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
-                    "Landing an Unblockable strike inflicts Rupture dealing 47.5 Physical Damage over 8 seconds."
-                ],
-                "FIGHTING NON-COSMIC CHAMPIONS": [
-                    "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
-                    "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 80.75 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
-                    "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit has a 10% chance to inflict Rupture dealing 80.75 Physical Damage over 4 seconds.",
-                    "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain Primal Sense and Huntress Sense for 14 seconds.",
-                    "Inflict a non-stacking, indefinite Rupture dealing 4.75 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
-                ]
-            }
-        },
-        "2+2": {
-            "rank": 2,
-            "prestige": "360",
-            "hp": "1323",
-            "attack": "125",
-            "crit_rate": "439",
-            "crit_dmge": "708",
-            "armor": "52",
-            "block_prof": "2375",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 9 seconds.",
-            "url_page": "https://auntm.ai/champions/tigra/tier/2",
-            "champid": "tigra+2+2",
-            "challenger_rating": 30,
-            "abilities": {
-                "ALL ATTACKS": [
-                    "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
-                    "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 6.25 Physical Damage over 1 second(s). Cooldown 1 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
-                    "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 62.5 Physical Damage over 18 seconds."
-                ],
-                "SPECIAL ATTACKS": [
-                    "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
-                    "Landing an Unblockable strike inflicts Rupture dealing 62.5 Physical Damage over 8 seconds."
-                ],
-                "FIGHTING NON-COSMIC CHAMPIONS": [
-                    "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
-                    "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 106.25 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
-                    "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit has a 10% chance to inflict Rupture dealing 106.25 Physical Damage over 4 seconds.",
-                    "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain Primal Sense and Huntress Sense for 14 seconds.",
-                    "Inflict a non-stacking, indefinite Rupture dealing 6.25 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
-                ]
-            }
-        },
-        "2+3": {
-            "rank": 3,
-            "prestige": "580",
-            "hp": "2099",
-            "attack": "198",
-            "crit_rate": "452",
-            "crit_dmge": "729",
-            "armor": "71",
-            "block_prof": "2447",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 9 seconds.",
-            "url_page": "https://auntm.ai/champions/tigra/tier/2",
-            "champid": "tigra+2+3",
-            "challenger_rating": 40,
-            "abilities": {
-                "ALL ATTACKS": [
-                    "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
-                    "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 9.9 Physical Damage over 1 second(s). Cooldown 1 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
-                    "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 99 Physical Damage over 18 seconds."
-                ],
-                "SPECIAL ATTACKS": [
-                    "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
-                    "Landing an Unblockable strike inflicts Rupture dealing 99 Physical Damage over 8 seconds."
-                ],
-                "FIGHTING NON-COSMIC CHAMPIONS": [
-                    "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
-                    "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 168.3 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
-                    "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit has a 10% chance to inflict Rupture dealing 168.3 Physical Damage over 4 seconds.",
-                    "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain Primal Sense and Huntress Sense for 14 seconds.",
-                    "Inflict a non-stacking, indefinite Rupture dealing 9.9 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
-                ]
-            }
-        },
-        "3+1": {
-            "rank": 1,
-            "prestige": "501",
-            "hp": "1815",
-            "attack": "171",
-            "crit_rate": "452",
-            "crit_dmge": "729",
-            "armor": "71",
-            "block_prof": "2447",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 9 seconds.",
-            "url_page": "https://auntm.ai/champions/tigra/tier/3",
-            "champid": "tigra+3+1",
-            "challenger_rating": 40,
-            "abilities": {
-                "ALL ATTACKS": [
-                    "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
-                    "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 8.55 Physical Damage over 1 second(s). Cooldown 1 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
-                    "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 85.5 Physical Damage over 18 seconds."
-                ],
-                "SPECIAL ATTACKS": [
-                    "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
-                    "Landing an Unblockable strike inflicts Rupture dealing 85.5 Physical Damage over 8 seconds."
-                ],
-                "FIGHTING NON-COSMIC CHAMPIONS": [
-                    "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
-                    "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 145.35 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
-                    "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit has a 10% chance to inflict Rupture dealing 145.35 Physical Damage over 4 seconds.",
-                    "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain Primal Sense and Huntress Sense for 14 seconds.",
-                    "Inflict a non-stacking, indefinite Rupture dealing 8.55 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
-                ]
-            }
-        },
-        "3+2": {
-            "rank": 2,
-            "prestige": "803",
-            "hp": "2904",
-            "attack": "274",
-            "crit_rate": "466",
-            "crit_dmge": "750",
-            "armor": "93",
-            "block_prof": "2519",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 9 seconds.",
-            "url_page": "https://auntm.ai/champions/tigra/tier/3",
-            "champid": "tigra+3+2",
-            "challenger_rating": 50,
-            "abilities": {
-                "ALL ATTACKS": [
-                    "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
-                    "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 13.7 Physical Damage over 1 second(s). Cooldown 1 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
-                    "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 137 Physical Damage over 18 seconds."
-                ],
-                "SPECIAL ATTACKS": [
-                    "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
-                    "Landing an Unblockable strike inflicts Rupture dealing 137 Physical Damage over 8 seconds."
-                ],
-                "FIGHTING NON-COSMIC CHAMPIONS": [
-                    "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
-                    "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 232.9 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
-                    "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit has a 10% chance to inflict Rupture dealing 232.9 Physical Damage over 4 seconds.",
-                    "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain Primal Sense and Huntress Sense for 14 seconds.",
-                    "Inflict a non-stacking, indefinite Rupture dealing 13.7 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
-                ]
-            }
-        },
-        "3+3": {
-            "rank": 3,
-            "prestige": "1121",
-            "hp": "4062",
-            "attack": "383",
-            "crit_rate": "479",
-            "crit_dmge": "772",
-            "armor": "115",
-            "block_prof": "2591",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 9 seconds.",
-            "url_page": "https://auntm.ai/champions/tigra/tier/3",
-            "champid": "tigra+3+3",
-            "challenger_rating": 60,
-            "abilities": {
-                "ALL ATTACKS": [
-                    "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
-                    "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 19.15 Physical Damage over 1 second(s). Cooldown 1 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
-                    "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 191.5 Physical Damage over 18 seconds."
-                ],
-                "SPECIAL ATTACKS": [
-                    "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
-                    "Landing an Unblockable strike inflicts Rupture dealing 191.5 Physical Damage over 8 seconds."
-                ],
-                "FIGHTING NON-COSMIC CHAMPIONS": [
-                    "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
-                    "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 325.55 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
-                    "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit has a 10% chance to inflict Rupture dealing 325.55 Physical Damage over 4 seconds.",
-                    "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain Primal Sense and Huntress Sense for 14 seconds.",
-                    "Inflict a non-stacking, indefinite Rupture dealing 19.15 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
-                ]
-            }
-        },
-        "3+4": {
-            "rank": 4,
-            "prestige": "1540",
-            "hp": "5578",
-            "attack": "525",
-            "crit_rate": "492",
-            "crit_dmge": "793",
-            "armor": "140",
-            "block_prof": "2663",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 9 seconds.",
-            "url_page": "https://auntm.ai/champions/tigra/tier/3",
-            "champid": "tigra+3+4",
-            "challenger_rating": 70,
-            "abilities": {
-                "ALL ATTACKS": [
-                    "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
-                    "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 26.25 Physical Damage over 1 second(s). Cooldown 1 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
-                    "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 262.5 Physical Damage over 18 seconds."
-                ],
-                "SPECIAL ATTACKS": [
-                    "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
-                    "Landing an Unblockable strike inflicts Rupture dealing 262.5 Physical Damage over 8 seconds."
-                ],
-                "FIGHTING NON-COSMIC CHAMPIONS": [
-                    "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
-                    "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 446.25 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
-                    "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit has a 10% chance to inflict Rupture dealing 446.25 Physical Damage over 4 seconds.",
-                    "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain Primal Sense and Huntress Sense for 14 seconds.",
-                    "Inflict a non-stacking, indefinite Rupture dealing 26.25 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
-                ]
-            }
-        },
-        "4+1": {
-            "rank": 1,
-            "prestige": "1122",
-            "hp": "4059",
-            "attack": "382",
-            "crit_rate": "479",
-            "crit_dmge": "772",
-            "armor": "157",
-            "block_prof": "2591",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 9 seconds.",
-            "url_page": "https://auntm.ai/champions/tigra/tier/4",
-            "champid": "tigra+4+1",
-            "challenger_rating": 60,
-            "abilities": {
-                "ALL ATTACKS": [
-                    "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
-                    "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 19.1 Physical Damage over 1 second(s). Cooldown 1 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
-                    "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 191 Physical Damage over 18 seconds."
-                ],
-                "SPECIAL ATTACKS": [
-                    "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
-                    "Landing an Unblockable strike inflicts Rupture dealing 191 Physical Damage over 8 seconds."
-                ],
-                "FIGHTING NON-COSMIC CHAMPIONS": [
-                    "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
-                    "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 324.7 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
-                    "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit has a 10% chance to inflict Rupture dealing 324.7 Physical Damage over 4 seconds.",
-                    "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain Primal Sense and Huntress Sense for 14 seconds.",
-                    "Inflict a non-stacking, indefinite Rupture dealing 19.1 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
-                ]
-            }
-        },
-        "4+2": {
-            "rank": 2,
-            "prestige": "1576",
-            "hp": "5694",
-            "attack": "536",
-            "crit_rate": "492",
-            "crit_dmge": "793",
-            "armor": "183",
-            "block_prof": "2663",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 9 seconds.",
-            "url_page": "https://auntm.ai/champions/tigra/tier/4",
-            "champid": "tigra+4+2",
-            "challenger_rating": 70,
-            "abilities": {
-                "ALL ATTACKS": [
-                    "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
-                    "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 26.8 Physical Damage over 1 second(s). Cooldown 1 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
-                    "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 268 Physical Damage over 18 seconds."
-                ],
-                "SPECIAL ATTACKS": [
-                    "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
-                    "Landing an Unblockable strike inflicts Rupture dealing 268 Physical Damage over 8 seconds."
-                ],
-                "FIGHTING NON-COSMIC CHAMPIONS": [
-                    "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
-                    "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 455.6 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
-                    "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit has a 10% chance to inflict Rupture dealing 455.6 Physical Damage over 4 seconds.",
-                    "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain Primal Sense and Huntress Sense for 14 seconds.",
-                    "Inflict a non-stacking, indefinite Rupture dealing 26.8 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
-                ]
-            }
-        },
-        "4+3": {
-            "rank": 3,
-            "prestige": "2207",
-            "hp": "7978",
-            "attack": "751",
-            "crit_rate": "506",
-            "crit_dmge": "815",
-            "armor": "212",
-            "block_prof": "2735",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 9 seconds.",
-            "url_page": "https://auntm.ai/champions/tigra/tier/4",
-            "champid": "tigra+4+3",
-            "challenger_rating": 80,
-            "abilities": {
-                "ALL ATTACKS": [
-                    "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
-                    "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 37.55 Physical Damage over 1 second(s). Cooldown 1 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
-                    "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 375.5 Physical Damage over 18 seconds."
-                ],
-                "SPECIAL ATTACKS": [
-                    "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
-                    "Landing an Unblockable strike inflicts Rupture dealing 375.5 Physical Damage over 8 seconds."
-                ],
-                "FIGHTING NON-COSMIC CHAMPIONS": [
-                    "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
-                    "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 638.35 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
-                    "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit has a 10% chance to inflict Rupture dealing 638.35 Physical Damage over 4 seconds.",
-                    "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain Primal Sense and Huntress Sense for 14 seconds.",
-                    "Inflict a non-stacking, indefinite Rupture dealing 37.55 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
-                ]
-            }
-        },
-        "4+4": {
-            "rank": 4,
-            "prestige": "2903",
-            "hp": "10483",
-            "attack": "987",
-            "crit_rate": "519",
-            "crit_dmge": "836",
-            "armor": "242",
-            "block_prof": "2807",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 9 seconds.",
-            "url_page": "https://auntm.ai/champions/tigra/tier/4",
-            "champid": "tigra+4+4",
-            "challenger_rating": 90,
-            "abilities": {
-                "ALL ATTACKS": [
-                    "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
-                    "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 49.35 Physical Damage over 1 second(s). Cooldown 1 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
-                    "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 493.5 Physical Damage over 18 seconds."
-                ],
-                "SPECIAL ATTACKS": [
-                    "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
-                    "Landing an Unblockable strike inflicts Rupture dealing 493.5 Physical Damage over 8 seconds."
-                ],
-                "FIGHTING NON-COSMIC CHAMPIONS": [
-                    "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
-                    "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 838.95 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
-                    "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit has a 10% chance to inflict Rupture dealing 838.95 Physical Damage over 4 seconds.",
-                    "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain Primal Sense and Huntress Sense for 14 seconds.",
-                    "Inflict a non-stacking, indefinite Rupture dealing 49.35 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
-                ]
-            }
-        },
-        "4+5": {
-            "rank": 5,
-            "prestige": "3873",
-            "hp": "13987",
-            "attack": "1317",
-            "crit_rate": "532",
-            "crit_dmge": "858",
-            "armor": "273",
-            "block_prof": "2879",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 9 seconds.",
-            "url_page": "https://auntm.ai/champions/tigra/tier/4",
-            "champid": "tigra+4+5",
-            "challenger_rating": 100,
-            "abilities": {
-                "ALL ATTACKS": [
-                    "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
-                    "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 65.85 Physical Damage over 1 second(s). Cooldown 1 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
-                    "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 658.5 Physical Damage over 18 seconds."
-                ],
-                "SPECIAL ATTACKS": [
-                    "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
-                    "Landing an Unblockable strike inflicts Rupture dealing 658.5 Physical Damage over 8 seconds."
-                ],
-                "FIGHTING NON-COSMIC CHAMPIONS": [
-                    "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
-                    "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 1119.45 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
-                    "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit has a 10% chance to inflict Rupture dealing 1119.45 Physical Damage over 4 seconds.",
-                    "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain Primal Sense and Huntress Sense for 14 seconds.",
-                    "Inflict a non-stacking, indefinite Rupture dealing 65.85 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
-                ]
-            }
-        },
-        "5+1": {
-            "rank": 1,
-            "prestige": "2317",
-            "hp": "8347",
-            "attack": "786",
-            "crit_rate": "506",
-            "crit_dmge": "815",
-            "armor": "362",
-            "block_prof": "2735",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 12 seconds.",
-            "url_page": "https://auntm.ai/champions/tigra/tier/5",
-            "champid": "tigra+5+1",
-            "challenger_rating": 80,
-            "abilities": {
-                "ALL ATTACKS": [
-                    "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
-                    "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 39.3 Physical Damage over 1 second(s). Cooldown 1 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
-                    "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 393 Physical Damage over 18 seconds."
-                ],
-                "SPECIAL ATTACKS": [
-                    "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
-                    "Landing an Unblockable strike inflicts Rupture dealing 393 Physical Damage over 8 seconds."
-                ],
-                "FIGHTING NON-COSMIC CHAMPIONS": [
-                    "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
-                    "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 668.1 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
-                    "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit has a 10% chance to inflict Rupture dealing 668.1 Physical Damage over 4 seconds.",
-                    "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain Primal Sense and Huntress Sense for 14 seconds.",
-                    "Inflict a non-stacking, indefinite Rupture dealing 39.3 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
-                ]
-            }
-        },
-        "5+2": {
-            "rank": 2,
-            "prestige": "3057",
-            "hp": "11026",
-            "attack": "1038",
-            "crit_rate": "519",
-            "crit_dmge": "836",
-            "armor": "400",
-            "block_prof": "2807",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 12 seconds.",
-            "url_page": "https://auntm.ai/champions/tigra/tier/5",
-            "champid": "tigra+5+2",
-            "challenger_rating": 90,
-            "abilities": {
-                "ALL ATTACKS": [
-                    "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
-                    "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 51.9 Physical Damage over 1 second(s). Cooldown 1 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
-                    "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 519 Physical Damage over 18 seconds."
-                ],
-                "SPECIAL ATTACKS": [
-                    "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
-                    "Landing an Unblockable strike inflicts Rupture dealing 519 Physical Damage over 8 seconds."
-                ],
-                "FIGHTING NON-COSMIC CHAMPIONS": [
-                    "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
-                    "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 882.3 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
-                    "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit has a 10% chance to inflict Rupture dealing 882.3 Physical Damage over 4 seconds.",
-                    "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain Primal Sense and Huntress Sense for 14 seconds.",
-                    "Inflict a non-stacking, indefinite Rupture dealing 51.9 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
-                ]
-            }
-        },
-        "5+3": {
-            "rank": 3,
-            "prestige": "4283",
-            "hp": "15415",
-            "attack": "1451",
-            "crit_rate": "532",
-            "crit_dmge": "858",
-            "armor": "440",
-            "block_prof": "2879",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 12 seconds.",
-            "url_page": "https://auntm.ai/champions/tigra/tier/5",
-            "champid": "tigra+5+3",
-            "challenger_rating": 100,
-            "abilities": {
-                "ALL ATTACKS": [
-                    "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
-                    "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 72.55 Physical Damage over 1 second(s). Cooldown 1 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
-                    "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 725.5 Physical Damage over 18 seconds."
-                ],
-                "SPECIAL ATTACKS": [
-                    "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
-                    "Landing an Unblockable strike inflicts Rupture dealing 725.5 Physical Damage over 8 seconds."
-                ],
-                "FIGHTING NON-COSMIC CHAMPIONS": [
-                    "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
-                    "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 1233.35 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
-                    "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit has a 10% chance to inflict Rupture dealing 1233.35 Physical Damage over 4 seconds.",
-                    "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain Primal Sense and Huntress Sense for 14 seconds.",
-                    "Inflict a non-stacking, indefinite Rupture dealing 72.55 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
-                ]
-            }
-        },
-        "5+4": {
-            "rank": 4,
-            "prestige": "5770",
-            "hp": "20772",
-            "attack": "1955",
-            "crit_rate": "545",
-            "crit_dmge": "879",
-            "armor": "481",
-            "block_prof": "2950",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 12 seconds.",
-            "url_page": "https://auntm.ai/champions/tigra/tier/5",
-            "champid": "tigra+5+4",
-            "challenger_rating": 110,
-            "abilities": {
-                "ALL ATTACKS": [
-                    "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
-                    "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 97.75 Physical Damage over 1 second(s). Cooldown 1 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
-                    "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 977.5 Physical Damage over 18 seconds."
-                ],
-                "SPECIAL ATTACKS": [
-                    "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
-                    "Landing an Unblockable strike inflicts Rupture dealing 977.5 Physical Damage over 8 seconds."
-                ],
-                "FIGHTING NON-COSMIC CHAMPIONS": [
-                    "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
-                    "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 1661.75 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
-                    "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit has a 10% chance to inflict Rupture dealing 1661.75 Physical Damage over 4 seconds.",
-                    "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain Primal Sense and Huntress Sense for 14 seconds.",
-                    "Inflict a non-stacking, indefinite Rupture dealing 97.75 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
-                ]
-            }
-        },
-        "5+5": {
-            "rank": 5,
-            "prestige": "7804",
-            "hp": "28045",
-            "attack": "2640",
-            "crit_rate": "559",
-            "crit_dmge": "900",
-            "armor": "525",
-            "block_prof": "3022",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 12 seconds.",
-            "url_page": "https://auntm.ai/champions/tigra/tier/5",
-            "champid": "tigra+5+5",
-            "challenger_rating": 120,
-            "abilities": {
-                "ALL ATTACKS": [
-                    "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
-                    "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 132 Physical Damage over 1 second(s). Cooldown 1 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
-                    "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 1320 Physical Damage over 18 seconds."
-                ],
-                "SPECIAL ATTACKS": [
-                    "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
-                    "Landing an Unblockable strike inflicts Rupture dealing 1320 Physical Damage over 8 seconds."
-                ],
-                "FIGHTING NON-COSMIC CHAMPIONS": [
-                    "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
-                    "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 2244 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
-                    "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit has a 10% chance to inflict Rupture dealing 2244 Physical Damage over 4 seconds.",
-                    "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain Primal Sense and Huntress Sense for 14 seconds.",
-                    "Inflict a non-stacking, indefinite Rupture dealing 132 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
-                ]
-            }
-        },
-        "6+1": {
-            "rank": 1,
-            "prestige": "6114",
-            "hp": "22053",
-            "attack": "2076",
-            "crit_rate": "545",
-            "crit_dmge": "879",
-            "armor": "391",
-            "block_prof": "2950",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 12 seconds.",
-            "url_page": "https://auntm.ai/champions/tigra/tier/6",
-            "champid": "tigra+6+1",
-            "challenger_rating": 110,
-            "abilities": {
-                "ALL ATTACKS": [
-                    "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
-                    "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 103.8 Physical Damage over 1 second(s). Cooldown 1 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
-                    "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 1038 Physical Damage over 18 seconds."
-                ],
-                "SPECIAL ATTACKS": [
-                    "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
-                    "Landing an Unblockable strike inflicts Rupture dealing 1038 Physical Damage over 8 seconds."
-                ],
-                "FIGHTING NON-COSMIC CHAMPIONS": [
-                    "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
-                    "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 1764.6 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
-                    "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit has a 10% chance to inflict Rupture dealing 1764.6 Physical Damage over 4 seconds.",
-                    "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain Primal Sense and Huntress Sense for 14 seconds.",
-                    "Inflict a non-stacking, indefinite Rupture dealing 103.8 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
-                ]
-            }
-        },
-        "6+2": {
-            "rank": 2,
-            "prestige": "8445",
-            "hp": "30461",
-            "attack": "2867",
-            "crit_rate": "559",
-            "crit_dmge": "900",
-            "armor": "431",
-            "block_prof": "3022",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 12 seconds.",
-            "url_page": "https://auntm.ai/champions/tigra/tier/6",
-            "champid": "tigra+6+2",
-            "challenger_rating": 120,
-            "abilities": {
-                "ALL ATTACKS": [
-                    "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
-                    "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 143.35 Physical Damage over 1 second(s). Cooldown 1 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
-                    "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 1433.5 Physical Damage over 18 seconds."
-                ],
-                "SPECIAL ATTACKS": [
-                    "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
-                    "Landing an Unblockable strike inflicts Rupture dealing 1433.5 Physical Damage over 8 seconds."
-                ],
-                "FIGHTING NON-COSMIC CHAMPIONS": [
-                    "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
-                    "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 2436.95 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
-                    "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit has a 10% chance to inflict Rupture dealing 2436.95 Physical Damage over 4 seconds.",
-                    "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain Primal Sense and Huntress Sense for 14 seconds.",
-                    "Inflict a non-stacking, indefinite Rupture dealing 143.35 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
-                ]
-            }
-        },
-        "6+3": {
-            "rank": 3,
-            "prestige": "10035",
-            "hp": "36137",
-            "attack": "3401",
-            "crit_rate": "572",
-            "crit_dmge": "922",
-            "armor": "472",
-            "block_prof": "3094",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 12 seconds.",
-            "url_page": "https://auntm.ai/champions/tigra/tier/6",
-            "champid": "tigra+6+3",
-            "challenger_rating": 130,
-            "abilities": {
-                "ALL ATTACKS": [
-                    "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
-                    "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 170.05 Physical Damage over 1 second(s). Cooldown 1 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
-                    "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 1700.5 Physical Damage over 18 seconds."
-                ],
-                "SPECIAL ATTACKS": [
-                    "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
-                    "Landing an Unblockable strike inflicts Rupture dealing 1700.5 Physical Damage over 8 seconds."
-                ],
-                "FIGHTING NON-COSMIC CHAMPIONS": [
-                    "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
-                    "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 2890.85 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
-                    "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit has a 10% chance to inflict Rupture dealing 2890.85 Physical Damage over 4 seconds.",
-                    "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain Primal Sense and Huntress Sense for 14 seconds.",
-                    "Inflict a non-stacking, indefinite Rupture dealing 170.05 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
-                ]
-            }
-        },
-        "6+4": {
-            "rank": 4,
-            "prestige": "11484",
-            "hp": "41354",
-            "attack": "3892",
-            "crit_rate": "585",
-            "crit_dmge": "943",
-            "armor": "517",
-            "block_prof": "3166",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 12 seconds.",
-            "url_page": "https://auntm.ai/champions/tigra/tier/6",
-            "champid": "tigra+6+4",
-            "challenger_rating": 140,
-            "abilities": {
-                "ALL ATTACKS": [
-                    "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
-                    "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 194.6 Physical Damage over 1 second(s). Cooldown 1 second(s)."
-                ],
-                "HEAVY ATTACKS": [
-                    "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
-                    "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 1946 Physical Damage over 18 seconds."
-                ],
-                "SPECIAL ATTACKS": [
-                    "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
-                    "Landing an Unblockable strike inflicts Rupture dealing 1946 Physical Damage over 8 seconds."
-                ],
-                "FIGHTING NON-COSMIC CHAMPIONS": [
-                    "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
-                    "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 3308.2 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
-                    "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Each hit has a 10% chance to inflict Rupture dealing 3308.2 Physical Damage over 4 seconds.",
-                    "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Gain Primal Sense and Huntress Sense for 14 seconds.",
-                    "Inflict a non-stacking, indefinite Rupture dealing 194.6 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
-                ]
-            }
-        },
-        "find": {
-            "story_quests": {
-                "act_1": [],
-                "act_2": [],
-                "act_3": [
-                    "3.1.6",
-                    "3.2.1"
-                ],
-                "act_4": [],
-                "act_5": [],
-                "act_6": [],
-                "act_7": [
-                    "7.1.2",
-                    "7.1.5",
-                    "7.2.2",
-                    "7.3.1",
-                    "7.3.4",
-                    "7.3.6",
-                    "7.4.3",
-                    "7.4.4"
-                ]
-            }
-        }
+  "champid": "tigra",
+  "data": {
+    "2+1": {
+      "rank": 1,
+      "prestige": "275",
+      "hp": "1001",
+      "attack": "95",
+      "crit_rate": "426",
+      "crit_dmge": "686",
+      "armor": "33",
+      "block_prof": "2303",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 9 seconds.",
+      "url_page": "https://auntm.ai/champions/tigra/tier/2",
+      "champid": "tigra+2+1",
+      "challenger_rating": 20,
+      "abilities": {
+        "ALL ATTACKS": [
+          "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
+          "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 4.75 Physical Damage over 1 second(s). Cooldown 1 second(s)."
+        ],
+        "HEAVY ATTACKS": [
+          "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
+          "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 47.5 Physical Damage over 18 seconds."
+        ],
+        "SPECIAL ATTACKS": [
+          "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
+          "Landing an Unblockable strike inflicts Rupture dealing 47.5 Physical Damage over 8 seconds."
+        ],
+        "FIGHTING NON-COSMIC CHAMPIONS": [
+          "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
+          "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 80.75 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
+          "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit has a 10% chance to inflict Rupture dealing 80.75 Physical Damage over 4 seconds.",
+          "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain Primal Sense and Huntress Sense for 14 seconds.",
+          "Inflict a non-stacking, indefinite Rupture dealing 4.75 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
+        ]
+      }
+    },
+    "2+2": {
+      "rank": 2,
+      "prestige": "360",
+      "hp": "1323",
+      "attack": "125",
+      "crit_rate": "439",
+      "crit_dmge": "708",
+      "armor": "52",
+      "block_prof": "2375",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 9 seconds.",
+      "url_page": "https://auntm.ai/champions/tigra/tier/2",
+      "champid": "tigra+2+2",
+      "challenger_rating": 30,
+      "abilities": {
+        "ALL ATTACKS": [
+          "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
+          "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 6.25 Physical Damage over 1 second(s). Cooldown 1 second(s)."
+        ],
+        "HEAVY ATTACKS": [
+          "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
+          "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 62.5 Physical Damage over 18 seconds."
+        ],
+        "SPECIAL ATTACKS": [
+          "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
+          "Landing an Unblockable strike inflicts Rupture dealing 62.5 Physical Damage over 8 seconds."
+        ],
+        "FIGHTING NON-COSMIC CHAMPIONS": [
+          "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
+          "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 106.25 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
+          "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit has a 10% chance to inflict Rupture dealing 106.25 Physical Damage over 4 seconds.",
+          "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain Primal Sense and Huntress Sense for 14 seconds.",
+          "Inflict a non-stacking, indefinite Rupture dealing 6.25 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
+        ]
+      }
+    },
+    "2+3": {
+      "rank": 3,
+      "prestige": "580",
+      "hp": "2099",
+      "attack": "198",
+      "crit_rate": "452",
+      "crit_dmge": "729",
+      "armor": "71",
+      "block_prof": "2447",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 9 seconds.",
+      "url_page": "https://auntm.ai/champions/tigra/tier/2",
+      "champid": "tigra+2+3",
+      "challenger_rating": 40,
+      "abilities": {
+        "ALL ATTACKS": [
+          "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
+          "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 9.9 Physical Damage over 1 second(s). Cooldown 1 second(s)."
+        ],
+        "HEAVY ATTACKS": [
+          "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
+          "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 99 Physical Damage over 18 seconds."
+        ],
+        "SPECIAL ATTACKS": [
+          "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
+          "Landing an Unblockable strike inflicts Rupture dealing 99 Physical Damage over 8 seconds."
+        ],
+        "FIGHTING NON-COSMIC CHAMPIONS": [
+          "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
+          "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 168.3 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
+          "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit has a 10% chance to inflict Rupture dealing 168.3 Physical Damage over 4 seconds.",
+          "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain Primal Sense and Huntress Sense for 14 seconds.",
+          "Inflict a non-stacking, indefinite Rupture dealing 9.9 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
+        ]
+      }
+    },
+    "3+1": {
+      "rank": 1,
+      "prestige": "501",
+      "hp": "1815",
+      "attack": "171",
+      "crit_rate": "452",
+      "crit_dmge": "729",
+      "armor": "71",
+      "block_prof": "2447",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 9 seconds.",
+      "url_page": "https://auntm.ai/champions/tigra/tier/3",
+      "champid": "tigra+3+1",
+      "challenger_rating": 40,
+      "abilities": {
+        "ALL ATTACKS": [
+          "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
+          "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 8.55 Physical Damage over 1 second(s). Cooldown 1 second(s)."
+        ],
+        "HEAVY ATTACKS": [
+          "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
+          "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 85.5 Physical Damage over 18 seconds."
+        ],
+        "SPECIAL ATTACKS": [
+          "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
+          "Landing an Unblockable strike inflicts Rupture dealing 85.5 Physical Damage over 8 seconds."
+        ],
+        "FIGHTING NON-COSMIC CHAMPIONS": [
+          "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
+          "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 145.35 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
+          "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit has a 10% chance to inflict Rupture dealing 145.35 Physical Damage over 4 seconds.",
+          "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain Primal Sense and Huntress Sense for 14 seconds.",
+          "Inflict a non-stacking, indefinite Rupture dealing 8.55 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
+        ]
+      }
+    },
+    "3+2": {
+      "rank": 2,
+      "prestige": "803",
+      "hp": "2904",
+      "attack": "274",
+      "crit_rate": "466",
+      "crit_dmge": "750",
+      "armor": "93",
+      "block_prof": "2519",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 9 seconds.",
+      "url_page": "https://auntm.ai/champions/tigra/tier/3",
+      "champid": "tigra+3+2",
+      "challenger_rating": 50,
+      "abilities": {
+        "ALL ATTACKS": [
+          "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
+          "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 13.7 Physical Damage over 1 second(s). Cooldown 1 second(s)."
+        ],
+        "HEAVY ATTACKS": [
+          "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
+          "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 137 Physical Damage over 18 seconds."
+        ],
+        "SPECIAL ATTACKS": [
+          "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
+          "Landing an Unblockable strike inflicts Rupture dealing 137 Physical Damage over 8 seconds."
+        ],
+        "FIGHTING NON-COSMIC CHAMPIONS": [
+          "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
+          "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 232.9 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
+          "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit has a 10% chance to inflict Rupture dealing 232.9 Physical Damage over 4 seconds.",
+          "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain Primal Sense and Huntress Sense for 14 seconds.",
+          "Inflict a non-stacking, indefinite Rupture dealing 13.7 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
+        ]
+      }
+    },
+    "3+3": {
+      "rank": 3,
+      "prestige": "1121",
+      "hp": "4062",
+      "attack": "383",
+      "crit_rate": "479",
+      "crit_dmge": "772",
+      "armor": "115",
+      "block_prof": "2591",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 9 seconds.",
+      "url_page": "https://auntm.ai/champions/tigra/tier/3",
+      "champid": "tigra+3+3",
+      "challenger_rating": 60,
+      "abilities": {
+        "ALL ATTACKS": [
+          "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
+          "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 19.15 Physical Damage over 1 second(s). Cooldown 1 second(s)."
+        ],
+        "HEAVY ATTACKS": [
+          "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
+          "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 191.5 Physical Damage over 18 seconds."
+        ],
+        "SPECIAL ATTACKS": [
+          "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
+          "Landing an Unblockable strike inflicts Rupture dealing 191.5 Physical Damage over 8 seconds."
+        ],
+        "FIGHTING NON-COSMIC CHAMPIONS": [
+          "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
+          "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 325.55 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
+          "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit has a 10% chance to inflict Rupture dealing 325.55 Physical Damage over 4 seconds.",
+          "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain Primal Sense and Huntress Sense for 14 seconds.",
+          "Inflict a non-stacking, indefinite Rupture dealing 19.15 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
+        ]
+      }
+    },
+    "3+4": {
+      "rank": 4,
+      "prestige": "1540",
+      "hp": "5578",
+      "attack": "525",
+      "crit_rate": "492",
+      "crit_dmge": "793",
+      "armor": "140",
+      "block_prof": "2663",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 9 seconds.",
+      "url_page": "https://auntm.ai/champions/tigra/tier/3",
+      "champid": "tigra+3+4",
+      "challenger_rating": 70,
+      "abilities": {
+        "ALL ATTACKS": [
+          "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
+          "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 26.25 Physical Damage over 1 second(s). Cooldown 1 second(s)."
+        ],
+        "HEAVY ATTACKS": [
+          "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
+          "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 262.5 Physical Damage over 18 seconds."
+        ],
+        "SPECIAL ATTACKS": [
+          "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
+          "Landing an Unblockable strike inflicts Rupture dealing 262.5 Physical Damage over 8 seconds."
+        ],
+        "FIGHTING NON-COSMIC CHAMPIONS": [
+          "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
+          "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 446.25 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
+          "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit has a 10% chance to inflict Rupture dealing 446.25 Physical Damage over 4 seconds.",
+          "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain Primal Sense and Huntress Sense for 14 seconds.",
+          "Inflict a non-stacking, indefinite Rupture dealing 26.25 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
+        ]
+      }
+    },
+    "4+1": {
+      "rank": 1,
+      "prestige": "1122",
+      "hp": "4059",
+      "attack": "382",
+      "crit_rate": "479",
+      "crit_dmge": "772",
+      "armor": "157",
+      "block_prof": "2591",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 9 seconds.",
+      "url_page": "https://auntm.ai/champions/tigra/tier/4",
+      "champid": "tigra+4+1",
+      "challenger_rating": 60,
+      "abilities": {
+        "ALL ATTACKS": [
+          "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
+          "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 19.1 Physical Damage over 1 second(s). Cooldown 1 second(s)."
+        ],
+        "HEAVY ATTACKS": [
+          "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
+          "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 191 Physical Damage over 18 seconds."
+        ],
+        "SPECIAL ATTACKS": [
+          "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
+          "Landing an Unblockable strike inflicts Rupture dealing 191 Physical Damage over 8 seconds."
+        ],
+        "FIGHTING NON-COSMIC CHAMPIONS": [
+          "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
+          "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 324.7 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
+          "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit has a 10% chance to inflict Rupture dealing 324.7 Physical Damage over 4 seconds.",
+          "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain Primal Sense and Huntress Sense for 14 seconds.",
+          "Inflict a non-stacking, indefinite Rupture dealing 19.1 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
+        ]
+      }
+    },
+    "4+2": {
+      "rank": 2,
+      "prestige": "1576",
+      "hp": "5694",
+      "attack": "536",
+      "crit_rate": "492",
+      "crit_dmge": "793",
+      "armor": "183",
+      "block_prof": "2663",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 9 seconds.",
+      "url_page": "https://auntm.ai/champions/tigra/tier/4",
+      "champid": "tigra+4+2",
+      "challenger_rating": 70,
+      "abilities": {
+        "ALL ATTACKS": [
+          "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
+          "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 26.8 Physical Damage over 1 second(s). Cooldown 1 second(s)."
+        ],
+        "HEAVY ATTACKS": [
+          "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
+          "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 268 Physical Damage over 18 seconds."
+        ],
+        "SPECIAL ATTACKS": [
+          "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
+          "Landing an Unblockable strike inflicts Rupture dealing 268 Physical Damage over 8 seconds."
+        ],
+        "FIGHTING NON-COSMIC CHAMPIONS": [
+          "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
+          "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 455.6 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
+          "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit has a 10% chance to inflict Rupture dealing 455.6 Physical Damage over 4 seconds.",
+          "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain Primal Sense and Huntress Sense for 14 seconds.",
+          "Inflict a non-stacking, indefinite Rupture dealing 26.8 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
+        ]
+      }
+    },
+    "4+3": {
+      "rank": 3,
+      "prestige": "2207",
+      "hp": "7978",
+      "attack": "751",
+      "crit_rate": "506",
+      "crit_dmge": "815",
+      "armor": "212",
+      "block_prof": "2735",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 9 seconds.",
+      "url_page": "https://auntm.ai/champions/tigra/tier/4",
+      "champid": "tigra+4+3",
+      "challenger_rating": 80,
+      "abilities": {
+        "ALL ATTACKS": [
+          "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
+          "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 37.55 Physical Damage over 1 second(s). Cooldown 1 second(s)."
+        ],
+        "HEAVY ATTACKS": [
+          "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
+          "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 375.5 Physical Damage over 18 seconds."
+        ],
+        "SPECIAL ATTACKS": [
+          "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
+          "Landing an Unblockable strike inflicts Rupture dealing 375.5 Physical Damage over 8 seconds."
+        ],
+        "FIGHTING NON-COSMIC CHAMPIONS": [
+          "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
+          "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 638.35 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
+          "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit has a 10% chance to inflict Rupture dealing 638.35 Physical Damage over 4 seconds.",
+          "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain Primal Sense and Huntress Sense for 14 seconds.",
+          "Inflict a non-stacking, indefinite Rupture dealing 37.55 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
+        ]
+      }
+    },
+    "4+4": {
+      "rank": 4,
+      "prestige": "2903",
+      "hp": "10483",
+      "attack": "987",
+      "crit_rate": "519",
+      "crit_dmge": "836",
+      "armor": "242",
+      "block_prof": "2807",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 9 seconds.",
+      "url_page": "https://auntm.ai/champions/tigra/tier/4",
+      "champid": "tigra+4+4",
+      "challenger_rating": 90,
+      "abilities": {
+        "ALL ATTACKS": [
+          "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
+          "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 49.35 Physical Damage over 1 second(s). Cooldown 1 second(s)."
+        ],
+        "HEAVY ATTACKS": [
+          "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
+          "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 493.5 Physical Damage over 18 seconds."
+        ],
+        "SPECIAL ATTACKS": [
+          "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
+          "Landing an Unblockable strike inflicts Rupture dealing 493.5 Physical Damage over 8 seconds."
+        ],
+        "FIGHTING NON-COSMIC CHAMPIONS": [
+          "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
+          "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 838.95 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
+          "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit has a 10% chance to inflict Rupture dealing 838.95 Physical Damage over 4 seconds.",
+          "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain Primal Sense and Huntress Sense for 14 seconds.",
+          "Inflict a non-stacking, indefinite Rupture dealing 49.35 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
+        ]
+      }
+    },
+    "4+5": {
+      "rank": 5,
+      "prestige": "3873",
+      "hp": "13987",
+      "attack": "1317",
+      "crit_rate": "532",
+      "crit_dmge": "858",
+      "armor": "273",
+      "block_prof": "2879",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 9 seconds.",
+      "url_page": "https://auntm.ai/champions/tigra/tier/4",
+      "champid": "tigra+4+5",
+      "challenger_rating": 100,
+      "abilities": {
+        "ALL ATTACKS": [
+          "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
+          "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 65.85 Physical Damage over 1 second(s). Cooldown 1 second(s)."
+        ],
+        "HEAVY ATTACKS": [
+          "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
+          "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 658.5 Physical Damage over 18 seconds."
+        ],
+        "SPECIAL ATTACKS": [
+          "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
+          "Landing an Unblockable strike inflicts Rupture dealing 658.5 Physical Damage over 8 seconds."
+        ],
+        "FIGHTING NON-COSMIC CHAMPIONS": [
+          "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
+          "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 1119.45 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
+          "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit has a 10% chance to inflict Rupture dealing 1119.45 Physical Damage over 4 seconds.",
+          "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain Primal Sense and Huntress Sense for 14 seconds.",
+          "Inflict a non-stacking, indefinite Rupture dealing 65.85 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
+        ]
+      }
+    },
+    "5+1": {
+      "rank": 1,
+      "prestige": "2317",
+      "hp": "8347",
+      "attack": "786",
+      "crit_rate": "506",
+      "crit_dmge": "815",
+      "armor": "362",
+      "block_prof": "2735",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 12 seconds.",
+      "url_page": "https://auntm.ai/champions/tigra/tier/5",
+      "champid": "tigra+5+1",
+      "challenger_rating": 80,
+      "abilities": {
+        "ALL ATTACKS": [
+          "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
+          "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 39.3 Physical Damage over 1 second(s). Cooldown 1 second(s)."
+        ],
+        "HEAVY ATTACKS": [
+          "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
+          "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 393 Physical Damage over 18 seconds."
+        ],
+        "SPECIAL ATTACKS": [
+          "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
+          "Landing an Unblockable strike inflicts Rupture dealing 393 Physical Damage over 8 seconds."
+        ],
+        "FIGHTING NON-COSMIC CHAMPIONS": [
+          "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
+          "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 668.1 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
+          "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit has a 10% chance to inflict Rupture dealing 668.1 Physical Damage over 4 seconds.",
+          "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain Primal Sense and Huntress Sense for 14 seconds.",
+          "Inflict a non-stacking, indefinite Rupture dealing 39.3 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
+        ]
+      }
+    },
+    "5+2": {
+      "rank": 2,
+      "prestige": "3057",
+      "hp": "11026",
+      "attack": "1038",
+      "crit_rate": "519",
+      "crit_dmge": "836",
+      "armor": "400",
+      "block_prof": "2807",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 12 seconds.",
+      "url_page": "https://auntm.ai/champions/tigra/tier/5",
+      "champid": "tigra+5+2",
+      "challenger_rating": 90,
+      "abilities": {
+        "ALL ATTACKS": [
+          "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
+          "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 51.9 Physical Damage over 1 second(s). Cooldown 1 second(s)."
+        ],
+        "HEAVY ATTACKS": [
+          "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
+          "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 519 Physical Damage over 18 seconds."
+        ],
+        "SPECIAL ATTACKS": [
+          "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
+          "Landing an Unblockable strike inflicts Rupture dealing 519 Physical Damage over 8 seconds."
+        ],
+        "FIGHTING NON-COSMIC CHAMPIONS": [
+          "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
+          "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 882.3 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
+          "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit has a 10% chance to inflict Rupture dealing 882.3 Physical Damage over 4 seconds.",
+          "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain Primal Sense and Huntress Sense for 14 seconds.",
+          "Inflict a non-stacking, indefinite Rupture dealing 51.9 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
+        ]
+      }
+    },
+    "5+3": {
+      "rank": 3,
+      "prestige": "4283",
+      "hp": "15415",
+      "attack": "1451",
+      "crit_rate": "532",
+      "crit_dmge": "858",
+      "armor": "440",
+      "block_prof": "2879",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 12 seconds.",
+      "url_page": "https://auntm.ai/champions/tigra/tier/5",
+      "champid": "tigra+5+3",
+      "challenger_rating": 100,
+      "abilities": {
+        "ALL ATTACKS": [
+          "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
+          "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 72.55 Physical Damage over 1 second(s). Cooldown 1 second(s)."
+        ],
+        "HEAVY ATTACKS": [
+          "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
+          "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 725.5 Physical Damage over 18 seconds."
+        ],
+        "SPECIAL ATTACKS": [
+          "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
+          "Landing an Unblockable strike inflicts Rupture dealing 725.5 Physical Damage over 8 seconds."
+        ],
+        "FIGHTING NON-COSMIC CHAMPIONS": [
+          "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
+          "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 1233.35 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
+          "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit has a 10% chance to inflict Rupture dealing 1233.35 Physical Damage over 4 seconds.",
+          "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain Primal Sense and Huntress Sense for 14 seconds.",
+          "Inflict a non-stacking, indefinite Rupture dealing 72.55 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
+        ]
+      }
+    },
+    "5+4": {
+      "rank": 4,
+      "prestige": "5770",
+      "hp": "20772",
+      "attack": "1955",
+      "crit_rate": "545",
+      "crit_dmge": "879",
+      "armor": "481",
+      "block_prof": "2950",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 12 seconds.",
+      "url_page": "https://auntm.ai/champions/tigra/tier/5",
+      "champid": "tigra+5+4",
+      "challenger_rating": 110,
+      "abilities": {
+        "ALL ATTACKS": [
+          "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
+          "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 97.75 Physical Damage over 1 second(s). Cooldown 1 second(s)."
+        ],
+        "HEAVY ATTACKS": [
+          "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
+          "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 977.5 Physical Damage over 18 seconds."
+        ],
+        "SPECIAL ATTACKS": [
+          "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
+          "Landing an Unblockable strike inflicts Rupture dealing 977.5 Physical Damage over 8 seconds."
+        ],
+        "FIGHTING NON-COSMIC CHAMPIONS": [
+          "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
+          "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 1661.75 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
+          "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit has a 10% chance to inflict Rupture dealing 1661.75 Physical Damage over 4 seconds.",
+          "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain Primal Sense and Huntress Sense for 14 seconds.",
+          "Inflict a non-stacking, indefinite Rupture dealing 97.75 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
+        ]
+      }
+    },
+    "5+5": {
+      "rank": 5,
+      "prestige": "7804",
+      "hp": "28045",
+      "attack": "2640",
+      "crit_rate": "559",
+      "crit_dmge": "900",
+      "armor": "525",
+      "block_prof": "3022",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 12 seconds.",
+      "url_page": "https://auntm.ai/champions/tigra/tier/5",
+      "champid": "tigra+5+5",
+      "challenger_rating": 120,
+      "abilities": {
+        "ALL ATTACKS": [
+          "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
+          "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 132 Physical Damage over 1 second(s). Cooldown 1 second(s)."
+        ],
+        "HEAVY ATTACKS": [
+          "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
+          "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 1320 Physical Damage over 18 seconds."
+        ],
+        "SPECIAL ATTACKS": [
+          "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
+          "Landing an Unblockable strike inflicts Rupture dealing 1320 Physical Damage over 8 seconds."
+        ],
+        "FIGHTING NON-COSMIC CHAMPIONS": [
+          "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
+          "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 2244 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
+          "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit has a 10% chance to inflict Rupture dealing 2244 Physical Damage over 4 seconds.",
+          "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain Primal Sense and Huntress Sense for 14 seconds.",
+          "Inflict a non-stacking, indefinite Rupture dealing 132 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
+        ]
+      }
+    },
+    "6+1": {
+      "rank": 1,
+      "prestige": "6114",
+      "hp": "22053",
+      "attack": "2076",
+      "crit_rate": "545",
+      "crit_dmge": "879",
+      "armor": "391",
+      "block_prof": "2950",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 12 seconds.",
+      "url_page": "https://auntm.ai/champions/tigra/tier/6",
+      "champid": "tigra+6+1",
+      "challenger_rating": 110,
+      "abilities": {
+        "ALL ATTACKS": [
+          "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
+          "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 103.8 Physical Damage over 1 second(s). Cooldown 1 second(s)."
+        ],
+        "HEAVY ATTACKS": [
+          "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
+          "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 1038 Physical Damage over 18 seconds."
+        ],
+        "SPECIAL ATTACKS": [
+          "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
+          "Landing an Unblockable strike inflicts Rupture dealing 1038 Physical Damage over 8 seconds."
+        ],
+        "FIGHTING NON-COSMIC CHAMPIONS": [
+          "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
+          "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 1764.6 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
+          "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit has a 10% chance to inflict Rupture dealing 1764.6 Physical Damage over 4 seconds.",
+          "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain Primal Sense and Huntress Sense for 14 seconds.",
+          "Inflict a non-stacking, indefinite Rupture dealing 103.8 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
+        ]
+      }
+    },
+    "6+2": {
+      "rank": 2,
+      "prestige": "8445",
+      "hp": "30461",
+      "attack": "2867",
+      "crit_rate": "559",
+      "crit_dmge": "900",
+      "armor": "431",
+      "block_prof": "3022",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 12 seconds.",
+      "url_page": "https://auntm.ai/champions/tigra/tier/6",
+      "champid": "tigra+6+2",
+      "challenger_rating": 120,
+      "abilities": {
+        "ALL ATTACKS": [
+          "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
+          "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 143.35 Physical Damage over 1 second(s). Cooldown 1 second(s)."
+        ],
+        "HEAVY ATTACKS": [
+          "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
+          "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 1433.5 Physical Damage over 18 seconds."
+        ],
+        "SPECIAL ATTACKS": [
+          "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
+          "Landing an Unblockable strike inflicts Rupture dealing 1433.5 Physical Damage over 8 seconds."
+        ],
+        "FIGHTING NON-COSMIC CHAMPIONS": [
+          "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
+          "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 2436.95 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
+          "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit has a 10% chance to inflict Rupture dealing 2436.95 Physical Damage over 4 seconds.",
+          "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain Primal Sense and Huntress Sense for 14 seconds.",
+          "Inflict a non-stacking, indefinite Rupture dealing 143.35 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
+        ]
+      }
+    },
+    "6+3": {
+      "rank": 3,
+      "prestige": "10035",
+      "hp": "36137",
+      "attack": "3401",
+      "crit_rate": "572",
+      "crit_dmge": "922",
+      "armor": "472",
+      "block_prof": "3094",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 12 seconds.",
+      "url_page": "https://auntm.ai/champions/tigra/tier/6",
+      "champid": "tigra+6+3",
+      "challenger_rating": 130,
+      "abilities": {
+        "ALL ATTACKS": [
+          "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
+          "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 170.05 Physical Damage over 1 second(s). Cooldown 1 second(s)."
+        ],
+        "HEAVY ATTACKS": [
+          "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
+          "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 1700.5 Physical Damage over 18 seconds."
+        ],
+        "SPECIAL ATTACKS": [
+          "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
+          "Landing an Unblockable strike inflicts Rupture dealing 1700.5 Physical Damage over 8 seconds."
+        ],
+        "FIGHTING NON-COSMIC CHAMPIONS": [
+          "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
+          "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 2890.85 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
+          "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit has a 10% chance to inflict Rupture dealing 2890.85 Physical Damage over 4 seconds.",
+          "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain Primal Sense and Huntress Sense for 14 seconds.",
+          "Inflict a non-stacking, indefinite Rupture dealing 170.05 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
+        ]
+      }
+    },
+    "6+4": {
+      "rank": 4,
+      "prestige": "11484",
+      "hp": "41354",
+      "attack": "3892",
+      "crit_rate": "585",
+      "crit_dmge": "943",
+      "armor": "517",
+      "block_prof": "3166",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "0",
+      "sig_info": "Start the fight with Primal Sense and Huntress Sense for 3 to 12 seconds.",
+      "url_page": "https://auntm.ai/champions/tigra/tier/6",
+      "champid": "tigra+6+4",
+      "challenger_rating": 140,
+      "abilities": {
+        "ALL ATTACKS": [
+          "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
+          "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 194.6 Physical Damage over 1 second(s). Cooldown 1 second(s)."
+        ],
+        "HEAVY ATTACKS": [
+          "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
+          "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 1946 Physical Damage over 18 seconds."
+        ],
+        "SPECIAL ATTACKS": [
+          "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
+          "Landing an Unblockable strike inflicts Rupture dealing 1946 Physical Damage over 8 seconds."
+        ],
+        "FIGHTING NON-COSMIC CHAMPIONS": [
+          "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
+          "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 3308.2 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
+          "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit has a 10% chance to inflict Rupture dealing 3308.2 Physical Damage over 4 seconds.",
+          "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain Primal Sense and Huntress Sense for 14 seconds.",
+          "Inflict a non-stacking, indefinite Rupture dealing 194.6 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
+        ]
+      }
+    },
+    "1+1": {
+      "rank": 1,
+      "prestige": 215,
+      "hp": 784,
+      "attack": 74,
+      "crit_rate": 413,
+      "crit_dmge": 665,
+      "armor": 0,
+      "block_prof": 2231,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/tigra/tier/1",
+      "champid": "tigra+1+1",
+      "challenger_rating": 10,
+      "abilities": {
+        "ALL ATTACKS": [
+          "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
+          "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 3.7 Physical Damage over 1 second(s). Cooldown 1 second(s)."
+        ],
+        "HEAVY ATTACKS": [
+          "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
+          "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 37 Physical Damage over 18 seconds."
+        ],
+        "SPECIAL ATTACKS": [
+          "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
+          "Landing an Unblockable strike inflicts Rupture dealing 37 Physical Damage over 8 seconds."
+        ],
+        "FIGHTING NON-COSMIC CHAMPIONS": [
+          "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
+          "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 62.9 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
+          "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit has a 10% chance to inflict Rupture dealing 62.9 Physical Damage over 4 seconds.",
+          "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain Primal Sense and Huntress Sense for 14 seconds.",
+          "Inflict a non-stacking, indefinite Rupture dealing 3.7 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
+        ]
+      }
+    },
+    "1+2": {
+      "rank": 2,
+      "prestige": 297,
+      "hp": 1085,
+      "attack": 103,
+      "crit_rate": 426,
+      "crit_dmge": 686,
+      "armor": 0,
+      "block_prof": 2303,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 0,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/tigra/tier/1",
+      "champid": "tigra+1+2",
+      "challenger_rating": 20,
+      "abilities": {
+        "ALL ATTACKS": [
+          "On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.",
+          "While the Opponent is Neutralized, If they fail to gain a Buff through Chance, inflict Rupture dealing 5.15 Physical Damage over 1 second(s). Cooldown 1 second(s)."
+        ],
+        "HEAVY ATTACKS": [
+          "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss.",
+          "If Tigra Interrupts the Opponent's Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 51.5 Physical Damage over 18 seconds."
+        ],
+        "SPECIAL ATTACKS": [
+          "If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.",
+          "Landing an Unblockable strike inflicts Rupture dealing 51.5 Physical Damage over 8 seconds."
+        ],
+        "FIGHTING NON-COSMIC CHAMPIONS": [
+          "If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra\u2019s personal Miss and Unblockable effects."
+        ],
+        "SPECIAL ATTACK 1": [
+          "On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.",
+          "Primal Sense: Whenever inflicting Rupture, deal a burst of up to 87.55 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.",
+          "Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Each hit has a 10% chance to inflict Rupture dealing 87.55 Physical Damage over 4 seconds.",
+          "Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Gain Primal Sense and Huntress Sense for 14 seconds.",
+          "Inflict a non-stacking, indefinite Rupture dealing 5.15 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike."
+        ]
+      }
+    },
+    "find": {
+      "story_quests": {
+        "act_1": [],
+        "act_2": [],
+        "act_3": ["3.1.6", "3.2.1"],
+        "act_4": [],
+        "act_5": [],
+        "act_6": [],
+        "act_7": [
+          "7.1.2",
+          "7.1.5",
+          "7.2.2",
+          "7.3.1",
+          "7.3.4",
+          "7.3.6",
+          "7.4.3",
+          "7.4.4"
+        ]
+      }
     }
+  },
+  "name": "TIGRA",
+  "class": "Mystic",
+  "img_portrait": "https://api.rexians.tk/assets/portraits/tigra.png",
+  "contact": "PHYSICAL",
+  "tags": ["Hero", "Size: S"],
+  "released": "6/11/2020"
 }

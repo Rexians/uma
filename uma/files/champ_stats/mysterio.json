@@ -1,945 +1,1020 @@
 {
-    "name": "MYSTERIO",
-    "class": "Tech",
-    "img_portrait": "https://api.rexians.tk/assets/portraits/mysterio.png",
-    "contact": null,
-    "tags": [
-        "Size: M",
-        "Villain",
-        "Sinister Six"
-    ],
-    "released": "7/25/2019",
-    "champid": "mysterio",
-    "data": {
-        "2+1": {
-            "rank": 1,
-            "prestige": "280",
-            "hp": "1110",
-            "attack": "95",
-            "crit_rate": "478",
-            "crit_dmge": "592",
-            "armor": "33",
-            "block_prof": "2845",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "85",
-            "sig_info": "Mysterio generates 1 Chemical Gas every 26 to 10.11 seconds.",
-            "url_page": "https://auntm.ai/champions/mysterio/tier/2",
-            "champid": "mysterio+2+1",
-            "challenger_rating": 20,
-            "abilities": {
-                "PASSIVE": [
-                    "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
-                ],
-                "CHEMICAL GAS - PASSIVE": [
-                    "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
-                    "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 152 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
-                    "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
-                ],
-                "ON FOURTH LIGHT ATTACK": [
-                    "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
-                    "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
-                    "While Frenzy Gas is active Mysterio gains 247 Attack Rating and the potency of his Poisons are increased by 300%."
-                ]
-            }
-        },
-        "2+2": {
-            "rank": 2,
-            "prestige": "370",
-            "hp": "1466",
-            "attack": "125",
-            "crit_rate": "493",
-            "crit_dmge": "611",
-            "armor": "52",
-            "block_prof": "2934",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "87",
-            "sig_info": "Mysterio generates 1 Chemical Gas every 26 to 10.11 seconds.",
-            "url_page": "https://auntm.ai/champions/mysterio/tier/2",
-            "champid": "mysterio+2+2",
-            "challenger_rating": 30,
-            "abilities": {
-                "PASSIVE": [
-                    "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
-                ],
-                "CHEMICAL GAS - PASSIVE": [
-                    "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
-                    "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 200 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
-                    "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
-                ],
-                "ON FOURTH LIGHT ATTACK": [
-                    "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
-                    "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
-                    "While Frenzy Gas is active Mysterio gains 325 Attack Rating and the potency of his Poisons are increased by 300%."
-                ]
-            }
-        },
-        "2+3": {
-            "rank": 3,
-            "prestige": "582",
-            "hp": "2327",
-            "attack": "198",
-            "crit_rate": "508",
-            "crit_dmge": "629",
-            "armor": "71",
-            "block_prof": "3023",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "90",
-            "sig_info": "Mysterio generates 1 Chemical Gas every 26 to 10.11 seconds.",
-            "url_page": "https://auntm.ai/champions/mysterio/tier/2",
-            "champid": "mysterio+2+3",
-            "challenger_rating": 40,
-            "abilities": {
-                "PASSIVE": [
-                    "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
-                ],
-                "CHEMICAL GAS - PASSIVE": [
-                    "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
-                    "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 316.8 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
-                    "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
-                ],
-                "ON FOURTH LIGHT ATTACK": [
-                    "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
-                    "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
-                    "While Frenzy Gas is active Mysterio gains 514.8 Attack Rating and the potency of his Poisons are increased by 300%."
-                ]
-            }
-        },
-        "3+1": {
-            "rank": 1,
-            "prestige": "503",
-            "hp": "2012",
-            "attack": "171",
-            "crit_rate": "508",
-            "crit_dmge": "629",
-            "armor": "71",
-            "block_prof": "3023",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "90",
-            "sig_info": "Mysterio generates 1 Chemical Gas every 26 to 10.11 seconds.",
-            "url_page": "https://auntm.ai/champions/mysterio/tier/3",
-            "champid": "mysterio+3+1",
-            "challenger_rating": 40,
-            "abilities": {
-                "PASSIVE": [
-                    "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
-                ],
-                "CHEMICAL GAS - PASSIVE": [
-                    "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
-                    "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 273.6 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
-                    "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
-                ],
-                "ON FOURTH LIGHT ATTACK": [
-                    "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
-                    "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
-                    "While Frenzy Gas is active Mysterio gains 444.6 Attack Rating and the potency of his Poisons are increased by 300%."
-                ]
-            }
-        },
-        "3+2": {
-            "rank": 2,
-            "prestige": "805",
-            "hp": "3220",
-            "attack": "274",
-            "crit_rate": "523",
-            "crit_dmge": "648",
-            "armor": "93",
-            "block_prof": "3112",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "93",
-            "sig_info": "Mysterio generates 1 Chemical Gas every 26 to 10.11 seconds.",
-            "url_page": "https://auntm.ai/champions/mysterio/tier/3",
-            "champid": "mysterio+3+2",
-            "challenger_rating": 50,
-            "abilities": {
-                "PASSIVE": [
-                    "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
-                ],
-                "CHEMICAL GAS - PASSIVE": [
-                    "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
-                    "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 438.4 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
-                    "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
-                ],
-                "ON FOURTH LIGHT ATTACK": [
-                    "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
-                    "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
-                    "While Frenzy Gas is active Mysterio gains 712.4 Attack Rating and the potency of his Poisons are increased by 300%."
-                ]
-            }
-        },
-        "3+3": {
-            "rank": 3,
-            "prestige": "1122",
-            "hp": "4504",
-            "attack": "383",
-            "crit_rate": "538",
-            "crit_dmge": "666",
-            "armor": "115",
-            "block_prof": "3200",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "95",
-            "sig_info": "Mysterio generates 1 Chemical Gas every 26 to 10.11 seconds.",
-            "url_page": "https://auntm.ai/champions/mysterio/tier/3",
-            "champid": "mysterio+3+3",
-            "challenger_rating": 60,
-            "abilities": {
-                "PASSIVE": [
-                    "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
-                ],
-                "CHEMICAL GAS - PASSIVE": [
-                    "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
-                    "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 612.8 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
-                    "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
-                ],
-                "ON FOURTH LIGHT ATTACK": [
-                    "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
-                    "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
-                    "While Frenzy Gas is active Mysterio gains 995.8 Attack Rating and the potency of his Poisons are increased by 300%."
-                ]
-            }
-        },
-        "3+4": {
-            "rank": 4,
-            "prestige": "1539",
-            "hp": "6184",
-            "attack": "525",
-            "crit_rate": "553",
-            "crit_dmge": "685",
-            "armor": "140",
-            "block_prof": "3289",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "98",
-            "sig_info": "Mysterio generates 1 Chemical Gas every 26 to 10.11 seconds.",
-            "url_page": "https://auntm.ai/champions/mysterio/tier/3",
-            "champid": "mysterio+3+4",
-            "challenger_rating": 70,
-            "abilities": {
-                "PASSIVE": [
-                    "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
-                ],
-                "CHEMICAL GAS - PASSIVE": [
-                    "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
-                    "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 840 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
-                    "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
-                ],
-                "ON FOURTH LIGHT ATTACK": [
-                    "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
-                    "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
-                    "While Frenzy Gas is active Mysterio gains 1365 Attack Rating and the potency of his Poisons are increased by 300%."
-                ]
-            }
-        },
-        "4+1": {
-            "rank": 1,
-            "prestige": "1122",
-            "hp": "4501",
-            "attack": "382",
-            "crit_rate": "538",
-            "crit_dmge": "666",
-            "armor": "157",
-            "block_prof": "3200",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "95",
-            "sig_info": "Mysterio generates 1 Chemical Gas every 26 to 10.11 seconds.",
-            "url_page": "https://auntm.ai/champions/mysterio/tier/4",
-            "champid": "mysterio+4+1",
-            "challenger_rating": 60,
-            "abilities": {
-                "PASSIVE": [
-                    "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
-                ],
-                "CHEMICAL GAS - PASSIVE": [
-                    "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
-                    "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 611.2 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
-                    "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
-                ],
-                "ON FOURTH LIGHT ATTACK": [
-                    "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
-                    "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
-                    "While Frenzy Gas is active Mysterio gains 993.2 Attack Rating and the potency of his Poisons are increased by 300%."
-                ]
-            }
-        },
-        "4+2": {
-            "rank": 2,
-            "prestige": "1577",
-            "hp": "6313",
-            "attack": "536",
-            "crit_rate": "553",
-            "crit_dmge": "685",
-            "armor": "183",
-            "block_prof": "3289",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "98",
-            "sig_info": "Mysterio generates 1 Chemical Gas every 26 to 10.11 seconds.",
-            "url_page": "https://auntm.ai/champions/mysterio/tier/4",
-            "champid": "mysterio+4+2",
-            "challenger_rating": 70,
-            "abilities": {
-                "PASSIVE": [
-                    "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
-                ],
-                "CHEMICAL GAS - PASSIVE": [
-                    "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
-                    "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 857.6 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
-                    "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
-                ],
-                "ON FOURTH LIGHT ATTACK": [
-                    "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
-                    "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
-                    "While Frenzy Gas is active Mysterio gains 1393.6 Attack Rating and the potency of his Poisons are increased by 300%."
-                ]
-            }
-        },
-        "4+3": {
-            "rank": 3,
-            "prestige": "2205",
-            "hp": "8845",
-            "attack": "751",
-            "crit_rate": "568",
-            "crit_dmge": "703",
-            "armor": "212",
-            "block_prof": "3378",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "100",
-            "sig_info": "Mysterio generates 1 Chemical Gas every 26 to 10.11 seconds.",
-            "url_page": "https://auntm.ai/champions/mysterio/tier/4",
-            "champid": "mysterio+4+3",
-            "challenger_rating": 80,
-            "abilities": {
-                "PASSIVE": [
-                    "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
-                ],
-                "CHEMICAL GAS - PASSIVE": [
-                    "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
-                    "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 1201.6 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
-                    "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
-                ],
-                "ON FOURTH LIGHT ATTACK": [
-                    "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
-                    "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
-                    "While Frenzy Gas is active Mysterio gains 1952.6 Attack Rating and the potency of his Poisons are increased by 300%."
-                ]
-            }
-        },
-        "4+4": {
-            "rank": 4,
-            "prestige": "2902",
-            "hp": "11622",
-            "attack": "987",
-            "crit_rate": "583",
-            "crit_dmge": "722",
-            "armor": "242",
-            "block_prof": "3467",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "103",
-            "sig_info": "Mysterio generates 1 Chemical Gas every 26 to 10.11 seconds.",
-            "url_page": "https://auntm.ai/champions/mysterio/tier/4",
-            "champid": "mysterio+4+4",
-            "challenger_rating": 90,
-            "abilities": {
-                "PASSIVE": [
-                    "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
-                ],
-                "CHEMICAL GAS - PASSIVE": [
-                    "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
-                    "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 1579.2 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
-                    "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
-                ],
-                "ON FOURTH LIGHT ATTACK": [
-                    "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
-                    "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
-                    "While Frenzy Gas is active Mysterio gains 2566.2 Attack Rating and the potency of his Poisons are increased by 300%."
-                ]
-            }
-        },
-        "4+5": {
-            "rank": 5,
-            "prestige": "3869",
-            "hp": "15508",
-            "attack": "1317",
-            "crit_rate": "598",
-            "crit_dmge": "740",
-            "armor": "273",
-            "block_prof": "3556",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "106",
-            "sig_info": "Mysterio generates 1 Chemical Gas every 26 to 10.11 seconds.",
-            "url_page": "https://auntm.ai/champions/mysterio/tier/4",
-            "champid": "mysterio+4+5",
-            "challenger_rating": 100,
-            "abilities": {
-                "PASSIVE": [
-                    "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
-                ],
-                "CHEMICAL GAS - PASSIVE": [
-                    "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
-                    "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 2107.2 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
-                    "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
-                ],
-                "ON FOURTH LIGHT ATTACK": [
-                    "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
-                    "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
-                    "While Frenzy Gas is active Mysterio gains 3424.2 Attack Rating and the potency of his Poisons are increased by 300%."
-                ]
-            }
-        },
-        "5+1": {
-            "rank": 1,
-            "prestige": "2314",
-            "hp": "9255",
-            "attack": "786",
-            "crit_rate": "568",
-            "crit_dmge": "703",
-            "armor": "362",
-            "block_prof": "3378",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "100",
-            "sig_info": "Mysterio generates 1 Chemical Gas every 19.8 to 6.01 seconds.",
-            "url_page": "https://auntm.ai/champions/mysterio/tier/5",
-            "champid": "mysterio+5+1",
-            "challenger_rating": 80,
-            "abilities": {
-                "PASSIVE": [
-                    "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
-                ],
-                "CHEMICAL GAS - PASSIVE": [
-                    "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
-                    "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 1257.6 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
-                    "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
-                ],
-                "ON FOURTH LIGHT ATTACK": [
-                    "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
-                    "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
-                    "While Frenzy Gas is active Mysterio gains 2043.6 Attack Rating and the potency of his Poisons are increased by 300%."
-                ]
-            }
-        },
-        "5+2": {
-            "rank": 2,
-            "prestige": "3055",
-            "hp": "12225",
-            "attack": "1038",
-            "crit_rate": "583",
-            "crit_dmge": "722",
-            "armor": "400",
-            "block_prof": "3467",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "103",
-            "sig_info": "Mysterio generates 1 Chemical Gas every 19.8 to 6.01 seconds.",
-            "url_page": "https://auntm.ai/champions/mysterio/tier/5",
-            "champid": "mysterio+5+2",
-            "challenger_rating": 90,
-            "abilities": {
-                "PASSIVE": [
-                    "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
-                ],
-                "CHEMICAL GAS - PASSIVE": [
-                    "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
-                    "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 1660.8 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
-                    "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
-                ],
-                "ON FOURTH LIGHT ATTACK": [
-                    "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
-                    "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
-                    "While Frenzy Gas is active Mysterio gains 2698.8 Attack Rating and the potency of his Poisons are increased by 300%."
-                ]
-            }
-        },
-        "5+3": {
-            "rank": 3,
-            "prestige": "4275",
-            "hp": "17090",
-            "attack": "1451",
-            "crit_rate": "598",
-            "crit_dmge": "740",
-            "armor": "440",
-            "block_prof": "3556",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "106",
-            "sig_info": "Mysterio generates 1 Chemical Gas every 19.8 to 6.01 seconds.",
-            "url_page": "https://auntm.ai/champions/mysterio/tier/5",
-            "champid": "mysterio+5+3",
-            "challenger_rating": 100,
-            "abilities": {
-                "PASSIVE": [
-                    "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
-                ],
-                "CHEMICAL GAS - PASSIVE": [
-                    "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
-                    "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 2321.6 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
-                    "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
-                ],
-                "ON FOURTH LIGHT ATTACK": [
-                    "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
-                    "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
-                    "While Frenzy Gas is active Mysterio gains 3772.6 Attack Rating and the potency of his Poisons are increased by 300%."
-                ]
-            }
-        },
-        "5+4": {
-            "rank": 4,
-            "prestige": "5758",
-            "hp": "23029",
-            "attack": "1955",
-            "crit_rate": "613",
-            "crit_dmge": "759",
-            "armor": "481",
-            "block_prof": "3645",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "108",
-            "sig_info": "Mysterio generates 1 Chemical Gas every 19.8 to 6.01 seconds.",
-            "url_page": "https://auntm.ai/champions/mysterio/tier/5",
-            "champid": "mysterio+5+4",
-            "challenger_rating": 110,
-            "abilities": {
-                "PASSIVE": [
-                    "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
-                ],
-                "CHEMICAL GAS - PASSIVE": [
-                    "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
-                    "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 3128 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
-                    "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
-                ],
-                "ON FOURTH LIGHT ATTACK": [
-                    "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
-                    "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
-                    "While Frenzy Gas is active Mysterio gains 5083 Attack Rating and the potency of his Poisons are increased by 300%."
-                ]
-            }
-        },
-        "5+5": {
-            "rank": 5,
-            "prestige": "7783",
-            "hp": "31093",
-            "attack": "2640",
-            "crit_rate": "628",
-            "crit_dmge": "777",
-            "armor": "525",
-            "block_prof": "3734",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "111",
-            "sig_info": "Mysterio generates 1 Chemical Gas every 19.8 to 6.01 seconds.",
-            "url_page": "https://auntm.ai/champions/mysterio/tier/5",
-            "champid": "mysterio+5+5",
-            "challenger_rating": 120,
-            "abilities": {
-                "PASSIVE": [
-                    "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
-                ],
-                "CHEMICAL GAS - PASSIVE": [
-                    "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
-                    "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 4224 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
-                    "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
-                ],
-                "ON FOURTH LIGHT ATTACK": [
-                    "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
-                    "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
-                    "While Frenzy Gas is active Mysterio gains 6864 Attack Rating and the potency of his Poisons are increased by 300%."
-                ]
-            }
-        },
-        "6+1": {
-            "rank": 1,
-            "prestige": "6103",
-            "hp": "24449",
-            "attack": "2076",
-            "crit_rate": "613",
-            "crit_dmge": "759",
-            "armor": "391",
-            "block_prof": "3645",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "108",
-            "sig_info": "Mysterio generates 1 Chemical Gas every 19.8 to 6.01 seconds.",
-            "url_page": "https://auntm.ai/champions/mysterio/tier/6",
-            "champid": "mysterio+6+1",
-            "challenger_rating": 110,
-            "abilities": {
-                "PASSIVE": [
-                    "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
-                ],
-                "CHEMICAL GAS - PASSIVE": [
-                    "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
-                    "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 3321.6 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
-                    "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
-                ],
-                "ON FOURTH LIGHT ATTACK": [
-                    "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
-                    "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
-                    "While Frenzy Gas is active Mysterio gains 5397.6 Attack Rating and the potency of his Poisons are increased by 300%."
-                ]
-            }
-        },
-        "6+2": {
-            "rank": 2,
-            "prestige": "8428",
-            "hp": "33772",
-            "attack": "2867",
-            "crit_rate": "628",
-            "crit_dmge": "777",
-            "armor": "431",
-            "block_prof": "3734",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "111",
-            "sig_info": "Mysterio generates 1 Chemical Gas every 19.8 to 6.01 seconds.",
-            "url_page": "https://auntm.ai/champions/mysterio/tier/6",
-            "champid": "mysterio+6+2",
-            "challenger_rating": 120,
-            "abilities": {
-                "PASSIVE": [
-                    "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
-                ],
-                "CHEMICAL GAS - PASSIVE": [
-                    "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
-                    "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 4587.2 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
-                    "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
-                ],
-                "ON FOURTH LIGHT ATTACK": [
-                    "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
-                    "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
-                    "While Frenzy Gas is active Mysterio gains 7454.2 Attack Rating and the potency of his Poisons are increased by 300%."
-                ]
-            }
-        },
-        "6+3": {
-            "rank": 3,
-            "prestige": "10011",
-            "hp": "40065",
-            "attack": "3401",
-            "crit_rate": "643",
-            "crit_dmge": "796",
-            "armor": "472",
-            "block_prof": "3823",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "114",
-            "sig_info": "Mysterio generates 1 Chemical Gas every 19.8 to 6.01 seconds.",
-            "url_page": "https://auntm.ai/champions/mysterio/tier/6",
-            "champid": "mysterio+6+3",
-            "challenger_rating": 130,
-            "abilities": {
-                "PASSIVE": [
-                    "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
-                ],
-                "CHEMICAL GAS - PASSIVE": [
-                    "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
-                    "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 5441.6 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
-                    "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
-                ],
-                "ON FOURTH LIGHT ATTACK": [
-                    "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
-                    "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
-                    "While Frenzy Gas is active Mysterio gains 8842.6 Attack Rating and the potency of his Poisons are increased by 300%."
-                ]
-            }
-        },
-        "6+4": {
-            "rank": 4,
-            "prestige": "11453",
-            "hp": "45848",
-            "attack": "3892",
-            "crit_rate": "658",
-            "crit_dmge": "814",
-            "armor": "517",
-            "block_prof": "3912",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "116",
-            "sig_info": "Mysterio generates 1 Chemical Gas every 19.8 to 6.01 seconds.",
-            "url_page": "https://auntm.ai/champions/mysterio/tier/6",
-            "champid": "mysterio+6+4",
-            "challenger_rating": 140,
-            "abilities": {
-                "PASSIVE": [
-                    "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
-                ],
-                "CHEMICAL GAS - PASSIVE": [
-                    "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
-                    "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 6227.2 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
-                    "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
-                ],
-                "ON FOURTH LIGHT ATTACK": [
-                    "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
-                ],
-                "SPECIAL ATTACK 1": [
-                    "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
-                ],
-                "SPECIAL ATTACK 2": [
-                    "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
-                    "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
-                    "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
-                ],
-                "SPECIAL ATTACK 3": [
-                    "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
-                    "While Frenzy Gas is active Mysterio gains 10119.2 Attack Rating and the potency of his Poisons are increased by 300%."
-                ]
-            }
-        },
-        "find": {
-            "story_quests": {
-                "act_1": [],
-                "act_2": [],
-                "act_3": [],
-                "act_4": [],
-                "act_5": [],
-                "act_6": [
-                    "6.3.1",
-                    "6.3.5",
-                    "6.4.1",
-                    "6.4.3",
-                    "6.4.4",
-                    "6.4.6"
-                ],
-                "act_7": [
-                    "7.1.1",
-                    "7.1.4",
-                    "7.2.2",
-                    "7.2.4",
-                    "7.3.3",
-                    "7.3.6",
-                    "7.4.2",
-                    "7.4.5"
-                ]
-            }
-        }
+  "champid": "mysterio",
+  "data": {
+    "2+1": {
+      "rank": 1,
+      "prestige": "280",
+      "hp": "1110",
+      "attack": "95",
+      "crit_rate": "478",
+      "crit_dmge": "592",
+      "armor": "33",
+      "block_prof": "2845",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "85",
+      "sig_info": "Mysterio generates 1 Chemical Gas every 26 to 10.11 seconds.",
+      "url_page": "https://auntm.ai/champions/mysterio/tier/2",
+      "champid": "mysterio+2+1",
+      "challenger_rating": 20,
+      "abilities": {
+        "PASSIVE": [
+          "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
+        ],
+        "CHEMICAL GAS - PASSIVE": [
+          "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
+          "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 152 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
+          "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
+        ],
+        "ON FOURTH LIGHT ATTACK": [
+          "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
+          "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
+          "While Frenzy Gas is active Mysterio gains 247 Attack Rating and the potency of his Poisons are increased by 300%."
+        ]
+      }
+    },
+    "2+2": {
+      "rank": 2,
+      "prestige": "370",
+      "hp": "1466",
+      "attack": "125",
+      "crit_rate": "493",
+      "crit_dmge": "611",
+      "armor": "52",
+      "block_prof": "2934",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "87",
+      "sig_info": "Mysterio generates 1 Chemical Gas every 26 to 10.11 seconds.",
+      "url_page": "https://auntm.ai/champions/mysterio/tier/2",
+      "champid": "mysterio+2+2",
+      "challenger_rating": 30,
+      "abilities": {
+        "PASSIVE": [
+          "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
+        ],
+        "CHEMICAL GAS - PASSIVE": [
+          "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
+          "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 200 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
+          "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
+        ],
+        "ON FOURTH LIGHT ATTACK": [
+          "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
+          "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
+          "While Frenzy Gas is active Mysterio gains 325 Attack Rating and the potency of his Poisons are increased by 300%."
+        ]
+      }
+    },
+    "2+3": {
+      "rank": 3,
+      "prestige": "582",
+      "hp": "2327",
+      "attack": "198",
+      "crit_rate": "508",
+      "crit_dmge": "629",
+      "armor": "71",
+      "block_prof": "3023",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "90",
+      "sig_info": "Mysterio generates 1 Chemical Gas every 26 to 10.11 seconds.",
+      "url_page": "https://auntm.ai/champions/mysterio/tier/2",
+      "champid": "mysterio+2+3",
+      "challenger_rating": 40,
+      "abilities": {
+        "PASSIVE": [
+          "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
+        ],
+        "CHEMICAL GAS - PASSIVE": [
+          "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
+          "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 316.8 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
+          "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
+        ],
+        "ON FOURTH LIGHT ATTACK": [
+          "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
+          "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
+          "While Frenzy Gas is active Mysterio gains 514.8 Attack Rating and the potency of his Poisons are increased by 300%."
+        ]
+      }
+    },
+    "3+1": {
+      "rank": 1,
+      "prestige": "503",
+      "hp": "2012",
+      "attack": "171",
+      "crit_rate": "508",
+      "crit_dmge": "629",
+      "armor": "71",
+      "block_prof": "3023",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "90",
+      "sig_info": "Mysterio generates 1 Chemical Gas every 26 to 10.11 seconds.",
+      "url_page": "https://auntm.ai/champions/mysterio/tier/3",
+      "champid": "mysterio+3+1",
+      "challenger_rating": 40,
+      "abilities": {
+        "PASSIVE": [
+          "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
+        ],
+        "CHEMICAL GAS - PASSIVE": [
+          "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
+          "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 273.6 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
+          "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
+        ],
+        "ON FOURTH LIGHT ATTACK": [
+          "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
+          "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
+          "While Frenzy Gas is active Mysterio gains 444.6 Attack Rating and the potency of his Poisons are increased by 300%."
+        ]
+      }
+    },
+    "3+2": {
+      "rank": 2,
+      "prestige": "805",
+      "hp": "3220",
+      "attack": "274",
+      "crit_rate": "523",
+      "crit_dmge": "648",
+      "armor": "93",
+      "block_prof": "3112",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "93",
+      "sig_info": "Mysterio generates 1 Chemical Gas every 26 to 10.11 seconds.",
+      "url_page": "https://auntm.ai/champions/mysterio/tier/3",
+      "champid": "mysterio+3+2",
+      "challenger_rating": 50,
+      "abilities": {
+        "PASSIVE": [
+          "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
+        ],
+        "CHEMICAL GAS - PASSIVE": [
+          "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
+          "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 438.4 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
+          "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
+        ],
+        "ON FOURTH LIGHT ATTACK": [
+          "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
+          "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
+          "While Frenzy Gas is active Mysterio gains 712.4 Attack Rating and the potency of his Poisons are increased by 300%."
+        ]
+      }
+    },
+    "3+3": {
+      "rank": 3,
+      "prestige": "1122",
+      "hp": "4504",
+      "attack": "383",
+      "crit_rate": "538",
+      "crit_dmge": "666",
+      "armor": "115",
+      "block_prof": "3200",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "95",
+      "sig_info": "Mysterio generates 1 Chemical Gas every 26 to 10.11 seconds.",
+      "url_page": "https://auntm.ai/champions/mysterio/tier/3",
+      "champid": "mysterio+3+3",
+      "challenger_rating": 60,
+      "abilities": {
+        "PASSIVE": [
+          "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
+        ],
+        "CHEMICAL GAS - PASSIVE": [
+          "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
+          "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 612.8 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
+          "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
+        ],
+        "ON FOURTH LIGHT ATTACK": [
+          "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
+          "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
+          "While Frenzy Gas is active Mysterio gains 995.8 Attack Rating and the potency of his Poisons are increased by 300%."
+        ]
+      }
+    },
+    "3+4": {
+      "rank": 4,
+      "prestige": "1539",
+      "hp": "6184",
+      "attack": "525",
+      "crit_rate": "553",
+      "crit_dmge": "685",
+      "armor": "140",
+      "block_prof": "3289",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "98",
+      "sig_info": "Mysterio generates 1 Chemical Gas every 26 to 10.11 seconds.",
+      "url_page": "https://auntm.ai/champions/mysterio/tier/3",
+      "champid": "mysterio+3+4",
+      "challenger_rating": 70,
+      "abilities": {
+        "PASSIVE": [
+          "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
+        ],
+        "CHEMICAL GAS - PASSIVE": [
+          "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
+          "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 840 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
+          "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
+        ],
+        "ON FOURTH LIGHT ATTACK": [
+          "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
+          "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
+          "While Frenzy Gas is active Mysterio gains 1365 Attack Rating and the potency of his Poisons are increased by 300%."
+        ]
+      }
+    },
+    "4+1": {
+      "rank": 1,
+      "prestige": "1122",
+      "hp": "4501",
+      "attack": "382",
+      "crit_rate": "538",
+      "crit_dmge": "666",
+      "armor": "157",
+      "block_prof": "3200",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "95",
+      "sig_info": "Mysterio generates 1 Chemical Gas every 26 to 10.11 seconds.",
+      "url_page": "https://auntm.ai/champions/mysterio/tier/4",
+      "champid": "mysterio+4+1",
+      "challenger_rating": 60,
+      "abilities": {
+        "PASSIVE": [
+          "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
+        ],
+        "CHEMICAL GAS - PASSIVE": [
+          "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
+          "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 611.2 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
+          "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
+        ],
+        "ON FOURTH LIGHT ATTACK": [
+          "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
+          "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
+          "While Frenzy Gas is active Mysterio gains 993.2 Attack Rating and the potency of his Poisons are increased by 300%."
+        ]
+      }
+    },
+    "4+2": {
+      "rank": 2,
+      "prestige": "1577",
+      "hp": "6313",
+      "attack": "536",
+      "crit_rate": "553",
+      "crit_dmge": "685",
+      "armor": "183",
+      "block_prof": "3289",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "98",
+      "sig_info": "Mysterio generates 1 Chemical Gas every 26 to 10.11 seconds.",
+      "url_page": "https://auntm.ai/champions/mysterio/tier/4",
+      "champid": "mysterio+4+2",
+      "challenger_rating": 70,
+      "abilities": {
+        "PASSIVE": [
+          "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
+        ],
+        "CHEMICAL GAS - PASSIVE": [
+          "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
+          "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 857.6 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
+          "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
+        ],
+        "ON FOURTH LIGHT ATTACK": [
+          "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
+          "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
+          "While Frenzy Gas is active Mysterio gains 1393.6 Attack Rating and the potency of his Poisons are increased by 300%."
+        ]
+      }
+    },
+    "4+3": {
+      "rank": 3,
+      "prestige": "2205",
+      "hp": "8845",
+      "attack": "751",
+      "crit_rate": "568",
+      "crit_dmge": "703",
+      "armor": "212",
+      "block_prof": "3378",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "100",
+      "sig_info": "Mysterio generates 1 Chemical Gas every 26 to 10.11 seconds.",
+      "url_page": "https://auntm.ai/champions/mysterio/tier/4",
+      "champid": "mysterio+4+3",
+      "challenger_rating": 80,
+      "abilities": {
+        "PASSIVE": [
+          "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
+        ],
+        "CHEMICAL GAS - PASSIVE": [
+          "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
+          "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 1201.6 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
+          "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
+        ],
+        "ON FOURTH LIGHT ATTACK": [
+          "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
+          "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
+          "While Frenzy Gas is active Mysterio gains 1952.6 Attack Rating and the potency of his Poisons are increased by 300%."
+        ]
+      }
+    },
+    "4+4": {
+      "rank": 4,
+      "prestige": "2902",
+      "hp": "11622",
+      "attack": "987",
+      "crit_rate": "583",
+      "crit_dmge": "722",
+      "armor": "242",
+      "block_prof": "3467",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "103",
+      "sig_info": "Mysterio generates 1 Chemical Gas every 26 to 10.11 seconds.",
+      "url_page": "https://auntm.ai/champions/mysterio/tier/4",
+      "champid": "mysterio+4+4",
+      "challenger_rating": 90,
+      "abilities": {
+        "PASSIVE": [
+          "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
+        ],
+        "CHEMICAL GAS - PASSIVE": [
+          "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
+          "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 1579.2 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
+          "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
+        ],
+        "ON FOURTH LIGHT ATTACK": [
+          "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
+          "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
+          "While Frenzy Gas is active Mysterio gains 2566.2 Attack Rating and the potency of his Poisons are increased by 300%."
+        ]
+      }
+    },
+    "4+5": {
+      "rank": 5,
+      "prestige": "3869",
+      "hp": "15508",
+      "attack": "1317",
+      "crit_rate": "598",
+      "crit_dmge": "740",
+      "armor": "273",
+      "block_prof": "3556",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "106",
+      "sig_info": "Mysterio generates 1 Chemical Gas every 26 to 10.11 seconds.",
+      "url_page": "https://auntm.ai/champions/mysterio/tier/4",
+      "champid": "mysterio+4+5",
+      "challenger_rating": 100,
+      "abilities": {
+        "PASSIVE": [
+          "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
+        ],
+        "CHEMICAL GAS - PASSIVE": [
+          "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
+          "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 2107.2 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
+          "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
+        ],
+        "ON FOURTH LIGHT ATTACK": [
+          "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
+          "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
+          "While Frenzy Gas is active Mysterio gains 3424.2 Attack Rating and the potency of his Poisons are increased by 300%."
+        ]
+      }
+    },
+    "5+1": {
+      "rank": 1,
+      "prestige": "2314",
+      "hp": "9255",
+      "attack": "786",
+      "crit_rate": "568",
+      "crit_dmge": "703",
+      "armor": "362",
+      "block_prof": "3378",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "100",
+      "sig_info": "Mysterio generates 1 Chemical Gas every 19.8 to 6.01 seconds.",
+      "url_page": "https://auntm.ai/champions/mysterio/tier/5",
+      "champid": "mysterio+5+1",
+      "challenger_rating": 80,
+      "abilities": {
+        "PASSIVE": [
+          "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
+        ],
+        "CHEMICAL GAS - PASSIVE": [
+          "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
+          "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 1257.6 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
+          "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
+        ],
+        "ON FOURTH LIGHT ATTACK": [
+          "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
+          "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
+          "While Frenzy Gas is active Mysterio gains 2043.6 Attack Rating and the potency of his Poisons are increased by 300%."
+        ]
+      }
+    },
+    "5+2": {
+      "rank": 2,
+      "prestige": "3055",
+      "hp": "12225",
+      "attack": "1038",
+      "crit_rate": "583",
+      "crit_dmge": "722",
+      "armor": "400",
+      "block_prof": "3467",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "103",
+      "sig_info": "Mysterio generates 1 Chemical Gas every 19.8 to 6.01 seconds.",
+      "url_page": "https://auntm.ai/champions/mysterio/tier/5",
+      "champid": "mysterio+5+2",
+      "challenger_rating": 90,
+      "abilities": {
+        "PASSIVE": [
+          "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
+        ],
+        "CHEMICAL GAS - PASSIVE": [
+          "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
+          "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 1660.8 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
+          "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
+        ],
+        "ON FOURTH LIGHT ATTACK": [
+          "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
+          "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
+          "While Frenzy Gas is active Mysterio gains 2698.8 Attack Rating and the potency of his Poisons are increased by 300%."
+        ]
+      }
+    },
+    "5+3": {
+      "rank": 3,
+      "prestige": "4275",
+      "hp": "17090",
+      "attack": "1451",
+      "crit_rate": "598",
+      "crit_dmge": "740",
+      "armor": "440",
+      "block_prof": "3556",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "106",
+      "sig_info": "Mysterio generates 1 Chemical Gas every 19.8 to 6.01 seconds.",
+      "url_page": "https://auntm.ai/champions/mysterio/tier/5",
+      "champid": "mysterio+5+3",
+      "challenger_rating": 100,
+      "abilities": {
+        "PASSIVE": [
+          "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
+        ],
+        "CHEMICAL GAS - PASSIVE": [
+          "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
+          "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 2321.6 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
+          "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
+        ],
+        "ON FOURTH LIGHT ATTACK": [
+          "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
+          "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
+          "While Frenzy Gas is active Mysterio gains 3772.6 Attack Rating and the potency of his Poisons are increased by 300%."
+        ]
+      }
+    },
+    "5+4": {
+      "rank": 4,
+      "prestige": "5758",
+      "hp": "23029",
+      "attack": "1955",
+      "crit_rate": "613",
+      "crit_dmge": "759",
+      "armor": "481",
+      "block_prof": "3645",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "108",
+      "sig_info": "Mysterio generates 1 Chemical Gas every 19.8 to 6.01 seconds.",
+      "url_page": "https://auntm.ai/champions/mysterio/tier/5",
+      "champid": "mysterio+5+4",
+      "challenger_rating": 110,
+      "abilities": {
+        "PASSIVE": [
+          "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
+        ],
+        "CHEMICAL GAS - PASSIVE": [
+          "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
+          "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 3128 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
+          "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
+        ],
+        "ON FOURTH LIGHT ATTACK": [
+          "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
+          "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
+          "While Frenzy Gas is active Mysterio gains 5083 Attack Rating and the potency of his Poisons are increased by 300%."
+        ]
+      }
+    },
+    "5+5": {
+      "rank": 5,
+      "prestige": "7783",
+      "hp": "31093",
+      "attack": "2640",
+      "crit_rate": "628",
+      "crit_dmge": "777",
+      "armor": "525",
+      "block_prof": "3734",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "111",
+      "sig_info": "Mysterio generates 1 Chemical Gas every 19.8 to 6.01 seconds.",
+      "url_page": "https://auntm.ai/champions/mysterio/tier/5",
+      "champid": "mysterio+5+5",
+      "challenger_rating": 120,
+      "abilities": {
+        "PASSIVE": [
+          "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
+        ],
+        "CHEMICAL GAS - PASSIVE": [
+          "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
+          "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 4224 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
+          "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
+        ],
+        "ON FOURTH LIGHT ATTACK": [
+          "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
+          "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
+          "While Frenzy Gas is active Mysterio gains 6864 Attack Rating and the potency of his Poisons are increased by 300%."
+        ]
+      }
+    },
+    "6+1": {
+      "rank": 1,
+      "prestige": "6103",
+      "hp": "24449",
+      "attack": "2076",
+      "crit_rate": "613",
+      "crit_dmge": "759",
+      "armor": "391",
+      "block_prof": "3645",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "108",
+      "sig_info": "Mysterio generates 1 Chemical Gas every 19.8 to 6.01 seconds.",
+      "url_page": "https://auntm.ai/champions/mysterio/tier/6",
+      "champid": "mysterio+6+1",
+      "challenger_rating": 110,
+      "abilities": {
+        "PASSIVE": [
+          "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
+        ],
+        "CHEMICAL GAS - PASSIVE": [
+          "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
+          "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 3321.6 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
+          "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
+        ],
+        "ON FOURTH LIGHT ATTACK": [
+          "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
+          "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
+          "While Frenzy Gas is active Mysterio gains 5397.6 Attack Rating and the potency of his Poisons are increased by 300%."
+        ]
+      }
+    },
+    "6+2": {
+      "rank": 2,
+      "prestige": "8428",
+      "hp": "33772",
+      "attack": "2867",
+      "crit_rate": "628",
+      "crit_dmge": "777",
+      "armor": "431",
+      "block_prof": "3734",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "111",
+      "sig_info": "Mysterio generates 1 Chemical Gas every 19.8 to 6.01 seconds.",
+      "url_page": "https://auntm.ai/champions/mysterio/tier/6",
+      "champid": "mysterio+6+2",
+      "challenger_rating": 120,
+      "abilities": {
+        "PASSIVE": [
+          "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
+        ],
+        "CHEMICAL GAS - PASSIVE": [
+          "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
+          "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 4587.2 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
+          "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
+        ],
+        "ON FOURTH LIGHT ATTACK": [
+          "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
+          "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
+          "While Frenzy Gas is active Mysterio gains 7454.2 Attack Rating and the potency of his Poisons are increased by 300%."
+        ]
+      }
+    },
+    "6+3": {
+      "rank": 3,
+      "prestige": "10011",
+      "hp": "40065",
+      "attack": "3401",
+      "crit_rate": "643",
+      "crit_dmge": "796",
+      "armor": "472",
+      "block_prof": "3823",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "114",
+      "sig_info": "Mysterio generates 1 Chemical Gas every 19.8 to 6.01 seconds.",
+      "url_page": "https://auntm.ai/champions/mysterio/tier/6",
+      "champid": "mysterio+6+3",
+      "challenger_rating": 130,
+      "abilities": {
+        "PASSIVE": [
+          "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
+        ],
+        "CHEMICAL GAS - PASSIVE": [
+          "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
+          "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 5441.6 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
+          "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
+        ],
+        "ON FOURTH LIGHT ATTACK": [
+          "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
+          "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
+          "While Frenzy Gas is active Mysterio gains 8842.6 Attack Rating and the potency of his Poisons are increased by 300%."
+        ]
+      }
+    },
+    "6+4": {
+      "rank": 4,
+      "prestige": "11453",
+      "hp": "45848",
+      "attack": "3892",
+      "crit_rate": "658",
+      "crit_dmge": "814",
+      "armor": "517",
+      "block_prof": "3912",
+      "energy_resist": "0",
+      "physical_resist": "0",
+      "crit_resist": "116",
+      "sig_info": "Mysterio generates 1 Chemical Gas every 19.8 to 6.01 seconds.",
+      "url_page": "https://auntm.ai/champions/mysterio/tier/6",
+      "champid": "mysterio+6+4",
+      "challenger_rating": 140,
+      "abilities": {
+        "PASSIVE": [
+          "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
+        ],
+        "CHEMICAL GAS - PASSIVE": [
+          "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
+          "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 6227.2 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
+          "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
+        ],
+        "ON FOURTH LIGHT ATTACK": [
+          "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
+          "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
+          "While Frenzy Gas is active Mysterio gains 10119.2 Attack Rating and the potency of his Poisons are increased by 300%."
+        ]
+      }
+    },
+    "1+1": {
+      "rank": 1,
+      "prestige": 221,
+      "hp": 869,
+      "attack": 74,
+      "crit_rate": 463,
+      "crit_dmge": 574,
+      "armor": 0,
+      "block_prof": 2756,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 82,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/mysterio/tier/1",
+      "champid": "mysterio+1+1",
+      "challenger_rating": 10,
+      "abilities": {
+        "PASSIVE": [
+          "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
+        ],
+        "CHEMICAL GAS - PASSIVE": [
+          "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
+          "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 118.4 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
+          "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
+        ],
+        "ON FOURTH LIGHT ATTACK": [
+          "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
+          "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
+          "While Frenzy Gas is active Mysterio gains 192.4 Attack Rating and the potency of his Poisons are increased by 300%."
+        ]
+      }
+    },
+    "1+2": {
+      "rank": 2,
+      "prestige": 303,
+      "hp": 1202,
+      "attack": 103,
+      "crit_rate": 478,
+      "crit_dmge": 592,
+      "armor": 0,
+      "block_prof": 2845,
+      "energy_resist": 0,
+      "physical_resist": 0,
+      "crit_resist": 85,
+      "sig_info": null,
+      "url_page": "https://auntm.ai/champions/mysterio/tier/1",
+      "champid": "mysterio+1+2",
+      "challenger_rating": 20,
+      "abilities": {
+        "PASSIVE": [
+          "Mysterio\u2019s Ability Accuracy cannot be decreased and he\u2019s immune to all Poison effects, however if knocked down by a Spider-verse Hero or inflicted with Armor Break Debuff, his helmet is cracked for 10 seconds, temporarily disabling these benefits."
+        ],
+        "CHEMICAL GAS - PASSIVE": [
+          "Mysterio\u2019s second Medium attack generates 1 Chemical Gas, stacking up to 3 total. Gas can\u2019t be generated while his helmet is cracked.",
+          "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing 164.8 direct damage scaling with Base Attack, per Chemical Gas consumed over 8 seconds and reducing health recovery by 30%.",
+          "While inflicted by Mysterio\u2019s Poison, Spider-Verse Heroes can\u2019t Evade."
+        ],
+        "ON FOURTH LIGHT ATTACK": [
+          "100% chance to inflict a Heal Block Passive, preventing the Opponent from healing for 1 second(s). This duration increases by +2 seconds for each Chemical Gas Mysterio has."
+        ],
+        "SPECIAL ATTACK 1": [
+          "Mysterio gains a Reflection Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "If struck while Reflection Gas is active the incoming damage is stored. Upon expiry 70% of the taken damage is reflected onto the Opponent and Mysterio immediately Regenerates 100% of the damage he took."
+        ],
+        "SPECIAL ATTACK 2": [
+          "Mysterio gains an Illusion Gas Passive lasting 4 seconds and all his Chemical Gas is consumed, each adding 1 second to it\u2019s duration.",
+          "While active, the Opponent is inflicted with a Power Drain Debuff losing 6% of their max Power per second.",
+          "While active, all incoming attacks have a 25% chance to Miss, increasing to 100% while charging a Heavy Attack."
+        ],
+        "SPECIAL ATTACK 3": [
+          "Mysterio gains a Frenzy Gas Passive lasting 10 seconds and all his Chemical Gas is consumed, each adding 4 seconds to it\u2019s duration.",
+          "While Frenzy Gas is active Mysterio gains 267.8 Attack Rating and the potency of his Poisons are increased by 300%."
+        ]
+      }
+    },
+    "find": {
+      "story_quests": {
+        "act_1": [],
+        "act_2": [],
+        "act_3": [],
+        "act_4": [],
+        "act_5": [],
+        "act_6": ["6.3.1", "6.3.5", "6.4.1", "6.4.3", "6.4.4", "6.4.6"],
+        "act_7": [
+          "7.1.1",
+          "7.1.4",
+          "7.2.2",
+          "7.2.4",
+          "7.3.3",
+          "7.3.6",
+          "7.4.2",
+          "7.4.5"
+        ]
+      }
     }
+  },
+  "name": "MYSTERIO",
+  "class": "Tech",
+  "img_portrait": "https://api.rexians.tk/assets/portraits/mysterio.png",
+  "contact": null,
+  "tags": ["Size: M", "Villain", "Sinister Six"],
+  "released": "7/25/2019"
 }
