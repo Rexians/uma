@@ -1,1302 +1,1215 @@
 {
-  "champid": "taskmaster",
-  "data": {
-    "2+1": {
-      "rank": 1,
-      "prestige": "255",
-      "hp": "1110",
-      "attack": "83",
-      "crit_rate": "520",
-      "crit_dmge": "551",
-      "armor": "33",
-      "block_prof": "2845",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Increase Concussion Debuff Durations by 1 to 4 second(s).",
-        "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5 to 10.01% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
-        "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 25 to 50.04% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
-      ],
-      "url_page": "https://auntm.ai/champions/taskmaster/tier/2",
-      "champid": "taskmaster+2+1",
-      "challenger_rating": 20,
-      "abilities": {
-        "PHOTOGRAPHIC REFLEXES - PASSIVE": [
-          "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
-          "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
-          "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
-        ],
-        "EXPLOIT WEAKNESS - PASSIVE": [
-          "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
-          "Successfully exploiting a weakness instantly deals 66.4 Direct Damage.",
-          "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
-          "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
-        ],
-        "LEARN THE FOE - PASSIVE": [
-          "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
-          "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
-        ],
-        "HEAVY ATTACKS": [
-          "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
-          "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Causes Bleed lasting 5 seconds and dealing 12.45 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "This attack gains +29.05 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 282.35 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +29.05 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If there is an active Exploit Weakness target it is automatically triggered, and it deals +66.4 additional Direct Damage.",
-          "Causes Bleed lasting 5 seconds and dealing 12.45 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 282.35 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +29.05 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ]
-      }
-    },
-    "2+2": {
-      "rank": 2,
-      "prestige": "334",
-      "hp": "1466",
-      "attack": "109",
-      "crit_rate": "536",
-      "crit_dmge": "568",
-      "armor": "52",
-      "block_prof": "2934",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Increase Concussion Debuff Durations by 1 to 4 second(s).",
-        "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5 to 10.01% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
-        "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 25 to 50.04% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
-      ],
-      "url_page": "https://auntm.ai/champions/taskmaster/tier/2",
-      "champid": "taskmaster+2+2",
-      "challenger_rating": 30,
-      "abilities": {
-        "PHOTOGRAPHIC REFLEXES - PASSIVE": [
-          "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
-          "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
-          "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
-        ],
-        "EXPLOIT WEAKNESS - PASSIVE": [
-          "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
-          "Successfully exploiting a weakness instantly deals 87.2 Direct Damage.",
-          "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
-          "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
-        ],
-        "LEARN THE FOE - PASSIVE": [
-          "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
-          "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
-        ],
-        "HEAVY ATTACKS": [
-          "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
-          "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Causes Bleed lasting 5 seconds and dealing 16.35 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "This attack gains +38.15 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 291.18 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +38.15 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If there is an active Exploit Weakness target it is automatically triggered, and it deals +87.2 additional Direct Damage.",
-          "Causes Bleed lasting 5 seconds and dealing 16.35 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 291.18 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +38.15 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ]
-      }
-    },
-    "2+3": {
-      "rank": 3,
-      "prestige": "573",
-      "hp": "2327",
-      "attack": "174",
-      "crit_rate": "552",
-      "crit_dmge": "585",
-      "armor": "71",
-      "block_prof": "3023",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Increase Concussion Debuff Durations by 1 to 4 second(s).",
-        "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5 to 10.01% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
-        "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 25 to 50.04% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
-      ],
-      "url_page": "https://auntm.ai/champions/taskmaster/tier/2",
-      "champid": "taskmaster+2+3",
-      "challenger_rating": 40,
-      "abilities": {
-        "PHOTOGRAPHIC REFLEXES - PASSIVE": [
-          "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
-          "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
-          "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
-        ],
-        "EXPLOIT WEAKNESS - PASSIVE": [
-          "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
-          "Successfully exploiting a weakness instantly deals 139.2 Direct Damage.",
-          "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
-          "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
-        ],
-        "LEARN THE FOE - PASSIVE": [
-          "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
-          "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
-        ],
-        "HEAVY ATTACKS": [
-          "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
-          "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Causes Bleed lasting 5 seconds and dealing 26.1 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "This attack gains +60.9 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 300 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +60.9 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If there is an active Exploit Weakness target it is automatically triggered, and it deals +139.2 additional Direct Damage.",
-          "Causes Bleed lasting 5 seconds and dealing 26.1 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 300 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +60.9 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ]
-      }
-    },
-    "3+1": {
-      "rank": 1,
-      "prestige": "494",
-      "hp": "2012",
-      "attack": "150",
-      "crit_rate": "552",
-      "crit_dmge": "585",
-      "armor": "71",
-      "block_prof": "3023",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Increase Concussion Debuff Durations by 1 to 4 second(s).",
-        "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5 to 10.01% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
-        "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 25 to 50.04% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
-      ],
-      "url_page": "https://auntm.ai/champions/taskmaster/tier/3",
-      "champid": "taskmaster+3+1",
-      "challenger_rating": 40,
-      "abilities": {
-        "PHOTOGRAPHIC REFLEXES - PASSIVE": [
-          "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
-          "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
-          "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
-        ],
-        "EXPLOIT WEAKNESS - PASSIVE": [
-          "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
-          "Successfully exploiting a weakness instantly deals 120 Direct Damage.",
-          "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
-          "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
-        ],
-        "LEARN THE FOE - PASSIVE": [
-          "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
-          "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
-        ],
-        "HEAVY ATTACKS": [
-          "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
-          "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Causes Bleed lasting 5 seconds and dealing 22.5 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "This attack gains +52.5 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 300 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +52.5 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If there is an active Exploit Weakness target it is automatically triggered, and it deals +120 additional Direct Damage.",
-          "Causes Bleed lasting 5 seconds and dealing 22.5 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 300 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +52.5 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ]
-      }
-    },
-    "3+2": {
-      "rank": 2,
-      "prestige": "790",
-      "hp": "3220",
-      "attack": "240",
-      "crit_rate": "568",
-      "crit_dmge": "603",
-      "armor": "93",
-      "block_prof": "3112",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Increase Concussion Debuff Durations by 1 to 4 second(s).",
-        "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5 to 10.01% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
-        "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 25 to 50.04% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
-      ],
-      "url_page": "https://auntm.ai/champions/taskmaster/tier/3",
-      "champid": "taskmaster+3+2",
-      "challenger_rating": 50,
-      "abilities": {
-        "PHOTOGRAPHIC REFLEXES - PASSIVE": [
-          "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
-          "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
-          "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
-        ],
-        "EXPLOIT WEAKNESS - PASSIVE": [
-          "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
-          "Successfully exploiting a weakness instantly deals 192 Direct Damage.",
-          "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
-          "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
-        ],
-        "LEARN THE FOE - PASSIVE": [
-          "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
-          "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
-        ],
-        "HEAVY ATTACKS": [
-          "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
-          "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Causes Bleed lasting 5 seconds and dealing 36 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "This attack gains +84 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 308.82 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +84 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If there is an active Exploit Weakness target it is automatically triggered, and it deals +192 additional Direct Damage.",
-          "Causes Bleed lasting 5 seconds and dealing 36 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 308.82 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +84 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ]
-      }
-    },
-    "3+3": {
-      "rank": 3,
-      "prestige": "1102",
-      "hp": "4504",
-      "attack": "335",
-      "crit_rate": "585",
-      "crit_dmge": "620",
-      "armor": "115",
-      "block_prof": "3200",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Increase Concussion Debuff Durations by 1 to 4 second(s).",
-        "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5 to 10.01% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
-        "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 25 to 50.04% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
-      ],
-      "url_page": "https://auntm.ai/champions/taskmaster/tier/3",
-      "champid": "taskmaster+3+3",
-      "challenger_rating": 60,
-      "abilities": {
-        "PHOTOGRAPHIC REFLEXES - PASSIVE": [
-          "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
-          "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
-          "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
-        ],
-        "EXPLOIT WEAKNESS - PASSIVE": [
-          "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
-          "Successfully exploiting a weakness instantly deals 268 Direct Damage.",
-          "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
-          "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
-        ],
-        "LEARN THE FOE - PASSIVE": [
-          "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
-          "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
-        ],
-        "HEAVY ATTACKS": [
-          "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
-          "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Causes Bleed lasting 5 seconds and dealing 50.25 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "This attack gains +117.25 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 317.65 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +117.25 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If there is an active Exploit Weakness target it is automatically triggered, and it deals +268 additional Direct Damage.",
-          "Causes Bleed lasting 5 seconds and dealing 50.25 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 317.65 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +117.25 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ]
-      }
-    },
-    "3+4": {
-      "rank": 4,
-      "prestige": "1514",
-      "hp": "6184",
-      "attack": "460",
-      "crit_rate": "601",
-      "crit_dmge": "637",
-      "armor": "140",
-      "block_prof": "3289",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Increase Concussion Debuff Durations by 1 to 4 second(s).",
-        "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5 to 10.01% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
-        "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 25 to 50.04% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
-      ],
-      "url_page": "https://auntm.ai/champions/taskmaster/tier/3",
-      "champid": "taskmaster+3+4",
-      "challenger_rating": 70,
-      "abilities": {
-        "PHOTOGRAPHIC REFLEXES - PASSIVE": [
-          "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
-          "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
-          "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
-        ],
-        "EXPLOIT WEAKNESS - PASSIVE": [
-          "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
-          "Successfully exploiting a weakness instantly deals 368 Direct Damage.",
-          "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
-          "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
-        ],
-        "LEARN THE FOE - PASSIVE": [
-          "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
-          "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
-        ],
-        "HEAVY ATTACKS": [
-          "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
-          "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Causes Bleed lasting 5 seconds and dealing 69 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "This attack gains +161 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 326.47 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +161 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If there is an active Exploit Weakness target it is automatically triggered, and it deals +368 additional Direct Damage.",
-          "Causes Bleed lasting 5 seconds and dealing 69 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 326.47 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +161 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ]
-      }
-    },
-    "4+1": {
-      "rank": 1,
-      "prestige": "1104",
-      "hp": "4501",
-      "attack": "335",
-      "crit_rate": "585",
-      "crit_dmge": "620",
-      "armor": "157",
-      "block_prof": "3200",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Increase Concussion Debuff Durations by 1 to 4 second(s).",
-        "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5 to 10.01% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
-        "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 25 to 50.04% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
-      ],
-      "url_page": "https://auntm.ai/champions/taskmaster/tier/4",
-      "champid": "taskmaster+4+1",
-      "challenger_rating": 60,
-      "abilities": {
-        "PHOTOGRAPHIC REFLEXES - PASSIVE": [
-          "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
-          "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
-          "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
-        ],
-        "EXPLOIT WEAKNESS - PASSIVE": [
-          "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
-          "Successfully exploiting a weakness instantly deals 268 Direct Damage.",
-          "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
-          "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
-        ],
-        "LEARN THE FOE - PASSIVE": [
-          "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
-          "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
-        ],
-        "HEAVY ATTACKS": [
-          "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
-          "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Causes Bleed lasting 5 seconds and dealing 50.25 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "This attack gains +117.25 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 317.65 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +117.25 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If there is an active Exploit Weakness target it is automatically triggered, and it deals +268 additional Direct Damage.",
-          "Causes Bleed lasting 5 seconds and dealing 50.25 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 317.65 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +117.25 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ]
-      }
-    },
-    "4+2": {
-      "rank": 2,
-      "prestige": "1548",
-      "hp": "6313",
-      "attack": "470",
-      "crit_rate": "601",
-      "crit_dmge": "637",
-      "armor": "183",
-      "block_prof": "3289",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Increase Concussion Debuff Durations by 1 to 4 second(s).",
-        "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5 to 10.01% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
-        "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 25 to 50.04% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
-      ],
-      "url_page": "https://auntm.ai/champions/taskmaster/tier/4",
-      "champid": "taskmaster+4+2",
-      "challenger_rating": 70,
-      "abilities": {
-        "PHOTOGRAPHIC REFLEXES - PASSIVE": [
-          "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
-          "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
-          "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
-        ],
-        "EXPLOIT WEAKNESS - PASSIVE": [
-          "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
-          "Successfully exploiting a weakness instantly deals 376 Direct Damage.",
-          "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
-          "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
-        ],
-        "LEARN THE FOE - PASSIVE": [
-          "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
-          "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
-        ],
-        "HEAVY ATTACKS": [
-          "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
-          "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Causes Bleed lasting 5 seconds and dealing 70.5 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "This attack gains +164.5 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 326.47 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +164.5 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If there is an active Exploit Weakness target it is automatically triggered, and it deals +376 additional Direct Damage.",
-          "Causes Bleed lasting 5 seconds and dealing 70.5 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 326.47 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +164.5 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ]
-      }
-    },
-    "4+3": {
-      "rank": 3,
-      "prestige": "2162",
-      "hp": "8845",
-      "attack": "658",
-      "crit_rate": "617",
-      "crit_dmge": "654",
-      "armor": "212",
-      "block_prof": "3378",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Increase Concussion Debuff Durations by 1 to 4 second(s).",
-        "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5 to 10.01% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
-        "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 25 to 50.04% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
-      ],
-      "url_page": "https://auntm.ai/champions/taskmaster/tier/4",
-      "champid": "taskmaster+4+3",
-      "challenger_rating": 80,
-      "abilities": {
-        "PHOTOGRAPHIC REFLEXES - PASSIVE": [
-          "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
-          "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
-          "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
-        ],
-        "EXPLOIT WEAKNESS - PASSIVE": [
-          "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
-          "Successfully exploiting a weakness instantly deals 526.4 Direct Damage.",
-          "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
-          "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
-        ],
-        "LEARN THE FOE - PASSIVE": [
-          "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
-          "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
-        ],
-        "HEAVY ATTACKS": [
-          "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
-          "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Causes Bleed lasting 5 seconds and dealing 98.7 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "This attack gains +230.3 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 335.29 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +230.3 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If there is an active Exploit Weakness target it is automatically triggered, and it deals +526.4 additional Direct Damage.",
-          "Causes Bleed lasting 5 seconds and dealing 98.7 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 335.29 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +230.3 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ]
-      }
-    },
-    "4+4": {
-      "rank": 4,
-      "prestige": "2847",
-      "hp": "11622",
-      "attack": "865",
-      "crit_rate": "633",
-      "crit_dmge": "671",
-      "armor": "242",
-      "block_prof": "3467",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Increase Concussion Debuff Durations by 1 to 4 second(s).",
-        "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5 to 10.01% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
-        "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 25 to 50.04% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
-      ],
-      "url_page": "https://auntm.ai/champions/taskmaster/tier/4",
-      "champid": "taskmaster+4+4",
-      "challenger_rating": 90,
-      "abilities": {
-        "PHOTOGRAPHIC REFLEXES - PASSIVE": [
-          "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
-          "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
-          "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
-        ],
-        "EXPLOIT WEAKNESS - PASSIVE": [
-          "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
-          "Successfully exploiting a weakness instantly deals 692 Direct Damage.",
-          "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
-          "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
-        ],
-        "LEARN THE FOE - PASSIVE": [
-          "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
-          "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
-        ],
-        "HEAVY ATTACKS": [
-          "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
-          "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Causes Bleed lasting 5 seconds and dealing 129.75 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "This attack gains +302.75 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 344.12 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +302.75 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If there is an active Exploit Weakness target it is automatically triggered, and it deals +692 additional Direct Damage.",
-          "Causes Bleed lasting 5 seconds and dealing 129.75 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 344.12 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +302.75 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ]
-      }
-    },
-    "4+5": {
-      "rank": 5,
-      "prestige": "3794",
-      "hp": "15508",
-      "attack": "1154",
-      "crit_rate": "650",
-      "crit_dmge": "689",
-      "armor": "273",
-      "block_prof": "3556",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Increase Concussion Debuff Durations by 1 to 4 second(s).",
-        "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5 to 10.01% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
-        "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 25 to 50.04% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
-      ],
-      "url_page": "https://auntm.ai/champions/taskmaster/tier/4",
-      "champid": "taskmaster+4+5",
-      "challenger_rating": 100,
-      "abilities": {
-        "PHOTOGRAPHIC REFLEXES - PASSIVE": [
-          "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
-          "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
-          "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
-        ],
-        "EXPLOIT WEAKNESS - PASSIVE": [
-          "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
-          "Successfully exploiting a weakness instantly deals 923.2 Direct Damage.",
-          "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
-          "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
-        ],
-        "LEARN THE FOE - PASSIVE": [
-          "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
-          "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
-        ],
-        "HEAVY ATTACKS": [
-          "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
-          "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Causes Bleed lasting 5 seconds and dealing 173.1 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "This attack gains +403.9 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 352.94 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +403.9 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If there is an active Exploit Weakness target it is automatically triggered, and it deals +923.2 additional Direct Damage.",
-          "Causes Bleed lasting 5 seconds and dealing 173.1 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 352.94 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +403.9 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ]
-      }
-    },
-    "5+1": {
-      "rank": 1,
-      "prestige": "2271",
-      "hp": "9255",
-      "attack": "689",
-      "crit_rate": "617",
-      "crit_dmge": "654",
-      "armor": "362",
-      "block_prof": "3378",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Increase Concussion Debuff Durations by 1.28 to 5 second(s).",
-        "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5.53 to 12.5% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
-        "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 27.83 to 65% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
-      ],
-      "url_page": "https://auntm.ai/champions/taskmaster/tier/5",
-      "champid": "taskmaster+5+1",
-      "challenger_rating": 80,
-      "abilities": {
-        "PHOTOGRAPHIC REFLEXES - PASSIVE": [
-          "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
-          "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
-          "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
-        ],
-        "EXPLOIT WEAKNESS - PASSIVE": [
-          "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
-          "Successfully exploiting a weakness instantly deals 551.2 Direct Damage.",
-          "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
-          "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
-        ],
-        "LEARN THE FOE - PASSIVE": [
-          "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
-          "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
-        ],
-        "HEAVY ATTACKS": [
-          "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
-          "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Causes Bleed lasting 5 seconds and dealing 103.35 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "This attack gains +241.15 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 335.29 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +241.15 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If there is an active Exploit Weakness target it is automatically triggered, and it deals +551.2 additional Direct Damage.",
-          "Causes Bleed lasting 5 seconds and dealing 103.35 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 335.29 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +241.15 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ]
-      }
-    },
-    "5+2": {
-      "rank": 2,
-      "prestige": "2998",
-      "hp": "12225",
-      "attack": "910",
-      "crit_rate": "633",
-      "crit_dmge": "671",
-      "armor": "400",
-      "block_prof": "3467",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Increase Concussion Debuff Durations by 1.28 to 5 second(s).",
-        "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5.53 to 12.5% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
-        "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 27.83 to 65% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
-      ],
-      "url_page": "https://auntm.ai/champions/taskmaster/tier/5",
-      "champid": "taskmaster+5+2",
-      "challenger_rating": 90,
-      "abilities": {
-        "PHOTOGRAPHIC REFLEXES - PASSIVE": [
-          "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
-          "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
-          "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
-        ],
-        "EXPLOIT WEAKNESS - PASSIVE": [
-          "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
-          "Successfully exploiting a weakness instantly deals 728 Direct Damage.",
-          "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
-          "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
-        ],
-        "LEARN THE FOE - PASSIVE": [
-          "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
-          "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
-        ],
-        "HEAVY ATTACKS": [
-          "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
-          "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Causes Bleed lasting 5 seconds and dealing 136.5 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "This attack gains +318.5 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 344.12 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +318.5 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If there is an active Exploit Weakness target it is automatically triggered, and it deals +728 additional Direct Damage.",
-          "Causes Bleed lasting 5 seconds and dealing 136.5 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 344.12 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +318.5 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ]
-      }
-    },
-    "5+3": {
-      "rank": 3,
-      "prestige": "4193",
-      "hp": "17090",
-      "attack": "1271",
-      "crit_rate": "650",
-      "crit_dmge": "689",
-      "armor": "440",
-      "block_prof": "3556",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Increase Concussion Debuff Durations by 1.28 to 5 second(s).",
-        "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5.53 to 12.5% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
-        "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 27.83 to 65% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
-      ],
-      "url_page": "https://auntm.ai/champions/taskmaster/tier/5",
-      "champid": "taskmaster+5+3",
-      "challenger_rating": 100,
-      "abilities": {
-        "PHOTOGRAPHIC REFLEXES - PASSIVE": [
-          "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
-          "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
-          "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
-        ],
-        "EXPLOIT WEAKNESS - PASSIVE": [
-          "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
-          "Successfully exploiting a weakness instantly deals 1016.8 Direct Damage.",
-          "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
-          "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
-        ],
-        "LEARN THE FOE - PASSIVE": [
-          "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
-          "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
-        ],
-        "HEAVY ATTACKS": [
-          "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
-          "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Causes Bleed lasting 5 seconds and dealing 190.65 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "This attack gains +444.85 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 352.94 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +444.85 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If there is an active Exploit Weakness target it is automatically triggered, and it deals +1016.8 additional Direct Damage.",
-          "Causes Bleed lasting 5 seconds and dealing 190.65 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 352.94 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +444.85 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ]
-      }
-    },
-    "5+4": {
-      "rank": 4,
-      "prestige": "5650",
-      "hp": "23029",
-      "attack": "1713",
-      "crit_rate": "666",
-      "crit_dmge": "706",
-      "armor": "481",
-      "block_prof": "3645",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Increase Concussion Debuff Durations by 1.28 to 5 second(s).",
-        "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5.53 to 12.5% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
-        "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 27.83 to 65% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
-      ],
-      "url_page": "https://auntm.ai/champions/taskmaster/tier/5",
-      "champid": "taskmaster+5+4",
-      "challenger_rating": 110,
-      "abilities": {
-        "PHOTOGRAPHIC REFLEXES - PASSIVE": [
-          "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
-          "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
-          "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
-        ],
-        "EXPLOIT WEAKNESS - PASSIVE": [
-          "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
-          "Successfully exploiting a weakness instantly deals 1370.4 Direct Damage.",
-          "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
-          "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
-        ],
-        "LEARN THE FOE - PASSIVE": [
-          "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
-          "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
-        ],
-        "HEAVY ATTACKS": [
-          "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
-          "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Causes Bleed lasting 5 seconds and dealing 256.95 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "This attack gains +599.55 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 361.76 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +599.55 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If there is an active Exploit Weakness target it is automatically triggered, and it deals +1370.4 additional Direct Damage.",
-          "Causes Bleed lasting 5 seconds and dealing 256.95 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 361.76 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +599.55 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ]
-      }
-    },
-    "5+5": {
-      "rank": 5,
-      "prestige": "7636",
-      "hp": "31093",
-      "attack": "2313",
-      "crit_rate": "682",
-      "crit_dmge": "723",
-      "armor": "525",
-      "block_prof": "3734",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Increase Concussion Debuff Durations by 1.28 to 5 second(s).",
-        "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5.53 to 12.5% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
-        "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 27.83 to 65% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
-      ],
-      "url_page": "https://auntm.ai/champions/taskmaster/tier/5",
-      "champid": "taskmaster+5+5",
-      "challenger_rating": 120,
-      "abilities": {
-        "PHOTOGRAPHIC REFLEXES - PASSIVE": [
-          "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
-          "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
-          "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
-        ],
-        "EXPLOIT WEAKNESS - PASSIVE": [
-          "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
-          "Successfully exploiting a weakness instantly deals 1850.4 Direct Damage.",
-          "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
-          "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
-        ],
-        "LEARN THE FOE - PASSIVE": [
-          "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
-          "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
-        ],
-        "HEAVY ATTACKS": [
-          "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
-          "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Causes Bleed lasting 5 seconds and dealing 346.95 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "This attack gains +809.55 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 370.59 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +809.55 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If there is an active Exploit Weakness target it is automatically triggered, and it deals +1850.4 additional Direct Damage.",
-          "Causes Bleed lasting 5 seconds and dealing 346.95 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 370.59 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +809.55 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ]
-      }
-    },
-    "6+1": {
-      "rank": 1,
-      "prestige": "5986",
-      "hp": "24449",
-      "attack": "1819",
-      "crit_rate": "666",
-      "crit_dmge": "706",
-      "armor": "391",
-      "block_prof": "3645",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Increase Concussion Debuff Durations by 1.28 to 5 second(s).",
-        "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5.53 to 12.5% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
-        "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 27.83 to 65% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
-      ],
-      "url_page": "https://auntm.ai/champions/taskmaster/tier/6",
-      "champid": "taskmaster+6+1",
-      "challenger_rating": 110,
-      "abilities": {
-        "PHOTOGRAPHIC REFLEXES - PASSIVE": [
-          "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
-          "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
-          "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
-        ],
-        "EXPLOIT WEAKNESS - PASSIVE": [
-          "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
-          "Successfully exploiting a weakness instantly deals 1455.2 Direct Damage.",
-          "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
-          "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
-        ],
-        "LEARN THE FOE - PASSIVE": [
-          "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
-          "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
-        ],
-        "HEAVY ATTACKS": [
-          "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
-          "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Causes Bleed lasting 5 seconds and dealing 272.85 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "This attack gains +636.65 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 361.76 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +636.65 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If there is an active Exploit Weakness target it is automatically triggered, and it deals +1455.2 additional Direct Damage.",
-          "Causes Bleed lasting 5 seconds and dealing 272.85 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 361.76 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +636.65 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ]
-      }
-    },
-    "6+2": {
-      "rank": 2,
-      "prestige": "8265",
-      "hp": "33772",
-      "attack": "2512",
-      "crit_rate": "682",
-      "crit_dmge": "723",
-      "armor": "431",
-      "block_prof": "3734",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Increase Concussion Debuff Durations by 1.28 to 5 second(s).",
-        "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5.53 to 12.5% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
-        "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 27.83 to 65% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
-      ],
-      "url_page": "https://auntm.ai/champions/taskmaster/tier/6",
-      "champid": "taskmaster+6+2",
-      "challenger_rating": 120,
-      "abilities": {
-        "PHOTOGRAPHIC REFLEXES - PASSIVE": [
-          "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
-          "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
-          "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
-        ],
-        "EXPLOIT WEAKNESS - PASSIVE": [
-          "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
-          "Successfully exploiting a weakness instantly deals 2009.6 Direct Damage.",
-          "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
-          "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
-        ],
-        "LEARN THE FOE - PASSIVE": [
-          "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
-          "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
-        ],
-        "HEAVY ATTACKS": [
-          "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
-          "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Causes Bleed lasting 5 seconds and dealing 376.8 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "This attack gains +879.2 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 370.59 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +879.2 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If there is an active Exploit Weakness target it is automatically triggered, and it deals +2009.6 additional Direct Damage.",
-          "Causes Bleed lasting 5 seconds and dealing 376.8 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 370.59 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +879.2 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ]
-      }
-    },
-    "6+3": {
-      "rank": 3,
-      "prestige": "9821",
-      "hp": "40065",
-      "attack": "2980",
-      "crit_rate": "698",
-      "crit_dmge": "740",
-      "armor": "472",
-      "block_prof": "3823",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Increase Concussion Debuff Durations by 1.28 to 5 second(s).",
-        "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5.53 to 12.5% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
-        "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 27.83 to 65% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
-      ],
-      "url_page": "https://auntm.ai/champions/taskmaster/tier/6",
-      "champid": "taskmaster+6+3",
-      "challenger_rating": 130,
-      "abilities": {
-        "PHOTOGRAPHIC REFLEXES - PASSIVE": [
-          "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
-          "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
-          "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
-        ],
-        "EXPLOIT WEAKNESS - PASSIVE": [
-          "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
-          "Successfully exploiting a weakness instantly deals 2384 Direct Damage.",
-          "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
-          "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
-        ],
-        "LEARN THE FOE - PASSIVE": [
-          "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
-          "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
-        ],
-        "HEAVY ATTACKS": [
-          "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
-          "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Causes Bleed lasting 5 seconds and dealing 447 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "This attack gains +1043 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 379.41 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +1043 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If there is an active Exploit Weakness target it is automatically triggered, and it deals +2384 additional Direct Damage.",
-          "Causes Bleed lasting 5 seconds and dealing 447 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 379.41 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +1043 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ]
-      }
-    },
-    "6+4": {
-      "rank": 4,
-      "prestige": "11235",
-      "hp": "45848",
-      "attack": "3410",
-      "crit_rate": "714",
-      "crit_dmge": "757",
-      "armor": "517",
-      "block_prof": "3912",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": [
-        "Increase Concussion Debuff Durations by 1.28 to 5 second(s).",
-        "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5.53 to 12.5% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
-        "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 27.83 to 65% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
-      ],
-      "url_page": "https://auntm.ai/champions/taskmaster/tier/6",
-      "champid": "taskmaster+6+4",
-      "challenger_rating": 140,
-      "abilities": {
-        "PHOTOGRAPHIC REFLEXES - PASSIVE": [
-          "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
-          "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
-          "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
-        ],
-        "EXPLOIT WEAKNESS - PASSIVE": [
-          "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
-          "Successfully exploiting a weakness instantly deals 2728 Direct Damage.",
-          "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
-          "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
-        ],
-        "LEARN THE FOE - PASSIVE": [
-          "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
-          "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
-        ],
-        "HEAVY ATTACKS": [
-          "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
-          "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Causes Bleed lasting 5 seconds and dealing 511.5 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "This attack gains +1193.5 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 388.24 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +1193.5 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If there is an active Exploit Weakness target it is automatically triggered, and it deals +2728 additional Direct Damage.",
-          "Causes Bleed lasting 5 seconds and dealing 511.5 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 388.24 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +1193.5 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ]
-      }
-    },
-    "1+1": {
-      "rank": 1,
-      "prestige": 186,
-      "hp": 869,
-      "attack": 65,
-      "crit_rate": 503,
-      "crit_dmge": 534,
-      "armor": 0,
-      "block_prof": 2756,
-      "energy_resist": 0,
-      "physical_resist": 0,
-      "crit_resist": 0,
-      "sig_info": null,
-      "url_page": "https://auntm.ai/champions/taskmaster/tier/1",
-      "champid": "taskmaster+1+1",
-      "challenger_rating": 10,
-      "abilities": {
-        "PHOTOGRAPHIC REFLEXES - PASSIVE": [
-          "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
-          "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
-          "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
-        ],
-        "EXPLOIT WEAKNESS - PASSIVE": [
-          "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
-          "Successfully exploiting a weakness instantly deals 52 Direct Damage.",
-          "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
-          "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
-        ],
-        "LEARN THE FOE - PASSIVE": [
-          "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
-          "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
-        ],
-        "HEAVY ATTACKS": [
-          "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
-          "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Causes Bleed lasting 5 seconds and dealing 9.75 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "This attack gains +22.75 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 273.53 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +22.75 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If there is an active Exploit Weakness target it is automatically triggered, and it deals +52 additional Direct Damage.",
-          "Causes Bleed lasting 5 seconds and dealing 9.75 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 273.53 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +22.75 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ]
-      }
-    },
-    "1+2": {
-      "rank": 2,
-      "prestige": 274,
-      "hp": 1202,
-      "attack": 90,
-      "crit_rate": 520,
-      "crit_dmge": 551,
-      "armor": 0,
-      "block_prof": 2845,
-      "energy_resist": 0,
-      "physical_resist": 0,
-      "crit_resist": 0,
-      "sig_info": null,
-      "url_page": "https://auntm.ai/champions/taskmaster/tier/1",
-      "champid": "taskmaster+1+2",
-      "challenger_rating": 20,
-      "abilities": {
-        "PHOTOGRAPHIC REFLEXES - PASSIVE": [
-          "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
-          "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
-          "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
-        ],
-        "EXPLOIT WEAKNESS - PASSIVE": [
-          "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
-          "Successfully exploiting a weakness instantly deals 72 Direct Damage.",
-          "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
-          "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
-        ],
-        "LEARN THE FOE - PASSIVE": [
-          "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
-          "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
-        ],
-        "HEAVY ATTACKS": [
-          "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
-          "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Causes Bleed lasting 5 seconds and dealing 13.5 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "This attack gains +31.5 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 282.35 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +31.5 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ],
-        "SPECIAL ATTACK 3": [
-          "If there is an active Exploit Weakness target it is automatically triggered, and it deals +72 additional Direct Damage.",
-          "Causes Bleed lasting 5 seconds and dealing 13.5 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
-          "Causes Armor Break lasting 10 seconds and reducing Armor by 282.35 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
-          "This attack gains +31.5 Attack for each Debuff active on either Taskmaster or his Opponent."
-        ]
-      }
-    },
-    "find": {
-      "story_quests": {
-        "act_1": [],
-        "act_2": [],
-        "act_3": ["3.2.6"],
-        "act_4": [],
-        "act_5": [],
-        "act_6": ["6.1.1", "6.1.2", "6.1.5", "6.1.6", "6.2.5", "6.4.2"],
-        "act_7": ["7.3.1", "7.3.3", "7.4.3"]
-      }
+    "name": "TASKMASTER",
+    "class": "Skill",
+    "img_portrait": "https://api.rexians.tk/assets/portraits/taskmaster.png",
+    "contact": "PHYSICAL",
+    "tags": [
+        "Mercenary",
+        "Villain",
+        "Size: M"
+    ],
+    "released": "12/7/2017",
+    "champid": "taskmaster",
+    "data": {
+        "2+1": {
+            "rank": 1,
+            "prestige": "255",
+            "hp": "1110",
+            "attack": "83",
+            "crit_rate": "520",
+            "crit_dmge": "551",
+            "armor": "33",
+            "block_prof": "2845",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Increase Concussion Debuff Durations by 1 to 4 second(s).",
+                "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5 to 10.01% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
+                "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 25 to 50.04% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
+            ],
+            "url_page": "https://auntm.ai/champions/taskmaster/tier/2",
+            "champid": "taskmaster+2+1",
+            "challenger_rating": 20,
+            "abilities": {
+                "PHOTOGRAPHIC REFLEXES - PASSIVE": [
+                    "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
+                    "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
+                    "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
+                ],
+                "EXPLOIT WEAKNESS - PASSIVE": [
+                    "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
+                    "Successfully exploiting a weakness instantly deals 66.4 Direct Damage.",
+                    "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
+                    "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
+                ],
+                "LEARN THE FOE - PASSIVE": [
+                    "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
+                    "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
+                ],
+                "HEAVY ATTACKS": [
+                    "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
+                    "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Causes Bleed lasting 5 seconds and dealing 12.45 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "This attack gains +29.05 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 282.35 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +29.05 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If there is an active Exploit Weakness target it is automatically triggered, and it deals +66.4 additional Direct Damage.",
+                    "Causes Bleed lasting 5 seconds and dealing 12.45 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 282.35 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +29.05 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ]
+            }
+        },
+        "2+2": {
+            "rank": 2,
+            "prestige": "334",
+            "hp": "1466",
+            "attack": "109",
+            "crit_rate": "536",
+            "crit_dmge": "568",
+            "armor": "52",
+            "block_prof": "2934",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Increase Concussion Debuff Durations by 1 to 4 second(s).",
+                "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5 to 10.01% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
+                "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 25 to 50.04% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
+            ],
+            "url_page": "https://auntm.ai/champions/taskmaster/tier/2",
+            "champid": "taskmaster+2+2",
+            "challenger_rating": 30,
+            "abilities": {
+                "PHOTOGRAPHIC REFLEXES - PASSIVE": [
+                    "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
+                    "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
+                    "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
+                ],
+                "EXPLOIT WEAKNESS - PASSIVE": [
+                    "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
+                    "Successfully exploiting a weakness instantly deals 87.2 Direct Damage.",
+                    "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
+                    "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
+                ],
+                "LEARN THE FOE - PASSIVE": [
+                    "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
+                    "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
+                ],
+                "HEAVY ATTACKS": [
+                    "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
+                    "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Causes Bleed lasting 5 seconds and dealing 16.35 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "This attack gains +38.15 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 291.18 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +38.15 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If there is an active Exploit Weakness target it is automatically triggered, and it deals +87.2 additional Direct Damage.",
+                    "Causes Bleed lasting 5 seconds and dealing 16.35 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 291.18 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +38.15 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ]
+            }
+        },
+        "2+3": {
+            "rank": 3,
+            "prestige": "573",
+            "hp": "2327",
+            "attack": "174",
+            "crit_rate": "552",
+            "crit_dmge": "585",
+            "armor": "71",
+            "block_prof": "3023",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Increase Concussion Debuff Durations by 1 to 4 second(s).",
+                "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5 to 10.01% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
+                "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 25 to 50.04% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
+            ],
+            "url_page": "https://auntm.ai/champions/taskmaster/tier/2",
+            "champid": "taskmaster+2+3",
+            "challenger_rating": 40,
+            "abilities": {
+                "PHOTOGRAPHIC REFLEXES - PASSIVE": [
+                    "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
+                    "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
+                    "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
+                ],
+                "EXPLOIT WEAKNESS - PASSIVE": [
+                    "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
+                    "Successfully exploiting a weakness instantly deals 139.2 Direct Damage.",
+                    "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
+                    "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
+                ],
+                "LEARN THE FOE - PASSIVE": [
+                    "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
+                    "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
+                ],
+                "HEAVY ATTACKS": [
+                    "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
+                    "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Causes Bleed lasting 5 seconds and dealing 26.1 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "This attack gains +60.9 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 300 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +60.9 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If there is an active Exploit Weakness target it is automatically triggered, and it deals +139.2 additional Direct Damage.",
+                    "Causes Bleed lasting 5 seconds and dealing 26.1 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 300 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +60.9 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ]
+            }
+        },
+        "3+1": {
+            "rank": 1,
+            "prestige": "494",
+            "hp": "2012",
+            "attack": "150",
+            "crit_rate": "552",
+            "crit_dmge": "585",
+            "armor": "71",
+            "block_prof": "3023",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Increase Concussion Debuff Durations by 1 to 4 second(s).",
+                "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5 to 10.01% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
+                "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 25 to 50.04% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
+            ],
+            "url_page": "https://auntm.ai/champions/taskmaster/tier/3",
+            "champid": "taskmaster+3+1",
+            "challenger_rating": 40,
+            "abilities": {
+                "PHOTOGRAPHIC REFLEXES - PASSIVE": [
+                    "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
+                    "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
+                    "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
+                ],
+                "EXPLOIT WEAKNESS - PASSIVE": [
+                    "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
+                    "Successfully exploiting a weakness instantly deals 120 Direct Damage.",
+                    "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
+                    "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
+                ],
+                "LEARN THE FOE - PASSIVE": [
+                    "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
+                    "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
+                ],
+                "HEAVY ATTACKS": [
+                    "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
+                    "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Causes Bleed lasting 5 seconds and dealing 22.5 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "This attack gains +52.5 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 300 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +52.5 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If there is an active Exploit Weakness target it is automatically triggered, and it deals +120 additional Direct Damage.",
+                    "Causes Bleed lasting 5 seconds and dealing 22.5 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 300 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +52.5 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ]
+            }
+        },
+        "3+2": {
+            "rank": 2,
+            "prestige": "790",
+            "hp": "3220",
+            "attack": "240",
+            "crit_rate": "568",
+            "crit_dmge": "603",
+            "armor": "93",
+            "block_prof": "3112",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Increase Concussion Debuff Durations by 1 to 4 second(s).",
+                "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5 to 10.01% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
+                "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 25 to 50.04% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
+            ],
+            "url_page": "https://auntm.ai/champions/taskmaster/tier/3",
+            "champid": "taskmaster+3+2",
+            "challenger_rating": 50,
+            "abilities": {
+                "PHOTOGRAPHIC REFLEXES - PASSIVE": [
+                    "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
+                    "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
+                    "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
+                ],
+                "EXPLOIT WEAKNESS - PASSIVE": [
+                    "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
+                    "Successfully exploiting a weakness instantly deals 192 Direct Damage.",
+                    "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
+                    "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
+                ],
+                "LEARN THE FOE - PASSIVE": [
+                    "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
+                    "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
+                ],
+                "HEAVY ATTACKS": [
+                    "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
+                    "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Causes Bleed lasting 5 seconds and dealing 36 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "This attack gains +84 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 308.82 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +84 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If there is an active Exploit Weakness target it is automatically triggered, and it deals +192 additional Direct Damage.",
+                    "Causes Bleed lasting 5 seconds and dealing 36 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 308.82 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +84 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ]
+            }
+        },
+        "3+3": {
+            "rank": 3,
+            "prestige": "1102",
+            "hp": "4504",
+            "attack": "335",
+            "crit_rate": "585",
+            "crit_dmge": "620",
+            "armor": "115",
+            "block_prof": "3200",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Increase Concussion Debuff Durations by 1 to 4 second(s).",
+                "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5 to 10.01% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
+                "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 25 to 50.04% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
+            ],
+            "url_page": "https://auntm.ai/champions/taskmaster/tier/3",
+            "champid": "taskmaster+3+3",
+            "challenger_rating": 60,
+            "abilities": {
+                "PHOTOGRAPHIC REFLEXES - PASSIVE": [
+                    "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
+                    "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
+                    "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
+                ],
+                "EXPLOIT WEAKNESS - PASSIVE": [
+                    "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
+                    "Successfully exploiting a weakness instantly deals 268 Direct Damage.",
+                    "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
+                    "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
+                ],
+                "LEARN THE FOE - PASSIVE": [
+                    "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
+                    "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
+                ],
+                "HEAVY ATTACKS": [
+                    "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
+                    "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Causes Bleed lasting 5 seconds and dealing 50.25 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "This attack gains +117.25 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 317.65 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +117.25 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If there is an active Exploit Weakness target it is automatically triggered, and it deals +268 additional Direct Damage.",
+                    "Causes Bleed lasting 5 seconds and dealing 50.25 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 317.65 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +117.25 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ]
+            }
+        },
+        "3+4": {
+            "rank": 4,
+            "prestige": "1514",
+            "hp": "6184",
+            "attack": "460",
+            "crit_rate": "601",
+            "crit_dmge": "637",
+            "armor": "140",
+            "block_prof": "3289",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Increase Concussion Debuff Durations by 1 to 4 second(s).",
+                "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5 to 10.01% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
+                "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 25 to 50.04% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
+            ],
+            "url_page": "https://auntm.ai/champions/taskmaster/tier/3",
+            "champid": "taskmaster+3+4",
+            "challenger_rating": 70,
+            "abilities": {
+                "PHOTOGRAPHIC REFLEXES - PASSIVE": [
+                    "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
+                    "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
+                    "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
+                ],
+                "EXPLOIT WEAKNESS - PASSIVE": [
+                    "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
+                    "Successfully exploiting a weakness instantly deals 368 Direct Damage.",
+                    "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
+                    "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
+                ],
+                "LEARN THE FOE - PASSIVE": [
+                    "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
+                    "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
+                ],
+                "HEAVY ATTACKS": [
+                    "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
+                    "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Causes Bleed lasting 5 seconds and dealing 69 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "This attack gains +161 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 326.47 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +161 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If there is an active Exploit Weakness target it is automatically triggered, and it deals +368 additional Direct Damage.",
+                    "Causes Bleed lasting 5 seconds and dealing 69 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 326.47 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +161 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ]
+            }
+        },
+        "4+1": {
+            "rank": 1,
+            "prestige": "1104",
+            "hp": "4501",
+            "attack": "335",
+            "crit_rate": "585",
+            "crit_dmge": "620",
+            "armor": "157",
+            "block_prof": "3200",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Increase Concussion Debuff Durations by 1 to 4 second(s).",
+                "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5 to 10.01% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
+                "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 25 to 50.04% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
+            ],
+            "url_page": "https://auntm.ai/champions/taskmaster/tier/4",
+            "champid": "taskmaster+4+1",
+            "challenger_rating": 60,
+            "abilities": {
+                "PHOTOGRAPHIC REFLEXES - PASSIVE": [
+                    "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
+                    "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
+                    "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
+                ],
+                "EXPLOIT WEAKNESS - PASSIVE": [
+                    "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
+                    "Successfully exploiting a weakness instantly deals 268 Direct Damage.",
+                    "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
+                    "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
+                ],
+                "LEARN THE FOE - PASSIVE": [
+                    "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
+                    "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
+                ],
+                "HEAVY ATTACKS": [
+                    "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
+                    "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Causes Bleed lasting 5 seconds and dealing 50.25 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "This attack gains +117.25 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 317.65 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +117.25 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If there is an active Exploit Weakness target it is automatically triggered, and it deals +268 additional Direct Damage.",
+                    "Causes Bleed lasting 5 seconds and dealing 50.25 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 317.65 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +117.25 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ]
+            }
+        },
+        "4+2": {
+            "rank": 2,
+            "prestige": "1548",
+            "hp": "6313",
+            "attack": "470",
+            "crit_rate": "601",
+            "crit_dmge": "637",
+            "armor": "183",
+            "block_prof": "3289",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Increase Concussion Debuff Durations by 1 to 4 second(s).",
+                "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5 to 10.01% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
+                "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 25 to 50.04% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
+            ],
+            "url_page": "https://auntm.ai/champions/taskmaster/tier/4",
+            "champid": "taskmaster+4+2",
+            "challenger_rating": 70,
+            "abilities": {
+                "PHOTOGRAPHIC REFLEXES - PASSIVE": [
+                    "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
+                    "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
+                    "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
+                ],
+                "EXPLOIT WEAKNESS - PASSIVE": [
+                    "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
+                    "Successfully exploiting a weakness instantly deals 376 Direct Damage.",
+                    "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
+                    "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
+                ],
+                "LEARN THE FOE - PASSIVE": [
+                    "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
+                    "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
+                ],
+                "HEAVY ATTACKS": [
+                    "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
+                    "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Causes Bleed lasting 5 seconds and dealing 70.5 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "This attack gains +164.5 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 326.47 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +164.5 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If there is an active Exploit Weakness target it is automatically triggered, and it deals +376 additional Direct Damage.",
+                    "Causes Bleed lasting 5 seconds and dealing 70.5 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 326.47 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +164.5 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ]
+            }
+        },
+        "4+3": {
+            "rank": 3,
+            "prestige": "2162",
+            "hp": "8845",
+            "attack": "658",
+            "crit_rate": "617",
+            "crit_dmge": "654",
+            "armor": "212",
+            "block_prof": "3378",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Increase Concussion Debuff Durations by 1 to 4 second(s).",
+                "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5 to 10.01% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
+                "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 25 to 50.04% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
+            ],
+            "url_page": "https://auntm.ai/champions/taskmaster/tier/4",
+            "champid": "taskmaster+4+3",
+            "challenger_rating": 80,
+            "abilities": {
+                "PHOTOGRAPHIC REFLEXES - PASSIVE": [
+                    "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
+                    "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
+                    "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
+                ],
+                "EXPLOIT WEAKNESS - PASSIVE": [
+                    "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
+                    "Successfully exploiting a weakness instantly deals 526.4 Direct Damage.",
+                    "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
+                    "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
+                ],
+                "LEARN THE FOE - PASSIVE": [
+                    "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
+                    "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
+                ],
+                "HEAVY ATTACKS": [
+                    "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
+                    "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Causes Bleed lasting 5 seconds and dealing 98.7 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "This attack gains +230.3 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 335.29 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +230.3 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If there is an active Exploit Weakness target it is automatically triggered, and it deals +526.4 additional Direct Damage.",
+                    "Causes Bleed lasting 5 seconds and dealing 98.7 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 335.29 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +230.3 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ]
+            }
+        },
+        "4+4": {
+            "rank": 4,
+            "prestige": "2847",
+            "hp": "11622",
+            "attack": "865",
+            "crit_rate": "633",
+            "crit_dmge": "671",
+            "armor": "242",
+            "block_prof": "3467",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Increase Concussion Debuff Durations by 1 to 4 second(s).",
+                "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5 to 10.01% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
+                "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 25 to 50.04% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
+            ],
+            "url_page": "https://auntm.ai/champions/taskmaster/tier/4",
+            "champid": "taskmaster+4+4",
+            "challenger_rating": 90,
+            "abilities": {
+                "PHOTOGRAPHIC REFLEXES - PASSIVE": [
+                    "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
+                    "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
+                    "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
+                ],
+                "EXPLOIT WEAKNESS - PASSIVE": [
+                    "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
+                    "Successfully exploiting a weakness instantly deals 692 Direct Damage.",
+                    "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
+                    "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
+                ],
+                "LEARN THE FOE - PASSIVE": [
+                    "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
+                    "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
+                ],
+                "HEAVY ATTACKS": [
+                    "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
+                    "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Causes Bleed lasting 5 seconds and dealing 129.75 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "This attack gains +302.75 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 344.12 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +302.75 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If there is an active Exploit Weakness target it is automatically triggered, and it deals +692 additional Direct Damage.",
+                    "Causes Bleed lasting 5 seconds and dealing 129.75 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 344.12 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +302.75 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ]
+            }
+        },
+        "4+5": {
+            "rank": 5,
+            "prestige": "3794",
+            "hp": "15508",
+            "attack": "1154",
+            "crit_rate": "650",
+            "crit_dmge": "689",
+            "armor": "273",
+            "block_prof": "3556",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Increase Concussion Debuff Durations by 1 to 4 second(s).",
+                "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5 to 10.01% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
+                "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 25 to 50.04% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
+            ],
+            "url_page": "https://auntm.ai/champions/taskmaster/tier/4",
+            "champid": "taskmaster+4+5",
+            "challenger_rating": 100,
+            "abilities": {
+                "PHOTOGRAPHIC REFLEXES - PASSIVE": [
+                    "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
+                    "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
+                    "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
+                ],
+                "EXPLOIT WEAKNESS - PASSIVE": [
+                    "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
+                    "Successfully exploiting a weakness instantly deals 923.2 Direct Damage.",
+                    "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
+                    "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
+                ],
+                "LEARN THE FOE - PASSIVE": [
+                    "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
+                    "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
+                ],
+                "HEAVY ATTACKS": [
+                    "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
+                    "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Causes Bleed lasting 5 seconds and dealing 173.1 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "This attack gains +403.9 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 352.94 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +403.9 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If there is an active Exploit Weakness target it is automatically triggered, and it deals +923.2 additional Direct Damage.",
+                    "Causes Bleed lasting 5 seconds and dealing 173.1 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 352.94 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +403.9 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ]
+            }
+        },
+        "5+1": {
+            "rank": 1,
+            "prestige": "2271",
+            "hp": "9255",
+            "attack": "689",
+            "crit_rate": "617",
+            "crit_dmge": "654",
+            "armor": "362",
+            "block_prof": "3378",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Increase Concussion Debuff Durations by 1.28 to 5 second(s).",
+                "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5.53 to 12.5% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
+                "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 27.83 to 65% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
+            ],
+            "url_page": "https://auntm.ai/champions/taskmaster/tier/5",
+            "champid": "taskmaster+5+1",
+            "challenger_rating": 80,
+            "abilities": {
+                "PHOTOGRAPHIC REFLEXES - PASSIVE": [
+                    "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
+                    "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
+                    "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
+                ],
+                "EXPLOIT WEAKNESS - PASSIVE": [
+                    "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
+                    "Successfully exploiting a weakness instantly deals 551.2 Direct Damage.",
+                    "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
+                    "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
+                ],
+                "LEARN THE FOE - PASSIVE": [
+                    "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
+                    "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
+                ],
+                "HEAVY ATTACKS": [
+                    "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
+                    "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Causes Bleed lasting 5 seconds and dealing 103.35 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "This attack gains +241.15 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 335.29 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +241.15 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If there is an active Exploit Weakness target it is automatically triggered, and it deals +551.2 additional Direct Damage.",
+                    "Causes Bleed lasting 5 seconds and dealing 103.35 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 335.29 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +241.15 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ]
+            }
+        },
+        "5+2": {
+            "rank": 2,
+            "prestige": "2998",
+            "hp": "12225",
+            "attack": "910",
+            "crit_rate": "633",
+            "crit_dmge": "671",
+            "armor": "400",
+            "block_prof": "3467",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Increase Concussion Debuff Durations by 1.28 to 5 second(s).",
+                "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5.53 to 12.5% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
+                "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 27.83 to 65% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
+            ],
+            "url_page": "https://auntm.ai/champions/taskmaster/tier/5",
+            "champid": "taskmaster+5+2",
+            "challenger_rating": 90,
+            "abilities": {
+                "PHOTOGRAPHIC REFLEXES - PASSIVE": [
+                    "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
+                    "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
+                    "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
+                ],
+                "EXPLOIT WEAKNESS - PASSIVE": [
+                    "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
+                    "Successfully exploiting a weakness instantly deals 728 Direct Damage.",
+                    "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
+                    "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
+                ],
+                "LEARN THE FOE - PASSIVE": [
+                    "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
+                    "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
+                ],
+                "HEAVY ATTACKS": [
+                    "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
+                    "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Causes Bleed lasting 5 seconds and dealing 136.5 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "This attack gains +318.5 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 344.12 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +318.5 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If there is an active Exploit Weakness target it is automatically triggered, and it deals +728 additional Direct Damage.",
+                    "Causes Bleed lasting 5 seconds and dealing 136.5 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 344.12 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +318.5 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ]
+            }
+        },
+        "5+3": {
+            "rank": 3,
+            "prestige": "4193",
+            "hp": "17090",
+            "attack": "1271",
+            "crit_rate": "650",
+            "crit_dmge": "689",
+            "armor": "440",
+            "block_prof": "3556",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Increase Concussion Debuff Durations by 1.28 to 5 second(s).",
+                "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5.53 to 12.5% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
+                "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 27.83 to 65% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
+            ],
+            "url_page": "https://auntm.ai/champions/taskmaster/tier/5",
+            "champid": "taskmaster+5+3",
+            "challenger_rating": 100,
+            "abilities": {
+                "PHOTOGRAPHIC REFLEXES - PASSIVE": [
+                    "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
+                    "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
+                    "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
+                ],
+                "EXPLOIT WEAKNESS - PASSIVE": [
+                    "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
+                    "Successfully exploiting a weakness instantly deals 1016.8 Direct Damage.",
+                    "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
+                    "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
+                ],
+                "LEARN THE FOE - PASSIVE": [
+                    "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
+                    "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
+                ],
+                "HEAVY ATTACKS": [
+                    "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
+                    "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Causes Bleed lasting 5 seconds and dealing 190.65 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "This attack gains +444.85 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 352.94 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +444.85 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If there is an active Exploit Weakness target it is automatically triggered, and it deals +1016.8 additional Direct Damage.",
+                    "Causes Bleed lasting 5 seconds and dealing 190.65 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 352.94 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +444.85 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ]
+            }
+        },
+        "5+4": {
+            "rank": 4,
+            "prestige": "5650",
+            "hp": "23029",
+            "attack": "1713",
+            "crit_rate": "666",
+            "crit_dmge": "706",
+            "armor": "481",
+            "block_prof": "3645",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Increase Concussion Debuff Durations by 1.28 to 5 second(s).",
+                "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5.53 to 12.5% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
+                "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 27.83 to 65% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
+            ],
+            "url_page": "https://auntm.ai/champions/taskmaster/tier/5",
+            "champid": "taskmaster+5+4",
+            "challenger_rating": 110,
+            "abilities": {
+                "PHOTOGRAPHIC REFLEXES - PASSIVE": [
+                    "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
+                    "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
+                    "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
+                ],
+                "EXPLOIT WEAKNESS - PASSIVE": [
+                    "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
+                    "Successfully exploiting a weakness instantly deals 1370.4 Direct Damage.",
+                    "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
+                    "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
+                ],
+                "LEARN THE FOE - PASSIVE": [
+                    "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
+                    "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
+                ],
+                "HEAVY ATTACKS": [
+                    "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
+                    "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Causes Bleed lasting 5 seconds and dealing 256.95 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "This attack gains +599.55 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 361.76 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +599.55 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If there is an active Exploit Weakness target it is automatically triggered, and it deals +1370.4 additional Direct Damage.",
+                    "Causes Bleed lasting 5 seconds and dealing 256.95 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 361.76 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +599.55 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ]
+            }
+        },
+        "5+5": {
+            "rank": 5,
+            "prestige": "7636",
+            "hp": "31093",
+            "attack": "2313",
+            "crit_rate": "682",
+            "crit_dmge": "723",
+            "armor": "525",
+            "block_prof": "3734",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Increase Concussion Debuff Durations by 1.28 to 5 second(s).",
+                "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5.53 to 12.5% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
+                "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 27.83 to 65% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
+            ],
+            "url_page": "https://auntm.ai/champions/taskmaster/tier/5",
+            "champid": "taskmaster+5+5",
+            "challenger_rating": 120,
+            "abilities": {
+                "PHOTOGRAPHIC REFLEXES - PASSIVE": [
+                    "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
+                    "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
+                    "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
+                ],
+                "EXPLOIT WEAKNESS - PASSIVE": [
+                    "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
+                    "Successfully exploiting a weakness instantly deals 1850.4 Direct Damage.",
+                    "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
+                    "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
+                ],
+                "LEARN THE FOE - PASSIVE": [
+                    "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
+                    "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
+                ],
+                "HEAVY ATTACKS": [
+                    "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
+                    "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Causes Bleed lasting 5 seconds and dealing 346.95 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "This attack gains +809.55 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 370.59 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +809.55 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If there is an active Exploit Weakness target it is automatically triggered, and it deals +1850.4 additional Direct Damage.",
+                    "Causes Bleed lasting 5 seconds and dealing 346.95 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 370.59 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +809.55 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ]
+            }
+        },
+        "6+1": {
+            "rank": 1,
+            "prestige": "5986",
+            "hp": "24449",
+            "attack": "1819",
+            "crit_rate": "666",
+            "crit_dmge": "706",
+            "armor": "391",
+            "block_prof": "3645",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Increase Concussion Debuff Durations by 1.28 to 5 second(s).",
+                "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5.53 to 12.5% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
+                "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 27.83 to 65% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
+            ],
+            "url_page": "https://auntm.ai/champions/taskmaster/tier/6",
+            "champid": "taskmaster+6+1",
+            "challenger_rating": 110,
+            "abilities": {
+                "PHOTOGRAPHIC REFLEXES - PASSIVE": [
+                    "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
+                    "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
+                    "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
+                ],
+                "EXPLOIT WEAKNESS - PASSIVE": [
+                    "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
+                    "Successfully exploiting a weakness instantly deals 1455.2 Direct Damage.",
+                    "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
+                    "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
+                ],
+                "LEARN THE FOE - PASSIVE": [
+                    "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
+                    "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
+                ],
+                "HEAVY ATTACKS": [
+                    "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
+                    "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Causes Bleed lasting 5 seconds and dealing 272.85 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "This attack gains +636.65 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 361.76 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +636.65 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If there is an active Exploit Weakness target it is automatically triggered, and it deals +1455.2 additional Direct Damage.",
+                    "Causes Bleed lasting 5 seconds and dealing 272.85 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 361.76 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +636.65 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ]
+            }
+        },
+        "6+2": {
+            "rank": 2,
+            "prestige": "8265",
+            "hp": "33772",
+            "attack": "2512",
+            "crit_rate": "682",
+            "crit_dmge": "723",
+            "armor": "431",
+            "block_prof": "3734",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Increase Concussion Debuff Durations by 1.28 to 5 second(s).",
+                "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5.53 to 12.5% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
+                "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 27.83 to 65% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
+            ],
+            "url_page": "https://auntm.ai/champions/taskmaster/tier/6",
+            "champid": "taskmaster+6+2",
+            "challenger_rating": 120,
+            "abilities": {
+                "PHOTOGRAPHIC REFLEXES - PASSIVE": [
+                    "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
+                    "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
+                    "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
+                ],
+                "EXPLOIT WEAKNESS - PASSIVE": [
+                    "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
+                    "Successfully exploiting a weakness instantly deals 2009.6 Direct Damage.",
+                    "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
+                    "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
+                ],
+                "LEARN THE FOE - PASSIVE": [
+                    "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
+                    "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
+                ],
+                "HEAVY ATTACKS": [
+                    "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
+                    "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Causes Bleed lasting 5 seconds and dealing 376.8 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "This attack gains +879.2 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 370.59 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +879.2 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If there is an active Exploit Weakness target it is automatically triggered, and it deals +2009.6 additional Direct Damage.",
+                    "Causes Bleed lasting 5 seconds and dealing 376.8 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 370.59 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +879.2 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ]
+            }
+        },
+        "6+3": {
+            "rank": 3,
+            "prestige": "9821",
+            "hp": "40065",
+            "attack": "2980",
+            "crit_rate": "698",
+            "crit_dmge": "740",
+            "armor": "472",
+            "block_prof": "3823",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Increase Concussion Debuff Durations by 1.28 to 5 second(s).",
+                "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5.53 to 12.5% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
+                "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 27.83 to 65% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
+            ],
+            "url_page": "https://auntm.ai/champions/taskmaster/tier/6",
+            "champid": "taskmaster+6+3",
+            "challenger_rating": 130,
+            "abilities": {
+                "PHOTOGRAPHIC REFLEXES - PASSIVE": [
+                    "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
+                    "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
+                    "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
+                ],
+                "EXPLOIT WEAKNESS - PASSIVE": [
+                    "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
+                    "Successfully exploiting a weakness instantly deals 2384 Direct Damage.",
+                    "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
+                    "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
+                ],
+                "LEARN THE FOE - PASSIVE": [
+                    "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
+                    "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
+                ],
+                "HEAVY ATTACKS": [
+                    "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
+                    "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Causes Bleed lasting 5 seconds and dealing 447 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "This attack gains +1043 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 379.41 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +1043 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If there is an active Exploit Weakness target it is automatically triggered, and it deals +2384 additional Direct Damage.",
+                    "Causes Bleed lasting 5 seconds and dealing 447 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 379.41 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +1043 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ]
+            }
+        },
+        "6+4": {
+            "rank": 4,
+            "prestige": "11235",
+            "hp": "45848",
+            "attack": "3410",
+            "crit_rate": "714",
+            "crit_dmge": "757",
+            "armor": "517",
+            "block_prof": "3912",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": [
+                "Increase Concussion Debuff Durations by 1.28 to 5 second(s).",
+                "Each time Taskmaster successfully triggers Exploit Weakness it places a Concussion Debuff on his Opponent reducing their Ability Accuracy by 5.53 to 12.5% for 6 seconds and resetting the Duration of any currently active Concussions caused by this ability.",
+                "If Taskmaster places 5 Concussions on his Opponent simultaneously, they convert into a Passive effect which reduces Ability Accuracy by 27.83 to 65% for 15 seconds, counts as 5 Debuffs for Taskmaster's other Abilities, and removes the Exploit Weakness cooldown timer. While this effect is active, Taskmaster will not trigger additional Concussion Debuffs."
+            ],
+            "url_page": "https://auntm.ai/champions/taskmaster/tier/6",
+            "champid": "taskmaster+6+4",
+            "challenger_rating": 140,
+            "abilities": {
+                "PHOTOGRAPHIC REFLEXES - PASSIVE": [
+                    "Each Unique Attack your Opponent attempts decreases their Offensive Ability Accuracy by 10%, while increasing your Perfect Block Chance by the same amount.",
+                    "Each Unique Attack you make decreases your Opponent\u2019s Defensive Ability Accuracy by 10%",
+                    "Being Struck by a Special Attack resets both of these abilities\u2019 effects."
+                ],
+                "EXPLOIT WEAKNESS - PASSIVE": [
+                    "Taskmaster spots a weakness in the last Attack his Opponent attempted, which can be exploited by striking his Opponent with that same attack within 10 seconds.",
+                    "Successfully exploiting a weakness instantly deals 2728 Direct Damage.",
+                    "An Attack that will trigger Exploit Weakness will not trigger Passive Evades or Auto-Block.",
+                    "After Exploit Weakness is triggered or expires it goes on cooldown for 5 seconds."
+                ],
+                "LEARN THE FOE - PASSIVE": [
+                    "Each time a Debuff is placed on Taskmaster, all future Debuffs placed on him have their Potency reduced by 10%",
+                    "If the Debuff Potency reduction reaches 100%, Taskmaster becomes Immune to Debuffs."
+                ],
+                "HEAVY ATTACKS": [
+                    "If Exploit Weakness is on Cooldown, the Cooldown immediately ends, and the target is set.",
+                    "If Taskmaster has triggered Exploit Weakness in the last 1 second(s), or his current Exploit Weakness target is Heavy Attack, he avoids any incoming attacks for the first 1 second(s) of charging this Attack."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Causes Bleed lasting 5 seconds and dealing 511.5 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "This attack gains +1193.5 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 388.24 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +1193.5 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If there is an active Exploit Weakness target it is automatically triggered, and it deals +2728 additional Direct Damage.",
+                    "Causes Bleed lasting 5 seconds and dealing 511.5 Damage, per Debuff triggered on the Opponent this fight. Max Damage after 10 Debuffs.",
+                    "Causes Armor Break lasting 10 seconds and reducing Armor by 388.24 per Buff triggered on the Opponent this fight. Max Damage after 10 Buffs.",
+                    "This attack gains +1193.5 Attack for each Debuff active on either Taskmaster or his Opponent."
+                ]
+            }
+        },
+        "find": {
+            "story_quests": {
+                "act_1": [],
+                "act_2": [],
+                "act_3": [
+                    "3.2.6"
+                ],
+                "act_4": [],
+                "act_5": [],
+                "act_6": [
+                    "6.1.1",
+                    "6.1.2",
+                    "6.1.5",
+                    "6.1.6",
+                    "6.2.5",
+                    "6.4.2"
+                ],
+                "act_7": [
+                    "7.3.1",
+                    "7.3.3",
+                    "7.4.3"
+                ]
+            }
+        }
     }
-  },
-  "name": "TASKMASTER",
-  "class": "Skill",
-  "img_portrait": "https://api.rexians.tk/assets/portraits/taskmaster.png",
-  "contact": "PHYSICAL",
-  "tags": ["Mercenary", "Villain", "Size: M"],
-  "released": "12/7/2017"
 }
