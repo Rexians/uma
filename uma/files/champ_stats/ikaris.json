@@ -1,1195 +1,1100 @@
 {
-  "champid": "ikaris",
-  "data": {
-    "2+1": {
-      "rank": 1,
-      "prestige": "278",
-      "hp": "Hero",
-      "attack": "89",
-      "crit_rate": "478",
-      "crit_dmge": "563",
-      "armor": "67",
-      "block_prof": "2845",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 154.19 to 647.74 for 10 second(s). Max 10 stacks",
-      "url_page": "https://auntm.ai/champions/ikaris/tier/2",
-      "champid": "ikaris+2+1",
-      "challenger_rating": 20,
-      "abilities": {
-        "ALWAYS ACTIVE": [
-          "All basic attacks are Energy Damage.",
-          "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
-        ],
-        "WHEN STRUCK BY A MEDIUM ATTACK": [
-          "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
-        ],
-        "ENERGIZE (MAX: 10)": [
-          "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
-          "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
-          "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 10.68 Energy Damage per Energize Buff. No effect against Mystics.",
-          "All Special Attacks consume 10 Energize Buffs on hit.",
-          "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
-        ],
-        "INCINERATE - MAX 225": [
-          "Incinerate will deal +8.01 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-          "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
-          "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
-          "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +685.71 for 30 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
-          "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
-          "If Ikaris has less than 10 Energize Buffs, gain +2400 Physical Resistance Buff for 30 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "True Damage Attack that applies a bonus +26.7 Attack Rating per unique buff currently on Ikaris.",
-          "Each Incinerate Debuff on the Opponent grants a +10.68 Attack Rating for this attack. Consume all but 10 Incinerates."
-        ]
-      }
-    },
-    "2+2": {
-      "rank": 2,
-      "prestige": "367",
-      "hp": "Hero",
-      "attack": "117",
-      "crit_rate": "493",
-      "crit_dmge": "580",
-      "armor": "87",
-      "block_prof": "2934",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 159.01 to 667.98 for 10 second(s). Max 10 stacks",
-      "url_page": "https://auntm.ai/champions/ikaris/tier/2",
-      "champid": "ikaris+2+2",
-      "challenger_rating": 30,
-      "abilities": {
-        "ALWAYS ACTIVE": [
-          "All basic attacks are Energy Damage.",
-          "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
-        ],
-        "WHEN STRUCK BY A MEDIUM ATTACK": [
-          "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
-        ],
-        "ENERGIZE (MAX: 10)": [
-          "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
-          "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
-          "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 14.04 Energy Damage per Energize Buff. No effect against Mystics.",
-          "All Special Attacks consume 10 Energize Buffs on hit.",
-          "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
-        ],
-        "INCINERATE - MAX 225": [
-          "Incinerate will deal +10.53 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-          "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
-          "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
-          "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +707.14 for 30 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
-          "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
-          "If Ikaris has less than 10 Energize Buffs, gain +2475 Physical Resistance Buff for 30 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "True Damage Attack that applies a bonus +35.1 Attack Rating per unique buff currently on Ikaris.",
-          "Each Incinerate Debuff on the Opponent grants a +14.04 Attack Rating for this attack. Consume all but 10 Incinerates."
-        ]
-      }
-    },
-    "2+3": {
-      "rank": 3,
-      "prestige": "582",
-      "hp": "Hero",
-      "attack": "186",
-      "crit_rate": "508",
-      "crit_dmge": "598",
-      "armor": "109",
-      "block_prof": "3023",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 163.83 to 688.22 for 10 second(s). Max 10 stacks",
-      "url_page": "https://auntm.ai/champions/ikaris/tier/2",
-      "champid": "ikaris+2+3",
-      "challenger_rating": 40,
-      "abilities": {
-        "ALWAYS ACTIVE": [
-          "All basic attacks are Energy Damage.",
-          "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
-        ],
-        "WHEN STRUCK BY A MEDIUM ATTACK": [
-          "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
-        ],
-        "ENERGIZE (MAX: 10)": [
-          "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
-          "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
-          "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 22.32 Energy Damage per Energize Buff. No effect against Mystics.",
-          "All Special Attacks consume 10 Energize Buffs on hit.",
-          "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
-        ],
-        "INCINERATE - MAX 225": [
-          "Incinerate will deal +16.74 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-          "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
-          "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
-          "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +728.57 for 30 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
-          "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
-          "If Ikaris has less than 10 Energize Buffs, gain +2550 Physical Resistance Buff for 30 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "True Damage Attack that applies a bonus +55.8 Attack Rating per unique buff currently on Ikaris.",
-          "Each Incinerate Debuff on the Opponent grants a +22.32 Attack Rating for this attack. Consume all but 10 Incinerates."
-        ]
-      }
-    },
-    "3+1": {
-      "rank": 1,
-      "prestige": "504",
-      "hp": "Hero",
-      "attack": "161",
-      "crit_rate": "508",
-      "crit_dmge": "598",
-      "armor": "109",
-      "block_prof": "3023",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 163.83 to 688.22 for 10 second(s). Max 10 stacks",
-      "url_page": "https://auntm.ai/champions/ikaris/tier/3",
-      "champid": "ikaris+3+1",
-      "challenger_rating": 40,
-      "abilities": {
-        "ALWAYS ACTIVE": [
-          "All basic attacks are Energy Damage.",
-          "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
-        ],
-        "WHEN STRUCK BY A MEDIUM ATTACK": [
-          "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
-        ],
-        "ENERGIZE (MAX: 10)": [
-          "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
-          "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
-          "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 19.32 Energy Damage per Energize Buff. No effect against Mystics.",
-          "All Special Attacks consume 10 Energize Buffs on hit.",
-          "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
-        ],
-        "INCINERATE - MAX 225": [
-          "Incinerate will deal +14.49 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-          "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
-          "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
-          "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +728.57 for 30 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
-          "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
-          "If Ikaris has less than 10 Energize Buffs, gain +2550 Physical Resistance Buff for 30 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "True Damage Attack that applies a bonus +48.3 Attack Rating per unique buff currently on Ikaris.",
-          "Each Incinerate Debuff on the Opponent grants a +19.32 Attack Rating for this attack. Consume all but 10 Incinerates."
-        ]
-      }
-    },
-    "3+2": {
-      "rank": 2,
-      "prestige": "805",
-      "hp": "Hero",
-      "attack": "257",
-      "crit_rate": "523",
-      "crit_dmge": "615",
-      "armor": "132",
-      "block_prof": "3112",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 168.65 to 708.46 for 10 second(s). Max 10 stacks",
-      "url_page": "https://auntm.ai/champions/ikaris/tier/3",
-      "champid": "ikaris+3+2",
-      "challenger_rating": 50,
-      "abilities": {
-        "ALWAYS ACTIVE": [
-          "All basic attacks are Energy Damage.",
-          "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
-        ],
-        "WHEN STRUCK BY A MEDIUM ATTACK": [
-          "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
-        ],
-        "ENERGIZE (MAX: 10)": [
-          "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
-          "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
-          "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 30.84 Energy Damage per Energize Buff. No effect against Mystics.",
-          "All Special Attacks consume 10 Energize Buffs on hit.",
-          "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
-        ],
-        "INCINERATE - MAX 225": [
-          "Incinerate will deal +23.13 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-          "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
-          "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
-          "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +750 for 30 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
-          "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
-          "If Ikaris has less than 10 Energize Buffs, gain +2625 Physical Resistance Buff for 30 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "True Damage Attack that applies a bonus +77.1 Attack Rating per unique buff currently on Ikaris.",
-          "Each Incinerate Debuff on the Opponent grants a +30.84 Attack Rating for this attack. Consume all but 10 Incinerates."
-        ]
-      }
-    },
-    "3+3": {
-      "rank": 3,
-      "prestige": "1125",
-      "hp": "Hero",
-      "attack": "360",
-      "crit_rate": "538",
-      "crit_dmge": "633",
-      "armor": "157",
-      "block_prof": "3200",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 173.47 to 728.71 for 10 second(s). Max 10 stacks",
-      "url_page": "https://auntm.ai/champions/ikaris/tier/3",
-      "champid": "ikaris+3+3",
-      "challenger_rating": 60,
-      "abilities": {
-        "ALWAYS ACTIVE": [
-          "All basic attacks are Energy Damage.",
-          "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
-        ],
-        "WHEN STRUCK BY A MEDIUM ATTACK": [
-          "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
-        ],
-        "ENERGIZE (MAX: 10)": [
-          "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
-          "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
-          "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 43.2 Energy Damage per Energize Buff. No effect against Mystics.",
-          "All Special Attacks consume 10 Energize Buffs on hit.",
-          "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
-        ],
-        "INCINERATE - MAX 225": [
-          "Incinerate will deal +32.4 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-          "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
-          "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
-          "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +771.43 for 30 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
-          "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
-          "If Ikaris has less than 10 Energize Buffs, gain +2700 Physical Resistance Buff for 30 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "True Damage Attack that applies a bonus +108 Attack Rating per unique buff currently on Ikaris.",
-          "Each Incinerate Debuff on the Opponent grants a +43.2 Attack Rating for this attack. Consume all but 10 Incinerates."
-        ]
-      }
-    },
-    "3+4": {
-      "rank": 4,
-      "prestige": "1548",
-      "hp": "Hero",
-      "attack": "494",
-      "crit_rate": "553",
-      "crit_dmge": "650",
-      "armor": "183",
-      "block_prof": "3289",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 178.29 to 748.95 for 10 second(s). Max 10 stacks",
-      "url_page": "https://auntm.ai/champions/ikaris/tier/3",
-      "champid": "ikaris+3+4",
-      "challenger_rating": 70,
-      "abilities": {
-        "ALWAYS ACTIVE": [
-          "All basic attacks are Energy Damage.",
-          "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
-        ],
-        "WHEN STRUCK BY A MEDIUM ATTACK": [
-          "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
-        ],
-        "ENERGIZE (MAX: 10)": [
-          "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
-          "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
-          "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 59.28 Energy Damage per Energize Buff. No effect against Mystics.",
-          "All Special Attacks consume 10 Energize Buffs on hit.",
-          "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
-        ],
-        "INCINERATE - MAX 225": [
-          "Incinerate will deal +44.46 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-          "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
-          "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
-          "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +792.86 for 30 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
-          "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
-          "If Ikaris has less than 10 Energize Buffs, gain +2775 Physical Resistance Buff for 30 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "True Damage Attack that applies a bonus +148.2 Attack Rating per unique buff currently on Ikaris.",
-          "Each Incinerate Debuff on the Opponent grants a +59.28 Attack Rating for this attack. Consume all but 10 Incinerates."
-        ]
-      }
-    },
-    "4+1": {
-      "rank": 1,
-      "prestige": "1128",
-      "hp": "Hero",
-      "attack": "360",
-      "crit_rate": "538",
-      "crit_dmge": "633",
-      "armor": "223",
-      "block_prof": "3200",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 173.47 to 728.71 for 10 second(s). Max 10 stacks",
-      "url_page": "https://auntm.ai/champions/ikaris/tier/4",
-      "champid": "ikaris+4+1",
-      "challenger_rating": 60,
-      "abilities": {
-        "ALWAYS ACTIVE": [
-          "All basic attacks are Energy Damage.",
-          "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
-        ],
-        "WHEN STRUCK BY A MEDIUM ATTACK": [
-          "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
-        ],
-        "ENERGIZE (MAX: 10)": [
-          "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
-          "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
-          "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 43.2 Energy Damage per Energize Buff. No effect against Mystics.",
-          "All Special Attacks consume 10 Energize Buffs on hit.",
-          "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
-        ],
-        "INCINERATE - MAX 225": [
-          "Incinerate will deal +32.4 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-          "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
-          "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
-          "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +771.43 for 30 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
-          "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
-          "If Ikaris has less than 10 Energize Buffs, gain +2700 Physical Resistance Buff for 30 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "True Damage Attack that applies a bonus +108 Attack Rating per unique buff currently on Ikaris.",
-          "Each Incinerate Debuff on the Opponent grants a +43.2 Attack Rating for this attack. Consume all but 10 Incinerates."
-        ]
-      }
-    },
-    "4+2": {
-      "rank": 2,
-      "prestige": "1582",
-      "hp": "Hero",
-      "attack": "504",
-      "crit_rate": "553",
-      "crit_dmge": "650",
-      "armor": "253",
-      "block_prof": "3289",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 178.29 to 748.95 for 10 second(s). Max 10 stacks",
-      "url_page": "https://auntm.ai/champions/ikaris/tier/4",
-      "champid": "ikaris+4+2",
-      "challenger_rating": 70,
-      "abilities": {
-        "ALWAYS ACTIVE": [
-          "All basic attacks are Energy Damage.",
-          "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
-        ],
-        "WHEN STRUCK BY A MEDIUM ATTACK": [
-          "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
-        ],
-        "ENERGIZE (MAX: 10)": [
-          "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
-          "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
-          "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 60.48 Energy Damage per Energize Buff. No effect against Mystics.",
-          "All Special Attacks consume 10 Energize Buffs on hit.",
-          "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
-        ],
-        "INCINERATE - MAX 225": [
-          "Incinerate will deal +45.36 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-          "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
-          "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
-          "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +792.86 for 30 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
-          "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
-          "If Ikaris has less than 10 Energize Buffs, gain +2775 Physical Resistance Buff for 30 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "True Damage Attack that applies a bonus +151.2 Attack Rating per unique buff currently on Ikaris.",
-          "Each Incinerate Debuff on the Opponent grants a +60.48 Attack Rating for this attack. Consume all but 10 Incinerates."
-        ]
-      }
-    },
-    "4+3": {
-      "rank": 3,
-      "prestige": "2215",
-      "hp": "Hero",
-      "attack": "706",
-      "crit_rate": "568",
-      "crit_dmge": "668",
-      "armor": "284",
-      "block_prof": "3378",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 183.1 to 769.19 for 10 second(s). Max 10 stacks",
-      "url_page": "https://auntm.ai/champions/ikaris/tier/4",
-      "champid": "ikaris+4+3",
-      "challenger_rating": 80,
-      "abilities": {
-        "ALWAYS ACTIVE": [
-          "All basic attacks are Energy Damage.",
-          "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
-        ],
-        "WHEN STRUCK BY A MEDIUM ATTACK": [
-          "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
-        ],
-        "ENERGIZE (MAX: 10)": [
-          "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
-          "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
-          "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 84.72 Energy Damage per Energize Buff. No effect against Mystics.",
-          "All Special Attacks consume 10 Energize Buffs on hit.",
-          "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
-        ],
-        "INCINERATE - MAX 225": [
-          "Incinerate will deal +63.54 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-          "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
-          "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
-          "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +814.29 for 30 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
-          "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
-          "If Ikaris has less than 10 Energize Buffs, gain +2850 Physical Resistance Buff for 30 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "True Damage Attack that applies a bonus +211.8 Attack Rating per unique buff currently on Ikaris.",
-          "Each Incinerate Debuff on the Opponent grants a +84.72 Attack Rating for this attack. Consume all but 10 Incinerates."
-        ]
-      }
-    },
-    "4+4": {
-      "rank": 4,
-      "prestige": "2918",
-      "hp": "Hero",
-      "attack": "928",
-      "crit_rate": "583",
-      "crit_dmge": "686",
-      "armor": "318",
-      "block_prof": "3467",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 187.92 to 789.43 for 10 second(s). Max 10 stacks",
-      "url_page": "https://auntm.ai/champions/ikaris/tier/4",
-      "champid": "ikaris+4+4",
-      "challenger_rating": 90,
-      "abilities": {
-        "ALWAYS ACTIVE": [
-          "All basic attacks are Energy Damage.",
-          "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
-        ],
-        "WHEN STRUCK BY A MEDIUM ATTACK": [
-          "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
-        ],
-        "ENERGIZE (MAX: 10)": [
-          "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
-          "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
-          "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 111.36 Energy Damage per Energize Buff. No effect against Mystics.",
-          "All Special Attacks consume 10 Energize Buffs on hit.",
-          "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
-        ],
-        "INCINERATE - MAX 225": [
-          "Incinerate will deal +83.52 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-          "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
-          "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
-          "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +835.71 for 30 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
-          "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
-          "If Ikaris has less than 10 Energize Buffs, gain +2925 Physical Resistance Buff for 30 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "True Damage Attack that applies a bonus +278.4 Attack Rating per unique buff currently on Ikaris.",
-          "Each Incinerate Debuff on the Opponent grants a +111.36 Attack Rating for this attack. Consume all but 10 Incinerates."
-        ]
-      }
-    },
-    "4+5": {
-      "rank": 5,
-      "prestige": "3891",
-      "hp": "Hero",
-      "attack": "1238",
-      "crit_rate": "598",
-      "crit_dmge": "703",
-      "armor": "353",
-      "block_prof": "3556",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 192.74 to 809.67 for 10 second(s). Max 10 stacks",
-      "url_page": "https://auntm.ai/champions/ikaris/tier/4",
-      "champid": "ikaris+4+5",
-      "challenger_rating": 100,
-      "abilities": {
-        "ALWAYS ACTIVE": [
-          "All basic attacks are Energy Damage.",
-          "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
-        ],
-        "WHEN STRUCK BY A MEDIUM ATTACK": [
-          "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
-        ],
-        "ENERGIZE (MAX: 10)": [
-          "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
-          "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
-          "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 148.56 Energy Damage per Energize Buff. No effect against Mystics.",
-          "All Special Attacks consume 10 Energize Buffs on hit.",
-          "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
-        ],
-        "INCINERATE - MAX 225": [
-          "Incinerate will deal +111.42 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-          "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
-          "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
-          "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +857.14 for 30 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
-          "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
-          "If Ikaris has less than 10 Energize Buffs, gain +3000 Physical Resistance Buff for 30 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "True Damage Attack that applies a bonus +371.4 Attack Rating per unique buff currently on Ikaris.",
-          "Each Incinerate Debuff on the Opponent grants a +148.56 Attack Rating for this attack. Consume all but 10 Incinerates."
-        ]
-      }
-    },
-    "5+1": {
-      "rank": 1,
-      "prestige": "2329",
-      "hp": "Hero",
-      "attack": "739",
-      "crit_rate": "568",
-      "crit_dmge": "668",
-      "armor": "446",
-      "block_prof": "3378",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 165.22 to 813.38 for 10 second(s). Max 10 stacks",
-      "url_page": "https://auntm.ai/champions/ikaris/tier/5",
-      "champid": "ikaris+5+1",
-      "challenger_rating": 80,
-      "abilities": {
-        "ALWAYS ACTIVE": [
-          "All basic attacks are Energy Damage.",
-          "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
-        ],
-        "WHEN STRUCK BY A MEDIUM ATTACK": [
-          "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
-        ],
-        "ENERGIZE (MAX: 10)": [
-          "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
-          "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
-          "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 88.68 Energy Damage per Energize Buff. No effect against Mystics.",
-          "All Special Attacks consume 10 Energize Buffs on hit.",
-          "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
-        ],
-        "INCINERATE - MAX 225": [
-          "Incinerate will deal +66.51 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-          "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
-          "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
-          "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +814.29 for 30 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
-          "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
-          "If Ikaris has less than 10 Energize Buffs, gain +2850 Physical Resistance Buff for 30 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "True Damage Attack that applies a bonus +221.7 Attack Rating per unique buff currently on Ikaris.",
-          "Each Incinerate Debuff on the Opponent grants a +88.68 Attack Rating for this attack. Consume all but 10 Incinerates."
-        ]
-      }
-    },
-    "5+2": {
-      "rank": 2,
-      "prestige": "3074",
-      "hp": "Hero",
-      "attack": "976",
-      "crit_rate": "583",
-      "crit_dmge": "686",
-      "armor": "488",
-      "block_prof": "3467",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 169.57 to 834.78 for 10 second(s). Max 10 stacks",
-      "url_page": "https://auntm.ai/champions/ikaris/tier/5",
-      "champid": "ikaris+5+2",
-      "challenger_rating": 90,
-      "abilities": {
-        "ALWAYS ACTIVE": [
-          "All basic attacks are Energy Damage.",
-          "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
-        ],
-        "WHEN STRUCK BY A MEDIUM ATTACK": [
-          "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
-        ],
-        "ENERGIZE (MAX: 10)": [
-          "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
-          "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
-          "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 117.12 Energy Damage per Energize Buff. No effect against Mystics.",
-          "All Special Attacks consume 10 Energize Buffs on hit.",
-          "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
-        ],
-        "INCINERATE - MAX 225": [
-          "Incinerate will deal +87.84 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-          "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
-          "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
-          "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +835.71 for 30 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
-          "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
-          "If Ikaris has less than 10 Energize Buffs, gain +2925 Physical Resistance Buff for 30 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "True Damage Attack that applies a bonus +292.8 Attack Rating per unique buff currently on Ikaris.",
-          "Each Incinerate Debuff on the Opponent grants a +117.12 Attack Rating for this attack. Consume all but 10 Incinerates."
-        ]
-      }
-    },
-    "5+3": {
-      "rank": 3,
-      "prestige": "4307",
-      "hp": "Hero",
-      "attack": "1364",
-      "crit_rate": "598",
-      "crit_dmge": "703",
-      "armor": "532",
-      "block_prof": "3556",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 173.91 to 856.19 for 10 second(s). Max 10 stacks",
-      "url_page": "https://auntm.ai/champions/ikaris/tier/5",
-      "champid": "ikaris+5+3",
-      "challenger_rating": 100,
-      "abilities": {
-        "ALWAYS ACTIVE": [
-          "All basic attacks are Energy Damage.",
-          "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
-        ],
-        "WHEN STRUCK BY A MEDIUM ATTACK": [
-          "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
-        ],
-        "ENERGIZE (MAX: 10)": [
-          "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
-          "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
-          "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 163.68 Energy Damage per Energize Buff. No effect against Mystics.",
-          "All Special Attacks consume 10 Energize Buffs on hit.",
-          "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
-        ],
-        "INCINERATE - MAX 225": [
-          "Incinerate will deal +122.76 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-          "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
-          "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
-          "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +857.14 for 30 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
-          "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
-          "If Ikaris has less than 10 Energize Buffs, gain +3000 Physical Resistance Buff for 30 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "True Damage Attack that applies a bonus +409.2 Attack Rating per unique buff currently on Ikaris.",
-          "Each Incinerate Debuff on the Opponent grants a +163.68 Attack Rating for this attack. Consume all but 10 Incinerates."
-        ]
-      }
-    },
-    "5+4": {
-      "rank": 4,
-      "prestige": "5802",
-      "hp": "Hero",
-      "attack": "1838",
-      "crit_rate": "613",
-      "crit_dmge": "721",
-      "armor": "579",
-      "block_prof": "3645",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 178.26 to 877.59 for 10 second(s). Max 10 stacks",
-      "url_page": "https://auntm.ai/champions/ikaris/tier/5",
-      "champid": "ikaris+5+4",
-      "challenger_rating": 110,
-      "abilities": {
-        "ALWAYS ACTIVE": [
-          "All basic attacks are Energy Damage.",
-          "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
-        ],
-        "WHEN STRUCK BY A MEDIUM ATTACK": [
-          "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
-        ],
-        "ENERGIZE (MAX: 10)": [
-          "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
-          "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
-          "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 220.56 Energy Damage per Energize Buff. No effect against Mystics.",
-          "All Special Attacks consume 10 Energize Buffs on hit.",
-          "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
-        ],
-        "INCINERATE - MAX 225": [
-          "Incinerate will deal +165.42 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-          "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
-          "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
-          "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +878.57 for 30 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
-          "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
-          "If Ikaris has less than 10 Energize Buffs, gain +3075 Physical Resistance Buff for 30 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "True Damage Attack that applies a bonus +551.4 Attack Rating per unique buff currently on Ikaris.",
-          "Each Incinerate Debuff on the Opponent grants a +220.56 Attack Rating for this attack. Consume all but 10 Incinerates."
-        ]
-      }
-    },
-    "5+5": {
-      "rank": 5,
-      "prestige": "7851",
-      "hp": "Hero",
-      "attack": "2482",
-      "crit_rate": "628",
-      "crit_dmge": "738",
-      "armor": "628",
-      "block_prof": "3734",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 182.61 to 899 for 10 second(s). Max 10 stacks",
-      "url_page": "https://auntm.ai/champions/ikaris/tier/5",
-      "champid": "ikaris+5+5",
-      "challenger_rating": 120,
-      "abilities": {
-        "ALWAYS ACTIVE": [
-          "All basic attacks are Energy Damage.",
-          "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
-        ],
-        "WHEN STRUCK BY A MEDIUM ATTACK": [
-          "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
-        ],
-        "ENERGIZE (MAX: 10)": [
-          "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
-          "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
-          "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 297.84 Energy Damage per Energize Buff. No effect against Mystics.",
-          "All Special Attacks consume 10 Energize Buffs on hit.",
-          "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
-        ],
-        "INCINERATE - MAX 225": [
-          "Incinerate will deal +223.38 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-          "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
-          "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
-          "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +900 for 30 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
-          "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
-          "If Ikaris has less than 10 Energize Buffs, gain +3150 Physical Resistance Buff for 30 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "True Damage Attack that applies a bonus +744.6 Attack Rating per unique buff currently on Ikaris.",
-          "Each Incinerate Debuff on the Opponent grants a +297.84 Attack Rating for this attack. Consume all but 10 Incinerates."
-        ]
-      }
-    },
-    "6+1": {
-      "rank": 1,
-      "prestige": "6147",
-      "hp": "Hero",
-      "attack": "1952",
-      "crit_rate": "613",
-      "crit_dmge": "721",
-      "armor": "513",
-      "block_prof": "3645",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 178.26 to 877.59 for 10 second(s). Max 10 stacks",
-      "url_page": "https://auntm.ai/champions/ikaris/tier/6",
-      "champid": "ikaris+6+1",
-      "challenger_rating": 110,
-      "abilities": {
-        "ALWAYS ACTIVE": [
-          "All basic attacks are Energy Damage.",
-          "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
-        ],
-        "WHEN STRUCK BY A MEDIUM ATTACK": [
-          "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
-        ],
-        "ENERGIZE (MAX: 10)": [
-          "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
-          "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
-          "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 234.24 Energy Damage per Energize Buff. No effect against Mystics.",
-          "All Special Attacks consume 10 Energize Buffs on hit.",
-          "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
-        ],
-        "INCINERATE - MAX 225": [
-          "Incinerate will deal +175.68 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-          "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
-          "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
-          "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +878.57 for 30 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
-          "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
-          "If Ikaris has less than 10 Energize Buffs, gain +3075 Physical Resistance Buff for 30 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "True Damage Attack that applies a bonus +585.6 Attack Rating per unique buff currently on Ikaris.",
-          "Each Incinerate Debuff on the Opponent grants a +234.24 Attack Rating for this attack. Consume all but 10 Incinerates."
-        ]
-      }
-    },
-    "6+2": {
-      "rank": 2,
-      "prestige": "8490",
-      "hp": "Hero",
-      "attack": "2696",
-      "crit_rate": "628",
-      "crit_dmge": "738",
-      "armor": "559",
-      "block_prof": "3734",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 182.61 to 899 for 10 second(s). Max 10 stacks",
-      "url_page": "https://auntm.ai/champions/ikaris/tier/6",
-      "champid": "ikaris+6+2",
-      "challenger_rating": 120,
-      "abilities": {
-        "ALWAYS ACTIVE": [
-          "All basic attacks are Energy Damage.",
-          "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
-        ],
-        "WHEN STRUCK BY A MEDIUM ATTACK": [
-          "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
-        ],
-        "ENERGIZE (MAX: 10)": [
-          "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
-          "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
-          "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 323.52 Energy Damage per Energize Buff. No effect against Mystics.",
-          "All Special Attacks consume 10 Energize Buffs on hit.",
-          "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
-        ],
-        "INCINERATE - MAX 225": [
-          "Incinerate will deal +242.64 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-          "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
-          "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
-          "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +900 for 30 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
-          "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
-          "If Ikaris has less than 10 Energize Buffs, gain +3150 Physical Resistance Buff for 30 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "True Damage Attack that applies a bonus +808.8 Attack Rating per unique buff currently on Ikaris.",
-          "Each Incinerate Debuff on the Opponent grants a +323.52 Attack Rating for this attack. Consume all but 10 Incinerates."
-        ]
-      }
-    },
-    "6+3": {
-      "rank": 3,
-      "prestige": "10093",
-      "hp": "Hero",
-      "attack": "3198",
-      "crit_rate": "643",
-      "crit_dmge": "756",
-      "armor": "607",
-      "block_prof": "3823",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 186.96 to 920.4 for 10 second(s). Max 10 stacks",
-      "url_page": "https://auntm.ai/champions/ikaris/tier/6",
-      "champid": "ikaris+6+3",
-      "challenger_rating": 130,
-      "abilities": {
-        "ALWAYS ACTIVE": [
-          "All basic attacks are Energy Damage.",
-          "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
-        ],
-        "WHEN STRUCK BY A MEDIUM ATTACK": [
-          "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
-        ],
-        "ENERGIZE (MAX: 10)": [
-          "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
-          "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
-          "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 383.76 Energy Damage per Energize Buff. No effect against Mystics.",
-          "All Special Attacks consume 10 Energize Buffs on hit.",
-          "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
-        ],
-        "INCINERATE - MAX 225": [
-          "Incinerate will deal +287.82 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-          "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
-          "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
-          "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +921.43 for 30 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
-          "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
-          "If Ikaris has less than 10 Energize Buffs, gain +3225 Physical Resistance Buff for 30 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "True Damage Attack that applies a bonus +959.4 Attack Rating per unique buff currently on Ikaris.",
-          "Each Incinerate Debuff on the Opponent grants a +383.76 Attack Rating for this attack. Consume all but 10 Incinerates."
-        ]
-      }
-    },
-    "6+4": {
-      "rank": 4,
-      "prestige": "11550",
-      "hp": "Hero",
-      "attack": "3659",
-      "crit_rate": "658",
-      "crit_dmge": "773",
-      "armor": "658",
-      "block_prof": "3912",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 191.3 to 941.81 for 10 second(s). Max 10 stacks",
-      "url_page": "https://auntm.ai/champions/ikaris/tier/6",
-      "champid": "ikaris+6+4",
-      "challenger_rating": 140,
-      "abilities": {
-        "ALWAYS ACTIVE": [
-          "All basic attacks are Energy Damage.",
-          "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
-        ],
-        "WHEN STRUCK BY A MEDIUM ATTACK": [
-          "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
-        ],
-        "ENERGIZE (MAX: 10)": [
-          "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
-          "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
-          "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 439.08 Energy Damage per Energize Buff. No effect against Mystics.",
-          "All Special Attacks consume 10 Energize Buffs on hit.",
-          "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
-        ],
-        "INCINERATE - MAX 225": [
-          "Incinerate will deal +329.31 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-          "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
-          "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
-          "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +942.86 for 30 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
-          "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
-          "If Ikaris has less than 10 Energize Buffs, gain +3300 Physical Resistance Buff for 30 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "True Damage Attack that applies a bonus +1097.7 Attack Rating per unique buff currently on Ikaris.",
-          "Each Incinerate Debuff on the Opponent grants a +439.08 Attack Rating for this attack. Consume all but 10 Incinerates."
-        ]
-      }
-    },
-    "1+1": {
-      "rank": 1,
-      "prestige": 218,
-      "hp": 878,
-      "attack": 70,
-      "crit_rate": 463,
-      "crit_dmge": 545,
-      "armor": 32,
-      "block_prof": 2756,
-      "energy_resist": 0,
-      "physical_resist": 0,
-      "crit_resist": 0,
-      "sig_info": null,
-      "url_page": "https://auntm.ai/champions/ikaris/tier/1",
-      "champid": "ikaris+1+1",
-      "challenger_rating": 10,
-      "abilities": {
-        "ALWAYS ACTIVE": [
-          "All basic attacks are Energy Damage.",
-          "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
-        ],
-        "WHEN STRUCK BY A MEDIUM ATTACK": [
-          "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
-        ],
-        "ENERGIZE (MAX: 10)": [
-          "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
-          "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
-          "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 8.4 Energy Damage per Energize Buff. No effect against Mystics.",
-          "All Special Attacks consume 10 Energize Buffs on hit.",
-          "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
-        ],
-        "INCINERATE - MAX 225": [
-          "Incinerate will deal +6.3 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-          "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
-          "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
-          "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +664.29 for 30 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
-          "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
-          "If Ikaris has less than 10 Energize Buffs, gain +2325 Physical Resistance Buff for 30 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "True Damage Attack that applies a bonus +21 Attack Rating per unique buff currently on Ikaris.",
-          "Each Incinerate Debuff on the Opponent grants a +8.4 Attack Rating for this attack. Consume all but 10 Incinerates."
-        ]
-      }
-    },
-    "1+2": {
-      "rank": 2,
-      "prestige": 299,
-      "hp": 1214,
-      "attack": 96,
-      "crit_rate": 478,
-      "crit_dmge": 563,
-      "armor": 33,
-      "block_prof": 2845,
-      "energy_resist": 0,
-      "physical_resist": 0,
-      "crit_resist": 0,
-      "sig_info": null,
-      "url_page": "https://auntm.ai/champions/ikaris/tier/1",
-      "champid": "ikaris+1+2",
-      "challenger_rating": 20,
-      "abilities": {
-        "ALWAYS ACTIVE": [
-          "All basic attacks are Energy Damage.",
-          "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
-        ],
-        "WHEN STRUCK BY A MEDIUM ATTACK": [
-          "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
-        ],
-        "ENERGIZE (MAX: 10)": [
-          "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
-          "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
-          "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 11.52 Energy Damage per Energize Buff. No effect against Mystics.",
-          "All Special Attacks consume 10 Energize Buffs on hit.",
-          "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
-        ],
-        "INCINERATE - MAX 225": [
-          "Incinerate will deal +8.64 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
-          "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
-        ],
-        "SPECIAL ATTACK 1": [
-          "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
-          "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
-          "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +685.71 for 30 seconds."
-        ],
-        "SPECIAL ATTACK 2": [
-          "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
-          "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
-          "If Ikaris has less than 10 Energize Buffs, gain +2400 Physical Resistance Buff for 30 seconds."
-        ],
-        "SPECIAL ATTACK 3": [
-          "True Damage Attack that applies a bonus +28.8 Attack Rating per unique buff currently on Ikaris.",
-          "Each Incinerate Debuff on the Opponent grants a +11.52 Attack Rating for this attack. Consume all but 10 Incinerates."
-        ]
-      }
-    },
-    "find": {
-      "story_quests": {
-        "act_1": [],
-        "act_2": [],
-        "act_3": [],
-        "act_4": [],
-        "act_5": [],
-        "act_6": [],
-        "act_7": ["7.4.3", "7.4.4"]
-      }
+    "name": "IKARIS",
+    "class": "Cosmic",
+    "img_portrait": "https://api.rexians.tk/assets/portraits/ikaris.png",
+    "contact": "ENERGY",
+    "tags": [
+        "Hero",
+        "Flying",
+        "Size: M"
+    ],
+    "released": "11/25/2021",
+    "champid": "ikaris",
+    "data": {
+        "2+1": {
+            "rank": 1,
+            "prestige": "278",
+            "hp": "Hero",
+            "attack": "89",
+            "crit_rate": "478",
+            "crit_dmge": "563",
+            "armor": "67",
+            "block_prof": "2845",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 154.19 to 647.74 for 10 second(s). Max 10 stacks",
+            "url_page": "https://auntm.ai/champions/ikaris/tier/2",
+            "champid": "ikaris+2+1",
+            "challenger_rating": 20,
+            "abilities": {
+                "ALWAYS ACTIVE": [
+                    "All basic attacks are Energy Damage.",
+                    "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
+                ],
+                "WHEN STRUCK BY A MEDIUM ATTACK": [
+                    "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
+                ],
+                "ENERGIZE (MAX: 10)": [
+                    "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
+                    "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
+                    "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 10.68 Energy Damage per Energize Buff. No effect against Mystics.",
+                    "All Special Attacks consume 10 Energize Buffs on hit.",
+                    "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
+                ],
+                "INCINERATE - MAX 225": [
+                    "Incinerate will deal +8.01 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+                    "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
+                    "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
+                    "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +685.71 for 30 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
+                    "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
+                    "If Ikaris has less than 10 Energize Buffs, gain +2400 Physical Resistance Buff for 30 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "True Damage Attack that applies a bonus +26.7 Attack Rating per unique buff currently on Ikaris.",
+                    "Each Incinerate Debuff on the Opponent grants a +10.68 Attack Rating for this attack. Consume all but 10 Incinerates."
+                ]
+            }
+        },
+        "2+2": {
+            "rank": 2,
+            "prestige": "367",
+            "hp": "Hero",
+            "attack": "117",
+            "crit_rate": "493",
+            "crit_dmge": "580",
+            "armor": "87",
+            "block_prof": "2934",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 159.01 to 667.98 for 10 second(s). Max 10 stacks",
+            "url_page": "https://auntm.ai/champions/ikaris/tier/2",
+            "champid": "ikaris+2+2",
+            "challenger_rating": 30,
+            "abilities": {
+                "ALWAYS ACTIVE": [
+                    "All basic attacks are Energy Damage.",
+                    "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
+                ],
+                "WHEN STRUCK BY A MEDIUM ATTACK": [
+                    "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
+                ],
+                "ENERGIZE (MAX: 10)": [
+                    "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
+                    "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
+                    "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 14.04 Energy Damage per Energize Buff. No effect against Mystics.",
+                    "All Special Attacks consume 10 Energize Buffs on hit.",
+                    "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
+                ],
+                "INCINERATE - MAX 225": [
+                    "Incinerate will deal +10.53 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+                    "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
+                    "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
+                    "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +707.14 for 30 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
+                    "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
+                    "If Ikaris has less than 10 Energize Buffs, gain +2475 Physical Resistance Buff for 30 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "True Damage Attack that applies a bonus +35.1 Attack Rating per unique buff currently on Ikaris.",
+                    "Each Incinerate Debuff on the Opponent grants a +14.04 Attack Rating for this attack. Consume all but 10 Incinerates."
+                ]
+            }
+        },
+        "2+3": {
+            "rank": 3,
+            "prestige": "582",
+            "hp": "Hero",
+            "attack": "186",
+            "crit_rate": "508",
+            "crit_dmge": "598",
+            "armor": "109",
+            "block_prof": "3023",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 163.83 to 688.22 for 10 second(s). Max 10 stacks",
+            "url_page": "https://auntm.ai/champions/ikaris/tier/2",
+            "champid": "ikaris+2+3",
+            "challenger_rating": 40,
+            "abilities": {
+                "ALWAYS ACTIVE": [
+                    "All basic attacks are Energy Damage.",
+                    "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
+                ],
+                "WHEN STRUCK BY A MEDIUM ATTACK": [
+                    "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
+                ],
+                "ENERGIZE (MAX: 10)": [
+                    "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
+                    "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
+                    "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 22.32 Energy Damage per Energize Buff. No effect against Mystics.",
+                    "All Special Attacks consume 10 Energize Buffs on hit.",
+                    "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
+                ],
+                "INCINERATE - MAX 225": [
+                    "Incinerate will deal +16.74 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+                    "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
+                    "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
+                    "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +728.57 for 30 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
+                    "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
+                    "If Ikaris has less than 10 Energize Buffs, gain +2550 Physical Resistance Buff for 30 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "True Damage Attack that applies a bonus +55.8 Attack Rating per unique buff currently on Ikaris.",
+                    "Each Incinerate Debuff on the Opponent grants a +22.32 Attack Rating for this attack. Consume all but 10 Incinerates."
+                ]
+            }
+        },
+        "3+1": {
+            "rank": 1,
+            "prestige": "504",
+            "hp": "Hero",
+            "attack": "161",
+            "crit_rate": "508",
+            "crit_dmge": "598",
+            "armor": "109",
+            "block_prof": "3023",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 163.83 to 688.22 for 10 second(s). Max 10 stacks",
+            "url_page": "https://auntm.ai/champions/ikaris/tier/3",
+            "champid": "ikaris+3+1",
+            "challenger_rating": 40,
+            "abilities": {
+                "ALWAYS ACTIVE": [
+                    "All basic attacks are Energy Damage.",
+                    "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
+                ],
+                "WHEN STRUCK BY A MEDIUM ATTACK": [
+                    "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
+                ],
+                "ENERGIZE (MAX: 10)": [
+                    "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
+                    "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
+                    "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 19.32 Energy Damage per Energize Buff. No effect against Mystics.",
+                    "All Special Attacks consume 10 Energize Buffs on hit.",
+                    "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
+                ],
+                "INCINERATE - MAX 225": [
+                    "Incinerate will deal +14.49 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+                    "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
+                    "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
+                    "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +728.57 for 30 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
+                    "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
+                    "If Ikaris has less than 10 Energize Buffs, gain +2550 Physical Resistance Buff for 30 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "True Damage Attack that applies a bonus +48.3 Attack Rating per unique buff currently on Ikaris.",
+                    "Each Incinerate Debuff on the Opponent grants a +19.32 Attack Rating for this attack. Consume all but 10 Incinerates."
+                ]
+            }
+        },
+        "3+2": {
+            "rank": 2,
+            "prestige": "805",
+            "hp": "Hero",
+            "attack": "257",
+            "crit_rate": "523",
+            "crit_dmge": "615",
+            "armor": "132",
+            "block_prof": "3112",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 168.65 to 708.46 for 10 second(s). Max 10 stacks",
+            "url_page": "https://auntm.ai/champions/ikaris/tier/3",
+            "champid": "ikaris+3+2",
+            "challenger_rating": 50,
+            "abilities": {
+                "ALWAYS ACTIVE": [
+                    "All basic attacks are Energy Damage.",
+                    "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
+                ],
+                "WHEN STRUCK BY A MEDIUM ATTACK": [
+                    "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
+                ],
+                "ENERGIZE (MAX: 10)": [
+                    "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
+                    "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
+                    "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 30.84 Energy Damage per Energize Buff. No effect against Mystics.",
+                    "All Special Attacks consume 10 Energize Buffs on hit.",
+                    "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
+                ],
+                "INCINERATE - MAX 225": [
+                    "Incinerate will deal +23.13 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+                    "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
+                    "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
+                    "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +750 for 30 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
+                    "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
+                    "If Ikaris has less than 10 Energize Buffs, gain +2625 Physical Resistance Buff for 30 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "True Damage Attack that applies a bonus +77.1 Attack Rating per unique buff currently on Ikaris.",
+                    "Each Incinerate Debuff on the Opponent grants a +30.84 Attack Rating for this attack. Consume all but 10 Incinerates."
+                ]
+            }
+        },
+        "3+3": {
+            "rank": 3,
+            "prestige": "1125",
+            "hp": "Hero",
+            "attack": "360",
+            "crit_rate": "538",
+            "crit_dmge": "633",
+            "armor": "157",
+            "block_prof": "3200",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 173.47 to 728.71 for 10 second(s). Max 10 stacks",
+            "url_page": "https://auntm.ai/champions/ikaris/tier/3",
+            "champid": "ikaris+3+3",
+            "challenger_rating": 60,
+            "abilities": {
+                "ALWAYS ACTIVE": [
+                    "All basic attacks are Energy Damage.",
+                    "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
+                ],
+                "WHEN STRUCK BY A MEDIUM ATTACK": [
+                    "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
+                ],
+                "ENERGIZE (MAX: 10)": [
+                    "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
+                    "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
+                    "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 43.2 Energy Damage per Energize Buff. No effect against Mystics.",
+                    "All Special Attacks consume 10 Energize Buffs on hit.",
+                    "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
+                ],
+                "INCINERATE - MAX 225": [
+                    "Incinerate will deal +32.4 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+                    "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
+                    "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
+                    "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +771.43 for 30 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
+                    "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
+                    "If Ikaris has less than 10 Energize Buffs, gain +2700 Physical Resistance Buff for 30 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "True Damage Attack that applies a bonus +108 Attack Rating per unique buff currently on Ikaris.",
+                    "Each Incinerate Debuff on the Opponent grants a +43.2 Attack Rating for this attack. Consume all but 10 Incinerates."
+                ]
+            }
+        },
+        "3+4": {
+            "rank": 4,
+            "prestige": "1548",
+            "hp": "Hero",
+            "attack": "494",
+            "crit_rate": "553",
+            "crit_dmge": "650",
+            "armor": "183",
+            "block_prof": "3289",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 178.29 to 748.95 for 10 second(s). Max 10 stacks",
+            "url_page": "https://auntm.ai/champions/ikaris/tier/3",
+            "champid": "ikaris+3+4",
+            "challenger_rating": 70,
+            "abilities": {
+                "ALWAYS ACTIVE": [
+                    "All basic attacks are Energy Damage.",
+                    "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
+                ],
+                "WHEN STRUCK BY A MEDIUM ATTACK": [
+                    "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
+                ],
+                "ENERGIZE (MAX: 10)": [
+                    "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
+                    "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
+                    "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 59.28 Energy Damage per Energize Buff. No effect against Mystics.",
+                    "All Special Attacks consume 10 Energize Buffs on hit.",
+                    "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
+                ],
+                "INCINERATE - MAX 225": [
+                    "Incinerate will deal +44.46 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+                    "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
+                    "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
+                    "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +792.86 for 30 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
+                    "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
+                    "If Ikaris has less than 10 Energize Buffs, gain +2775 Physical Resistance Buff for 30 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "True Damage Attack that applies a bonus +148.2 Attack Rating per unique buff currently on Ikaris.",
+                    "Each Incinerate Debuff on the Opponent grants a +59.28 Attack Rating for this attack. Consume all but 10 Incinerates."
+                ]
+            }
+        },
+        "4+1": {
+            "rank": 1,
+            "prestige": "1128",
+            "hp": "Hero",
+            "attack": "360",
+            "crit_rate": "538",
+            "crit_dmge": "633",
+            "armor": "223",
+            "block_prof": "3200",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 173.47 to 728.71 for 10 second(s). Max 10 stacks",
+            "url_page": "https://auntm.ai/champions/ikaris/tier/4",
+            "champid": "ikaris+4+1",
+            "challenger_rating": 60,
+            "abilities": {
+                "ALWAYS ACTIVE": [
+                    "All basic attacks are Energy Damage.",
+                    "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
+                ],
+                "WHEN STRUCK BY A MEDIUM ATTACK": [
+                    "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
+                ],
+                "ENERGIZE (MAX: 10)": [
+                    "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
+                    "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
+                    "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 43.2 Energy Damage per Energize Buff. No effect against Mystics.",
+                    "All Special Attacks consume 10 Energize Buffs on hit.",
+                    "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
+                ],
+                "INCINERATE - MAX 225": [
+                    "Incinerate will deal +32.4 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+                    "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
+                    "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
+                    "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +771.43 for 30 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
+                    "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
+                    "If Ikaris has less than 10 Energize Buffs, gain +2700 Physical Resistance Buff for 30 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "True Damage Attack that applies a bonus +108 Attack Rating per unique buff currently on Ikaris.",
+                    "Each Incinerate Debuff on the Opponent grants a +43.2 Attack Rating for this attack. Consume all but 10 Incinerates."
+                ]
+            }
+        },
+        "4+2": {
+            "rank": 2,
+            "prestige": "1582",
+            "hp": "Hero",
+            "attack": "504",
+            "crit_rate": "553",
+            "crit_dmge": "650",
+            "armor": "253",
+            "block_prof": "3289",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 178.29 to 748.95 for 10 second(s). Max 10 stacks",
+            "url_page": "https://auntm.ai/champions/ikaris/tier/4",
+            "champid": "ikaris+4+2",
+            "challenger_rating": 70,
+            "abilities": {
+                "ALWAYS ACTIVE": [
+                    "All basic attacks are Energy Damage.",
+                    "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
+                ],
+                "WHEN STRUCK BY A MEDIUM ATTACK": [
+                    "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
+                ],
+                "ENERGIZE (MAX: 10)": [
+                    "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
+                    "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
+                    "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 60.48 Energy Damage per Energize Buff. No effect against Mystics.",
+                    "All Special Attacks consume 10 Energize Buffs on hit.",
+                    "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
+                ],
+                "INCINERATE - MAX 225": [
+                    "Incinerate will deal +45.36 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+                    "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
+                    "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
+                    "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +792.86 for 30 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
+                    "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
+                    "If Ikaris has less than 10 Energize Buffs, gain +2775 Physical Resistance Buff for 30 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "True Damage Attack that applies a bonus +151.2 Attack Rating per unique buff currently on Ikaris.",
+                    "Each Incinerate Debuff on the Opponent grants a +60.48 Attack Rating for this attack. Consume all but 10 Incinerates."
+                ]
+            }
+        },
+        "4+3": {
+            "rank": 3,
+            "prestige": "2215",
+            "hp": "Hero",
+            "attack": "706",
+            "crit_rate": "568",
+            "crit_dmge": "668",
+            "armor": "284",
+            "block_prof": "3378",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 183.1 to 769.19 for 10 second(s). Max 10 stacks",
+            "url_page": "https://auntm.ai/champions/ikaris/tier/4",
+            "champid": "ikaris+4+3",
+            "challenger_rating": 80,
+            "abilities": {
+                "ALWAYS ACTIVE": [
+                    "All basic attacks are Energy Damage.",
+                    "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
+                ],
+                "WHEN STRUCK BY A MEDIUM ATTACK": [
+                    "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
+                ],
+                "ENERGIZE (MAX: 10)": [
+                    "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
+                    "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
+                    "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 84.72 Energy Damage per Energize Buff. No effect against Mystics.",
+                    "All Special Attacks consume 10 Energize Buffs on hit.",
+                    "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
+                ],
+                "INCINERATE - MAX 225": [
+                    "Incinerate will deal +63.54 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+                    "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
+                    "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
+                    "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +814.29 for 30 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
+                    "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
+                    "If Ikaris has less than 10 Energize Buffs, gain +2850 Physical Resistance Buff for 30 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "True Damage Attack that applies a bonus +211.8 Attack Rating per unique buff currently on Ikaris.",
+                    "Each Incinerate Debuff on the Opponent grants a +84.72 Attack Rating for this attack. Consume all but 10 Incinerates."
+                ]
+            }
+        },
+        "4+4": {
+            "rank": 4,
+            "prestige": "2918",
+            "hp": "Hero",
+            "attack": "928",
+            "crit_rate": "583",
+            "crit_dmge": "686",
+            "armor": "318",
+            "block_prof": "3467",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 187.92 to 789.43 for 10 second(s). Max 10 stacks",
+            "url_page": "https://auntm.ai/champions/ikaris/tier/4",
+            "champid": "ikaris+4+4",
+            "challenger_rating": 90,
+            "abilities": {
+                "ALWAYS ACTIVE": [
+                    "All basic attacks are Energy Damage.",
+                    "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
+                ],
+                "WHEN STRUCK BY A MEDIUM ATTACK": [
+                    "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
+                ],
+                "ENERGIZE (MAX: 10)": [
+                    "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
+                    "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
+                    "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 111.36 Energy Damage per Energize Buff. No effect against Mystics.",
+                    "All Special Attacks consume 10 Energize Buffs on hit.",
+                    "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
+                ],
+                "INCINERATE - MAX 225": [
+                    "Incinerate will deal +83.52 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+                    "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
+                    "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
+                    "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +835.71 for 30 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
+                    "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
+                    "If Ikaris has less than 10 Energize Buffs, gain +2925 Physical Resistance Buff for 30 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "True Damage Attack that applies a bonus +278.4 Attack Rating per unique buff currently on Ikaris.",
+                    "Each Incinerate Debuff on the Opponent grants a +111.36 Attack Rating for this attack. Consume all but 10 Incinerates."
+                ]
+            }
+        },
+        "4+5": {
+            "rank": 5,
+            "prestige": "3891",
+            "hp": "Hero",
+            "attack": "1238",
+            "crit_rate": "598",
+            "crit_dmge": "703",
+            "armor": "353",
+            "block_prof": "3556",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 192.74 to 809.67 for 10 second(s). Max 10 stacks",
+            "url_page": "https://auntm.ai/champions/ikaris/tier/4",
+            "champid": "ikaris+4+5",
+            "challenger_rating": 100,
+            "abilities": {
+                "ALWAYS ACTIVE": [
+                    "All basic attacks are Energy Damage.",
+                    "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
+                ],
+                "WHEN STRUCK BY A MEDIUM ATTACK": [
+                    "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
+                ],
+                "ENERGIZE (MAX: 10)": [
+                    "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
+                    "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
+                    "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 148.56 Energy Damage per Energize Buff. No effect against Mystics.",
+                    "All Special Attacks consume 10 Energize Buffs on hit.",
+                    "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
+                ],
+                "INCINERATE - MAX 225": [
+                    "Incinerate will deal +111.42 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+                    "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
+                    "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
+                    "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +857.14 for 30 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
+                    "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
+                    "If Ikaris has less than 10 Energize Buffs, gain +3000 Physical Resistance Buff for 30 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "True Damage Attack that applies a bonus +371.4 Attack Rating per unique buff currently on Ikaris.",
+                    "Each Incinerate Debuff on the Opponent grants a +148.56 Attack Rating for this attack. Consume all but 10 Incinerates."
+                ]
+            }
+        },
+        "5+1": {
+            "rank": 1,
+            "prestige": "2329",
+            "hp": "Hero",
+            "attack": "739",
+            "crit_rate": "568",
+            "crit_dmge": "668",
+            "armor": "446",
+            "block_prof": "3378",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 165.22 to 813.38 for 10 second(s). Max 10 stacks",
+            "url_page": "https://auntm.ai/champions/ikaris/tier/5",
+            "champid": "ikaris+5+1",
+            "challenger_rating": 80,
+            "abilities": {
+                "ALWAYS ACTIVE": [
+                    "All basic attacks are Energy Damage.",
+                    "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
+                ],
+                "WHEN STRUCK BY A MEDIUM ATTACK": [
+                    "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
+                ],
+                "ENERGIZE (MAX: 10)": [
+                    "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
+                    "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
+                    "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 88.68 Energy Damage per Energize Buff. No effect against Mystics.",
+                    "All Special Attacks consume 10 Energize Buffs on hit.",
+                    "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
+                ],
+                "INCINERATE - MAX 225": [
+                    "Incinerate will deal +66.51 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+                    "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
+                    "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
+                    "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +814.29 for 30 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
+                    "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
+                    "If Ikaris has less than 10 Energize Buffs, gain +2850 Physical Resistance Buff for 30 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "True Damage Attack that applies a bonus +221.7 Attack Rating per unique buff currently on Ikaris.",
+                    "Each Incinerate Debuff on the Opponent grants a +88.68 Attack Rating for this attack. Consume all but 10 Incinerates."
+                ]
+            }
+        },
+        "5+2": {
+            "rank": 2,
+            "prestige": "3074",
+            "hp": "Hero",
+            "attack": "976",
+            "crit_rate": "583",
+            "crit_dmge": "686",
+            "armor": "488",
+            "block_prof": "3467",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 169.57 to 834.78 for 10 second(s). Max 10 stacks",
+            "url_page": "https://auntm.ai/champions/ikaris/tier/5",
+            "champid": "ikaris+5+2",
+            "challenger_rating": 90,
+            "abilities": {
+                "ALWAYS ACTIVE": [
+                    "All basic attacks are Energy Damage.",
+                    "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
+                ],
+                "WHEN STRUCK BY A MEDIUM ATTACK": [
+                    "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
+                ],
+                "ENERGIZE (MAX: 10)": [
+                    "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
+                    "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
+                    "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 117.12 Energy Damage per Energize Buff. No effect against Mystics.",
+                    "All Special Attacks consume 10 Energize Buffs on hit.",
+                    "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
+                ],
+                "INCINERATE - MAX 225": [
+                    "Incinerate will deal +87.84 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+                    "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
+                    "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
+                    "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +835.71 for 30 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
+                    "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
+                    "If Ikaris has less than 10 Energize Buffs, gain +2925 Physical Resistance Buff for 30 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "True Damage Attack that applies a bonus +292.8 Attack Rating per unique buff currently on Ikaris.",
+                    "Each Incinerate Debuff on the Opponent grants a +117.12 Attack Rating for this attack. Consume all but 10 Incinerates."
+                ]
+            }
+        },
+        "5+3": {
+            "rank": 3,
+            "prestige": "4307",
+            "hp": "Hero",
+            "attack": "1364",
+            "crit_rate": "598",
+            "crit_dmge": "703",
+            "armor": "532",
+            "block_prof": "3556",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 173.91 to 856.19 for 10 second(s). Max 10 stacks",
+            "url_page": "https://auntm.ai/champions/ikaris/tier/5",
+            "champid": "ikaris+5+3",
+            "challenger_rating": 100,
+            "abilities": {
+                "ALWAYS ACTIVE": [
+                    "All basic attacks are Energy Damage.",
+                    "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
+                ],
+                "WHEN STRUCK BY A MEDIUM ATTACK": [
+                    "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
+                ],
+                "ENERGIZE (MAX: 10)": [
+                    "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
+                    "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
+                    "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 163.68 Energy Damage per Energize Buff. No effect against Mystics.",
+                    "All Special Attacks consume 10 Energize Buffs on hit.",
+                    "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
+                ],
+                "INCINERATE - MAX 225": [
+                    "Incinerate will deal +122.76 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+                    "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
+                    "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
+                    "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +857.14 for 30 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
+                    "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
+                    "If Ikaris has less than 10 Energize Buffs, gain +3000 Physical Resistance Buff for 30 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "True Damage Attack that applies a bonus +409.2 Attack Rating per unique buff currently on Ikaris.",
+                    "Each Incinerate Debuff on the Opponent grants a +163.68 Attack Rating for this attack. Consume all but 10 Incinerates."
+                ]
+            }
+        },
+        "5+4": {
+            "rank": 4,
+            "prestige": "5802",
+            "hp": "Hero",
+            "attack": "1838",
+            "crit_rate": "613",
+            "crit_dmge": "721",
+            "armor": "579",
+            "block_prof": "3645",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 178.26 to 877.59 for 10 second(s). Max 10 stacks",
+            "url_page": "https://auntm.ai/champions/ikaris/tier/5",
+            "champid": "ikaris+5+4",
+            "challenger_rating": 110,
+            "abilities": {
+                "ALWAYS ACTIVE": [
+                    "All basic attacks are Energy Damage.",
+                    "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
+                ],
+                "WHEN STRUCK BY A MEDIUM ATTACK": [
+                    "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
+                ],
+                "ENERGIZE (MAX: 10)": [
+                    "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
+                    "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
+                    "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 220.56 Energy Damage per Energize Buff. No effect against Mystics.",
+                    "All Special Attacks consume 10 Energize Buffs on hit.",
+                    "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
+                ],
+                "INCINERATE - MAX 225": [
+                    "Incinerate will deal +165.42 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+                    "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
+                    "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
+                    "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +878.57 for 30 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
+                    "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
+                    "If Ikaris has less than 10 Energize Buffs, gain +3075 Physical Resistance Buff for 30 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "True Damage Attack that applies a bonus +551.4 Attack Rating per unique buff currently on Ikaris.",
+                    "Each Incinerate Debuff on the Opponent grants a +220.56 Attack Rating for this attack. Consume all but 10 Incinerates."
+                ]
+            }
+        },
+        "5+5": {
+            "rank": 5,
+            "prestige": "7851",
+            "hp": "Hero",
+            "attack": "2482",
+            "crit_rate": "628",
+            "crit_dmge": "738",
+            "armor": "628",
+            "block_prof": "3734",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 182.61 to 899 for 10 second(s). Max 10 stacks",
+            "url_page": "https://auntm.ai/champions/ikaris/tier/5",
+            "champid": "ikaris+5+5",
+            "challenger_rating": 120,
+            "abilities": {
+                "ALWAYS ACTIVE": [
+                    "All basic attacks are Energy Damage.",
+                    "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
+                ],
+                "WHEN STRUCK BY A MEDIUM ATTACK": [
+                    "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
+                ],
+                "ENERGIZE (MAX: 10)": [
+                    "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
+                    "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
+                    "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 297.84 Energy Damage per Energize Buff. No effect against Mystics.",
+                    "All Special Attacks consume 10 Energize Buffs on hit.",
+                    "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
+                ],
+                "INCINERATE - MAX 225": [
+                    "Incinerate will deal +223.38 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+                    "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
+                    "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
+                    "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +900 for 30 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
+                    "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
+                    "If Ikaris has less than 10 Energize Buffs, gain +3150 Physical Resistance Buff for 30 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "True Damage Attack that applies a bonus +744.6 Attack Rating per unique buff currently on Ikaris.",
+                    "Each Incinerate Debuff on the Opponent grants a +297.84 Attack Rating for this attack. Consume all but 10 Incinerates."
+                ]
+            }
+        },
+        "6+1": {
+            "rank": 1,
+            "prestige": "6147",
+            "hp": "Hero",
+            "attack": "1952",
+            "crit_rate": "613",
+            "crit_dmge": "721",
+            "armor": "513",
+            "block_prof": "3645",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 178.26 to 877.59 for 10 second(s). Max 10 stacks",
+            "url_page": "https://auntm.ai/champions/ikaris/tier/6",
+            "champid": "ikaris+6+1",
+            "challenger_rating": 110,
+            "abilities": {
+                "ALWAYS ACTIVE": [
+                    "All basic attacks are Energy Damage.",
+                    "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
+                ],
+                "WHEN STRUCK BY A MEDIUM ATTACK": [
+                    "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
+                ],
+                "ENERGIZE (MAX: 10)": [
+                    "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
+                    "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
+                    "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 234.24 Energy Damage per Energize Buff. No effect against Mystics.",
+                    "All Special Attacks consume 10 Energize Buffs on hit.",
+                    "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
+                ],
+                "INCINERATE - MAX 225": [
+                    "Incinerate will deal +175.68 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+                    "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
+                    "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
+                    "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +878.57 for 30 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
+                    "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
+                    "If Ikaris has less than 10 Energize Buffs, gain +3075 Physical Resistance Buff for 30 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "True Damage Attack that applies a bonus +585.6 Attack Rating per unique buff currently on Ikaris.",
+                    "Each Incinerate Debuff on the Opponent grants a +234.24 Attack Rating for this attack. Consume all but 10 Incinerates."
+                ]
+            }
+        },
+        "6+2": {
+            "rank": 2,
+            "prestige": "8490",
+            "hp": "Hero",
+            "attack": "2696",
+            "crit_rate": "628",
+            "crit_dmge": "738",
+            "armor": "559",
+            "block_prof": "3734",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 182.61 to 899 for 10 second(s). Max 10 stacks",
+            "url_page": "https://auntm.ai/champions/ikaris/tier/6",
+            "champid": "ikaris+6+2",
+            "challenger_rating": 120,
+            "abilities": {
+                "ALWAYS ACTIVE": [
+                    "All basic attacks are Energy Damage.",
+                    "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
+                ],
+                "WHEN STRUCK BY A MEDIUM ATTACK": [
+                    "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
+                ],
+                "ENERGIZE (MAX: 10)": [
+                    "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
+                    "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
+                    "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 323.52 Energy Damage per Energize Buff. No effect against Mystics.",
+                    "All Special Attacks consume 10 Energize Buffs on hit.",
+                    "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
+                ],
+                "INCINERATE - MAX 225": [
+                    "Incinerate will deal +242.64 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+                    "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
+                    "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
+                    "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +900 for 30 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
+                    "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
+                    "If Ikaris has less than 10 Energize Buffs, gain +3150 Physical Resistance Buff for 30 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "True Damage Attack that applies a bonus +808.8 Attack Rating per unique buff currently on Ikaris.",
+                    "Each Incinerate Debuff on the Opponent grants a +323.52 Attack Rating for this attack. Consume all but 10 Incinerates."
+                ]
+            }
+        },
+        "6+3": {
+            "rank": 3,
+            "prestige": "10093",
+            "hp": "Hero",
+            "attack": "3198",
+            "crit_rate": "643",
+            "crit_dmge": "756",
+            "armor": "607",
+            "block_prof": "3823",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 186.96 to 920.4 for 10 second(s). Max 10 stacks",
+            "url_page": "https://auntm.ai/champions/ikaris/tier/6",
+            "champid": "ikaris+6+3",
+            "challenger_rating": 130,
+            "abilities": {
+                "ALWAYS ACTIVE": [
+                    "All basic attacks are Energy Damage.",
+                    "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
+                ],
+                "WHEN STRUCK BY A MEDIUM ATTACK": [
+                    "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
+                ],
+                "ENERGIZE (MAX: 10)": [
+                    "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
+                    "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
+                    "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 383.76 Energy Damage per Energize Buff. No effect against Mystics.",
+                    "All Special Attacks consume 10 Energize Buffs on hit.",
+                    "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
+                ],
+                "INCINERATE - MAX 225": [
+                    "Incinerate will deal +287.82 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+                    "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
+                    "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
+                    "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +921.43 for 30 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
+                    "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
+                    "If Ikaris has less than 10 Energize Buffs, gain +3225 Physical Resistance Buff for 30 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "True Damage Attack that applies a bonus +959.4 Attack Rating per unique buff currently on Ikaris.",
+                    "Each Incinerate Debuff on the Opponent grants a +383.76 Attack Rating for this attack. Consume all but 10 Incinerates."
+                ]
+            }
+        },
+        "6+4": {
+            "rank": 4,
+            "prestige": "11550",
+            "hp": "Hero",
+            "attack": "3659",
+            "crit_rate": "658",
+            "crit_dmge": "773",
+            "armor": "658",
+            "block_prof": "3912",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 191.3 to 941.81 for 10 second(s). Max 10 stacks",
+            "url_page": "https://auntm.ai/champions/ikaris/tier/6",
+            "champid": "ikaris+6+4",
+            "challenger_rating": 140,
+            "abilities": {
+                "ALWAYS ACTIVE": [
+                    "All basic attacks are Energy Damage.",
+                    "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
+                ],
+                "WHEN STRUCK BY A MEDIUM ATTACK": [
+                    "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
+                ],
+                "ENERGIZE (MAX: 10)": [
+                    "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
+                    "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
+                    "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 439.08 Energy Damage per Energize Buff. No effect against Mystics.",
+                    "All Special Attacks consume 10 Energize Buffs on hit.",
+                    "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
+                ],
+                "INCINERATE - MAX 225": [
+                    "Incinerate will deal +329.31 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+                    "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
+                    "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
+                    "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +942.86 for 30 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
+                    "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
+                    "If Ikaris has less than 10 Energize Buffs, gain +3300 Physical Resistance Buff for 30 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "True Damage Attack that applies a bonus +1097.7 Attack Rating per unique buff currently on Ikaris.",
+                    "Each Incinerate Debuff on the Opponent grants a +439.08 Attack Rating for this attack. Consume all but 10 Incinerates."
+                ]
+            }
+        },
+        "find": {
+            "story_quests": {
+                "act_1": [],
+                "act_2": [],
+                "act_3": [],
+                "act_4": [],
+                "act_5": [],
+                "act_6": [],
+                "act_7": [
+                    "7.4.3",
+                    "7.4.4"
+                ]
+            }
+        }
     }
-  },
-  "name": "IKARIS",
-  "class": "Cosmic",
-  "img_portrait": "https://api.rexians.tk/assets/portraits/ikaris.png",
-  "contact": "ENERGY",
-  "tags": ["Hero", "Flying", "Size: M"],
-  "released": "11/25/2021"
 }

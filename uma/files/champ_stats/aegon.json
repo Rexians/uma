@@ -1,1264 +1,1168 @@
 {
-  "champid": "aegon",
-  "data": {
-    "2+1": {
-      "rank": 1,
-      "prestige": "278",
-      "hp": "1099",
-      "attack": "95",
-      "crit_rate": "0",
-      "crit_dmge": "563",
-      "armor": "33",
-      "block_prof": "2845",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "At the end of the fight, \u00c6gon adds 10 to 65% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
-      "url_page": "https://auntm.ai/champions/aegon/tier/2",
-      "champid": "aegon+2+1",
-      "challenger_rating": 20,
-      "abilities": {
-        "PASSIVE": [
-          "Base Critical Rating is 0. Critical Rating is increased by +24.37 for each hit of the Combo Meter.",
-          "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
-        ],
-        "PASSIVE - COMBO METER ABILITIES": [
-          "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
-          "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
-          "10 Hits - Critical Damage Rating is increased by +9.66 for each hit of the Combo Meter.",
-          "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
-          "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
-          "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
-          "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
-          "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
-          "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
-          "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
-          "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +19 for 1 second(s). This stacks up to 3 times.",
-          "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
-          "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
-          "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
-          "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
-          "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
-        ],
-        "WHEN ATTACKED": [
-          "100% chance to gain a Fury Buff for 6 seconds, granting +47.5 Attack.",
-          "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict Bleed over 6 seconds, dealing 9.5 direct damage for each hit of the Combo Meter, up to 60 hits."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
-        ]
-      }
-    },
-    "2+2": {
-      "rank": 2,
-      "prestige": "365",
-      "hp": "1452",
-      "attack": "126",
-      "crit_rate": "0",
-      "crit_dmge": "580",
-      "armor": "52",
-      "block_prof": "2934",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "At the end of the fight, \u00c6gon adds 10 to 65% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
-      "url_page": "https://auntm.ai/champions/aegon/tier/2",
-      "champid": "aegon+2+2",
-      "challenger_rating": 30,
-      "abilities": {
-        "PASSIVE": [
-          "Base Critical Rating is 0. Critical Rating is increased by +25.13 for each hit of the Combo Meter.",
-          "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
-        ],
-        "PASSIVE - COMBO METER ABILITIES": [
-          "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
-          "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
-          "10 Hits - Critical Damage Rating is increased by +9.96 for each hit of the Combo Meter.",
-          "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
-          "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
-          "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
-          "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
-          "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
-          "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
-          "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
-          "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +25.2 for 1 second(s). This stacks up to 3 times.",
-          "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
-          "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
-          "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
-          "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
-          "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
-        ],
-        "WHEN ATTACKED": [
-          "100% chance to gain a Fury Buff for 6 seconds, granting +63 Attack.",
-          "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict Bleed over 6 seconds, dealing 12.6 direct damage for each hit of the Combo Meter, up to 60 hits."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
-        ]
-      }
-    },
-    "2+3": {
-      "rank": 3,
-      "prestige": "575",
-      "hp": "2305",
-      "attack": "200",
-      "crit_rate": "0",
-      "crit_dmge": "598",
-      "armor": "71",
-      "block_prof": "3023",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "At the end of the fight, \u00c6gon adds 10 to 65% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
-      "url_page": "https://auntm.ai/champions/aegon/tier/2",
-      "champid": "aegon+2+3",
-      "challenger_rating": 40,
-      "abilities": {
-        "PASSIVE": [
-          "Base Critical Rating is 0. Critical Rating is increased by +25.89 for each hit of the Combo Meter.",
-          "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
-        ],
-        "PASSIVE - COMBO METER ABILITIES": [
-          "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
-          "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
-          "10 Hits - Critical Damage Rating is increased by +10.26 for each hit of the Combo Meter.",
-          "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
-          "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
-          "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
-          "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
-          "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
-          "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
-          "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
-          "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +40 for 1 second(s). This stacks up to 3 times.",
-          "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
-          "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
-          "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
-          "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
-          "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
-        ],
-        "WHEN ATTACKED": [
-          "100% chance to gain a Fury Buff for 6 seconds, granting +100 Attack.",
-          "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict Bleed over 6 seconds, dealing 20 direct damage for each hit of the Combo Meter, up to 60 hits."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
-        ]
-      }
-    },
-    "3+1": {
-      "rank": 1,
-      "prestige": "502",
-      "hp": "1973",
-      "attack": "174",
-      "crit_rate": "0",
-      "crit_dmge": "598",
-      "armor": "71",
-      "block_prof": "3023",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "At the end of the fight, \u00c6gon adds 10 to 65% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
-      "url_page": "https://auntm.ai/champions/aegon/tier/3",
-      "champid": "aegon+3+1",
-      "challenger_rating": 40,
-      "abilities": {
-        "PASSIVE": [
-          "Base Critical Rating is 0. Critical Rating is increased by +25.89 for each hit of the Combo Meter.",
-          "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
-        ],
-        "PASSIVE - COMBO METER ABILITIES": [
-          "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
-          "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
-          "10 Hits - Critical Damage Rating is increased by +10.26 for each hit of the Combo Meter.",
-          "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
-          "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
-          "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
-          "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
-          "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
-          "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
-          "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
-          "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +34.8 for 1 second(s). This stacks up to 3 times.",
-          "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
-          "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
-          "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
-          "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
-          "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
-        ],
-        "WHEN ATTACKED": [
-          "100% chance to gain a Fury Buff for 6 seconds, granting +87 Attack.",
-          "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict Bleed over 6 seconds, dealing 17.4 direct damage for each hit of the Combo Meter, up to 60 hits."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
-        ]
-      }
-    },
-    "3+2": {
-      "rank": 2,
-      "prestige": "793",
-      "hp": "3156",
-      "attack": "278",
-      "crit_rate": "0",
-      "crit_dmge": "615",
-      "armor": "93",
-      "block_prof": "3112",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "At the end of the fight, \u00c6gon adds 10 to 65% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
-      "url_page": "https://auntm.ai/champions/aegon/tier/3",
-      "champid": "aegon+3+2",
-      "challenger_rating": 50,
-      "abilities": {
-        "PASSIVE": [
-          "Base Critical Rating is 0. Critical Rating is increased by +26.65 for each hit of the Combo Meter.",
-          "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
-        ],
-        "PASSIVE - COMBO METER ABILITIES": [
-          "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
-          "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
-          "10 Hits - Critical Damage Rating is increased by +10.56 for each hit of the Combo Meter.",
-          "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
-          "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
-          "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
-          "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
-          "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
-          "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
-          "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
-          "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +55.6 for 1 second(s). This stacks up to 3 times.",
-          "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
-          "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
-          "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
-          "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
-          "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
-        ],
-        "WHEN ATTACKED": [
-          "100% chance to gain a Fury Buff for 6 seconds, granting +139 Attack.",
-          "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict Bleed over 6 seconds, dealing 27.8 direct damage for each hit of the Combo Meter, up to 60 hits."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
-        ]
-      }
-    },
-    "3+3": {
-      "rank": 3,
-      "prestige": "1111",
-      "hp": "4416",
-      "attack": "389",
-      "crit_rate": "0",
-      "crit_dmge": "633",
-      "armor": "115",
-      "block_prof": "3200",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "At the end of the fight, \u00c6gon adds 10 to 65% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
-      "url_page": "https://auntm.ai/champions/aegon/tier/3",
-      "champid": "aegon+3+3",
-      "challenger_rating": 60,
-      "abilities": {
-        "PASSIVE": [
-          "Base Critical Rating is 0. Critical Rating is increased by +27.41 for each hit of the Combo Meter.",
-          "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
-        ],
-        "PASSIVE - COMBO METER ABILITIES": [
-          "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
-          "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
-          "10 Hits - Critical Damage Rating is increased by +10.87 for each hit of the Combo Meter.",
-          "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
-          "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
-          "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
-          "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
-          "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
-          "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
-          "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
-          "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +77.8 for 1 second(s). This stacks up to 3 times.",
-          "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
-          "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
-          "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
-          "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
-          "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
-        ],
-        "WHEN ATTACKED": [
-          "100% chance to gain a Fury Buff for 6 seconds, granting +194.5 Attack.",
-          "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict Bleed over 6 seconds, dealing 38.9 direct damage for each hit of the Combo Meter, up to 60 hits."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
-        ]
-      }
-    },
-    "3+4": {
-      "rank": 4,
-      "prestige": "1524",
-      "hp": "6063",
-      "attack": "534",
-      "crit_rate": "0",
-      "crit_dmge": "650",
-      "armor": "140",
-      "block_prof": "3289",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "At the end of the fight, \u00c6gon adds 10 to 65% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
-      "url_page": "https://auntm.ai/champions/aegon/tier/3",
-      "champid": "aegon+3+4",
-      "challenger_rating": 70,
-      "abilities": {
-        "PASSIVE": [
-          "Base Critical Rating is 0. Critical Rating is increased by +28.17 for each hit of the Combo Meter.",
-          "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
-        ],
-        "PASSIVE - COMBO METER ABILITIES": [
-          "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
-          "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
-          "10 Hits - Critical Damage Rating is increased by +11.17 for each hit of the Combo Meter.",
-          "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
-          "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
-          "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
-          "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
-          "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
-          "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
-          "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
-          "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +106.8 for 1 second(s). This stacks up to 3 times.",
-          "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
-          "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
-          "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
-          "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
-          "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
-        ],
-        "WHEN ATTACKED": [
-          "100% chance to gain a Fury Buff for 6 seconds, granting +267 Attack.",
-          "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict Bleed over 6 seconds, dealing 53.4 direct damage for each hit of the Combo Meter, up to 60 hits."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
-        ]
-      }
-    },
-    "4+1": {
-      "rank": 1,
-      "prestige": "1113",
-      "hp": "4368",
-      "attack": "392",
-      "crit_rate": "0",
-      "crit_dmge": "633",
-      "armor": "157",
-      "block_prof": "3200",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "At the end of the fight, \u00c6gon adds 10 to 65% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
-      "url_page": "https://auntm.ai/champions/aegon/tier/4",
-      "champid": "aegon+4+1",
-      "challenger_rating": 60,
-      "abilities": {
-        "PASSIVE": [
-          "Base Critical Rating is 0. Critical Rating is increased by +27.41 for each hit of the Combo Meter.",
-          "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
-        ],
-        "PASSIVE - COMBO METER ABILITIES": [
-          "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
-          "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
-          "10 Hits - Critical Damage Rating is increased by +10.87 for each hit of the Combo Meter.",
-          "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
-          "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
-          "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
-          "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
-          "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
-          "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
-          "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
-          "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +78.4 for 1 second(s). This stacks up to 3 times.",
-          "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
-          "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
-          "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
-          "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
-          "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
-        ],
-        "WHEN ATTACKED": [
-          "100% chance to gain a Fury Buff for 6 seconds, granting +196 Attack.",
-          "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict Bleed over 6 seconds, dealing 39.2 direct damage for each hit of the Combo Meter, up to 60 hits."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
-        ]
-      }
-    },
-    "4+2": {
-      "rank": 2,
-      "prestige": "1562",
-      "hp": "6127",
-      "attack": "550",
-      "crit_rate": "0",
-      "crit_dmge": "650",
-      "armor": "183",
-      "block_prof": "3289",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "At the end of the fight, \u00c6gon adds 10 to 65% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
-      "url_page": "https://auntm.ai/champions/aegon/tier/4",
-      "champid": "aegon+4+2",
-      "challenger_rating": 70,
-      "abilities": {
-        "PASSIVE": [
-          "Base Critical Rating is 0. Critical Rating is increased by +28.17 for each hit of the Combo Meter.",
-          "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
-        ],
-        "PASSIVE - COMBO METER ABILITIES": [
-          "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
-          "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
-          "10 Hits - Critical Damage Rating is increased by +11.17 for each hit of the Combo Meter.",
-          "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
-          "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
-          "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
-          "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
-          "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
-          "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
-          "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
-          "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +110 for 1 second(s). This stacks up to 3 times.",
-          "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
-          "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
-          "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
-          "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
-          "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
-        ],
-        "WHEN ATTACKED": [
-          "100% chance to gain a Fury Buff for 6 seconds, granting +275 Attack.",
-          "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict Bleed over 6 seconds, dealing 55 direct damage for each hit of the Combo Meter, up to 60 hits."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
-        ]
-      }
-    },
-    "4+3": {
-      "rank": 3,
-      "prestige": "2183",
-      "hp": "8585",
-      "attack": "771",
-      "crit_rate": "0",
-      "crit_dmge": "668",
-      "armor": "212",
-      "block_prof": "3378",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "At the end of the fight, \u00c6gon adds 10 to 65% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
-      "url_page": "https://auntm.ai/champions/aegon/tier/4",
-      "champid": "aegon+4+3",
-      "challenger_rating": 80,
-      "abilities": {
-        "PASSIVE": [
-          "Base Critical Rating is 0. Critical Rating is increased by +28.93 for each hit of the Combo Meter.",
-          "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
-        ],
-        "PASSIVE - COMBO METER ABILITIES": [
-          "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
-          "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
-          "10 Hits - Critical Damage Rating is increased by +11.47 for each hit of the Combo Meter.",
-          "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
-          "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
-          "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
-          "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
-          "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
-          "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
-          "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
-          "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +154.2 for 1 second(s). This stacks up to 3 times.",
-          "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
-          "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
-          "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
-          "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
-          "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
-        ],
-        "WHEN ATTACKED": [
-          "100% chance to gain a Fury Buff for 6 seconds, granting +385.5 Attack.",
-          "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict Bleed over 6 seconds, dealing 77.1 direct damage for each hit of the Combo Meter, up to 60 hits."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
-        ]
-      }
-    },
-    "4+4": {
-      "rank": 4,
-      "prestige": "2871",
-      "hp": "11281",
-      "attack": "1012",
-      "crit_rate": "0",
-      "crit_dmge": "686",
-      "armor": "242",
-      "block_prof": "3467",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "At the end of the fight, \u00c6gon adds 10 to 65% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
-      "url_page": "https://auntm.ai/champions/aegon/tier/4",
-      "champid": "aegon+4+4",
-      "challenger_rating": 90,
-      "abilities": {
-        "PASSIVE": [
-          "Base Critical Rating is 0. Critical Rating is increased by +29.7 for each hit of the Combo Meter.",
-          "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
-        ],
-        "PASSIVE - COMBO METER ABILITIES": [
-          "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
-          "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
-          "10 Hits - Critical Damage Rating is increased by +11.77 for each hit of the Combo Meter.",
-          "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
-          "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
-          "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
-          "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
-          "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
-          "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
-          "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
-          "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +202.4 for 1 second(s). This stacks up to 3 times.",
-          "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
-          "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
-          "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
-          "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
-          "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
-        ],
-        "WHEN ATTACKED": [
-          "100% chance to gain a Fury Buff for 6 seconds, granting +506 Attack.",
-          "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict Bleed over 6 seconds, dealing 101.2 direct damage for each hit of the Combo Meter, up to 60 hits."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
-        ]
-      }
-    },
-    "4+5": {
-      "rank": 5,
-      "prestige": "3829",
-      "hp": "15052",
-      "attack": "1351",
-      "crit_rate": "0",
-      "crit_dmge": "703",
-      "armor": "273",
-      "block_prof": "3556",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "At the end of the fight, \u00c6gon adds 10 to 65% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
-      "url_page": "https://auntm.ai/champions/aegon/tier/4",
-      "champid": "aegon+4+5",
-      "challenger_rating": 100,
-      "abilities": {
-        "PASSIVE": [
-          "Base Critical Rating is 0. Critical Rating is increased by +30.46 for each hit of the Combo Meter.",
-          "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
-        ],
-        "PASSIVE - COMBO METER ABILITIES": [
-          "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
-          "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
-          "10 Hits - Critical Damage Rating is increased by +12.07 for each hit of the Combo Meter.",
-          "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
-          "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
-          "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
-          "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
-          "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
-          "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
-          "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
-          "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +270.2 for 1 second(s). This stacks up to 3 times.",
-          "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
-          "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
-          "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
-          "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
-          "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
-        ],
-        "WHEN ATTACKED": [
-          "100% chance to gain a Fury Buff for 6 seconds, granting +675.5 Attack.",
-          "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict Bleed over 6 seconds, dealing 135.1 direct damage for each hit of the Combo Meter, up to 60 hits."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
-        ]
-      }
-    },
-    "5+1": {
-      "rank": 1,
-      "prestige": "2289",
-      "hp": "8983",
-      "attack": "806",
-      "crit_rate": "0",
-      "crit_dmge": "668",
-      "armor": "362",
-      "block_prof": "3378",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "At the end of the fight, \u00c6gon adds 10 to 75% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
-      "url_page": "https://auntm.ai/champions/aegon/tier/5",
-      "champid": "aegon+5+1",
-      "challenger_rating": 80,
-      "abilities": {
-        "PASSIVE": [
-          "Base Critical Rating is 0. Critical Rating is increased by +28.93 for each hit of the Combo Meter.",
-          "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
-        ],
-        "PASSIVE - COMBO METER ABILITIES": [
-          "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
-          "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
-          "10 Hits - Critical Damage Rating is increased by +11.47 for each hit of the Combo Meter.",
-          "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
-          "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
-          "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
-          "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
-          "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
-          "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
-          "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
-          "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +161.2 for 1 second(s). This stacks up to 3 times.",
-          "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
-          "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
-          "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
-          "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
-          "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
-        ],
-        "WHEN ATTACKED": [
-          "100% chance to gain a Fury Buff for 6 seconds, granting +403 Attack.",
-          "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict Bleed over 6 seconds, dealing 80.6 direct damage for each hit of the Combo Meter, up to 60 hits."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
-        ]
-      }
-    },
-    "5+2": {
-      "rank": 2,
-      "prestige": "3024",
-      "hp": "11865",
-      "attack": "1065",
-      "crit_rate": "0",
-      "crit_dmge": "686",
-      "armor": "400",
-      "block_prof": "3467",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "At the end of the fight, \u00c6gon adds 10 to 75% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
-      "url_page": "https://auntm.ai/champions/aegon/tier/5",
-      "champid": "aegon+5+2",
-      "challenger_rating": 90,
-      "abilities": {
-        "PASSIVE": [
-          "Base Critical Rating is 0. Critical Rating is increased by +29.7 for each hit of the Combo Meter.",
-          "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
-        ],
-        "PASSIVE - COMBO METER ABILITIES": [
-          "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
-          "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
-          "10 Hits - Critical Damage Rating is increased by +11.77 for each hit of the Combo Meter.",
-          "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
-          "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
-          "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
-          "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
-          "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
-          "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
-          "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
-          "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +213 for 1 second(s). This stacks up to 3 times.",
-          "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
-          "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
-          "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
-          "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
-          "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
-        ],
-        "WHEN ATTACKED": [
-          "100% chance to gain a Fury Buff for 6 seconds, granting +532.5 Attack.",
-          "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict Bleed over 6 seconds, dealing 106.5 direct damage for each hit of the Combo Meter, up to 60 hits."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
-        ]
-      }
-    },
-    "5+3": {
-      "rank": 3,
-      "prestige": "4233",
-      "hp": "16588",
-      "attack": "1488",
-      "crit_rate": "0",
-      "crit_dmge": "703",
-      "armor": "440",
-      "block_prof": "3556",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "At the end of the fight, \u00c6gon adds 10 to 75% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
-      "url_page": "https://auntm.ai/champions/aegon/tier/5",
-      "champid": "aegon+5+3",
-      "challenger_rating": 100,
-      "abilities": {
-        "PASSIVE": [
-          "Base Critical Rating is 0. Critical Rating is increased by +30.46 for each hit of the Combo Meter.",
-          "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
-        ],
-        "PASSIVE - COMBO METER ABILITIES": [
-          "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
-          "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
-          "10 Hits - Critical Damage Rating is increased by +12.07 for each hit of the Combo Meter.",
-          "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
-          "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
-          "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
-          "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
-          "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
-          "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
-          "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
-          "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +297.6 for 1 second(s). This stacks up to 3 times.",
-          "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
-          "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
-          "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
-          "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
-          "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
-        ],
-        "WHEN ATTACKED": [
-          "100% chance to gain a Fury Buff for 6 seconds, granting +744 Attack.",
-          "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict Bleed over 6 seconds, dealing 148.8 direct damage for each hit of the Combo Meter, up to 60 hits."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
-        ]
-      }
-    },
-    "5+4": {
-      "rank": 4,
-      "prestige": "5705",
-      "hp": "22352",
-      "attack": "2005",
-      "crit_rate": "0",
-      "crit_dmge": "721",
-      "armor": "481",
-      "block_prof": "3645",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "At the end of the fight, \u00c6gon adds 10 to 75% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
-      "url_page": "https://auntm.ai/champions/aegon/tier/5",
-      "champid": "aegon+5+4",
-      "challenger_rating": 110,
-      "abilities": {
-        "PASSIVE": [
-          "Base Critical Rating is 0. Critical Rating is increased by +31.22 for each hit of the Combo Meter.",
-          "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
-        ],
-        "PASSIVE - COMBO METER ABILITIES": [
-          "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
-          "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
-          "10 Hits - Critical Damage Rating is increased by +12.37 for each hit of the Combo Meter.",
-          "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
-          "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
-          "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
-          "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
-          "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
-          "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
-          "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
-          "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +401 for 1 second(s). This stacks up to 3 times.",
-          "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
-          "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
-          "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
-          "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
-          "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
-        ],
-        "WHEN ATTACKED": [
-          "100% chance to gain a Fury Buff for 6 seconds, granting +1002.5 Attack.",
-          "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict Bleed over 6 seconds, dealing 200.5 direct damage for each hit of the Combo Meter, up to 60 hits."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
-        ]
-      }
-    },
-    "5+5": {
-      "rank": 5,
-      "prestige": "7710",
-      "hp": "30179",
-      "attack": "2707",
-      "crit_rate": "0",
-      "crit_dmge": "738",
-      "armor": "525",
-      "block_prof": "3734",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "At the end of the fight, \u00c6gon adds 10 to 75% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
-      "url_page": "https://auntm.ai/champions/aegon/tier/5",
-      "champid": "aegon+5+5",
-      "challenger_rating": 120,
-      "abilities": {
-        "PASSIVE": [
-          "Base Critical Rating is 0. Critical Rating is increased by +31.98 for each hit of the Combo Meter.",
-          "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
-        ],
-        "PASSIVE - COMBO METER ABILITIES": [
-          "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
-          "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
-          "10 Hits - Critical Damage Rating is increased by +12.68 for each hit of the Combo Meter.",
-          "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
-          "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
-          "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
-          "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
-          "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
-          "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
-          "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
-          "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +541.4 for 1 second(s). This stacks up to 3 times.",
-          "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
-          "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
-          "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
-          "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
-          "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
-        ],
-        "WHEN ATTACKED": [
-          "100% chance to gain a Fury Buff for 6 seconds, granting +1353.5 Attack.",
-          "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict Bleed over 6 seconds, dealing 270.7 direct damage for each hit of the Combo Meter, up to 60 hits."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
-        ]
-      }
-    },
-    "6+1": {
-      "rank": 1,
-      "prestige": "6043",
-      "hp": "23730",
-      "attack": "2129",
-      "crit_rate": "0",
-      "crit_dmge": "721",
-      "armor": "391",
-      "block_prof": "3645",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "At the end of the fight, \u00c6gon adds 10 to 75% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
-      "url_page": "https://auntm.ai/champions/aegon/tier/6",
-      "champid": "aegon+6+1",
-      "challenger_rating": 110,
-      "abilities": {
-        "PASSIVE": [
-          "Base Critical Rating is 0. Critical Rating is increased by +31.22 for each hit of the Combo Meter.",
-          "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
-        ],
-        "PASSIVE - COMBO METER ABILITIES": [
-          "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
-          "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
-          "10 Hits - Critical Damage Rating is increased by +12.37 for each hit of the Combo Meter.",
-          "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
-          "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
-          "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
-          "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
-          "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
-          "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
-          "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
-          "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +425.8 for 1 second(s). This stacks up to 3 times.",
-          "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
-          "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
-          "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
-          "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
-          "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
-        ],
-        "WHEN ATTACKED": [
-          "100% chance to gain a Fury Buff for 6 seconds, granting +1064.5 Attack.",
-          "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict Bleed over 6 seconds, dealing 212.9 direct damage for each hit of the Combo Meter, up to 60 hits."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
-        ]
-      }
-    },
-    "6+2": {
-      "rank": 2,
-      "prestige": "8344",
-      "hp": "32779",
-      "attack": "2941",
-      "crit_rate": "0",
-      "crit_dmge": "738",
-      "armor": "431",
-      "block_prof": "3734",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "At the end of the fight, \u00c6gon adds 10 to 75% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
-      "url_page": "https://auntm.ai/champions/aegon/tier/6",
-      "champid": "aegon+6+2",
-      "challenger_rating": 120,
-      "abilities": {
-        "PASSIVE": [
-          "Base Critical Rating is 0. Critical Rating is increased by +31.98 for each hit of the Combo Meter.",
-          "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
-        ],
-        "PASSIVE - COMBO METER ABILITIES": [
-          "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
-          "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
-          "10 Hits - Critical Damage Rating is increased by +12.68 for each hit of the Combo Meter.",
-          "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
-          "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
-          "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
-          "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
-          "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
-          "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
-          "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
-          "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +588.2 for 1 second(s). This stacks up to 3 times.",
-          "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
-          "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
-          "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
-          "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
-          "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
-        ],
-        "WHEN ATTACKED": [
-          "100% chance to gain a Fury Buff for 6 seconds, granting +1470.5 Attack.",
-          "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict Bleed over 6 seconds, dealing 294.1 direct damage for each hit of the Combo Meter, up to 60 hits."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
-        ]
-      }
-    },
-    "6+3": {
-      "rank": 3,
-      "prestige": "9913",
-      "hp": "38887",
-      "attack": "3488",
-      "crit_rate": "0",
-      "crit_dmge": "756",
-      "armor": "472",
-      "block_prof": "3823",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "At the end of the fight, \u00c6gon adds 10 to 75% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
-      "url_page": "https://auntm.ai/champions/aegon/tier/6",
-      "champid": "aegon+6+3",
-      "challenger_rating": 130,
-      "abilities": {
-        "PASSIVE": [
-          "Base Critical Rating is 0. Critical Rating is increased by +32.74 for each hit of the Combo Meter.",
-          "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
-        ],
-        "PASSIVE - COMBO METER ABILITIES": [
-          "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
-          "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
-          "10 Hits - Critical Damage Rating is increased by +12.98 for each hit of the Combo Meter.",
-          "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
-          "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
-          "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
-          "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
-          "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
-          "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
-          "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
-          "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +697.6 for 1 second(s). This stacks up to 3 times.",
-          "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
-          "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
-          "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
-          "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
-          "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
-        ],
-        "WHEN ATTACKED": [
-          "100% chance to gain a Fury Buff for 6 seconds, granting +1744 Attack.",
-          "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict Bleed over 6 seconds, dealing 348.8 direct damage for each hit of the Combo Meter, up to 60 hits."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
-        ]
-      }
-    },
-    "6+4": {
-      "rank": 4,
-      "prestige": "11344",
-      "hp": "44500",
-      "attack": "3992",
-      "crit_rate": "0",
-      "crit_dmge": "773",
-      "armor": "517",
-      "block_prof": "3912",
-      "energy_resist": "0",
-      "physical_resist": "0",
-      "crit_resist": "0",
-      "sig_info": "At the end of the fight, \u00c6gon adds 10 to 75% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
-      "url_page": "https://auntm.ai/champions/aegon/tier/6",
-      "champid": "aegon+6+4",
-      "challenger_rating": 140,
-      "abilities": {
-        "PASSIVE": [
-          "Base Critical Rating is 0. Critical Rating is increased by +33.5 for each hit of the Combo Meter.",
-          "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
-        ],
-        "PASSIVE - COMBO METER ABILITIES": [
-          "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
-          "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
-          "10 Hits - Critical Damage Rating is increased by +13.28 for each hit of the Combo Meter.",
-          "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
-          "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
-          "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
-          "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
-          "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
-          "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
-          "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
-          "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +798.4 for 1 second(s). This stacks up to 3 times.",
-          "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
-          "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
-          "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
-          "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
-          "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
-        ],
-        "WHEN ATTACKED": [
-          "100% chance to gain a Fury Buff for 6 seconds, granting +1996 Attack.",
-          "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict Bleed over 6 seconds, dealing 399.2 direct damage for each hit of the Combo Meter, up to 60 hits."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
-        ]
-      }
-    },
-    "1+1": {
-      "rank": 1,
-      "prestige": 218,
-      "hp": 861,
-      "attack": 75,
-      "crit_rate": 0,
-      "crit_dmge": 545,
-      "armor": 0,
-      "block_prof": 2756,
-      "energy_resist": 0,
-      "physical_resist": 0,
-      "crit_resist": 0,
-      "sig_info": null,
-      "url_page": "https://auntm.ai/champions/aegon/tier/1",
-      "champid": "aegon+1+1",
-      "challenger_rating": 10,
-      "abilities": {
-        "PASSIVE": [
-          "Base Critical Rating is 0. Critical Rating is increased by +23.6 for each hit of the Combo Meter.",
-          "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
-        ],
-        "PASSIVE - COMBO METER ABILITIES": [
-          "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
-          "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
-          "10 Hits - Critical Damage Rating is increased by +9.36 for each hit of the Combo Meter.",
-          "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
-          "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
-          "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
-          "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
-          "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
-          "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
-          "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
-          "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +15 for 1 second(s). This stacks up to 3 times.",
-          "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
-          "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
-          "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
-          "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
-          "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
-        ],
-        "WHEN ATTACKED": [
-          "100% chance to gain a Fury Buff for 6 seconds, granting +37.5 Attack.",
-          "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict Bleed over 6 seconds, dealing 7.5 direct damage for each hit of the Combo Meter, up to 60 hits."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
-        ]
-      }
-    },
-    "1+2": {
-      "rank": 2,
-      "prestige": 299,
-      "hp": 1191,
-      "attack": 103,
-      "crit_rate": 0,
-      "crit_dmge": 563,
-      "armor": 0,
-      "block_prof": 2845,
-      "energy_resist": 0,
-      "physical_resist": 0,
-      "crit_resist": 0,
-      "sig_info": null,
-      "url_page": "https://auntm.ai/champions/aegon/tier/1",
-      "champid": "aegon+1+2",
-      "challenger_rating": 20,
-      "abilities": {
-        "PASSIVE": [
-          "Base Critical Rating is 0. Critical Rating is increased by +24.37 for each hit of the Combo Meter.",
-          "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
-        ],
-        "PASSIVE - COMBO METER ABILITIES": [
-          "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
-          "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
-          "10 Hits - Critical Damage Rating is increased by +9.66 for each hit of the Combo Meter.",
-          "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
-          "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
-          "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
-          "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
-          "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
-          "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
-          "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
-          "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +20.6 for 1 second(s). This stacks up to 3 times.",
-          "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
-          "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
-          "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
-        ],
-        "WHEN CHARGING A HEAVY ATTACK": [
-          "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
-          "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
-          "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
-        ],
-        "WHEN ATTACKED": [
-          "100% chance to gain a Fury Buff for 6 seconds, granting +51.5 Attack.",
-          "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
-        ],
-        "SPECIAL ATTACK 2": [
-          "100% chance to inflict Bleed over 6 seconds, dealing 10.3 direct damage for each hit of the Combo Meter, up to 60 hits."
-        ],
-        "SPECIAL ATTACK 3": [
-          "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
-        ]
-      }
-    },
-    "find": {
-      "story_quests": {
-        "act_1": [],
-        "act_2": [],
-        "act_3": [],
-        "act_4": [],
-        "act_5": [],
-        "act_6": ["6.1.5", "6.2.5", "6.3.6"],
-        "act_7": ["7.1.3", "7.1.6", "7.2.5", "7.3.1"]
-      }
+    "name": "\u00c6GON",
+    "class": "Skill",
+    "img_portrait": "https://api.rexians.tk/assets/portraits/aegon.png",
+    "contact": "PHYSICAL",
+    "tags": [
+        "Hero",
+        "Size: M"
+    ],
+    "released": "11/22/2018",
+    "champid": "aegon",
+    "data": {
+        "2+1": {
+            "rank": 1,
+            "prestige": "278",
+            "hp": "1099",
+            "attack": "95",
+            "crit_rate": "0",
+            "crit_dmge": "563",
+            "armor": "33",
+            "block_prof": "2845",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "At the end of the fight, \u00c6gon adds 10 to 65% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
+            "url_page": "https://auntm.ai/champions/aegon/tier/2",
+            "champid": "aegon+2+1",
+            "challenger_rating": 20,
+            "abilities": {
+                "PASSIVE": [
+                    "Base Critical Rating is 0. Critical Rating is increased by +24.37 for each hit of the Combo Meter.",
+                    "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
+                ],
+                "PASSIVE - COMBO METER ABILITIES": [
+                    "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
+                    "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
+                    "10 Hits - Critical Damage Rating is increased by +9.66 for each hit of the Combo Meter.",
+                    "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
+                    "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
+                    "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
+                    "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
+                    "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
+                    "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
+                    "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
+                    "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +19 for 1 second(s). This stacks up to 3 times.",
+                    "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
+                    "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
+                    "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
+                    "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
+                    "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
+                ],
+                "WHEN ATTACKED": [
+                    "100% chance to gain a Fury Buff for 6 seconds, granting +47.5 Attack.",
+                    "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict Bleed over 6 seconds, dealing 9.5 direct damage for each hit of the Combo Meter, up to 60 hits."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
+                ]
+            }
+        },
+        "2+2": {
+            "rank": 2,
+            "prestige": "365",
+            "hp": "1452",
+            "attack": "126",
+            "crit_rate": "0",
+            "crit_dmge": "580",
+            "armor": "52",
+            "block_prof": "2934",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "At the end of the fight, \u00c6gon adds 10 to 65% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
+            "url_page": "https://auntm.ai/champions/aegon/tier/2",
+            "champid": "aegon+2+2",
+            "challenger_rating": 30,
+            "abilities": {
+                "PASSIVE": [
+                    "Base Critical Rating is 0. Critical Rating is increased by +25.13 for each hit of the Combo Meter.",
+                    "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
+                ],
+                "PASSIVE - COMBO METER ABILITIES": [
+                    "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
+                    "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
+                    "10 Hits - Critical Damage Rating is increased by +9.96 for each hit of the Combo Meter.",
+                    "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
+                    "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
+                    "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
+                    "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
+                    "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
+                    "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
+                    "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
+                    "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +25.2 for 1 second(s). This stacks up to 3 times.",
+                    "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
+                    "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
+                    "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
+                    "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
+                    "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
+                ],
+                "WHEN ATTACKED": [
+                    "100% chance to gain a Fury Buff for 6 seconds, granting +63 Attack.",
+                    "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict Bleed over 6 seconds, dealing 12.6 direct damage for each hit of the Combo Meter, up to 60 hits."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
+                ]
+            }
+        },
+        "2+3": {
+            "rank": 3,
+            "prestige": "575",
+            "hp": "2305",
+            "attack": "200",
+            "crit_rate": "0",
+            "crit_dmge": "598",
+            "armor": "71",
+            "block_prof": "3023",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "At the end of the fight, \u00c6gon adds 10 to 65% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
+            "url_page": "https://auntm.ai/champions/aegon/tier/2",
+            "champid": "aegon+2+3",
+            "challenger_rating": 40,
+            "abilities": {
+                "PASSIVE": [
+                    "Base Critical Rating is 0. Critical Rating is increased by +25.89 for each hit of the Combo Meter.",
+                    "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
+                ],
+                "PASSIVE - COMBO METER ABILITIES": [
+                    "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
+                    "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
+                    "10 Hits - Critical Damage Rating is increased by +10.26 for each hit of the Combo Meter.",
+                    "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
+                    "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
+                    "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
+                    "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
+                    "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
+                    "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
+                    "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
+                    "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +40 for 1 second(s). This stacks up to 3 times.",
+                    "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
+                    "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
+                    "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
+                    "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
+                    "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
+                ],
+                "WHEN ATTACKED": [
+                    "100% chance to gain a Fury Buff for 6 seconds, granting +100 Attack.",
+                    "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict Bleed over 6 seconds, dealing 20 direct damage for each hit of the Combo Meter, up to 60 hits."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
+                ]
+            }
+        },
+        "3+1": {
+            "rank": 1,
+            "prestige": "502",
+            "hp": "1973",
+            "attack": "174",
+            "crit_rate": "0",
+            "crit_dmge": "598",
+            "armor": "71",
+            "block_prof": "3023",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "At the end of the fight, \u00c6gon adds 10 to 65% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
+            "url_page": "https://auntm.ai/champions/aegon/tier/3",
+            "champid": "aegon+3+1",
+            "challenger_rating": 40,
+            "abilities": {
+                "PASSIVE": [
+                    "Base Critical Rating is 0. Critical Rating is increased by +25.89 for each hit of the Combo Meter.",
+                    "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
+                ],
+                "PASSIVE - COMBO METER ABILITIES": [
+                    "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
+                    "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
+                    "10 Hits - Critical Damage Rating is increased by +10.26 for each hit of the Combo Meter.",
+                    "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
+                    "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
+                    "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
+                    "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
+                    "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
+                    "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
+                    "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
+                    "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +34.8 for 1 second(s). This stacks up to 3 times.",
+                    "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
+                    "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
+                    "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
+                    "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
+                    "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
+                ],
+                "WHEN ATTACKED": [
+                    "100% chance to gain a Fury Buff for 6 seconds, granting +87 Attack.",
+                    "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict Bleed over 6 seconds, dealing 17.4 direct damage for each hit of the Combo Meter, up to 60 hits."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
+                ]
+            }
+        },
+        "3+2": {
+            "rank": 2,
+            "prestige": "793",
+            "hp": "3156",
+            "attack": "278",
+            "crit_rate": "0",
+            "crit_dmge": "615",
+            "armor": "93",
+            "block_prof": "3112",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "At the end of the fight, \u00c6gon adds 10 to 65% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
+            "url_page": "https://auntm.ai/champions/aegon/tier/3",
+            "champid": "aegon+3+2",
+            "challenger_rating": 50,
+            "abilities": {
+                "PASSIVE": [
+                    "Base Critical Rating is 0. Critical Rating is increased by +26.65 for each hit of the Combo Meter.",
+                    "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
+                ],
+                "PASSIVE - COMBO METER ABILITIES": [
+                    "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
+                    "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
+                    "10 Hits - Critical Damage Rating is increased by +10.56 for each hit of the Combo Meter.",
+                    "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
+                    "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
+                    "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
+                    "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
+                    "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
+                    "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
+                    "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
+                    "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +55.6 for 1 second(s). This stacks up to 3 times.",
+                    "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
+                    "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
+                    "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
+                    "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
+                    "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
+                ],
+                "WHEN ATTACKED": [
+                    "100% chance to gain a Fury Buff for 6 seconds, granting +139 Attack.",
+                    "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict Bleed over 6 seconds, dealing 27.8 direct damage for each hit of the Combo Meter, up to 60 hits."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
+                ]
+            }
+        },
+        "3+3": {
+            "rank": 3,
+            "prestige": "1111",
+            "hp": "4416",
+            "attack": "389",
+            "crit_rate": "0",
+            "crit_dmge": "633",
+            "armor": "115",
+            "block_prof": "3200",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "At the end of the fight, \u00c6gon adds 10 to 65% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
+            "url_page": "https://auntm.ai/champions/aegon/tier/3",
+            "champid": "aegon+3+3",
+            "challenger_rating": 60,
+            "abilities": {
+                "PASSIVE": [
+                    "Base Critical Rating is 0. Critical Rating is increased by +27.41 for each hit of the Combo Meter.",
+                    "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
+                ],
+                "PASSIVE - COMBO METER ABILITIES": [
+                    "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
+                    "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
+                    "10 Hits - Critical Damage Rating is increased by +10.87 for each hit of the Combo Meter.",
+                    "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
+                    "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
+                    "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
+                    "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
+                    "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
+                    "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
+                    "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
+                    "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +77.8 for 1 second(s). This stacks up to 3 times.",
+                    "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
+                    "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
+                    "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
+                    "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
+                    "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
+                ],
+                "WHEN ATTACKED": [
+                    "100% chance to gain a Fury Buff for 6 seconds, granting +194.5 Attack.",
+                    "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict Bleed over 6 seconds, dealing 38.9 direct damage for each hit of the Combo Meter, up to 60 hits."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
+                ]
+            }
+        },
+        "3+4": {
+            "rank": 4,
+            "prestige": "1524",
+            "hp": "6063",
+            "attack": "534",
+            "crit_rate": "0",
+            "crit_dmge": "650",
+            "armor": "140",
+            "block_prof": "3289",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "At the end of the fight, \u00c6gon adds 10 to 65% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
+            "url_page": "https://auntm.ai/champions/aegon/tier/3",
+            "champid": "aegon+3+4",
+            "challenger_rating": 70,
+            "abilities": {
+                "PASSIVE": [
+                    "Base Critical Rating is 0. Critical Rating is increased by +28.17 for each hit of the Combo Meter.",
+                    "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
+                ],
+                "PASSIVE - COMBO METER ABILITIES": [
+                    "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
+                    "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
+                    "10 Hits - Critical Damage Rating is increased by +11.17 for each hit of the Combo Meter.",
+                    "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
+                    "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
+                    "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
+                    "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
+                    "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
+                    "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
+                    "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
+                    "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +106.8 for 1 second(s). This stacks up to 3 times.",
+                    "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
+                    "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
+                    "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
+                    "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
+                    "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
+                ],
+                "WHEN ATTACKED": [
+                    "100% chance to gain a Fury Buff for 6 seconds, granting +267 Attack.",
+                    "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict Bleed over 6 seconds, dealing 53.4 direct damage for each hit of the Combo Meter, up to 60 hits."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
+                ]
+            }
+        },
+        "4+1": {
+            "rank": 1,
+            "prestige": "1113",
+            "hp": "4368",
+            "attack": "392",
+            "crit_rate": "0",
+            "crit_dmge": "633",
+            "armor": "157",
+            "block_prof": "3200",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "At the end of the fight, \u00c6gon adds 10 to 65% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
+            "url_page": "https://auntm.ai/champions/aegon/tier/4",
+            "champid": "aegon+4+1",
+            "challenger_rating": 60,
+            "abilities": {
+                "PASSIVE": [
+                    "Base Critical Rating is 0. Critical Rating is increased by +27.41 for each hit of the Combo Meter.",
+                    "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
+                ],
+                "PASSIVE - COMBO METER ABILITIES": [
+                    "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
+                    "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
+                    "10 Hits - Critical Damage Rating is increased by +10.87 for each hit of the Combo Meter.",
+                    "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
+                    "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
+                    "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
+                    "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
+                    "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
+                    "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
+                    "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
+                    "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +78.4 for 1 second(s). This stacks up to 3 times.",
+                    "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
+                    "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
+                    "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
+                    "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
+                    "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
+                ],
+                "WHEN ATTACKED": [
+                    "100% chance to gain a Fury Buff for 6 seconds, granting +196 Attack.",
+                    "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict Bleed over 6 seconds, dealing 39.2 direct damage for each hit of the Combo Meter, up to 60 hits."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
+                ]
+            }
+        },
+        "4+2": {
+            "rank": 2,
+            "prestige": "1562",
+            "hp": "6127",
+            "attack": "550",
+            "crit_rate": "0",
+            "crit_dmge": "650",
+            "armor": "183",
+            "block_prof": "3289",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "At the end of the fight, \u00c6gon adds 10 to 65% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
+            "url_page": "https://auntm.ai/champions/aegon/tier/4",
+            "champid": "aegon+4+2",
+            "challenger_rating": 70,
+            "abilities": {
+                "PASSIVE": [
+                    "Base Critical Rating is 0. Critical Rating is increased by +28.17 for each hit of the Combo Meter.",
+                    "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
+                ],
+                "PASSIVE - COMBO METER ABILITIES": [
+                    "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
+                    "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
+                    "10 Hits - Critical Damage Rating is increased by +11.17 for each hit of the Combo Meter.",
+                    "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
+                    "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
+                    "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
+                    "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
+                    "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
+                    "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
+                    "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
+                    "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +110 for 1 second(s). This stacks up to 3 times.",
+                    "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
+                    "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
+                    "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
+                    "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
+                    "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
+                ],
+                "WHEN ATTACKED": [
+                    "100% chance to gain a Fury Buff for 6 seconds, granting +275 Attack.",
+                    "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict Bleed over 6 seconds, dealing 55 direct damage for each hit of the Combo Meter, up to 60 hits."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
+                ]
+            }
+        },
+        "4+3": {
+            "rank": 3,
+            "prestige": "2183",
+            "hp": "8585",
+            "attack": "771",
+            "crit_rate": "0",
+            "crit_dmge": "668",
+            "armor": "212",
+            "block_prof": "3378",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "At the end of the fight, \u00c6gon adds 10 to 65% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
+            "url_page": "https://auntm.ai/champions/aegon/tier/4",
+            "champid": "aegon+4+3",
+            "challenger_rating": 80,
+            "abilities": {
+                "PASSIVE": [
+                    "Base Critical Rating is 0. Critical Rating is increased by +28.93 for each hit of the Combo Meter.",
+                    "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
+                ],
+                "PASSIVE - COMBO METER ABILITIES": [
+                    "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
+                    "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
+                    "10 Hits - Critical Damage Rating is increased by +11.47 for each hit of the Combo Meter.",
+                    "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
+                    "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
+                    "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
+                    "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
+                    "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
+                    "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
+                    "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
+                    "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +154.2 for 1 second(s). This stacks up to 3 times.",
+                    "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
+                    "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
+                    "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
+                    "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
+                    "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
+                ],
+                "WHEN ATTACKED": [
+                    "100% chance to gain a Fury Buff for 6 seconds, granting +385.5 Attack.",
+                    "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict Bleed over 6 seconds, dealing 77.1 direct damage for each hit of the Combo Meter, up to 60 hits."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
+                ]
+            }
+        },
+        "4+4": {
+            "rank": 4,
+            "prestige": "2871",
+            "hp": "11281",
+            "attack": "1012",
+            "crit_rate": "0",
+            "crit_dmge": "686",
+            "armor": "242",
+            "block_prof": "3467",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "At the end of the fight, \u00c6gon adds 10 to 65% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
+            "url_page": "https://auntm.ai/champions/aegon/tier/4",
+            "champid": "aegon+4+4",
+            "challenger_rating": 90,
+            "abilities": {
+                "PASSIVE": [
+                    "Base Critical Rating is 0. Critical Rating is increased by +29.7 for each hit of the Combo Meter.",
+                    "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
+                ],
+                "PASSIVE - COMBO METER ABILITIES": [
+                    "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
+                    "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
+                    "10 Hits - Critical Damage Rating is increased by +11.77 for each hit of the Combo Meter.",
+                    "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
+                    "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
+                    "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
+                    "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
+                    "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
+                    "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
+                    "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
+                    "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +202.4 for 1 second(s). This stacks up to 3 times.",
+                    "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
+                    "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
+                    "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
+                    "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
+                    "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
+                ],
+                "WHEN ATTACKED": [
+                    "100% chance to gain a Fury Buff for 6 seconds, granting +506 Attack.",
+                    "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict Bleed over 6 seconds, dealing 101.2 direct damage for each hit of the Combo Meter, up to 60 hits."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
+                ]
+            }
+        },
+        "4+5": {
+            "rank": 5,
+            "prestige": "3829",
+            "hp": "15052",
+            "attack": "1351",
+            "crit_rate": "0",
+            "crit_dmge": "703",
+            "armor": "273",
+            "block_prof": "3556",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "At the end of the fight, \u00c6gon adds 10 to 65% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
+            "url_page": "https://auntm.ai/champions/aegon/tier/4",
+            "champid": "aegon+4+5",
+            "challenger_rating": 100,
+            "abilities": {
+                "PASSIVE": [
+                    "Base Critical Rating is 0. Critical Rating is increased by +30.46 for each hit of the Combo Meter.",
+                    "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
+                ],
+                "PASSIVE - COMBO METER ABILITIES": [
+                    "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
+                    "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
+                    "10 Hits - Critical Damage Rating is increased by +12.07 for each hit of the Combo Meter.",
+                    "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
+                    "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
+                    "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
+                    "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
+                    "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
+                    "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
+                    "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
+                    "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +270.2 for 1 second(s). This stacks up to 3 times.",
+                    "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
+                    "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
+                    "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
+                    "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
+                    "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
+                ],
+                "WHEN ATTACKED": [
+                    "100% chance to gain a Fury Buff for 6 seconds, granting +675.5 Attack.",
+                    "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict Bleed over 6 seconds, dealing 135.1 direct damage for each hit of the Combo Meter, up to 60 hits."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
+                ]
+            }
+        },
+        "5+1": {
+            "rank": 1,
+            "prestige": "2289",
+            "hp": "8983",
+            "attack": "806",
+            "crit_rate": "0",
+            "crit_dmge": "668",
+            "armor": "362",
+            "block_prof": "3378",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "At the end of the fight, \u00c6gon adds 10 to 75% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
+            "url_page": "https://auntm.ai/champions/aegon/tier/5",
+            "champid": "aegon+5+1",
+            "challenger_rating": 80,
+            "abilities": {
+                "PASSIVE": [
+                    "Base Critical Rating is 0. Critical Rating is increased by +28.93 for each hit of the Combo Meter.",
+                    "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
+                ],
+                "PASSIVE - COMBO METER ABILITIES": [
+                    "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
+                    "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
+                    "10 Hits - Critical Damage Rating is increased by +11.47 for each hit of the Combo Meter.",
+                    "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
+                    "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
+                    "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
+                    "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
+                    "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
+                    "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
+                    "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
+                    "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +161.2 for 1 second(s). This stacks up to 3 times.",
+                    "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
+                    "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
+                    "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
+                    "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
+                    "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
+                ],
+                "WHEN ATTACKED": [
+                    "100% chance to gain a Fury Buff for 6 seconds, granting +403 Attack.",
+                    "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict Bleed over 6 seconds, dealing 80.6 direct damage for each hit of the Combo Meter, up to 60 hits."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
+                ]
+            }
+        },
+        "5+2": {
+            "rank": 2,
+            "prestige": "3024",
+            "hp": "11865",
+            "attack": "1065",
+            "crit_rate": "0",
+            "crit_dmge": "686",
+            "armor": "400",
+            "block_prof": "3467",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "At the end of the fight, \u00c6gon adds 10 to 75% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
+            "url_page": "https://auntm.ai/champions/aegon/tier/5",
+            "champid": "aegon+5+2",
+            "challenger_rating": 90,
+            "abilities": {
+                "PASSIVE": [
+                    "Base Critical Rating is 0. Critical Rating is increased by +29.7 for each hit of the Combo Meter.",
+                    "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
+                ],
+                "PASSIVE - COMBO METER ABILITIES": [
+                    "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
+                    "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
+                    "10 Hits - Critical Damage Rating is increased by +11.77 for each hit of the Combo Meter.",
+                    "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
+                    "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
+                    "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
+                    "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
+                    "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
+                    "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
+                    "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
+                    "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +213 for 1 second(s). This stacks up to 3 times.",
+                    "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
+                    "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
+                    "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
+                    "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
+                    "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
+                ],
+                "WHEN ATTACKED": [
+                    "100% chance to gain a Fury Buff for 6 seconds, granting +532.5 Attack.",
+                    "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict Bleed over 6 seconds, dealing 106.5 direct damage for each hit of the Combo Meter, up to 60 hits."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
+                ]
+            }
+        },
+        "5+3": {
+            "rank": 3,
+            "prestige": "4233",
+            "hp": "16588",
+            "attack": "1488",
+            "crit_rate": "0",
+            "crit_dmge": "703",
+            "armor": "440",
+            "block_prof": "3556",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "At the end of the fight, \u00c6gon adds 10 to 75% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
+            "url_page": "https://auntm.ai/champions/aegon/tier/5",
+            "champid": "aegon+5+3",
+            "challenger_rating": 100,
+            "abilities": {
+                "PASSIVE": [
+                    "Base Critical Rating is 0. Critical Rating is increased by +30.46 for each hit of the Combo Meter.",
+                    "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
+                ],
+                "PASSIVE - COMBO METER ABILITIES": [
+                    "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
+                    "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
+                    "10 Hits - Critical Damage Rating is increased by +12.07 for each hit of the Combo Meter.",
+                    "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
+                    "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
+                    "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
+                    "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
+                    "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
+                    "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
+                    "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
+                    "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +297.6 for 1 second(s). This stacks up to 3 times.",
+                    "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
+                    "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
+                    "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
+                    "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
+                    "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
+                ],
+                "WHEN ATTACKED": [
+                    "100% chance to gain a Fury Buff for 6 seconds, granting +744 Attack.",
+                    "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict Bleed over 6 seconds, dealing 148.8 direct damage for each hit of the Combo Meter, up to 60 hits."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
+                ]
+            }
+        },
+        "5+4": {
+            "rank": 4,
+            "prestige": "5705",
+            "hp": "22352",
+            "attack": "2005",
+            "crit_rate": "0",
+            "crit_dmge": "721",
+            "armor": "481",
+            "block_prof": "3645",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "At the end of the fight, \u00c6gon adds 10 to 75% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
+            "url_page": "https://auntm.ai/champions/aegon/tier/5",
+            "champid": "aegon+5+4",
+            "challenger_rating": 110,
+            "abilities": {
+                "PASSIVE": [
+                    "Base Critical Rating is 0. Critical Rating is increased by +31.22 for each hit of the Combo Meter.",
+                    "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
+                ],
+                "PASSIVE - COMBO METER ABILITIES": [
+                    "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
+                    "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
+                    "10 Hits - Critical Damage Rating is increased by +12.37 for each hit of the Combo Meter.",
+                    "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
+                    "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
+                    "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
+                    "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
+                    "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
+                    "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
+                    "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
+                    "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +401 for 1 second(s). This stacks up to 3 times.",
+                    "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
+                    "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
+                    "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
+                    "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
+                    "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
+                ],
+                "WHEN ATTACKED": [
+                    "100% chance to gain a Fury Buff for 6 seconds, granting +1002.5 Attack.",
+                    "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict Bleed over 6 seconds, dealing 200.5 direct damage for each hit of the Combo Meter, up to 60 hits."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
+                ]
+            }
+        },
+        "5+5": {
+            "rank": 5,
+            "prestige": "7710",
+            "hp": "30179",
+            "attack": "2707",
+            "crit_rate": "0",
+            "crit_dmge": "738",
+            "armor": "525",
+            "block_prof": "3734",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "At the end of the fight, \u00c6gon adds 10 to 75% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
+            "url_page": "https://auntm.ai/champions/aegon/tier/5",
+            "champid": "aegon+5+5",
+            "challenger_rating": 120,
+            "abilities": {
+                "PASSIVE": [
+                    "Base Critical Rating is 0. Critical Rating is increased by +31.98 for each hit of the Combo Meter.",
+                    "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
+                ],
+                "PASSIVE - COMBO METER ABILITIES": [
+                    "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
+                    "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
+                    "10 Hits - Critical Damage Rating is increased by +12.68 for each hit of the Combo Meter.",
+                    "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
+                    "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
+                    "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
+                    "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
+                    "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
+                    "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
+                    "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
+                    "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +541.4 for 1 second(s). This stacks up to 3 times.",
+                    "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
+                    "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
+                    "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
+                    "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
+                    "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
+                ],
+                "WHEN ATTACKED": [
+                    "100% chance to gain a Fury Buff for 6 seconds, granting +1353.5 Attack.",
+                    "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict Bleed over 6 seconds, dealing 270.7 direct damage for each hit of the Combo Meter, up to 60 hits."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
+                ]
+            }
+        },
+        "6+1": {
+            "rank": 1,
+            "prestige": "6043",
+            "hp": "23730",
+            "attack": "2129",
+            "crit_rate": "0",
+            "crit_dmge": "721",
+            "armor": "391",
+            "block_prof": "3645",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "At the end of the fight, \u00c6gon adds 10 to 75% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
+            "url_page": "https://auntm.ai/champions/aegon/tier/6",
+            "champid": "aegon+6+1",
+            "challenger_rating": 110,
+            "abilities": {
+                "PASSIVE": [
+                    "Base Critical Rating is 0. Critical Rating is increased by +31.22 for each hit of the Combo Meter.",
+                    "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
+                ],
+                "PASSIVE - COMBO METER ABILITIES": [
+                    "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
+                    "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
+                    "10 Hits - Critical Damage Rating is increased by +12.37 for each hit of the Combo Meter.",
+                    "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
+                    "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
+                    "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
+                    "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
+                    "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
+                    "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
+                    "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
+                    "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +425.8 for 1 second(s). This stacks up to 3 times.",
+                    "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
+                    "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
+                    "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
+                    "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
+                    "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
+                ],
+                "WHEN ATTACKED": [
+                    "100% chance to gain a Fury Buff for 6 seconds, granting +1064.5 Attack.",
+                    "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict Bleed over 6 seconds, dealing 212.9 direct damage for each hit of the Combo Meter, up to 60 hits."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
+                ]
+            }
+        },
+        "6+2": {
+            "rank": 2,
+            "prestige": "8344",
+            "hp": "32779",
+            "attack": "2941",
+            "crit_rate": "0",
+            "crit_dmge": "738",
+            "armor": "431",
+            "block_prof": "3734",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "At the end of the fight, \u00c6gon adds 10 to 75% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
+            "url_page": "https://auntm.ai/champions/aegon/tier/6",
+            "champid": "aegon+6+2",
+            "challenger_rating": 120,
+            "abilities": {
+                "PASSIVE": [
+                    "Base Critical Rating is 0. Critical Rating is increased by +31.98 for each hit of the Combo Meter.",
+                    "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
+                ],
+                "PASSIVE - COMBO METER ABILITIES": [
+                    "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
+                    "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
+                    "10 Hits - Critical Damage Rating is increased by +12.68 for each hit of the Combo Meter.",
+                    "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
+                    "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
+                    "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
+                    "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
+                    "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
+                    "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
+                    "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
+                    "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +588.2 for 1 second(s). This stacks up to 3 times.",
+                    "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
+                    "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
+                    "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
+                    "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
+                    "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
+                ],
+                "WHEN ATTACKED": [
+                    "100% chance to gain a Fury Buff for 6 seconds, granting +1470.5 Attack.",
+                    "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict Bleed over 6 seconds, dealing 294.1 direct damage for each hit of the Combo Meter, up to 60 hits."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
+                ]
+            }
+        },
+        "6+3": {
+            "rank": 3,
+            "prestige": "9913",
+            "hp": "38887",
+            "attack": "3488",
+            "crit_rate": "0",
+            "crit_dmge": "756",
+            "armor": "472",
+            "block_prof": "3823",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "At the end of the fight, \u00c6gon adds 10 to 75% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
+            "url_page": "https://auntm.ai/champions/aegon/tier/6",
+            "champid": "aegon+6+3",
+            "challenger_rating": 130,
+            "abilities": {
+                "PASSIVE": [
+                    "Base Critical Rating is 0. Critical Rating is increased by +32.74 for each hit of the Combo Meter.",
+                    "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
+                ],
+                "PASSIVE - COMBO METER ABILITIES": [
+                    "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
+                    "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
+                    "10 Hits - Critical Damage Rating is increased by +12.98 for each hit of the Combo Meter.",
+                    "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
+                    "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
+                    "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
+                    "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
+                    "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
+                    "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
+                    "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
+                    "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +697.6 for 1 second(s). This stacks up to 3 times.",
+                    "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
+                    "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
+                    "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
+                    "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
+                    "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
+                ],
+                "WHEN ATTACKED": [
+                    "100% chance to gain a Fury Buff for 6 seconds, granting +1744 Attack.",
+                    "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict Bleed over 6 seconds, dealing 348.8 direct damage for each hit of the Combo Meter, up to 60 hits."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
+                ]
+            }
+        },
+        "6+4": {
+            "rank": 4,
+            "prestige": "11344",
+            "hp": "44500",
+            "attack": "3992",
+            "crit_rate": "0",
+            "crit_dmge": "773",
+            "armor": "517",
+            "block_prof": "3912",
+            "energy_resist": "0",
+            "physical_resist": "0",
+            "crit_resist": "0",
+            "sig_info": "At the end of the fight, \u00c6gon adds 10 to 75% of his final Combo Meter into his Persistent Combo, up to 999 hits total. \u00c6gon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
+            "url_page": "https://auntm.ai/champions/aegon/tier/6",
+            "champid": "aegon+6+4",
+            "challenger_rating": 140,
+            "abilities": {
+                "PASSIVE": [
+                    "Base Critical Rating is 0. Critical Rating is increased by +33.5 for each hit of the Combo Meter.",
+                    "Any Critical Rating \u00c6gon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating."
+                ],
+                "PASSIVE - COMBO METER ABILITIES": [
+                    "\u00c6gon unlocks additional Passive Abilities as his Combo Meter increases.",
+                    "5 Hits - Critical Hits have a 40% chance to Purify one Debuff.",
+                    "10 Hits - Critical Damage Rating is increased by +13.28 for each hit of the Combo Meter.",
+                    "20 Hits - When the Opponent Evades, \u00c6gon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).",
+                    "30 Hits - \u00c6gon can strike with Critical Hits even while the Opponent is Blocking.",
+                    "50 Hits - Charging a Heavy Attack grants \u00c6gon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
+                    "75 Hits - Opponents have -85% Block Proficiency when \u00c6gon strikes with a Critical Hit",
+                    "100 Hits - Critical Hits have a 100% chance to Purify one Debuff.",
+                    "150 Hits - Critical Hits grant a True Accuracy Buff for 0.75 seconds. This stacks up to 3 times.",
+                    "200 Hits - Critical Hits ignore 100% of the Opponent's Physical Resistance.",
+                    "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by +798.4 for 1 second(s). This stacks up to 3 times.",
+                    "500 Hits - Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for \u00c6gon's next hit",
+                    "750 Hits - Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
+                    "1000 Hits - Critical Hits cause \u00c6gon's next Hit to be Unblockable"
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "\u00c6gon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single Hit, other than Special Attacks, for 6 seconds.",
+                    "Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s).",
+                    "Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s)."
+                ],
+                "WHEN ATTACKED": [
+                    "100% chance to gain a Fury Buff for 6 seconds, granting +1996 Attack.",
+                    "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. \u00c6gon can have up to 6 Fury Buffs total."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "100% chance to inflict Bleed over 6 seconds, dealing 399.2 direct damage for each hit of the Combo Meter, up to 60 hits."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total."
+                ]
+            }
+        },
+        "find": {
+            "story_quests": {
+                "act_1": [],
+                "act_2": [],
+                "act_3": [],
+                "act_4": [],
+                "act_5": [],
+                "act_6": [
+                    "6.1.5",
+                    "6.2.5",
+                    "6.3.6"
+                ],
+                "act_7": [
+                    "7.1.3",
+                    "7.1.6",
+                    "7.2.5",
+                    "7.3.1"
+                ]
+            }
+        }
     }
-  },
-  "name": "\u00c6GON",
-  "class": "Skill",
-  "img_portrait": "https://api.rexians.tk/assets/portraits/aegon.png",
-  "contact": "PHYSICAL",
-  "tags": ["Hero", "Size: M"],
-  "released": "11/22/2018"
 }
