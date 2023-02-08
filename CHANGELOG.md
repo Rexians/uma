@@ -2,7 +2,7 @@
 
 ## v5
 
-### v5.2.2(5/3/2022)
+### v5.2.2(1/14/2023)
 
 - Updated API with new champs(v35.1 to latest)
 
