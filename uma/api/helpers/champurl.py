@@ -50,7 +50,7 @@ def champurl_getter(champ):
         "ibom": "abomination_immortal",
         "doctorvoodoo": "brothervoodoo",
         "daredevil netflix": "daredevil_netflix",
-        "goldpool": "deadpool_goldpool",
+        "goldpool": "deadpool_gold",
         "cgr": "ghostrider_cosmic",
         "docock": "doc_ock",
         "greengoblin": "green_goblin",
