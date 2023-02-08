@@ -1,4 +1,5 @@
 {
+    "champid": "antman",
     "name": "ANT-MAN",
     "class": "Science",
     "img_portrait": "https://api.rexians.tk/assets/portraits/antman.png",
@@ -9,530 +10,1075 @@
         "Size: M"
     ],
     "released": "7/9/2015",
-    "champid": "antman",
     "data": {
         "2+1": {
+            "challenger_rating": 20,
             "rank": 1,
-            "prestige": "224",
-            "hp": "1186",
-            "attack": "84",
-            "crit_rate": "478",
-            "crit_dmge": "563",
-            "armor": "33",
-            "block_prof": "2845",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Ant-Man subtly alters his size during combat with precise Pym Gas control, granting a 16 to 59.38% chance for incoming attacks to Glance.",
+            "prestige": 275,
+            "hp": 1186,
+            "attack": 84,
+            "crit_rate": 478,
+            "crit_dmge": 563,
+            "armor": 33,
+            "block_prof": 2845,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Whenever Ant-Man Glances an attack, he has a 50% chance to inflict a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 533.33 to 1350.46 for 15 second(s).",
+                "Whenever Ant-Man gains a Pym Particle, he pauses the duration of any personal Fatigue, Poison, or Power Sting Debuffs on the opponent for 2 to 3.51 second(s)."
+            ],
             "url_page": "https://auntm.ai/champions/antman/tier/2",
             "champid": "antman+2+1",
-            "challenger_rating": 20,
             "abilities": {
-                "LIGHT ATTACKS": [
-                    "20% chance to Fatigue the opponent for 15 seconds, lowering their Critical Rating by 84.21."
+                "PASSIVE": [
+                    "Ant-Man is Immune to Poison and Shock effects."
+                ],
+                "PYM PARTICLE - MAX 9": [
+                    "Ant-Man is immune to Buffs. Whenever he would, he instead generates 1 Pym Particle.",
+                    "Whenever Ant-Man's basic attacks intercept the opponent, or strikes them when recovering from a Heavy, he consumes 1 Pym Particle to refresh any personal Fatigue, Poison, and Power Sting Debuffs on the opponent."
+                ],
+                "POWER STING": [
+                    "If Ant-Man has 3 or more Pym Particles, landing a Heavy Attack or being knocked down by a Special Attack consumes 3 Pym Particles to inflict 1 Power Sting Debuff on the opponent lasting 9 second(s). An opponent with Power Sting takes 84 Direct Damage if they activate a Special Attack.",
+                    "Whenever Ant-Man\u2019s personal Power Stings detonate, they also deal a burst of 12.6 Physical Damage for each Debuff on the opponent including the Power Sting."
+                ],
+                "SPECIAL ATTACKS": [
+                    "Whenever Ant-Man activates a Special Attack the opponent is inflicted with a non-stacking Unsteady Debuff lasting 15 seconds, giving their attacks a 100% chance to Glance. Unsteady cannot be activated if the opponent is already under the effect of an Unsteady Debuff.",
+                    "When Unsteady expires this ability goes on a 15 second cooldown before it can be activated again."
+                ],
+                "CHAMPION ATTACKS": [
+                    "While Under the effect of Personal Unsteady Debuffs, Ant-Man Cannot Miss his Opponent."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "On activation gain 3 Pym Particles. Then, if Ant-Man has 9 Pym Particles, this Special Attack is Unblockable.",
+                    "Each hit inflicts a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 84.21 for 15 second(s). Max Stacks 12."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Ants feast on the target's Fatigue, replacing it with Poison that deals 63 Direct Damage over 18 seconds."
+                    "Each Pym Particle Grants Ant-Man +21 Attack Rating for the duration of this Attack. Consume all Pym Particles at the end of the Special Attack.",
+                    "On the second hit, consume all Fatigue Debuffs on the opponent. For each Fatigue consumed, the opponent is inflicted with a Poison Debuff that deals 63 damage over 15 second(s) and reduces their health recovery by 30%. Max Stacks 12."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict a Petrify Debuff reducing the potency of Power Gain and Regeneration effects by 10% for 20 second(s). The potency of this Petrify increases by 10% for each Debuff active on the opponent."
                 ]
             }
         },
         "2+2": {
+            "challenger_rating": 30,
             "rank": 2,
-            "prestige": "295",
-            "hp": "1581",
-            "attack": "111",
-            "crit_rate": "493",
-            "crit_dmge": "580",
-            "armor": "52",
-            "block_prof": "2934",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Ant-Man subtly alters his size during combat with precise Pym Gas control, granting a 16 to 59.38% chance for incoming attacks to Glance.",
+            "prestige": 365,
+            "hp": 1581,
+            "attack": 111,
+            "crit_rate": 493,
+            "crit_dmge": 580,
+            "armor": 52,
+            "block_prof": 2934,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Whenever Ant-Man Glances an attack, he has a 50% chance to inflict a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 550 to 1392.66 for 15 second(s).",
+                "Whenever Ant-Man gains a Pym Particle, he pauses the duration of any personal Fatigue, Poison, or Power Sting Debuffs on the opponent for 2 to 3.51 second(s)."
+            ],
             "url_page": "https://auntm.ai/champions/antman/tier/2",
             "champid": "antman+2+2",
-            "challenger_rating": 30,
             "abilities": {
-                "LIGHT ATTACKS": [
-                    "20% chance to Fatigue the opponent for 15 seconds, lowering their Critical Rating by 86.84."
+                "PASSIVE": [
+                    "Ant-Man is Immune to Poison and Shock effects."
+                ],
+                "PYM PARTICLE - MAX 9": [
+                    "Ant-Man is immune to Buffs. Whenever he would, he instead generates 1 Pym Particle.",
+                    "Whenever Ant-Man's basic attacks intercept the opponent, or strikes them when recovering from a Heavy, he consumes 1 Pym Particle to refresh any personal Fatigue, Poison, and Power Sting Debuffs on the opponent."
+                ],
+                "POWER STING": [
+                    "If Ant-Man has 3 or more Pym Particles, landing a Heavy Attack or being knocked down by a Special Attack consumes 3 Pym Particles to inflict 1 Power Sting Debuff on the opponent lasting 9 second(s). An opponent with Power Sting takes 111 Direct Damage if they activate a Special Attack.",
+                    "Whenever Ant-Man\u2019s personal Power Stings detonate, they also deal a burst of 16.65 Physical Damage for each Debuff on the opponent including the Power Sting."
+                ],
+                "SPECIAL ATTACKS": [
+                    "Whenever Ant-Man activates a Special Attack the opponent is inflicted with a non-stacking Unsteady Debuff lasting 15 seconds, giving their attacks a 100% chance to Glance. Unsteady cannot be activated if the opponent is already under the effect of an Unsteady Debuff.",
+                    "When Unsteady expires this ability goes on a 15 second cooldown before it can be activated again."
+                ],
+                "CHAMPION ATTACKS": [
+                    "While Under the effect of Personal Unsteady Debuffs, Ant-Man Cannot Miss his Opponent."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "On activation gain 3 Pym Particles. Then, if Ant-Man has 9 Pym Particles, this Special Attack is Unblockable.",
+                    "Each hit inflicts a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 86.84 for 15 second(s). Max Stacks 12."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Ants feast on the target's Fatigue, replacing it with Poison that deals"
+                    "Each Pym Particle Grants Ant-Man +27.75 Attack Rating for the duration of this Attack. Consume all Pym Particles at the end of the Special Attack.",
+                    "On the second hit, consume all Fatigue Debuffs on the opponent. For each Fatigue consumed, the opponent is inflicted with a Poison Debuff that deals 83.25 damage over 15 second(s) and reduces their health recovery by 30%. Max Stacks 12."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict a Petrify Debuff reducing the potency of Power Gain and Regeneration effects by 10% for 20 second(s). The potency of this Petrify increases by 10% for each Debuff active on the opponent."
                 ]
             }
         },
         "2+3": {
+            "challenger_rating": 40,
             "rank": 3,
-            "prestige": "472",
-            "hp": "2533",
-            "attack": "176",
-            "crit_rate": "508",
-            "crit_dmge": "598",
-            "armor": "71",
-            "block_prof": "3023",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Ant-Man subtly alters his size during combat with precise Pym Gas control, granting a 16 to 59.38% chance for incoming attacks to Glance.",
+            "prestige": 581,
+            "hp": 2533,
+            "attack": 176,
+            "crit_rate": 508,
+            "crit_dmge": 598,
+            "armor": 71,
+            "block_prof": 3023,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Whenever Ant-Man Glances an attack, he has a 50% chance to inflict a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 566.67 to 1434.87 for 15 second(s).",
+                "Whenever Ant-Man gains a Pym Particle, he pauses the duration of any personal Fatigue, Poison, or Power Sting Debuffs on the opponent for 2 to 3.51 second(s)."
+            ],
             "url_page": "https://auntm.ai/champions/antman/tier/2",
             "champid": "antman+2+3",
-            "challenger_rating": 40,
             "abilities": {
-                "LIGHT ATTACKS": [
-                    "20% chance to Fatigue the opponent for 15 seconds, lowering their Critical Rating by 89.47."
+                "PASSIVE": [
+                    "Ant-Man is Immune to Poison and Shock effects."
+                ],
+                "PYM PARTICLE - MAX 9": [
+                    "Ant-Man is immune to Buffs. Whenever he would, he instead generates 1 Pym Particle.",
+                    "Whenever Ant-Man's basic attacks intercept the opponent, or strikes them when recovering from a Heavy, he consumes 1 Pym Particle to refresh any personal Fatigue, Poison, and Power Sting Debuffs on the opponent."
+                ],
+                "POWER STING": [
+                    "If Ant-Man has 3 or more Pym Particles, landing a Heavy Attack or being knocked down by a Special Attack consumes 3 Pym Particles to inflict 1 Power Sting Debuff on the opponent lasting 9 second(s). An opponent with Power Sting takes 176 Direct Damage if they activate a Special Attack.",
+                    "Whenever Ant-Man\u2019s personal Power Stings detonate, they also deal a burst of 26.4 Physical Damage for each Debuff on the opponent including the Power Sting."
+                ],
+                "SPECIAL ATTACKS": [
+                    "Whenever Ant-Man activates a Special Attack the opponent is inflicted with a non-stacking Unsteady Debuff lasting 15 seconds, giving their attacks a 100% chance to Glance. Unsteady cannot be activated if the opponent is already under the effect of an Unsteady Debuff.",
+                    "When Unsteady expires this ability goes on a 15 second cooldown before it can be activated again."
+                ],
+                "CHAMPION ATTACKS": [
+                    "While Under the effect of Personal Unsteady Debuffs, Ant-Man Cannot Miss his Opponent."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "On activation gain 3 Pym Particles. Then, if Ant-Man has 9 Pym Particles, this Special Attack is Unblockable.",
+                    "Each hit inflicts a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 89.47 for 15 second(s). Max Stacks 12."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Ants feast on the target's Fatigue, replacing it with Poison that deals"
+                    "Each Pym Particle Grants Ant-Man +44 Attack Rating for the duration of this Attack. Consume all Pym Particles at the end of the Special Attack.",
+                    "On the second hit, consume all Fatigue Debuffs on the opponent. For each Fatigue consumed, the opponent is inflicted with a Poison Debuff that deals 132 damage over 15 second(s) and reduces their health recovery by 30%. Max Stacks 12."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict a Petrify Debuff reducing the potency of Power Gain and Regeneration effects by 10% for 20 second(s). The potency of this Petrify increases by 10% for each Debuff active on the opponent."
                 ]
             }
         },
         "3+1": {
+            "challenger_rating": 40,
             "rank": 1,
-            "prestige": "407",
-            "hp": "2170",
-            "attack": "152",
-            "crit_rate": "508",
-            "crit_dmge": "598",
-            "armor": "71",
-            "block_prof": "3023",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Ant-Man subtly alters his size during combat with precise Pym Gas control, granting a 16 to 59.38% chance for incoming attacks to Glance.",
+            "prestige": 500,
+            "hp": 2170,
+            "attack": 152,
+            "crit_rate": 508,
+            "crit_dmge": 598,
+            "armor": 71,
+            "block_prof": 3023,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Whenever Ant-Man Glances an attack, he has a 50% chance to inflict a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 566.67 to 1434.87 for 15 second(s).",
+                "Whenever Ant-Man gains a Pym Particle, he pauses the duration of any personal Fatigue, Poison, or Power Sting Debuffs on the opponent for 2 to 3.51 second(s)."
+            ],
             "url_page": "https://auntm.ai/champions/antman/tier/3",
             "champid": "antman+3+1",
-            "challenger_rating": 40,
             "abilities": {
-                "LIGHT ATTACKS": [
-                    "20% chance to Fatigue the opponent for 15 seconds, lowering their Critical Rating by 89.47."
+                "PASSIVE": [
+                    "Ant-Man is Immune to Poison and Shock effects."
+                ],
+                "PYM PARTICLE - MAX 9": [
+                    "Ant-Man is immune to Buffs. Whenever he would, he instead generates 1 Pym Particle.",
+                    "Whenever Ant-Man's basic attacks intercept the opponent, or strikes them when recovering from a Heavy, he consumes 1 Pym Particle to refresh any personal Fatigue, Poison, and Power Sting Debuffs on the opponent."
+                ],
+                "POWER STING": [
+                    "If Ant-Man has 3 or more Pym Particles, landing a Heavy Attack or being knocked down by a Special Attack consumes 3 Pym Particles to inflict 1 Power Sting Debuff on the opponent lasting 9 second(s). An opponent with Power Sting takes 152 Direct Damage if they activate a Special Attack.",
+                    "Whenever Ant-Man\u2019s personal Power Stings detonate, they also deal a burst of 22.8 Physical Damage for each Debuff on the opponent including the Power Sting."
+                ],
+                "SPECIAL ATTACKS": [
+                    "Whenever Ant-Man activates a Special Attack the opponent is inflicted with a non-stacking Unsteady Debuff lasting 15 seconds, giving their attacks a 100% chance to Glance. Unsteady cannot be activated if the opponent is already under the effect of an Unsteady Debuff.",
+                    "When Unsteady expires this ability goes on a 15 second cooldown before it can be activated again."
+                ],
+                "CHAMPION ATTACKS": [
+                    "While Under the effect of Personal Unsteady Debuffs, Ant-Man Cannot Miss his Opponent."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "On activation gain 3 Pym Particles. Then, if Ant-Man has 9 Pym Particles, this Special Attack is Unblockable.",
+                    "Each hit inflicts a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 89.47 for 15 second(s). Max Stacks 12."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Ants feast on the target's Fatigue, replacing it with Poison that deals 114 Direct Damage over 18 seconds."
+                    "Each Pym Particle Grants Ant-Man +38 Attack Rating for the duration of this Attack. Consume all Pym Particles at the end of the Special Attack.",
+                    "On the second hit, consume all Fatigue Debuffs on the opponent. For each Fatigue consumed, the opponent is inflicted with a Poison Debuff that deals 114 damage over 15 second(s) and reduces their health recovery by 30%. Max Stacks 12."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict a Petrify Debuff reducing the potency of Power Gain and Regeneration effects by 10% for 20 second(s). The potency of this Petrify increases by 10% for each Debuff active on the opponent."
                 ]
             }
         },
         "3+2": {
+            "challenger_rating": 50,
             "rank": 2,
-            "prestige": "651",
-            "hp": "3504",
-            "attack": "243",
-            "crit_rate": "523",
-            "crit_dmge": "615",
-            "armor": "93",
-            "block_prof": "3112",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Ant-Man subtly alters his size during combat with precise Pym Gas control, granting a 16 to 59.38% chance for incoming attacks to Glance.",
+            "prestige": 804,
+            "hp": 3504,
+            "attack": 243,
+            "crit_rate": 523,
+            "crit_dmge": 615,
+            "armor": 93,
+            "block_prof": 3112,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Whenever Ant-Man Glances an attack, he has a 50% chance to inflict a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 583.33 to 1477.07 for 15 second(s).",
+                "Whenever Ant-Man gains a Pym Particle, he pauses the duration of any personal Fatigue, Poison, or Power Sting Debuffs on the opponent for 2 to 3.51 second(s)."
+            ],
             "url_page": "https://auntm.ai/champions/antman/tier/3",
             "champid": "antman+3+2",
-            "challenger_rating": 50,
             "abilities": {
-                "LIGHT ATTACKS": [
-                    "20% chance to Fatigue the opponent for 15 seconds, lowering their Critical Rating by 92.11."
+                "PASSIVE": [
+                    "Ant-Man is Immune to Poison and Shock effects."
+                ],
+                "PYM PARTICLE - MAX 9": [
+                    "Ant-Man is immune to Buffs. Whenever he would, he instead generates 1 Pym Particle.",
+                    "Whenever Ant-Man's basic attacks intercept the opponent, or strikes them when recovering from a Heavy, he consumes 1 Pym Particle to refresh any personal Fatigue, Poison, and Power Sting Debuffs on the opponent."
+                ],
+                "POWER STING": [
+                    "If Ant-Man has 3 or more Pym Particles, landing a Heavy Attack or being knocked down by a Special Attack consumes 3 Pym Particles to inflict 1 Power Sting Debuff on the opponent lasting 9 second(s). An opponent with Power Sting takes 243 Direct Damage if they activate a Special Attack.",
+                    "Whenever Ant-Man\u2019s personal Power Stings detonate, they also deal a burst of 36.45 Physical Damage for each Debuff on the opponent including the Power Sting."
+                ],
+                "SPECIAL ATTACKS": [
+                    "Whenever Ant-Man activates a Special Attack the opponent is inflicted with a non-stacking Unsteady Debuff lasting 15 seconds, giving their attacks a 100% chance to Glance. Unsteady cannot be activated if the opponent is already under the effect of an Unsteady Debuff.",
+                    "When Unsteady expires this ability goes on a 15 second cooldown before it can be activated again."
+                ],
+                "CHAMPION ATTACKS": [
+                    "While Under the effect of Personal Unsteady Debuffs, Ant-Man Cannot Miss his Opponent."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "On activation gain 3 Pym Particles. Then, if Ant-Man has 9 Pym Particles, this Special Attack is Unblockable.",
+                    "Each hit inflicts a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 92.11 for 15 second(s). Max Stacks 12."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Ants feast on the target's Fatigue, replacing it with Poison that deals 182.25 Direct Damage over 18 seconds."
+                    "Each Pym Particle Grants Ant-Man +60.75 Attack Rating for the duration of this Attack. Consume all Pym Particles at the end of the Special Attack.",
+                    "On the second hit, consume all Fatigue Debuffs on the opponent. For each Fatigue consumed, the opponent is inflicted with a Poison Debuff that deals 182.25 damage over 15 second(s) and reduces their health recovery by 30%. Max Stacks 12."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict a Petrify Debuff reducing the potency of Power Gain and Regeneration effects by 10% for 20 second(s). The potency of this Petrify increases by 10% for each Debuff active on the opponent."
                 ]
             }
         },
         "3+3": {
+            "challenger_rating": 60,
             "rank": 3,
-            "prestige": "921",
-            "hp": "4946",
-            "attack": "344",
-            "crit_rate": "538",
-            "crit_dmge": "633",
-            "armor": "115",
-            "block_prof": "3200",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Ant-Man subtly alters his size during combat with precise Pym Gas control, granting a 16 to 59.38% chance for incoming attacks to Glance.",
+            "prestige": 1137,
+            "hp": 4946,
+            "attack": 344,
+            "crit_rate": 538,
+            "crit_dmge": 633,
+            "armor": 115,
+            "block_prof": 3200,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Whenever Ant-Man Glances an attack, he has a 50% chance to inflict a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 600 to 1519.27 for 15 second(s).",
+                "Whenever Ant-Man gains a Pym Particle, he pauses the duration of any personal Fatigue, Poison, or Power Sting Debuffs on the opponent for 2 to 3.51 second(s)."
+            ],
             "url_page": "https://auntm.ai/champions/antman/tier/3",
             "champid": "antman+3+3",
-            "challenger_rating": 60,
             "abilities": {
-                "LIGHT ATTACKS": [
-                    "20% chance to Fatigue the opponent for 15 seconds, lowering their Critical Rating by 94.74."
+                "PASSIVE": [
+                    "Ant-Man is Immune to Poison and Shock effects."
+                ],
+                "PYM PARTICLE - MAX 9": [
+                    "Ant-Man is immune to Buffs. Whenever he would, he instead generates 1 Pym Particle.",
+                    "Whenever Ant-Man's basic attacks intercept the opponent, or strikes them when recovering from a Heavy, he consumes 1 Pym Particle to refresh any personal Fatigue, Poison, and Power Sting Debuffs on the opponent."
+                ],
+                "POWER STING": [
+                    "If Ant-Man has 3 or more Pym Particles, landing a Heavy Attack or being knocked down by a Special Attack consumes 3 Pym Particles to inflict 1 Power Sting Debuff on the opponent lasting 9 second(s). An opponent with Power Sting takes 344 Direct Damage if they activate a Special Attack.",
+                    "Whenever Ant-Man\u2019s personal Power Stings detonate, they also deal a burst of 51.6 Physical Damage for each Debuff on the opponent including the Power Sting."
+                ],
+                "SPECIAL ATTACKS": [
+                    "Whenever Ant-Man activates a Special Attack the opponent is inflicted with a non-stacking Unsteady Debuff lasting 15 seconds, giving their attacks a 100% chance to Glance. Unsteady cannot be activated if the opponent is already under the effect of an Unsteady Debuff.",
+                    "When Unsteady expires this ability goes on a 15 second cooldown before it can be activated again."
+                ],
+                "CHAMPION ATTACKS": [
+                    "While Under the effect of Personal Unsteady Debuffs, Ant-Man Cannot Miss his Opponent."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "On activation gain 3 Pym Particles. Then, if Ant-Man has 9 Pym Particles, this Special Attack is Unblockable.",
+                    "Each hit inflicts a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 94.74 for 15 second(s). Max Stacks 12."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Ants feast on the target's Fatigue, replacing it with Poison that deals 258 Direct Damage over 18 seconds."
+                    "Each Pym Particle Grants Ant-Man +86 Attack Rating for the duration of this Attack. Consume all Pym Particles at the end of the Special Attack.",
+                    "On the second hit, consume all Fatigue Debuffs on the opponent. For each Fatigue consumed, the opponent is inflicted with a Poison Debuff that deals 258 damage over 15 second(s) and reduces their health recovery by 30%. Max Stacks 12."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict a Petrify Debuff reducing the potency of Power Gain and Regeneration effects by 10% for 20 second(s). The potency of this Petrify increases by 10% for each Debuff active on the opponent."
                 ]
             }
         },
         "3+4": {
+            "challenger_rating": 70,
             "rank": 4,
-            "prestige": "1269",
-            "hp": "6851",
-            "attack": "472",
-            "crit_rate": "553",
-            "crit_dmge": "650",
-            "armor": "140",
-            "block_prof": "3289",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Ant-Man subtly alters his size during combat with precise Pym Gas control, granting a 16 to 59.38% chance for incoming attacks to Glance.",
+            "prestige": 1568,
+            "hp": 6851,
+            "attack": 472,
+            "crit_rate": 553,
+            "crit_dmge": 650,
+            "armor": 140,
+            "block_prof": 3289,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Whenever Ant-Man Glances an attack, he has a 50% chance to inflict a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 616.67 to 1561.47 for 15 second(s).",
+                "Whenever Ant-Man gains a Pym Particle, he pauses the duration of any personal Fatigue, Poison, or Power Sting Debuffs on the opponent for 2 to 3.51 second(s)."
+            ],
             "url_page": "https://auntm.ai/champions/antman/tier/3",
             "champid": "antman+3+4",
-            "challenger_rating": 70,
             "abilities": {
-                "LIGHT ATTACKS": [
-                    "20% chance to Fatigue the opponent for 15 seconds, lowering their Critical Rating by 97.37."
+                "PASSIVE": [
+                    "Ant-Man is Immune to Poison and Shock effects."
+                ],
+                "PYM PARTICLE - MAX 9": [
+                    "Ant-Man is immune to Buffs. Whenever he would, he instead generates 1 Pym Particle.",
+                    "Whenever Ant-Man's basic attacks intercept the opponent, or strikes them when recovering from a Heavy, he consumes 1 Pym Particle to refresh any personal Fatigue, Poison, and Power Sting Debuffs on the opponent."
+                ],
+                "POWER STING": [
+                    "If Ant-Man has 3 or more Pym Particles, landing a Heavy Attack or being knocked down by a Special Attack consumes 3 Pym Particles to inflict 1 Power Sting Debuff on the opponent lasting 9 second(s). An opponent with Power Sting takes 472 Direct Damage if they activate a Special Attack.",
+                    "Whenever Ant-Man\u2019s personal Power Stings detonate, they also deal a burst of 70.8 Physical Damage for each Debuff on the opponent including the Power Sting."
+                ],
+                "SPECIAL ATTACKS": [
+                    "Whenever Ant-Man activates a Special Attack the opponent is inflicted with a non-stacking Unsteady Debuff lasting 15 seconds, giving their attacks a 100% chance to Glance. Unsteady cannot be activated if the opponent is already under the effect of an Unsteady Debuff.",
+                    "When Unsteady expires this ability goes on a 15 second cooldown before it can be activated again."
+                ],
+                "CHAMPION ATTACKS": [
+                    "While Under the effect of Personal Unsteady Debuffs, Ant-Man Cannot Miss his Opponent."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "On activation gain 3 Pym Particles. Then, if Ant-Man has 9 Pym Particles, this Special Attack is Unblockable.",
+                    "Each hit inflicts a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 97.37 for 15 second(s). Max Stacks 12."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Ants feast on the target's Fatigue, replacing it with Poison that deals 354 Direct Damage over 18 seconds."
+                    "Each Pym Particle Grants Ant-Man +118 Attack Rating for the duration of this Attack. Consume all Pym Particles at the end of the Special Attack.",
+                    "On the second hit, consume all Fatigue Debuffs on the opponent. For each Fatigue consumed, the opponent is inflicted with a Poison Debuff that deals 354 damage over 15 second(s) and reduces their health recovery by 30%. Max Stacks 12."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict a Petrify Debuff reducing the potency of Power Gain and Regeneration effects by 10% for 20 second(s). The potency of this Petrify increases by 10% for each Debuff active on the opponent."
                 ]
             }
         },
         "4+1": {
+            "challenger_rating": 60,
             "rank": 1,
-            "prestige": "913",
-            "hp": "4898",
-            "attack": "340",
-            "crit_rate": "538",
-            "crit_dmge": "633",
-            "armor": "157",
-            "block_prof": "3200",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Ant-Man subtly alters his size during combat with precise Pym Gas control, granting a 16 to 59.38% chance for incoming attacks to Glance.",
+            "prestige": 1126,
+            "hp": 4898,
+            "attack": 340,
+            "crit_rate": 538,
+            "crit_dmge": 633,
+            "armor": 157,
+            "block_prof": 3200,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Whenever Ant-Man Glances an attack, he has a 50% chance to inflict a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 600 to 1519.27 for 15 second(s).",
+                "Whenever Ant-Man gains a Pym Particle, he pauses the duration of any personal Fatigue, Poison, or Power Sting Debuffs on the opponent for 2 to 3.51 second(s)."
+            ],
             "url_page": "https://auntm.ai/champions/antman/tier/4",
             "champid": "antman+4+1",
-            "challenger_rating": 60,
             "abilities": {
-                "LIGHT ATTACKS": [
-                    "20% chance to Fatigue the opponent for 15 seconds, lowering their Critical Rating by 94.74."
+                "PASSIVE": [
+                    "Ant-Man is Immune to Poison and Shock effects."
+                ],
+                "PYM PARTICLE - MAX 9": [
+                    "Ant-Man is immune to Buffs. Whenever he would, he instead generates 1 Pym Particle.",
+                    "Whenever Ant-Man's basic attacks intercept the opponent, or strikes them when recovering from a Heavy, he consumes 1 Pym Particle to refresh any personal Fatigue, Poison, and Power Sting Debuffs on the opponent."
+                ],
+                "POWER STING": [
+                    "If Ant-Man has 3 or more Pym Particles, landing a Heavy Attack or being knocked down by a Special Attack consumes 3 Pym Particles to inflict 1 Power Sting Debuff on the opponent lasting 9 second(s). An opponent with Power Sting takes 340 Direct Damage if they activate a Special Attack.",
+                    "Whenever Ant-Man\u2019s personal Power Stings detonate, they also deal a burst of 51 Physical Damage for each Debuff on the opponent including the Power Sting."
+                ],
+                "SPECIAL ATTACKS": [
+                    "Whenever Ant-Man activates a Special Attack the opponent is inflicted with a non-stacking Unsteady Debuff lasting 15 seconds, giving their attacks a 100% chance to Glance. Unsteady cannot be activated if the opponent is already under the effect of an Unsteady Debuff.",
+                    "When Unsteady expires this ability goes on a 15 second cooldown before it can be activated again."
+                ],
+                "CHAMPION ATTACKS": [
+                    "While Under the effect of Personal Unsteady Debuffs, Ant-Man Cannot Miss his Opponent."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "On activation gain 3 Pym Particles. Then, if Ant-Man has 9 Pym Particles, this Special Attack is Unblockable.",
+                    "Each hit inflicts a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 94.74 for 15 second(s). Max Stacks 12."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Ants feast on the target's Fatigue, replacing it with Poison that deals 255 Direct Damage over 18 seconds."
+                    "Each Pym Particle Grants Ant-Man +85 Attack Rating for the duration of this Attack. Consume all Pym Particles at the end of the Special Attack.",
+                    "On the second hit, consume all Fatigue Debuffs on the opponent. For each Fatigue consumed, the opponent is inflicted with a Poison Debuff that deals 255 damage over 15 second(s) and reduces their health recovery by 30%. Max Stacks 12."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict a Petrify Debuff reducing the potency of Power Gain and Regeneration effects by 10% for 20 second(s). The potency of this Petrify increases by 10% for each Debuff active on the opponent."
                 ]
             }
         },
         "4+2": {
+            "challenger_rating": 70,
             "rank": 2,
-            "prestige": "1286",
-            "hp": "6932",
-            "attack": "477",
-            "crit_rate": "553",
-            "crit_dmge": "650",
-            "armor": "183",
-            "block_prof": "3289",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Ant-Man subtly alters his size during combat with precise Pym Gas control, granting a 16 to 59.38% chance for incoming attacks to Glance.",
+            "prestige": 1588,
+            "hp": 6932,
+            "attack": 477,
+            "crit_rate": 553,
+            "crit_dmge": 650,
+            "armor": 183,
+            "block_prof": 3289,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Whenever Ant-Man Glances an attack, he has a 50% chance to inflict a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 616.67 to 1561.47 for 15 second(s).",
+                "Whenever Ant-Man gains a Pym Particle, he pauses the duration of any personal Fatigue, Poison, or Power Sting Debuffs on the opponent for 2 to 3.51 second(s)."
+            ],
             "url_page": "https://auntm.ai/champions/antman/tier/4",
             "champid": "antman+4+2",
-            "challenger_rating": 70,
             "abilities": {
-                "LIGHT ATTACKS": [
-                    "20% chance to Fatigue the opponent for 15 seconds, lowering their Critical Rating by 97.37."
+                "PASSIVE": [
+                    "Ant-Man is Immune to Poison and Shock effects."
+                ],
+                "PYM PARTICLE - MAX 9": [
+                    "Ant-Man is immune to Buffs. Whenever he would, he instead generates 1 Pym Particle.",
+                    "Whenever Ant-Man's basic attacks intercept the opponent, or strikes them when recovering from a Heavy, he consumes 1 Pym Particle to refresh any personal Fatigue, Poison, and Power Sting Debuffs on the opponent."
+                ],
+                "POWER STING": [
+                    "If Ant-Man has 3 or more Pym Particles, landing a Heavy Attack or being knocked down by a Special Attack consumes 3 Pym Particles to inflict 1 Power Sting Debuff on the opponent lasting 9 second(s). An opponent with Power Sting takes 477 Direct Damage if they activate a Special Attack.",
+                    "Whenever Ant-Man\u2019s personal Power Stings detonate, they also deal a burst of 71.55 Physical Damage for each Debuff on the opponent including the Power Sting."
+                ],
+                "SPECIAL ATTACKS": [
+                    "Whenever Ant-Man activates a Special Attack the opponent is inflicted with a non-stacking Unsteady Debuff lasting 15 seconds, giving their attacks a 100% chance to Glance. Unsteady cannot be activated if the opponent is already under the effect of an Unsteady Debuff.",
+                    "When Unsteady expires this ability goes on a 15 second cooldown before it can be activated again."
+                ],
+                "CHAMPION ATTACKS": [
+                    "While Under the effect of Personal Unsteady Debuffs, Ant-Man Cannot Miss his Opponent."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "On activation gain 3 Pym Particles. Then, if Ant-Man has 9 Pym Particles, this Special Attack is Unblockable.",
+                    "Each hit inflicts a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 97.37 for 15 second(s). Max Stacks 12."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Ants feast on the target's Fatigue, replacing it with Poison that deals 357.75 Direct Damage over 18 seconds."
+                    "Each Pym Particle Grants Ant-Man +119.25 Attack Rating for the duration of this Attack. Consume all Pym Particles at the end of the Special Attack.",
+                    "On the second hit, consume all Fatigue Debuffs on the opponent. For each Fatigue consumed, the opponent is inflicted with a Poison Debuff that deals 357.75 damage over 15 second(s) and reduces their health recovery by 30%. Max Stacks 12."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict a Petrify Debuff reducing the potency of Power Gain and Regeneration effects by 10% for 20 second(s). The potency of this Petrify increases by 10% for each Debuff active on the opponent."
                 ]
             }
         },
         "4+3": {
+            "challenger_rating": 80,
             "rank": 3,
-            "prestige": "1818",
-            "hp": "9799",
-            "attack": "674",
-            "crit_rate": "568",
-            "crit_dmge": "668",
-            "armor": "212",
-            "block_prof": "3378",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Ant-Man subtly alters his size during combat with precise Pym Gas control, granting a 16 to 59.38% chance for incoming attacks to Glance.",
+            "prestige": 2246,
+            "hp": 9799,
+            "attack": 674,
+            "crit_rate": 568,
+            "crit_dmge": 668,
+            "armor": 212,
+            "block_prof": 3378,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Whenever Ant-Man Glances an attack, he has a 50% chance to inflict a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 633.33 to 1603.67 for 15 second(s).",
+                "Whenever Ant-Man gains a Pym Particle, he pauses the duration of any personal Fatigue, Poison, or Power Sting Debuffs on the opponent for 2 to 3.51 second(s)."
+            ],
             "url_page": "https://auntm.ai/champions/antman/tier/4",
             "champid": "antman+4+3",
-            "challenger_rating": 80,
             "abilities": {
-                "LIGHT ATTACKS": [
-                    "20% chance to Fatigue the opponent for 15 seconds, lowering their Critical Rating by 100."
+                "PASSIVE": [
+                    "Ant-Man is Immune to Poison and Shock effects."
+                ],
+                "PYM PARTICLE - MAX 9": [
+                    "Ant-Man is immune to Buffs. Whenever he would, he instead generates 1 Pym Particle.",
+                    "Whenever Ant-Man's basic attacks intercept the opponent, or strikes them when recovering from a Heavy, he consumes 1 Pym Particle to refresh any personal Fatigue, Poison, and Power Sting Debuffs on the opponent."
+                ],
+                "POWER STING": [
+                    "If Ant-Man has 3 or more Pym Particles, landing a Heavy Attack or being knocked down by a Special Attack consumes 3 Pym Particles to inflict 1 Power Sting Debuff on the opponent lasting 9 second(s). An opponent with Power Sting takes 674 Direct Damage if they activate a Special Attack.",
+                    "Whenever Ant-Man\u2019s personal Power Stings detonate, they also deal a burst of 101.1 Physical Damage for each Debuff on the opponent including the Power Sting."
+                ],
+                "SPECIAL ATTACKS": [
+                    "Whenever Ant-Man activates a Special Attack the opponent is inflicted with a non-stacking Unsteady Debuff lasting 15 seconds, giving their attacks a 100% chance to Glance. Unsteady cannot be activated if the opponent is already under the effect of an Unsteady Debuff.",
+                    "When Unsteady expires this ability goes on a 15 second cooldown before it can be activated again."
+                ],
+                "CHAMPION ATTACKS": [
+                    "While Under the effect of Personal Unsteady Debuffs, Ant-Man Cannot Miss his Opponent."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "On activation gain 3 Pym Particles. Then, if Ant-Man has 9 Pym Particles, this Special Attack is Unblockable.",
+                    "Each hit inflicts a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 100 for 15 second(s). Max Stacks 12."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Ants feast on the target's Fatigue, replacing it with Poison that deals 505.5 Direct Damage over 18 seconds."
+                    "Each Pym Particle Grants Ant-Man +168.5 Attack Rating for the duration of this Attack. Consume all Pym Particles at the end of the Special Attack.",
+                    "On the second hit, consume all Fatigue Debuffs on the opponent. For each Fatigue consumed, the opponent is inflicted with a Poison Debuff that deals 505.5 damage over 15 second(s) and reduces their health recovery by 30%. Max Stacks 12."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict a Petrify Debuff reducing the potency of Power Gain and Regeneration effects by 10% for 20 second(s). The potency of this Petrify increases by 10% for each Debuff active on the opponent."
                 ]
             }
         },
         "4+4": {
+            "challenger_rating": 90,
             "rank": 4,
-            "prestige": "2393",
-            "hp": "12876",
-            "attack": "886",
-            "crit_rate": "583",
-            "crit_dmge": "686",
-            "armor": "242",
-            "block_prof": "3467",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Ant-Man subtly alters his size during combat with precise Pym Gas control, granting a 16 to 59.38% chance for incoming attacks to Glance.",
+            "prestige": 2955,
+            "hp": 12876,
+            "attack": 886,
+            "crit_rate": 583,
+            "crit_dmge": 686,
+            "armor": 242,
+            "block_prof": 3467,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Whenever Ant-Man Glances an attack, he has a 50% chance to inflict a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 650 to 1645.87 for 15 second(s).",
+                "Whenever Ant-Man gains a Pym Particle, he pauses the duration of any personal Fatigue, Poison, or Power Sting Debuffs on the opponent for 2 to 3.51 second(s)."
+            ],
             "url_page": "https://auntm.ai/champions/antman/tier/4",
             "champid": "antman+4+4",
-            "challenger_rating": 90,
             "abilities": {
-                "LIGHT ATTACKS": [
-                    "20% chance to Fatigue the opponent for 15 seconds, lowering their Critical Rating by 102.63."
+                "PASSIVE": [
+                    "Ant-Man is Immune to Poison and Shock effects."
+                ],
+                "PYM PARTICLE - MAX 9": [
+                    "Ant-Man is immune to Buffs. Whenever he would, he instead generates 1 Pym Particle.",
+                    "Whenever Ant-Man's basic attacks intercept the opponent, or strikes them when recovering from a Heavy, he consumes 1 Pym Particle to refresh any personal Fatigue, Poison, and Power Sting Debuffs on the opponent."
+                ],
+                "POWER STING": [
+                    "If Ant-Man has 3 or more Pym Particles, landing a Heavy Attack or being knocked down by a Special Attack consumes 3 Pym Particles to inflict 1 Power Sting Debuff on the opponent lasting 9 second(s). An opponent with Power Sting takes 886 Direct Damage if they activate a Special Attack.",
+                    "Whenever Ant-Man\u2019s personal Power Stings detonate, they also deal a burst of 132.9 Physical Damage for each Debuff on the opponent including the Power Sting."
+                ],
+                "SPECIAL ATTACKS": [
+                    "Whenever Ant-Man activates a Special Attack the opponent is inflicted with a non-stacking Unsteady Debuff lasting 15 seconds, giving their attacks a 100% chance to Glance. Unsteady cannot be activated if the opponent is already under the effect of an Unsteady Debuff.",
+                    "When Unsteady expires this ability goes on a 15 second cooldown before it can be activated again."
+                ],
+                "CHAMPION ATTACKS": [
+                    "While Under the effect of Personal Unsteady Debuffs, Ant-Man Cannot Miss his Opponent."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "On activation gain 3 Pym Particles. Then, if Ant-Man has 9 Pym Particles, this Special Attack is Unblockable.",
+                    "Each hit inflicts a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 102.63 for 15 second(s). Max Stacks 12."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Ants feast on the target's Fatigue, replacing it with Poison that deals 664.5 Direct Damage over 18 seconds."
+                    "Each Pym Particle Grants Ant-Man +221.5 Attack Rating for the duration of this Attack. Consume all Pym Particles at the end of the Special Attack.",
+                    "On the second hit, consume all Fatigue Debuffs on the opponent. For each Fatigue consumed, the opponent is inflicted with a Poison Debuff that deals 664.5 damage over 15 second(s) and reduces their health recovery by 30%. Max Stacks 12."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict a Petrify Debuff reducing the potency of Power Gain and Regeneration effects by 10% for 20 second(s). The potency of this Petrify increases by 10% for each Debuff active on the opponent."
                 ]
             }
         },
         "4+5": {
+            "challenger_rating": 100,
             "rank": 5,
-            "prestige": "3191",
-            "hp": "17180",
-            "attack": "1182",
-            "crit_rate": "598",
-            "crit_dmge": "703",
-            "armor": "273",
-            "block_prof": "3556",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Ant-Man subtly alters his size during combat with precise Pym Gas control, granting a 16 to 59.38% chance for incoming attacks to Glance.",
+            "prestige": 3943,
+            "hp": 17180,
+            "attack": 1182,
+            "crit_rate": 598,
+            "crit_dmge": 703,
+            "armor": 273,
+            "block_prof": 3556,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Whenever Ant-Man Glances an attack, he has a 50% chance to inflict a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 666.67 to 1688.08 for 15 second(s).",
+                "Whenever Ant-Man gains a Pym Particle, he pauses the duration of any personal Fatigue, Poison, or Power Sting Debuffs on the opponent for 2 to 3.51 second(s)."
+            ],
             "url_page": "https://auntm.ai/champions/antman/tier/4",
             "champid": "antman+4+5",
-            "challenger_rating": 100,
             "abilities": {
-                "LIGHT ATTACKS": [
-                    "20% chance to Fatigue the opponent for 15 seconds, lowering their Critical Rating by 105.26."
+                "PASSIVE": [
+                    "Ant-Man is Immune to Poison and Shock effects."
+                ],
+                "PYM PARTICLE - MAX 9": [
+                    "Ant-Man is immune to Buffs. Whenever he would, he instead generates 1 Pym Particle.",
+                    "Whenever Ant-Man's basic attacks intercept the opponent, or strikes them when recovering from a Heavy, he consumes 1 Pym Particle to refresh any personal Fatigue, Poison, and Power Sting Debuffs on the opponent."
+                ],
+                "POWER STING": [
+                    "If Ant-Man has 3 or more Pym Particles, landing a Heavy Attack or being knocked down by a Special Attack consumes 3 Pym Particles to inflict 1 Power Sting Debuff on the opponent lasting 9 second(s). An opponent with Power Sting takes 1182 Direct Damage if they activate a Special Attack.",
+                    "Whenever Ant-Man\u2019s personal Power Stings detonate, they also deal a burst of 177.3 Physical Damage for each Debuff on the opponent including the Power Sting."
+                ],
+                "SPECIAL ATTACKS": [
+                    "Whenever Ant-Man activates a Special Attack the opponent is inflicted with a non-stacking Unsteady Debuff lasting 15 seconds, giving their attacks a 100% chance to Glance. Unsteady cannot be activated if the opponent is already under the effect of an Unsteady Debuff.",
+                    "When Unsteady expires this ability goes on a 15 second cooldown before it can be activated again."
+                ],
+                "CHAMPION ATTACKS": [
+                    "While Under the effect of Personal Unsteady Debuffs, Ant-Man Cannot Miss his Opponent."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "On activation gain 3 Pym Particles. Then, if Ant-Man has 9 Pym Particles, this Special Attack is Unblockable.",
+                    "Each hit inflicts a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 105.26 for 15 second(s). Max Stacks 12."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Ants feast on the target's Fatigue, replacing it with Poison that deals 886.5 Direct Damage over 18 seconds."
+                    "Each Pym Particle Grants Ant-Man +295.5 Attack Rating for the duration of this Attack. Consume all Pym Particles at the end of the Special Attack.",
+                    "On the second hit, consume all Fatigue Debuffs on the opponent. For each Fatigue consumed, the opponent is inflicted with a Poison Debuff that deals 886.5 damage over 15 second(s) and reduces their health recovery by 30%. Max Stacks 12."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict a Petrify Debuff reducing the potency of Power Gain and Regeneration effects by 10% for 20 second(s). The potency of this Petrify increases by 10% for each Debuff active on the opponent."
                 ]
             }
         },
         "5+1": {
+            "challenger_rating": 80,
             "rank": 1,
-            "prestige": "1900",
-            "hp": "10162",
-            "attack": "705",
-            "crit_rate": "568",
-            "crit_dmge": "668",
-            "armor": "362",
-            "block_prof": "3378",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Ant-Man subtly alters his size during combat with precise Pym Gas control, granting a 18 to 62.97% chance for incoming attacks to Glance.",
+            "prestige": 2345,
+            "hp": 10162,
+            "attack": 705,
+            "crit_rate": 568,
+            "crit_dmge": 668,
+            "armor": 362,
+            "block_prof": 3378,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Whenever Ant-Man Glances an attack, he has a 50% chance to inflict a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 633.33 to 1935.77 for 15 second(s).",
+                "Whenever Ant-Man gains a Pym Particle, he pauses the duration of any personal Fatigue, Poison, or Power Sting Debuffs on the opponent for 2.45 to 4 second(s)."
+            ],
             "url_page": "https://auntm.ai/champions/antman/tier/5",
             "champid": "antman+5+1",
-            "challenger_rating": 80,
             "abilities": {
-                "LIGHT ATTACKS": [
-                    "20% chance to Fatigue the opponent for 15 seconds, lowering their Critical Rating by 100."
+                "PASSIVE": [
+                    "Ant-Man is Immune to Poison and Shock effects."
+                ],
+                "PYM PARTICLE - MAX 9": [
+                    "Ant-Man is immune to Buffs. Whenever he would, he instead generates 1 Pym Particle.",
+                    "Whenever Ant-Man's basic attacks intercept the opponent, or strikes them when recovering from a Heavy, he consumes 1 Pym Particle to refresh any personal Fatigue, Poison, and Power Sting Debuffs on the opponent."
+                ],
+                "POWER STING": [
+                    "If Ant-Man has 3 or more Pym Particles, landing a Heavy Attack or being knocked down by a Special Attack consumes 3 Pym Particles to inflict 1 Power Sting Debuff on the opponent lasting 9 second(s). An opponent with Power Sting takes 705 Direct Damage if they activate a Special Attack.",
+                    "Whenever Ant-Man\u2019s personal Power Stings detonate, they also deal a burst of 105.75 Physical Damage for each Debuff on the opponent including the Power Sting."
+                ],
+                "SPECIAL ATTACKS": [
+                    "Whenever Ant-Man activates a Special Attack the opponent is inflicted with a non-stacking Unsteady Debuff lasting 15 seconds, giving their attacks a 100% chance to Glance. Unsteady cannot be activated if the opponent is already under the effect of an Unsteady Debuff.",
+                    "When Unsteady expires this ability goes on a 15 second cooldown before it can be activated again."
+                ],
+                "CHAMPION ATTACKS": [
+                    "While Under the effect of Personal Unsteady Debuffs, Ant-Man Cannot Miss his Opponent."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "On activation gain 3 Pym Particles. Then, if Ant-Man has 9 Pym Particles, this Special Attack is Unblockable.",
+                    "Each hit inflicts a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 100 for 15 second(s). Max Stacks 12."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Ants feast on the target's Fatigue, replacing it with Poison that deals 528.75 Direct Damage over 18 seconds."
+                    "Each Pym Particle Grants Ant-Man +176.25 Attack Rating for the duration of this Attack. Consume all Pym Particles at the end of the Special Attack.",
+                    "On the second hit, consume all Fatigue Debuffs on the opponent. For each Fatigue consumed, the opponent is inflicted with a Poison Debuff that deals 528.75 damage over 15 second(s) and reduces their health recovery by 30%. Max Stacks 12."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict a Petrify Debuff reducing the potency of Power Gain and Regeneration effects by 10% for 20 second(s). The potency of this Petrify increases by 10% for each Debuff active on the opponent."
                 ]
             }
         },
         "5+2": {
+            "challenger_rating": 90,
             "rank": 2,
-            "prestige": "2522",
-            "hp": "13543",
-            "attack": "932",
-            "crit_rate": "583",
-            "crit_dmge": "686",
-            "armor": "400",
-            "block_prof": "3467",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Ant-Man subtly alters his size during combat with precise Pym Gas control, granting a 18 to 62.97% chance for incoming attacks to Glance.",
+            "prestige": 3116,
+            "hp": 13543,
+            "attack": 932,
+            "crit_rate": 583,
+            "crit_dmge": 686,
+            "armor": 400,
+            "block_prof": 3467,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Whenever Ant-Man Glances an attack, he has a 50% chance to inflict a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 650 to 1986.71 for 15 second(s).",
+                "Whenever Ant-Man gains a Pym Particle, he pauses the duration of any personal Fatigue, Poison, or Power Sting Debuffs on the opponent for 2.45 to 4 second(s)."
+            ],
             "url_page": "https://auntm.ai/champions/antman/tier/5",
             "champid": "antman+5+2",
-            "challenger_rating": 90,
             "abilities": {
-                "LIGHT ATTACKS": [
-                    "20% chance to Fatigue the opponent for 15 seconds, lowering their Critical Rating by 102.63."
+                "PASSIVE": [
+                    "Ant-Man is Immune to Poison and Shock effects."
+                ],
+                "PYM PARTICLE - MAX 9": [
+                    "Ant-Man is immune to Buffs. Whenever he would, he instead generates 1 Pym Particle.",
+                    "Whenever Ant-Man's basic attacks intercept the opponent, or strikes them when recovering from a Heavy, he consumes 1 Pym Particle to refresh any personal Fatigue, Poison, and Power Sting Debuffs on the opponent."
+                ],
+                "POWER STING": [
+                    "If Ant-Man has 3 or more Pym Particles, landing a Heavy Attack or being knocked down by a Special Attack consumes 3 Pym Particles to inflict 1 Power Sting Debuff on the opponent lasting 9 second(s). An opponent with Power Sting takes 932 Direct Damage if they activate a Special Attack.",
+                    "Whenever Ant-Man\u2019s personal Power Stings detonate, they also deal a burst of 139.8 Physical Damage for each Debuff on the opponent including the Power Sting."
+                ],
+                "SPECIAL ATTACKS": [
+                    "Whenever Ant-Man activates a Special Attack the opponent is inflicted with a non-stacking Unsteady Debuff lasting 15 seconds, giving their attacks a 100% chance to Glance. Unsteady cannot be activated if the opponent is already under the effect of an Unsteady Debuff.",
+                    "When Unsteady expires this ability goes on a 15 second cooldown before it can be activated again."
+                ],
+                "CHAMPION ATTACKS": [
+                    "While Under the effect of Personal Unsteady Debuffs, Ant-Man Cannot Miss his Opponent."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "On activation gain 3 Pym Particles. Then, if Ant-Man has 9 Pym Particles, this Special Attack is Unblockable.",
+                    "Each hit inflicts a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 102.63 for 15 second(s). Max Stacks 12."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Ants feast on the target's Fatigue, replacing it with Poison that deals 699 Direct Damage over 18 seconds."
+                    "Each Pym Particle Grants Ant-Man +233 Attack Rating for the duration of this Attack. Consume all Pym Particles at the end of the Special Attack.",
+                    "On the second hit, consume all Fatigue Debuffs on the opponent. For each Fatigue consumed, the opponent is inflicted with a Poison Debuff that deals 699 damage over 15 second(s) and reduces their health recovery by 30%. Max Stacks 12."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict a Petrify Debuff reducing the potency of Power Gain and Regeneration effects by 10% for 20 second(s). The potency of this Petrify increases by 10% for each Debuff active on the opponent."
                 ]
             }
         },
         "5+3": {
+            "challenger_rating": 100,
             "rank": 3,
-            "prestige": "3532",
-            "hp": "18933",
-            "attack": "1302",
-            "crit_rate": "598",
-            "crit_dmge": "703",
-            "armor": "440",
-            "block_prof": "3556",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Ant-Man subtly alters his size during combat with precise Pym Gas control, granting a 18 to 62.97% chance for incoming attacks to Glance.",
+            "prestige": 4362,
+            "hp": 18933,
+            "attack": 1302,
+            "crit_rate": 598,
+            "crit_dmge": 703,
+            "armor": 440,
+            "block_prof": 3556,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Whenever Ant-Man Glances an attack, he has a 50% chance to inflict a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 666.67 to 2037.66 for 15 second(s).",
+                "Whenever Ant-Man gains a Pym Particle, he pauses the duration of any personal Fatigue, Poison, or Power Sting Debuffs on the opponent for 2.45 to 4 second(s)."
+            ],
             "url_page": "https://auntm.ai/champions/antman/tier/5",
             "champid": "antman+5+3",
-            "challenger_rating": 100,
             "abilities": {
-                "LIGHT ATTACKS": [
-                    "20% chance to Fatigue the opponent for 15 seconds, lowering their Critical Rating by 105.26."
+                "PASSIVE": [
+                    "Ant-Man is Immune to Poison and Shock effects."
+                ],
+                "PYM PARTICLE - MAX 9": [
+                    "Ant-Man is immune to Buffs. Whenever he would, he instead generates 1 Pym Particle.",
+                    "Whenever Ant-Man's basic attacks intercept the opponent, or strikes them when recovering from a Heavy, he consumes 1 Pym Particle to refresh any personal Fatigue, Poison, and Power Sting Debuffs on the opponent."
+                ],
+                "POWER STING": [
+                    "If Ant-Man has 3 or more Pym Particles, landing a Heavy Attack or being knocked down by a Special Attack consumes 3 Pym Particles to inflict 1 Power Sting Debuff on the opponent lasting 9 second(s). An opponent with Power Sting takes 1302 Direct Damage if they activate a Special Attack.",
+                    "Whenever Ant-Man\u2019s personal Power Stings detonate, they also deal a burst of 195.3 Physical Damage for each Debuff on the opponent including the Power Sting."
+                ],
+                "SPECIAL ATTACKS": [
+                    "Whenever Ant-Man activates a Special Attack the opponent is inflicted with a non-stacking Unsteady Debuff lasting 15 seconds, giving their attacks a 100% chance to Glance. Unsteady cannot be activated if the opponent is already under the effect of an Unsteady Debuff.",
+                    "When Unsteady expires this ability goes on a 15 second cooldown before it can be activated again."
+                ],
+                "CHAMPION ATTACKS": [
+                    "While Under the effect of Personal Unsteady Debuffs, Ant-Man Cannot Miss his Opponent."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "On activation gain 3 Pym Particles. Then, if Ant-Man has 9 Pym Particles, this Special Attack is Unblockable.",
+                    "Each hit inflicts a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 105.26 for 15 second(s). Max Stacks 12."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Ants feast on the target's Fatigue, replacing it with Poison that deals 976.5 Direct Damage over 18 seconds."
+                    "Each Pym Particle Grants Ant-Man +325.5 Attack Rating for the duration of this Attack. Consume all Pym Particles at the end of the Special Attack.",
+                    "On the second hit, consume all Fatigue Debuffs on the opponent. For each Fatigue consumed, the opponent is inflicted with a Poison Debuff that deals 976.5 damage over 15 second(s) and reduces their health recovery by 30%. Max Stacks 12."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict a Petrify Debuff reducing the potency of Power Gain and Regeneration effects by 10% for 20 second(s). The potency of this Petrify increases by 10% for each Debuff active on the opponent."
                 ]
             }
         },
         "5+4": {
+            "challenger_rating": 110,
             "rank": 4,
-            "prestige": "4757",
-            "hp": "25513",
-            "attack": "1755",
-            "crit_rate": "613",
-            "crit_dmge": "721",
-            "armor": "481",
-            "block_prof": "3645",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Ant-Man subtly alters his size during combat with precise Pym Gas control, granting a 18 to 62.97% chance for incoming attacks to Glance.",
+            "prestige": 5876,
+            "hp": 25513,
+            "attack": 1755,
+            "crit_rate": 613,
+            "crit_dmge": 721,
+            "armor": 481,
+            "block_prof": 3645,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Whenever Ant-Man Glances an attack, he has a 50% chance to inflict a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 683.33 to 2088.6 for 15 second(s).",
+                "Whenever Ant-Man gains a Pym Particle, he pauses the duration of any personal Fatigue, Poison, or Power Sting Debuffs on the opponent for 2.45 to 4 second(s)."
+            ],
             "url_page": "https://auntm.ai/champions/antman/tier/5",
             "champid": "antman+5+4",
-            "challenger_rating": 110,
             "abilities": {
-                "LIGHT ATTACKS": [
-                    "20% chance to Fatigue the opponent for 15 seconds, lowering their Critical Rating by 107.89."
+                "PASSIVE": [
+                    "Ant-Man is Immune to Poison and Shock effects."
+                ],
+                "PYM PARTICLE - MAX 9": [
+                    "Ant-Man is immune to Buffs. Whenever he would, he instead generates 1 Pym Particle.",
+                    "Whenever Ant-Man's basic attacks intercept the opponent, or strikes them when recovering from a Heavy, he consumes 1 Pym Particle to refresh any personal Fatigue, Poison, and Power Sting Debuffs on the opponent."
+                ],
+                "POWER STING": [
+                    "If Ant-Man has 3 or more Pym Particles, landing a Heavy Attack or being knocked down by a Special Attack consumes 3 Pym Particles to inflict 1 Power Sting Debuff on the opponent lasting 9 second(s). An opponent with Power Sting takes 1755 Direct Damage if they activate a Special Attack.",
+                    "Whenever Ant-Man\u2019s personal Power Stings detonate, they also deal a burst of 263.25 Physical Damage for each Debuff on the opponent including the Power Sting."
+                ],
+                "SPECIAL ATTACKS": [
+                    "Whenever Ant-Man activates a Special Attack the opponent is inflicted with a non-stacking Unsteady Debuff lasting 15 seconds, giving their attacks a 100% chance to Glance. Unsteady cannot be activated if the opponent is already under the effect of an Unsteady Debuff.",
+                    "When Unsteady expires this ability goes on a 15 second cooldown before it can be activated again."
+                ],
+                "CHAMPION ATTACKS": [
+                    "While Under the effect of Personal Unsteady Debuffs, Ant-Man Cannot Miss his Opponent."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "On activation gain 3 Pym Particles. Then, if Ant-Man has 9 Pym Particles, this Special Attack is Unblockable.",
+                    "Each hit inflicts a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 107.89 for 15 second(s). Max Stacks 12."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Ants feast on the target's Fatigue, replacing it with Poison that deals 1316.25 Direct Damage over 18 seconds."
+                    "Each Pym Particle Grants Ant-Man +438.75 Attack Rating for the duration of this Attack. Consume all Pym Particles at the end of the Special Attack.",
+                    "On the second hit, consume all Fatigue Debuffs on the opponent. For each Fatigue consumed, the opponent is inflicted with a Poison Debuff that deals 1316.25 damage over 15 second(s) and reduces their health recovery by 30%. Max Stacks 12."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict a Petrify Debuff reducing the potency of Power Gain and Regeneration effects by 10% for 20 second(s). The potency of this Petrify increases by 10% for each Debuff active on the opponent."
                 ]
             }
         },
         "5+5": {
+            "challenger_rating": 120,
             "rank": 5,
-            "prestige": "6436",
-            "hp": "34447",
-            "attack": "2369",
-            "crit_rate": "628",
-            "crit_dmge": "738",
-            "armor": "525",
-            "block_prof": "3734",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Ant-Man subtly alters his size during combat with precise Pym Gas control, granting a 18 to 62.97% chance for incoming attacks to Glance.",
+            "prestige": 7950,
+            "hp": 34447,
+            "attack": 2369,
+            "crit_rate": 628,
+            "crit_dmge": 738,
+            "armor": 525,
+            "block_prof": 3734,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Whenever Ant-Man Glances an attack, he has a 50% chance to inflict a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 700 to 2139.54 for 15 second(s).",
+                "Whenever Ant-Man gains a Pym Particle, he pauses the duration of any personal Fatigue, Poison, or Power Sting Debuffs on the opponent for 2.45 to 4 second(s)."
+            ],
             "url_page": "https://auntm.ai/champions/antman/tier/5",
             "champid": "antman+5+5",
-            "challenger_rating": 120,
             "abilities": {
-                "LIGHT ATTACKS": [
-                    "20% chance to Fatigue the opponent for 15 seconds, lowering their Critical Rating by 110.53."
+                "PASSIVE": [
+                    "Ant-Man is Immune to Poison and Shock effects."
+                ],
+                "PYM PARTICLE - MAX 9": [
+                    "Ant-Man is immune to Buffs. Whenever he would, he instead generates 1 Pym Particle.",
+                    "Whenever Ant-Man's basic attacks intercept the opponent, or strikes them when recovering from a Heavy, he consumes 1 Pym Particle to refresh any personal Fatigue, Poison, and Power Sting Debuffs on the opponent."
+                ],
+                "POWER STING": [
+                    "If Ant-Man has 3 or more Pym Particles, landing a Heavy Attack or being knocked down by a Special Attack consumes 3 Pym Particles to inflict 1 Power Sting Debuff on the opponent lasting 9 second(s). An opponent with Power Sting takes 2369 Direct Damage if they activate a Special Attack.",
+                    "Whenever Ant-Man\u2019s personal Power Stings detonate, they also deal a burst of 355.35 Physical Damage for each Debuff on the opponent including the Power Sting."
+                ],
+                "SPECIAL ATTACKS": [
+                    "Whenever Ant-Man activates a Special Attack the opponent is inflicted with a non-stacking Unsteady Debuff lasting 15 seconds, giving their attacks a 100% chance to Glance. Unsteady cannot be activated if the opponent is already under the effect of an Unsteady Debuff.",
+                    "When Unsteady expires this ability goes on a 15 second cooldown before it can be activated again."
+                ],
+                "CHAMPION ATTACKS": [
+                    "While Under the effect of Personal Unsteady Debuffs, Ant-Man Cannot Miss his Opponent."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "On activation gain 3 Pym Particles. Then, if Ant-Man has 9 Pym Particles, this Special Attack is Unblockable.",
+                    "Each hit inflicts a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 110.53 for 15 second(s). Max Stacks 12."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Ants feast on the target's Fatigue, replacing it with Poison that deals 1776.75 Direct Damage over 18 seconds."
+                    "Each Pym Particle Grants Ant-Man +592.25 Attack Rating for the duration of this Attack. Consume all Pym Particles at the end of the Special Attack.",
+                    "On the second hit, consume all Fatigue Debuffs on the opponent. For each Fatigue consumed, the opponent is inflicted with a Poison Debuff that deals 1776.75 damage over 15 second(s) and reduces their health recovery by 30%. Max Stacks 12."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict a Petrify Debuff reducing the potency of Power Gain and Regeneration effects by 10% for 20 second(s). The potency of this Petrify increases by 10% for each Debuff active on the opponent."
                 ]
             }
         },
         "6+1": {
+            "challenger_rating": 110,
             "rank": 1,
-            "prestige": "5016",
-            "hp": "26846",
-            "attack": "1863",
-            "crit_rate": "613",
-            "crit_dmge": "721",
-            "armor": "391",
-            "block_prof": "3645",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Ant-Man subtly alters his size during combat with precise Pym Gas control, granting a 18 to 62.97% chance for incoming attacks to Glance.",
+            "prestige": 6196,
+            "hp": 26846,
+            "attack": 1863,
+            "crit_rate": 613,
+            "crit_dmge": 721,
+            "armor": 391,
+            "block_prof": 3645,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Whenever Ant-Man Glances an attack, he has a 50% chance to inflict a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 683.33 to 2088.6 for 15 second(s).",
+                "Whenever Ant-Man gains a Pym Particle, he pauses the duration of any personal Fatigue, Poison, or Power Sting Debuffs on the opponent for 2.45 to 4 second(s)."
+            ],
             "url_page": "https://auntm.ai/champions/antman/tier/6",
             "champid": "antman+6+1",
-            "challenger_rating": 110,
             "abilities": {
-                "LIGHT ATTACKS": [
-                    "20% chance to Fatigue the opponent for 15 seconds, lowering their Critical Rating by 107.89."
+                "PASSIVE": [
+                    "Ant-Man is Immune to Poison and Shock effects."
+                ],
+                "PYM PARTICLE - MAX 9": [
+                    "Ant-Man is immune to Buffs. Whenever he would, he instead generates 1 Pym Particle.",
+                    "Whenever Ant-Man's basic attacks intercept the opponent, or strikes them when recovering from a Heavy, he consumes 1 Pym Particle to refresh any personal Fatigue, Poison, and Power Sting Debuffs on the opponent."
+                ],
+                "POWER STING": [
+                    "If Ant-Man has 3 or more Pym Particles, landing a Heavy Attack or being knocked down by a Special Attack consumes 3 Pym Particles to inflict 1 Power Sting Debuff on the opponent lasting 9 second(s). An opponent with Power Sting takes 1863 Direct Damage if they activate a Special Attack.",
+                    "Whenever Ant-Man\u2019s personal Power Stings detonate, they also deal a burst of 279.45 Physical Damage for each Debuff on the opponent including the Power Sting."
+                ],
+                "SPECIAL ATTACKS": [
+                    "Whenever Ant-Man activates a Special Attack the opponent is inflicted with a non-stacking Unsteady Debuff lasting 15 seconds, giving their attacks a 100% chance to Glance. Unsteady cannot be activated if the opponent is already under the effect of an Unsteady Debuff.",
+                    "When Unsteady expires this ability goes on a 15 second cooldown before it can be activated again."
+                ],
+                "CHAMPION ATTACKS": [
+                    "While Under the effect of Personal Unsteady Debuffs, Ant-Man Cannot Miss his Opponent."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "On activation gain 3 Pym Particles. Then, if Ant-Man has 9 Pym Particles, this Special Attack is Unblockable.",
+                    "Each hit inflicts a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 107.89 for 15 second(s). Max Stacks 12."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Ants feast on the target's Fatigue, replacing it with Poison that deals 1397.25 Direct Damage over 18 seconds."
+                    "Each Pym Particle Grants Ant-Man +465.75 Attack Rating for the duration of this Attack. Consume all Pym Particles at the end of the Special Attack.",
+                    "On the second hit, consume all Fatigue Debuffs on the opponent. For each Fatigue consumed, the opponent is inflicted with a Poison Debuff that deals 1397.25 damage over 15 second(s) and reduces their health recovery by 30%. Max Stacks 12."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict a Petrify Debuff reducing the potency of Power Gain and Regeneration effects by 10% for 20 second(s). The potency of this Petrify increases by 10% for each Debuff active on the opponent."
                 ]
             }
         },
         "6+2": {
+            "challenger_rating": 120,
             "rank": 2,
-            "prestige": "6960",
-            "hp": "37414",
-            "attack": "2573",
-            "crit_rate": "628",
-            "crit_dmge": "738",
-            "armor": "431",
-            "block_prof": "3734",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Ant-Man subtly alters his size during combat with precise Pym Gas control, granting a 18 to 62.97% chance for incoming attacks to Glance.",
+            "prestige": 8597,
+            "hp": 37414,
+            "attack": 2573,
+            "crit_rate": 628,
+            "crit_dmge": 738,
+            "armor": 431,
+            "block_prof": 3734,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Whenever Ant-Man Glances an attack, he has a 50% chance to inflict a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 700 to 2139.54 for 15 second(s).",
+                "Whenever Ant-Man gains a Pym Particle, he pauses the duration of any personal Fatigue, Poison, or Power Sting Debuffs on the opponent for 2.45 to 4 second(s)."
+            ],
             "url_page": "https://auntm.ai/champions/antman/tier/6",
             "champid": "antman+6+2",
-            "challenger_rating": 120,
             "abilities": {
-                "LIGHT ATTACKS": [
-                    "20% chance to Fatigue the opponent for 15 seconds, lowering their Critical Rating by 110.53."
+                "PASSIVE": [
+                    "Ant-Man is Immune to Poison and Shock effects."
+                ],
+                "PYM PARTICLE - MAX 9": [
+                    "Ant-Man is immune to Buffs. Whenever he would, he instead generates 1 Pym Particle.",
+                    "Whenever Ant-Man's basic attacks intercept the opponent, or strikes them when recovering from a Heavy, he consumes 1 Pym Particle to refresh any personal Fatigue, Poison, and Power Sting Debuffs on the opponent."
+                ],
+                "POWER STING": [
+                    "If Ant-Man has 3 or more Pym Particles, landing a Heavy Attack or being knocked down by a Special Attack consumes 3 Pym Particles to inflict 1 Power Sting Debuff on the opponent lasting 9 second(s). An opponent with Power Sting takes 2573 Direct Damage if they activate a Special Attack.",
+                    "Whenever Ant-Man\u2019s personal Power Stings detonate, they also deal a burst of 385.95 Physical Damage for each Debuff on the opponent including the Power Sting."
+                ],
+                "SPECIAL ATTACKS": [
+                    "Whenever Ant-Man activates a Special Attack the opponent is inflicted with a non-stacking Unsteady Debuff lasting 15 seconds, giving their attacks a 100% chance to Glance. Unsteady cannot be activated if the opponent is already under the effect of an Unsteady Debuff.",
+                    "When Unsteady expires this ability goes on a 15 second cooldown before it can be activated again."
+                ],
+                "CHAMPION ATTACKS": [
+                    "While Under the effect of Personal Unsteady Debuffs, Ant-Man Cannot Miss his Opponent."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "On activation gain 3 Pym Particles. Then, if Ant-Man has 9 Pym Particles, this Special Attack is Unblockable.",
+                    "Each hit inflicts a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 110.53 for 15 second(s). Max Stacks 12."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Ants feast on the target's Fatigue, replacing it with Poison that deals 1929.75 Direct Damage over 18 seconds."
+                    "Each Pym Particle Grants Ant-Man +643.25 Attack Rating for the duration of this Attack. Consume all Pym Particles at the end of the Special Attack.",
+                    "On the second hit, consume all Fatigue Debuffs on the opponent. For each Fatigue consumed, the opponent is inflicted with a Poison Debuff that deals 1929.75 damage over 15 second(s) and reduces their health recovery by 30%. Max Stacks 12."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict a Petrify Debuff reducing the potency of Power Gain and Regeneration effects by 10% for 20 second(s). The potency of this Petrify increases by 10% for each Debuff active on the opponent."
                 ]
             }
         },
         "6+3": {
+            "challenger_rating": 130,
             "rank": 3,
-            "prestige": "8274",
-            "hp": "44386",
-            "attack": "3052",
-            "crit_rate": "643",
-            "crit_dmge": "756",
-            "armor": "472",
-            "block_prof": "3823",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Ant-Man subtly alters his size during combat with precise Pym Gas control, granting a 18 to 62.97% chance for incoming attacks to Glance.",
+            "prestige": 10219,
+            "hp": 44386,
+            "attack": 3052,
+            "crit_rate": 643,
+            "crit_dmge": 756,
+            "armor": 472,
+            "block_prof": 3823,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Whenever Ant-Man Glances an attack, he has a 50% chance to inflict a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 716.67 to 2190.48 for 15 second(s).",
+                "Whenever Ant-Man gains a Pym Particle, he pauses the duration of any personal Fatigue, Poison, or Power Sting Debuffs on the opponent for 2.45 to 4 second(s)."
+            ],
             "url_page": "https://auntm.ai/champions/antman/tier/6",
             "champid": "antman+6+3",
-            "challenger_rating": 130,
             "abilities": {
-                "LIGHT ATTACKS": [
-                    "20% chance to Fatigue the opponent for 15 seconds, lowering their Critical Rating by 113.16."
+                "PASSIVE": [
+                    "Ant-Man is Immune to Poison and Shock effects."
+                ],
+                "PYM PARTICLE - MAX 9": [
+                    "Ant-Man is immune to Buffs. Whenever he would, he instead generates 1 Pym Particle.",
+                    "Whenever Ant-Man's basic attacks intercept the opponent, or strikes them when recovering from a Heavy, he consumes 1 Pym Particle to refresh any personal Fatigue, Poison, and Power Sting Debuffs on the opponent."
+                ],
+                "POWER STING": [
+                    "If Ant-Man has 3 or more Pym Particles, landing a Heavy Attack or being knocked down by a Special Attack consumes 3 Pym Particles to inflict 1 Power Sting Debuff on the opponent lasting 9 second(s). An opponent with Power Sting takes 3052 Direct Damage if they activate a Special Attack.",
+                    "Whenever Ant-Man\u2019s personal Power Stings detonate, they also deal a burst of 457.8 Physical Damage for each Debuff on the opponent including the Power Sting."
+                ],
+                "SPECIAL ATTACKS": [
+                    "Whenever Ant-Man activates a Special Attack the opponent is inflicted with a non-stacking Unsteady Debuff lasting 15 seconds, giving their attacks a 100% chance to Glance. Unsteady cannot be activated if the opponent is already under the effect of an Unsteady Debuff.",
+                    "When Unsteady expires this ability goes on a 15 second cooldown before it can be activated again."
+                ],
+                "CHAMPION ATTACKS": [
+                    "While Under the effect of Personal Unsteady Debuffs, Ant-Man Cannot Miss his Opponent."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "On activation gain 3 Pym Particles. Then, if Ant-Man has 9 Pym Particles, this Special Attack is Unblockable.",
+                    "Each hit inflicts a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 113.16 for 15 second(s). Max Stacks 12."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Ants feast on the target's Fatigue, replacing it with Poison that deals 2289 Direct Damage over 18 seconds."
+                    "Each Pym Particle Grants Ant-Man +763 Attack Rating for the duration of this Attack. Consume all Pym Particles at the end of the Special Attack.",
+                    "On the second hit, consume all Fatigue Debuffs on the opponent. For each Fatigue consumed, the opponent is inflicted with a Poison Debuff that deals 2289 damage over 15 second(s) and reduces their health recovery by 30%. Max Stacks 12."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict a Petrify Debuff reducing the potency of Power Gain and Regeneration effects by 10% for 20 second(s). The potency of this Petrify increases by 10% for each Debuff active on the opponent."
                 ]
             }
         },
         "6+4": {
+            "challenger_rating": 140,
             "rank": 4,
-            "prestige": "9468",
-            "hp": "50793",
-            "attack": "3493",
-            "crit_rate": "658",
-            "crit_dmge": "773",
-            "armor": "517",
-            "block_prof": "3912",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Ant-Man subtly alters his size during combat with precise Pym Gas control, granting a 18 to 62.97% chance for incoming attacks to Glance.",
+            "prestige": 11695,
+            "hp": 50793,
+            "attack": 3493,
+            "crit_rate": 658,
+            "crit_dmge": 773,
+            "armor": 517,
+            "block_prof": 3912,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Whenever Ant-Man Glances an attack, he has a 50% chance to inflict a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 733.33 to 2241.42 for 15 second(s).",
+                "Whenever Ant-Man gains a Pym Particle, he pauses the duration of any personal Fatigue, Poison, or Power Sting Debuffs on the opponent for 2.45 to 4 second(s)."
+            ],
             "url_page": "https://auntm.ai/champions/antman/tier/6",
             "champid": "antman+6+4",
-            "challenger_rating": 140,
             "abilities": {
-                "LIGHT ATTACKS": [
-                    "20% chance to Fatigue the opponent for 15 seconds, lowering their Critical Rating by 115.79."
+                "PASSIVE": [
+                    "Ant-Man is Immune to Poison and Shock effects."
+                ],
+                "PYM PARTICLE - MAX 9": [
+                    "Ant-Man is immune to Buffs. Whenever he would, he instead generates 1 Pym Particle.",
+                    "Whenever Ant-Man's basic attacks intercept the opponent, or strikes them when recovering from a Heavy, he consumes 1 Pym Particle to refresh any personal Fatigue, Poison, and Power Sting Debuffs on the opponent."
+                ],
+                "POWER STING": [
+                    "If Ant-Man has 3 or more Pym Particles, landing a Heavy Attack or being knocked down by a Special Attack consumes 3 Pym Particles to inflict 1 Power Sting Debuff on the opponent lasting 9 second(s). An opponent with Power Sting takes 3493 Direct Damage if they activate a Special Attack.",
+                    "Whenever Ant-Man\u2019s personal Power Stings detonate, they also deal a burst of 523.95 Physical Damage for each Debuff on the opponent including the Power Sting."
+                ],
+                "SPECIAL ATTACKS": [
+                    "Whenever Ant-Man activates a Special Attack the opponent is inflicted with a non-stacking Unsteady Debuff lasting 15 seconds, giving their attacks a 100% chance to Glance. Unsteady cannot be activated if the opponent is already under the effect of an Unsteady Debuff.",
+                    "When Unsteady expires this ability goes on a 15 second cooldown before it can be activated again."
+                ],
+                "CHAMPION ATTACKS": [
+                    "While Under the effect of Personal Unsteady Debuffs, Ant-Man Cannot Miss his Opponent."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "On activation gain 3 Pym Particles. Then, if Ant-Man has 9 Pym Particles, this Special Attack is Unblockable.",
+                    "Each hit inflicts a Fatigue Debuff lowering the opponent\u2019s Crit Rating by 115.79 for 15 second(s). Max Stacks 12."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Ants feast on the target's Fatigue, replacing it with Poison that deals 2619.75 Direct Damage over 18 seconds."
+                    "Each Pym Particle Grants Ant-Man +873.25 Attack Rating for the duration of this Attack. Consume all Pym Particles at the end of the Special Attack.",
+                    "On the second hit, consume all Fatigue Debuffs on the opponent. For each Fatigue consumed, the opponent is inflicted with a Poison Debuff that deals 2619.75 damage over 15 second(s) and reduces their health recovery by 30%. Max Stacks 12."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict a Petrify Debuff reducing the potency of Power Gain and Regeneration effects by 10% for 20 second(s). The potency of this Petrify increases by 10% for each Debuff active on the opponent."
                 ]
             }
         },
@@ -558,15 +1104,12 @@
                     "4.4.2",
                     "4.4.3",
                     "4.4.4",
-                    "4.4.5",
-                    "4.4.6"
+                    "4.4.5"
                 ],
                 "act_5": [
-                    "5.1.1",
                     "5.1.2",
                     "5.1.3",
                     "5.1.4",
-                    "5.2.1",
                     "5.2.3",
                     "5.2.4",
                     "5.3.1",
@@ -583,7 +1126,6 @@
                 "act_6": [
                     "6.1.3",
                     "6.1.4",
-                    "6.1.5",
                     "6.2.3",
                     "6.2.4",
                     "6.2.5",
@@ -598,6 +1140,6 @@
                     "7.1.6"
                 ]
             }
-        }
+    }
     }
 }

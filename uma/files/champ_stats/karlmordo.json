@@ -1,936 +1,1020 @@
 {
+    "champid": "karlmordo",
     "name": "MORDO",
     "class": "Mystic",
-    "img_portrait": "https://api.rexians.tk/assets/portraits/karlmordo.png",
+    "img_portrait": "https://api.rexians.tk/assets/portraits/karl_mordo.png",
     "contact": "PHYSICAL",
     "tags": [
         "Villain",
         "Size: M"
     ],
     "released": "11/10/2016",
-    "champid": "karlmordo",
     "data": {
         "2+1": {
+            "challenger_rating": 20,
             "rank": 1,
-            "prestige": "283",
-            "hp": "1121",
-            "attack": "83",
-            "crit_rate": "478",
-            "crit_dmge": "563",
-            "armor": "33",
-            "block_prof": "1538",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "By conjuring a magical barrier, Mordo gains 1066.67 to 6398.37 Energy Resistance while he remains Blocking.",
+            "prestige": 287,
+            "hp": 1121,
+            "attack": 83,
+            "crit_rate": 478,
+            "crit_dmge": 563,
+            "armor": 33,
+            "block_prof": 1538,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "By conjuring a magical barrier, Mordo gains 1066.67 to 6398.37 Energy Resistance while he remains Blocking.",
+                "If the opponent strikes Mordo\u2019s Block while they have a True-Type Buff, he has a 60 to 100.01% chance to Nullify that Buff and replace it with a Detonate Buff lasting 20 second(s). Detonate deals a burst of 49.8 Energy Damage when it\u2019s Nullified or Expires."
+            ],
             "url_page": "https://auntm.ai/champions/karlmordo/tier/2",
             "champid": "karlmordo+2+1",
-            "challenger_rating": 20,
             "abilities": {
-                "PASSIVE": [
-                    "Mordo's astral form grants him immunity to passive Ability Accuracy reduction effects.",
-                    "Every 8 seconds, Mordo gets one bar of Power over 5 seconds. While the Power Gain is active, opponents can interrupt it by landing a hit on Mordo."
+                "ASTRAL FORM - ALWAYS ACTIVE": [
+                    "Mordo is Immune to Passive Ability Accuracy reductions.",
+                    "While the opponent has at least 1 Buff, gain +16.6 Attack Rating.",
+                    "Every 8 second(s), Mordo gains a Power Gain Buff granting 1 Bar of Power over 5 second(s). This Buff is removed if Mordo is struck. If fighting as a Defender, Mordo will behave less aggressively while this Buff is active."
                 ],
-                "WHEN STUNNED": [
-                    "While Stunned, Mordo Evades an incoming non-Special Attack, quickly counter-attacking to inflict Degeneration for 66.4 Direct Damage over 2.50 seconds. This ability does not activate if Mordo is suffering from a Concussion or Fatigue Debuff."
+                "WHILE STUNNED": [
+                    "Mordo will Evade any incoming Basic Attack and perform a counter-attack which has a 100% chance to inflict a Degeneration Debuff causing 66.4 Direct Damage over 2.50 second(s)."
                 ],
                 "BLOCKING": [
-                    "After holding Block for 0.50 seconds, Mordo can Block Unblockable Special Attacks."
+                    "If Mordo holds Block for more than 0.50 second(s), his Block will not be broken by Unblockable Special Attacks."
                 ],
-                "HEAVY ATTACKS": [
-                    "Mordo gains 16.6% of max Power per second while below 1 Power bar.",
-                    "Exponentially gains up to 10 Fury stacks while charging a Heavy Attack, each charge increases his Attack by 12.45."
+                "WHILE CHARGING A HEAVY ATTACK": [
+                    "Continually gain Fury Buffs, each granting +16.6 Attack Rating for 17 second(s). Max: {3} Buffs. Exponentially gain more Buffs the longer the Heavy Attack is charged.",
+                    "If Mordo is below 1 Bar of Power, he will Passively gain 0.5 Bar(s) of Power per second."
                 ],
                 "SPECIAL ATTACK 1": [
-                    "30% chance to Stun for 3 second(s).",
-                    "Causes Degeneration, inflicting 66.4 Direct Damage over 2.50 seconds. If the opponent has a Buff, Degeneration will activate even after a successful Block."
+                    "30% chance to inflict a 3 second Stun Debuff.",
+                    "100% chance to inflict a Degeneration Debuff, causing 66.4 Direct Damage over 2.50 second(s). If the opponent has at least 1 Buff, this effect can be triggered through a Block."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Opponents suffer from Mordo\u2019s Soul Barb spell for 14 seconds, dealing 9.96 Energy Damage per opponent Buff per second. Additionally, Soul Barb reduces Health recovery by 70%."
+                    "100% chance to inflict a Soul Barb Debuff lasting 14 seconds, dealing 9.96 Energy Damage per second for each Buff on the opponent. Soul Barb also reduces Regeneration Rate by 80%."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "Gains 3 stacks of Fury, each increasing his Attack by 41.5 for 12 seconds.",
-                    "Up to 40% chance based on Health lost to Regenerate instead of gaining a Fury stack, Recovering 168.15 Health in 6 seconds."
+                    "100% chance to gain {3} Fury Buffs, each granting +41.5 Attack Rating for 17 second(s).",
+                    "Up to 50% chance based on lost Health to gain a Regeneration Buff in place of a Fury Buff, recovering 168.15 Health over 6 second(s)."
                 ]
             }
         },
         "2+2": {
+            "challenger_rating": 30,
             "rank": 2,
-            "prestige": "367",
-            "hp": "1481",
-            "attack": "109",
-            "crit_rate": "493",
-            "crit_dmge": "580",
-            "armor": "52",
-            "block_prof": "1586",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "By conjuring a magical barrier, Mordo gains 1100 to 6598.32 Energy Resistance while he remains Blocking.",
+            "prestige": 377,
+            "hp": 1481,
+            "attack": 109,
+            "crit_rate": 493,
+            "crit_dmge": 580,
+            "armor": 52,
+            "block_prof": 1586,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "By conjuring a magical barrier, Mordo gains 1100 to 6598.32 Energy Resistance while he remains Blocking.",
+                "If the opponent strikes Mordo\u2019s Block while they have a True-Type Buff, he has a 60 to 100.01% chance to Nullify that Buff and replace it with a Detonate Buff lasting 20 second(s). Detonate deals a burst of 65.4 Energy Damage when it\u2019s Nullified or Expires."
+            ],
             "url_page": "https://auntm.ai/champions/karlmordo/tier/2",
             "champid": "karlmordo+2+2",
-            "challenger_rating": 30,
             "abilities": {
-                "PASSIVE": [
-                    "Mordo's astral form grants him immunity to passive Ability Accuracy reduction effects.",
-                    "Every 8 seconds, Mordo gets one bar of Power over 5 seconds. While the Power Gain is active, opponents can interrupt it by landing a hit on Mordo."
+                "ASTRAL FORM - ALWAYS ACTIVE": [
+                    "Mordo is Immune to Passive Ability Accuracy reductions.",
+                    "While the opponent has at least 1 Buff, gain +21.8 Attack Rating.",
+                    "Every 8 second(s), Mordo gains a Power Gain Buff granting 1 Bar of Power over 5 second(s). This Buff is removed if Mordo is struck. If fighting as a Defender, Mordo will behave less aggressively while this Buff is active."
                 ],
-                "WHEN STUNNED": [
-                    "While Stunned, Mordo Evades an incoming non-Special Attack, quickly counter-attacking to inflict Degeneration for 87.2 Direct Damage over 2.50 seconds. This ability does not activate if Mordo is suffering from a Concussion or Fatigue Debuff."
+                "WHILE STUNNED": [
+                    "Mordo will Evade any incoming Basic Attack and perform a counter-attack which has a 100% chance to inflict a Degeneration Debuff causing 87.2 Direct Damage over 2.50 second(s)."
                 ],
                 "BLOCKING": [
-                    "After holding Block for 0.50 seconds, Mordo can Block Unblockable Special Attacks."
+                    "If Mordo holds Block for more than 0.50 second(s), his Block will not be broken by Unblockable Special Attacks."
                 ],
-                "HEAVY ATTACKS": [
-                    "Mordo gains 16.6% of max Power per second while below 1 Power bar.",
-                    "Exponentially gains up to 10 Fury stacks while charging a Heavy Attack, each charge increases his Attack by 16.35."
+                "WHILE CHARGING A HEAVY ATTACK": [
+                    "Continually gain Fury Buffs, each granting +21.8 Attack Rating for 17 second(s). Max: {3} Buffs. Exponentially gain more Buffs the longer the Heavy Attack is charged.",
+                    "If Mordo is below 1 Bar of Power, he will Passively gain 0.5 Bar(s) of Power per second."
                 ],
                 "SPECIAL ATTACK 1": [
-                    "30% chance to Stun for 3 second(s).",
-                    "Causes Degeneration, inflicting 87.2 Direct Damage over 2.50 seconds. If the opponent has a Buff, Degeneration will activate even after a successful Block."
+                    "30% chance to inflict a 3 second Stun Debuff.",
+                    "100% chance to inflict a Degeneration Debuff, causing 87.2 Direct Damage over 2.50 second(s). If the opponent has at least 1 Buff, this effect can be triggered through a Block."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Opponents suffer from Mordo\u2019s Soul Barb spell for 14 seconds, dealing 13.08 Energy Damage per opponent Buff per second. Additionally, Soul Barb reduces Health recovery by 70%."
+                    "100% chance to inflict a Soul Barb Debuff lasting 14 seconds, dealing 13.08 Energy Damage per second for each Buff on the opponent. Soul Barb also reduces Regeneration Rate by 80%."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "Gains 3 stacks of Fury, each increasing his Attack by 54.5 for 12 seconds.",
-                    "Up to 40% chance based on Health lost to Regenerate instead of gaining a Fury stack, Recovering 222.15 Health in 6 seconds."
+                    "100% chance to gain {3} Fury Buffs, each granting +54.5 Attack Rating for 17 second(s).",
+                    "Up to 50% chance based on lost Health to gain a Regeneration Buff in place of a Fury Buff, recovering 222.15 Health over 6 second(s)."
                 ]
             }
         },
         "2+3": {
+            "challenger_rating": 40,
             "rank": 3,
-            "prestige": "579",
-            "hp": "2350",
-            "attack": "173",
-            "crit_rate": "508",
-            "crit_dmge": "598",
-            "armor": "71",
-            "block_prof": "1634",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "By conjuring a magical barrier, Mordo gains 1133.33 to 6798.27 Energy Resistance while he remains Blocking.",
+            "prestige": 590,
+            "hp": 2350,
+            "attack": 173,
+            "crit_rate": 508,
+            "crit_dmge": 598,
+            "armor": 71,
+            "block_prof": 1634,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "By conjuring a magical barrier, Mordo gains 1133.33 to 6798.27 Energy Resistance while he remains Blocking.",
+                "If the opponent strikes Mordo\u2019s Block while they have a True-Type Buff, he has a 60 to 100.01% chance to Nullify that Buff and replace it with a Detonate Buff lasting 20 second(s). Detonate deals a burst of 103.8 Energy Damage when it\u2019s Nullified or Expires."
+            ],
             "url_page": "https://auntm.ai/champions/karlmordo/tier/2",
             "champid": "karlmordo+2+3",
-            "challenger_rating": 40,
             "abilities": {
-                "PASSIVE": [
-                    "Mordo's astral form grants him immunity to passive Ability Accuracy reduction effects.",
-                    "Every 8 seconds, Mordo gets one bar of Power over 5 seconds. While the Power Gain is active, opponents can interrupt it by landing a hit on Mordo."
+                "ASTRAL FORM - ALWAYS ACTIVE": [
+                    "Mordo is Immune to Passive Ability Accuracy reductions.",
+                    "While the opponent has at least 1 Buff, gain +34.6 Attack Rating.",
+                    "Every 8 second(s), Mordo gains a Power Gain Buff granting 1 Bar of Power over 5 second(s). This Buff is removed if Mordo is struck. If fighting as a Defender, Mordo will behave less aggressively while this Buff is active."
                 ],
-                "WHEN STUNNED": [
-                    "While Stunned, Mordo Evades an incoming non-Special Attack, quickly counter-attacking to inflict Degeneration for 138.4 Direct Damage over 2.50 seconds. This ability does not activate if Mordo is suffering from a Concussion or Fatigue Debuff."
+                "WHILE STUNNED": [
+                    "Mordo will Evade any incoming Basic Attack and perform a counter-attack which has a 100% chance to inflict a Degeneration Debuff causing 138.4 Direct Damage over 2.50 second(s)."
                 ],
                 "BLOCKING": [
-                    "After holding Block for 0.50 seconds, Mordo can Block Unblockable Special Attacks."
+                    "If Mordo holds Block for more than 0.50 second(s), his Block will not be broken by Unblockable Special Attacks."
                 ],
-                "HEAVY ATTACKS": [
-                    "Mordo gains 16.6% of max Power per second while below 1 Power bar.",
-                    "Exponentially gains up to 10 Fury stacks while charging a Heavy Attack, each charge increases his Attack by 25.95."
+                "WHILE CHARGING A HEAVY ATTACK": [
+                    "Continually gain Fury Buffs, each granting +34.6 Attack Rating for 17 second(s). Max: {3} Buffs. Exponentially gain more Buffs the longer the Heavy Attack is charged.",
+                    "If Mordo is below 1 Bar of Power, he will Passively gain 0.5 Bar(s) of Power per second."
                 ],
                 "SPECIAL ATTACK 1": [
-                    "30% chance to Stun for 3 second(s).",
-                    "Causes Degeneration, inflicting 138.4 Direct Damage over 2.50 seconds. If the opponent has a Buff, Degeneration will activate even after a successful Block."
+                    "30% chance to inflict a 3 second Stun Debuff.",
+                    "100% chance to inflict a Degeneration Debuff, causing 138.4 Direct Damage over 2.50 second(s). If the opponent has at least 1 Buff, this effect can be triggered through a Block."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Opponents suffer from Mordo\u2019s Soul Barb spell for 14 seconds, dealing 20.76 Energy Damage per opponent Buff per second. Additionally, Soul Barb reduces Health recovery by 70%."
+                    "100% chance to inflict a Soul Barb Debuff lasting 14 seconds, dealing 20.76 Energy Damage per second for each Buff on the opponent. Soul Barb also reduces Regeneration Rate by 80%."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "Gains 3 stacks of Fury, each increasing his Attack by 86.5 for 12 seconds.",
-                    "Up to 40% chance based on Health lost to Regenerate instead of gaining a Fury stack, Recovering 352.5 Health in 6 seconds."
+                    "100% chance to gain {3} Fury Buffs, each granting +86.5 Attack Rating for 17 second(s).",
+                    "Up to 50% chance based on lost Health to gain a Regeneration Buff in place of a Fury Buff, recovering 352.5 Health over 6 second(s)."
                 ]
             }
         },
         "3+1": {
+            "challenger_rating": 40,
             "rank": 1,
-            "prestige": "501",
-            "hp": "2032",
-            "attack": "149",
-            "crit_rate": "508",
-            "crit_dmge": "598",
-            "armor": "71",
-            "block_prof": "1634",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "By conjuring a magical barrier, Mordo gains 1133.33 to 6798.27 Energy Resistance while he remains Blocking.",
+            "prestige": 508,
+            "hp": 2032,
+            "attack": 149,
+            "crit_rate": 508,
+            "crit_dmge": 598,
+            "armor": 71,
+            "block_prof": 1634,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "By conjuring a magical barrier, Mordo gains 1133.33 to 6798.27 Energy Resistance while he remains Blocking.",
+                "If the opponent strikes Mordo\u2019s Block while they have a True-Type Buff, he has a 60 to 100.01% chance to Nullify that Buff and replace it with a Detonate Buff lasting 20 second(s). Detonate deals a burst of 89.4 Energy Damage when it\u2019s Nullified or Expires."
+            ],
             "url_page": "https://auntm.ai/champions/karlmordo/tier/3",
             "champid": "karlmordo+3+1",
-            "challenger_rating": 40,
             "abilities": {
-                "PASSIVE": [
-                    "Mordo's astral form grants him immunity to passive Ability Accuracy reduction effects.",
-                    "Every 8 seconds, Mordo gets one bar of Power over 5 seconds. While the Power Gain is active, opponents can interrupt it by landing a hit on Mordo."
+                "ASTRAL FORM - ALWAYS ACTIVE": [
+                    "Mordo is Immune to Passive Ability Accuracy reductions.",
+                    "While the opponent has at least 1 Buff, gain +29.8 Attack Rating.",
+                    "Every 8 second(s), Mordo gains a Power Gain Buff granting 1 Bar of Power over 5 second(s). This Buff is removed if Mordo is struck. If fighting as a Defender, Mordo will behave less aggressively while this Buff is active."
                 ],
-                "WHEN STUNNED": [
-                    "While Stunned, Mordo Evades an incoming non-Special Attack, quickly counter-attacking to inflict Degeneration for 119.2 Direct Damage over 2.50 seconds. This ability does not activate if Mordo is suffering from a Concussion or Fatigue Debuff."
+                "WHILE STUNNED": [
+                    "Mordo will Evade any incoming Basic Attack and perform a counter-attack which has a 100% chance to inflict a Degeneration Debuff causing 119.2 Direct Damage over 2.50 second(s)."
                 ],
                 "BLOCKING": [
-                    "After holding Block for 0.50 seconds, Mordo can Block Unblockable Special Attacks."
+                    "If Mordo holds Block for more than 0.50 second(s), his Block will not be broken by Unblockable Special Attacks."
                 ],
-                "HEAVY ATTACKS": [
-                    "Mordo gains 16.6% of max Power per second while below 1 Power bar.",
-                    "Exponentially gains up to 10 Fury stacks while charging a Heavy Attack, each charge increases his Attack by 22.35."
+                "WHILE CHARGING A HEAVY ATTACK": [
+                    "Continually gain Fury Buffs, each granting +29.8 Attack Rating for 17 second(s). Max: {3} Buffs. Exponentially gain more Buffs the longer the Heavy Attack is charged.",
+                    "If Mordo is below 1 Bar of Power, he will Passively gain 0.5 Bar(s) of Power per second."
                 ],
                 "SPECIAL ATTACK 1": [
-                    "30% chance to Stun for 3 second(s).",
-                    "Causes Degeneration, inflicting 119.2 Direct Damage over 2.50 seconds. If the opponent has a Buff, Degeneration will activate even after a successful Block."
+                    "30% chance to inflict a 3 second Stun Debuff.",
+                    "100% chance to inflict a Degeneration Debuff, causing 119.2 Direct Damage over 2.50 second(s). If the opponent has at least 1 Buff, this effect can be triggered through a Block."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Opponents suffer from Mordo\u2019s Soul Barb spell for 14 seconds, dealing 17.88 Energy Damage per opponent Buff per second. Additionally, Soul Barb reduces Health recovery by 70%."
+                    "100% chance to inflict a Soul Barb Debuff lasting 14 seconds, dealing 17.88 Energy Damage per second for each Buff on the opponent. Soul Barb also reduces Regeneration Rate by 80%."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "Gains 3 stacks of Fury, each increasing his Attack by 74.5 for 12 seconds.",
-                    "Up to 40% chance based on Health lost to Regenerate instead of gaining a Fury stack, Recovering 304.8 Health in 6 seconds."
+                    "100% chance to gain {3} Fury Buffs, each granting +74.5 Attack Rating for 17 second(s).",
+                    "Up to 50% chance based on lost Health to gain a Regeneration Buff in place of a Fury Buff, recovering 304.8 Health over 6 second(s)."
                 ]
             }
         },
         "3+2": {
+            "challenger_rating": 50,
             "rank": 2,
-            "prestige": "799",
-            "hp": "3251",
-            "attack": "239",
-            "crit_rate": "523",
-            "crit_dmge": "615",
-            "armor": "93",
-            "block_prof": "1682",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "By conjuring a magical barrier, Mordo gains 1166.67 to 6998.22 Energy Resistance while he remains Blocking.",
+            "prestige": 813,
+            "hp": 3251,
+            "attack": 239,
+            "crit_rate": 523,
+            "crit_dmge": 615,
+            "armor": 93,
+            "block_prof": 1682,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "By conjuring a magical barrier, Mordo gains 1166.67 to 6998.22 Energy Resistance while he remains Blocking.",
+                "If the opponent strikes Mordo\u2019s Block while they have a True-Type Buff, he has a 60 to 100.01% chance to Nullify that Buff and replace it with a Detonate Buff lasting 20 second(s). Detonate deals a burst of 143.4 Energy Damage when it\u2019s Nullified or Expires."
+            ],
             "url_page": "https://auntm.ai/champions/karlmordo/tier/3",
             "champid": "karlmordo+3+2",
-            "challenger_rating": 50,
             "abilities": {
-                "PASSIVE": [
-                    "Mordo's astral form grants him immunity to passive Ability Accuracy reduction effects.",
-                    "Every 8 seconds, Mordo gets one bar of Power over 5 seconds. While the Power Gain is active, opponents can interrupt it by landing a hit on Mordo."
+                "ASTRAL FORM - ALWAYS ACTIVE": [
+                    "Mordo is Immune to Passive Ability Accuracy reductions.",
+                    "While the opponent has at least 1 Buff, gain +47.8 Attack Rating.",
+                    "Every 8 second(s), Mordo gains a Power Gain Buff granting 1 Bar of Power over 5 second(s). This Buff is removed if Mordo is struck. If fighting as a Defender, Mordo will behave less aggressively while this Buff is active."
                 ],
-                "WHEN STUNNED": [
-                    "While Stunned, Mordo Evades an incoming non-Special Attack, quickly counter-attacking to inflict Degeneration for 191.2 Direct Damage over 2.50 seconds. This ability does not activate if Mordo is suffering from a Concussion or Fatigue Debuff."
+                "WHILE STUNNED": [
+                    "Mordo will Evade any incoming Basic Attack and perform a counter-attack which has a 100% chance to inflict a Degeneration Debuff causing 191.2 Direct Damage over 2.50 second(s)."
                 ],
                 "BLOCKING": [
-                    "After holding Block for 0.50 seconds, Mordo can Block Unblockable Special Attacks."
+                    "If Mordo holds Block for more than 0.50 second(s), his Block will not be broken by Unblockable Special Attacks."
                 ],
-                "HEAVY ATTACKS": [
-                    "Mordo gains 16.6% of max Power per second while below 1 Power bar.",
-                    "Exponentially gains up to 10 Fury stacks while charging a Heavy Attack, each charge increases his Attack by 35.85."
+                "WHILE CHARGING A HEAVY ATTACK": [
+                    "Continually gain Fury Buffs, each granting +47.8 Attack Rating for 17 second(s). Max: {3} Buffs. Exponentially gain more Buffs the longer the Heavy Attack is charged.",
+                    "If Mordo is below 1 Bar of Power, he will Passively gain 0.5 Bar(s) of Power per second."
                 ],
                 "SPECIAL ATTACK 1": [
-                    "30% chance to Stun for 3 second(s).",
-                    "Causes Degeneration, inflicting 191.2 Direct Damage over 2.50 seconds. If the opponent has a Buff, Degeneration will activate even after a successful Block."
+                    "30% chance to inflict a 3 second Stun Debuff.",
+                    "100% chance to inflict a Degeneration Debuff, causing 191.2 Direct Damage over 2.50 second(s). If the opponent has at least 1 Buff, this effect can be triggered through a Block."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Opponents suffer from Mordo\u2019s Soul Barb spell for 14 seconds, dealing 28.68 Energy Damage per opponent Buff per second. Additionally, Soul Barb reduces Health recovery by 70%."
+                    "100% chance to inflict a Soul Barb Debuff lasting 14 seconds, dealing 28.68 Energy Damage per second for each Buff on the opponent. Soul Barb also reduces Regeneration Rate by 80%."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "Gains 3 stacks of Fury, each increasing his Attack by 119.5 for 12 seconds.",
-                    "Up to 40% chance based on Health lost to Regenerate instead of gaining a Fury stack, Recovering 487.65 Health in 6 seconds."
+                    "100% chance to gain {3} Fury Buffs, each granting +119.5 Attack Rating for 17 second(s).",
+                    "Up to 50% chance based on lost Health to gain a Regeneration Buff in place of a Fury Buff, recovering 487.65 Health over 6 second(s)."
                 ]
             }
         },
         "3+3": {
+            "challenger_rating": 60,
             "rank": 3,
-            "prestige": "1116",
-            "hp": "4548",
-            "attack": "334",
-            "crit_rate": "538",
-            "crit_dmge": "633",
-            "armor": "115",
-            "block_prof": "1730",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "By conjuring a magical barrier, Mordo gains 1200 to 7198.17 Energy Resistance while he remains Blocking.",
+            "prestige": 1135,
+            "hp": 4548,
+            "attack": 334,
+            "crit_rate": 538,
+            "crit_dmge": 633,
+            "armor": 115,
+            "block_prof": 1730,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "By conjuring a magical barrier, Mordo gains 1200 to 7198.17 Energy Resistance while he remains Blocking.",
+                "If the opponent strikes Mordo\u2019s Block while they have a True-Type Buff, he has a 60 to 100.01% chance to Nullify that Buff and replace it with a Detonate Buff lasting 20 second(s). Detonate deals a burst of 200.4 Energy Damage when it\u2019s Nullified or Expires."
+            ],
             "url_page": "https://auntm.ai/champions/karlmordo/tier/3",
             "champid": "karlmordo+3+3",
-            "challenger_rating": 60,
             "abilities": {
-                "PASSIVE": [
-                    "Mordo's astral form grants him immunity to passive Ability Accuracy reduction effects.",
-                    "Every 8 seconds, Mordo gets one bar of Power over 5 seconds. While the Power Gain is active, opponents can interrupt it by landing a hit on Mordo."
+                "ASTRAL FORM - ALWAYS ACTIVE": [
+                    "Mordo is Immune to Passive Ability Accuracy reductions.",
+                    "While the opponent has at least 1 Buff, gain +66.8 Attack Rating.",
+                    "Every 8 second(s), Mordo gains a Power Gain Buff granting 1 Bar of Power over 5 second(s). This Buff is removed if Mordo is struck. If fighting as a Defender, Mordo will behave less aggressively while this Buff is active."
                 ],
-                "WHEN STUNNED": [
-                    "While Stunned, Mordo Evades an incoming non-Special Attack, quickly counter-attacking to inflict Degeneration for 267.2 Direct Damage over 2.50 seconds. This ability does not activate if Mordo is suffering from a Concussion or Fatigue Debuff."
+                "WHILE STUNNED": [
+                    "Mordo will Evade any incoming Basic Attack and perform a counter-attack which has a 100% chance to inflict a Degeneration Debuff causing 267.2 Direct Damage over 2.50 second(s)."
                 ],
                 "BLOCKING": [
-                    "After holding Block for 0.50 seconds, Mordo can Block Unblockable Special Attacks."
+                    "If Mordo holds Block for more than 0.50 second(s), his Block will not be broken by Unblockable Special Attacks."
                 ],
-                "HEAVY ATTACKS": [
-                    "Mordo gains 16.6% of max Power per second while below 1 Power bar.",
-                    "Exponentially gains up to 10 Fury stacks while charging a Heavy Attack, each charge increases his Attack by 50.1."
+                "WHILE CHARGING A HEAVY ATTACK": [
+                    "Continually gain Fury Buffs, each granting +66.8 Attack Rating for 17 second(s). Max: {3} Buffs. Exponentially gain more Buffs the longer the Heavy Attack is charged.",
+                    "If Mordo is below 1 Bar of Power, he will Passively gain 0.5 Bar(s) of Power per second."
                 ],
                 "SPECIAL ATTACK 1": [
-                    "30% chance to Stun for 3 second(s).",
-                    "Causes Degeneration, inflicting 267.2 Direct Damage over 2.50 seconds. If the opponent has a Buff, Degeneration will activate even after a successful Block."
+                    "30% chance to inflict a 3 second Stun Debuff.",
+                    "100% chance to inflict a Degeneration Debuff, causing 267.2 Direct Damage over 2.50 second(s). If the opponent has at least 1 Buff, this effect can be triggered through a Block."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Opponents suffer from Mordo\u2019s Soul Barb spell for 14 seconds, dealing 40.08 Energy Damage per opponent Buff per second. Additionally, Soul Barb reduces Health recovery by 70%."
+                    "100% chance to inflict a Soul Barb Debuff lasting 14 seconds, dealing 40.08 Energy Damage per second for each Buff on the opponent. Soul Barb also reduces Regeneration Rate by 80%."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "Gains 3 stacks of Fury, each increasing his Attack by 167 for 12 seconds.",
-                    "Up to 40% chance based on Health lost to Regenerate instead of gaining a Fury stack, Recovering 682.2 Health in 6 seconds."
+                    "100% chance to gain {3} Fury Buffs, each granting +167 Attack Rating for 17 second(s).",
+                    "Up to 50% chance based on lost Health to gain a Regeneration Buff in place of a Fury Buff, recovering 682.2 Health over 6 second(s)."
                 ]
             }
         },
         "3+4": {
+            "challenger_rating": 70,
             "rank": 4,
-            "prestige": "1530",
-            "hp": "6245",
-            "attack": "458",
-            "crit_rate": "553",
-            "crit_dmge": "650",
-            "armor": "140",
-            "block_prof": "1778",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "By conjuring a magical barrier, Mordo gains 1233.33 to 7398.11 Energy Resistance while he remains Blocking.",
+            "prestige": 1557,
+            "hp": 6245,
+            "attack": 458,
+            "crit_rate": 553,
+            "crit_dmge": 650,
+            "armor": 140,
+            "block_prof": 1778,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "By conjuring a magical barrier, Mordo gains 1233.33 to 7398.11 Energy Resistance while he remains Blocking.",
+                "If the opponent strikes Mordo\u2019s Block while they have a True-Type Buff, he has a 60 to 100.01% chance to Nullify that Buff and replace it with a Detonate Buff lasting 20 second(s). Detonate deals a burst of 274.8 Energy Damage when it\u2019s Nullified or Expires."
+            ],
             "url_page": "https://auntm.ai/champions/karlmordo/tier/3",
             "champid": "karlmordo+3+4",
-            "challenger_rating": 70,
             "abilities": {
-                "PASSIVE": [
-                    "Mordo's astral form grants him immunity to passive Ability Accuracy reduction effects.",
-                    "Every 8 seconds, Mordo gets one bar of Power over 5 seconds. While the Power Gain is active, opponents can interrupt it by landing a hit on Mordo."
+                "ASTRAL FORM - ALWAYS ACTIVE": [
+                    "Mordo is Immune to Passive Ability Accuracy reductions.",
+                    "While the opponent has at least 1 Buff, gain +91.6 Attack Rating.",
+                    "Every 8 second(s), Mordo gains a Power Gain Buff granting 1 Bar of Power over 5 second(s). This Buff is removed if Mordo is struck. If fighting as a Defender, Mordo will behave less aggressively while this Buff is active."
                 ],
-                "WHEN STUNNED": [
-                    "While Stunned, Mordo Evades an incoming non-Special Attack, quickly counter-attacking to inflict Degeneration for 366.4 Direct Damage over 2.50 seconds. This ability does not activate if Mordo is suffering from a Concussion or Fatigue Debuff."
+                "WHILE STUNNED": [
+                    "Mordo will Evade any incoming Basic Attack and perform a counter-attack which has a 100% chance to inflict a Degeneration Debuff causing 366.4 Direct Damage over 2.50 second(s)."
                 ],
                 "BLOCKING": [
-                    "After holding Block for 0.50 seconds, Mordo can Block Unblockable Special Attacks."
+                    "If Mordo holds Block for more than 0.50 second(s), his Block will not be broken by Unblockable Special Attacks."
                 ],
-                "HEAVY ATTACKS": [
-                    "Mordo gains 16.6% of max Power per second while below 1 Power bar.",
-                    "Exponentially gains up to 10 Fury stacks while charging a Heavy Attack, each charge increases his Attack by 68.7."
+                "WHILE CHARGING A HEAVY ATTACK": [
+                    "Continually gain Fury Buffs, each granting +91.6 Attack Rating for 17 second(s). Max: {3} Buffs. Exponentially gain more Buffs the longer the Heavy Attack is charged.",
+                    "If Mordo is below 1 Bar of Power, he will Passively gain 0.5 Bar(s) of Power per second."
                 ],
                 "SPECIAL ATTACK 1": [
-                    "30% chance to Stun for 3 second(s).",
-                    "Causes Degeneration, inflicting 366.4 Direct Damage over 2.50 seconds. If the opponent has a Buff, Degeneration will activate even after a successful Block."
+                    "30% chance to inflict a 3 second Stun Debuff.",
+                    "100% chance to inflict a Degeneration Debuff, causing 366.4 Direct Damage over 2.50 second(s). If the opponent has at least 1 Buff, this effect can be triggered through a Block."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Opponents suffer from Mordo\u2019s Soul Barb spell for 14 seconds, dealing 54.96 Energy Damage per opponent Buff per second. Additionally, Soul Barb reduces Health recovery by 70%."
+                    "100% chance to inflict a Soul Barb Debuff lasting 14 seconds, dealing 54.96 Energy Damage per second for each Buff on the opponent. Soul Barb also reduces Regeneration Rate by 80%."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "Gains 3 stacks of Fury, each increasing his Attack by 229 for 12 seconds.",
-                    "Up to 40% chance based on Health lost to Regenerate instead of gaining a Fury stack, Recovering 936.75 Health in 6 seconds."
+                    "100% chance to gain {3} Fury Buffs, each granting +229 Attack Rating for 17 second(s).",
+                    "Up to 50% chance based on lost Health to gain a Regeneration Buff in place of a Fury Buff, recovering 936.75 Health over 6 second(s)."
                 ]
             }
         },
         "4+1": {
+            "challenger_rating": 60,
             "rank": 1,
-            "prestige": "1118",
-            "hp": "4545",
-            "attack": "334",
-            "crit_rate": "538",
-            "crit_dmge": "633",
-            "armor": "157",
-            "block_prof": "1730",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "By conjuring a magical barrier, Mordo gains 1200 to 7198.17 Energy Resistance while he remains Blocking.",
+            "prestige": 1137,
+            "hp": 4545,
+            "attack": 334,
+            "crit_rate": 538,
+            "crit_dmge": 633,
+            "armor": 157,
+            "block_prof": 1730,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "By conjuring a magical barrier, Mordo gains 1200 to 7198.17 Energy Resistance while he remains Blocking.",
+                "If the opponent strikes Mordo\u2019s Block while they have a True-Type Buff, he has a 60 to 100.01% chance to Nullify that Buff and replace it with a Detonate Buff lasting 20 second(s). Detonate deals a burst of 200.4 Energy Damage when it\u2019s Nullified or Expires."
+            ],
             "url_page": "https://auntm.ai/champions/karlmordo/tier/4",
             "champid": "karlmordo+4+1",
-            "challenger_rating": 60,
             "abilities": {
-                "PASSIVE": [
-                    "Mordo's astral form grants him immunity to passive Ability Accuracy reduction effects.",
-                    "Every 8 seconds, Mordo gets one bar of Power over 5 seconds. While the Power Gain is active, opponents can interrupt it by landing a hit on Mordo."
+                "ASTRAL FORM - ALWAYS ACTIVE": [
+                    "Mordo is Immune to Passive Ability Accuracy reductions.",
+                    "While the opponent has at least 1 Buff, gain +66.8 Attack Rating.",
+                    "Every 8 second(s), Mordo gains a Power Gain Buff granting 1 Bar of Power over 5 second(s). This Buff is removed if Mordo is struck. If fighting as a Defender, Mordo will behave less aggressively while this Buff is active."
                 ],
-                "WHEN STUNNED": [
-                    "While Stunned, Mordo Evades an incoming non-Special Attack, quickly counter-attacking to inflict Degeneration for 267.2 Direct Damage over 2.50 seconds. This ability does not activate if Mordo is suffering from a Concussion or Fatigue Debuff."
+                "WHILE STUNNED": [
+                    "Mordo will Evade any incoming Basic Attack and perform a counter-attack which has a 100% chance to inflict a Degeneration Debuff causing 267.2 Direct Damage over 2.50 second(s)."
                 ],
                 "BLOCKING": [
-                    "After holding Block for 0.50 seconds, Mordo can Block Unblockable Special Attacks."
+                    "If Mordo holds Block for more than 0.50 second(s), his Block will not be broken by Unblockable Special Attacks."
                 ],
-                "HEAVY ATTACKS": [
-                    "Mordo gains 16.6% of max Power per second while below 1 Power bar.",
-                    "Exponentially gains up to 10 Fury stacks while charging a Heavy Attack, each charge increases his Attack by 50.1."
+                "WHILE CHARGING A HEAVY ATTACK": [
+                    "Continually gain Fury Buffs, each granting +66.8 Attack Rating for 17 second(s). Max: {3} Buffs. Exponentially gain more Buffs the longer the Heavy Attack is charged.",
+                    "If Mordo is below 1 Bar of Power, he will Passively gain 0.5 Bar(s) of Power per second."
                 ],
                 "SPECIAL ATTACK 1": [
-                    "30% chance to Stun for 3 second(s).",
-                    "Causes Degeneration, inflicting 267.2 Direct Damage over 2.50 seconds. If the opponent has a Buff, Degeneration will activate even after a successful Block."
+                    "30% chance to inflict a 3 second Stun Debuff.",
+                    "100% chance to inflict a Degeneration Debuff, causing 267.2 Direct Damage over 2.50 second(s). If the opponent has at least 1 Buff, this effect can be triggered through a Block."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Opponents suffer from Mordo\u2019s Soul Barb spell for 14 seconds, dealing 40.08 Energy Damage per opponent Buff per second. Additionally, Soul Barb reduces Health recovery by 70%."
+                    "100% chance to inflict a Soul Barb Debuff lasting 14 seconds, dealing 40.08 Energy Damage per second for each Buff on the opponent. Soul Barb also reduces Regeneration Rate by 80%."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "Gains 3 stacks of Fury, each increasing his Attack by 167 for 12 seconds.",
-                    "Up to 40% chance based on Health lost to Regenerate instead of gaining a Fury stack, Recovering 681.75 Health in 6 seconds."
+                    "100% chance to gain {3} Fury Buffs, each granting +167 Attack Rating for 17 second(s).",
+                    "Up to 50% chance based on lost Health to gain a Regeneration Buff in place of a Fury Buff, recovering 681.75 Health over 6 second(s)."
                 ]
             }
         },
         "4+2": {
+            "challenger_rating": 70,
             "rank": 2,
-            "prestige": "1565",
-            "hp": "6375",
-            "attack": "468",
-            "crit_rate": "553",
-            "crit_dmge": "650",
-            "armor": "183",
-            "block_prof": "1778",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "By conjuring a magical barrier, Mordo gains 1233.33 to 7398.11 Energy Resistance while he remains Blocking.",
+            "prestige": 1594,
+            "hp": 6375,
+            "attack": 468,
+            "crit_rate": 553,
+            "crit_dmge": 650,
+            "armor": 183,
+            "block_prof": 1778,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "By conjuring a magical barrier, Mordo gains 1233.33 to 7398.11 Energy Resistance while he remains Blocking.",
+                "If the opponent strikes Mordo\u2019s Block while they have a True-Type Buff, he has a 60 to 100.01% chance to Nullify that Buff and replace it with a Detonate Buff lasting 20 second(s). Detonate deals a burst of 280.8 Energy Damage when it\u2019s Nullified or Expires."
+            ],
             "url_page": "https://auntm.ai/champions/karlmordo/tier/4",
             "champid": "karlmordo+4+2",
-            "challenger_rating": 70,
             "abilities": {
-                "PASSIVE": [
-                    "Mordo's astral form grants him immunity to passive Ability Accuracy reduction effects.",
-                    "Every 8 seconds, Mordo gets one bar of Power over 5 seconds. While the Power Gain is active, opponents can interrupt it by landing a hit on Mordo."
+                "ASTRAL FORM - ALWAYS ACTIVE": [
+                    "Mordo is Immune to Passive Ability Accuracy reductions.",
+                    "While the opponent has at least 1 Buff, gain +93.6 Attack Rating.",
+                    "Every 8 second(s), Mordo gains a Power Gain Buff granting 1 Bar of Power over 5 second(s). This Buff is removed if Mordo is struck. If fighting as a Defender, Mordo will behave less aggressively while this Buff is active."
                 ],
-                "WHEN STUNNED": [
-                    "While Stunned, Mordo Evades an incoming non-Special Attack, quickly counter-attacking to inflict Degeneration for 374.4 Direct Damage over 2.50 seconds. This ability does not activate if Mordo is suffering from a Concussion or Fatigue Debuff."
+                "WHILE STUNNED": [
+                    "Mordo will Evade any incoming Basic Attack and perform a counter-attack which has a 100% chance to inflict a Degeneration Debuff causing 374.4 Direct Damage over 2.50 second(s)."
                 ],
                 "BLOCKING": [
-                    "After holding Block for 0.50 seconds, Mordo can Block Unblockable Special Attacks."
+                    "If Mordo holds Block for more than 0.50 second(s), his Block will not be broken by Unblockable Special Attacks."
                 ],
-                "HEAVY ATTACKS": [
-                    "Mordo gains 16.6% of max Power per second while below 1 Power bar.",
-                    "Exponentially gains up to 10 Fury stacks while charging a Heavy Attack, each charge increases his Attack by 70.2."
+                "WHILE CHARGING A HEAVY ATTACK": [
+                    "Continually gain Fury Buffs, each granting +93.6 Attack Rating for 17 second(s). Max: {3} Buffs. Exponentially gain more Buffs the longer the Heavy Attack is charged.",
+                    "If Mordo is below 1 Bar of Power, he will Passively gain 0.5 Bar(s) of Power per second."
                 ],
                 "SPECIAL ATTACK 1": [
-                    "30% chance to Stun for 3 second(s).",
-                    "Causes Degeneration, inflicting 374.4 Direct Damage over 2.50 seconds. If the opponent has a Buff, Degeneration will activate even after a successful Block."
+                    "30% chance to inflict a 3 second Stun Debuff.",
+                    "100% chance to inflict a Degeneration Debuff, causing 374.4 Direct Damage over 2.50 second(s). If the opponent has at least 1 Buff, this effect can be triggered through a Block."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Opponents suffer from Mordo\u2019s Soul Barb spell for 14 seconds, dealing 56.16 Energy Damage per opponent Buff per second. Additionally, Soul Barb reduces Health recovery by 70%."
+                    "100% chance to inflict a Soul Barb Debuff lasting 14 seconds, dealing 56.16 Energy Damage per second for each Buff on the opponent. Soul Barb also reduces Regeneration Rate by 80%."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "Gains 3 stacks of Fury, each increasing his Attack by 234 for 12 seconds.",
-                    "Up to 40% chance based on Health lost to Regenerate instead of gaining a Fury stack, Recovering 956.25 Health in 6 seconds."
+                    "100% chance to gain {3} Fury Buffs, each granting +234 Attack Rating for 17 second(s).",
+                    "Up to 50% chance based on lost Health to gain a Regeneration Buff in place of a Fury Buff, recovering 956.25 Health over 6 second(s)."
                 ]
             }
         },
         "4+3": {
+            "challenger_rating": 80,
             "rank": 3,
-            "prestige": "2188",
-            "hp": "8932",
-            "attack": "655",
-            "crit_rate": "568",
-            "crit_dmge": "668",
-            "armor": "212",
-            "block_prof": "1826",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "By conjuring a magical barrier, Mordo gains 1266.67 to 7598.06 Energy Resistance while he remains Blocking.",
+            "prestige": 2226,
+            "hp": 8932,
+            "attack": 655,
+            "crit_rate": 568,
+            "crit_dmge": 668,
+            "armor": 212,
+            "block_prof": 1826,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "By conjuring a magical barrier, Mordo gains 1266.67 to 7598.06 Energy Resistance while he remains Blocking.",
+                "If the opponent strikes Mordo\u2019s Block while they have a True-Type Buff, he has a 60 to 100.01% chance to Nullify that Buff and replace it with a Detonate Buff lasting 20 second(s). Detonate deals a burst of 393 Energy Damage when it\u2019s Nullified or Expires."
+            ],
             "url_page": "https://auntm.ai/champions/karlmordo/tier/4",
             "champid": "karlmordo+4+3",
-            "challenger_rating": 80,
             "abilities": {
-                "PASSIVE": [
-                    "Mordo's astral form grants him immunity to passive Ability Accuracy reduction effects.",
-                    "Every 8 seconds, Mordo gets one bar of Power over 5 seconds. While the Power Gain is active, opponents can interrupt it by landing a hit on Mordo."
+                "ASTRAL FORM - ALWAYS ACTIVE": [
+                    "Mordo is Immune to Passive Ability Accuracy reductions.",
+                    "While the opponent has at least 1 Buff, gain +131 Attack Rating.",
+                    "Every 8 second(s), Mordo gains a Power Gain Buff granting 1 Bar of Power over 5 second(s). This Buff is removed if Mordo is struck. If fighting as a Defender, Mordo will behave less aggressively while this Buff is active."
                 ],
-                "WHEN STUNNED": [
-                    "While Stunned, Mordo Evades an incoming non-Special Attack, quickly counter-attacking to inflict Degeneration for 524 Direct Damage over 2.50 seconds. This ability does not activate if Mordo is suffering from a Concussion or Fatigue Debuff."
+                "WHILE STUNNED": [
+                    "Mordo will Evade any incoming Basic Attack and perform a counter-attack which has a 100% chance to inflict a Degeneration Debuff causing 524 Direct Damage over 2.50 second(s)."
                 ],
                 "BLOCKING": [
-                    "After holding Block for 0.50 seconds, Mordo can Block Unblockable Special Attacks."
+                    "If Mordo holds Block for more than 0.50 second(s), his Block will not be broken by Unblockable Special Attacks."
                 ],
-                "HEAVY ATTACKS": [
-                    "Mordo gains 16.6% of max Power per second while below 1 Power bar.",
-                    "Exponentially gains up to 10 Fury stacks while charging a Heavy Attack, each charge increases his Attack by 98.25."
+                "WHILE CHARGING A HEAVY ATTACK": [
+                    "Continually gain Fury Buffs, each granting +131 Attack Rating for 17 second(s). Max: {3} Buffs. Exponentially gain more Buffs the longer the Heavy Attack is charged.",
+                    "If Mordo is below 1 Bar of Power, he will Passively gain 0.5 Bar(s) of Power per second."
                 ],
                 "SPECIAL ATTACK 1": [
-                    "30% chance to Stun for 3 second(s).",
-                    "Causes Degeneration, inflicting 524 Direct Damage over 2.50 seconds. If the opponent has a Buff, Degeneration will activate even after a successful Block."
+                    "30% chance to inflict a 3 second Stun Debuff.",
+                    "100% chance to inflict a Degeneration Debuff, causing 524 Direct Damage over 2.50 second(s). If the opponent has at least 1 Buff, this effect can be triggered through a Block."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Opponents suffer from Mordo\u2019s Soul Barb spell for 14 seconds, dealing 78.6 Energy Damage per opponent Buff per second. Additionally, Soul Barb reduces Health recovery by 70%."
+                    "100% chance to inflict a Soul Barb Debuff lasting 14 seconds, dealing 78.6 Energy Damage per second for each Buff on the opponent. Soul Barb also reduces Regeneration Rate by 80%."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "Gains 3 stacks of Fury, each increasing his Attack by 327.5 for 12 seconds.",
-                    "Up to 40% chance based on Health lost to Regenerate instead of gaining a Fury stack, Recovering 1339.8 Health in 6 seconds."
+                    "100% chance to gain {3} Fury Buffs, each granting +327.5 Attack Rating for 17 second(s).",
+                    "Up to 50% chance based on lost Health to gain a Regeneration Buff in place of a Fury Buff, recovering 1339.8 Health over 6 second(s)."
                 ]
             }
         },
         "4+4": {
+            "challenger_rating": 90,
             "rank": 4,
-            "prestige": "2881",
-            "hp": "11736",
-            "attack": "861",
-            "crit_rate": "583",
-            "crit_dmge": "686",
-            "armor": "242",
-            "block_prof": "1874",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "By conjuring a magical barrier, Mordo gains 1300 to 7798.01 Energy Resistance while he remains Blocking.",
+            "prestige": 2930,
+            "hp": 11736,
+            "attack": 861,
+            "crit_rate": 583,
+            "crit_dmge": 686,
+            "armor": 242,
+            "block_prof": 1874,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "By conjuring a magical barrier, Mordo gains 1300 to 7798.01 Energy Resistance while he remains Blocking.",
+                "If the opponent strikes Mordo\u2019s Block while they have a True-Type Buff, he has a 60 to 100.01% chance to Nullify that Buff and replace it with a Detonate Buff lasting 20 second(s). Detonate deals a burst of 516.6 Energy Damage when it\u2019s Nullified or Expires."
+            ],
             "url_page": "https://auntm.ai/champions/karlmordo/tier/4",
             "champid": "karlmordo+4+4",
-            "challenger_rating": 90,
             "abilities": {
-                "PASSIVE": [
-                    "Mordo's astral form grants him immunity to passive Ability Accuracy reduction effects.",
-                    "Every 8 seconds, Mordo gets one bar of Power over 5 seconds. While the Power Gain is active, opponents can interrupt it by landing a hit on Mordo."
+                "ASTRAL FORM - ALWAYS ACTIVE": [
+                    "Mordo is Immune to Passive Ability Accuracy reductions.",
+                    "While the opponent has at least 1 Buff, gain +172.2 Attack Rating.",
+                    "Every 8 second(s), Mordo gains a Power Gain Buff granting 1 Bar of Power over 5 second(s). This Buff is removed if Mordo is struck. If fighting as a Defender, Mordo will behave less aggressively while this Buff is active."
                 ],
-                "WHEN STUNNED": [
-                    "While Stunned, Mordo Evades an incoming non-Special Attack, quickly counter-attacking to inflict Degeneration for 688.8 Direct Damage over 2.50 seconds. This ability does not activate if Mordo is suffering from a Concussion or Fatigue Debuff."
+                "WHILE STUNNED": [
+                    "Mordo will Evade any incoming Basic Attack and perform a counter-attack which has a 100% chance to inflict a Degeneration Debuff causing 688.8 Direct Damage over 2.50 second(s)."
                 ],
                 "BLOCKING": [
-                    "After holding Block for 0.50 seconds, Mordo can Block Unblockable Special Attacks."
+                    "If Mordo holds Block for more than 0.50 second(s), his Block will not be broken by Unblockable Special Attacks."
                 ],
-                "HEAVY ATTACKS": [
-                    "Mordo gains 16.6% of max Power per second while below 1 Power bar.",
-                    "Exponentially gains up to 10 Fury stacks while charging a Heavy Attack, each charge increases his Attack by 129.15."
+                "WHILE CHARGING A HEAVY ATTACK": [
+                    "Continually gain Fury Buffs, each granting +172.2 Attack Rating for 17 second(s). Max: {3} Buffs. Exponentially gain more Buffs the longer the Heavy Attack is charged.",
+                    "If Mordo is below 1 Bar of Power, he will Passively gain 0.5 Bar(s) of Power per second."
                 ],
                 "SPECIAL ATTACK 1": [
-                    "30% chance to Stun for 3 second(s).",
-                    "Causes Degeneration, inflicting 688.8 Direct Damage over 2.50 seconds. If the opponent has a Buff, Degeneration will activate even after a successful Block."
+                    "30% chance to inflict a 3 second Stun Debuff.",
+                    "100% chance to inflict a Degeneration Debuff, causing 688.8 Direct Damage over 2.50 second(s). If the opponent has at least 1 Buff, this effect can be triggered through a Block."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Opponents suffer from Mordo\u2019s Soul Barb spell for 14 seconds, dealing 103.32 Energy Damage per opponent Buff per second. Additionally, Soul Barb reduces Health recovery by 70%."
+                    "100% chance to inflict a Soul Barb Debuff lasting 14 seconds, dealing 103.32 Energy Damage per second for each Buff on the opponent. Soul Barb also reduces Regeneration Rate by 80%."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "Gains 3 stacks of Fury, each increasing his Attack by 430.5 for 12 seconds.",
-                    "Up to 40% chance based on Health lost to Regenerate instead of gaining a Fury stack, Recovering 1760.4 Health in 6 seconds."
+                    "100% chance to gain {3} Fury Buffs, each granting +430.5 Attack Rating for 17 second(s).",
+                    "Up to 50% chance based on lost Health to gain a Regeneration Buff in place of a Fury Buff, recovering 1760.4 Health over 6 second(s)."
                 ]
             }
         },
         "4+5": {
+            "challenger_rating": 100,
             "rank": 5,
-            "prestige": "3836",
-            "hp": "15660",
-            "attack": "1148",
-            "crit_rate": "598",
-            "crit_dmge": "703",
-            "armor": "273",
-            "block_prof": "1922",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "By conjuring a magical barrier, Mordo gains 1333.33 to 7997.96 Energy Resistance while he remains Blocking.",
+            "prestige": 3903,
+            "hp": 15660,
+            "attack": 1148,
+            "crit_rate": 598,
+            "crit_dmge": 703,
+            "armor": 273,
+            "block_prof": 1922,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "By conjuring a magical barrier, Mordo gains 1333.33 to 7997.96 Energy Resistance while he remains Blocking.",
+                "If the opponent strikes Mordo\u2019s Block while they have a True-Type Buff, he has a 60 to 100.01% chance to Nullify that Buff and replace it with a Detonate Buff lasting 20 second(s). Detonate deals a burst of 688.8 Energy Damage when it\u2019s Nullified or Expires."
+            ],
             "url_page": "https://auntm.ai/champions/karlmordo/tier/4",
             "champid": "karlmordo+4+5",
-            "challenger_rating": 100,
             "abilities": {
-                "PASSIVE": [
-                    "Mordo's astral form grants him immunity to passive Ability Accuracy reduction effects.",
-                    "Every 8 seconds, Mordo gets one bar of Power over 5 seconds. While the Power Gain is active, opponents can interrupt it by landing a hit on Mordo."
+                "ASTRAL FORM - ALWAYS ACTIVE": [
+                    "Mordo is Immune to Passive Ability Accuracy reductions.",
+                    "While the opponent has at least 1 Buff, gain +229.6 Attack Rating.",
+                    "Every 8 second(s), Mordo gains a Power Gain Buff granting 1 Bar of Power over 5 second(s). This Buff is removed if Mordo is struck. If fighting as a Defender, Mordo will behave less aggressively while this Buff is active."
                 ],
-                "WHEN STUNNED": [
-                    "While Stunned, Mordo Evades an incoming non-Special Attack, quickly counter-attacking to inflict Degeneration for 918.4 Direct Damage over 2.50 seconds. This ability does not activate if Mordo is suffering from a Concussion or Fatigue Debuff."
+                "WHILE STUNNED": [
+                    "Mordo will Evade any incoming Basic Attack and perform a counter-attack which has a 100% chance to inflict a Degeneration Debuff causing 918.4 Direct Damage over 2.50 second(s)."
                 ],
                 "BLOCKING": [
-                    "After holding Block for 0.50 seconds, Mordo can Block Unblockable Special Attacks."
+                    "If Mordo holds Block for more than 0.50 second(s), his Block will not be broken by Unblockable Special Attacks."
                 ],
-                "HEAVY ATTACKS": [
-                    "Mordo gains 16.6% of max Power per second while below 1 Power bar.",
-                    "Exponentially gains up to 10 Fury stacks while charging a Heavy Attack, each charge increases his Attack by 172.2."
+                "WHILE CHARGING A HEAVY ATTACK": [
+                    "Continually gain Fury Buffs, each granting +229.6 Attack Rating for 17 second(s). Max: {3} Buffs. Exponentially gain more Buffs the longer the Heavy Attack is charged.",
+                    "If Mordo is below 1 Bar of Power, he will Passively gain 0.5 Bar(s) of Power per second."
                 ],
                 "SPECIAL ATTACK 1": [
-                    "30% chance to Stun for 3 second(s).",
-                    "Causes Degeneration, inflicting 918.4 Direct Damage over 2.50 seconds. If the opponent has a Buff, Degeneration will activate even after a successful Block."
+                    "30% chance to inflict a 3 second Stun Debuff.",
+                    "100% chance to inflict a Degeneration Debuff, causing 918.4 Direct Damage over 2.50 second(s). If the opponent has at least 1 Buff, this effect can be triggered through a Block."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Opponents suffer from Mordo\u2019s Soul Barb spell for 14 seconds, dealing 137.76 Energy Damage per opponent Buff per second. Additionally, Soul Barb reduces Health recovery by 70%."
+                    "100% chance to inflict a Soul Barb Debuff lasting 14 seconds, dealing 137.76 Energy Damage per second for each Buff on the opponent. Soul Barb also reduces Regeneration Rate by 80%."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "Gains 3 stacks of Fury, each increasing his Attack by 574 for 12 seconds.",
-                    "Up to 40% chance based on Health lost to Regenerate instead of gaining a Fury stack, Recovering 2349 Health in 6 seconds."
+                    "100% chance to gain {3} Fury Buffs, each granting +574 Attack Rating for 17 second(s).",
+                    "Up to 50% chance based on lost Health to gain a Regeneration Buff in place of a Fury Buff, recovering 2349 Health over 6 second(s)."
                 ]
             }
         },
         "5+1": {
+            "challenger_rating": 80,
             "rank": 1,
-            "prestige": "2296",
-            "hp": "9345",
-            "attack": "685",
-            "crit_rate": "568",
-            "crit_dmge": "668",
-            "armor": "362",
-            "block_prof": "1826",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "By conjuring a magical barrier, Mordo gains 4874.58 to 17149.14 Energy Resistance while he remains Blocking.",
+            "prestige": 2337,
+            "hp": 9345,
+            "attack": 685,
+            "crit_rate": 568,
+            "crit_dmge": 668,
+            "armor": 362,
+            "block_prof": 1826,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "By conjuring a magical barrier, Mordo gains 4874.58 to 17149.14 Energy Resistance while he remains Blocking.",
+                "If the opponent strikes Mordo\u2019s Block while they have a True-Type Buff, he has a 70 to 173.23% chance to Nullify that Buff and replace it with a Detonate Buff lasting 20 second(s). Detonate deals a burst of 479.5 Energy Damage when it\u2019s Nullified or Expires."
+            ],
             "url_page": "https://auntm.ai/champions/karlmordo/tier/5",
             "champid": "karlmordo+5+1",
-            "challenger_rating": 80,
             "abilities": {
-                "PASSIVE": [
-                    "Mordo's astral form grants him immunity to passive Ability Accuracy reduction effects.",
-                    "Every 8 seconds, Mordo gets one bar of Power over 5 seconds. While the Power Gain is active, opponents can interrupt it by landing a hit on Mordo."
+                "ASTRAL FORM - ALWAYS ACTIVE": [
+                    "Mordo is Immune to Passive Ability Accuracy reductions.",
+                    "While the opponent has at least 1 Buff, gain +137 Attack Rating.",
+                    "Every 8 second(s), Mordo gains a Power Gain Buff granting 1 Bar of Power over 5 second(s). This Buff is removed if Mordo is struck. If fighting as a Defender, Mordo will behave less aggressively while this Buff is active."
                 ],
-                "WHEN STUNNED": [
-                    "While Stunned, Mordo Evades an incoming non-Special Attack, quickly counter-attacking to inflict Degeneration for 548 Direct Damage over 2.50 seconds. This ability does not activate if Mordo is suffering from a Concussion or Fatigue Debuff."
+                "WHILE STUNNED": [
+                    "Mordo will Evade any incoming Basic Attack and perform a counter-attack which has a 100% chance to inflict a Degeneration Debuff causing 548 Direct Damage over 2.50 second(s)."
                 ],
                 "BLOCKING": [
-                    "After holding Block for 0.50 seconds, Mordo can Block Unblockable Special Attacks."
+                    "If Mordo holds Block for more than 0.50 second(s), his Block will not be broken by Unblockable Special Attacks."
                 ],
-                "HEAVY ATTACKS": [
-                    "Mordo gains 16.6% of max Power per second while below 1 Power bar.",
-                    "Exponentially gains up to 10 Fury stacks while charging a Heavy Attack, each charge increases his Attack by 102.75."
+                "WHILE CHARGING A HEAVY ATTACK": [
+                    "Continually gain Fury Buffs, each granting +137 Attack Rating for 17 second(s). Max: {3} Buffs. Exponentially gain more Buffs the longer the Heavy Attack is charged.",
+                    "If Mordo is below 1 Bar of Power, he will Passively gain 0.5 Bar(s) of Power per second."
                 ],
                 "SPECIAL ATTACK 1": [
-                    "30% chance to Stun for 3 second(s).",
-                    "Causes Degeneration, inflicting 548 Direct Damage over 2.50 seconds. If the opponent has a Buff, Degeneration will activate even after a successful Block."
+                    "30% chance to inflict a 3 second Stun Debuff.",
+                    "100% chance to inflict a Degeneration Debuff, causing 548 Direct Damage over 2.50 second(s). If the opponent has at least 1 Buff, this effect can be triggered through a Block."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Opponents suffer from Mordo\u2019s Soul Barb spell for 14 seconds, dealing 82.2 Energy Damage per opponent Buff per second. Additionally, Soul Barb reduces Health recovery by 70%."
+                    "100% chance to inflict a Soul Barb Debuff lasting 14 seconds, dealing 82.2 Energy Damage per second for each Buff on the opponent. Soul Barb also reduces Regeneration Rate by 80%."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "Gains 3 stacks of Fury, each increasing his Attack by 342.5 for 12 seconds.",
-                    "Up to 40% chance based on Health lost to Regenerate instead of gaining a Fury stack, Recovering 1401.75 Health in 6 seconds."
+                    "100% chance to gain {3} Fury Buffs, each granting +342.5 Attack Rating for 17 second(s).",
+                    "Up to 50% chance based on lost Health to gain a Regeneration Buff in place of a Fury Buff, recovering 1401.75 Health over 6 second(s)."
                 ]
             }
         },
         "5+2": {
+            "challenger_rating": 90,
             "rank": 2,
-            "prestige": "3032",
-            "hp": "12345",
-            "attack": "905",
-            "crit_rate": "583",
-            "crit_dmge": "686",
-            "armor": "400",
-            "block_prof": "1874",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "By conjuring a magical barrier, Mordo gains 5002.86 to 17600.43 Energy Resistance while he remains Blocking.",
+            "prestige": 3084,
+            "hp": 12345,
+            "attack": 905,
+            "crit_rate": 583,
+            "crit_dmge": 686,
+            "armor": 400,
+            "block_prof": 1874,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "By conjuring a magical barrier, Mordo gains 5002.86 to 17600.43 Energy Resistance while he remains Blocking.",
+                "If the opponent strikes Mordo\u2019s Block while they have a True-Type Buff, he has a 70 to 173.23% chance to Nullify that Buff and replace it with a Detonate Buff lasting 20 second(s). Detonate deals a burst of 633.5 Energy Damage when it\u2019s Nullified or Expires."
+            ],
             "url_page": "https://auntm.ai/champions/karlmordo/tier/5",
             "champid": "karlmordo+5+2",
-            "challenger_rating": 90,
             "abilities": {
-                "PASSIVE": [
-                    "Mordo's astral form grants him immunity to passive Ability Accuracy reduction effects.",
-                    "Every 8 seconds, Mordo gets one bar of Power over 5 seconds. While the Power Gain is active, opponents can interrupt it by landing a hit on Mordo."
+                "ASTRAL FORM - ALWAYS ACTIVE": [
+                    "Mordo is Immune to Passive Ability Accuracy reductions.",
+                    "While the opponent has at least 1 Buff, gain +181 Attack Rating.",
+                    "Every 8 second(s), Mordo gains a Power Gain Buff granting 1 Bar of Power over 5 second(s). This Buff is removed if Mordo is struck. If fighting as a Defender, Mordo will behave less aggressively while this Buff is active."
                 ],
-                "WHEN STUNNED": [
-                    "While Stunned, Mordo Evades an incoming non-Special Attack, quickly counter-attacking to inflict Degeneration for 724 Direct Damage over 2.50 seconds. This ability does not activate if Mordo is suffering from a Concussion or Fatigue Debuff."
+                "WHILE STUNNED": [
+                    "Mordo will Evade any incoming Basic Attack and perform a counter-attack which has a 100% chance to inflict a Degeneration Debuff causing 724 Direct Damage over 2.50 second(s)."
                 ],
                 "BLOCKING": [
-                    "After holding Block for 0.50 seconds, Mordo can Block Unblockable Special Attacks."
+                    "If Mordo holds Block for more than 0.50 second(s), his Block will not be broken by Unblockable Special Attacks."
                 ],
-                "HEAVY ATTACKS": [
-                    "Mordo gains 16.6% of max Power per second while below 1 Power bar.",
-                    "Exponentially gains up to 10 Fury stacks while charging a Heavy Attack, each charge increases his Attack by 135.75."
+                "WHILE CHARGING A HEAVY ATTACK": [
+                    "Continually gain Fury Buffs, each granting +181 Attack Rating for 17 second(s). Max: {3} Buffs. Exponentially gain more Buffs the longer the Heavy Attack is charged.",
+                    "If Mordo is below 1 Bar of Power, he will Passively gain 0.5 Bar(s) of Power per second."
                 ],
                 "SPECIAL ATTACK 1": [
-                    "30% chance to Stun for 3 second(s).",
-                    "Causes Degeneration, inflicting 724 Direct Damage over 2.50 seconds. If the opponent has a Buff, Degeneration will activate even after a successful Block."
+                    "30% chance to inflict a 3 second Stun Debuff.",
+                    "100% chance to inflict a Degeneration Debuff, causing 724 Direct Damage over 2.50 second(s). If the opponent has at least 1 Buff, this effect can be triggered through a Block."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Opponents suffer from Mordo\u2019s Soul Barb spell for 14 seconds, dealing 108.6 Energy Damage per opponent Buff per second. Additionally, Soul Barb reduces Health recovery by 70%."
+                    "100% chance to inflict a Soul Barb Debuff lasting 14 seconds, dealing 108.6 Energy Damage per second for each Buff on the opponent. Soul Barb also reduces Regeneration Rate by 80%."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "Gains 3 stacks of Fury, each increasing his Attack by 452.5 for 12 seconds.",
-                    "Up to 40% chance based on Health lost to Regenerate instead of gaining a Fury stack, Recovering 1851.75 Health in 6 seconds."
+                    "100% chance to gain {3} Fury Buffs, each granting +452.5 Attack Rating for 17 second(s).",
+                    "Up to 50% chance based on lost Health to gain a Regeneration Buff in place of a Fury Buff, recovering 1851.75 Health over 6 second(s)."
                 ]
             }
         },
         "5+3": {
+            "challenger_rating": 100,
             "rank": 3,
-            "prestige": "4243",
-            "hp": "17258",
-            "attack": "1265",
-            "crit_rate": "598",
-            "crit_dmge": "703",
-            "armor": "440",
-            "block_prof": "1922",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "By conjuring a magical barrier, Mordo gains 5131.14 to 18051.72 Energy Resistance while he remains Blocking.",
+            "prestige": 4315,
+            "hp": 17258,
+            "attack": 1265,
+            "crit_rate": 598,
+            "crit_dmge": 703,
+            "armor": 440,
+            "block_prof": 1922,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "By conjuring a magical barrier, Mordo gains 5131.14 to 18051.72 Energy Resistance while he remains Blocking.",
+                "If the opponent strikes Mordo\u2019s Block while they have a True-Type Buff, he has a 70 to 173.23% chance to Nullify that Buff and replace it with a Detonate Buff lasting 20 second(s). Detonate deals a burst of 885.5 Energy Damage when it\u2019s Nullified or Expires."
+            ],
             "url_page": "https://auntm.ai/champions/karlmordo/tier/5",
             "champid": "karlmordo+5+3",
-            "challenger_rating": 100,
             "abilities": {
-                "PASSIVE": [
-                    "Mordo's astral form grants him immunity to passive Ability Accuracy reduction effects.",
-                    "Every 8 seconds, Mordo gets one bar of Power over 5 seconds. While the Power Gain is active, opponents can interrupt it by landing a hit on Mordo."
+                "ASTRAL FORM - ALWAYS ACTIVE": [
+                    "Mordo is Immune to Passive Ability Accuracy reductions.",
+                    "While the opponent has at least 1 Buff, gain +253 Attack Rating.",
+                    "Every 8 second(s), Mordo gains a Power Gain Buff granting 1 Bar of Power over 5 second(s). This Buff is removed if Mordo is struck. If fighting as a Defender, Mordo will behave less aggressively while this Buff is active."
                 ],
-                "WHEN STUNNED": [
-                    "While Stunned, Mordo Evades an incoming non-Special Attack, quickly counter-attacking to inflict Degeneration for 1012 Direct Damage over 2.50 seconds. This ability does not activate if Mordo is suffering from a Concussion or Fatigue Debuff."
+                "WHILE STUNNED": [
+                    "Mordo will Evade any incoming Basic Attack and perform a counter-attack which has a 100% chance to inflict a Degeneration Debuff causing 1012 Direct Damage over 2.50 second(s)."
                 ],
                 "BLOCKING": [
-                    "After holding Block for 0.50 seconds, Mordo can Block Unblockable Special Attacks."
+                    "If Mordo holds Block for more than 0.50 second(s), his Block will not be broken by Unblockable Special Attacks."
                 ],
-                "HEAVY ATTACKS": [
-                    "Mordo gains 16.6% of max Power per second while below 1 Power bar.",
-                    "Exponentially gains up to 10 Fury stacks while charging a Heavy Attack, each charge increases his Attack by 189.75."
+                "WHILE CHARGING A HEAVY ATTACK": [
+                    "Continually gain Fury Buffs, each granting +253 Attack Rating for 17 second(s). Max: {3} Buffs. Exponentially gain more Buffs the longer the Heavy Attack is charged.",
+                    "If Mordo is below 1 Bar of Power, he will Passively gain 0.5 Bar(s) of Power per second."
                 ],
                 "SPECIAL ATTACK 1": [
-                    "30% chance to Stun for 3 second(s).",
-                    "Causes Degeneration, inflicting 1012 Direct Damage over 2.50 seconds. If the opponent has a Buff, Degeneration will activate even after a successful Block."
+                    "30% chance to inflict a 3 second Stun Debuff.",
+                    "100% chance to inflict a Degeneration Debuff, causing 1012 Direct Damage over 2.50 second(s). If the opponent has at least 1 Buff, this effect can be triggered through a Block."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Opponents suffer from Mordo\u2019s Soul Barb spell for 14 seconds, dealing 151.8 Energy Damage per opponent Buff per second. Additionally, Soul Barb reduces Health recovery by 70%."
+                    "100% chance to inflict a Soul Barb Debuff lasting 14 seconds, dealing 151.8 Energy Damage per second for each Buff on the opponent. Soul Barb also reduces Regeneration Rate by 80%."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "Gains 3 stacks of Fury, each increasing his Attack by 632.5 for 12 seconds.",
-                    "Up to 40% chance based on Health lost to Regenerate instead of gaining a Fury stack, Recovering 2588.7 Health in 6 seconds."
+                    "100% chance to gain {3} Fury Buffs, each granting +632.5 Attack Rating for 17 second(s).",
+                    "Up to 50% chance based on lost Health to gain a Regeneration Buff in place of a Fury Buff, recovering 2588.7 Health over 6 second(s)."
                 ]
             }
         },
         "5+4": {
+            "challenger_rating": 110,
             "rank": 4,
-            "prestige": "5712",
-            "hp": "23255",
-            "attack": "1705",
-            "crit_rate": "613",
-            "crit_dmge": "721",
-            "armor": "481",
-            "block_prof": "1970",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "By conjuring a magical barrier, Mordo gains 5259.42 to 18503.02 Energy Resistance while he remains Blocking.",
+            "prestige": 5812,
+            "hp": 23255,
+            "attack": 1705,
+            "crit_rate": 613,
+            "crit_dmge": 721,
+            "armor": 481,
+            "block_prof": 1970,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "By conjuring a magical barrier, Mordo gains 5259.42 to 18503.02 Energy Resistance while he remains Blocking.",
+                "If the opponent strikes Mordo\u2019s Block while they have a True-Type Buff, he has a 70 to 173.23% chance to Nullify that Buff and replace it with a Detonate Buff lasting 20 second(s). Detonate deals a burst of 1193.5 Energy Damage when it\u2019s Nullified or Expires."
+            ],
             "url_page": "https://auntm.ai/champions/karlmordo/tier/5",
             "champid": "karlmordo+5+4",
-            "challenger_rating": 110,
             "abilities": {
-                "PASSIVE": [
-                    "Mordo's astral form grants him immunity to passive Ability Accuracy reduction effects.",
-                    "Every 8 seconds, Mordo gets one bar of Power over 5 seconds. While the Power Gain is active, opponents can interrupt it by landing a hit on Mordo."
+                "ASTRAL FORM - ALWAYS ACTIVE": [
+                    "Mordo is Immune to Passive Ability Accuracy reductions.",
+                    "While the opponent has at least 1 Buff, gain +341 Attack Rating.",
+                    "Every 8 second(s), Mordo gains a Power Gain Buff granting 1 Bar of Power over 5 second(s). This Buff is removed if Mordo is struck. If fighting as a Defender, Mordo will behave less aggressively while this Buff is active."
                 ],
-                "WHEN STUNNED": [
-                    "While Stunned, Mordo Evades an incoming non-Special Attack, quickly counter-attacking to inflict Degeneration for 1364 Direct Damage over 2.50 seconds. This ability does not activate if Mordo is suffering from a Concussion or Fatigue Debuff."
+                "WHILE STUNNED": [
+                    "Mordo will Evade any incoming Basic Attack and perform a counter-attack which has a 100% chance to inflict a Degeneration Debuff causing 1364 Direct Damage over 2.50 second(s)."
                 ],
                 "BLOCKING": [
-                    "After holding Block for 0.50 seconds, Mordo can Block Unblockable Special Attacks."
+                    "If Mordo holds Block for more than 0.50 second(s), his Block will not be broken by Unblockable Special Attacks."
                 ],
-                "HEAVY ATTACKS": [
-                    "Mordo gains 16.6% of max Power per second while below 1 Power bar.",
-                    "Exponentially gains up to 10 Fury stacks while charging a Heavy Attack, each charge increases his Attack by 255.75."
+                "WHILE CHARGING A HEAVY ATTACK": [
+                    "Continually gain Fury Buffs, each granting +341 Attack Rating for 17 second(s). Max: {3} Buffs. Exponentially gain more Buffs the longer the Heavy Attack is charged.",
+                    "If Mordo is below 1 Bar of Power, he will Passively gain 0.5 Bar(s) of Power per second."
                 ],
                 "SPECIAL ATTACK 1": [
-                    "30% chance to Stun for 3 second(s).",
-                    "Causes Degeneration, inflicting 1364 Direct Damage over 2.50 seconds. If the opponent has a Buff, Degeneration will activate even after a successful Block."
+                    "30% chance to inflict a 3 second Stun Debuff.",
+                    "100% chance to inflict a Degeneration Debuff, causing 1364 Direct Damage over 2.50 second(s). If the opponent has at least 1 Buff, this effect can be triggered through a Block."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Opponents suffer from Mordo\u2019s Soul Barb spell for 14 seconds, dealing 204.6 Energy Damage per opponent Buff per second. Additionally, Soul Barb reduces Health recovery by 70%."
+                    "100% chance to inflict a Soul Barb Debuff lasting 14 seconds, dealing 204.6 Energy Damage per second for each Buff on the opponent. Soul Barb also reduces Regeneration Rate by 80%."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "Gains 3 stacks of Fury, each increasing his Attack by 852.5 for 12 seconds.",
-                    "Up to 40% chance based on Health lost to Regenerate instead of gaining a Fury stack, Recovering 3488.25 Health in 6 seconds."
+                    "100% chance to gain {3} Fury Buffs, each granting +852.5 Attack Rating for 17 second(s).",
+                    "Up to 50% chance based on lost Health to gain a Regeneration Buff in place of a Fury Buff, recovering 3488.25 Health over 6 second(s)."
                 ]
             }
         },
         "5+5": {
+            "challenger_rating": 120,
             "rank": 5,
-            "prestige": "7724",
-            "hp": "31398",
-            "attack": "2301",
-            "crit_rate": "628",
-            "crit_dmge": "738",
-            "armor": "525",
-            "block_prof": "2018",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "By conjuring a magical barrier, Mordo gains 5387.7 to 18954.31 Energy Resistance while he remains Blocking.",
+            "prestige": 7857,
+            "hp": 31398,
+            "attack": 2301,
+            "crit_rate": 628,
+            "crit_dmge": 738,
+            "armor": 525,
+            "block_prof": 2018,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "By conjuring a magical barrier, Mordo gains 5387.7 to 18954.31 Energy Resistance while he remains Blocking.",
+                "If the opponent strikes Mordo\u2019s Block while they have a True-Type Buff, he has a 70 to 173.23% chance to Nullify that Buff and replace it with a Detonate Buff lasting 20 second(s). Detonate deals a burst of 1610.7 Energy Damage when it\u2019s Nullified or Expires."
+            ],
             "url_page": "https://auntm.ai/champions/karlmordo/tier/5",
             "champid": "karlmordo+5+5",
-            "challenger_rating": 120,
             "abilities": {
-                "PASSIVE": [
-                    "Mordo's astral form grants him immunity to passive Ability Accuracy reduction effects.",
-                    "Every 8 seconds, Mordo gets one bar of Power over 5 seconds. While the Power Gain is active, opponents can interrupt it by landing a hit on Mordo."
+                "ASTRAL FORM - ALWAYS ACTIVE": [
+                    "Mordo is Immune to Passive Ability Accuracy reductions.",
+                    "While the opponent has at least 1 Buff, gain +460.2 Attack Rating.",
+                    "Every 8 second(s), Mordo gains a Power Gain Buff granting 1 Bar of Power over 5 second(s). This Buff is removed if Mordo is struck. If fighting as a Defender, Mordo will behave less aggressively while this Buff is active."
                 ],
-                "WHEN STUNNED": [
-                    "While Stunned, Mordo Evades an incoming non-Special Attack, quickly counter-attacking to inflict Degeneration for 1840.8 Direct Damage over 2.50 seconds. This ability does not activate if Mordo is suffering from a Concussion or Fatigue Debuff."
+                "WHILE STUNNED": [
+                    "Mordo will Evade any incoming Basic Attack and perform a counter-attack which has a 100% chance to inflict a Degeneration Debuff causing 1840.8 Direct Damage over 2.50 second(s)."
                 ],
                 "BLOCKING": [
-                    "After holding Block for 0.50 seconds, Mordo can Block Unblockable Special Attacks."
+                    "If Mordo holds Block for more than 0.50 second(s), his Block will not be broken by Unblockable Special Attacks."
                 ],
-                "HEAVY ATTACKS": [
-                    "Mordo gains 16.6% of max Power per second while below 1 Power bar.",
-                    "Exponentially gains up to 10 Fury stacks while charging a Heavy Attack, each charge increases his Attack by 345.15."
+                "WHILE CHARGING A HEAVY ATTACK": [
+                    "Continually gain Fury Buffs, each granting +460.2 Attack Rating for 17 second(s). Max: {3} Buffs. Exponentially gain more Buffs the longer the Heavy Attack is charged.",
+                    "If Mordo is below 1 Bar of Power, he will Passively gain 0.5 Bar(s) of Power per second."
                 ],
                 "SPECIAL ATTACK 1": [
-                    "30% chance to Stun for 3 second(s).",
-                    "Causes Degeneration, inflicting 1840.8 Direct Damage over 2.50 seconds. If the opponent has a Buff, Degeneration will activate even after a successful Block."
+                    "30% chance to inflict a 3 second Stun Debuff.",
+                    "100% chance to inflict a Degeneration Debuff, causing 1840.8 Direct Damage over 2.50 second(s). If the opponent has at least 1 Buff, this effect can be triggered through a Block."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Opponents suffer from Mordo\u2019s Soul Barb spell for 14 seconds, dealing 276.12 Energy Damage per opponent Buff per second. Additionally, Soul Barb reduces Health recovery by 70%."
+                    "100% chance to inflict a Soul Barb Debuff lasting 14 seconds, dealing 276.12 Energy Damage per second for each Buff on the opponent. Soul Barb also reduces Regeneration Rate by 80%."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "Gains 3 stacks of Fury, each increasing his Attack by 1150.5 for 12 seconds.",
-                    "Up to 40% chance based on Health lost to Regenerate instead of gaining a Fury stack, Recovering 4709.7 Health in 6 seconds."
+                    "100% chance to gain {3} Fury Buffs, each granting +1150.5 Attack Rating for 17 second(s).",
+                    "Up to 50% chance based on lost Health to gain a Regeneration Buff in place of a Fury Buff, recovering 4709.7 Health over 6 second(s)."
                 ]
             }
         },
         "6+1": {
+            "challenger_rating": 110,
             "rank": 1,
-            "prestige": "6055",
-            "hp": "24689",
-            "attack": "1810",
-            "crit_rate": "613",
-            "crit_dmge": "721",
-            "armor": "391",
-            "block_prof": "1970",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "By conjuring a magical barrier, Mordo gains 5259.42 to 18503.02 Energy Resistance while he remains Blocking.",
+            "prestige": 6160,
+            "hp": 24689,
+            "attack": 1810,
+            "crit_rate": 613,
+            "crit_dmge": 721,
+            "armor": 391,
+            "block_prof": 1970,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "By conjuring a magical barrier, Mordo gains 5259.42 to 18503.02 Energy Resistance while he remains Blocking.",
+                "If the opponent strikes Mordo\u2019s Block while they have a True-Type Buff, he has a 70 to 173.23% chance to Nullify that Buff and replace it with a Detonate Buff lasting 20 second(s). Detonate deals a burst of 1267 Energy Damage when it\u2019s Nullified or Expires."
+            ],
             "url_page": "https://auntm.ai/champions/karlmordo/tier/6",
             "champid": "karlmordo+6+1",
-            "challenger_rating": 110,
             "abilities": {
-                "PASSIVE": [
-                    "Mordo's astral form grants him immunity to passive Ability Accuracy reduction effects.",
-                    "Every 8 seconds, Mordo gets one bar of Power over 5 seconds. While the Power Gain is active, opponents can interrupt it by landing a hit on Mordo."
+                "ASTRAL FORM - ALWAYS ACTIVE": [
+                    "Mordo is Immune to Passive Ability Accuracy reductions.",
+                    "While the opponent has at least 1 Buff, gain +362 Attack Rating.",
+                    "Every 8 second(s), Mordo gains a Power Gain Buff granting 1 Bar of Power over 5 second(s). This Buff is removed if Mordo is struck. If fighting as a Defender, Mordo will behave less aggressively while this Buff is active."
                 ],
-                "WHEN STUNNED": [
-                    "While Stunned, Mordo Evades an incoming non-Special Attack, quickly counter-attacking to inflict Degeneration for 1448 Direct Damage over 2.50 seconds. This ability does not activate if Mordo is suffering from a Concussion or Fatigue Debuff."
+                "WHILE STUNNED": [
+                    "Mordo will Evade any incoming Basic Attack and perform a counter-attack which has a 100% chance to inflict a Degeneration Debuff causing 1448 Direct Damage over 2.50 second(s)."
                 ],
                 "BLOCKING": [
-                    "After holding Block for 0.50 seconds, Mordo can Block Unblockable Special Attacks."
+                    "If Mordo holds Block for more than 0.50 second(s), his Block will not be broken by Unblockable Special Attacks."
                 ],
-                "HEAVY ATTACKS": [
-                    "Mordo gains 16.6% of max Power per second while below 1 Power bar.",
-                    "Exponentially gains up to 10 Fury stacks while charging a Heavy Attack, each charge increases his Attack by 271.5."
+                "WHILE CHARGING A HEAVY ATTACK": [
+                    "Continually gain Fury Buffs, each granting +362 Attack Rating for 17 second(s). Max: {3} Buffs. Exponentially gain more Buffs the longer the Heavy Attack is charged.",
+                    "If Mordo is below 1 Bar of Power, he will Passively gain 0.5 Bar(s) of Power per second."
                 ],
                 "SPECIAL ATTACK 1": [
-                    "30% chance to Stun for 3 second(s).",
-                    "Causes Degeneration, inflicting 1448 Direct Damage over 2.50 seconds. If the opponent has a Buff, Degeneration will activate even after a successful Block."
+                    "30% chance to inflict a 3 second Stun Debuff.",
+                    "100% chance to inflict a Degeneration Debuff, causing 1448 Direct Damage over 2.50 second(s). If the opponent has at least 1 Buff, this effect can be triggered through a Block."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Opponents suffer from Mordo\u2019s Soul Barb spell for 14 seconds, dealing 217.2 Energy Damage per opponent Buff per second. Additionally, Soul Barb reduces Health recovery by 70%."
+                    "100% chance to inflict a Soul Barb Debuff lasting 14 seconds, dealing 217.2 Energy Damage per second for each Buff on the opponent. Soul Barb also reduces Regeneration Rate by 80%."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "Gains 3 stacks of Fury, each increasing his Attack by 905 for 12 seconds.",
-                    "Up to 40% chance based on Health lost to Regenerate instead of gaining a Fury stack, Recovering 3703.35 Health in 6 seconds."
+                    "100% chance to gain {3} Fury Buffs, each granting +905 Attack Rating for 17 second(s).",
+                    "Up to 50% chance based on lost Health to gain a Regeneration Buff in place of a Fury Buff, recovering 3703.35 Health over 6 second(s)."
                 ]
             }
         },
         "6+2": {
+            "challenger_rating": 120,
             "rank": 2,
-            "prestige": "8360",
-            "hp": "34103",
-            "attack": "2500",
-            "crit_rate": "628",
-            "crit_dmge": "738",
-            "armor": "431",
-            "block_prof": "2018",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "By conjuring a magical barrier, Mordo gains 5387.7 to 18954.31 Energy Resistance while he remains Blocking.",
+            "prestige": 8505,
+            "hp": 34103,
+            "attack": 2500,
+            "crit_rate": 628,
+            "crit_dmge": 738,
+            "armor": 431,
+            "block_prof": 2018,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "By conjuring a magical barrier, Mordo gains 5387.7 to 18954.31 Energy Resistance while he remains Blocking.",
+                "If the opponent strikes Mordo\u2019s Block while they have a True-Type Buff, he has a 70 to 173.23% chance to Nullify that Buff and replace it with a Detonate Buff lasting 20 second(s). Detonate deals a burst of 1750 Energy Damage when it\u2019s Nullified or Expires."
+            ],
             "url_page": "https://auntm.ai/champions/karlmordo/tier/6",
             "champid": "karlmordo+6+2",
-            "challenger_rating": 120,
             "abilities": {
-                "PASSIVE": [
-                    "Mordo's astral form grants him immunity to passive Ability Accuracy reduction effects.",
-                    "Every 8 seconds, Mordo gets one bar of Power over 5 seconds. While the Power Gain is active, opponents can interrupt it by landing a hit on Mordo."
+                "ASTRAL FORM - ALWAYS ACTIVE": [
+                    "Mordo is Immune to Passive Ability Accuracy reductions.",
+                    "While the opponent has at least 1 Buff, gain +500 Attack Rating.",
+                    "Every 8 second(s), Mordo gains a Power Gain Buff granting 1 Bar of Power over 5 second(s). This Buff is removed if Mordo is struck. If fighting as a Defender, Mordo will behave less aggressively while this Buff is active."
                 ],
-                "WHEN STUNNED": [
-                    "While Stunned, Mordo Evades an incoming non-Special Attack, quickly counter-attacking to inflict Degeneration for 2000 Direct Damage over 2.50 seconds. This ability does not activate if Mordo is suffering from a Concussion or Fatigue Debuff."
+                "WHILE STUNNED": [
+                    "Mordo will Evade any incoming Basic Attack and perform a counter-attack which has a 100% chance to inflict a Degeneration Debuff causing 2000 Direct Damage over 2.50 second(s)."
                 ],
                 "BLOCKING": [
-                    "After holding Block for 0.50 seconds, Mordo can Block Unblockable Special Attacks."
+                    "If Mordo holds Block for more than 0.50 second(s), his Block will not be broken by Unblockable Special Attacks."
                 ],
-                "HEAVY ATTACKS": [
-                    "Mordo gains 16.6% of max Power per second while below 1 Power bar.",
-                    "Exponentially gains up to 10 Fury stacks while charging a Heavy Attack, each charge increases his Attack by 375."
+                "WHILE CHARGING A HEAVY ATTACK": [
+                    "Continually gain Fury Buffs, each granting +500 Attack Rating for 17 second(s). Max: {3} Buffs. Exponentially gain more Buffs the longer the Heavy Attack is charged.",
+                    "If Mordo is below 1 Bar of Power, he will Passively gain 0.5 Bar(s) of Power per second."
                 ],
                 "SPECIAL ATTACK 1": [
-                    "30% chance to Stun for 3 second(s).",
-                    "Causes Degeneration, inflicting 2000 Direct Damage over 2.50 seconds. If the opponent has a Buff, Degeneration will activate even after a successful Block."
+                    "30% chance to inflict a 3 second Stun Debuff.",
+                    "100% chance to inflict a Degeneration Debuff, causing 2000 Direct Damage over 2.50 second(s). If the opponent has at least 1 Buff, this effect can be triggered through a Block."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Opponents suffer from Mordo\u2019s Soul Barb spell for 14 seconds, dealing 300 Energy Damage per opponent Buff per second. Additionally, Soul Barb reduces Health recovery by 70%."
+                    "100% chance to inflict a Soul Barb Debuff lasting 14 seconds, dealing 300 Energy Damage per second for each Buff on the opponent. Soul Barb also reduces Regeneration Rate by 80%."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "Gains 3 stacks of Fury, each increasing his Attack by 1250 for 12 seconds.",
-                    "Up to 40% chance based on Health lost to Regenerate instead of gaining a Fury stack, Recovering 5115.45 Health in 6 seconds."
+                    "100% chance to gain {3} Fury Buffs, each granting +1250 Attack Rating for 17 second(s).",
+                    "Up to 50% chance based on lost Health to gain a Regeneration Buff in place of a Fury Buff, recovering 5115.45 Health over 6 second(s)."
                 ]
             }
         },
         "6+3": {
+            "challenger_rating": 130,
             "rank": 3,
-            "prestige": "9930",
-            "hp": "40458",
-            "attack": "2965",
-            "crit_rate": "643",
-            "crit_dmge": "756",
-            "armor": "472",
-            "block_prof": "2066",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "By conjuring a magical barrier, Mordo gains 5515.98 to 19405.6 Energy Resistance while he remains Blocking.",
+            "prestige": 10106,
+            "hp": 40458,
+            "attack": 2965,
+            "crit_rate": 643,
+            "crit_dmge": 756,
+            "armor": 472,
+            "block_prof": 2066,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "By conjuring a magical barrier, Mordo gains 5515.98 to 19405.6 Energy Resistance while he remains Blocking.",
+                "If the opponent strikes Mordo\u2019s Block while they have a True-Type Buff, he has a 70 to 173.23% chance to Nullify that Buff and replace it with a Detonate Buff lasting 20 second(s). Detonate deals a burst of 2075.5 Energy Damage when it\u2019s Nullified or Expires."
+            ],
             "url_page": "https://auntm.ai/champions/karlmordo/tier/6",
             "champid": "karlmordo+6+3",
-            "challenger_rating": 130,
             "abilities": {
-                "PASSIVE": [
-                    "Mordo's astral form grants him immunity to passive Ability Accuracy reduction effects.",
-                    "Every 8 seconds, Mordo gets one bar of Power over 5 seconds. While the Power Gain is active, opponents can interrupt it by landing a hit on Mordo."
+                "ASTRAL FORM - ALWAYS ACTIVE": [
+                    "Mordo is Immune to Passive Ability Accuracy reductions.",
+                    "While the opponent has at least 1 Buff, gain +593 Attack Rating.",
+                    "Every 8 second(s), Mordo gains a Power Gain Buff granting 1 Bar of Power over 5 second(s). This Buff is removed if Mordo is struck. If fighting as a Defender, Mordo will behave less aggressively while this Buff is active."
                 ],
-                "WHEN STUNNED": [
-                    "While Stunned, Mordo Evades an incoming non-Special Attack, quickly counter-attacking to inflict Degeneration for 2372 Direct Damage over 2.50 seconds. This ability does not activate if Mordo is suffering from a Concussion or Fatigue Debuff."
+                "WHILE STUNNED": [
+                    "Mordo will Evade any incoming Basic Attack and perform a counter-attack which has a 100% chance to inflict a Degeneration Debuff causing 2372 Direct Damage over 2.50 second(s)."
                 ],
                 "BLOCKING": [
-                    "After holding Block for 0.50 seconds, Mordo can Block Unblockable Special Attacks."
+                    "If Mordo holds Block for more than 0.50 second(s), his Block will not be broken by Unblockable Special Attacks."
                 ],
-                "HEAVY ATTACKS": [
-                    "Mordo gains 16.6% of max Power per second while below 1 Power bar.",
-                    "Exponentially gains up to 10 Fury stacks while charging a Heavy Attack, each charge increases his Attack by 444.75."
+                "WHILE CHARGING A HEAVY ATTACK": [
+                    "Continually gain Fury Buffs, each granting +593 Attack Rating for 17 second(s). Max: {3} Buffs. Exponentially gain more Buffs the longer the Heavy Attack is charged.",
+                    "If Mordo is below 1 Bar of Power, he will Passively gain 0.5 Bar(s) of Power per second."
                 ],
                 "SPECIAL ATTACK 1": [
-                    "30% chance to Stun for 3 second(s).",
-                    "Causes Degeneration, inflicting 2372 Direct Damage over 2.50 seconds. If the opponent has a Buff, Degeneration will activate even after a successful Block."
+                    "30% chance to inflict a 3 second Stun Debuff.",
+                    "100% chance to inflict a Degeneration Debuff, causing 2372 Direct Damage over 2.50 second(s). If the opponent has at least 1 Buff, this effect can be triggered through a Block."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Opponents suffer from Mordo\u2019s Soul Barb spell for 14 seconds, dealing 355.8 Energy Damage per opponent Buff per second. Additionally, Soul Barb reduces Health recovery by 70%."
+                    "100% chance to inflict a Soul Barb Debuff lasting 14 seconds, dealing 355.8 Energy Damage per second for each Buff on the opponent. Soul Barb also reduces Regeneration Rate by 80%."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "Gains 3 stacks of Fury, each increasing his Attack by 1482.5 for 12 seconds.",
-                    "Up to 40% chance based on Health lost to Regenerate instead of gaining a Fury stack, Recovering 6068.7 Health in 6 seconds."
+                    "100% chance to gain {3} Fury Buffs, each granting +1482.5 Attack Rating for 17 second(s).",
+                    "Up to 50% chance based on lost Health to gain a Regeneration Buff in place of a Fury Buff, recovering 6068.7 Health over 6 second(s)."
                 ]
             }
         },
         "6+4": {
+            "challenger_rating": 140,
             "rank": 4,
-            "prestige": "11366",
-            "hp": "46298",
-            "attack": "3393",
-            "crit_rate": "658",
-            "crit_dmge": "773",
-            "armor": "517",
-            "block_prof": "2114",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "By conjuring a magical barrier, Mordo gains 5644.26 to 19856.9 Energy Resistance while he remains Blocking.",
+            "prestige": 11566,
+            "hp": 46298,
+            "attack": 3393,
+            "crit_rate": 658,
+            "crit_dmge": 773,
+            "armor": 517,
+            "block_prof": 2114,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "By conjuring a magical barrier, Mordo gains 5644.26 to 19856.9 Energy Resistance while he remains Blocking.",
+                "If the opponent strikes Mordo\u2019s Block while they have a True-Type Buff, he has a 70 to 173.23% chance to Nullify that Buff and replace it with a Detonate Buff lasting 20 second(s). Detonate deals a burst of 2375.1 Energy Damage when it\u2019s Nullified or Expires."
+            ],
             "url_page": "https://auntm.ai/champions/karlmordo/tier/6",
             "champid": "karlmordo+6+4",
-            "challenger_rating": 140,
             "abilities": {
-                "PASSIVE": [
-                    "Mordo's astral form grants him immunity to passive Ability Accuracy reduction effects.",
-                    "Every 8 seconds, Mordo gets one bar of Power over 5 seconds. While the Power Gain is active, opponents can interrupt it by landing a hit on Mordo."
+                "ASTRAL FORM - ALWAYS ACTIVE": [
+                    "Mordo is Immune to Passive Ability Accuracy reductions.",
+                    "While the opponent has at least 1 Buff, gain +678.6 Attack Rating.",
+                    "Every 8 second(s), Mordo gains a Power Gain Buff granting 1 Bar of Power over 5 second(s). This Buff is removed if Mordo is struck. If fighting as a Defender, Mordo will behave less aggressively while this Buff is active."
                 ],
-                "WHEN STUNNED": [
-                    "While Stunned, Mordo Evades an incoming non-Special Attack, quickly counter-attacking to inflict Degeneration for 2714.4 Direct Damage over 2.50 seconds. This ability does not activate if Mordo is suffering from a Concussion or Fatigue Debuff."
+                "WHILE STUNNED": [
+                    "Mordo will Evade any incoming Basic Attack and perform a counter-attack which has a 100% chance to inflict a Degeneration Debuff causing 2714.4 Direct Damage over 2.50 second(s)."
                 ],
                 "BLOCKING": [
-                    "After holding Block for 0.50 seconds, Mordo can Block Unblockable Special Attacks."
+                    "If Mordo holds Block for more than 0.50 second(s), his Block will not be broken by Unblockable Special Attacks."
                 ],
-                "HEAVY ATTACKS": [
-                    "Mordo gains 16.6% of max Power per second while below 1 Power bar.",
-                    "Exponentially gains up to 10 Fury stacks while charging a Heavy Attack, each charge increases his Attack by 508.95."
+                "WHILE CHARGING A HEAVY ATTACK": [
+                    "Continually gain Fury Buffs, each granting +678.6 Attack Rating for 17 second(s). Max: {3} Buffs. Exponentially gain more Buffs the longer the Heavy Attack is charged.",
+                    "If Mordo is below 1 Bar of Power, he will Passively gain 0.5 Bar(s) of Power per second."
                 ],
                 "SPECIAL ATTACK 1": [
-                    "30% chance to Stun for 3 second(s).",
-                    "Causes Degeneration, inflicting 2714.4 Direct Damage over 2.50 seconds. If the opponent has a Buff, Degeneration will activate even after a successful Block."
+                    "30% chance to inflict a 3 second Stun Debuff.",
+                    "100% chance to inflict a Degeneration Debuff, causing 2714.4 Direct Damage over 2.50 second(s). If the opponent has at least 1 Buff, this effect can be triggered through a Block."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "Opponents suffer from Mordo\u2019s Soul Barb spell for 14 seconds, dealing 407.16 Energy Damage per opponent Buff per second. Additionally, Soul Barb reduces Health recovery by 70%."
+                    "100% chance to inflict a Soul Barb Debuff lasting 14 seconds, dealing 407.16 Energy Damage per second for each Buff on the opponent. Soul Barb also reduces Regeneration Rate by 80%."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "Gains 3 stacks of Fury, each increasing his Attack by 1696.5 for 12 seconds.",
-                    "Up to 40% chance based on Health lost to Regenerate instead of gaining a Fury stack, Recovering 6944.7 Health in 6 seconds."
+                    "100% chance to gain {3} Fury Buffs, each granting +1696.5 Attack Rating for 17 second(s).",
+                    "Up to 50% chance based on lost Health to gain a Regeneration Buff in place of a Fury Buff, recovering 6944.7 Health over 6 second(s)."
                 ]
             }
         },
@@ -942,7 +1026,6 @@
                 "act_4": [],
                 "act_5": [
                     "5.1.1",
-                    "5.1.2",
                     "5.1.3",
                     "5.1.6",
                     "5.2.1",
@@ -953,7 +1036,6 @@
                     "5.3.5",
                     "5.3.6",
                     "5.4.1",
-                    "5.4.2",
                     "5.4.3",
                     "5.4.6"
                 ],
@@ -983,6 +1065,6 @@
                     "7.4.4"
                 ]
             }
-        }
+    }
     }
 }

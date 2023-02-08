@@ -1,4 +1,5 @@
 {
+    "champid": "rocket",
     "name": "ROCKET RACCOON",
     "class": "Tech",
     "img_portrait": "https://api.rexians.tk/assets/portraits/rocket.png",
@@ -8,761 +9,1138 @@
         "Size: S"
     ],
     "released": "3/5/2015",
-    "champid": "rocket",
     "data": {
         "2+1": {
+            "challenger_rating": 20,
             "rank": 1,
-            "prestige": "250",
-            "hp": "784",
-            "attack": "99",
-            "crit_rate": "719",
-            "crit_dmge": "825",
-            "armor": "67",
-            "block_prof": "1879",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Rocket makes fur fly with up to 32.65 to 480.17 increased Critical Rating for every hit in the combo meter.",
+            "prestige": 276,
+            "hp": 784,
+            "attack": 99,
+            "crit_rate": 719,
+            "crit_dmge": 781,
+            "armor": 67,
+            "block_prof": 1879,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "While the Opponent is under the effect of an Armor Break Debuff they are Passively Heal Blocked, whenever the Opponent would gain health from regeneration, they are inflicted with a Power Drain Debuff, draining 1 to 3.5% of their current Power over 0.50 seconds for each Armor Break Debuff on them. If the Opponent has the Salve Mastery active, it is removed.",
+                "Rocket\u2019s Shield System grants him 861.54 to 1257.33 Crit Resistance.",
+                "While Dormant, Rocket\u2019s Shield System grants him 351.22 to 824.33 Block Proficiency. This effect also persists while the Shield System is activated."
+            ],
             "url_page": "https://auntm.ai/champions/rocket/tier/2",
             "champid": "rocket+2+1",
-            "challenger_rating": 20,
             "abilities": {
+                "SCRAP METAL - MAX 50": [
+                    "Even while in a fight, Rocket actively hunts for metal scraps to make weapons of mass destruction.",
+                    "All of Rocket\u2019s Attacks gain increased Critical Rating by 282.35 for each hit in the Combo Meter.",
+                    "Whenever Rocket lands a Critical Hit, Rocket chips away at the Opponent\u2019s Armor and Weapons, granting him 2 Scrap Metal. This value becomes 3 when fighting against #Metal Opponents.",
+                    "Whenever an Armor Break effect removes an Armor Up Buff from the Opponent, Rocket steals the broken Armor pieces and gains 10 Scrap Metal."
+                ],
+                "SHIELD SYSTEM": [
+                    "Whenever Rocket Dashes back and holds block for 1.20 second(s), he will use 25 Scrap Metal to construct a dormant Shield System to protect him from threats.",
+                    "When Rocket is struck with the dormant Shield System, it will activate and last for 6 seconds. Activated Shield Systems grant the following effects:",
+                    "+ 861.54 Armor Rating.",
+                    "+ 861.54 Physical Resistance.",
+                    "+ 30% Special Attack Resistance.",
+                    "Combo Shield, preventing Rocket\u2019s Combo Meter from resetting when struck.",
+                    "The Shield System can also Block Unblockable Attacks from Mutant Champions. A Shield System will activate early when Rocket would be struck by a Mutant\u2019s Unblockable Attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "The first hit of Heavy Attack consumes 10 Scrap Metal to inflict an Armor Break Debuff. Max: 5. This Armor Break lasts 15 seconds and reduces Armor Rating by 177.78. This ability cannot be activated while under 10 Scrap."
+                ],
                 "SPECIAL ATTACK 1": [
-                    "100% chance to increase Critical Damage Rating by 1309.09 for 9 seconds."
+                    "Each hit inflicts a Rupture Debuff, dealing 89.1 Physical Damage over 12 seconds.",
+                    "Each hit consumes 15 Scrap Metal to Power Drain the Opponent. Draining 15% of the Opponent\u2019s Current Power over 1 second. This ability does not activate if Rocket has less than 15 Scrap Metal."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "100% chance to inflict Bleed, dealing 188.1 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 1955.56 for 6 seconds."
-                ],
-                "PASSIVE": [
-                    "Built from \"recovered\" alien technology, Rocket's shield system charges anytime he Dodges back and holds Block for at least 1.50 seconds. Each shield loses power as it is used in combat.",
-                    "Kinetic Shield: 4 charges of Physical Resistance, each providing 351.22 Resistance.",
-                    "Shell Shield: 4 charges of Armor Up, each providing 239.08 Armor Rating.",
-                    "Emergency Shield: 3 charges of Special Attack resistance, each providing 20% Resistance."
+                    "Rocket takes all of his Scrap Metal and constructs a destructive Grenade. Rocket gains up to 51.48 increased Attack Rating for the final explosion based on the amount of Scrap Metal consumed.",
+                    "This explosion inflicts an Armor Break Debuff, lasting 30 seconds and reducing Armor Rating by up to 1158.62 based on the amount of Scrap Metal consumed."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "100% chance to inflict Bleed, dealing 188.1 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 1955.56 for 6 seconds."
+                    "Rocket uses his Scrap Metal to make the Big Blaster to annihilate his Opponent\u2019s Power Bar. Consume all Scrap Metal to Inflict a 12 second Power Drain Debuff, draining up to 2 bars of the Opponent\u2019s Power based on the amount of Scrap Metal consumed.",
+                    "While this Power Drain is active, the Opponent is also Passively Special Locked.",
+                    "This devastating blast also inflicts a Bleed Debuff, dealing 316.8 Direct Damage over 30 seconds."
                 ]
             }
         },
         "2+2": {
+            "challenger_rating": 30,
             "rank": 2,
-            "prestige": "328",
-            "hp": "1035",
-            "attack": "130",
-            "crit_rate": "742",
-            "crit_dmge": "851",
-            "armor": "87",
-            "block_prof": "1937",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Rocket makes fur fly with up to 33.67 to 495.17 increased Critical Rating for every hit in the combo meter.",
+            "prestige": 361,
+            "hp": 1035,
+            "attack": 130,
+            "crit_rate": 742,
+            "crit_dmge": 806,
+            "armor": 87,
+            "block_prof": 1937,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "While the Opponent is under the effect of an Armor Break Debuff they are Passively Heal Blocked, whenever the Opponent would gain health from regeneration, they are inflicted with a Power Drain Debuff, draining 1 to 3.5% of their current Power over 0.50 seconds for each Armor Break Debuff on them. If the Opponent has the Salve Mastery active, it is removed.",
+                "Rocket\u2019s Shield System grants him 888.46 to 1296.62 Crit Resistance.",
+                "While Dormant, Rocket\u2019s Shield System grants him 362.2 to 850.09 Block Proficiency. This effect also persists while the Shield System is activated."
+            ],
             "url_page": "https://auntm.ai/champions/rocket/tier/2",
             "champid": "rocket+2+2",
-            "challenger_rating": 30,
             "abilities": {
+                "SCRAP METAL - MAX 50": [
+                    "Even while in a fight, Rocket actively hunts for metal scraps to make weapons of mass destruction.",
+                    "All of Rocket\u2019s Attacks gain increased Critical Rating by 291.18 for each hit in the Combo Meter.",
+                    "Whenever Rocket lands a Critical Hit, Rocket chips away at the Opponent\u2019s Armor and Weapons, granting him 2 Scrap Metal. This value becomes 3 when fighting against #Metal Opponents.",
+                    "Whenever an Armor Break effect removes an Armor Up Buff from the Opponent, Rocket steals the broken Armor pieces and gains 10 Scrap Metal."
+                ],
+                "SHIELD SYSTEM": [
+                    "Whenever Rocket Dashes back and holds block for 1.20 second(s), he will use 25 Scrap Metal to construct a dormant Shield System to protect him from threats.",
+                    "When Rocket is struck with the dormant Shield System, it will activate and last for 6 seconds. Activated Shield Systems grant the following effects:",
+                    "+ 888.46 Armor Rating.",
+                    "+ 888.46 Physical Resistance.",
+                    "+ 30% Special Attack Resistance.",
+                    "Combo Shield, preventing Rocket\u2019s Combo Meter from resetting when struck.",
+                    "The Shield System can also Block Unblockable Attacks from Mutant Champions. A Shield System will activate early when Rocket would be struck by a Mutant\u2019s Unblockable Attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "The first hit of Heavy Attack consumes 10 Scrap Metal to inflict an Armor Break Debuff. Max: 5. This Armor Break lasts 15 seconds and reduces Armor Rating by 183.33. This ability cannot be activated while under 10 Scrap."
+                ],
                 "SPECIAL ATTACK 1": [
-                    "100% chance to increase Critical Damage Rating by 1350 for 9 seconds."
+                    "Each hit inflicts a Rupture Debuff, dealing 117 Physical Damage over 12 seconds.",
+                    "Each hit consumes 15 Scrap Metal to Power Drain the Opponent. Draining 15% of the Opponent\u2019s Current Power over 1 second. This ability does not activate if Rocket has less than 15 Scrap Metal."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "100% chance to inflict Bleed, dealing 247 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2016.67 for 6 seconds."
-                ],
-                "PASSIVE": [
-                    "Built from \"recovered\" alien technology, Rocket's shield system charges anytime he Dodges back and holds Block for at least 1.50 seconds. Each shield loses power as it is used in combat.",
-                    "Kinetic Shield: 4 charges of Physical Resistance, each providing 362.2 Resistance.",
-                    "Shell Shield: 4 charges of Armor Up, each providing 246.55 Armor Rating.",
-                    "Emergency Shield: 3 charges of Special Attack resistance, each providing 20% Resistance."
+                    "Rocket takes all of his Scrap Metal and constructs a destructive Grenade. Rocket gains up to 67.6 increased Attack Rating for the final explosion based on the amount of Scrap Metal consumed.",
+                    "This explosion inflicts an Armor Break Debuff, lasting 30 seconds and reducing Armor Rating by up to 1194.83 based on the amount of Scrap Metal consumed."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "100% chance to inflict Bleed, dealing 247 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2016.67 for 6 seconds."
+                    "Rocket uses his Scrap Metal to make the Big Blaster to annihilate his Opponent\u2019s Power Bar. Consume all Scrap Metal to Inflict a 12 second Power Drain Debuff, draining up to 2 bars of the Opponent\u2019s Power based on the amount of Scrap Metal consumed.",
+                    "While this Power Drain is active, the Opponent is also Passively Special Locked.",
+                    "This devastating blast also inflicts a Bleed Debuff, dealing 416 Direct Damage over 30 seconds."
                 ]
             }
         },
         "2+3": {
+            "challenger_rating": 40,
             "rank": 3,
-            "prestige": "518",
-            "hp": "1643",
-            "attack": "206",
-            "crit_rate": "764",
-            "crit_dmge": "876",
-            "armor": "109",
-            "block_prof": "1996",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Rocket makes fur fly with up to 34.69 to 510.18 increased Critical Rating for every hit in the combo meter.",
+            "prestige": 571,
+            "hp": 1643,
+            "attack": 206,
+            "crit_rate": 764,
+            "crit_dmge": 830,
+            "armor": 109,
+            "block_prof": 1996,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "While the Opponent is under the effect of an Armor Break Debuff they are Passively Heal Blocked, whenever the Opponent would gain health from regeneration, they are inflicted with a Power Drain Debuff, draining 1 to 3.5% of their current Power over 0.50 seconds for each Armor Break Debuff on them. If the Opponent has the Salve Mastery active, it is removed.",
+                "Rocket\u2019s Shield System grants him 915.38 to 1335.91 Crit Resistance.",
+                "While Dormant, Rocket\u2019s Shield System grants him 373.17 to 875.85 Block Proficiency. This effect also persists while the Shield System is activated."
+            ],
             "url_page": "https://auntm.ai/champions/rocket/tier/2",
             "champid": "rocket+2+3",
-            "challenger_rating": 40,
             "abilities": {
+                "SCRAP METAL - MAX 50": [
+                    "Even while in a fight, Rocket actively hunts for metal scraps to make weapons of mass destruction.",
+                    "All of Rocket\u2019s Attacks gain increased Critical Rating by 300 for each hit in the Combo Meter.",
+                    "Whenever Rocket lands a Critical Hit, Rocket chips away at the Opponent\u2019s Armor and Weapons, granting him 2 Scrap Metal. This value becomes 3 when fighting against #Metal Opponents.",
+                    "Whenever an Armor Break effect removes an Armor Up Buff from the Opponent, Rocket steals the broken Armor pieces and gains 10 Scrap Metal."
+                ],
+                "SHIELD SYSTEM": [
+                    "Whenever Rocket Dashes back and holds block for 1.20 second(s), he will use 25 Scrap Metal to construct a dormant Shield System to protect him from threats.",
+                    "When Rocket is struck with the dormant Shield System, it will activate and last for 6 seconds. Activated Shield Systems grant the following effects:",
+                    "+ 915.38 Armor Rating.",
+                    "+ 915.38 Physical Resistance.",
+                    "+ 30% Special Attack Resistance.",
+                    "Combo Shield, preventing Rocket\u2019s Combo Meter from resetting when struck.",
+                    "The Shield System can also Block Unblockable Attacks from Mutant Champions. A Shield System will activate early when Rocket would be struck by a Mutant\u2019s Unblockable Attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "The first hit of Heavy Attack consumes 10 Scrap Metal to inflict an Armor Break Debuff. Max: 5. This Armor Break lasts 15 seconds and reduces Armor Rating by 188.89. This ability cannot be activated while under 10 Scrap."
+                ],
                 "SPECIAL ATTACK 1": [
-                    "100% chance to increase Critical Damage Rating by 1390.91 for 9 seconds."
+                    "Each hit inflicts a Rupture Debuff, dealing 185.4 Physical Damage over 12 seconds.",
+                    "Each hit consumes 15 Scrap Metal to Power Drain the Opponent. Draining 15% of the Opponent\u2019s Current Power over 1 second. This ability does not activate if Rocket has less than 15 Scrap Metal."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "100% chance to inflict Bleed, dealing 391.4 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2077.78 for 6 seconds."
-                ],
-                "PASSIVE": [
-                    "Built from \"recovered\" alien technology, Rocket's shield system charges anytime he Dodges back and holds Block for at least 1.50 seconds. Each shield loses power as it is used in combat.",
-                    "Kinetic Shield: 4 charges of Physical Resistance, each providing 373.17 Resistance.",
-                    "Shell Shield: 4 charges of Armor Up, each providing 254.02 Armor Rating.",
-                    "Emergency Shield: 3 charges of Special Attack resistance, each providing 20% Resistance."
+                    "Rocket takes all of his Scrap Metal and constructs a destructive Grenade. Rocket gains up to 107.12 increased Attack Rating for the final explosion based on the amount of Scrap Metal consumed.",
+                    "This explosion inflicts an Armor Break Debuff, lasting 30 seconds and reducing Armor Rating by up to 1231.03 based on the amount of Scrap Metal consumed."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "100% chance to inflict Bleed, dealing 391.4 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2077.78 for 6 seconds."
+                    "Rocket uses his Scrap Metal to make the Big Blaster to annihilate his Opponent\u2019s Power Bar. Consume all Scrap Metal to Inflict a 12 second Power Drain Debuff, draining up to 2 bars of the Opponent\u2019s Power based on the amount of Scrap Metal consumed.",
+                    "While this Power Drain is active, the Opponent is also Passively Special Locked.",
+                    "This devastating blast also inflicts a Bleed Debuff, dealing 659.2 Direct Damage over 30 seconds."
                 ]
             }
         },
         "3+1": {
+            "challenger_rating": 40,
             "rank": 1,
-            "prestige": "448",
-            "hp": "1401",
-            "attack": "179",
-            "crit_rate": "764",
-            "crit_dmge": "876",
-            "armor": "71",
-            "block_prof": "1996",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Rocket makes fur fly with up to 34.69 to 510.18 increased Critical Rating for every hit in the combo meter.",
+            "prestige": 492,
+            "hp": 1401,
+            "attack": 179,
+            "crit_rate": 764,
+            "crit_dmge": 830,
+            "armor": 71,
+            "block_prof": 1996,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "While the Opponent is under the effect of an Armor Break Debuff they are Passively Heal Blocked, whenever the Opponent would gain health from regeneration, they are inflicted with a Power Drain Debuff, draining 1 to 3.5% of their current Power over 0.50 seconds for each Armor Break Debuff on them. If the Opponent has the Salve Mastery active, it is removed.",
+                "Rocket\u2019s Shield System grants him 915.38 to 1335.91 Crit Resistance.",
+                "While Dormant, Rocket\u2019s Shield System grants him 373.17 to 875.85 Block Proficiency. This effect also persists while the Shield System is activated."
+            ],
             "url_page": "https://auntm.ai/champions/rocket/tier/3",
             "champid": "rocket+3+1",
-            "challenger_rating": 40,
             "abilities": {
+                "SCRAP METAL - MAX 50": [
+                    "Even while in a fight, Rocket actively hunts for metal scraps to make weapons of mass destruction.",
+                    "All of Rocket\u2019s Attacks gain increased Critical Rating by 300 for each hit in the Combo Meter.",
+                    "Whenever Rocket lands a Critical Hit, Rocket chips away at the Opponent\u2019s Armor and Weapons, granting him 2 Scrap Metal. This value becomes 3 when fighting against #Metal Opponents.",
+                    "Whenever an Armor Break effect removes an Armor Up Buff from the Opponent, Rocket steals the broken Armor pieces and gains 10 Scrap Metal."
+                ],
+                "SHIELD SYSTEM": [
+                    "Whenever Rocket Dashes back and holds block for 1.20 second(s), he will use 25 Scrap Metal to construct a dormant Shield System to protect him from threats.",
+                    "When Rocket is struck with the dormant Shield System, it will activate and last for 6 seconds. Activated Shield Systems grant the following effects:",
+                    "+ 915.38 Armor Rating.",
+                    "+ 915.38 Physical Resistance.",
+                    "+ 30% Special Attack Resistance.",
+                    "Combo Shield, preventing Rocket\u2019s Combo Meter from resetting when struck.",
+                    "The Shield System can also Block Unblockable Attacks from Mutant Champions. A Shield System will activate early when Rocket would be struck by a Mutant\u2019s Unblockable Attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "The first hit of Heavy Attack consumes 10 Scrap Metal to inflict an Armor Break Debuff. Max: 5. This Armor Break lasts 15 seconds and reduces Armor Rating by 188.89. This ability cannot be activated while under 10 Scrap."
+                ],
                 "SPECIAL ATTACK 1": [
-                    "100% chance to increase Critical Damage Rating by 1390.91 for 9 seconds."
+                    "Each hit inflicts a Rupture Debuff, dealing 161.1 Physical Damage over 12 seconds.",
+                    "Each hit consumes 15 Scrap Metal to Power Drain the Opponent. Draining 15% of the Opponent\u2019s Current Power over 1 second. This ability does not activate if Rocket has less than 15 Scrap Metal."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "100% chance to inflict Bleed, dealing 340.1 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2077.78 for 6 seconds."
-                ],
-                "PASSIVE": [
-                    "Built from \"recovered\" alien technology, Rocket's shield system charges anytime he Dodges back and holds Block for at least 1.50 seconds. Each shield loses power as it is used in combat.",
-                    "Kinetic Shield: 4 charges of Physical Resistance, each providing 373.17 Resistance.",
-                    "Shell Shield: 4 charges of Armor Up, each providing 254.02 Armor Rating.",
-                    "Emergency Shield: 3 charges of Special Attack resistance, each providing 20% Resistance."
+                    "Rocket takes all of his Scrap Metal and constructs a destructive Grenade. Rocket gains up to 93.08 increased Attack Rating for the final explosion based on the amount of Scrap Metal consumed.",
+                    "This explosion inflicts an Armor Break Debuff, lasting 30 seconds and reducing Armor Rating by up to 1231.03 based on the amount of Scrap Metal consumed."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "100% chance to inflict Bleed, dealing 340.1 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2077.78 for 6 seconds."
+                    "Rocket uses his Scrap Metal to make the Big Blaster to annihilate his Opponent\u2019s Power Bar. Consume all Scrap Metal to Inflict a 12 second Power Drain Debuff, draining up to 2 bars of the Opponent\u2019s Power based on the amount of Scrap Metal consumed.",
+                    "While this Power Drain is active, the Opponent is also Passively Special Locked.",
+                    "This devastating blast also inflicts a Bleed Debuff, dealing 572.8 Direct Damage over 30 seconds."
                 ]
             }
         },
         "3+2": {
+            "challenger_rating": 50,
             "rank": 2,
-            "prestige": "713",
-            "hp": "2241",
-            "attack": "285",
-            "crit_rate": "787",
-            "crit_dmge": "902",
-            "armor": "93",
-            "block_prof": "2055",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Rocket makes fur fly with up to 35.71 to 525.18 increased Critical Rating for every hit in the combo meter.",
+            "prestige": 786,
+            "hp": 2241,
+            "attack": 285,
+            "crit_rate": 787,
+            "crit_dmge": 855,
+            "armor": 93,
+            "block_prof": 2055,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "While the Opponent is under the effect of an Armor Break Debuff they are Passively Heal Blocked, whenever the Opponent would gain health from regeneration, they are inflicted with a Power Drain Debuff, draining 1 to 3.5% of their current Power over 0.50 seconds for each Armor Break Debuff on them. If the Opponent has the Salve Mastery active, it is removed.",
+                "Rocket\u2019s Shield System grants him 942.31 to 1375.2 Crit Resistance.",
+                "While Dormant, Rocket\u2019s Shield System grants him 384.15 to 901.61 Block Proficiency. This effect also persists while the Shield System is activated."
+            ],
             "url_page": "https://auntm.ai/champions/rocket/tier/3",
             "champid": "rocket+3+2",
-            "challenger_rating": 50,
             "abilities": {
+                "SCRAP METAL - MAX 50": [
+                    "Even while in a fight, Rocket actively hunts for metal scraps to make weapons of mass destruction.",
+                    "All of Rocket\u2019s Attacks gain increased Critical Rating by 308.82 for each hit in the Combo Meter.",
+                    "Whenever Rocket lands a Critical Hit, Rocket chips away at the Opponent\u2019s Armor and Weapons, granting him 2 Scrap Metal. This value becomes 3 when fighting against #Metal Opponents.",
+                    "Whenever an Armor Break effect removes an Armor Up Buff from the Opponent, Rocket steals the broken Armor pieces and gains 10 Scrap Metal."
+                ],
+                "SHIELD SYSTEM": [
+                    "Whenever Rocket Dashes back and holds block for 1.20 second(s), he will use 25 Scrap Metal to construct a dormant Shield System to protect him from threats.",
+                    "When Rocket is struck with the dormant Shield System, it will activate and last for 6 seconds. Activated Shield Systems grant the following effects:",
+                    "+ 942.31 Armor Rating.",
+                    "+ 942.31 Physical Resistance.",
+                    "+ 30% Special Attack Resistance.",
+                    "Combo Shield, preventing Rocket\u2019s Combo Meter from resetting when struck.",
+                    "The Shield System can also Block Unblockable Attacks from Mutant Champions. A Shield System will activate early when Rocket would be struck by a Mutant\u2019s Unblockable Attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "The first hit of Heavy Attack consumes 10 Scrap Metal to inflict an Armor Break Debuff. Max: 5. This Armor Break lasts 15 seconds and reduces Armor Rating by 194.44. This ability cannot be activated while under 10 Scrap."
+                ],
                 "SPECIAL ATTACK 1": [
-                    "100% chance to increase Critical Damage Rating by 1431.82 for 9 seconds."
+                    "Each hit inflicts a Rupture Debuff, dealing 256.5 Physical Damage over 12 seconds.",
+                    "Each hit consumes 15 Scrap Metal to Power Drain the Opponent. Draining 15% of the Opponent\u2019s Current Power over 1 second. This ability does not activate if Rocket has less than 15 Scrap Metal."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "100% chance to inflict Bleed, dealing 541.5 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2138.89 for 6 seconds."
-                ],
-                "PASSIVE": [
-                    "Built from \"recovered\" alien technology, Rocket's shield system charges anytime he Dodges back and holds Block for at least 1.50 seconds. Each shield loses power as it is used in combat.",
-                    "Kinetic Shield: 4 charges of Physical Resistance, each providing 384.15 Resistance.",
-                    "Shell Shield: 4 charges of Armor Up, each providing 261.49 Armor Rating.",
-                    "Emergency Shield: 3 charges of Special Attack resistance, each providing 20% Resistance."
+                    "Rocket takes all of his Scrap Metal and constructs a destructive Grenade. Rocket gains up to 148.2 increased Attack Rating for the final explosion based on the amount of Scrap Metal consumed.",
+                    "This explosion inflicts an Armor Break Debuff, lasting 30 seconds and reducing Armor Rating by up to 1267.24 based on the amount of Scrap Metal consumed."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "100% chance to inflict Bleed, dealing 541.5 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2138.89 for 6 seconds."
+                    "Rocket uses his Scrap Metal to make the Big Blaster to annihilate his Opponent\u2019s Power Bar. Consume all Scrap Metal to Inflict a 12 second Power Drain Debuff, draining up to 2 bars of the Opponent\u2019s Power based on the amount of Scrap Metal consumed.",
+                    "While this Power Drain is active, the Opponent is also Passively Special Locked.",
+                    "This devastating blast also inflicts a Bleed Debuff, dealing 912 Direct Damage over 30 seconds."
                 ]
             }
         },
         "3+3": {
+            "challenger_rating": 60,
             "rank": 3,
-            "prestige": "996",
-            "hp": "3135",
-            "attack": "399",
-            "crit_rate": "809",
-            "crit_dmge": "928",
-            "armor": "115",
-            "block_prof": "2114",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Rocket makes fur fly with up to 36.73 to 540.19 increased Critical Rating for every hit in the combo meter.",
+            "prestige": 1098,
+            "hp": 3135,
+            "attack": 399,
+            "crit_rate": 809,
+            "crit_dmge": 879,
+            "armor": 115,
+            "block_prof": 2114,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "While the Opponent is under the effect of an Armor Break Debuff they are Passively Heal Blocked, whenever the Opponent would gain health from regeneration, they are inflicted with a Power Drain Debuff, draining 1 to 3.5% of their current Power over 0.50 seconds for each Armor Break Debuff on them. If the Opponent has the Salve Mastery active, it is removed.",
+                "Rocket\u2019s Shield System grants him 969.23 to 1414.49 Crit Resistance.",
+                "While Dormant, Rocket\u2019s Shield System grants him 395.12 to 927.37 Block Proficiency. This effect also persists while the Shield System is activated."
+            ],
             "url_page": "https://auntm.ai/champions/rocket/tier/3",
             "champid": "rocket+3+3",
-            "challenger_rating": 60,
             "abilities": {
+                "SCRAP METAL - MAX 50": [
+                    "Even while in a fight, Rocket actively hunts for metal scraps to make weapons of mass destruction.",
+                    "All of Rocket\u2019s Attacks gain increased Critical Rating by 317.65 for each hit in the Combo Meter.",
+                    "Whenever Rocket lands a Critical Hit, Rocket chips away at the Opponent\u2019s Armor and Weapons, granting him 2 Scrap Metal. This value becomes 3 when fighting against #Metal Opponents.",
+                    "Whenever an Armor Break effect removes an Armor Up Buff from the Opponent, Rocket steals the broken Armor pieces and gains 10 Scrap Metal."
+                ],
+                "SHIELD SYSTEM": [
+                    "Whenever Rocket Dashes back and holds block for 1.20 second(s), he will use 25 Scrap Metal to construct a dormant Shield System to protect him from threats.",
+                    "When Rocket is struck with the dormant Shield System, it will activate and last for 6 seconds. Activated Shield Systems grant the following effects:",
+                    "+ 969.23 Armor Rating.",
+                    "+ 969.23 Physical Resistance.",
+                    "+ 30% Special Attack Resistance.",
+                    "Combo Shield, preventing Rocket\u2019s Combo Meter from resetting when struck.",
+                    "The Shield System can also Block Unblockable Attacks from Mutant Champions. A Shield System will activate early when Rocket would be struck by a Mutant\u2019s Unblockable Attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "The first hit of Heavy Attack consumes 10 Scrap Metal to inflict an Armor Break Debuff. Max: 5. This Armor Break lasts 15 seconds and reduces Armor Rating by 200. This ability cannot be activated while under 10 Scrap."
+                ],
                 "SPECIAL ATTACK 1": [
-                    "100% chance to increase Critical Damage Rating by 1472.73 for 9 seconds."
+                    "Each hit inflicts a Rupture Debuff, dealing 359.1 Physical Damage over 12 seconds.",
+                    "Each hit consumes 15 Scrap Metal to Power Drain the Opponent. Draining 15% of the Opponent\u2019s Current Power over 1 second. This ability does not activate if Rocket has less than 15 Scrap Metal."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "100% chance to inflict Bleed, dealing 758.1 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2200 for 6 seconds."
-                ],
-                "PASSIVE": [
-                    "Built from \"recovered\" alien technology, Rocket's shield system charges anytime he Dodges back and holds Block for at least 1.50 seconds. Each shield loses power as it is used in combat.",
-                    "Kinetic Shield: 4 charges of Physical Resistance, each providing 395.12 Resistance.",
-                    "Shell Shield: 4 charges of Armor Up, each providing 268.97 Armor Rating.",
-                    "Emergency Shield: 3 charges of Special Attack resistance, each providing 20% Resistance."
+                    "Rocket takes all of his Scrap Metal and constructs a destructive Grenade. Rocket gains up to 207.48 increased Attack Rating for the final explosion based on the amount of Scrap Metal consumed.",
+                    "This explosion inflicts an Armor Break Debuff, lasting 30 seconds and reducing Armor Rating by up to 1303.45 based on the amount of Scrap Metal consumed."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "100% chance to inflict Bleed, dealing 758.1 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2200 for 6 seconds."
+                    "Rocket uses his Scrap Metal to make the Big Blaster to annihilate his Opponent\u2019s Power Bar. Consume all Scrap Metal to Inflict a 12 second Power Drain Debuff, draining up to 2 bars of the Opponent\u2019s Power based on the amount of Scrap Metal consumed.",
+                    "While this Power Drain is active, the Opponent is also Passively Special Locked.",
+                    "This devastating blast also inflicts a Bleed Debuff, dealing 1276.8 Direct Damage over 30 seconds."
                 ]
             }
         },
         "3+4": {
+            "challenger_rating": 70,
             "rank": 4,
-            "prestige": "1368",
-            "hp": "4305",
-            "attack": "548",
-            "crit_rate": "832",
-            "crit_dmge": "954",
-            "armor": "140",
-            "block_prof": "2172",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Rocket makes fur fly with up to 37.76 to 555.19 increased Critical Rating for every hit in the combo meter.",
+            "prestige": 1511,
+            "hp": 4305,
+            "attack": 548,
+            "crit_rate": 832,
+            "crit_dmge": 903,
+            "armor": 140,
+            "block_prof": 2172,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "While the Opponent is under the effect of an Armor Break Debuff they are Passively Heal Blocked, whenever the Opponent would gain health from regeneration, they are inflicted with a Power Drain Debuff, draining 1 to 3.5% of their current Power over 0.50 seconds for each Armor Break Debuff on them. If the Opponent has the Salve Mastery active, it is removed.",
+                "Rocket\u2019s Shield System grants him 996.15 to 1453.78 Crit Resistance.",
+                "While Dormant, Rocket\u2019s Shield System grants him 406.1 to 953.13 Block Proficiency. This effect also persists while the Shield System is activated."
+            ],
             "url_page": "https://auntm.ai/champions/rocket/tier/3",
             "champid": "rocket+3+4",
-            "challenger_rating": 70,
             "abilities": {
+                "SCRAP METAL - MAX 50": [
+                    "Even while in a fight, Rocket actively hunts for metal scraps to make weapons of mass destruction.",
+                    "All of Rocket\u2019s Attacks gain increased Critical Rating by 326.47 for each hit in the Combo Meter.",
+                    "Whenever Rocket lands a Critical Hit, Rocket chips away at the Opponent\u2019s Armor and Weapons, granting him 2 Scrap Metal. This value becomes 3 when fighting against #Metal Opponents.",
+                    "Whenever an Armor Break effect removes an Armor Up Buff from the Opponent, Rocket steals the broken Armor pieces and gains 10 Scrap Metal."
+                ],
+                "SHIELD SYSTEM": [
+                    "Whenever Rocket Dashes back and holds block for 1.20 second(s), he will use 25 Scrap Metal to construct a dormant Shield System to protect him from threats.",
+                    "When Rocket is struck with the dormant Shield System, it will activate and last for 6 seconds. Activated Shield Systems grant the following effects:",
+                    "+ 996.15 Armor Rating.",
+                    "+ 996.15 Physical Resistance.",
+                    "+ 30% Special Attack Resistance.",
+                    "Combo Shield, preventing Rocket\u2019s Combo Meter from resetting when struck.",
+                    "The Shield System can also Block Unblockable Attacks from Mutant Champions. A Shield System will activate early when Rocket would be struck by a Mutant\u2019s Unblockable Attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "The first hit of Heavy Attack consumes 10 Scrap Metal to inflict an Armor Break Debuff. Max: 5. This Armor Break lasts 15 seconds and reduces Armor Rating by 205.56. This ability cannot be activated while under 10 Scrap."
+                ],
                 "SPECIAL ATTACK 1": [
-                    "100% chance to increase Critical Damage Rating by 1513.64 for 9 seconds."
+                    "Each hit inflicts a Rupture Debuff, dealing 493.2 Physical Damage over 12 seconds.",
+                    "Each hit consumes 15 Scrap Metal to Power Drain the Opponent. Draining 15% of the Opponent\u2019s Current Power over 1 second. This ability does not activate if Rocket has less than 15 Scrap Metal."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "100% chance to inflict Bleed, dealing 1041.2 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2261.11 for 6 seconds."
-                ],
-                "PASSIVE": [
-                    "Built from \"recovered\" alien technology, Rocket's shield system charges anytime he Dodges back and holds Block for at least 1.50 seconds. Each shield loses power as it is used in combat.",
-                    "Kinetic Shield: 4 charges of Physical Resistance, each providing 406.1 Resistance.",
-                    "Shell Shield: 4 charges of Armor Up, each providing 276.44 Armor Rating.",
-                    "Emergency Shield: 3 charges of Special Attack resistance, each providing 20% Resistance."
+                    "Rocket takes all of his Scrap Metal and constructs a destructive Grenade. Rocket gains up to 284.96 increased Attack Rating for the final explosion based on the amount of Scrap Metal consumed.",
+                    "This explosion inflicts an Armor Break Debuff, lasting 30 seconds and reducing Armor Rating by up to 1339.66 based on the amount of Scrap Metal consumed."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "100% chance to inflict Bleed, dealing 1041.2 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2261.11 for 6 seconds."
+                    "Rocket uses his Scrap Metal to make the Big Blaster to annihilate his Opponent\u2019s Power Bar. Consume all Scrap Metal to Inflict a 12 second Power Drain Debuff, draining up to 2 bars of the Opponent\u2019s Power based on the amount of Scrap Metal consumed.",
+                    "While this Power Drain is active, the Opponent is also Passively Special Locked.",
+                    "This devastating blast also inflicts a Bleed Debuff, dealing 1753.6 Direct Damage over 30 seconds."
                 ]
             }
         },
         "4+1": {
+            "challenger_rating": 60,
             "rank": 1,
-            "prestige": "993",
-            "hp": "3089",
-            "attack": "399",
-            "crit_rate": "809",
-            "crit_dmge": "928",
-            "armor": "157",
-            "block_prof": "2114",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Rocket makes fur fly with up to 36.73 to 540.19 increased Critical Rating for every hit in the combo meter.",
+            "prestige": 1095,
+            "hp": 3089,
+            "attack": 399,
+            "crit_rate": 809,
+            "crit_dmge": 879,
+            "armor": 157,
+            "block_prof": 2114,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "While the Opponent is under the effect of an Armor Break Debuff they are Passively Heal Blocked, whenever the Opponent would gain health from regeneration, they are inflicted with a Power Drain Debuff, draining 1 to 3.5% of their current Power over 0.50 seconds for each Armor Break Debuff on them. If the Opponent has the Salve Mastery active, it is removed.",
+                "Rocket\u2019s Shield System grants him 969.23 to 1414.49 Crit Resistance.",
+                "While Dormant, Rocket\u2019s Shield System grants him 395.12 to 927.37 Block Proficiency. This effect also persists while the Shield System is activated."
+            ],
             "url_page": "https://auntm.ai/champions/rocket/tier/4",
             "champid": "rocket+4+1",
-            "challenger_rating": 60,
             "abilities": {
+                "SCRAP METAL - MAX 50": [
+                    "Even while in a fight, Rocket actively hunts for metal scraps to make weapons of mass destruction.",
+                    "All of Rocket\u2019s Attacks gain increased Critical Rating by 317.65 for each hit in the Combo Meter.",
+                    "Whenever Rocket lands a Critical Hit, Rocket chips away at the Opponent\u2019s Armor and Weapons, granting him 2 Scrap Metal. This value becomes 3 when fighting against #Metal Opponents.",
+                    "Whenever an Armor Break effect removes an Armor Up Buff from the Opponent, Rocket steals the broken Armor pieces and gains 10 Scrap Metal."
+                ],
+                "SHIELD SYSTEM": [
+                    "Whenever Rocket Dashes back and holds block for 1.20 second(s), he will use 25 Scrap Metal to construct a dormant Shield System to protect him from threats.",
+                    "When Rocket is struck with the dormant Shield System, it will activate and last for 6 seconds. Activated Shield Systems grant the following effects:",
+                    "+ 969.23 Armor Rating.",
+                    "+ 969.23 Physical Resistance.",
+                    "+ 30% Special Attack Resistance.",
+                    "Combo Shield, preventing Rocket\u2019s Combo Meter from resetting when struck.",
+                    "The Shield System can also Block Unblockable Attacks from Mutant Champions. A Shield System will activate early when Rocket would be struck by a Mutant\u2019s Unblockable Attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "The first hit of Heavy Attack consumes 10 Scrap Metal to inflict an Armor Break Debuff. Max: 5. This Armor Break lasts 15 seconds and reduces Armor Rating by 200. This ability cannot be activated while under 10 Scrap."
+                ],
                 "SPECIAL ATTACK 1": [
-                    "100% chance to increase Critical Damage Rating by 1472.73 for 9 seconds."
+                    "Each hit inflicts a Rupture Debuff, dealing 359.1 Physical Damage over 12 seconds.",
+                    "Each hit consumes 15 Scrap Metal to Power Drain the Opponent. Draining 15% of the Opponent\u2019s Current Power over 1 second. This ability does not activate if Rocket has less than 15 Scrap Metal."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "100% chance to inflict Bleed, dealing 758.1 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2200 for 6 seconds."
-                ],
-                "PASSIVE": [
-                    "Built from \"recovered\" alien technology, Rocket's shield system charges anytime he Dodges back and holds Block for at least 1.50 seconds. Each shield loses power as it is used in combat.",
-                    "Kinetic Shield: 4 charges of Physical Resistance, each providing 395.12 Resistance.",
-                    "Shell Shield: 4 charges of Armor Up, each providing 268.97 Armor Rating.",
-                    "Emergency Shield: 3 charges of Special Attack resistance, each providing 20% Resistance."
+                    "Rocket takes all of his Scrap Metal and constructs a destructive Grenade. Rocket gains up to 207.48 increased Attack Rating for the final explosion based on the amount of Scrap Metal consumed.",
+                    "This explosion inflicts an Armor Break Debuff, lasting 30 seconds and reducing Armor Rating by up to 1303.45 based on the amount of Scrap Metal consumed."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "100% chance to inflict Bleed, dealing 758.1 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2200 for 6 seconds."
+                    "Rocket uses his Scrap Metal to make the Big Blaster to annihilate his Opponent\u2019s Power Bar. Consume all Scrap Metal to Inflict a 12 second Power Drain Debuff, draining up to 2 bars of the Opponent\u2019s Power based on the amount of Scrap Metal consumed.",
+                    "While this Power Drain is active, the Opponent is also Passively Special Locked.",
+                    "This devastating blast also inflicts a Bleed Debuff, dealing 1276.8 Direct Damage over 30 seconds."
                 ]
             }
         },
         "4+2": {
+            "challenger_rating": 70,
             "rank": 2,
-            "prestige": "1392",
-            "hp": "4333",
-            "attack": "559",
-            "crit_rate": "832",
-            "crit_dmge": "954",
-            "armor": "183",
-            "block_prof": "2172",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Rocket makes fur fly with up to 37.76 to 555.19 increased Critical Rating for every hit in the combo meter.",
+            "prestige": 1537,
+            "hp": 4333,
+            "attack": 559,
+            "crit_rate": 832,
+            "crit_dmge": 903,
+            "armor": 183,
+            "block_prof": 2172,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "While the Opponent is under the effect of an Armor Break Debuff they are Passively Heal Blocked, whenever the Opponent would gain health from regeneration, they are inflicted with a Power Drain Debuff, draining 1 to 3.5% of their current Power over 0.50 seconds for each Armor Break Debuff on them. If the Opponent has the Salve Mastery active, it is removed.",
+                "Rocket\u2019s Shield System grants him 996.15 to 1453.78 Crit Resistance.",
+                "While Dormant, Rocket\u2019s Shield System grants him 406.1 to 953.13 Block Proficiency. This effect also persists while the Shield System is activated."
+            ],
             "url_page": "https://auntm.ai/champions/rocket/tier/4",
             "champid": "rocket+4+2",
-            "challenger_rating": 70,
             "abilities": {
+                "SCRAP METAL - MAX 50": [
+                    "Even while in a fight, Rocket actively hunts for metal scraps to make weapons of mass destruction.",
+                    "All of Rocket\u2019s Attacks gain increased Critical Rating by 326.47 for each hit in the Combo Meter.",
+                    "Whenever Rocket lands a Critical Hit, Rocket chips away at the Opponent\u2019s Armor and Weapons, granting him 2 Scrap Metal. This value becomes 3 when fighting against #Metal Opponents.",
+                    "Whenever an Armor Break effect removes an Armor Up Buff from the Opponent, Rocket steals the broken Armor pieces and gains 10 Scrap Metal."
+                ],
+                "SHIELD SYSTEM": [
+                    "Whenever Rocket Dashes back and holds block for 1.20 second(s), he will use 25 Scrap Metal to construct a dormant Shield System to protect him from threats.",
+                    "When Rocket is struck with the dormant Shield System, it will activate and last for 6 seconds. Activated Shield Systems grant the following effects:",
+                    "+ 996.15 Armor Rating.",
+                    "+ 996.15 Physical Resistance.",
+                    "+ 30% Special Attack Resistance.",
+                    "Combo Shield, preventing Rocket\u2019s Combo Meter from resetting when struck.",
+                    "The Shield System can also Block Unblockable Attacks from Mutant Champions. A Shield System will activate early when Rocket would be struck by a Mutant\u2019s Unblockable Attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "The first hit of Heavy Attack consumes 10 Scrap Metal to inflict an Armor Break Debuff. Max: 5. This Armor Break lasts 15 seconds and reduces Armor Rating by 205.56. This ability cannot be activated while under 10 Scrap."
+                ],
                 "SPECIAL ATTACK 1": [
-                    "100% chance to increase Critical Damage Rating by 1513.64 for 9 seconds."
+                    "Each hit inflicts a Rupture Debuff, dealing 503.1 Physical Damage over 12 seconds.",
+                    "Each hit consumes 15 Scrap Metal to Power Drain the Opponent. Draining 15% of the Opponent\u2019s Current Power over 1 second. This ability does not activate if Rocket has less than 15 Scrap Metal."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "100% chance to inflict Bleed, dealing 1062.1 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2261.11 for 6 seconds."
-                ],
-                "PASSIVE": [
-                    "Built from \"recovered\" alien technology, Rocket's shield system charges anytime he Dodges back and holds Block for at least 1.50 seconds. Each shield loses power as it is used in combat.",
-                    "Kinetic Shield: 4 charges of Physical Resistance, each providing 406.1 Resistance.",
-                    "Shell Shield: 4 charges of Armor Up, each providing 276.44 Armor Rating.",
-                    "Emergency Shield: 3 charges of Special Attack resistance, each providing 20% Resistance."
+                    "Rocket takes all of his Scrap Metal and constructs a destructive Grenade. Rocket gains up to 290.68 increased Attack Rating for the final explosion based on the amount of Scrap Metal consumed.",
+                    "This explosion inflicts an Armor Break Debuff, lasting 30 seconds and reducing Armor Rating by up to 1339.66 based on the amount of Scrap Metal consumed."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "100% chance to inflict Bleed, dealing 1062.1 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2261.11 for 6 seconds."
+                    "Rocket uses his Scrap Metal to make the Big Blaster to annihilate his Opponent\u2019s Power Bar. Consume all Scrap Metal to Inflict a 12 second Power Drain Debuff, draining up to 2 bars of the Opponent\u2019s Power based on the amount of Scrap Metal consumed.",
+                    "While this Power Drain is active, the Opponent is also Passively Special Locked.",
+                    "This devastating blast also inflicts a Bleed Debuff, dealing 1788.8 Direct Damage over 30 seconds."
                 ]
             }
         },
         "4+3": {
+            "challenger_rating": 80,
             "rank": 3,
-            "prestige": "1949",
-            "hp": "6070",
-            "attack": "783",
-            "crit_rate": "854",
-            "crit_dmge": "979",
-            "armor": "212",
-            "block_prof": "2231",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Rocket makes fur fly with up to 38.78 to 570.2 increased Critical Rating for every hit in the combo meter.",
+            "prestige": 2152,
+            "hp": 6070,
+            "attack": 783,
+            "crit_rate": 854,
+            "crit_dmge": 928,
+            "armor": 212,
+            "block_prof": 2231,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "While the Opponent is under the effect of an Armor Break Debuff they are Passively Heal Blocked, whenever the Opponent would gain health from regeneration, they are inflicted with a Power Drain Debuff, draining 1 to 3.5% of their current Power over 0.50 seconds for each Armor Break Debuff on them. If the Opponent has the Salve Mastery active, it is removed.",
+                "Rocket\u2019s Shield System grants him 1023.08 to 1493.07 Crit Resistance.",
+                "While Dormant, Rocket\u2019s Shield System grants him 417.07 to 978.89 Block Proficiency. This effect also persists while the Shield System is activated."
+            ],
             "url_page": "https://auntm.ai/champions/rocket/tier/4",
             "champid": "rocket+4+3",
-            "challenger_rating": 80,
             "abilities": {
+                "SCRAP METAL - MAX 50": [
+                    "Even while in a fight, Rocket actively hunts for metal scraps to make weapons of mass destruction.",
+                    "All of Rocket\u2019s Attacks gain increased Critical Rating by 335.29 for each hit in the Combo Meter.",
+                    "Whenever Rocket lands a Critical Hit, Rocket chips away at the Opponent\u2019s Armor and Weapons, granting him 2 Scrap Metal. This value becomes 3 when fighting against #Metal Opponents.",
+                    "Whenever an Armor Break effect removes an Armor Up Buff from the Opponent, Rocket steals the broken Armor pieces and gains 10 Scrap Metal."
+                ],
+                "SHIELD SYSTEM": [
+                    "Whenever Rocket Dashes back and holds block for 1.20 second(s), he will use 25 Scrap Metal to construct a dormant Shield System to protect him from threats.",
+                    "When Rocket is struck with the dormant Shield System, it will activate and last for 6 seconds. Activated Shield Systems grant the following effects:",
+                    "+ 1023.08 Armor Rating.",
+                    "+ 1023.08 Physical Resistance.",
+                    "+ 30% Special Attack Resistance.",
+                    "Combo Shield, preventing Rocket\u2019s Combo Meter from resetting when struck.",
+                    "The Shield System can also Block Unblockable Attacks from Mutant Champions. A Shield System will activate early when Rocket would be struck by a Mutant\u2019s Unblockable Attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "The first hit of Heavy Attack consumes 10 Scrap Metal to inflict an Armor Break Debuff. Max: 5. This Armor Break lasts 15 seconds and reduces Armor Rating by 211.11. This ability cannot be activated while under 10 Scrap."
+                ],
                 "SPECIAL ATTACK 1": [
-                    "100% chance to increase Critical Damage Rating by 1554.55 for 9 seconds."
+                    "Each hit inflicts a Rupture Debuff, dealing 704.7 Physical Damage over 12 seconds.",
+                    "Each hit consumes 15 Scrap Metal to Power Drain the Opponent. Draining 15% of the Opponent\u2019s Current Power over 1 second. This ability does not activate if Rocket has less than 15 Scrap Metal."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "100% chance to inflict Bleed, dealing 1487.7 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2322.22 for 6 seconds."
-                ],
-                "PASSIVE": [
-                    "Built from \"recovered\" alien technology, Rocket's shield system charges anytime he Dodges back and holds Block for at least 1.50 seconds. Each shield loses power as it is used in combat.",
-                    "Kinetic Shield: 4 charges of Physical Resistance, each providing 417.07 Resistance.",
-                    "Shell Shield: 4 charges of Armor Up, each providing 283.91 Armor Rating.",
-                    "Emergency Shield: 3 charges of Special Attack resistance, each providing 20% Resistance."
+                    "Rocket takes all of his Scrap Metal and constructs a destructive Grenade. Rocket gains up to 407.16 increased Attack Rating for the final explosion based on the amount of Scrap Metal consumed.",
+                    "This explosion inflicts an Armor Break Debuff, lasting 30 seconds and reducing Armor Rating by up to 1375.86 based on the amount of Scrap Metal consumed."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "100% chance to inflict Bleed, dealing 1487.7 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2322.22 for 6 seconds."
+                    "Rocket uses his Scrap Metal to make the Big Blaster to annihilate his Opponent\u2019s Power Bar. Consume all Scrap Metal to Inflict a 12 second Power Drain Debuff, draining up to 2 bars of the Opponent\u2019s Power based on the amount of Scrap Metal consumed.",
+                    "While this Power Drain is active, the Opponent is also Passively Special Locked.",
+                    "This devastating blast also inflicts a Bleed Debuff, dealing 2505.6 Direct Damage over 30 seconds."
                 ]
             }
         },
         "4+4": {
+            "challenger_rating": 90,
             "rank": 4,
-            "prestige": "2563",
-            "hp": "7976",
-            "attack": "1029",
-            "crit_rate": "877",
-            "crit_dmge": "1005",
-            "armor": "242",
-            "block_prof": "2290",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Rocket makes fur fly with up to 39.8 to 585.2 increased Critical Rating for every hit in the combo meter.",
+            "prestige": 2831,
+            "hp": 7976,
+            "attack": 1029,
+            "crit_rate": 877,
+            "crit_dmge": 952,
+            "armor": 242,
+            "block_prof": 2290,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "While the Opponent is under the effect of an Armor Break Debuff they are Passively Heal Blocked, whenever the Opponent would gain health from regeneration, they are inflicted with a Power Drain Debuff, draining 1 to 3.5% of their current Power over 0.50 seconds for each Armor Break Debuff on them. If the Opponent has the Salve Mastery active, it is removed.",
+                "Rocket\u2019s Shield System grants him 1050 to 1532.37 Crit Resistance.",
+                "While Dormant, Rocket\u2019s Shield System grants him 428.05 to 1004.65 Block Proficiency. This effect also persists while the Shield System is activated."
+            ],
             "url_page": "https://auntm.ai/champions/rocket/tier/4",
             "champid": "rocket+4+4",
-            "challenger_rating": 90,
             "abilities": {
+                "SCRAP METAL - MAX 50": [
+                    "Even while in a fight, Rocket actively hunts for metal scraps to make weapons of mass destruction.",
+                    "All of Rocket\u2019s Attacks gain increased Critical Rating by 344.12 for each hit in the Combo Meter.",
+                    "Whenever Rocket lands a Critical Hit, Rocket chips away at the Opponent\u2019s Armor and Weapons, granting him 2 Scrap Metal. This value becomes 3 when fighting against #Metal Opponents.",
+                    "Whenever an Armor Break effect removes an Armor Up Buff from the Opponent, Rocket steals the broken Armor pieces and gains 10 Scrap Metal."
+                ],
+                "SHIELD SYSTEM": [
+                    "Whenever Rocket Dashes back and holds block for 1.20 second(s), he will use 25 Scrap Metal to construct a dormant Shield System to protect him from threats.",
+                    "When Rocket is struck with the dormant Shield System, it will activate and last for 6 seconds. Activated Shield Systems grant the following effects:",
+                    "+ 1050 Armor Rating.",
+                    "+ 1050 Physical Resistance.",
+                    "+ 30% Special Attack Resistance.",
+                    "Combo Shield, preventing Rocket\u2019s Combo Meter from resetting when struck.",
+                    "The Shield System can also Block Unblockable Attacks from Mutant Champions. A Shield System will activate early when Rocket would be struck by a Mutant\u2019s Unblockable Attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "The first hit of Heavy Attack consumes 10 Scrap Metal to inflict an Armor Break Debuff. Max: 5. This Armor Break lasts 15 seconds and reduces Armor Rating by 216.67. This ability cannot be activated while under 10 Scrap."
+                ],
                 "SPECIAL ATTACK 1": [
-                    "100% chance to increase Critical Damage Rating by 1595.45 for 9 seconds."
+                    "Each hit inflicts a Rupture Debuff, dealing 926.1 Physical Damage over 12 seconds.",
+                    "Each hit consumes 15 Scrap Metal to Power Drain the Opponent. Draining 15% of the Opponent\u2019s Current Power over 1 second. This ability does not activate if Rocket has less than 15 Scrap Metal."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "100% chance to inflict Bleed, dealing 1955.1 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2383.33 for 6 seconds."
-                ],
-                "PASSIVE": [
-                    "Built from \"recovered\" alien technology, Rocket's shield system charges anytime he Dodges back and holds Block for at least 1.50 seconds. Each shield loses power as it is used in combat.",
-                    "Kinetic Shield: 4 charges of Physical Resistance, each providing 428.05 Resistance.",
-                    "Shell Shield: 4 charges of Armor Up, each providing 291.38 Armor Rating.",
-                    "Emergency Shield: 3 charges of Special Attack resistance, each providing 20% Resistance."
+                    "Rocket takes all of his Scrap Metal and constructs a destructive Grenade. Rocket gains up to 535.08 increased Attack Rating for the final explosion based on the amount of Scrap Metal consumed.",
+                    "This explosion inflicts an Armor Break Debuff, lasting 30 seconds and reducing Armor Rating by up to 1412.07 based on the amount of Scrap Metal consumed."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "100% chance to inflict Bleed, dealing 1955.1 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2383.33 for 6 seconds."
+                    "Rocket uses his Scrap Metal to make the Big Blaster to annihilate his Opponent\u2019s Power Bar. Consume all Scrap Metal to Inflict a 12 second Power Drain Debuff, draining up to 2 bars of the Opponent\u2019s Power based on the amount of Scrap Metal consumed.",
+                    "While this Power Drain is active, the Opponent is also Passively Special Locked.",
+                    "This devastating blast also inflicts a Bleed Debuff, dealing 3292.8 Direct Damage over 30 seconds."
                 ]
             }
         },
         "4+5": {
+            "challenger_rating": 100,
             "rank": 5,
-            "prestige": "3419",
-            "hp": "10643",
-            "attack": "1373",
-            "crit_rate": "899",
-            "crit_dmge": "1031",
-            "armor": "273",
-            "block_prof": "2348",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Rocket makes fur fly with up to 40.82 to 600.21 increased Critical Rating for every hit in the combo meter.",
+            "prestige": 3774,
+            "hp": 10643,
+            "attack": 1373,
+            "crit_rate": 899,
+            "crit_dmge": 977,
+            "armor": 273,
+            "block_prof": 2348,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "While the Opponent is under the effect of an Armor Break Debuff they are Passively Heal Blocked, whenever the Opponent would gain health from regeneration, they are inflicted with a Power Drain Debuff, draining 1 to 3.5% of their current Power over 0.50 seconds for each Armor Break Debuff on them. If the Opponent has the Salve Mastery active, it is removed.",
+                "Rocket\u2019s Shield System grants him 1076.92 to 1571.66 Crit Resistance.",
+                "While Dormant, Rocket\u2019s Shield System grants him 439.02 to 1030.41 Block Proficiency. This effect also persists while the Shield System is activated."
+            ],
             "url_page": "https://auntm.ai/champions/rocket/tier/4",
             "champid": "rocket+4+5",
-            "challenger_rating": 100,
             "abilities": {
+                "SCRAP METAL - MAX 50": [
+                    "Even while in a fight, Rocket actively hunts for metal scraps to make weapons of mass destruction.",
+                    "All of Rocket\u2019s Attacks gain increased Critical Rating by 352.94 for each hit in the Combo Meter.",
+                    "Whenever Rocket lands a Critical Hit, Rocket chips away at the Opponent\u2019s Armor and Weapons, granting him 2 Scrap Metal. This value becomes 3 when fighting against #Metal Opponents.",
+                    "Whenever an Armor Break effect removes an Armor Up Buff from the Opponent, Rocket steals the broken Armor pieces and gains 10 Scrap Metal."
+                ],
+                "SHIELD SYSTEM": [
+                    "Whenever Rocket Dashes back and holds block for 1.20 second(s), he will use 25 Scrap Metal to construct a dormant Shield System to protect him from threats.",
+                    "When Rocket is struck with the dormant Shield System, it will activate and last for 6 seconds. Activated Shield Systems grant the following effects:",
+                    "+ 1076.92 Armor Rating.",
+                    "+ 1076.92 Physical Resistance.",
+                    "+ 30% Special Attack Resistance.",
+                    "Combo Shield, preventing Rocket\u2019s Combo Meter from resetting when struck.",
+                    "The Shield System can also Block Unblockable Attacks from Mutant Champions. A Shield System will activate early when Rocket would be struck by a Mutant\u2019s Unblockable Attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "The first hit of Heavy Attack consumes 10 Scrap Metal to inflict an Armor Break Debuff. Max: 5. This Armor Break lasts 15 seconds and reduces Armor Rating by 222.22. This ability cannot be activated while under 10 Scrap."
+                ],
                 "SPECIAL ATTACK 1": [
-                    "100% chance to increase Critical Damage Rating by 1636.36 for 9 seconds."
+                    "Each hit inflicts a Rupture Debuff, dealing 1235.7 Physical Damage over 12 seconds.",
+                    "Each hit consumes 15 Scrap Metal to Power Drain the Opponent. Draining 15% of the Opponent\u2019s Current Power over 1 second. This ability does not activate if Rocket has less than 15 Scrap Metal."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "100% chance to inflict Bleed, dealing 2608.7 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2444.44 for 6 seconds."
-                ],
-                "PASSIVE": [
-                    "Built from \"recovered\" alien technology, Rocket's shield system charges anytime he Dodges back and holds Block for at least 1.50 seconds. Each shield loses power as it is used in combat.",
-                    "Kinetic Shield: 4 charges of Physical Resistance, each providing 439.02 Resistance.",
-                    "Shell Shield: 4 charges of Armor Up, each providing 298.85 Armor Rating.",
-                    "Emergency Shield: 3 charges of Special Attack resistance, each providing 20% Resistance."
+                    "Rocket takes all of his Scrap Metal and constructs a destructive Grenade. Rocket gains up to 713.96 increased Attack Rating for the final explosion based on the amount of Scrap Metal consumed.",
+                    "This explosion inflicts an Armor Break Debuff, lasting 30 seconds and reducing Armor Rating by up to 1448.28 based on the amount of Scrap Metal consumed."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "100% chance to inflict Bleed, dealing 2608.7 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2444.44 for 6 seconds."
+                    "Rocket uses his Scrap Metal to make the Big Blaster to annihilate his Opponent\u2019s Power Bar. Consume all Scrap Metal to Inflict a 12 second Power Drain Debuff, draining up to 2 bars of the Opponent\u2019s Power based on the amount of Scrap Metal consumed.",
+                    "While this Power Drain is active, the Opponent is also Passively Special Locked.",
+                    "This devastating blast also inflicts a Bleed Debuff, dealing 4393.6 Direct Damage over 30 seconds."
                 ]
             }
         },
         "5+1": {
+            "challenger_rating": 80,
             "rank": 1,
-            "prestige": "2046",
-            "hp": "6351",
-            "attack": "820",
-            "crit_rate": "854",
-            "crit_dmge": "979",
-            "armor": "362",
-            "block_prof": "2231",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Rocket makes fur fly with up to 38.78 to 1090.26 increased Critical Rating for every hit in the combo meter.",
+            "prestige": 2259,
+            "hp": 6351,
+            "attack": 820,
+            "crit_rate": 854,
+            "crit_dmge": 928,
+            "armor": 362,
+            "block_prof": 2231,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "While the Opponent is under the effect of an Armor Break Debuff they are Passively Heal Blocked, whenever the Opponent would gain health from regeneration, they are inflicted with a Power Drain Debuff, draining 1 to 5% of their current Power over 0.50 seconds for each Armor Break Debuff on them. If the Opponent has the Salve Mastery active, it is removed.",
+                "Rocket\u2019s Shield System grants him 1023.08 to 1978.11 Crit Resistance.",
+                "While Dormant, Rocket\u2019s Shield System grants him 417.07 to 1754.52 Block Proficiency. This effect also persists while the Shield System is activated."
+            ],
             "url_page": "https://auntm.ai/champions/rocket/tier/5",
             "champid": "rocket+5+1",
-            "challenger_rating": 80,
             "abilities": {
+                "SCRAP METAL - MAX 50": [
+                    "Even while in a fight, Rocket actively hunts for metal scraps to make weapons of mass destruction.",
+                    "All of Rocket\u2019s Attacks gain increased Critical Rating by 335.29 for each hit in the Combo Meter.",
+                    "Whenever Rocket lands a Critical Hit, Rocket chips away at the Opponent\u2019s Armor and Weapons, granting him 2 Scrap Metal. This value becomes 3 when fighting against #Metal Opponents.",
+                    "Whenever an Armor Break effect removes an Armor Up Buff from the Opponent, Rocket steals the broken Armor pieces and gains 10 Scrap Metal."
+                ],
+                "SHIELD SYSTEM": [
+                    "Whenever Rocket Dashes back and holds block for 1.20 second(s), he will use 25 Scrap Metal to construct a dormant Shield System to protect him from threats.",
+                    "When Rocket is struck with the dormant Shield System, it will activate and last for 6 seconds. Activated Shield Systems grant the following effects:",
+                    "+ 1023.08 Armor Rating.",
+                    "+ 1023.08 Physical Resistance.",
+                    "+ 30% Special Attack Resistance.",
+                    "Combo Shield, preventing Rocket\u2019s Combo Meter from resetting when struck.",
+                    "The Shield System can also Block Unblockable Attacks from Mutant Champions. A Shield System will activate early when Rocket would be struck by a Mutant\u2019s Unblockable Attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "The first hit of Heavy Attack consumes 10 Scrap Metal to inflict an Armor Break Debuff. Max: 5. This Armor Break lasts 15 seconds and reduces Armor Rating by 211.11. This ability cannot be activated while under 10 Scrap."
+                ],
                 "SPECIAL ATTACK 1": [
-                    "100% chance to increase Critical Damage Rating by 1554.55 for 9 seconds."
+                    "Each hit inflicts a Rupture Debuff, dealing 738 Physical Damage over 12 seconds.",
+                    "Each hit consumes 15 Scrap Metal to Power Drain the Opponent. Draining 15% of the Opponent\u2019s Current Power over 1 second. This ability does not activate if Rocket has less than 15 Scrap Metal."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "100% chance to inflict Bleed, dealing 1558 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2322.22 for 6 seconds."
-                ],
-                "PASSIVE": [
-                    "Built from \"recovered\" alien technology, Rocket's shield system charges anytime he Dodges back and holds Block for at least 1.50 seconds. Each shield loses power as it is used in combat.",
-                    "Kinetic Shield: 4 charges of Physical Resistance, each providing 417.07 Resistance.",
-                    "Shell Shield: 4 charges of Armor Up, each providing 283.91 Armor Rating.",
-                    "Emergency Shield: 3 charges of Special Attack resistance, each providing 20% Resistance."
+                    "Rocket takes all of his Scrap Metal and constructs a destructive Grenade. Rocket gains up to 426.4 increased Attack Rating for the final explosion based on the amount of Scrap Metal consumed.",
+                    "This explosion inflicts an Armor Break Debuff, lasting 30 seconds and reducing Armor Rating by up to 1375.86 based on the amount of Scrap Metal consumed."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "100% chance to inflict Bleed, dealing 1558 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2322.22 for 6 seconds."
+                    "Rocket uses his Scrap Metal to make the Big Blaster to annihilate his Opponent\u2019s Power Bar. Consume all Scrap Metal to Inflict a 12 second Power Drain Debuff, draining up to 2 bars of the Opponent\u2019s Power based on the amount of Scrap Metal consumed.",
+                    "While this Power Drain is active, the Opponent is also Passively Special Locked.",
+                    "This devastating blast also inflicts a Bleed Debuff, dealing 2624 Direct Damage over 30 seconds."
                 ]
             }
         },
         "5+2": {
+            "challenger_rating": 90,
             "rank": 2,
-            "prestige": "2699",
-            "hp": "8390",
-            "attack": "1082",
-            "crit_rate": "877",
-            "crit_dmge": "1005",
-            "armor": "400",
-            "block_prof": "2290",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Rocket makes fur fly with up to 39.8 to 1118.95 increased Critical Rating for every hit in the combo meter.",
+            "prestige": 2980,
+            "hp": 8390,
+            "attack": 1082,
+            "crit_rate": 877,
+            "crit_dmge": 952,
+            "armor": 400,
+            "block_prof": 2290,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "While the Opponent is under the effect of an Armor Break Debuff they are Passively Heal Blocked, whenever the Opponent would gain health from regeneration, they are inflicted with a Power Drain Debuff, draining 1 to 5% of their current Power over 0.50 seconds for each Armor Break Debuff on them. If the Opponent has the Salve Mastery active, it is removed.",
+                "Rocket\u2019s Shield System grants him 1050 to 2030.17 Crit Resistance.",
+                "While Dormant, Rocket\u2019s Shield System grants him 428.05 to 1800.69 Block Proficiency. This effect also persists while the Shield System is activated."
+            ],
             "url_page": "https://auntm.ai/champions/rocket/tier/5",
             "champid": "rocket+5+2",
-            "challenger_rating": 90,
             "abilities": {
+                "SCRAP METAL - MAX 50": [
+                    "Even while in a fight, Rocket actively hunts for metal scraps to make weapons of mass destruction.",
+                    "All of Rocket\u2019s Attacks gain increased Critical Rating by 344.12 for each hit in the Combo Meter.",
+                    "Whenever Rocket lands a Critical Hit, Rocket chips away at the Opponent\u2019s Armor and Weapons, granting him 2 Scrap Metal. This value becomes 3 when fighting against #Metal Opponents.",
+                    "Whenever an Armor Break effect removes an Armor Up Buff from the Opponent, Rocket steals the broken Armor pieces and gains 10 Scrap Metal."
+                ],
+                "SHIELD SYSTEM": [
+                    "Whenever Rocket Dashes back and holds block for 1.20 second(s), he will use 25 Scrap Metal to construct a dormant Shield System to protect him from threats.",
+                    "When Rocket is struck with the dormant Shield System, it will activate and last for 6 seconds. Activated Shield Systems grant the following effects:",
+                    "+ 1050 Armor Rating.",
+                    "+ 1050 Physical Resistance.",
+                    "+ 30% Special Attack Resistance.",
+                    "Combo Shield, preventing Rocket\u2019s Combo Meter from resetting when struck.",
+                    "The Shield System can also Block Unblockable Attacks from Mutant Champions. A Shield System will activate early when Rocket would be struck by a Mutant\u2019s Unblockable Attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "The first hit of Heavy Attack consumes 10 Scrap Metal to inflict an Armor Break Debuff. Max: 5. This Armor Break lasts 15 seconds and reduces Armor Rating by 216.67. This ability cannot be activated while under 10 Scrap."
+                ],
                 "SPECIAL ATTACK 1": [
-                    "100% chance to increase Critical Damage Rating by 1595.45 for 9 seconds."
+                    "Each hit inflicts a Rupture Debuff, dealing 973.8 Physical Damage over 12 seconds.",
+                    "Each hit consumes 15 Scrap Metal to Power Drain the Opponent. Draining 15% of the Opponent\u2019s Current Power over 1 second. This ability does not activate if Rocket has less than 15 Scrap Metal."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "100% chance to inflict Bleed, dealing 2055.8 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2383.33 for 6 seconds."
-                ],
-                "PASSIVE": [
-                    "Built from \"recovered\" alien technology, Rocket's shield system charges anytime he Dodges back and holds Block for at least 1.50 seconds. Each shield loses power as it is used in combat.",
-                    "Kinetic Shield: 4 charges of Physical Resistance, each providing 428.05 Resistance.",
-                    "Shell Shield: 4 charges of Armor Up, each providing 291.38 Armor Rating.",
-                    "Emergency Shield: 3 charges of Special Attack resistance, each providing 20% Resistance."
+                    "Rocket takes all of his Scrap Metal and constructs a destructive Grenade. Rocket gains up to 562.64 increased Attack Rating for the final explosion based on the amount of Scrap Metal consumed.",
+                    "This explosion inflicts an Armor Break Debuff, lasting 30 seconds and reducing Armor Rating by up to 1412.07 based on the amount of Scrap Metal consumed."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "100% chance to inflict Bleed, dealing 2055.8 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2383.33 for 6 seconds."
+                    "Rocket uses his Scrap Metal to make the Big Blaster to annihilate his Opponent\u2019s Power Bar. Consume all Scrap Metal to Inflict a 12 second Power Drain Debuff, draining up to 2 bars of the Opponent\u2019s Power based on the amount of Scrap Metal consumed.",
+                    "While this Power Drain is active, the Opponent is also Passively Special Locked.",
+                    "This devastating blast also inflicts a Bleed Debuff, dealing 3462.4 Direct Damage over 30 seconds."
                 ]
             }
         },
         "5+3": {
+            "challenger_rating": 100,
             "rank": 3,
-            "prestige": "3776",
-            "hp": "11729",
-            "attack": "1513",
-            "crit_rate": "899",
-            "crit_dmge": "1031",
-            "armor": "440",
-            "block_prof": "2348",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Rocket makes fur fly with up to 40.82 to 1147.64 increased Critical Rating for every hit in the combo meter.",
+            "prestige": 4171,
+            "hp": 11729,
+            "attack": 1513,
+            "crit_rate": 899,
+            "crit_dmge": 977,
+            "armor": 440,
+            "block_prof": 2348,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "While the Opponent is under the effect of an Armor Break Debuff they are Passively Heal Blocked, whenever the Opponent would gain health from regeneration, they are inflicted with a Power Drain Debuff, draining 1 to 5% of their current Power over 0.50 seconds for each Armor Break Debuff on them. If the Opponent has the Salve Mastery active, it is removed.",
+                "Rocket\u2019s Shield System grants him 1076.92 to 2082.23 Crit Resistance.",
+                "While Dormant, Rocket\u2019s Shield System grants him 439.02 to 1846.86 Block Proficiency. This effect also persists while the Shield System is activated."
+            ],
             "url_page": "https://auntm.ai/champions/rocket/tier/5",
             "champid": "rocket+5+3",
-            "challenger_rating": 100,
             "abilities": {
+                "SCRAP METAL - MAX 50": [
+                    "Even while in a fight, Rocket actively hunts for metal scraps to make weapons of mass destruction.",
+                    "All of Rocket\u2019s Attacks gain increased Critical Rating by 352.94 for each hit in the Combo Meter.",
+                    "Whenever Rocket lands a Critical Hit, Rocket chips away at the Opponent\u2019s Armor and Weapons, granting him 2 Scrap Metal. This value becomes 3 when fighting against #Metal Opponents.",
+                    "Whenever an Armor Break effect removes an Armor Up Buff from the Opponent, Rocket steals the broken Armor pieces and gains 10 Scrap Metal."
+                ],
+                "SHIELD SYSTEM": [
+                    "Whenever Rocket Dashes back and holds block for 1.20 second(s), he will use 25 Scrap Metal to construct a dormant Shield System to protect him from threats.",
+                    "When Rocket is struck with the dormant Shield System, it will activate and last for 6 seconds. Activated Shield Systems grant the following effects:",
+                    "+ 1076.92 Armor Rating.",
+                    "+ 1076.92 Physical Resistance.",
+                    "+ 30% Special Attack Resistance.",
+                    "Combo Shield, preventing Rocket\u2019s Combo Meter from resetting when struck.",
+                    "The Shield System can also Block Unblockable Attacks from Mutant Champions. A Shield System will activate early when Rocket would be struck by a Mutant\u2019s Unblockable Attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "The first hit of Heavy Attack consumes 10 Scrap Metal to inflict an Armor Break Debuff. Max: 5. This Armor Break lasts 15 seconds and reduces Armor Rating by 222.22. This ability cannot be activated while under 10 Scrap."
+                ],
                 "SPECIAL ATTACK 1": [
-                    "100% chance to increase Critical Damage Rating by 1636.36 for 9 seconds."
+                    "Each hit inflicts a Rupture Debuff, dealing 1361.7 Physical Damage over 12 seconds.",
+                    "Each hit consumes 15 Scrap Metal to Power Drain the Opponent. Draining 15% of the Opponent\u2019s Current Power over 1 second. This ability does not activate if Rocket has less than 15 Scrap Metal."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "100% chance to inflict Bleed, dealing 2874.7 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2444.44 for 6 seconds."
-                ],
-                "PASSIVE": [
-                    "Built from \"recovered\" alien technology, Rocket's shield system charges anytime he Dodges back and holds Block for at least 1.50 seconds. Each shield loses power as it is used in combat.",
-                    "Kinetic Shield: 4 charges of Physical Resistance, each providing 439.02 Resistance.",
-                    "Shell Shield: 4 charges of Armor Up, each providing 298.85 Armor Rating.",
-                    "Emergency Shield: 3 charges of Special Attack resistance, each providing 20% Resistance."
+                    "Rocket takes all of his Scrap Metal and constructs a destructive Grenade. Rocket gains up to 786.76 increased Attack Rating for the final explosion based on the amount of Scrap Metal consumed.",
+                    "This explosion inflicts an Armor Break Debuff, lasting 30 seconds and reducing Armor Rating by up to 1448.28 based on the amount of Scrap Metal consumed."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "100% chance to inflict Bleed, dealing 2874.7 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2444.44 for 6 seconds."
+                    "Rocket uses his Scrap Metal to make the Big Blaster to annihilate his Opponent\u2019s Power Bar. Consume all Scrap Metal to Inflict a 12 second Power Drain Debuff, draining up to 2 bars of the Opponent\u2019s Power based on the amount of Scrap Metal consumed.",
+                    "While this Power Drain is active, the Opponent is also Passively Special Locked.",
+                    "This devastating blast also inflicts a Bleed Debuff, dealing 4841.6 Direct Damage over 30 seconds."
                 ]
             }
         },
         "5+4": {
+            "challenger_rating": 110,
             "rank": 4,
-            "prestige": "5088",
-            "hp": "15805",
-            "attack": "2039",
-            "crit_rate": "922",
-            "crit_dmge": "1057",
-            "armor": "481",
-            "block_prof": "2407",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Rocket makes fur fly with up to 41.84 to 1176.33 increased Critical Rating for every hit in the combo meter.",
+            "prestige": 5620,
+            "hp": 15805,
+            "attack": 2039,
+            "crit_rate": 922,
+            "crit_dmge": 1001,
+            "armor": 481,
+            "block_prof": 2407,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "While the Opponent is under the effect of an Armor Break Debuff they are Passively Heal Blocked, whenever the Opponent would gain health from regeneration, they are inflicted with a Power Drain Debuff, draining 1 to 5% of their current Power over 0.50 seconds for each Armor Break Debuff on them. If the Opponent has the Salve Mastery active, it is removed.",
+                "Rocket\u2019s Shield System grants him 1103.85 to 2134.28 Crit Resistance.",
+                "While Dormant, Rocket\u2019s Shield System grants him 450 to 1893.03 Block Proficiency. This effect also persists while the Shield System is activated."
+            ],
             "url_page": "https://auntm.ai/champions/rocket/tier/5",
             "champid": "rocket+5+4",
-            "challenger_rating": 110,
             "abilities": {
+                "SCRAP METAL - MAX 50": [
+                    "Even while in a fight, Rocket actively hunts for metal scraps to make weapons of mass destruction.",
+                    "All of Rocket\u2019s Attacks gain increased Critical Rating by 361.76 for each hit in the Combo Meter.",
+                    "Whenever Rocket lands a Critical Hit, Rocket chips away at the Opponent\u2019s Armor and Weapons, granting him 2 Scrap Metal. This value becomes 3 when fighting against #Metal Opponents.",
+                    "Whenever an Armor Break effect removes an Armor Up Buff from the Opponent, Rocket steals the broken Armor pieces and gains 10 Scrap Metal."
+                ],
+                "SHIELD SYSTEM": [
+                    "Whenever Rocket Dashes back and holds block for 1.20 second(s), he will use 25 Scrap Metal to construct a dormant Shield System to protect him from threats.",
+                    "When Rocket is struck with the dormant Shield System, it will activate and last for 6 seconds. Activated Shield Systems grant the following effects:",
+                    "+ 1103.85 Armor Rating.",
+                    "+ 1103.85 Physical Resistance.",
+                    "+ 30% Special Attack Resistance.",
+                    "Combo Shield, preventing Rocket\u2019s Combo Meter from resetting when struck.",
+                    "The Shield System can also Block Unblockable Attacks from Mutant Champions. A Shield System will activate early when Rocket would be struck by a Mutant\u2019s Unblockable Attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "The first hit of Heavy Attack consumes 10 Scrap Metal to inflict an Armor Break Debuff. Max: 5. This Armor Break lasts 15 seconds and reduces Armor Rating by 227.78. This ability cannot be activated while under 10 Scrap."
+                ],
                 "SPECIAL ATTACK 1": [
-                    "100% chance to increase Critical Damage Rating by 1677.27 for 9 seconds."
+                    "Each hit inflicts a Rupture Debuff, dealing 1835.1 Physical Damage over 12 seconds.",
+                    "Each hit consumes 15 Scrap Metal to Power Drain the Opponent. Draining 15% of the Opponent\u2019s Current Power over 1 second. This ability does not activate if Rocket has less than 15 Scrap Metal."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "100% chance to inflict Bleed, dealing 3874.1 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2505.56 for 6 seconds."
-                ],
-                "PASSIVE": [
-                    "Built from \"recovered\" alien technology, Rocket's shield system charges anytime he Dodges back and holds Block for at least 1.50 seconds. Each shield loses power as it is used in combat.",
-                    "Kinetic Shield: 4 charges of Physical Resistance, each providing 450 Resistance.",
-                    "Shell Shield: 4 charges of Armor Up, each providing 306.32 Armor Rating.",
-                    "Emergency Shield: 3 charges of Special Attack resistance, each providing 20% Resistance."
+                    "Rocket takes all of his Scrap Metal and constructs a destructive Grenade. Rocket gains up to 1060.28 increased Attack Rating for the final explosion based on the amount of Scrap Metal consumed.",
+                    "This explosion inflicts an Armor Break Debuff, lasting 30 seconds and reducing Armor Rating by up to 1484.48 based on the amount of Scrap Metal consumed."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "100% chance to inflict Bleed, dealing 3874.1 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2505.56 for 6 seconds."
+                    "Rocket uses his Scrap Metal to make the Big Blaster to annihilate his Opponent\u2019s Power Bar. Consume all Scrap Metal to Inflict a 12 second Power Drain Debuff, draining up to 2 bars of the Opponent\u2019s Power based on the amount of Scrap Metal consumed.",
+                    "While this Power Drain is active, the Opponent is also Passively Special Locked.",
+                    "This devastating blast also inflicts a Bleed Debuff, dealing 6524.8 Direct Damage over 30 seconds."
                 ]
             }
         },
         "5+5": {
+            "challenger_rating": 120,
             "rank": 5,
-            "prestige": "6877",
-            "hp": "21339",
-            "attack": "2753",
-            "crit_rate": "944",
-            "crit_dmge": "1082",
-            "armor": "525",
-            "block_prof": "2466",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Rocket makes fur fly with up to 42.86 to 1205.03 increased Critical Rating for every hit in the combo meter.",
+            "prestige": 7600,
+            "hp": 21339,
+            "attack": 2753,
+            "crit_rate": 944,
+            "crit_dmge": 1025,
+            "armor": 525,
+            "block_prof": 2466,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "While the Opponent is under the effect of an Armor Break Debuff they are Passively Heal Blocked, whenever the Opponent would gain health from regeneration, they are inflicted with a Power Drain Debuff, draining 1 to 5% of their current Power over 0.50 seconds for each Armor Break Debuff on them. If the Opponent has the Salve Mastery active, it is removed.",
+                "Rocket\u2019s Shield System grants him 1130.77 to 2186.34 Crit Resistance.",
+                "While Dormant, Rocket\u2019s Shield System grants him 460.98 to 1939.2 Block Proficiency. This effect also persists while the Shield System is activated."
+            ],
             "url_page": "https://auntm.ai/champions/rocket/tier/5",
             "champid": "rocket+5+5",
-            "challenger_rating": 120,
             "abilities": {
+                "SCRAP METAL - MAX 50": [
+                    "Even while in a fight, Rocket actively hunts for metal scraps to make weapons of mass destruction.",
+                    "All of Rocket\u2019s Attacks gain increased Critical Rating by 370.59 for each hit in the Combo Meter.",
+                    "Whenever Rocket lands a Critical Hit, Rocket chips away at the Opponent\u2019s Armor and Weapons, granting him 2 Scrap Metal. This value becomes 3 when fighting against #Metal Opponents.",
+                    "Whenever an Armor Break effect removes an Armor Up Buff from the Opponent, Rocket steals the broken Armor pieces and gains 10 Scrap Metal."
+                ],
+                "SHIELD SYSTEM": [
+                    "Whenever Rocket Dashes back and holds block for 1.20 second(s), he will use 25 Scrap Metal to construct a dormant Shield System to protect him from threats.",
+                    "When Rocket is struck with the dormant Shield System, it will activate and last for 6 seconds. Activated Shield Systems grant the following effects:",
+                    "+ 1130.77 Armor Rating.",
+                    "+ 1130.77 Physical Resistance.",
+                    "+ 30% Special Attack Resistance.",
+                    "Combo Shield, preventing Rocket\u2019s Combo Meter from resetting when struck.",
+                    "The Shield System can also Block Unblockable Attacks from Mutant Champions. A Shield System will activate early when Rocket would be struck by a Mutant\u2019s Unblockable Attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "The first hit of Heavy Attack consumes 10 Scrap Metal to inflict an Armor Break Debuff. Max: 5. This Armor Break lasts 15 seconds and reduces Armor Rating by 233.33. This ability cannot be activated while under 10 Scrap."
+                ],
                 "SPECIAL ATTACK 1": [
-                    "100% chance to increase Critical Damage Rating by 1718.18 for 9 seconds."
+                    "Each hit inflicts a Rupture Debuff, dealing 2477.7 Physical Damage over 12 seconds.",
+                    "Each hit consumes 15 Scrap Metal to Power Drain the Opponent. Draining 15% of the Opponent\u2019s Current Power over 1 second. This ability does not activate if Rocket has less than 15 Scrap Metal."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "100% chance to inflict Bleed, dealing 5230.7 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2566.67 for 6 seconds."
-                ],
-                "PASSIVE": [
-                    "Built from \"recovered\" alien technology, Rocket's shield system charges anytime he Dodges back and holds Block for at least 1.50 seconds. Each shield loses power as it is used in combat.",
-                    "Kinetic Shield: 4 charges of Physical Resistance, each providing 460.98 Resistance.",
-                    "Shell Shield: 4 charges of Armor Up, each providing 313.79 Armor Rating.",
-                    "Emergency Shield: 3 charges of Special Attack resistance, each providing 20% Resistance."
+                    "Rocket takes all of his Scrap Metal and constructs a destructive Grenade. Rocket gains up to 1431.56 increased Attack Rating for the final explosion based on the amount of Scrap Metal consumed.",
+                    "This explosion inflicts an Armor Break Debuff, lasting 30 seconds and reducing Armor Rating by up to 1520.69 based on the amount of Scrap Metal consumed."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "100% chance to inflict Bleed, dealing 5230.7 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2566.67 for 6 seconds."
+                    "Rocket uses his Scrap Metal to make the Big Blaster to annihilate his Opponent\u2019s Power Bar. Consume all Scrap Metal to Inflict a 12 second Power Drain Debuff, draining up to 2 bars of the Opponent\u2019s Power based on the amount of Scrap Metal consumed.",
+                    "While this Power Drain is active, the Opponent is also Passively Special Locked.",
+                    "This devastating blast also inflicts a Bleed Debuff, dealing 8809.6 Direct Damage over 30 seconds."
                 ]
             }
         },
         "6+1": {
+            "challenger_rating": 110,
             "rank": 1,
-            "prestige": "5393",
-            "hp": "16779",
-            "attack": "2164",
-            "crit_rate": "922",
-            "crit_dmge": "1057",
-            "armor": "391",
-            "block_prof": "2407",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Rocket makes fur fly with up to 41.84 to 1176.33 increased Critical Rating for every hit in the combo meter.",
+            "prestige": 5957,
+            "hp": 16779,
+            "attack": 2164,
+            "crit_rate": 922,
+            "crit_dmge": 1001,
+            "armor": 391,
+            "block_prof": 2407,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "While the Opponent is under the effect of an Armor Break Debuff they are Passively Heal Blocked, whenever the Opponent would gain health from regeneration, they are inflicted with a Power Drain Debuff, draining 1 to 5% of their current Power over 0.50 seconds for each Armor Break Debuff on them. If the Opponent has the Salve Mastery active, it is removed.",
+                "Rocket\u2019s Shield System grants him 1103.85 to 2134.28 Crit Resistance.",
+                "While Dormant, Rocket\u2019s Shield System grants him 450 to 1893.03 Block Proficiency. This effect also persists while the Shield System is activated."
+            ],
             "url_page": "https://auntm.ai/champions/rocket/tier/6",
             "champid": "rocket+6+1",
-            "challenger_rating": 110,
             "abilities": {
+                "SCRAP METAL - MAX 50": [
+                    "Even while in a fight, Rocket actively hunts for metal scraps to make weapons of mass destruction.",
+                    "All of Rocket\u2019s Attacks gain increased Critical Rating by 361.76 for each hit in the Combo Meter.",
+                    "Whenever Rocket lands a Critical Hit, Rocket chips away at the Opponent\u2019s Armor and Weapons, granting him 2 Scrap Metal. This value becomes 3 when fighting against #Metal Opponents.",
+                    "Whenever an Armor Break effect removes an Armor Up Buff from the Opponent, Rocket steals the broken Armor pieces and gains 10 Scrap Metal."
+                ],
+                "SHIELD SYSTEM": [
+                    "Whenever Rocket Dashes back and holds block for 1.20 second(s), he will use 25 Scrap Metal to construct a dormant Shield System to protect him from threats.",
+                    "When Rocket is struck with the dormant Shield System, it will activate and last for 6 seconds. Activated Shield Systems grant the following effects:",
+                    "+ 1103.85 Armor Rating.",
+                    "+ 1103.85 Physical Resistance.",
+                    "+ 30% Special Attack Resistance.",
+                    "Combo Shield, preventing Rocket\u2019s Combo Meter from resetting when struck.",
+                    "The Shield System can also Block Unblockable Attacks from Mutant Champions. A Shield System will activate early when Rocket would be struck by a Mutant\u2019s Unblockable Attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "The first hit of Heavy Attack consumes 10 Scrap Metal to inflict an Armor Break Debuff. Max: 5. This Armor Break lasts 15 seconds and reduces Armor Rating by 227.78. This ability cannot be activated while under 10 Scrap."
+                ],
                 "SPECIAL ATTACK 1": [
-                    "100% chance to increase Critical Damage Rating by 1677.27 for 9 seconds."
+                    "Each hit inflicts a Rupture Debuff, dealing 1947.6 Physical Damage over 12 seconds.",
+                    "Each hit consumes 15 Scrap Metal to Power Drain the Opponent. Draining 15% of the Opponent\u2019s Current Power over 1 second. This ability does not activate if Rocket has less than 15 Scrap Metal."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "100% chance to inflict Bleed, dealing 4111.6 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2505.56 for 6 seconds."
-                ],
-                "PASSIVE": [
-                    "Built from \"recovered\" alien technology, Rocket's shield system charges anytime he Dodges back and holds Block for at least 1.50 seconds. Each shield loses power as it is used in combat.",
-                    "Kinetic Shield: 4 charges of Physical Resistance, each providing 450 Resistance.",
-                    "Shell Shield: 4 charges of Armor Up, each providing 306.32 Armor Rating.",
-                    "Emergency Shield: 3 charges of Special Attack resistance, each providing 20% Resistance."
+                    "Rocket takes all of his Scrap Metal and constructs a destructive Grenade. Rocket gains up to 1125.28 increased Attack Rating for the final explosion based on the amount of Scrap Metal consumed.",
+                    "This explosion inflicts an Armor Break Debuff, lasting 30 seconds and reducing Armor Rating by up to 1484.48 based on the amount of Scrap Metal consumed."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "100% chance to inflict Bleed, dealing 4111.6 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2505.56 for 6 seconds."
+                    "Rocket uses his Scrap Metal to make the Big Blaster to annihilate his Opponent\u2019s Power Bar. Consume all Scrap Metal to Inflict a 12 second Power Drain Debuff, draining up to 2 bars of the Opponent\u2019s Power based on the amount of Scrap Metal consumed.",
+                    "While this Power Drain is active, the Opponent is also Passively Special Locked.",
+                    "This devastating blast also inflicts a Bleed Debuff, dealing 6924.8 Direct Damage over 30 seconds."
                 ]
             }
         },
         "6+2": {
+            "challenger_rating": 120,
             "rank": 2,
-            "prestige": "7451",
-            "hp": "23177",
-            "attack": "2990",
-            "crit_rate": "944",
-            "crit_dmge": "1082",
-            "armor": "431",
-            "block_prof": "2466",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Rocket makes fur fly with up to 42.86 to 1205.03 increased Critical Rating for every hit in the combo meter.",
+            "prestige": 8230,
+            "hp": 23177,
+            "attack": 2990,
+            "crit_rate": 944,
+            "crit_dmge": 1025,
+            "armor": 431,
+            "block_prof": 2466,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "While the Opponent is under the effect of an Armor Break Debuff they are Passively Heal Blocked, whenever the Opponent would gain health from regeneration, they are inflicted with a Power Drain Debuff, draining 1 to 5% of their current Power over 0.50 seconds for each Armor Break Debuff on them. If the Opponent has the Salve Mastery active, it is removed.",
+                "Rocket\u2019s Shield System grants him 1130.77 to 2186.34 Crit Resistance.",
+                "While Dormant, Rocket\u2019s Shield System grants him 460.98 to 1939.2 Block Proficiency. This effect also persists while the Shield System is activated."
+            ],
             "url_page": "https://auntm.ai/champions/rocket/tier/6",
             "champid": "rocket+6+2",
-            "challenger_rating": 120,
             "abilities": {
+                "SCRAP METAL - MAX 50": [
+                    "Even while in a fight, Rocket actively hunts for metal scraps to make weapons of mass destruction.",
+                    "All of Rocket\u2019s Attacks gain increased Critical Rating by 370.59 for each hit in the Combo Meter.",
+                    "Whenever Rocket lands a Critical Hit, Rocket chips away at the Opponent\u2019s Armor and Weapons, granting him 2 Scrap Metal. This value becomes 3 when fighting against #Metal Opponents.",
+                    "Whenever an Armor Break effect removes an Armor Up Buff from the Opponent, Rocket steals the broken Armor pieces and gains 10 Scrap Metal."
+                ],
+                "SHIELD SYSTEM": [
+                    "Whenever Rocket Dashes back and holds block for 1.20 second(s), he will use 25 Scrap Metal to construct a dormant Shield System to protect him from threats.",
+                    "When Rocket is struck with the dormant Shield System, it will activate and last for 6 seconds. Activated Shield Systems grant the following effects:",
+                    "+ 1130.77 Armor Rating.",
+                    "+ 1130.77 Physical Resistance.",
+                    "+ 30% Special Attack Resistance.",
+                    "Combo Shield, preventing Rocket\u2019s Combo Meter from resetting when struck.",
+                    "The Shield System can also Block Unblockable Attacks from Mutant Champions. A Shield System will activate early when Rocket would be struck by a Mutant\u2019s Unblockable Attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "The first hit of Heavy Attack consumes 10 Scrap Metal to inflict an Armor Break Debuff. Max: 5. This Armor Break lasts 15 seconds and reduces Armor Rating by 233.33. This ability cannot be activated while under 10 Scrap."
+                ],
                 "SPECIAL ATTACK 1": [
-                    "100% chance to increase Critical Damage Rating by 1718.18 for 9 seconds."
+                    "Each hit inflicts a Rupture Debuff, dealing 2691 Physical Damage over 12 seconds.",
+                    "Each hit consumes 15 Scrap Metal to Power Drain the Opponent. Draining 15% of the Opponent\u2019s Current Power over 1 second. This ability does not activate if Rocket has less than 15 Scrap Metal."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "100% chance to inflict Bleed, dealing 5681 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2566.67 for 6 seconds."
-                ],
-                "PASSIVE": [
-                    "Built from \"recovered\" alien technology, Rocket's shield system charges anytime he Dodges back and holds Block for at least 1.50 seconds. Each shield loses power as it is used in combat.",
-                    "Kinetic Shield: 4 charges of Physical Resistance, each providing 460.98 Resistance.",
-                    "Shell Shield: 4 charges of Armor Up, each providing 313.79 Armor Rating.",
-                    "Emergency Shield: 3 charges of Special Attack resistance, each providing 20% Resistance."
+                    "Rocket takes all of his Scrap Metal and constructs a destructive Grenade. Rocket gains up to 1554.8 increased Attack Rating for the final explosion based on the amount of Scrap Metal consumed.",
+                    "This explosion inflicts an Armor Break Debuff, lasting 30 seconds and reducing Armor Rating by up to 1520.69 based on the amount of Scrap Metal consumed."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "100% chance to inflict Bleed, dealing 5681 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2566.67 for 6 seconds."
+                    "Rocket uses his Scrap Metal to make the Big Blaster to annihilate his Opponent\u2019s Power Bar. Consume all Scrap Metal to Inflict a 12 second Power Drain Debuff, draining up to 2 bars of the Opponent\u2019s Power based on the amount of Scrap Metal consumed.",
+                    "While this Power Drain is active, the Opponent is also Passively Special Locked.",
+                    "This devastating blast also inflicts a Bleed Debuff, dealing 9568 Direct Damage over 30 seconds."
                 ]
             }
         },
         "6+3": {
+            "challenger_rating": 130,
             "rank": 3,
-            "prestige": "8849",
-            "hp": "27496",
-            "attack": "3547",
-            "crit_rate": "966",
-            "crit_dmge": "1108",
-            "armor": "472",
-            "block_prof": "2524",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Rocket makes fur fly with up to 43.88 to 1233.72 increased Critical Rating for every hit in the combo meter.",
+            "prestige": 9775,
+            "hp": 27496,
+            "attack": 3547,
+            "crit_rate": 966,
+            "crit_dmge": 1050,
+            "armor": 472,
+            "block_prof": 2524,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "While the Opponent is under the effect of an Armor Break Debuff they are Passively Heal Blocked, whenever the Opponent would gain health from regeneration, they are inflicted with a Power Drain Debuff, draining 1 to 5% of their current Power over 0.50 seconds for each Armor Break Debuff on them. If the Opponent has the Salve Mastery active, it is removed.",
+                "Rocket\u2019s Shield System grants him 1157.69 to 2238.39 Crit Resistance.",
+                "While Dormant, Rocket\u2019s Shield System grants him 471.95 to 1985.37 Block Proficiency. This effect also persists while the Shield System is activated."
+            ],
             "url_page": "https://auntm.ai/champions/rocket/tier/6",
             "champid": "rocket+6+3",
-            "challenger_rating": 130,
             "abilities": {
+                "SCRAP METAL - MAX 50": [
+                    "Even while in a fight, Rocket actively hunts for metal scraps to make weapons of mass destruction.",
+                    "All of Rocket\u2019s Attacks gain increased Critical Rating by 379.41 for each hit in the Combo Meter.",
+                    "Whenever Rocket lands a Critical Hit, Rocket chips away at the Opponent\u2019s Armor and Weapons, granting him 2 Scrap Metal. This value becomes 3 when fighting against #Metal Opponents.",
+                    "Whenever an Armor Break effect removes an Armor Up Buff from the Opponent, Rocket steals the broken Armor pieces and gains 10 Scrap Metal."
+                ],
+                "SHIELD SYSTEM": [
+                    "Whenever Rocket Dashes back and holds block for 1.20 second(s), he will use 25 Scrap Metal to construct a dormant Shield System to protect him from threats.",
+                    "When Rocket is struck with the dormant Shield System, it will activate and last for 6 seconds. Activated Shield Systems grant the following effects:",
+                    "+ 1157.69 Armor Rating.",
+                    "+ 1157.69 Physical Resistance.",
+                    "+ 30% Special Attack Resistance.",
+                    "Combo Shield, preventing Rocket\u2019s Combo Meter from resetting when struck.",
+                    "The Shield System can also Block Unblockable Attacks from Mutant Champions. A Shield System will activate early when Rocket would be struck by a Mutant\u2019s Unblockable Attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "The first hit of Heavy Attack consumes 10 Scrap Metal to inflict an Armor Break Debuff. Max: 5. This Armor Break lasts 15 seconds and reduces Armor Rating by 238.89. This ability cannot be activated while under 10 Scrap."
+                ],
                 "SPECIAL ATTACK 1": [
-                    "100% chance to increase Critical Damage Rating by 1759.09 for 9 seconds."
+                    "Each hit inflicts a Rupture Debuff, dealing 3192.3 Physical Damage over 12 seconds.",
+                    "Each hit consumes 15 Scrap Metal to Power Drain the Opponent. Draining 15% of the Opponent\u2019s Current Power over 1 second. This ability does not activate if Rocket has less than 15 Scrap Metal."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "100% chance to inflict Bleed, dealing 6739.3 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2627.78 for 6 seconds."
-                ],
-                "PASSIVE": [
-                    "Built from \"recovered\" alien technology, Rocket's shield system charges anytime he Dodges back and holds Block for at least 1.50 seconds. Each shield loses power as it is used in combat.",
-                    "Kinetic Shield: 4 charges of Physical Resistance, each providing 471.95 Resistance.",
-                    "Shell Shield: 4 charges of Armor Up, each providing 321.26 Armor Rating.",
-                    "Emergency Shield: 3 charges of Special Attack resistance, each providing 20% Resistance."
+                    "Rocket takes all of his Scrap Metal and constructs a destructive Grenade. Rocket gains up to 1844.44 increased Attack Rating for the final explosion based on the amount of Scrap Metal consumed.",
+                    "This explosion inflicts an Armor Break Debuff, lasting 30 seconds and reducing Armor Rating by up to 1556.9 based on the amount of Scrap Metal consumed."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "100% chance to inflict Bleed, dealing 6739.3 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2627.78 for 6 seconds."
+                    "Rocket uses his Scrap Metal to make the Big Blaster to annihilate his Opponent\u2019s Power Bar. Consume all Scrap Metal to Inflict a 12 second Power Drain Debuff, draining up to 2 bars of the Opponent\u2019s Power based on the amount of Scrap Metal consumed.",
+                    "While this Power Drain is active, the Opponent is also Passively Special Locked.",
+                    "This devastating blast also inflicts a Bleed Debuff, dealing 11350.4 Direct Damage over 30 seconds."
                 ]
             }
         },
         "6+4": {
+            "challenger_rating": 140,
             "rank": 4,
-            "prestige": "10122",
-            "hp": "31465",
-            "attack": "4058",
-            "crit_rate": "989",
-            "crit_dmge": "1134",
-            "armor": "517",
-            "block_prof": "2583",
-            "energy_resist": "0",
-            "physical_resist": "0",
-            "crit_resist": "0",
-            "sig_info": "Rocket makes fur fly with up to 44.9 to 1262.41 increased Critical Rating for every hit in the combo meter.",
+            "prestige": 11186,
+            "hp": 31465,
+            "attack": 4058,
+            "crit_rate": 989,
+            "crit_dmge": 1074,
+            "armor": 517,
+            "block_prof": 2583,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "While the Opponent is under the effect of an Armor Break Debuff they are Passively Heal Blocked, whenever the Opponent would gain health from regeneration, they are inflicted with a Power Drain Debuff, draining 1 to 5% of their current Power over 0.50 seconds for each Armor Break Debuff on them. If the Opponent has the Salve Mastery active, it is removed.",
+                "Rocket\u2019s Shield System grants him 1184.62 to 2290.45 Crit Resistance.",
+                "While Dormant, Rocket\u2019s Shield System grants him 482.93 to 2031.55 Block Proficiency. This effect also persists while the Shield System is activated."
+            ],
             "url_page": "https://auntm.ai/champions/rocket/tier/6",
             "champid": "rocket+6+4",
-            "challenger_rating": 140,
             "abilities": {
+                "SCRAP METAL - MAX 50": [
+                    "Even while in a fight, Rocket actively hunts for metal scraps to make weapons of mass destruction.",
+                    "All of Rocket\u2019s Attacks gain increased Critical Rating by 388.24 for each hit in the Combo Meter.",
+                    "Whenever Rocket lands a Critical Hit, Rocket chips away at the Opponent\u2019s Armor and Weapons, granting him 2 Scrap Metal. This value becomes 3 when fighting against #Metal Opponents.",
+                    "Whenever an Armor Break effect removes an Armor Up Buff from the Opponent, Rocket steals the broken Armor pieces and gains 10 Scrap Metal."
+                ],
+                "SHIELD SYSTEM": [
+                    "Whenever Rocket Dashes back and holds block for 1.20 second(s), he will use 25 Scrap Metal to construct a dormant Shield System to protect him from threats.",
+                    "When Rocket is struck with the dormant Shield System, it will activate and last for 6 seconds. Activated Shield Systems grant the following effects:",
+                    "+ 1184.62 Armor Rating.",
+                    "+ 1184.62 Physical Resistance.",
+                    "+ 30% Special Attack Resistance.",
+                    "Combo Shield, preventing Rocket\u2019s Combo Meter from resetting when struck.",
+                    "The Shield System can also Block Unblockable Attacks from Mutant Champions. A Shield System will activate early when Rocket would be struck by a Mutant\u2019s Unblockable Attack."
+                ],
+                "HEAVY ATTACKS": [
+                    "The first hit of Heavy Attack consumes 10 Scrap Metal to inflict an Armor Break Debuff. Max: 5. This Armor Break lasts 15 seconds and reduces Armor Rating by 244.44. This ability cannot be activated while under 10 Scrap."
+                ],
                 "SPECIAL ATTACK 1": [
-                    "100% chance to increase Critical Damage Rating by 1800 for 9 seconds."
+                    "Each hit inflicts a Rupture Debuff, dealing 3652.2 Physical Damage over 12 seconds.",
+                    "Each hit consumes 15 Scrap Metal to Power Drain the Opponent. Draining 15% of the Opponent\u2019s Current Power over 1 second. This ability does not activate if Rocket has less than 15 Scrap Metal."
                 ],
                 "SPECIAL ATTACK 2": [
-                    "100% chance to inflict Bleed, dealing 7710.2 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2688.89 for 6 seconds."
-                ],
-                "PASSIVE": [
-                    "Built from \"recovered\" alien technology, Rocket's shield system charges anytime he Dodges back and holds Block for at least 1.50 seconds. Each shield loses power as it is used in combat.",
-                    "Kinetic Shield: 4 charges of Physical Resistance, each providing 482.93 Resistance.",
-                    "Shell Shield: 4 charges of Armor Up, each providing 328.74 Armor Rating.",
-                    "Emergency Shield: 3 charges of Special Attack resistance, each providing 20% Resistance."
+                    "Rocket takes all of his Scrap Metal and constructs a destructive Grenade. Rocket gains up to 2110.16 increased Attack Rating for the final explosion based on the amount of Scrap Metal consumed.",
+                    "This explosion inflicts an Armor Break Debuff, lasting 30 seconds and reducing Armor Rating by up to 1593.1 based on the amount of Scrap Metal consumed."
                 ],
                 "SPECIAL ATTACK 3": [
-                    "100% chance to inflict Bleed, dealing 7710.2 Direct Damage over 4 seconds.",
-                    "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 2688.89 for 6 seconds."
+                    "Rocket uses his Scrap Metal to make the Big Blaster to annihilate his Opponent\u2019s Power Bar. Consume all Scrap Metal to Inflict a 12 second Power Drain Debuff, draining up to 2 bars of the Opponent\u2019s Power based on the amount of Scrap Metal consumed.",
+                    "While this Power Drain is active, the Opponent is also Passively Special Locked.",
+                    "This devastating blast also inflicts a Bleed Debuff, dealing 12985.6 Direct Damage over 30 seconds."
                 ]
             }
         },
@@ -787,7 +1165,6 @@
                     "4.1.4",
                     "4.1.5",
                     "4.1.6",
-                    "4.2.2",
                     "4.2.3",
                     "4.2.4",
                     "4.2.5",
@@ -802,14 +1179,12 @@
                     "4.4.2",
                     "4.4.3",
                     "4.4.4",
-                    "4.4.5",
-                    "4.4.6"
+                    "4.4.5"
                 ],
                 "act_5": [
                     "5.1.4",
                     "5.1.5",
                     "5.1.6",
-                    "5.2.1",
                     "5.2.2",
                     "5.2.3",
                     "5.2.4",
@@ -837,6 +1212,6 @@
                     "7.4.5"
                 ]
             }
-        }
+    }
     }
 }
