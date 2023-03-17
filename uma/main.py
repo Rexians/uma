@@ -9,6 +9,7 @@ from fastapi.staticfiles import StaticFiles
 
 app = FastAPI()
 app.mount("/assets/portraits", StaticFiles(directory="files/portraits"), name="static")
+app.mount("/assets/crystals", StaticFiles(directory="files/crystals"), name="crystals")
 app.include_router(champ_info.router)
 app.include_router(roster.router)
 app.include_router(nodes.router)
