@@ -1136,6 +1136,61 @@
                     "7.4.6"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13641,
+            "hp": 56696,
+            "attack": 4735,
+            "crit_rate": 237,
+            "crit_dmge": 515,
+            "armor": 654,
+            "block_prof": 4893,
+            "energy_resist": 250,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Once per fight when receiving damage that would result in a knockout, gain an Immortality Buff preventing death and making Hercules Unblockable for 3.9 to 9 seconds. Immortality is paused during personal Special Attacks or while landing Basic Attacks and is removed if the Opponent activates their Special Attack 3.",
+                "For 2 second(s) after completing a feat, gain 6.71 to 35% Combat Power Rate."
+            ],
+            "url_page": "https://auntm.ai/champions/hercules/tier/6",
+            "champid": "hercules+6+5",
+            "abilities": {
+                "abilities": {
+                    "ALWAYS ACTIVE": [
+                        "Blessings bestowed from the Goddess Hera protect against physical injury, reducing the potency of incoming Bleed effects by 50%.",
+                        "A strong resilience to conventional drugs and toxins reduces the potency of incoming Poison effects by 15% and makes the recovery reduction from Poison 20% less effective."
+                    ],
+                    "FEATS OF STRENGTH - PASSIVE - MAX STACKS 12": [
+                        "Feats:",
+                        "1. Strike a non-stunned Opponent with any hit of a Heavy Attack.",
+                        "2. Intercept a dashing Opponent with an attack.",
+                        "3. Stand up after being knocked down.",
+                        "Completing a feat grants 1 indefinite Strength, each increasing Armor Penetration by 195.65 and causing Attacks to deal a burst of Physical Damage equal to 10% of the damage they dealt.",
+                        "The first time each unique feat is completed in a fight, gain +1 Persistent Strength for the rest of the quest, allowing Hercules to start each fight with Strength equal to his Persistent Strength.",
+                        "For 2 second(s) after completing a feat, Hercules gains +1325.8 Attack Rating and +50% Buff duration. If a Special Attack is activated during this time, the bonus remains throughout the Special Attack.",
+                        "While Hercules has Strength he becomes Stun Immune. Each Stun prevented by this immunity removes 1 Strength.",
+                        "Duckslug Editorial: Feats of Strength icon."
+                    ],
+                    "DASHING BACK AFTER LANDING THE FIRST LIGHT OR MEDIUM HIT IN A COMBO": [
+                        "Inflict a non-stacking Infuriate Debuff for 7 seconds, making the Opponent more aggressive and reducing their Offensive Ability Accuracy by 60%. Cooldown 10 seconds.",
+                        "While fighting as a Defender the duration of Infuriate is increased to 10 seconds and it is triggered whenever Hercules dashes back."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "On Activation gain a True Sense Buff, bypassing the effects of Miss and Auto Block for 16 seconds.",
+                        "The first hit grants a Precision Buff increasing Critical Rating by +2250 for 25 seconds. If this attack was used to intercept a dashing Opponent gain +2 additional Precision Buffs."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "The Potency of Burst Damage dealt via Strength during this attack is increased by 50% for each Armor-Up effect on the Opponent, up to a maximum increase of 200%.",
+                        "The first hit grants a Cruelty Buff increasing Critical Damage Rating by +1321.43 for 15 seconds. If this attack was used to intercept a dashing Opponent gain +2 additional Cruelty Buffs.",
+                        "The final hit has a 100% chance to inflict a 3 second Stun Debuff."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "Gain an Indestructible Buff preventing all damage for 4 seconds.",
+                        "After this attack, if the Opponent has 3 Bars of Power Hercules gains a Power Gain Buff, granting 100% of a Bar of Power over 3 seconds."
+                    ]
+                }
+            }
         }
     }
 }

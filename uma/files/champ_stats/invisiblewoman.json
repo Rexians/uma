@@ -1403,6 +1403,72 @@
                     "7.4.5"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13175,
+            "hp": 44733,
+            "attack": 4158,
+            "crit_rate": 791,
+            "crit_dmge": 965,
+            "armor": 563,
+            "block_prof": 5009,
+            "energy_resist": 0,
+            "physical_resist": -750,
+            "crit_resist": 0,
+            "sig_info": [
+                "Invisible Woman turns Invisible at the start of the fight, but it is not Paused.",
+                "10.01 to 60% chance to turn Invisible whenever Invisible Woman is knocked down.",
+                "Whenever the Opponent Misses, the Force Field gains back 1.05 to 10% of its starting value."
+            ],
+            "url_page": "https://auntm.ai/champions/invisiblewoman/tier/6",
+            "champid": "invisiblewoman+6+5",
+            "abilities": {
+                "abilities": {
+                    "PASSIVE": [
+                        "While Dodging backward, Invisible Woman is not struck by attacks.",
+                        "20% chance that a Block is a Perfect Block, reducing all damage to 0.",
+                        "Physical Resistance decreased by -750.",
+                        "For each Debuff on the Opponent, Invisible Woman\u2019s Attacks deal an additional 4% of the damage dealt as a burst of Physical Damage."
+                    ],
+                    "THE BEST DEFENSE... - PRE-FIGHT ABILITY": [
+                        "If the Force Field is active, Invisible Woman's Hits have +831.6 Attack Rating, but also drain the Force Field by 5%."
+                    ],
+                    "FORCE FIELD - PASSIVE": [
+                        "Invisible Woman starts the Fight with a Force Field. The Force Field\u2019s maximum strength is equal to 4473.3 Health, and scales with boosts and buffs.",
+                        "Whenever Invisible Woman would take damage other than from Special Attack 3, the Force Field takes up to 90% of the damage instead.",
+                        "Physical and Energy Resistance are increased by 397.06.",
+                        "When the Force Field runs out, it goes into cooldown for 20 second(s), after which it will reform at 100% strength. If the Force Field doesn\u2019t reform for any reason, it goes into cooldown again for 10 second(s)."
+                    ],
+                    "INVISIBILITY - PASSIVE": [
+                        "Invisible Woman turns Invisible whenever she Dodges an attack or the Force Field is depleted.",
+                        "Invisibility lasts for 2 second(s), but starts Paused if Invisible Woman is not Bleeding.",
+                        "While Invisible, incoming attacks have a 100% chance to Miss as long as Invisible Woman is not Blocking or Dodging, and Critical Rating is increased by 4178.57.",
+                        "Invisibility is unpaused when Invisible Woman Blocks an Attack, an Opponent Misses, or an Opponent hits Invisible Woman.",
+                        "When Invisibility expires, it goes into cooldown for 10 second(s)."
+                    ],
+                    "FRAGILITY - DEBUFF": [
+                        "Whenever Invisible Woman would turn Invisible, she places a Fragility Debuff on the Opponent, max stacks 50.",
+                        "When attacking a Fragile Opponent, increase Critical Damage Rating by 36.59 and decrease their Block Proficiency by 10%.",
+                        "All Fragility Debuffs are Purified when Invisibility expires. Whenever a Fragility Debuff is Purified, Invisibility expires immediately."
+                    ],
+                    "WHEN ATTACKED": [
+                        "If the Force Field is active, 65% chance to Exhaust the Opponent, decreasing Critical Damage Rating by 65.53 for 5 second(s). The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "On the last hit, if the Force Field is active, add a flat 25% to its current strength.",
+                        "On the last hit, if the Force Field is on Cooldown, 50% chance for it to be restored at 50% strength."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "The first hit of this attack grants Fury for 9 second(s), increasing Attack Rating by 4158, scaling with the current Force Field strength. Then the Force Field is drained.",
+                        "If this attack is Blocked, Invisible Woman has a 50% chance to turn Invisible."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "If the Force Field is active, add a flat 100% to the Force Field's current strength. If the Force Field is on Cooldown, it is instead restored at 100% strength.",
+                        "Pause Invisibility on Invisible Woman. It cannot unpause for 6 second(s)."
+                    ]
+                }
+            }
         }
     }
 }

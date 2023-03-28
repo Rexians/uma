@@ -1359,6 +1359,68 @@
                     "7.4.5"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 11347,
+            "hp": 57737,
+            "attack": 4004,
+            "crit_rate": 367,
+            "crit_dmge": 563,
+            "armor": 563,
+            "block_prof": 2864,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "The Weakness Passive from the Crimson Gem of Cyttorak is reduced to 30 to 5% and becomes a Debuff instead.",
+                "Attacks have a 1.5 to 3% chance per Unstoppable Buff to Nullify a Buff from the Opponent."
+            ],
+            "url_page": "https://auntm.ai/champions/juggernaut/tier/6",
+            "champid": "juggernaut+6+5",
+            "abilities": {
+                "abilities": {
+                    "CRIMSON GEM OF CYTTORAK": [
+                        "Juggernaut starts the fight with the Crimson Gem of Cyttorak active.",
+                        "The Crimson Gem of Cyttorak is disabled if Juggernaut suffers a non-damaging Debuff or is knocked down. While the Crimson Gem of Cyttorak is disabled, Juggernaut suffers a 50% Weakness Passive.",
+                        "While the Crimson Gem of Cyttorak is active, Juggernaut is empowered and gains the following:",
+                        "1. +2002 Attack Rating.",
+                        "2. +25% Damage Reduction.",
+                        "3. Immunity to Reversed Controls."
+                    ],
+                    "UNSTOPPABLE BUFFS - MAX STACKS: 10": [
+                        "Juggernaut can only activate his Unstoppable Buffs if the Crimson Gem of Cyttorak is active.",
+                        "Juggernaut gains 1 Unstoppable Buff each time he moves forward or lands an attack, but loses 1 Unstoppable Buff each time he is struck, enters block, or blocks an attack.",
+                        "Unstoppable Buffs decrease by 1 every 1.25 seconds. This timer is reset each time an Unstoppable Buff is added or removed, or when Juggernaut Dodges backwards.",
+                        "Each Unstoppable Buff provides the following:",
+                        "1. +400.4 Attack Rating.",
+                        "2. Increases Power Rate by 2.50%.",
+                        "3. Lowers the opponent's chance to trigger Stun Debuffs by 20%. If this ability prevents a Stun Debuff from triggering, Juggernaut loses 7 Unstoppable Buffs."
+                    ],
+                    "MAXIMUM MOMENTUM": [
+                        "While Juggernaut has 10 Unstoppable Buffs, he gains an Unblockable Passive making his next blocked attack Unblockable at the cost of 10 Unstoppable Buffs.",
+                        "After landing a Maximum Momentum Unblockable attack, Juggernaut is unable to gain his Unstoppable Buffs for 7 seconds, and places a Wither Debuff on the Opponent reducing their Power Rate by 50% for 10 seconds."
+                    ],
+                    "HEAVY ATTACKS": [
+                        "100% chance to Stagger the Opponent for 8 seconds. The next time a Staggered Opponent triggers a Buff, that Buff and all other Buffs triggered at the same time will be immediately Nullified.",
+                        "If the Crimson Gem of Cyttorak is active, inflict an additional Stagger."
+                    ],
+                    "SPECIAL ATTACKS": [
+                        "Activate the Crimson Gem of Cyttorak if it is disabled."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "Gain an Energize Buff for 10 seconds, granting 25% increased Combat Power Rate."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "Each hit deals a burst of 2002 Physical damage.",
+                        "While at Maximum Momentum, 100% chance to gain a Fury Buff granting +8008 Attack Rating for 10 seconds."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "When activated, the Crimson Gem of Cyrrotak cannot be removed for 20 seconds.",
+                        "While at Maximum Momentum, inflict a Stun Debuff on the Opponent for 4 seconds."
+                    ]
+                }
+            }
         }
     }
 }

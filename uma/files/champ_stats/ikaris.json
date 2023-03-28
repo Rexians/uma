@@ -1137,6 +1137,60 @@
                     "7.4.4"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13393,
+            "hp": 53576,
+            "attack": 4234,
+            "crit_rate": 673,
+            "crit_dmge": 791,
+            "armor": 711,
+            "block_prof": 4000,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Every time an Opponent tries to apply an effect on Ikaris that he is immune to, inflict an Energy Vulnerability Passive reducing Energy Resistance by 195.65 to 963.21 for 10 second(s). Max 10 stacks"
+            ],
+            "url_page": "https://auntm.ai/champions/ikaris/tier/6",
+            "champid": "ikaris+6+5",
+            "abilities": {
+                "abilities": {
+                    "ALWAYS ACTIVE": [
+                        "All basic attacks are Energy Damage.",
+                        "Immune to Incinerate, Shock and reduces the damage of Poison by 20%."
+                    ],
+                    "WHEN STRUCK BY A MEDIUM ATTACK": [
+                        "Inflict a Power Detonation Debuff lasting 15 seconds. If Power Detonation expires naturally the Opponent receives a burst of 200% Energy Damage. If the Opponent launches a Special Attack this Debuff is removed with no penalty. Cooldown 10 seconds."
+                    ],
+                    "ENERGIZE (MAX: 10)": [
+                        "Gain +1 Energize whenever either champion strikes or hits into block with a Light Attack.",
+                        "Each Energize Buff lasts indefinitely until consumed and while 1 or more Energize Buffs are active gain +70% Combat Power Rate. The effect of Energize is reduced by 50% when used as a Defender. This Combat Power Rate cannot be increased or decreased by outside sources.",
+                        "While +7 Energize Buffs are active: Whenever Ikaris\u2019s Power is reduced for any reason, inflict the Opponent with a burst of 508.08 Energy Damage per Energize Buff. No effect against Mystics.",
+                        "All Special Attacks consume 10 Energize Buffs on hit.",
+                        "Landing a Heavy Attack inflicts the Opponent with Incinerate Debuffs equal to 50% of the Energize Buffs and removes 1 Energize Buff."
+                    ],
+                    "INCINERATE - MAX 225": [
+                        "Incinerate will deal +381.06 as Energy Damage over 22 seconds. Incinerate Debuffs also remove Perfect Block Chance and decrease Block Proficiency by 50% while active.",
+                        "Landing a Heavy Attack pauses all Incinerate Debuffs for 8 second(s)."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "Inflicts 3 Incinerate Debuffs on each hit. The last hit will remove all Incinerates and apply them all back with full durations.",
+                        "If Ikaris has 10 Energize Buffs, gain a Protection Buff for 30 seconds preventing Ikaris from taking more than 5% of max health from a single hit. Excluded from damage on Special 3.",
+                        "If Ikaris has less than 10 Energize Buffs, gain an Armor Up Buff increasing Armor Rating by +964.29 for 30 seconds."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "Double all Incinerate Debuffs. If Ikaris has no Incinerate Debuffs on the opponent, apply 10.",
+                        "If Ikaris has 10 Energize Buffs, gain an Unblockable Buff for 8 seconds on special activation.",
+                        "If Ikaris has less than 10 Energize Buffs, gain +3375 Physical Resistance Buff for 30 seconds."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "True Damage Attack that applies a bonus +1270.2 Attack Rating per unique buff currently on Ikaris.",
+                        "Each Incinerate Debuff on the Opponent grants a +508.08 Attack Rating for this attack. Consume all but 10 Incinerates."
+                    ]
+                }
+            }
         }
     }
 }

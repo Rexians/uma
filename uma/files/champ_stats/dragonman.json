@@ -1294,6 +1294,67 @@
                     "7.4.5"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13355,
+            "hp": 53576,
+            "attack": 4004,
+            "crit_rate": 367,
+            "crit_dmge": 563,
+            "armor": 1109,
+            "block_prof": 3672,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 250,
+            "sig_info": [
+                "When any Non-Science Opponent has specific Buffs active, gain a unique effect. Potency is increased by 100% when fighting Cosmic Champions.",
+                "Regen: Reduce Opponents Regen Rate by 10 to 35%.",
+                "Power Gain: Reduce Opponent's Ability Power Rate by 10 to 35%.",
+                "Fury: Gain 249.99 to 1211.54 Armor Rating.",
+                "Armor Up: Gain 400.39 to 1401.4 Attack Rating.",
+                "Precision: Gain 249.99 to 1211.54 Critcal Resistance.",
+                "Cruelty: Gain 10 to 35% Critical Damage Resistance."
+            ],
+            "url_page": "https://auntm.ai/champions/dragonman/tier/6",
+            "champid": "dragonman+6+5",
+            "abilities": {
+                "abilities": {
+                    "PASSIVE": [
+                        "Dragon Man\u2019s thick Armor and Advanced Robotics grants full immunity to Bleed, Poison, and Armor Shattered.",
+                        "If under the effects of an Armor Break, Dragon Man releases currents of mystical energy, dealing 200.2 Degeneration Damage every 0.5 seconds. Damage is increased by 100% against Cosmic Champions.",
+                        "Offensive Combat Power Rate is reduced by 35%."
+                    ],
+                    "POWER CHARGE - BUFF:": [
+                        "At the start of a fight, gain Power Charge, generating 12% of a bar of Power every second. Power Charge is removed when Stunned.",
+                        "If 0 Power Charges are active, create one after 12 seconds. When Defending, this duration is reduced by 4 seconds.",
+                        "When fighting Science Champions, upon receiving a Non-Damaging Debuff, pause cooldown Duration for 0.35 seconds."
+                    ],
+                    "CORNERED - PASSIVE:": [
+                        "While the Opponent\u2019s back is against the wall they gain Cornered. Cornered is unaffected by Ability Accuracy modifications.",
+                        "Each hit deals 1401.4 physical damage. This damage is increased by 35% for each Ineptitude or Unique Buff on the Opponent. Up to 105%",
+                        "Opponents Defensive Combat Power Rate is reduced by 70% while above 2 bars of Power."
+                    ],
+                    "ON OPPONENT KNOCKDOWN:": [
+                        "Gain an Unblockable Buff for 3 seconds. Duration is paused during Special Attacks."
+                    ],
+                    "HEAVY ATTACKS": [
+                        "On Hit, remove any Incinerates on the Opponent, each dealing a burst of 2002 energy damage. If 6 or more Incinerates are removed, this damage is increased by 50%."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "The final hit inflicts a non-stacking Slow for 8 seconds.",
+                        "The first hit that contacts the Opponent consumes 1 Power Charge to inflict an Ineptitude Debuff reducing the potency of new Fury, Armor Up, Precision, and Cruelty Buffs by 75% for 30 seconds."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "All 3 hits of Dragon Man\u2019s fire breath inflict Incinerate, dealing 2002 energy damage over 25 seconds. Incinerate also reduces the Opponent\u2019s Block Proficiency by 50% and prevents the activation of Perfect Block.",
+                        "Consume 1 Power Charge to generate a Fury Buff, increasing Attack Rating by 2602.6 for 30 seconds."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "Consume all stacks of Power Charge. Each contributing 4 seconds to an Unstoppable Buff. While active, this Unstoppable instantly regenerates 85% of hit damage received from Attacks other than Special 3\u2019s.",
+                        "After this Special Attack ends, generate 3 stacks of Power Charge. Additional stacks of Power Charge do not generate additional Power."
+                    ]
+                }
+            }
         }
     }
 }

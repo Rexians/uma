@@ -1430,6 +1430,73 @@
                     "7.4.6"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13230,
+            "hp": 55396,
+            "attack": 4061,
+            "crit_rate": 429,
+            "crit_dmge": 563,
+            "armor": 367,
+            "block_prof": 5009,
+            "energy_resist": 0,
+            "physical_resist": -118,
+            "crit_resist": 0,
+            "sig_info": [
+                "Bishop prepares a unique bonus based on how many bars of Power are full at the start of the fight.",
+                "With 0 Bars: Special Attacks become Unblockable with a stack of 29.97 to 10 or more Prowess.",
+                "With 1 Bar: While Blocking, gain Stun Immunity and enemies lose 10.12 to 80% ability accuracy.",
+                "With 2 Bars: Special Attacks leave the target Incinerated for 9.99 to 70% of the Special Damage dealt over 10 seconds.",
+                "With 3 Bars: Start the fight with Steady Release active for 3.02 to 15 seconds."
+            ],
+            "url_page": "https://auntm.ai/champions/bishop/tier/6",
+            "champid": "bishop+6+5",
+            "abilities": {
+                "abilities": {
+                    "PERSISTENT POWER METER": [
+                        "Bishop\u2019s mastery over energy and time enables him to enter a fight with 100% of the Power he finished his previous fight in the same Quest with.",
+                        "Bishop\u2019s Special 1 and 2 Attacks cost no Power when activated. Instead, after these Specials end, Bishop immediately loses however many Bars of Power that special would have cost."
+                    ],
+                    "ALWAYS ACTIVE - PERSONAL PROWESS": [
+                        "All of Bishop\u2019s Personal Passive Prowess effects increase Special Attack Damage by 10%."
+                    ],
+                    "ALWAYS ACTIVE - ENERGY TRANSFERENCE": [
+                        "+4367.65 Energy Resistance.",
+                        "Every 1 second(s), on receiving any Energy Damage gain 3 Passive Prowess.",
+                        "Absorbing the kinetic energy of Blocking or being Struck generates 1 stack of Prowess, Well Time Blocks gain an additional +6 Prowess.",
+                        "All these abilities grant +1 Prowess vs Skill Opponents, and -1 vs Tech."
+                    ],
+                    "BLOCKING": [
+                        "Holding Block for 0.5 seconds, Bishop converts 1 Personal Prowess into a Regeneration Buff every 0.33 seconds, granting 318.53 Health over 5 seconds. Max Stacks: 5.",
+                        "Each Prowess converted also has an 100% chance to Purify a Bleed Debuff."
+                    ],
+                    "ALWAYS ACTIVE - DEBUFF FEEDBACK": [
+                        "Each time the Opponent Purifies a Debuff they instantly receive 3246.36 Energy Damage.",
+                        "Skill Champions also receive a Passive Stun lasting 1.50 second(s) if the Debuff Purified was a Stun."
+                    ],
+                    "WARNING: POWER OVERLOAD!": [
+                        "While Bishop has more than 30 Prowess, or if he\u2019s Bleeding, Shocked, or Incinerated he Overloads and begins consuming his personal Prowess effects 1 at a time, getting faster the longer he\u2019s been Overloading.",
+                        "If Bishop is suffering from a Bleed, Shock, or Incinerate, Debuff or Passive, each time he consumes a Prowess this way he also deals 812.2 Energy Damage to his Opponent, scaling with Base Attack."
+                    ],
+                    "SPECIAL ATTACKS": [
+                        "After each Special Attack Bishop consumes all his Personal Prowess Passives.",
+                        "If Bishop is Overloading go passively Unblockable for the Duration of the Special Attack."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "After this Special Attack finishes, gain a Steady Release Passive for 10 seconds.",
+                        "While active every 0.75 second(s) while near the opponent, inflict an Incinerate Debuff on them, dealing 1319.83 Energy Damage over 3 seconds.",
+                        "Each Prowess consumed by this attack increases the Duration of Steady Release by 2.5%."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "The last hit has a 100% chance to inflict an Incinerate Debuff lasting 10 seconds, and dealing 70% of the total damage dealt by this Special."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "100% chance to inflict a non-stacking Energy Vulnerability reducing Energy Resistance by 1365.04 for 20 seconds.",
+                        "Against enemies at full Health, this Energy Vulnerability becomes indefinite."
+                    ]
+                }
+            }
         }
     }
 }

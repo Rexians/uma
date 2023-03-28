@@ -1221,6 +1221,64 @@
                     "7.4.6"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13499,
+            "hp": 54096,
+            "attack": 3773,
+            "crit_rate": 429,
+            "crit_dmge": 563,
+            "armor": 494,
+            "block_prof": 3375,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Personal Debuffs potency is increased by 10%, for every 10 hits in the Combo Meter from either Champion. Non-personal Debuffs are increased by 5% for every 10 hits in the Combo Meter. Effect caps at 50 hits.",
+                "Anti-Venom gains a Passive Regeneration stack that recovers 20.08 to 65% of the Attack Damage taken from a non-Critical Hit over 20 seconds and is interrupted if the Klyntar Debuff is Purified."
+            ],
+            "url_page": "https://auntm.ai/champions/antivenom/tier/6",
+            "champid": "antivenom+6+5",
+            "abilities": {
+                "abilities": {
+                    "ALWAYS ACTIVE": [
+                        "Immunity to Incinerate and Poison.",
+                        "During the Opponent\u2019s Special Attacks Anti-Venom gains 40% Defensive Combat Rate per Debuff on the Opponent."
+                    ],
+                    "GENETIC MEMORY": [
+                        "When the fight starts Anti-Venom inflicts an indefinite Klyntar Debuff. If this Debuff is removed by any means it comes back after 15 second(s).",
+                        "If the Opponent is suffering from the Klyntar Debuff, for every 10 hits in the Combo Meter from either Champion, Anti-Venom inflicts the selected Genetic Memory Debuff from the list below. Max Genetic Memory Debuffs 4.",
+                        "Spectre Debuff: Reduces the Opponent\u2019s Regeneration Rate by 16.66%",
+                        "Disorient: Reduces Defensive Ability Accuracy and Block Proficiency by 12.5%.",
+                        "Decelerate: Lowers Evade and Unstoppable Ability Accuracy by 33%.",
+                        "Second Medium Attack changes the selected Genetic Memory Debuff to the next Debuff in the list. Defenders have a 50% chance to change the selection when inflicting a Genetic Memory Debuff."
+                    ],
+                    "KLYNTAR DEBUFF": [
+                        "Klyntar Debuff reduces Physical Resistance by 562.5 and gains additional properties based on Anti-Venom\u2019s Opponent.",
+                        "#Spider-Verse Heroes: Reduce the Ability Accuracy of evade effects by 100%.",
+                        "Mystic Champions: Reduce the Ability Accuracy of Unblockable by 65%. At 30 hits in the Combo Meter from either Champion it increases to 100%."
+                    ],
+                    "HEAVY ATTACKS": [
+                        "Inflict a Stagger that lasts for 10 second(s). Max 2 Stacks."
+                    ],
+                    "SPECIAL ATTACKS": [
+                        "Personal Passives are paused during Specials."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "If not already active, gain an Accelerated Mutation Passive, causing Anti-Venom to inflict an additional Genetic Memory Debuff for 15 second(s). Triggering Accelerated Mutation also refreshes the Evolved Mutation Passive.",
+                        "If Accelerated Mutation is active, all hits deal a burst of 1509.2 Physical damage.",
+                        "First hit inflicts a Petrify Debuff of 40% Potency for 20 seconds"
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "On activation consume all Genetic Memory Debuffs on the Opponent, granting a Fury Passive per Genetic Memory consumed, gaining 2829.75 Attack Rating for 25 second(s)."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "Inflict a Rupture Debuff, dealing 2641.1 Physical Damage over 15 second(s).",
+                        "Gain a non-stacking Evolved Mutation Passive, increasing the max number of Genetic Memory Debuffs by 4 and increasing Fury potency and duration by 25% for 25 second(s). The max stack for an individual Debuff is 4."
+                    ]
+                }
+            }
         }
     }
 }

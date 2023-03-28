@@ -1197,6 +1197,63 @@
                 "act_6": [],
                 "act_7": []
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13858,
+            "hp": 48374,
+            "attack": 4311,
+            "crit_rate": 876,
+            "crit_dmge": 791,
+            "armor": 920,
+            "block_prof": 4000,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 398,
+            "sig_info": [
+                "While Aura of Iron is active, the Opponent suffers 100% flat reduced Unblockable Ability Accuracy.",
+                "Once per fight, when Infamous Iron Man\u2019s Health drops below 15%, he gains a Regeneration Buff, healing 5 to 35% of his Maximum Health over 10 seconds. While this effect is active, the Opponent is passively Special Locked.",
+                "While his personal Armor Up Buff is active, Infamous Iron Man gains 118.42 to 964.26 Block Proficiency and Energy Resistance."
+            ],
+            "url_page": "https://auntm.ai/champions/ironman_infamous/tier/6",
+            "champid": "ironman_infamous+6+5",
+            "abilities": {
+                "abilities": {
+                    "ALWAYS ACTIVE": [
+                        "When Infamous Iron Man would land a Critical Hit, he instead inflicts an instant Shock dealing Energy Damage equal to the damage the Critical would\u2019ve dealt.",
+                        "If an Opponent would gain 2 or more Prowess effects at once, those Prowesses are converted into a single indefinite Energy Vulnerability Debuff that reduces their Energy Resistance by 964.29. Each subsequent Debuff is 10% less potent than the previous one."
+                    ],
+                    "ARMOR UP": [
+                        "Victor Von Doom\u2019s modifications to his Iron Man armor grant him extra protection. He starts the fight with an indefinite Armor Up Buff granting 1500 Armor Rating. While he has this Buff, he is immune to Shock and Incinerate.",
+                        "If this Buff is lost, it restores itself after 12 seconds. This timer is paused while Infamous Iron Man is suffering from an Armor Break."
+                    ],
+                    "BASIC ATTACKS": [
+                        "Infamous Iron Man\u2019s Medium Attacks do not make contact and inflict Shock Debuffs dealing 431.1 Energy Damage over 2 seconds.",
+                        "While charging a Heavy Attack, if the Opponent is within striking distance and suffering from Shock, all their Shock effects are consumed and replaced with a Passive Stun for 0.60 seconds. This cannot trigger during the Opponent\u2019s Special Attacks.",
+                        "The final hit of Infamous Iron Man\u2019s Heavy Attack inflicts a non-stacking Cowardice Debuff, reducing the Opponent\u2019s Special Attack damage by 40% for 5 seconds.",
+                        "When one or more Shocks are consumed by Infamous Iron Man\u2019s  abilities, he triggers Aura of Iron for 2.6 seconds for each Shock removed, if it is not already active."
+                    ],
+                    "AURA OF IRON - PASSIVE": [
+                        "The Aura of Iron can\u2019t trigger while Infamous Iron Man does not have his personal Armor Up Buff, and its duration is reduced by 4 seconds for each unique, non-Prowess Buff on the Opponent above two.",
+                        "The Aura is paused during both Champion\u2019s Special Attacks. While paused this way, landing a Medium Attack ends the Aura early.",
+                        "Infamous Iron Man\u2019s Special Attacks are passively Unblockable.",
+                        "Each time he inflicts one of his personal Shocks, it is immediately replaced by an instant Energy Power Burn that burns a percentage of the Opponent\u2019s current Power based on the potency of the replaced Shock. Deals 775.98 Energy Damage to the Opponent per percent of Max Power burned.",
+                        "Infamous Iron Man becomes passively Unstoppable and Stun Immune against the last hit of incoming Special 1, Special 2, and Heavy Attacks. In addition, if the damage of the hit exceeded 5% of his Maximum Health, he gains a Regeneration Buff, restoring the excess damage over 5 seconds."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "On Activation, enter Aura of Iron for 8 seconds.",
+                        "If it was already active, the Opponent is passively Special Locked for Aura of Iron\u2019s remaining duration."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "After the first hit of this attack lands, Infamous Iron Man gains +1077.75 Attack Rating for each of the Opponent\u2019s filled Bars of Power for the remainder of the attack.",
+                        "Each beam hit inflicts a Shock Debuff dealing 4742.1 Energy Damage over 5 seconds."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "On Activation, enter Aura of Iron for 24 seconds. This Aura cannot be ended early, and until it next expires, Infamous Iron Man has +2250 Critical Rating for each of the Opponent\u2019s filled Bars of Power.",
+                        "If Aura of Iron was already active, both Infamous Iron Man and his Opponent gain an Energize Passive increasing their Combat Power Rates by 100%, each lasting until Aura of Iron next expires."
+                    ]
+                }
+            }
         }
     }
 }

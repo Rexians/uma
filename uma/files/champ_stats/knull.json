@@ -1180,6 +1180,62 @@
                     "7.4.4"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13383,
+            "hp": 56696,
+            "attack": 4158,
+            "crit_rate": 1011,
+            "crit_dmge": 563,
+            "armor": 367,
+            "block_prof": 4179,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "When Corruption activates, gain an Unstoppable and Unblockable Buff for 2 second(s).",
+                "At the start of each fight, inflict +1 Living Abyss Debuffs on the Opponent for every 13 signature levels obtained. Max 15.",
+                "While Corruption is active and the Opponent has 10.07 to 50% Health or less, when they would gain a Regeneration Effect, replace it with Knull's Degeneration Debuff."
+            ],
+            "url_page": "https://auntm.ai/champions/knull/tier/6",
+            "champid": "knull+6+5",
+            "abilities": {
+                "abilities": {
+                    "LORD OF DARKNESS - ALWAYS ACTIVE": [
+                        "+40% Degeneration Resistance and +60% Bleed and Poison Resistance.",
+                        "Every 10 hits in the Opponent\u2019s Combo Meter, inflict an indefinite Darkness Passive, lowering Combat Power Rate by 15%. Max 8 stack(s).",
+                        "When the Opponent uses a Special Attack, remove 1 Darkness Passive."
+                    ],
+                    "CORRUPTION - PASSIVE": [
+                        "Knull inflicts Corruption on his Opponents using his Special Attacks, causing the following effects:",
+                        "The Opponent\u2019s Armor Break Debuffs are paused.",
+                        "On activation, convert all indefinite Living Abyss Debuffs on the Opponent into Armor Break Debuffs that lower Armor Rating by 250, for 10 second(s).",
+                        "For each Armor Up Effect on the Opponent, inflict an Armor Break Debuff, reducing Armor Rating by 250, for 10 second(s).",
+                        "The Opponent suffers from -3.25% current Combat Power Rate for each Armor Break Debuff. Max 65%.",
+                        "The Opponent passively suffers from Reverse Controls."
+                    ],
+                    "SYMBIOTE ATTACKS - MEDIUM, HEAVY & SPECIAL 1 ATTACKS": [
+                        "Symbiote Attacks gain passive True Accuracy.",
+                        "While the Opponent is not Corrupted, landing a hit or striking into Block has a 75% chance to inflict an indefinite Living Abyss Debuff, removing 1 Armor Up Buff.",
+                        "While the Opponent is Corrupted, consume 3 Armor Break Debuffs to inflict 3 Living Abyss Debuffs, regenerate 10% of hit damage and inflict a Degeneration Debuff, dealing 3326.4 Direct Damage over 2 second(s). This ability does not trigger when using the Medium 1 Attack."
+                    ],
+                    "NECROSWORD ATTACKS - LIGHT & SPECIAL 2 ATTACKS": [
+                        "Pause the duration of the Opponent\u2019s Corruption for 1.25 second(s).",
+                        "While the Opponent is Corrupted, inflict an instant Bleed dealing 65% of hit damage as Direct Damage."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "On activation, inflict an Encroaching Corruption lasting for 10 second(s). Upon expiry, inflict Corruption for 10 second(s).",
+                        "While fighting as a Defender, Encroaching Corruption will not inflict Corruption while the Attacker is performing a Special Attack."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "Inflict 10 Armor Break Debuffs, reducing Armor Rating by 250 for 10 second(s)."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "Inflict Corruption, lasting 25 second(s)."
+                    ]
+                }
+            }
         }
     }
 }

@@ -1332,6 +1332,69 @@
                     "7.4.5"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13348,
+            "hp": 45773,
+            "attack": 4504,
+            "crit_rate": 673,
+            "crit_dmge": 791,
+            "armor": 398,
+            "block_prof": 5645,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "While below 75 Channeling Charge(s), gain 1 Charge(s) per second. While Defending, this rate is doubled and Charges are gained for the entire fight.",
+                "Gain up to +10.34 to 50% Prowess Potency, scaling with the Opponent\u2019s Power Meter."
+            ],
+            "url_page": "https://auntm.ai/champions/professorx/tier/6",
+            "champid": "professorx+6+5",
+            "abilities": {
+                "abilities": {
+                    "MUTATION - ALWAYS ACTIVE": [
+                        "Professor X\u2019s first Medium Attack is the only Basic Attack that makes contact with his Opponent. All of Professor X\u2019s attacks are Psychic and deal Energy Damage.",
+                        "Immune to Reversed Controls due to his mastery over Telepathy."
+                    ],
+                    "FALTER": [
+                        "When Professor X would be struck by a Basic Attack, he inflicts a Falter Passive, giving the Opponent\u2019s attacks a 100% chance to Miss for 2 second(s). This ability has a 20 second cooldown but starts on a 10 second cooldown.",
+                        "When the Opponent lands a Special Attack, Falter is removed.",
+                        "Avoiding an attack while Dodging backwards during Falter\u2019s cooldown reduces the duration by 1 second(s)."
+                    ],
+                    "PERSISTENT CEREBRO CHARGES - MAX 4 CHARGES": [
+                        "Start each Quest with 1 Cerebro Charge(s).",
+                        "Gain 1 Cerebro Charge(s) when Professor X wins a fight.",
+                        "Cerebro Charges increase the potency of Professor X\u2019s Synergies."
+                    ],
+                    "CHANNELING": [
+                        "Professor X channels his telepathic abilities, gaining 10 Channeling Charge(s) per second at the end of his Special 1 and 2 Attacks and while charging his Heavy Attack.",
+                        "When Power Burned or Drained, lose 50 Channeling Charge(s).",
+                        "While at 25+ Channeling Charges, Professor X cannot be Evaded and gains a Vigilance Passive, allowing Attacks to bypass Miss. This will not trigger against Techs or those with #Psychic Shielding.",
+                        "While at 50+ Channeling Charges, using the fourth Light Attack inflicts Mind Control on the Opponent. When activating a Special Attack with 100 Channeling Charge(s), automatically inflict Mind Control."
+                    ],
+                    "CHANNELING - COMPLETING AND CANCELLING": [
+                        "Complete Channel or Cancel by Heavy Attacking: Gain +10 Channeling Charge(s).",
+                        "Cancel by Blocking, Charging a Heavy Attack or using a Light, Medium or Special Attack: Gain a Prowess Buff increasing Special Attack Damage by 40% for 36 second(s).",
+                        "Cancel by Dashing Backwards: Refresh the duration of all Prowess Effects on Professor X."
+                    ],
+                    "MIND CONTROL": [
+                        "Mind Control lasts 0.50 second(s) for every 10 Channeling Charge(s).",
+                        "The Opponent is Locked from gaining Power or using any of their Special Attacks.",
+                        "Mind Control's duration is paused during Professor X\u2019s Special Attacks, except while Channeling.",
+                        "Professor X\u2019s Special Attacks are Unblockable and cost up to 70% less Power based on the number of Channeling Charges. Reduced to 40% against Techs or those with #Psychic Shielding."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "On activation, gain 25 Channeling Charge(s)."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "The last three hits deal a burst of 3603.2 Energy Damage. This ability scales with Special Attack Damage."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "Gain a Prowess Buff for each Cerebro Charge, increasing Special Attack Damage by 60% and lasting 40 second(s). Max 4 stack(s)."
+                    ]
+                }
+            }
         }
     }
 }

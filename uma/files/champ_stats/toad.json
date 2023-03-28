@@ -1324,6 +1324,69 @@
                 "act_6": [],
                 "act_7": []
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13026,
+            "hp": 54876,
+            "attack": 3927,
+            "crit_rate": 673,
+            "crit_dmge": 791,
+            "armor": 563,
+            "block_prof": 4000,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Gain an indefinite Passive Prowess increasing Special Attack damage by 5 to 25% when a personal Stun or Poison, or the Stun from the Parry Mastery, is Purified or fails to trigger due to immunities. Max 10 stacks.",
+                "At 10 Prowess, consume all Prowess to inflict a Passive Stun for 2 seconds when a Poison fails to trigger due to immunity. This effect cannot interrupt a Special Attack.",
+                "Gain 50 to 100% Passive Stun duration if triggered by a Tongue Attack."
+            ],
+            "url_page": "https://auntm.ai/champions/toad/tier/6",
+            "champid": "toad+6+5",
+            "abilities": {
+                "abilities": {
+                    "ALWAYS ACTIVE": [
+                        "Toad is immune to Poison and his regeneration rate cannot be decreased or increased by outside sources.",
+                        "7% chance when Struck to inflict a Paralytic Poison Debuff. Being Struck with Critical Hits has a 40% chance."
+                    ],
+                    "TONGUE ATTACKS": [
+                        "Toad attacks using his Prehensile Tongue on his Second Medium, Special 1, and Special 2 Attacks.",
+                        "100% chance to inflict a Paralytic Poison Debuff on Contact."
+                    ],
+                    "PARALYTIC POISON - MAX 10 STACKS": [
+                        "Deals 3141.6 direct damage over 30 seconds, and reduces health recovery by 30%. Paralytic Poisons count as Poison Debuffs.",
+                        "Dashing Forward or dashing backwards Purifies one of Toad\u2019s personal Paralytic Poison Debuffs. This effect cannot happen more than once every 2 seconds.",
+                        "70% chance to inflict a Paralytic Poison Passive when Purified by Skill Champions."
+                    ],
+                    "AT MAX PARALYTIC POISON": [
+                        "Convert all personal Poisons into a Paralytic Poison Passive, dealing 1178.1 direct damage over 8 seconds. Deals an additional 1178.1 for each Prowess effect and cannot be removed by Dashing.",
+                        "Inflict a Stun Passive for 2 seconds. This effect goes on cooldown for 10 seconds. This effect will not interrupt a Special Attack."
+                    ],
+                    "HEAVY ATTACKS": [
+                        "Consume 1 Poison Debuff to deal 2356.2 as a burst of Physical damage."
+                    ],
+                    "PARALYTIC SECRETION - MAX 3 STACKS": [
+                        "If Toad is Struck while he is near a wall, Toad begins to secrete paralysing toxins and gains a Regeneration Passive healing 5% of missing health over 8 seconds. +1% Regeneration Potency for every hit on the Opponent\u2019s Combo Meter up to 15 hits.",
+                        "Critical Hits, Bleeds and Incinerate Debuffs also have a 20% chance to trigger Paralytic Secretion. Against Skill champions this ability gains +50% chance.",
+                        "40% chance to inflict Paralytic Poison on contact while Paralytic Secretion is active.",
+                        "Gain an indefinite Passive Prowess increasing Special Attack damage by 70% when Paralytic Secretion is activated. Max 5 Stacks.",
+                        "Toad\u2019s Attacks pause the duration of Paralytic Secretion for 0.50 seconds."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "Gain Paralytic Secretion for 8 seconds."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "If the Opponent is suffering from Toad\u2019s personal Stun effects, deal 9032.1 as a burst of Poison Damage.",
+                        "Removes all personal Prowess Passives.",
+                        "The last hit inflicts a Slow Debuff for 25 seconds."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "Inflict a Paralytic Poison Passive dealing 3927 direct damage over 25 seconds. Deals an additional 3927 for each Prowess effect and cannot be removed by Dashing.",
+                        "Removes all personal Prowess Passives."
+                    ]
+                }
+            }
         }
     }
 }

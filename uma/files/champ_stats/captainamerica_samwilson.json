@@ -1218,6 +1218,65 @@
                 "act_6": [],
                 "act_7": []
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13530,
+            "hp": 53055,
+            "attack": 3927,
+            "crit_rate": 673,
+            "crit_dmge": 635,
+            "armor": 711,
+            "block_prof": 5009,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "When either Champion performs a Well-Timed Block, Captain America inflicts a Sapped Charge on the Opponent.",
+                "Redwing Lock-On lasts 2 second(s) longer, Attack Rating is increased by 230.03 to 1570.81 and allows Captain America to inflict Ruptures from Special 2 through blocks.",
+                "When an Opponent Miss fails or when their Ability fails due to low Ability Accuracy, an instant Rupture is inflicted, dealing 220.41 to 1178.09 Physical Damage. Damage scales with Base Attack only."
+            ],
+            "url_page": "https://auntm.ai/champions/captainamerica_samwilson/tier/6",
+            "champid": "captainamerica_samwilson+6+5",
+            "abilities": {
+                "abilities": {
+                    "ARMOR UP": [
+                        "When Attacking or when Hit by Basic Attacks, 30% chance to gain an Armor Up Buff, increasing Armor Rating by 321.43, lasting indefinitely up to 5 stacks. Additional stacks last for 10 second(s).",
+                        "The Armor Up Buff turns into a Passive when nullified by something other than Armor Break, but Armor Up Passives are not removed by Armor Break Debuffs.",
+                        "While Armor Up is active, Captain America can trigger the Parry Mastery against non-contact attacks and he can block Unblockable Specials from mutants.",
+                        "Each Armor Up reduces the Opponent\u2019s Bleed Ability Accuracy by 25%.",
+                        "10% chance per Armor Up effect to Auto-Block incoming Special Attacks, up to 75%. This Auto-Block counts as a Well-Timed Block and removes all personal Armor Ups.",
+                        "Auto-Block Chance is also increased by 25% per Prowess effect on the Opponent. This chance is capped at 100% while the Opponent has Prowess."
+                    ],
+                    "ALWAYS ACTIVE": [
+                        "Captain America cannot land Critical hits naturally, however every time he would have landed a Critical Hit he inflicts an instant Rupture, dealing Physical Damage. This ability scales with Critical Damage Rating.",
+                        "Ruptures also inflict a Sapped Charge that lasts for 15 second(s), or indefinitely as a Defender. Consume all charges when reaching 25 stack(s), and replace them with a Power Drain Passive, draining 50% of the Opponent Power over 15 second(s)."
+                    ],
+                    "RECON SCAN": [
+                        "Dodging back and holding Block for 1.2 second(s), inflicting Lock-On charge for 16 second(s), but pauses on his Specials. Once Lock-On ends, it goes on Cooldown for 12 second(s). As a Defender, Cap inflicts a Lock-On Charge in 16 second(s) if not Locked-On.",
+                        "When entering Lock-On, Cap passively inflicts Cowardice for the duration of Lock-On, reducing Special Attack damage by 40%.",
+                        "While Locked-On, Cap gains 964.29 Critical Rating and his attacks cannot Miss",
+                        "Striking the Opponent while Locked-On pauses Sapped charges for 5 second(s)."
+                    ],
+                    "ON A HEAVY OR INTERCEPT": [
+                        "Consume an Armor Up Buff and gain a non-stacking Bulwark Buff, increasing Block Proficiency by 964.29 for 15 second(s). While this Buff is active, Opponents have -100% Ability Accuracy when hitting Captain America\u2019s block."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "Last hit inflicts a Physical Vulnerability Debuff, decreasing Physical Resistance by 250 for 14 second(s), pauses while Lock-On.",
+                        "Lock-On: Inflict an extra Physical Vulnerability Debuff."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "For the duration of this Special, Attack Rating increases proportionally to Armor Rating. All personal Armor Ups are consumed by the end of the attack.",
+                        "Each hit inflicts a Rupture Debuff, dealing 785.4 Physical Damage over 10 second(s).",
+                        "Lock-On: Each hit inflicts an extra instant Rupture Passive, dealing Critical Damage as Physical Damage."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "Gain a Precision Buff, granting 9000 Critical Rating for 8 second(s), but pauses for 0.50 second(s) on a Hit. Captain America can crit through blocks while this Buff is active.",
+                        "Consume all stacks of Armor Up, and gain 10% chance per Armor Up to inflict an extra Sapped Charge on a Rupture for the duration of the Precision Buff. Reaching max stacks of Sapped Charges while this effect is active causes the lost Armor Ups to return.",
+                        "Lock-On: Inflicts a Special Lock, preventing Specials from being activated for 10 second(s)."
+                    ]
+                }
+            }
         }
     }
 }

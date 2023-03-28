@@ -1071,6 +1071,56 @@
                     "7.4.1"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 12863,
+            "hp": 47854,
+            "attack": 4196,
+            "crit_rate": 876,
+            "crit_dmge": 791,
+            "armor": 635,
+            "block_prof": 5009,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Shield Mode grants a 10 to 100% chance to Auto Block Enemy Attacks. This Auto Block triggers Parry.",
+                "Stealth Mode grants 10 to 60% increased Offensive Combat Power Rate.",
+                "Null Mode grants 419.61 to 4196 additional Attack Rating."
+            ],
+            "url_page": "https://auntm.ai/champions/darkhawk/tier/6",
+            "champid": "darkhawk+6+5",
+            "abilities": {
+                "abilities": {
+                    "PASSIVE": [
+                        "Advanced robotics provides full immunity to Poison and Bleed effects."
+                    ],
+                    "WING ATTACKS": [
+                        "Attacks that utilize Darkhawk\u2019s Wings have 100% Armor and Resistance Penetration."
+                    ],
+                    "SHIELD MODE": [
+                        "If Darkhawk is Knocked Down he exits any other mode and enters Shield Mode for 10 seconds. Mode activation is unaffected by Ability Accuracy reduction. Shield Mode provides 1500 Armor and reduces enemy Critical Damage by 100%.",
+                        "If Darkhawk Blocks a Contact Attack while in Shield Mode he has a 100% chance to inflict an instant Shock, dealing 419.6 Energy Damage."
+                    ],
+                    "NULL SPACE REGEN": [
+                        "If Darkhawk enters a Mode from a different Mode, he Regenerates 4785.4 Health over 2 seconds."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "If Darkhawk is in Shield Mode, this attack inflicts Stun for 3.50 seconds.",
+                        "If Darkhawk is in Stealth Mode, opponents generate no Power from this attack.",
+                        "If Darkhawk is in Null Mode, this attacks inflicts Shock, dealing 4196 Energy Damage over 4 seconds."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "Darkhawk exits any other mode and enters Stealth Mode for 20 seconds. Mode activation is unaffected by Ability Accuracy reduction. While in Stealth Mode, Darkhawk Passively reduces the opponents Defensive Power Gain by 70% and incoming Light and Medium attacks have a 30% chance to Miss."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "Inflicts Heal Block, preventing the opponent from healing for 30 seconds.",
+                        "Darkhawk exits any other mode and enters Null Mode for 30 seconds. Mode activation is unaffected by Ability Accuracy reduction. Null Mode provides 4196 Attack Rating and 25% Block Penetration.",
+                        "While in Null Mode, Darkhawk's Basic Attacks have a 100% chance to inflict an instant Shock, dealing 419.6 Energy Damage."
+                    ]
+                }
+            }
         }
     }
 }

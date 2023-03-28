@@ -1293,6 +1293,67 @@
                     "7.4.5"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13354,
+            "hp": 50975,
+            "attack": 3927,
+            "crit_rate": 337,
+            "crit_dmge": 711,
+            "armor": 250,
+            "block_prof": 5645,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "The Powerlock Debuff triggered when reaching 5 Judgments is upgraded to a Damnation Debuff dealing 2081.9 to 4911.4 damage over 6 seconds. Opponents under Damnation are also Power Locked, Heal Blocked, and Fate Sealed, all of which are unaffected by Ability Accuracy modifications."
+            ],
+            "url_page": "https://auntm.ai/champions/ghostrider_cosmic/tier/6",
+            "champid": "ghostrider_cosmic+6+5",
+            "abilities": {
+                "abilities": {
+                    "PASSIVE": [
+                        "A lack of blood provides full immunity to Bleeding.",
+                        "Being wreathed in Hellfire provides full Immunity to Incinerate",
+                        "When fighting a #Villain, at the start of the fight gain a 100% Chance to place an indefinite Armor Break Debuff on the Opponent reducing their Armor Rating by 750, and removing an active Armor Up Buff."
+                    ],
+                    "COSMIC JUDGMENTS - PASSIVE": [
+                        "When Cosmic Ghost Rider triggers Armor Up, Fury, Precision, Cruelty, Power Gain, Unblockable, Vigilance, or Aptitude Buffs he also has a 100% chance to place a corresponding Judgment on his Opponent.",
+                        "Each Judgment can only be stacked a single time, but lasts indefinitely.",
+                        "Each Judgment placed on the Opponent increases the duration of any Buff Triggered on Cosmic Ghost Rider by 20%. While you have 5 Judgments in place, this bonus is doubled.",
+                        "Upon gaining any 5 or more Judgments there is a 100% chance to place a Power Lock Debuff on the Opponent for 6 seconds.",
+                        "After this Power Lock ends or if it fails to apply, all Judgments on the Opponent have a 100% chance to be converted into Armor Break Debuffs, each reducing Armor Rating by 562.5 for 10 seconds, and removing an Armor Up Buff.",
+                        "If Cosmic Ghost Rider gains a Fate Seal Debuff, he Removes all of his Judgments, and he cannot trigger new ones until it ends."
+                    ],
+                    "WHEN ATTACKED": [
+                        "When Struck if the Judgment of Armor is not active: 100% Chance to trigger an Armor Up Buff granting +964.29 Armor for 10 seconds."
+                    ],
+                    "FINISH A 5 HIT COMBO WITH A MEDIUM ATTACK": [
+                        "If the Judgment of Vigilance is not active: 100% Chance to trigger a Vigilance Buff, preventing your attacks from Missing for 10 seconds."
+                    ],
+                    "FINISH A 5 HIT COMBO WITH A LIGHT ATTACK": [
+                        "If the Judgment of Power Gain is not active: 100% Chance to trigger a Power Gain Buff, granting 75% of a Bar of Power over 1.25 seconds."
+                    ],
+                    "WHEN CHARGING A HEAVY ATTACK": [
+                        "If the Judgment of Aptitude is not active, he has a 100% Chance to trigger an Aptitude Buff increasing the potency of any Armor Up, Fury, Cruelty, and Precision Buffs triggered by 50% for 8 seconds."
+                    ],
+                    "SPECIAL ATTACKS": [
+                        "If the Judgment of Cruelty is not active: 100% Chance to trigger a Cruelty Buff, increasing Critical Damage Rating by 790.54 for 10 seconds."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "On Activation if the Judgment of Unblockable is not active: 100% Chance to trigger an Unblockable Buff for 1 seconds.",
+                        "This attack Incinerates the enemy, dealing 2356.2 Energy Damage over 5 seconds. This effect also removes Perfect Block Chance and reduces Block Proficiency by 50% while it's active."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "On Activation if the Judgment of Precision Is not active: 100% Chance to trigger an Precision Buff increasing Critical Rating by 9000 for 10 seconds.",
+                        "100% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by 1840.91 for 15 seconds."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "On Activation if the Judgment of Fury is not active: 100% Chance to trigger an Fury Buff increasing Attack by 4908.75 for 15 seconds."
+                    ]
+                }
+            }
         }
     }
 }

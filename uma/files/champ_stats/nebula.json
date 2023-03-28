@@ -1151,6 +1151,59 @@
                     "7.2.5"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 12989,
+            "hp": 49935,
+            "attack": 4158,
+            "crit_rate": 791,
+            "crit_dmge": 965,
+            "armor": 920,
+            "block_prof": 3520,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "While the opponent is suffering from at least 1 Shock Debuff, Nebula\u2019s attacks gain +8 to 25% Combat Power Rate."
+            ],
+            "url_page": "https://auntm.ai/champions/nebula/tier/6",
+            "champid": "nebula+6+5",
+            "abilities": {
+                "abilities": {
+                    "ALWAYS ACTIVE": [
+                        "Advanced Robotics provides full Immunity to Bleed, Poison and Shock effects."
+                    ],
+                    "SELF-REPAIR": [
+                        "Nebula begins each fight with 3 indefinite Self-Repair Charges. When she runs out, she will gain another after 10 seconds.",
+                        "Each time the opponent deals more than 110% of their Attack Rating in a single hit, Nebula will spend 1 charge to gain a Self-Repair Buff, recovering the damage dealt over 5 seconds. If Stunned while Self-Repair is active, it is lost.",
+                        "Self-Repair and its Charges are Immune to Ability Accuracy reductions."
+                    ],
+                    "SHOCK DEBUFFS": [
+                        "Unless otherwise stated, Nebula\u2019s Shock Debuffs inflict 1871.1 Energy Damage over 6 seconds."
+                    ],
+                    "AMP CHARGES": [
+                        "While holding Block, Nebula builds up 1 Amp Charge every 0.65 seconds. Each time an Immunity prevents a Shock effect on Nebula, gain 5 Amp Charges. Max Stacks: 20.",
+                        "Each Amp Charge reduces the opponent\u2019s Ability Accuracy by 20% if they are a #Robot.",
+                        "Perform a Well-Timed Block: Convert all Amp Charges into Shock Debuffs on the opponent."
+                    ],
+                    "HEAVY ATTACKS": [
+                        "100% chance to inflict a Shock Debuff."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "100% chance to inflict a Power Lock Debuff lasting 1 second(s) per Shock Debuff on the opponent.",
+                        "100% chance to inflict Power Drain, depleting 12% of a bar of Power per Shock Debuff on the opponent."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "Nebula removes all personal Shock effects on the opponent. For each Shock removed this way, she inflicts 2 Shock Debuffs each dealing 3326.4 Energy Damage over 3 seconds."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "Nebula gains a Weapon Overcharge Passive lasting 25 seconds.",
+                        "While Active, Nebula has a 65% chance to gain an Amp Charge when making Contact with the Opponent.",
+                        "While active, any contact with the opponent has a 75% chance to inflict a Shock Debuff."
+                    ]
+                }
+            }
         }
     }
 }

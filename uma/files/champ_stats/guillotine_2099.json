@@ -1272,6 +1272,66 @@
                     "7.4.1"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13249,
+            "hp": 39532,
+            "attack": 4350,
+            "crit_rate": 563,
+            "crit_dmge": 1059,
+            "armor": 563,
+            "block_prof": 4000,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 250,
+            "sig_info": [
+                "When Guillotine would be struck, she has a 16.41 to 100% chance to gain a Combo Shield Passive lasting 2 seconds, plus 2 additional seconds per Digi-Soul. Cooldown: 60 seconds.",
+                "While under the effect of a Combo Shield, damage from incoming attacks excluding Special 3 is capped at 10% of Guillotine's max health."
+            ],
+            "url_page": "https://auntm.ai/champions/guillotine_2099/tier/6",
+            "champid": "guillotine_2099+6+5",
+            "abilities": {
+                "abilities": {
+                    "ROBOTICS": [
+                        "Advanced Robotics provides Immunity to Bleed & Poison effects.",
+                        "Once per fight, when Guillotine drops below 15% health and she has at least 1 Digi-Soul, Self-Repair is activated, recovering 7115.76 health per Digi-Soul over 4 seconds. This ability triggers instantly when starting a fight below 15% health. If Stunned during repair, connection is lost and the Repair immediately ends."
+                    ],
+                    "BASIC ATTACKS": [
+                        "Guillotine can\u2019t land Critical Hits naturally, however all Basic Attacks that aren't Critical, have a chance based on Critical Rating to inflict a Degeneration Debuff dealing 1087.5 direct damage over 3 seconds."
+                    ],
+                    "DIGI-SOULS - PERSISTENT CHARGE": [
+                        "Guillotine begins the quest with 2 Digi-Souls, each providing +16% Defensive Combat Power Rate. Digi-Souls are refunded after each fight and can be spent to enhance Guillotine's sword on the Pre-Fight screen.",
+                        "At the start of the fight if Guillotine has at least 1 Digi-Soul, she gains an Armor Up Buff granting +1500 Armor Rating per Digi-Soul and lasting indefinitely. If removed, this Armor reactivates after 4 seconds."
+                    ],
+                    "PRE-FIGHT - SWORD EMPOWERMENT - COSTS 1 DIGI-SOUL EACH.": [
+                        "Huntress Function: Every 20th attack on the Combo Meter is a guaranteed Critical Hit, if this Attack is a Special 1 or 2 all hits of the Attack are guaranteed to be Critical.",
+                        "Stability Function: While above 99 hits in the Combo Meter, Medium attacks Regenerate 5% of the damage dealt.",
+                        "Assault Function: While above 99 hits in the Combo Meter, Medium attacks Burn 5% of the Opponent\u2019s Current Power."
+                    ],
+                    "HEAVY ATTACKS": [
+                        "100% chance to gain a Combo Shield Passive lasting indefinitely. Max stacks 2, plus an additional 2 for every Digi-Soul. When struck, a Combo Shield is removed."
+                    ],
+                    "PASSIVE - COMBO METER ABILITIES": [
+                        "Guillotine\u2019s Attack Rating increases by +65.25 with each hit in her Combo Meter, capping after 100 hits.",
+                        "At a Combo of 100+ Guillotine\u2019s sword becomes empowered, dealing a burst of 87 Energy Damage for each hit above 100, scaling with base attack and capping after 600 hits."
+                    ],
+                    "WHEN ATTACKED BY A LIGHT OR MEDIUM ATTACK": [
+                        "15% chance to activate Digi-Cloak, lasting 2.50 seconds per Digi-Soul and causing all unblocked attacks to Miss. Cooldown: 10 seconds after each use, and each time Guillotine is knocked down.",
+                        "While fighting Mutant Opponents, the Digi-Cloak\u2019s cooldown is reduced by 50%, and it\u2019s chance to activate is doubled."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "The final strike of this attack drains 20% of the Opponent\u2019s current Power per Digi-Soul, increasing to 40% per Digi-Soul if the attack doesn\u2019t make contact with the Opponent."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "On activation: 100% chance to inflict a Spectre Debuff, reducing the Opponent's Regeneration Rate by 120% for 12 seconds."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "If the Opponent is at or below 5% of their max health this attack knocks them out. This damage can be prevented or reduced.",
+                        "If Guillotine uses this attack to knock out her Opponent, their soul is digitized and absorbed, allowing her to start the next fight with 100 hits in her Combo Meter."
+                    ]
+                }
+            }
         }
     }
 }

@@ -1166,6 +1166,60 @@
                     "7.4.1"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13476,
+            "hp": 54096,
+            "attack": 4023,
+            "crit_rate": 367,
+            "crit_dmge": 563,
+            "armor": 563,
+            "block_prof": 3375,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "If Howard is fighting in any fight with a Class Advantage, he breaks out his legendary Quack-Fu to gain the following:",
+                "Critical Resistance equal to 8 to 40% of Howard\u2019s Armor Rating.",
+                "Base Ability Accuracy of 115% instead of the normal 100%.",
+                "Incoming Debuffs suffer --0.2 to -1.3 second(s) duration."
+            ],
+            "url_page": "https://auntm.ai/champions/howardmech/tier/6",
+            "champid": "howardmech+6+5",
+            "abilities": {
+                "abilities": {
+                    "ALWAYS ACTIVE": [
+                        "The bulky ISO-Loader suit provides Immunity to Bleed effects.",
+                        "Howard\u2019s personal Buffs and Debuffs each expire 1 at a time."
+                    ],
+                    "BUTTON MASHER EXTRAORDINAIRE": [
+                        "Rapidly pressing the Block button at different times in the fight grants Howard special MASH! bonuses. Each MASH! bonus requires more presses of the Block button than the last within the same window.",
+                        "In the Pre-Fight Menu, Howard can activate the Auto-Masher which lasts for the duration of the fight. While Auto-Masher is active, all MASH! bonuses will be handled automatically for Howard.",
+                        "While fighting as a Defender, Auto-Masher is always active."
+                    ],
+                    "BEFORE THE FIGHT STARTS": [
+                        "Gain 1 indefinite Dormant Armor. MASH! Gain additional Dormant Armors. When the fight starts each Dormant Armor is converted into an indefinite Armor Up Buff, increasing Armor Rating by +278.09."
+                    ],
+                    "WHILE EITHER CHAMPION IS STUNNED": [
+                        "100% chance to gain a Fury Buff, increasing Attack Rating by +402.3 for 10 seconds. Max Stacks: 50. MASH! Gain additional Fury Buffs."
+                    ],
+                    "HEAVY ATTACKS": [
+                        "100% chance to inflict an Armor Break Debuff, removing an Armor Up Buff and reducing Armor Rating by 81.61 for 5 seconds. Max Stacks: 10. MASH! Additional hits can inflict additional Armor Break Debuffs."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "100% chance to inflict 2 Heal Block Debuffs, each lasting 2.50 seconds. MASH! Inflict additional Heal Block Debuffs."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "80% chance to inflict a Suppression Debuff, reducing Combat Power Rate by 10% for 4 seconds. MASH! Additional hits can inflict additional Suppression Debuffs."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "100% chance to inflict a 3 second Stun Debuff.",
+                        "100% chance to inflict a 3 second Stun Debuff.",
+                        "If Howard gets a Perfect result in the Special 3 Mini Game, this Stun Debuff becomes Passive and lasts 4 seconds."
+                    ]
+                }
+            }
         }
     }
 }

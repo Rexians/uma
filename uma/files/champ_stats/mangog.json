@@ -1410,6 +1410,73 @@
                     "7.4.3"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13271,
+            "hp": 60337,
+            "attack": 4465,
+            "crit_rate": 94,
+            "crit_dmge": 528,
+            "armor": 119,
+            "block_prof": 2864,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 46,
+            "sig_info": [
+                "Each time a Stagger expires naturally on the Opponent Mangog has a 10.02 to 25.01% chance to gain +1 Hatred.",
+                "While Unstoppable Mangog Passively Regenerates 10.42 to 20% of incoming hit damage instantly.",
+                "Gain +46.23 to 133.93 Attack Rating per Hatred.",
+                "Gain +4.52 to 9.03 Critical Damage Rating per Hatred."
+            ],
+            "url_page": "https://auntm.ai/champions/mangog/tier/6",
+            "champid": "mangog+6+5",
+            "abilities": {
+                "abilities": {
+                    "ALWAYS ACTIVE": [
+                        "Immune to Armor Break Debuffs and all Bleed effects.",
+                        "Mangog suffers -40% Combat Power Rate, instead gaining 5% of a Power Bar every second while below 2 full Bars.",
+                        "If struck while Unstoppable, gain a non-stacking Fury Buff granting +4465 Attack Rating for 10 seconds."
+                    ],
+                    "HATRED OF A BILLION BILLION BEINGS - MAX STACKS 10": [
+                        "Mangog starts with 3 Hatred. Hatred is unaffected by Ability Accuracy and cannot be gained more than once every 0.2 seconds.",
+                        "Gain +1 Hatred each time either champion finishes a 5-hit combo.",
+                        "Gain +1 Hatred when Nullifying a Buff.",
+                        "Each stack of Hatred grants the following:",
+                        "+250 Energy Resistance.",
+                        "+71.98 Armor Rating.",
+                        "+64.81 Critical Rating."
+                    ],
+                    "ENRAGED": [
+                        "Activating a Special Attack with 10 stacks of Hatred triggers Enrage, causing Hate to fall off over 8 seconds after the Special Attack ends.",
+                        "While Enraged, each time Mangog would gain Hate, Enrage is paused for 3 second(s) instead.",
+                        "Take 50% less damage from enemy attacks and the Recoil Mastery.",
+                        "Gain an indefinite Unstoppable Buff, this is removed when Enrage expires or if Mangog is struck by a Special Attack.",
+                        "During Special Attacks 1 and 2 gain an indefinite Unblockable Buff.",
+                        "Basic Attacks that make contact with the Opponent have a 70% chance to inflict a 14 second Stagger Debuff."
+                    ],
+                    "HEAVY ATTACKS": [
+                        "Heavy Charging can be held for an extended duration and deals a burst of up to 22325 Energy Damage based on charge time.",
+                        "While Enrage is not active, consume 2 Hatred to inflict an Armor Break Debuff for 15 seconds, reducing Armor Rating by 250.",
+                        "While Enraged, gain +220% Ability Power Rate while Charging."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "On activation gain +2 Hatred, this bypasses the gain cooldown.",
+                        "The second and final hits inflict a Stagger Debuff for 14 seconds.",
+                        "If Enraged, gain a non-stacking Energy Protection Buff, granting full immunity to Shock, Incinerate, Coldsnap, and Frostbite effects for 15 seconds. This Buff is paused while Enraged."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "Each hit deals a burst of 2009.25 Energy Damage.",
+                        "The first hit Steals the Opponent\u2019s Power above their nearest Full Bar, if they have less then 1 Full Bar of Power, all their Power is stolen. Mangog gains 100% of the Power stolen from this attack.",
+                        "If Enraged the final hit inflict a Stun Debuff for 3 seconds. If the Opponent is struck the Stun is removed."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "Nullify up to 10 Buffs from the Opponent.",
+                        "Gain a non-stacking Regeneration Buff healing +1508.43 Base Health over 5 seconds. This is increased by an additional +1508.43 Base Health for each Buff that was Nullified during this attack.",
+                        "If Enraged this attack inflicts a Stun Debuff for 2 seconds."
+                    ]
+                }
+            }
         }
     }
 }

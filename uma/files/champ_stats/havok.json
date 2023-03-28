@@ -1467,6 +1467,75 @@
                     "7.4.6"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13262,
+            "hp": 54096,
+            "attack": 3830,
+            "crit_rate": 528,
+            "crit_dmge": 791,
+            "armor": 563,
+            "block_prof": 4000,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Each time Havok gains a Plasma Charge, from any source other than this ability he has a 25.04 to 55% chance to gain another one."
+            ],
+            "url_page": "https://auntm.ai/champions/havok/tier/6",
+            "champid": "havok+6+5",
+            "abilities": {
+                "abilities": {
+                    "PASSIVE": [
+                        "Havok is Immune to all forms of Incinerate.",
+                        "Havok\u2019s mutation gives him +2250 Energy Resistance.",
+                        "Havok Passively generates 2.5% of a Bar of Power each second.",
+                        "Havok gains 25% less Power from landing and receiving Hits."
+                    ],
+                    "WHEN STRUCK BY CRITICAL HITS": [
+                        "Havok reduces the Opponent's Critical Damage Rating by 50%."
+                    ],
+                    "ALL ATTACKS": [
+                        "Havok\u2019s Medium Attacks, Heavy Attacks, and Light combo ending attacks do not make Contact, and deal Energy Damage."
+                    ],
+                    "PLASMA CHARGES - PASSIVE": [
+                        "Havok generates a Plasma Charge every 5 seconds, and can have a maximum of 10 Plasma Charges.",
+                        "While Power Locked Havok\u2019s Plasma Charge generation increases to 2 Charges every 5 seconds.",
+                        "Each time Havok receives Energy Damage or a Critical Hit he gains +1 Plasma Charge(s).",
+                        "If affected by a Power Drain Havok loses all his Plasma Charges."
+                    ],
+                    "PLASMA BUILD UP - DEBUFF": [
+                        "When Havok would generate a Plasma Charge beyond his maximum, he instead places a Plasma Build Up on the Opponent. Plasma Build Ups last until removed by another ability.",
+                        "If made to Bleed Havok puts a Plasma Build Up on the Opponent.",
+                        "At 11 Stacks all Plasma Build Ups are Removed.",
+                        "When a Plasma Build Up is removed, it detonates Passively causing 574.5 Energy Damage.",
+                        "If a Plasma Build Up is removed due to a Purify effect its Passive Damage is increased to 1532.",
+                        "Champions with an Armor Up Buff, and Havok, receive no damage from this ability."
+                    ],
+                    "WHEN CHARGING A HEAVY ATTACK": [
+                        "Convert 2 Plasma Charge(s) to 1 Prowess, each increasing Special Attack Damage by 10% and lasting until Havok's next Special Attack ends. Max 5 stacks."
+                    ],
+                    "HEAVY ATTACKS": [
+                        "Places a Feedback Debuff on the Opponent for 10 seconds, causing 191.5 Energy Damage over its duration, for each Plasma Build Up on the Opponent."
+                    ],
+                    "SPECIAL ATTACKS": [
+                        "If Havok has +7 Stacks of Prowess all hits of his Special Attacks become Unblockable.",
+                        "Converts up to 5 Plasma Charge(s) into Passive Prowess Effects, each increasing Special Attack Damage by 10% and lasting for 13 seconds."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "On activating this Special Attack Havok gains a Overcharge Passive Effect for the next 9 seconds, granting +1 Plasma Charge(s) per second."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "+6702.5 Attack as long as the Opponent doesn\u2019t have an active Armor Up Buff."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "Convert all Plasma Charges into Prowess Passive Effects.",
+                        "+1532 Attack for each Plasma Charge converted.",
+                        "Purifies all Plasma Build Ups on the Opponent."
+                    ]
+                }
+            }
         }
     }
 }

@@ -1156,6 +1156,60 @@
                     "7.4.1"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13094,
+            "hp": 54096,
+            "attack": 4158,
+            "crit_rate": 250,
+            "crit_dmge": 563,
+            "armor": 711,
+            "block_prof": 3375,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "When the target activates a Special Attack, and it matches the previously activated Special Attack, Sentinel gains 20 Analysis Charges.",
+                "Abilities that cause Sentinel to lose Power are -0.4 to -0.8% less effective per Analysis Charge."
+            ],
+            "url_page": "https://auntm.ai/champions/sentinel/tier/6",
+            "champid": "sentinel+6+5",
+            "abilities": {
+                "abilities": {
+                    "PASSIVE": [
+                        "Advanced robotics provides full immunity to Poison and Bleed effects."
+                    ],
+                    "TARGET ANALYSIS - PASSIVE": [
+                        "Sentinel monitors the target, when they repeat the same action consecutively, Sentinel gains 4 Analysis Charges. Actions include Light Attacks, Medium Attacks, Heavy Attacks, Dashing, Dodging, and Blocking an attack. Analysis Charges stack up to 100 max.",
+                        "Designed to hunt Mutants, Sentinel gains double Analysis Charges when facing a target of the Mutant Class. Unable to register Cosmic beings, Sentinel gains half the amount of Analysis Charges when facing a target of the Cosmic Class.",
+                        "Special Attacks cost 0.25% less per Analysis Charge.",
+                        "Armor Rating increases by 13.58 per Analysis Charge.",
+                        "Critical Resistance increases by 18.15 per Analysis Charge.",
+                        "Attack Rating increases by 41.58 per Analysis Charge."
+                    ],
+                    "ANALYSIS COMPLETE - PASSIVE": [
+                        "At max Analysis Charges, Sentinel gains the following abilities:",
+                        "Special 1 and Special 2 effects trigger on the target\u2019s Block.",
+                        "While charging a Heavy Attack, Sentinel becomes Unstoppable for 0.80 seconds. While the target is Shocked, Sentinel cannot become Unstoppable.",
+                        "When Sentinel inflicts a Shock, Incinerate, Heal Block or Armor Break, it\u2019s duration is increased by 100%."
+                    ],
+                    "HEAVY ATTACKS": [
+                        "Shock the target, dealing 4158 Energy damage over 3 seconds."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "Initial hit inflicts Heal Block, preventing the target from recovering Health for 6 seconds.",
+                        "Successive hits have a 50% chance to Armor Break, removing an Armor Up from the target and reducing their Armor Rating by 562.5 for 6 seconds."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "Each hit inflicts Incinerate, dealing 2079 Energy Damage over 3 seconds. This also removes the target\u2019s Perfect Block Chance and reduces their Block Proficiency by 50%."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "Gain an permanent Armor Up passive, increasing Armor Rating by 1500. The Armor Up passive can be removed by Armor Break.",
+                        "If Sentinel already has an Armor Up passive, consume the Armor Up passive and instantly regenerate Health up to 16228.8 based on lost Health."
+                    ]
+                }
+            }
         }
     }
 }

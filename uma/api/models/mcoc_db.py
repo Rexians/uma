@@ -39,8 +39,8 @@ class NewChampsDB:
         if tier > 6:
             self.error = "Tier should not be above 6"
             raise KeyError
-        elif tier == 6 and rank > 4:
-            self.error = "Rank of a 6 star should not be above 4."
+        elif tier == 6 and rank > 5:
+            self.error = "Rank of a 6 star should not be above 5."
             raise KeyError
         elif tier == 5 and rank > 5:
             self.error = "Rank of a 5 star should not be above 5."

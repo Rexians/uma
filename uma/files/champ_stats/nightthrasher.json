@@ -1016,6 +1016,53 @@
                     "7.4.3"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 12896,
+            "hp": 53576,
+            "attack": 3927,
+            "crit_rate": 711,
+            "crit_dmge": 791,
+            "armor": 599,
+            "block_prof": 5128,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Heavy Attacks have a 15 to 35% chance per active Gadget Debuff to inflict a Taunt Debuff for 10 seconds.",
+                "Striking a Taunted opponent with Skateboard Attacks grants a permanent Fury Buff, increasing Attack by 392.7 to 785.38. Max 10 stacks. When Knocked Down these Buffs are lost.",
+                "After being Knocked Down Night Thrasher has a 25 to 50% chance to Purify all Debuffs."
+            ],
+            "url_page": "https://auntm.ai/champions/nightthrasher/tier/6",
+            "champid": "nightthrasher+6+5",
+            "abilities": {
+                "abilities": {
+                    "PASSIVE": [
+                        "Night Thrasher\u2019s advanced combat suit grants him immunity to Incinerate effects and 750 Physical Resistance.",
+                        "Night Thrasher gains +93.75 Critical Damage Rating for each Unique Debuff on his opponent. This ability is not affected by Ability Accuracy Reduction.",
+                        "Well Timed Blocks and successful Dodges grant 5% of max Power while Night Thrasher is under 1 Bar of Power."
+                    ],
+                    "SKATEBOARD ATTACKS": [
+                        "Champions of the Contest never see the skateboard coming. Attacks using the skateboard have passive True Accuracy."
+                    ],
+                    "ON OPPONENT KNOCKDOWN": [
+                        "Refresh the duration of all active Gadget Debuffs."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "Night Thrasher uses the Shock Baton to inflict Shock dealing 1570.8 Energy Damage over 12 seconds.",
+                        "If this attack is activated after striking with a Light Attack, Night Thrasher instead uses the Smoke Capsule Gadget, inflicting Disorient. Disorient reduces Enemy Defensive Ability Accuracy by 50% and lowers the opponent\u2019s Block Proficiency by 50% for 12 seconds.",
+                        "If this attack is activated after striking with a Medium Attack, Night Thrasher instead uses the Explosive Gadget inflicting Incinerate, removing Perfect Block Chance, decreasing the opponent\u2019s Block Proficiency by 50% and dealing 1570.8 Energy Damage over 12 seconds."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "Grant Night Thrasher a Precision Buff increasing Critical Rating by 250 for each Unique Debuff effect on the opponent for 10 seconds."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "Inflict a Passive Debilitate, extending the duration of all Debuffs by 75% for 45 seconds.",
+                        "Refresh all active Gadget Debuffs with the extended duration."
+                    ]
+                }
+            }
         }
     }
 }

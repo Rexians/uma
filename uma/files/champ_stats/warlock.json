@@ -1167,6 +1167,61 @@
                     "7.4.6"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13320,
+            "hp": 53055,
+            "attack": 3927,
+            "crit_rate": 673,
+            "crit_dmge": 1917,
+            "armor": 673,
+            "block_prof": 4368,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Degenerate the Opponent, dealing 490.88 to 1472.63 direct damage over 2 second(s)."
+            ],
+            "url_page": "https://auntm.ai/champions/warlock/tier/6",
+            "champid": "warlock+6+5",
+            "abilities": {
+                "abilities": {
+                    "PASSIVE": [
+                        "Immune to Bleed, Poison, Coldsnap, and Frostbite.",
+                        "His durable Technarch form grants Warlock a permanent Armor Up Buff, increasing Armor Rating by +750. If this Buff is removed for any reason, it will refresh itself after 10 second(s).",
+                        "While this Buff is active, Opponent\u2019s Special Attacks cannot be Critical."
+                    ],
+                    "CONTACT": [
+                        "The Opponent gains a charge of Techno-Organic Transmode Virus. The Virus is not affected by Ability Accuracy.",
+                        "Once the Opponent has 20 charges, they are removed and replaced with one Infection Passive that lasts for 20 second(s). The duration is decreased by 6 second(s) for each unique Buff on the Opponent when it activates."
+                    ],
+                    "TECHNO-ORGANIC TRANSMODE VIRUS INFECTION - PASSIVE": [
+                        "The Opponent cannot gain Health. If the Salve Mastery is active, the Mastery is removed.",
+                        "The Opponent has -30% Offensive Ability Accuracy.",
+                        "Whenever the Opponent would gain Health while infected, Warlock Power Drains them for 5% of their current Power over 0.50 second(s)."
+                    ],
+                    "BLOCKING": [
+                        "If the Block was Well-Timed, the Opponent gains 3 Virus charges.",
+                        "If the hit was a non-contact Basic Attack, the Opponent instantly Drains 10% of their current Power."
+                    ],
+                    "HEAVY ATTACKS": [
+                        "Lacerate opponents, inflicting 3730.65 Bleed damage over 5 second(s)."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "The last hit Shocks the Opponent, dealing 5890.5 energy damage over 10 second(s). If they are Infected, this also triggers when the Attack is activated, but lasts half as long.",
+                        "The first hit removes all Infections to Passively Drain 25% of the Opponent\u2019s Max Power over 5.50 second(s) for each Infection removed."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "The last hit places two Armor Break Debuffs on Opponent, each reducing Armor Rating by 2250 for 10 second(s). If they are Infected, the Debuffs also trigger when the Attack is activated, but last half as long.",
+                        "The last hit refreshes one Infection."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "Inflict a Passive Power Burn on the Opponent, draining 100% of their current Power over 5.50 second(s) and dealing damage proportionate to the amount lost.",
+                        "Regenerate 2122.2 Health for each Infection the Opponent has."
+                    ]
+                }
+            }
         }
     }
 }

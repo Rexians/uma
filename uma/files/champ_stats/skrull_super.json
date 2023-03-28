@@ -1252,6 +1252,65 @@
                     "7.4.4"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13393,
+            "hp": 51495,
+            "attack": 3349,
+            "crit_rate": 429,
+            "crit_dmge": 563,
+            "armor": 812,
+            "block_prof": 3375,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "While in Cosmic Energy Overload, Super-Skrull gains a Power Gain Buff, granting 1.56 to 7.1% of a Bar of Power per second."
+            ],
+            "url_page": "https://auntm.ai/champions/skrull_super/tier/6",
+            "champid": "skrull_super+6+5",
+            "abilities": {
+                "abilities": {
+                    "PASSIVE": [
+                        "Immune to Shock, Incinerate effects.",
+                        "Fury Buffs also grant +69.59 Block Penetration.",
+                        "Armor Up Buffs also grant +118.42 Critical Resistance."
+                    ],
+                    "HYPNOTIC GAZE - DEBUFF": [
+                        "After a cooldown of 25 seconds inflict a Falter Debuff on the Opponent. This Falter Debuff lasts for 1 seconds, causes Attacks to Miss and begins Paused.",
+                        "Falter is unpaused when Skrull is Struck, Blocks an Attack, or an Opponent Misses.",
+                        "When this Falter expires, there is a 100% chance that it's replaced with an Energy Vulnerability Debuff reducing Energy Resistance by 1500 for 5 seconds."
+                    ],
+                    "COSMIC ENERGY RECEPTORS - BUFF": [
+                        "Every 1 second(s) Super-Skrull reaches full charge, and his next action creates a Buff, resetting the charge. This charge is not affected by Ability Accuracy.",
+                        "Landing a Hit or Striking a Block converts to a Fury Buff increasing Attack by 535.84.",
+                        "Being Struck by or Blocking an Attack converts to an Armor Up Buff increasing Armor by 428.57.",
+                        "5 of these Buffs can be maintained at a time."
+                    ],
+                    "COSMIC ENERGY OVERLOAD - BUFF": [
+                        "Upon reaching his Cosmic Energy Receptor Buff limit Skrull gains a Cosmic Energy Overload Buff for 15 seconds, and cannot build any more Cosmic Energy until it ends.",
+                        "All Cosmic Energy Receptor Buffs are removed when Overload ends or if it fails to trigger.",
+                        "Skrull gains additional Buffs based on the Armor Up or Fury Buffs active when he enters Overload:",
+                        "4+ Armor Up Buffs: Gain a Vigilance Buff preventing their attacks from Missing for 15 seconds.",
+                        "8+ Armor Up Buffs: Gain an Unblockable Buff for 15 seconds.",
+                        "4+ Fury Buffs: Gain an Undermine Debuff for 15 seconds, granting Unblockable to any Hit which the Opponent Autoblocks.",
+                        "8+ Fury Buffs: Gain a Nova Fists Buff for 15 seconds. Granting a 100% chance to Incinerate on Champion Attacks, dealing 1770.78 energy damage over 1.5 seconds, removing Perfect Block Chance and reduces Block Proficiency by 50%."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "On Activation convert up to 5 Fury Buffs into Armor Up Buffs increasing Armor by 428.57 for 25 seconds.",
+                        "The second hit of this attack Cannot Miss or be Autoblocked."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "On Activation convert up to 5 Armor Up Buffs into Fury Buffs increasing Attack by 535.84 for 25 seconds.",
+                        "Each hit has a 100% chance to cause an Incinerate on Hit doing 4269.97 Energy Damage over 15 seconds, removing Perfect Block Chance and reduces Block Proficiency by 50%."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "Gain an indefinite non-stacking Aptitude increasing the potency of future Armor Up, Fury, and Precision Buffs by 60%.",
+                        "100% chance to Stun for 3 second(s)."
+                    ]
+                }
+            }
         }
     }
 }

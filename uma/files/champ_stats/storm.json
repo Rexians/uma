@@ -1081,6 +1081,55 @@
                     "7.2.4"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13140,
+            "hp": 49935,
+            "attack": 4158,
+            "crit_rate": 791,
+            "crit_dmge": 965,
+            "armor": 563,
+            "block_prof": 3238,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Launching a Special Attack grants Storm 1 Prowess Buff per level of Special Attack used. Additionally, each Prowess on Storm, to a maximum of 10, increases the Potency of her Shock Debuffs by +8 to 18%."
+            ],
+            "url_page": "https://auntm.ai/champions/storm/tier/6",
+            "champid": "storm+6+5",
+            "abilities": {
+                "abilities": {
+                    "ALWAYS ACTIVE": [
+                        "Storm\u2019s control of the elements grants her Immunity to Shock effects."
+                    ],
+                    "PROWESS BUFFS": [
+                        "Unless otherwise stated, Storm\u2019s Prowess Buffs last 20 seconds and grant +20% Special Attack damage.",
+                        "Each time either Champion lands a Critical Hit, gain 1 Prowess Buff(s).",
+                        "Each time the opponent Purifies a Debuff, gain 2 Prowess Buff(s).",
+                        "Each time Storm gains a Bleed effect, gain 2 Prowess Buff(s).",
+                        "Each time Storm\u2019s Immunity prevents a Shock effect, gain 2 Prowess Buff(s)."
+                    ],
+                    "PASSIVE": [
+                        "If a Skill Opponent Purifies a Stun Debuff it is replaced with a Passive Stun lasting 2 seconds."
+                    ],
+                    "ALL ATTACKS": [
+                        "While charging or launching a Heavy Attack, all Prowess effects on Storm are Paused. Knocking the opponent down with this attack Pauses all Prowess effects on Storm for 10 seconds."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "Each hit has a 70% chance to inflict a Shock Debuff, causing 2079 Energy Damage over 6 seconds.",
+                        "If the opponent is Stunned, the Shock chance becomes 100% and all Shocks on the opponent are Paused for 6 seconds."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "First hit: Gain 1 Prowess Buffs.",
+                        "Final hit: 100% chance to inflict a 3 second(s) Stun Debuff."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "100% chance to gain a non-stacking Precision Buff, increasing Critical Rating by +964.29 for 45 seconds."
+                    ]
+                }
+            }
         }
     }
 }

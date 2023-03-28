@@ -1086,6 +1086,56 @@
                     "7.3.3"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13041,
+            "hp": 44733,
+            "attack": 3580,
+            "crit_rate": 791,
+            "crit_dmge": 965,
+            "armor": 635,
+            "block_prof": 3238,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Once per fight when the Phoenix is struck by a blow that would knock her out, she immediately becomes invulnerable for 2 seconds, and consumes all of her Phoenix Force charges, regaining 2773.45 to 6884.81 Health per charge. After which she gains 1 Phoenix Force charges."
+            ],
+            "url_page": "https://auntm.ai/champions/phoenix/tier/6",
+            "champid": "phoenix+6+5",
+            "abilities": {
+                "abilities": {
+                    "PHOENIX FORCE - PASSIVE": [
+                        "The Phoenix\u2019s connection to the cosmic Phoenix Force entity is the source of much of her power. She begins the fight with 1 Phoenix Force charge, and periodically generates Fury Buffs based on her current number of Phoenix Force charges.",
+                        "Fury Buffs increase Attack by 483.3."
+                    ],
+                    "EMPOWERED - 5 OR MORE FURY BUFFS": [
+                        "All attacks gain 100% chance to Incinerate the opponent, dealing 358 Energy Damage over 6 seconds. This effect also removes Perfect Block Chance and reduces Block Proficiency by 50% while it's active.",
+                        "Heavy Attacks gain 100% chance to Armor Break, reducing Armor Rating by 750 for 10 seconds"
+                    ],
+                    "OVERLOADED - 11 FURY BUFFS": [
+                        "On entering Overload all Phoenix Force charges are immediately consumed, and the Phoenix begins to consume Fury Buffs periodically.",
+                        "All attacks have a 25% chance to Stun Incinerated targets.",
+                        "Combat Power Rate is reduced by 80%.",
+                        "On reaching 0 Fury Charges the Phoenix stops Overloading and generates 1 Phoenix Force charge."
+                    ],
+                    "HEAVY ATTACKS": [
+                        "100% chance to gain a Phoenix Force charge."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "Gain 10% Power for each Phoenix Force charge, consuming all but 1 of them.",
+                        "Consumes up to 1 Fury Buffs, increasing Special Damage by 10% per Fury consumed."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "Gain 3 additional stacks of Phoenix Force.",
+                        "Consumes up to 4 Fury Buffs, increasing Special Damage by 10% per Fury consumed."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "This attack consumes all of the Phoenix's Fury Buffs, granting up to a 240% damage bonus based on the number of Fury Buffs consumed."
+                    ]
+                }
+            }
         }
     }
 }

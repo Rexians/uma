@@ -1134,6 +1134,60 @@
                 "act_6": [],
                 "act_7": []
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13471,
+            "hp": 41612,
+            "attack": 4504,
+            "crit_rate": 673,
+            "crit_dmge": 791,
+            "armor": 563,
+            "block_prof": 4000,
+            "energy_resist": 0,
+            "physical_resist": -964,
+            "crit_resist": 0,
+            "sig_info": [
+                "Resistance Up also allows Wiccan to block Unblockable attacks from Cosmic Champions.",
+                "If the Opponent is Shock Immune, Shocks turn into Degeneration with the same Potency and Duration, but counts as Shocks for Wiccan's other abilities.",
+                "Incinerate effects have a 6.87 to 50% chance to not consume Shock Debuffs when creating a Plasma."
+            ],
+            "url_page": "https://auntm.ai/champions/wiccan/tier/6",
+            "champid": "wiccan+6+5",
+            "abilities": {
+                "abilities": {
+                    "ALWAYS ACTIVE": [
+                        "Wiccan uses magic on his Basic attacks, causing them to deal Energy Damage instead of Physical.",
+                        "Physical Resistance decreased by -964.29.",
+                        "Immunity to Reversed Controls and Armor Break due his mastery of the Arcane Arts.",
+                        "When struck by True Damage, instantly gain +40% of the Power gained from the Hit.",
+                        "If inflicted with a Concussion or Disorient Debuff from a Science Champion, one Personal Passive or Debuff caused by Wiccan is removed."
+                    ],
+                    "CANTRIPS": [
+                        "When Well-Timed Blocked, inflicts a non-stacking Neutralize Debuff of 100% Potency that lasts for 10 second(s).",
+                        "When the Opponent's ability fails due to reduced Ability Accuracy or Wiccan\u2019s personal Immunities, inflict an Incinerate Debuff, reducing Block Proficiency by 50% and dealing 2702.4 Energy Damage over 10 second(s)."
+                    ],
+                    "SPELLS": [
+                        "Cast a Spell by performing a specific action. As a Defender Wiccan casts a Spell every 10 second(s) following the order below, but this timer resets and moves to the next Spell in order when Wiccan is knocked down, and pauses on his Specials.",
+                        "Shield (Dash back and hold block for 1.2 second(s)): Gain a 562.5 Resistance Up Passive for 10 second(s). Max 3 Stacks.",
+                        "Flame (Medium, Light, Light, Light, Medium): Inflicts an Incinerate Passive, reducing Block Proficiency by 50% and dealing 2702.4 Energy Damage over 10 second(s).",
+                        "Silence (Medium, Light, Light, Light, Light): Inflicts a non-stacking Neutralize Passive of 100% Potency that lasts for 5 second(s).",
+                        "Arcane Theft (Heavy): Gain a Power Gain Passive, granting 1% of Max power over 10 second(s). Nullifies up to one Fury, Precision, or Power Gain Buff off the Opponent to increase the potency of the Power Gain Passive to 5%.",
+                        "Pause all active Spells and Debuffs for 6 second(s) when casting a Spell that does not exist or activating a Special Attack."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "On activation gain a Regeneration Buff, recovering 7% of missing Health over 6 second(s). Recovers 100% of missing health caused by Energy Damage from Bursts and damaging Debuffs.",
+                        "Last 2 hits cast the last casted Spell with duration increased by 8 second(s)."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "All hits inflict a Shock Debuff, dealing 3603.2 Energy Damage over 15 second(s). Inflicting an Incinerate into a Shock, or vice versa, will fuse those two effects into a Plasma that has the property of both, lasting 6 second(s). Plasmas do not pause.",
+                        "Last hit grants a non-stacking Power Efficiency Buff of 30% Potency, lasting for 3 second(s) plus 3 second(s) per unique Spell active at the beginning of the Special, and pauses during Specials. As a Defender this Buff always lasts 20 second(s)."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "Inflict an Energy Vulnerability Debuff, reducing Energy Resistance by 4178.57 for 20 second(s)."
+                    ]
+                }
+            }
         }
     }
 }

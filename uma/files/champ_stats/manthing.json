@@ -1310,6 +1310,68 @@
                     "7.4.1"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13274,
+            "hp": 67619,
+            "attack": 3773,
+            "crit_rate": 429,
+            "crit_dmge": 563,
+            "armor": 0,
+            "block_prof": 3375,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "If Man-Thing is at or above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 471.69 to 1133.8 for 10 seconds.",
+                "If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 1690.6 to 3057.02 Health over 10 seconds."
+            ],
+            "url_page": "https://auntm.ai/champions/manthing/tier/6",
+            "champid": "manthing+6+5",
+            "abilities": {
+                "abilities": {
+                    "MADE OF MUSH - PASSIVE": [
+                        "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
+                        "Man-Thing\u2019s lack of blood also makes it Immune to Bleed effects."
+                    ],
+                    "EMPATHIC AGITATION - PASSIVE": [
+                        "Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.",
+                        "As Man-Thing\u2019s Agitation grows so does its Attack, gaining up to 3018.4 Attack based on Agitation.",
+                        "Agitation falls off over time, falling off faster the longer it\u2019s been since it last increased.",
+                        "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off."
+                    ],
+                    "ACIDIC SECRETIONS - PASSIVE": [
+                        "Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent."
+                    ],
+                    "TOXIC PUSTULES - BUFF": [
+                        "Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.",
+                        "Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
+                        "The Poison Debuff does 3490.03 damage over 15 seconds, and reduces Regeneration effects by 30%.",
+                        "The Armor Break Debuff reduces Armor by 250 and lasts 15 seconds."
+                    ],
+                    "WHEN CHARGING A HEAVY ATTACK": [
+                        "100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds."
+                    ],
+                    "HEAVY ATTACKS": [
+                        "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increase potency."
+                    ],
+                    "SPECIAL ATTACKS": [
+                        "When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "100% Chance to Nullify up to 2 Buff(s) per Hit."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "100% Chance to grant a Fury Buff increasing Attack by up to 3018.4 based on Agitation for 30 seconds.",
+                        "100% Chance to place a Poison Debuff on the Opponent causing up to 5565.18 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.",
+                        "100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds."
+                    ]
+                }
+            }
         }
     }
 }

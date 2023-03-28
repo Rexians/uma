@@ -1294,6 +1294,67 @@
                     "7.4.6"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13337,
+            "hp": 53576,
+            "attack": 3580,
+            "crit_rate": 494,
+            "crit_dmge": 750,
+            "armor": 461,
+            "block_prof": 5009,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Special Attacks generate +1 Symbiote Buff with 90 to 35% reduced Potency."
+            ],
+            "url_page": "https://auntm.ai/champions/red_goblin/tier/6",
+            "champid": "red_goblin+6+5",
+            "abilities": {
+                "abilities": {
+                    "PASSIVE": [
+                        "Gain full Immunity to Incinerate and Power Burn.",
+                        "Red Goblin\u2019s Symbiote reduces Ability Accuracy of Passive Evade abilities for #Spider-Verse Champions by 100%."
+                    ],
+                    "PERSISTENT BLOODLUST - MAX 5:": [
+                        "After Winning a Fight, gain 1 Bloodlust for the remainder of the Quest. If defeating a #Spider-Verse Champion, gain +1 Bloodlust.",
+                        "Lose 1 Bloodlust when defeated."
+                    ],
+                    "FRENZY:": [
+                        "While the Opponent has less than 15% health remaining, activate Frenzy. Each Bloodlust increases this threshold by a flat 10%, reaching 65% at max Bloodlust.",
+                        "Frenzy also triggers a True Sense Buff bypassing the effects of Miss and Auto Block. If Frenzy ends, this Buff is removed.",
+                        "Gain 537 Attack Rating. Additionally gain 537 Attack Rating for each Bloodlust. Each stack suffers from 15% reduced Potency"
+                    ],
+                    "SPECIAL ACTIVATION - SYMBIOTE BUFFS": [
+                        "Activating Special Attacks creates a Buff based on the last attack launched. Buffs last for 15 seconds but start Paused. Buffs are unpaused the next time one of them is triggered.",
+                        "Light Attack: Energize, granting 25% Combat Power Rate. Aptitudes increase the Potency of these Energize Buffs by 75%.",
+                        "Medium Attack: Fury, granting 2148 Attack Rating.",
+                        "Heavy Attack: Aptitude, granting 120% increased Fury, Precision, and Armor Up Potency."
+                    ],
+                    "CARNAGE BOMBS - HEAVY ATTACKS AND SPECIAL 2": [
+                        "Each Energize Buff inflicts Power Drain, draining 10% max Power over 15 seconds.",
+                        "Each Fury Buff inflicts inflicts Armor Break, reducing Armor by 562.5 for 15 seconds.",
+                        "All other Buffs inflict Incinerate, dealing 6265 Energy Damage over 15 seconds. Incinerate also prevents Perfect Block and reduces Block Proficiency by -50%."
+                    ],
+                    "HEAVY ATTACKS": [
+                        "Carnage Bomb Debuffs inflicted by this attack have 65% reduced Duration."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "Symbiote Attacks: All 5 hits deal a burst of direct damage equal to 100% damage dealt. Potency increased by 100% for each Unique Debuff on the Opponent.",
+                        "Shrapnel Blast: Incinerate, dealing 5370 Energy Damage over 20 seconds."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "Carnage Bombs: Inflict Carnage Bomb Debuffs.",
+                        "After Burner: All 3 hits deal a burst of 3580 energy damage."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "Activate Frenzy for 30 seconds.",
+                        "Inflict 7 Random Carnage Bomb Debuffs with 50% increased Duration."
+                    ]
+                }
+            }
         }
     }
 }

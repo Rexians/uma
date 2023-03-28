@@ -1299,6 +1299,67 @@
                     "7.3.3"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13063,
+            "hp": 53576,
+            "attack": 3927,
+            "crit_rate": 673,
+            "crit_dmge": 791,
+            "armor": 563,
+            "block_prof": 7224,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "An excellent leader, Captain America learns from his teammates gaining a unique effect, while Kinetically Charged, for each class represented on his team, excluding himself.",
+                "Mutant: 40.1 to 100% chance on triggering a Special Attack to gain +1 Kinetic Potential.",
+                "Skill: 40.1 to 100% chance whenever a Debuff is gained, Consume 1 Kinetic Potential to Purify it.",
+                "Science: 40.1 to 100% chance on a Well-Timed Block to place a 10% Weakness Debuff on the Opponent for 10 seconds.",
+                "Mystic: 40.1 to 100% chance to gain 1 Kinetic Potential each time a Buff Expires or is Nullified on the Opponent.",
+                "Cosmic: 40.1 to 100% chance on a Well Timed Block to place an Armor Break Debuff on the Opponent, reducing their Armor by 250 for 10 seconds.",
+                "Tech: 40.1 to 100% chance on a Well Timed Block to place a 25% Petrify Debuff on the Opponent for 10 seconds."
+            ],
+            "url_page": "https://auntm.ai/champions/captainamerica_movie/tier/6",
+            "champid": "captainamerica_movie+6+5",
+            "abilities": {
+                "abilities": {
+                    "KINETIC POTENTIAL - PASSIVE": [
+                        "Captain America\u2019s vibranium vambraces can store up to 5 Kinetic Potential charges. He will not generate any new Kinetic Potential while at this limit.",
+                        "15% Chance when Struck to gain 1 Kinetic Potential(s).",
+                        "50% Chance when Blocking to gain +1 Kinetic Potential. This chance increases to 100% on a Well Timed Block.",
+                        "100% Chance when Stunned to gain +1 Kinetic Potential.",
+                        "Kinetic Potential falls off over time, falling off faster the longer its been since it last increased."
+                    ],
+                    "KINETICALLY CHARGED - PASSIVE": [
+                        "As long as Cap has at least 1 Kinetic Potential, he is considered to be Kinetically Charged, and gains the following bonuses as Passive effects:",
+                        "+1963.5 Attack",
+                        "+750 Physical Resistance",
+                        "+750 Energy Resistance",
+                        "100% chance to Nullify all Unstoppable Buffs when striking the Opponent.",
+                        "+30% chance to cause Opponent\u2019s attacks to Glance. This chance increases by 100% against Mystic Champions."
+                    ],
+                    "WHEN CHARGING A HEAVY ATTACK": [
+                        "Beginning to charge a Heavy Attack grants a Passive Fury granting +1963.5 Attack per Kinetic Potential, lasting for 5 seconds."
+                    ],
+                    "SPECIAL ATTACKS": [
+                        "After any special Attack, Cap consumes all Kinetic Potential."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "100% chance to inflict Bleed, dealing 981.75 Direct Damage over 3.50 seconds.",
+                        "Reduces Opponent\u2019s Defensive Ability Accuracy by 100% if Kinetically Charged."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "100% chance to Stun for 1 second(s).",
+                        "Each Kinetic Potential charge grants +1963.5 Attack and +0.50 second(s) Stun Duration."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "If Kinetically Charged gain +3927 Attack for each different Class on Cap\u2019s team, not including himself, up to 2 Classes.",
+                        "Gain 1 Non-Consumable Kinetic Potential charge which lasts 30 seconds."
+                    ]
+                }
+            }
         }
     }
 }

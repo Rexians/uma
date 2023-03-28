@@ -1170,6 +1170,61 @@
                     "7.4.4"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 12978,
+            "hp": 48374,
+            "attack": 4158,
+            "crit_rate": 965,
+            "crit_dmge": 965,
+            "armor": 563,
+            "block_prof": 3238,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Increase the potency of Sabotage Debuffs, increasing Direct damage done when abilities fail to trigger by 50 to 120%.",
+                "Increase the duration of Sabotage Debuffs by 20 to 80%.",
+                "Landing hits while Widow\u2019s Insight is active pauses Sabotage Debuffs for 0.50 seconds."
+            ],
+            "url_page": "https://auntm.ai/champions/blackwidow_movie/tier/6",
+            "champid": "blackwidow_movie+6+5",
+            "abilities": {
+                "abilities": {
+                    "PASSIVE": [
+                        "Baton Hits deal Energy Damage instead of Physical and have a 40% chance to inflict a Shock Debuff dealing 3118.5 Energy Damage for 3.65 seconds."
+                    ],
+                    "WIDOW'S INSIGHT - MAX 50 STACKS:": [
+                        "Black Widow\u2019s covert assassin training kicks in whenever the perfect opportunity to strike presents itself. Gain Widow\u2019s Insight for 0.85 seconds whenever the Opponent is dashing forward or recovering from a Heavy, Special, or Combo ending Attack.",
+                        "This ability refreshes its duration when successfully landing hits.",
+                        "Widow\u2019s Insight is not affected by Ability Accuracy."
+                    ],
+                    "WHILE WIDOW'S INSIGHT IS ACTIVE": [
+                        "Light Hits: Increase Shock Ability Accuracy by a flat 60%.",
+                        "Medium Hits: Reduce Defensive Ability Accuracy by 70%.",
+                        "Heavy Hits: 100% chance to inflict a Stun Debuff for 1.75 seconds.",
+                        "Ending a Combo has 100% chance to grant a Precision Buff increasing Critical Rating by 306.82 for 24 seconds. Max 8 Stacks."
+                    ],
+                    "COUNTER-ATTACK EVADE": [
+                        "When caused to Miss, gain a Passive Evade granting 100% Chance to Evade the next Basic Attack for 8 seconds. After triggering an Evade this effect is removed. Evade does not trigger while holding block.",
+                        "When triggering an Evade, Black Widow Counter-Attacks with a Flashbang. This attack cannot Miss and does not generate Power.",
+                        "When triggering an Evade through any of Black Widows personal Evade abilities, inflict a Sabotage Debuff reducing Defensive Ability Accuracy by 20% for 6 seconds. Sabotage deals 83.16 Direct Damage whenever an Opponent's Defensive Abilities fail to trigger. This Defensive Ability Accuracy reduction does not stack with other Sabotage effects."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "The last hit inflicts a Shock Debuff dealing 4158 Energy Damage over 13 seconds.",
+                        "At the end of this Special Attack gain a Passive Evade granting 100% chance to Evade any Basic Attack for 6 seconds. After triggering this Evade the effect is removed. Evade will not trigger while Blocking."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "Inflict an instant Shock, dealing 7900.2 Energy Damage when striking Shocked Opponents.",
+                        "If Widow\u2019s Insight is active: All hits reduce Defensive Ability Accuracy by 70%."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "Inflict a Sabotage Debuff reducing Defensive Ability Accuracy by 20% for 16 seconds and dealing 83.16 Direct damage when the Opponent's Defensive Abilities fails to trigger. This Defensive Ability Accuracy reduction does not stack with other Sabotage effects.",
+                        "For every 5 stacks of Widows Insight gained since last activating this Special Attack, create a Passive Cruelty increasing Critical Damage Rating by 460.84 for 30 seconds. Widow's Insight is reset to 0 after launching this Special Attack."
+                    ]
+                }
+            }
         }
     }
 }

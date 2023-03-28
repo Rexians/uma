@@ -1129,6 +1129,59 @@
                     "7.4.6"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13043,
+            "hp": 61898,
+            "attack": 4234,
+            "crit_rate": 429,
+            "crit_dmge": 563,
+            "armor": 367,
+            "block_prof": 4782,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Each time Mister Sinister defeats an opponent, he extracts their genetic code, gaining a different Passive ability for the rest of the quest depending on the defeated Champion\u2019s Class. [Max 3 of each Passive, 10 Passives total.]",
+                "Mutant: Prowess, increasing Special Attack Damage by 10 to 30%.",
+                "Skill: Precision, increasing Critical Rating by 118.43 to 562.54.",
+                "Science: Regen Rate, increasing Regeneration Rate by 5 to 20%.",
+                "Mystic: Combat Power Rate, increasing Power Rate by 5 to 20%.",
+                "Cosmic: Fury, increasing Attack Rating by 423.38 to 1270.24."
+            ],
+            "url_page": "https://auntm.ai/champions/mistersinister/tier/6",
+            "champid": "mistersinister+6+5",
+            "abilities": {
+                "abilities": {
+                    "PASSIVE": [
+                        "Mister Sinister\u2019s Telepathic Mastery renders him Immune to Taunt and Reversed Controls.",
+                        "Mister Sinister\u2019s Telekinetic Powers allow him to Block Unblockable Special Attacks."
+                    ],
+                    "MOLECULAR REGENERATION - PASSIVE": [
+                        "Mister Sinister's Regeneration Rate cannot be lowered below 0%.",
+                        "100% chance to Regenerate 70% of damage dealt by enemy Critical Hits over 0.40 seconds. Abilities cannot modify the Ability Accuracy, Duration, or Potency of this ability, aside from effects that would modify Mister Sinister's Regeneration Rate.",
+                        "Regeneration Rate is increased by 1% for every hit on the opponent\u2019s Combo Meter up to 50 hits."
+                    ],
+                    "WHEN CHARGING A HEAVY ATTACK": [
+                        "Pauses the duration of Damaging Debuffs, Stun, Concussion, and Power Leech on the opponent.",
+                        "Charging a Heavy Attack for 1 second grants a Precision Buff, increasing Critical Rating by 964.29 for 6.20 seconds. This Precision provides 964.29 additional Critical Rating for each Debuff on the opponent.",
+                        "Charging the Heavy Attack for an additional 1 second grants a Cruelty Buff, increasing Critical Damage Rating by 143.62 for 4.90 seconds. This Cruelty provides 143.62 additional Critical Damage Rating for each Debuff on the opponent."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "100% chance to Transfer all Damaging Debuffs to the opponent for 4 seconds. This ability activates even if this attack is Blocked or avoided.",
+                        "100% chance to cause Degeneration, inflicting 3387.2 Direct Damage over 4 seconds."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 6 seconds. This ability activates even if this attack is Blocked or avoided.",
+                        "100% chance to Stun for 2.50 second(s)."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "100% chance to inflict Concussion, reducing the opponent\u2019s Ability Accuracy by 100% for 12 seconds.",
+                        "100% chance of applying Power Leech to the target stealing 20% of Max Power over 3 seconds."
+                    ]
+                }
+            }
         }
     }
 }

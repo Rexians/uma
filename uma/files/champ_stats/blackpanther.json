@@ -3,7 +3,12 @@
     "class": "Skill",
     "img_portrait": "https://api.rexians.tk/assets/portraits/blackpanther.png",
     "contact": "PHYSICAL",
-    "tags": ["Hero", "Illuminati", "Avengers", "Size: M"],
+    "tags": [
+        "Hero",
+        "Illuminati",
+        "Avengers",
+        "Size: M"
+    ],
     "released": "12/10/2014",
     "champid": "blackpanther",
     "data": {
@@ -1195,7 +1200,9 @@
             "energy_resist": 0,
             "physical_resist": 0,
             "crit_resist": 0,
-            "sig_info": [null],
+            "sig_info": [
+                null
+            ],
             "url_page": "https://auntm.ai/champions/blackpanther/tier/1",
             "champid": "blackpanther+1+1",
             "challenger_rating": 10,
@@ -1244,7 +1251,9 @@
             "energy_resist": 0,
             "physical_resist": 0,
             "crit_resist": 0,
-            "sig_info": [null],
+            "sig_info": [
+                null
+            ],
             "url_page": "https://auntm.ai/champions/blackpanther/tier/1",
             "champid": "blackpanther+1+2",
             "challenger_rating": 20,
@@ -1283,9 +1292,15 @@
         },
         "find": {
             "story_quests": {
-                "act_1": ["1.1.1"],
-                "act_2": ["2.1.2"],
-                "act_3": ["3.1.1"],
+                "act_1": [
+                    "1.1.1"
+                ],
+                "act_2": [
+                    "2.1.2"
+                ],
+                "act_3": [
+                    "3.1.1"
+                ],
                 "act_4": [
                     "4.1.1",
                     "4.1.2",
@@ -1311,9 +1326,83 @@
                     "4.4.4",
                     "4.4.5"
                 ],
-                "act_5": ["5.1.5", "5.2.1", "5.2.5", "5.3.5", "5.3.6", "5.4.2"],
-                "act_6": ["6.1.2", "6.1.4", "6.2.4", "6.3.6", "6.4.2"],
-                "act_7": ["7.1.2", "7.3.3", "7.3.5"]
+                "act_5": [
+                    "5.1.5",
+                    "5.2.1",
+                    "5.2.5",
+                    "5.3.5",
+                    "5.3.6",
+                    "5.4.2"
+                ],
+                "act_6": [
+                    "6.1.2",
+                    "6.1.4",
+                    "6.2.4",
+                    "6.3.6",
+                    "6.4.2"
+                ],
+                "act_7": [
+                    "7.1.2",
+                    "7.3.3",
+                    "7.3.5"
+                ]
+            }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13476,
+            "hp": 53576,
+            "attack": 3927,
+            "crit_rate": 673,
+            "crit_dmge": 791,
+            "armor": 563,
+            "block_prof": 4000,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Intercepting the Opponent has a 100% Chance to Purify one of each Debuff from Black Panther. Cooldown 14.18 to 1.04 seconds.",
+                "Each Bleed Debuff on the Opponent decreases their Defensive Ability Accuracy by 2.5 to 10.05%. Max 5 Bleeds."
+            ],
+            "url_page": "https://auntm.ai/champions/blackpanther/tier/6",
+            "champid": "blackpanther+6+5",
+            "abilities": {
+                "abilities": {
+                    "CRITICAL HITS": [
+                        "100% chance to inflict Bleed, dealing 1767.15 Direct Damage over 6 seconds."
+                    ],
+                    "ALL ATTACKS": [
+                        "100% Chance to gain a Cruelty Passive granting +169.35 Critical Damage Rating for 1.25 second(s). These Cruelty Passives fall off one at a time. Max Stacks: 15",
+                        "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack grants an additional Cruelty Passive.",
+                        "When striking into an Auto-Block, Panther is Immune to Stun."
+                    ],
+                    "PANTHER'S MIGHT - INACTIVE CHARGES": [
+                        "Dashing back after a non-combo ending attack will grant 1 Indefinite Inactive Panther's Might Charge. Max: 5 Charges",
+                        "Inactive Panthers Might Charges cannot be gained while Panther's Might is Active."
+                    ],
+                    "PANTHER'S MIGHT": [
+                        "Landing a Heavy Attack while at 3 or more inactive charges grants Panther\u2019s Might for 3 seconds per charge consumed.",
+                        "Intercepting the Opponent or striking them while they are recovering from a Heavy or Special Attack pauses Panther's Might for 5 seconds.",
+                        "Upon Activation: Gain 1 Precision Passive for each Personal Cruelty Passive active, each increasing Critical Rating by +106.02.",
+                        "Pause all Personal Cruelty Passives.",
+                        "While Active:",
+                        "Bleed Debuffs gain +8% Duration per Personal Cruelty Active on Black Panther.",
+                        "Champion Attacks reduce the Opponents Defensive Ability Accuracy by 50%."
+                    ],
+                    "SPECIAL ATTACKS 1 AND 2": [
+                        "Intercepting the opponent: Each hit of this Attack is a Guaranteed Critical Hit and apply an additional Bleed Debuff."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "Gain 3 Inactive Panther's Might charges. Then consume all charges and enter Panther's Might for 5 seconds per charge consumed."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "This Attack gains +196.35 Attack Rating for each Personal Cruelty Passive Active on Black Panther."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "Inflict up to 5 Bleed Debuffs, with each having a 100% Chance to Apply, and dealing 1374.45 Direct Damage over 15 seconds.",
+                        "Refresh the Duration of Panther's Might."
+                    ]
+                }
             }
         }
     }

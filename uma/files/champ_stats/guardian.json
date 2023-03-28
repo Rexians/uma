@@ -1297,6 +1297,67 @@
                     "7.4.6"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13327,
+            "hp": 50975,
+            "attack": 3927,
+            "crit_rate": 673,
+            "crit_dmge": 791,
+            "armor": 398,
+            "block_prof": 4000,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "While Guardian has an Armor Up effect, gain the following effects:",
+                "+572.98 to 2746.56 Block Proficiency",
+                "+768.8 to 8991.54 Energy Resistance.",
+                "+25.47 to 79.98% Bleed Resistance",
+                "+71.62 to 336.44 Critical Damage Resistance"
+            ],
+            "url_page": "https://auntm.ai/champions/guardian/tier/6",
+            "champid": "guardian+6+5",
+            "abilities": {
+                "abilities": {
+                    "PASSIVE": [
+                        "Guardian can't land Critical Hits naturally, however every time he would have landed a Critical Hit, he inflicts an instant Shock dealing Energy Damage. This ability scales with Critical Damage Rating.",
+                        "Guardian can trigger the Parry Mastery against non-contact attacks.",
+                        "While all of Guardian\u2019s Abilities are below 100% Ability Accuracy for 3+ second(s), he inflicts a Shock Debuff, dealing 589.05 Energy Damage per second until restored. This ability scales with Base Attack only and cannot be affected by Ability Accuracy. Max 1 stack."
+                    ],
+                    "ARMOR UP": [
+                        "Start each fight with an indefinite Armor Up Buff, increasing Armor Rating by 2250.",
+                        "If this Buff is removed for any reason, it will return after 14 second(s).",
+                        "While Guardian has an Armor Up, Well-Timed Blocks against Special Attacks grant 100% Perfect Block Chance over 0.50 second(s). Each Perfect Block grants 10% of a bar of Power."
+                    ],
+                    "FORCE FIELD": [
+                        "Force Field Charges last indefinitely, up to 3 Charges. Any additional Force Field Charges last for 22 seconds.",
+                        "Gain 1 Force Field Charge every 12 seconds.",
+                        "While Guardian has an Armor Up, gain a +15% chance per Force Field Charge to Auto-Block the Opponent's Special Attack. Gain a +15% chance against Mutants. This Auto-Block can reach a 75% chance max and is considered a Well-Timed Block.",
+                        "Consume 1 Force Field Charge(s) to Block Unblockable Special Attacks against Mutants."
+                    ],
+                    "ON FOURTH LIGHT ATTACK": [
+                        "Consume 2 Force Field Charge(s), inflicting a Power Drain removing 20% of the Opponent\u2019s current Power."
+                    ],
+                    "HEAVY ATTACKS": [
+                        "The first hit consumes 1 Force Field Charge(s) to gain an Armor Up Buff, increasing Armor Rating by 2250 for 15 second(s)."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "After activation, gain 3 Force Field Charge(s).",
+                        "The last hit inflicts a Taunt Debuff for 6 seconds."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "The first hit consumes all Force Field Charges, increasing Attack Rating by 4908.75 for each Force Field Charge for the duration of the Special Attack.",
+                        "If Guardian has 3+ Force Field Charges consume 1 Armor Up Buff, inflicting a Shock Debuff, dealing 9817.5 Energy Damage over 3 second(s).",
+                        "This attack cannot be Evaded by Mutant Champions."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "On activation, gain 6 indefinite Force Field Charge(s).",
+                        "Inflict a Shock Debuff, dealing 5890.5 Energy Damage over 20 second(s)."
+                    ]
+                }
+            }
         }
     }
 }

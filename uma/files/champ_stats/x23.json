@@ -847,6 +847,45 @@
                     "7.3.1"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 11856,
+            "hp": 41612,
+            "attack": 3811,
+            "crit_rate": 791,
+            "crit_dmge": 965,
+            "armor": 563,
+            "block_prof": 3238,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Anytime the opponent has 3 or more Bleed stacks or Wolverine has 3 or more Cruelty stacks, her assassin training kicks in, telling her to finish them off, increasing Critical Rating and Critical Damage Rating by 93.75 to 451.6."
+            ],
+            "url_page": "https://auntm.ai/champions/x23/tier/6",
+            "champid": "x23+6+5",
+            "abilities": {
+                "abilities": {
+                    "WHEN ATTACKED": [
+                        "15% chance to gain a non-stacking Regeneration Buff, restoring up to 3745.08 Health over 4 seconds based on stored Power."
+                    ],
+                    "ALL ATTACKS": [
+                        "15% chance to gain a non-stacking Regeneration Buff, restoring up to 3745.08 Health over 4 seconds based on stored Power.",
+                        "156.42 increased Critical Hit Rating against Bleeding targets, or while under the effect of a Cruelty Buff."
+                    ],
+                    "CRITICAL HITS": [
+                        "Critical Hits lacerate opponents with a 80% chance to inflict a Bleed Debuff, dealing 4382.65 damage over 5 seconds.",
+                        "Against Naturally Bleed Immune Champions: Wolverine changes her fighting style, gaining Cruelty Buffs in place of her Bleed effects, increasing Critical Damage Rating by 164.16 for 7.75seconds."
+                    ],
+                    "HEAVY ATTACKS": [
+                        "Strikes multiple times. Each hit has an additional 195.65 Critical Rating."
+                    ],
+                    "SPECIAL ATTACKS": [
+                        "Any Bleed or Cruelty effect triggered lasts 27% longer than normal and has 27% increased Potency."
+                    ]
+                }
+            }
         }
     }
 }

@@ -1234,6 +1234,64 @@
                     "7.3.3"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13225,
+            "hp": 55136,
+            "attack": 4196,
+            "crit_rate": 367,
+            "crit_dmge": 563,
+            "armor": 673,
+            "block_prof": 2864,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Once this ability finishes, it goes into cooldown and cannot be reactivated for 20 seconds.",
+                "Unbreakable Spirit will also trigger when Thing is Stunned.",
+                "Unbreakable Spirit will also trigger when the Opponent would deal 300% or more of their Attack Rating with a Basic Attack, or 300% or more of their Attack Rating with a Special Attack Hit. This trigger ignores the ability cooldown.",
+                "Thing activates Protection for the next 5 second(s), reducing all damage by 20 to 80%, plus +1% for each Rock Stack."
+            ],
+            "url_page": "https://auntm.ai/champions/thing/tier/6",
+            "champid": "thing+6+5",
+            "abilities": {
+                "abilities": {
+                    "PASSIVE": [
+                        "Immune to Bleed, Shock, Armor Break, Armor Shattered, Nullify, Stagger, and Fate Seal effects.",
+                        "Generate 1 Rock Stack when Struck.",
+                        "Generate 1 Rock Stack when Blocking a Hit.",
+                        "Generate 4 additional Rock Stacks with a Well-Timed Block.",
+                        "Thing removes 3 Rock Stack(s) when he would receive a Bleed. This can't occur more than once every 2 second(s)."
+                    ],
+                    "PASSIVE - ROCK STACK": [
+                        "Rock Stacks last indefinitely, up to 15 Stacks. Any additional Rock Stacks last for 5 seconds. Rock Stacks are capped at 20.",
+                        "For each Rock Stack, Physical and Energy Resistance is increased by +143.62.",
+                        "Whenever a Rock Stack is removed or the duration expires, Thing gains a permanent Passive Fury, granting +125.88 Attack. These Fury effects are capped at 60."
+                    ],
+                    "WHEN ATTACKED": [
+                        "When Thing is Hit and he has 15 or more Rock Stacks, he becomes Unstoppable for 5 second(s) and removes 3 Rock Stack(s) instead of generating any."
+                    ],
+                    "SPECIAL ATTACKS": [
+                        "For the next 8 second(s), Thing's attacks Nullify all Unstoppable buffs when striking the Opponent."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "For each Rock Stack, Damage increased by +209.8.",
+                        "If Thing has 15 or more Rock Stacks, he removes all Rock Stacks and this attack is Unblockable.",
+                        "If Thing has 20 Rock Stacks, inflict Weakness decreasing the Opponent's Attack by 70% for 6 second(s)."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "Stagger the opponent, preventing them from gaining their next Buff for 6 seconds.",
+                        "If Thing has 15 or more Rock Stacks, he removes all Rock Stacks and this attack is Unblockable.",
+                        "If Thing has 20 Rock Stacks, Stun the Opponent for 4.50 second(s)."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "Thing is Unblockable and Unstoppable for 8 second(s).",
+                        "If Thing has 15 or more Rock Stacks, he removes all Rock Stacks and he gains a Passive Fury for 8 second(s), increasing his Attack by +1678.4.",
+                        "If Thing has 20 Rock Stacks, his Furies from removing Rock Stacks and from this attack are +100% stronger for 8 second(s)."
+                    ]
+                }
+            }
         }
     }
 }

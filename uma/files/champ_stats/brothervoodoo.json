@@ -937,6 +937,50 @@
                     "7.4.3"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 12960,
+            "hp": 49674,
+            "attack": 3927,
+            "crit_rate": 673,
+            "crit_dmge": 791,
+            "armor": 563,
+            "block_prof": 4000,
+            "energy_resist": 0,
+            "physical_resist": -397,
+            "crit_resist": 0,
+            "sig_info": [
+                "Brother Daniel will possess either Doctor Voodoo or his opponent moving between them based on Doctor Voodoo's combo meter when he uses a Special Attack.",
+                "Combo Even: Doctor Voodoo is possessed gaining 100% increased Ability Accuracy and 66.5 to 125.02% increased Buff Duration. Odd Combo: Opponent is possessed gaining 50% decreased Ability Accuracy and 66.5 to 125.02% increased Debuff Duration."
+            ],
+            "url_page": "https://auntm.ai/champions/brothervoodoo/tier/6",
+            "champid": "brothervoodoo+6+5",
+            "abilities": {
+                "abilities": {
+                    "PASSIVE": [
+                        "Increase Energy Resistance by 2250 while Blocking."
+                    ],
+                    "FIGHT START": [
+                        "100% chance to Regenerate 5960.88 health over 10 seconds."
+                    ],
+                    "ALL ATTACKS": [
+                        "All Attacks have a 10% chance to place a Loa on their opponent, that lasts until removed by another effect. A Loa is a buff with no effects."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "50% chance to Envenom each of the opponent\u2019s Buffs, Nullifying it, and applying a Poison dealing 9817.5 Direct Damage over 20 seconds."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "50% chance to convert up to 3 Loa, Nullifying them and placing either a Buff on himself or a Debuff on the Opponent, based on current Combo Meter.",
+                        "Even Combo: All of Voodoo's attacks gain a 50% chance to burn 2.5% of his opponent's Power, Converting 525% of Power burnt into Energy Damage, lasting 15 seconds.",
+                        "Odd Combo: Target leaks 35% of their power, over 10 seconds."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "100% chance of applying Power Leech to the target stealing 45% of Max Power over 20 seconds.",
+                        "When the Power Leech ends for any reason, Doctor Voodoo gains an equivalent Power Gain Buff."
+                    ]
+                }
+            }
         }
     }
 }

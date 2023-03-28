@@ -1212,6 +1212,63 @@
                     "7.4.3"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13262,
+            "hp": 49414,
+            "attack": 4042,
+            "crit_rate": 673,
+            "crit_dmge": 791,
+            "armor": 563,
+            "block_prof": 5250,
+            "energy_resist": 563,
+            "physical_resist": -118,
+            "crit_resist": 0,
+            "sig_info": [
+                "When the Opponent Misses an attack they are inflicted with a Degeneration Passive, dealing 677.75 to 1616.82 damage over 1 seconds.",
+                "While the Opponent is suffering from a Falter Debuff their Auto-Block Ability Accuracy is reduced by 100% and Ebony Maw gains 9.76 to 40% Ability Power Rate."
+            ],
+            "url_page": "https://auntm.ai/champions/ebonymaw/tier/6",
+            "champid": "ebonymaw+6+5",
+            "abilities": {
+                "abilities": {
+                    "ALWAYS ACTIVE": [
+                        "Ebony Maw\u2019s first Light Attack and Heavy Attack are the only Basic hits to make contact with the Opponent.",
+                        "If the Opponent doesn\u2019t have Class Advantage, Ebony Maw causes all guaranteed Critical Hits to Miss."
+                    ],
+                    "MISSIONS FROM THANOS": [
+                        "Ebony Maw has 3 missions to complete. Each mission can only be completed once per fight and when successful will inflict a Passive Degeneration, dealing 12934.4 Direct Damage over 4 seconds, this scales with Base Attack only.",
+                        "Mission 1: Mastermind: Nullify a Buff from the Opponent.",
+                        "Mission 2: Manipulator: Inflict a Power Steal effect.",
+                        "Mission 3 Unwavering: Cause the Opponent to Miss.",
+                        "Completing all 3 missions in a single fight grants 1 Persistent Charge, each increasing the duration of Degeneration effects by 10% and reducing the potency of the Opponent\u2019s Fury effects by 25% for the rest of the quest. Persistent Charges stack up to a max of 4."
+                    ],
+                    "HEAVY ATTACKS": [
+                        "Landing a Heavy Attack steals all the Opponent\u2019s Power Gain Buffs and 10% of their current Power."
+                    ],
+                    "PERSUASIVE VOICE": [
+                        "Become Focused after 7 seconds, this time is doubled while suffering from a non-damaging Debuff. While Ebony Maw is Focusing, the Opponent\u2019s Ability Power Rate is reduced by 60%.",
+                        "If knocked down by a Heavy Attack or Special Attack 3, Focus is broken and re-focusing begins after 1 second(s).",
+                        "Once focused, the Opponent gains 1 Persuasion every 0.60 seconds.",
+                        "Every 20th Persuasion the Opponent gains inflicts a Falter Debuff, giving them a 100% chance to Miss for 3 seconds. This duration is increased to 4 seconds against Cosmic Opponents.",
+                        "At 100 Persuasion the Opponent is inflicted with Black Tongue for the rest of the fight, reducing their Power Gained from all sources by 40% and increasing Ebony Maw\u2019s Attack Rating by +1616.8.",
+                        "When Black Tongue is active, inflict the above Falter every 15 seconds."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "When activated and with each hit, Ebony Maw Nullifies 1 Fury, Cruelty, or Precision Buff from his Opponent. This expands to all Buffs if the Opponent is inflicted with Black Tongue.",
+                        "If no Buffs were Nullified during this attack, the Opponent gains a Fury Buff increasing their Attack Rating by 0 for 10 seconds."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "Each hit inflicts a Passive Degeneration, dealing 5214.18 Direct Damage over 4 seconds. If the Opponent is suffering from a Falter effect, each hit inflicts 2 additional Degenerations.",
+                        "The final hit refreshes any active Falter Debuffs."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "This attack grants no Power to the Opponent.",
+                        "Steal 100% of the Opponent\u2019s Power and gain a Power Gain Buff, granting 40% of the Power stolen over 5 seconds."
+                    ]
+                }
+            }
         }
     }
 }

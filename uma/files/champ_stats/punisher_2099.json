@@ -1016,6 +1016,55 @@
                     "7.4.4"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 12980,
+            "hp": 50975,
+            "attack": 4158,
+            "crit_rate": 599,
+            "crit_dmge": 711,
+            "armor": 920,
+            "block_prof": 4782,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "A last-minute upgrade to the Punisher\u2019s arsenal allows him to begin each fight with an additional 25% charge in his Nano-Tech Battery and also gains a new Nano-Tech Automatic Effect.",
+                "Opponent hits 3 Bars of Power - 40% of the Battery is drained to drain 0.6 Bars of Power and inflict a Power Lock Debuff for 2.91 to 10 seconds."
+            ],
+            "url_page": "https://auntm.ai/champions/punisher_2099/tier/6",
+            "champid": "punisher_2099+6+5",
+            "abilities": {
+                "abilities": {
+                    "NANO-TECH - CHARGING": [
+                        "The Nano-Tech Battery begins the fight with 40% of max charge.",
+                        "Every 3.50 seconds, the Battery triggers a recharge.",
+                        "If the opponent has 0 Buffs, the Battery recharges 9%.",
+                        "If the opponent has 1 Buff, the Battery recharges 7%.",
+                        "If the opponent has 2 or more Buffs, the Battery recharges 4%."
+                    ],
+                    "NANO-TECH - AUTOMATIC EFFECTS": [
+                        "Opponent activates a Regeneration Buff - 15% of the Battery is drained to infect the opponent with nano-inhibitors and Heal Block them for 10 seconds. This Debuff automatically reapplies itself if a Regeneration Buff is still active when it expires.",
+                        "Punisher drops below 15% Health - the Battery is drained entirely to grant a Regeneration Buff lasting 10 seconds and healing up to 17841.25 Health based on how full the Battery was.",
+                        "Punisher lands a Heavy Attack - 10% of the Battery is drained to inflict a 1.50 second Stun Debuff."
+                    ],
+                    "NANO-TECH - OVERDRIVE": [
+                        "When the Battery hits 100%, it immediately goes into Overdrive and continually drains. It also cannot recharge until it is drained entirely and switches back to recharge mode.",
+                        "While in Overdrive: Punisher gains +6237 Attack Rating and his attacks cause his opponent to gain 90% less Power."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "The Punisher momentarily switches his battery into Overcharge mode, gaining 20% charge over 10 seconds."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "15% of the Battery is drained to activate Auto-Targeting. Auto-Target attacks cannot trigger a Passive Evade and gain 1500 additional Critical Rating.",
+                        "Grenade Launcher: 100% chance to inflict a stacking Armor Break Debuff removing an Armor Up and reducing Armor Rating by 3375 for 15 seconds. If the Battery has at least 10% charge, it expends that amount to double the duration of this Armor Break."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "40% of the Battery is drained to inflict a Disintegration Debuff, causing 9147.6 Direct Damage over 20 seconds. While this Debuff is active, the opponent's Combat Power Rate is reduced by 90%."
+                    ]
+                }
+            }
         }
     }
 }

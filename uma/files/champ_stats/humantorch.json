@@ -1618,6 +1618,83 @@
                     "7.4.5"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13188,
+            "hp": 50975,
+            "attack": 3984,
+            "crit_rate": 673,
+            "crit_dmge": 791,
+            "armor": 563,
+            "block_prof": 4000,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "If Human Torch has 0 Persistent Charges and his Pre-Fight Ability is not active, he has a 10.05 to 20% chance to gain 1 Persistent Charge(s).",
+                "This chance increases by a flat 12.06 to 40% every time the ability fails to activate.",
+                "Duckslug Editorial",
+                "Human Torch must be the hero fighting."
+            ],
+            "url_page": "https://auntm.ai/champions/humantorch/tier/6",
+            "champid": "humantorch+6+5",
+            "abilities": {
+                "abilities": {
+                    "PASSIVE": [
+                        "Immune to Incinerate, Coldsnap and Frostbite.",
+                        "Whenever Human Torch would be Incinerated, he places a Smoulder Passive on himself. Smoulder Passives deal 0 damage and last indefinitely.",
+                        "Basic attacks deal Energy Damage instead of Physical."
+                    ],
+                    "FLAME ON! - PRE-FIGHT ABILITY": [
+                        "Human Torch starts the Quest with 1 Persistent Charge(s).",
+                        "If Human Torch has at least 1 Persistent Charge(s), he can consume them to activate this ability before the Fight.",
+                        "For the entire Fight, all of Human Torch's Incinerates are Nova Flames, last 2 second(s) longer, and deal an additional +75% damage. This ability does not stack."
+                    ],
+                    "TEMPERATURE": [
+                        "While Charging a Heavy Attack, Human Torch increases his Temperature.",
+                        "Temperature decreases constantly over time. Temperature decreases slower for each Incinerate or Smoulder on either Champion.",
+                        "At 10 Temperature, the heat from Human Torch\u2019s attacks is so intense, they cannot Miss.",
+                        "At 20 Temperature, Temperature cannot decrease for 6.50 second(s), then it is set to 18.",
+                        "The duration of all of Human Torch's Incinerate effects increases by up to 4 second(s) depending on his Temperature."
+                    ],
+                    "INCINERATES": [
+                        "Human Torch Incinerates the Opponent with his first and last Light hits, and all his Medium and Heavy hits. These Incinerate Debuffs deal 796.8 damage over 3 seconds.",
+                        "Incinerate removes Perfect Block Chance and reduces Block Proficiency by 50% while it's active.",
+                        "The damage of all of Human Torch's Incinerate effects increases by 12% for each Incinerate or Smoulder on either Champion.",
+                        "For each Incinerate on the Opponent, their Regeneration Rate is reduced by 20%.",
+                        "While Human Torch is Bleeding, the duration of all his Incinerate effects is reduced by 4 second(s)."
+                    ],
+                    "NOVA FORM": [
+                        "When Temperature is at 20 and the Opponent has 7 Incinerate effects, for the next 7 second(s) instead of placing Incinerate Debuffs on the Opponent, Human Torch places Nova Flame Passives instead."
+                    ],
+                    "NOVA FLAME": [
+                        "Nova Flame deals Energy damage over time, removes Perfect Block Chance, reduces Block Proficiency to 0, and inflicts Power Sting.",
+                        "An Opponent with Power Sting takes 2390.4 Direct Damage when activating a Special Attack. Power Sting is removed when Nova Flame expires.",
+                        "All of Human Torch's abilities treat Nova Flames as Incinerates."
+                    ],
+                    "WHEN ATTACKED - CONTACT": [
+                        "0% chance to Incinerate the Opponent for 796.8 damage over 4 seconds. This chance increases by a flat 10% for each Incinerate or Smoulder on either Champion."
+                    ],
+                    "WHEN BLOCKING OR ATTACKED": [
+                        "If the hit dealt Energy Damage, Temperature increases by 5, and Human Torch Smoulders.",
+                        "All Attacks from Mystic Champions are considered as Energy Attacks towards this ability."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "The first hit of this attack increases Temperature by 5, and it cannot decrease for 6.50 second(s).",
+                        "If the last hit is blocked, it places a Smoulder Passive on Human Torch."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "100% chance to Stun for 3 second(s).",
+                        "The last two hits of this Attack each have a 100% chance to Incinerate the Opponent, dealing 1195.2 damage over 5 seconds.",
+                        "If the last two hits are blocked, they each place a Smoulder on Human Torch instead."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "Inflict a Nova Flame, dealing 3984 damage over 5 seconds.",
+                        "Human Torch enters his Nova Form for 7 second(s) and places 2 Smoulder Passives on himself."
+                    ]
+                }
+            }
         }
     }
 }

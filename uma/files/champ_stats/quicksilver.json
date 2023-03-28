@@ -1239,6 +1239,65 @@
                 "act_6": [],
                 "act_7": []
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13764,
+            "hp": 54876,
+            "attack": 4446,
+            "crit_rate": 367,
+            "crit_dmge": 673,
+            "armor": 563,
+            "block_prof": 4000,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "When 60 stacks or more of Whiplash expire at the same time, inflict a Stun Debuff for 5 second(s).",
+                "Terminal Velocity duration increases by 0.11 to 5 second(s), and Wither max Stacks increase by 3.",
+                "While the Opponent is suffering from a personal Stun, their Combat Power Rate is reduced by 6.87 to 50% and striking the Opponent with Light and Medium attacks locks them in place and increases Quicksilver\u2019s Speed."
+            ],
+            "url_page": "https://auntm.ai/champions/quicksilver/tier/6",
+            "champid": "quicksilver+6+5",
+            "abilities": {
+                "abilities": {
+                    "ALWAYS ACTIVE": [
+                        "100% chance to Evade attacks when Dashing or while Stunned. This ability has a 15 second(s) cooldown. Guaranteed Critical Hits ignore this Evade and triggers the cooldown.",
+                        "When Dodging Back, Quicksilver cannot be struck by Attacks. Whenever he successfully dodges an Attack, he inflicts a Wither Debuff of 35% Potency lasting 10 second(s). Max 3. Dexterity Mastery is replaced, but points in it increase the potency by 5% flat.",
+                        "When the Opponent loses a Bar of Power, pause all Trauma and Wither Debuffs for 10 second(s)."
+                    ],
+                    "WHIPLASH": [
+                        "Basic Attacks have a 35% chance to inflict a Whiplash Debuff, dealing 2223 damage after 12 second(s). Dodging an Attack and Second Medium refreshes Whiplash.",
+                        "The Medium, Light, Medium Combo or reaching 50 stacks of Whiplash causes all stacks to expire and burst into damage after 2 second(s). Delay pauses during the Opponent's Specials.",
+                        "When Quicksilver would Evade or when the Opponent Dodges an Attack, 50% chance to inflict a Whiplash Debuff.",
+                        "When the Opponent Well-Timed Blocks, one Whiplash is removed."
+                    ],
+                    "MOMENTUM": [
+                        "Dodging Backwards grants 12 Momentum Charges, and basic hits grant 1 Charge.",
+                        "As a Defender, gain 100 Charges every 15 second(s) unless the Attacker gains 20 Hits in the Combo Meter by the end of this duration.",
+                        "Every 100 Charges reduces Evade cooldown by 1 second(s).",
+                        "At 300 Charges, Quicksilver cannot Miss and inflicts a Slow Debuff.",
+                        "At 600 Charges, he can trigger the Parry Mastery against non-contact Attacks and his Evade Ability Accuracy cannot be reduced.",
+                        "At 900 Charges enter Terminal Velocity Mode, increasing the Dodge invulnerability window by 33.33% and retaining all Momentum abilities for 10 second(s). While active, gaining Charges instead pauses Terminal Velocity for 0.25 second(s)."
+                    ],
+                    "HEAVY ATTACKS": [
+                        "Double Momentum Charges gained for 20 second(s)."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "On activation, gain 150 Momentum Charges.",
+                        "Last hit refreshes all stacks of Wither and Whiplash.",
+                        "Terminal Velocity: Attack Rating is increased by 3334.5 and attacks become Unblockable except against Well-Timed Blocks."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "First hit inflicts a Trauma Debuff for 15 seconds, Trauma causes hits and Whiplashes to deal an additional 70% of the damage recently dealt as burst Physical Damage.",
+                        "Terminal Velocity: Terminal Velocity and Whiplash are paused during this Special and the last hit doubles the amount of Whiplashes on the Opponent."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "Gain 900 Momentum Charges. For every 120 Charges gained above maximum, Terminal Velocity is paused for 1 second, up to a maximum of 15 seconds.",
+                        "Terminal Velocity: Inflict a Stun Debuff for 6 second(s). Whiplash Ability Accuracy is increased by 40% flat and max stacks before it bursts doubles until Terminal Velocity expires."
+                    ]
+                }
+            }
         }
     }
 }

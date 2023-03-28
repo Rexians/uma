@@ -1122,6 +1122,58 @@
                     "7.2.5"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 12523,
+            "hp": 46033,
+            "attack": 3965,
+            "crit_rate": 791,
+            "crit_dmge": 965,
+            "armor": 563,
+            "block_prof": 3238,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Gain up to 964.29 bonus Critical Damage Rating the lower your opponent\u2019s current Power.",
+                "Psylocke\u2019s psionically empowered strikes can disrupt her opponent\u2019s nervous system reducing her opponent\u2019s Defensive Ability Accuracy by 45.15 to 75% when they have 0 Power."
+            ],
+            "url_page": "https://auntm.ai/champions/psylocke/tier/6",
+            "champid": "psylocke+6+5",
+            "abilities": {
+                "abilities": {
+                    "ALL ATTACKS": [
+                        "Gain 25% less Power from striking your opponent."
+                    ],
+                    "PASSIVE": [
+                        "Gain up to 1500 bonus Critical Damage Rating the lower your opponent\u2019s current Power."
+                    ],
+                    "PSI-CHARGE - PASSIVE": [
+                        "Your opponent doesn\u2019t gain Power when struck, if they have 0 Power, and Psylocke has at least 1 Psi-charge.",
+                        "Every 5 hits Psylocke lands on an Opponent with 0 Power, she gains a Psi-Charge.",
+                        "Each time her Opponent fills a bar of Power, Psylocke gains a Psi-charge.",
+                        "Each time Psylocke is struck by an opponent they consume a Psi-Charge instantly gaining up to 50% additional Power, gaining more Power the longer it\u2019s been since they last gained power."
+                    ],
+                    "HEAVY ATTACKS": [
+                        "This attack consumes all Psi-Charges, dealing 2973.75 Energy Damage per charge consumed."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "Depletes up to 25% of the target's max Power.",
+                        "If this attack causes your opponent\u2019s Power to be reduced over a Special Attack bar threshold, Psylocke will Gain Power until she reaches 1 Bar of Power over 0.25 seconds."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "100% chance to Power Lock, severing the target's flow of Power for 6 seconds.",
+                        "If this attack hits, Psylocke has a 100% chance to consume 1 Psi-charge, and gain 34% Power over 0.25 seconds."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "Consumes all Psi-charges",
+                        "100% chance to Power Lock, severing the target's flow of Power for 10 seconds.",
+                        "Burns 20% of your Target\u2019s Power for each Psi-charge consumed. Causing Direct Damage based on the amount Burned.",
+                        "If this attack reduces your opponent to 0 Power, it Stuns them for 5.50 seconds."
+                    ]
+                }
+            }
         }
     }
 }

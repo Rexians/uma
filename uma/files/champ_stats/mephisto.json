@@ -968,6 +968,51 @@
                     "7.4.6"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 13081,
+            "hp": 53055,
+            "attack": 3927,
+            "crit_rate": 673,
+            "crit_dmge": 791,
+            "armor": 563,
+            "block_prof": 4000,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Mephisto is immune to Passive Ability Accuracy Modifications.",
+                "Mephisto burns with anger, having a 6.32 to 18.98% chance to activate his Aura of Incineration for 5 seconds. +120% of the above chance on Well Timed Blocks."
+            ],
+            "url_page": "https://auntm.ai/champions/mephisto/tier/6",
+            "champid": "mephisto+6+5",
+            "abilities": {
+                "abilities": {
+                    "PERSISTENT CHARGE": [
+                        "Mephisto starts a quest with 3 Persistent Soul Charges, gaining an additional charge each time he knocks out an opponent, up to a max of 6 Soul Charges. Persistent Soul Charges travels with him from fight-to-fight.",
+                        "When below 30% Health, each Persistent Soul Charge is consumed, Regenerating 5305.5 Health per charge. Mephisto does not take damage while consuming his Persistent Soul Charges through this ability."
+                    ],
+                    "PASSIVE": [
+                        "Mephisto imprisons the opponent\u2019s Soul at the start of the fight, reducing their chance to activate Buffs by 100% for 15 seconds.",
+                        "Generates 12% of a Power Bar per second instead of taking Incinerate Energy Damage and Immune to Frostbite and Coldsnap.",
+                        "Immune to all known poisons of the Battlerealm."
+                    ],
+                    "AURA OF INCINERATION": [
+                        "When Aura of Incineration is active, Mephisto generates Power through his passive Power Gain. Also, for each stack, nearby opponents take 392.7 Incinerate Energy Damage per second."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "Consumes a Persistent Soul Charge to imprison the opponent\u2019s Soul, reducing their chance to activate Buffs by 100% for 15 seconds.",
+                        "Incinerates the opponent, dealing 2356.2 Energy Damage per stack over 4 seconds. This also removes Perfect Block Chance and reduces Block Proficiency by 50%."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "Activates an Aura of Incineration around himself that lasts for 8 seconds."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "Once a fight, Mephisto instantly drains up to 2 Power Bars from the opponent. If the maximum amount is drained, Mephisto activates his Aura of Incineration for the rest of the fight."
+                    ]
+                }
+            }
         }
     }
 }

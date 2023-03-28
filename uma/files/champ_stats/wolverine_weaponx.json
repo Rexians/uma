@@ -698,6 +698,83 @@
                     "7.1.4"
                 ]
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 12984,
+            "hp": 53576,
+            "attack": 4119,
+            "crit_rate": 673,
+            "crit_dmge": 791,
+            "armor": 0,
+            "block_prof": 4000,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "Berserk Rage\u2019s Cooldown Duration decreases by 2 to 7 second(s).",
+                "Start each Fight with a Regeneration Buff granting up to 4019.62 to 8033.9 Health based on the number of Rage Charges Weapon X ended the last fight with, up to 25."
+            ],
+            "url_page": "https://auntm.ai/champions/wolverine_weaponx/tier/6",
+            "champid": "wolverine_weaponx+6+5",
+            "abilities": {
+                "abilities": {
+                    "PASSIVE": [
+                        "Immune to All types of Regeneration Rate Modification except due to Poison.",
+                        "The Potency of all Bleed Effects is reduced by 50%"
+                    ],
+                    "RAGE - PASSIVE": [
+                        "Weapon X gains a Rage Charge each time he\u2019s Struck, one of his Abilities fails to trigger due to Chance, or a Debuff is Purified off the Opponent.",
+                        "Gaining Rage Charges as well as all of the Berserk Rage Effects are unaffected by Ability Accuracy Reduction.",
+                        "At 25 Rage Charges Weapon X snaps and enters a Berserk Rage lasting until his Rage Counters reach 0.",
+                        "Upon entering Berserk Rage Weapon X goes Unstoppable for 4 seconds.",
+                        "As long as he\u2019s Berserk, and not Unstoppable, Weapon X\u2019s Rage falls off one at a time, falling off faster the longer he\u2019s been Berserk.",
+                        "After Weapon X\u2019s Berserk Rage ends all of its associated effects immediately end, and Weapon X cannot gain Rage Charges for 20 seconds."
+                    ],
+                    "BERSERK RAGE EFFECTS - PASSIVE": [
+                        "Weapon X gains the following bonuses while in Berserk Rage:",
+                        "Gain +4119 Attack.",
+                        "100% Chance when Struck to gain a Regeneration Passive healing 100% of the Hit Damage taken, over 5 seconds.",
+                        "100% Chance when Struck to gain a Fury Passive granting +6178.5 Attack, for 5 seconds. Max: 1 Stack.",
+                        "Immune to All Stun Effects.",
+                        "All Attacks become Unblockable."
+                    ],
+                    "ATTACK MISSED OR EVADED - PASSIVE": [
+                        "Gain +2 Rage Charges.",
+                        "100% chance to go Unstoppable for 1 seconds."
+                    ],
+                    "ALL ATTACKS": [
+                        "50% chance to cause a Bleed Debuff dealing 617.85 Direct Damage over 5 seconds. With 10+ Rage this ability\u2019s chance to trigger increases to 100%."
+                    ],
+                    "WHEN ATTACKED": [
+                        "While not in a Berserk Rage 50% Chance when Struck to gain a Regeneration Passive healing 40% of the Hit Damage taken, over 5 seconds."
+                    ],
+                    "WHEN CHARGING A HEAVY ATTACK": [
+                        "If Weapon X has any Rage Charges he gains a Passive Unstoppable for 1.50 seconds, then going on Cooldown for 10 seconds."
+                    ],
+                    "HEAVY ATTACKS": [
+                        "If below 10 Rage Charges double current Rage Charges.",
+                        "Refresh all Bleed Effects on Opponent."
+                    ],
+                    "SPECIAL ATTACKS": [
+                        "Gain +5 Rage Charges.",
+                        "If at or above 15 Rage Charges, go Berserk."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "While Berserk gain +2059.5 Attack.",
+                        "100% chance to inflict Bleed, dealing 4119 Direct Damage over 5 seconds.",
+                        "If this attack doesn\u2019t Hit gain +5 Rage Charges."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "While Berserk each Hit pauses Rage fall off for 1 second(s).",
+                        "If triggered while not Berserk gain up to +3089.25 Attack based on Rage."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "Gain Rage Charges up to 25 and then go Berserk.",
+                        "100% chance to inflict Bleed, dealing 4119 Direct Damage over 15 seconds."
+                    ]
+                }
+            }
         }
     }
 }

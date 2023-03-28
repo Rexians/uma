@@ -1302,6 +1302,68 @@
                 "act_6": [],
                 "act_7": []
             }
+        },
+        "6+5": {
+            "rank": 5,
+            "prestige": 12437,
+            "hp": 50455,
+            "attack": 3619,
+            "crit_rate": 673,
+            "crit_dmge": 673,
+            "armor": 563,
+            "block_prof": 3447,
+            "energy_resist": 0,
+            "physical_resist": 0,
+            "crit_resist": 0,
+            "sig_info": [
+                "After a Portal Block ends, each hit of Ohnn\u2019s next successful Light, Heavy or Special Attack deals an Instant Rupture dealing 1089.32 to 2533.29 Physical Damage for each Spot gained during that Portal Block.",
+                "While Untouchable, Attacks that strike the opponent while they are performing a Heavy Attack or recovering from a Special Attack grant Ohnn a Fury Passive increasing Attack Rating by 1270.27 to 2352.33 Attack Rating for 7 seconds."
+            ],
+            "url_page": "https://auntm.ai/champions/spot/tier/6",
+            "champid": "spot+6+5",
+            "abilities": {
+                "abilities": {
+                    "WHEN STRUCK - SPOTS - MAX 10": [
+                        "Johnathon Ohnn\u2019s body is covered in portals to the Spotted Dimension, called Spots. Ohnn has a 20% chance when Struck to gain 1 Spot.",
+                        "At 5+ Spots, being Struck by a Basic Attack grants Ohnn a 100% potency Untouchable Passive, causing incoming Attacks to have 100% chance to Miss for 5 seconds, paused during Ohnn's Special Attacks.",
+                        "If Ohnn is struck while recovering from a Special Attack, 1 Spot is removed and cannot gain Spots for 4 seconds."
+                    ],
+                    "WHILE UNTOUCHABLE": [
+                        "Ohnn becomes Stun Immune, cannot gain Spots, and consumes all Spots when Untouchable ends.",
+                        "When an incoming attack would Miss, inflict a Rupture Debuff, dealing 2352.35 Physical Damage over 0.50 seconds.",
+                        "Landing a hit pauses Untouchable for 0.30 seconds and inflicts a non-stacking Infuriate Debuff, making the Opponent more aggressive and reducing their Offensive Ability Accuracy by 60% for 2 seconds.",
+                        "Incoming Attacks from the Opponent and Attacks that make contact with Ohnn inflict a Rupture Debuff, dealing 904.75 Physical Damage over 10 seconds. This ability scales with Base Attack Rating only."
+                    ],
+                    "PORTAL BLOCK - WHILE BLOCKING": [
+                        "When Ohnn holds his block he gains a +9000 Block Proficiency bonus per Spot and then after 0.50 seconds he opens a portal to the Spotted Dimension in front of him. While Ohnn is Defending, Portal Blocks activate immediately. This ability is not affected by Ability Accuracy.",
+                        "Portal Block grants the following effects for 2 seconds:",
+                        "Ohnn is locked in place and gains 1 Spot when the Opponent strikes into the Portal Block. At 10 Spots Ohnn\u2019s Block Proficiency Bonus returns to 0.",
+                        "+20% chance per Spot to resist Heavy Attacks and block Unblockable Attacks.",
+                        "While Ohnn is affected by a Disorient effect, Portal Block does not trigger."
+                    ],
+                    "SPECIAL ATTACKS": [
+                        "After activation, gain 1 Spot per bar of Power spent.",
+                        "At 10 Spots: Ohnn gains Untouchable."
+                    ],
+                    "SPECIAL ATTACK 1": [
+                        "On activation, inflict a Buff Immunity Debuff on Ohnn for 10 seconds. At 10 Spots this lasts 20 seconds.",
+                        "While active, each time Ohnn is immune to a Buff inflict a Rupture Debuff, dealing 904.75 Physical Damage over 10 second(s). This ability scales with Base Attack Rating only."
+                    ],
+                    "SPECIAL ATTACK 2": [
+                        "On activation, if Ohnn is Untouchable, inflict a Physical Vulnerability Debuff, lowering Physical Resistance by 3375 for 10 seconds. At 10 Spots this lasts 20 seconds.",
+                        "Each hit deals a burst of 542.85 Physical Damage for each Rupture Effect inflicted on the Opponent since the start of the fight or Ohnn\u2019s last Special 2 Attack. Max: 50 stacks."
+                    ],
+                    "FOUL PLAY - PRE-FIGHT ABILITY": [
+                        "Ohnn starts each quest with 1 Persistent Charge, which can be spent in the Pre-Fight screen on the Foul Play ability.",
+                        "Gain +1 Persistent Charge each time an Opponent is knocked out. Max charge(s): 3.",
+                        "Foul Play: During the next fight, when the Opponent is knocked down Ohnn\u2019s Science teammate is inflicted with Buff Immune Debuff lasting 3 seconds."
+                    ],
+                    "SPECIAL ATTACK 3": [
+                        "Gain Max Spots.",
+                        "Once per fight if Spot is at 10 Spots increase the duration of all personal Rupture Effects by 100% for the rest of the fight."
+                    ]
+                }
+            }
         }
     }
 }
