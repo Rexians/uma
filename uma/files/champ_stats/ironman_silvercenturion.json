@@ -1334,48 +1334,47 @@
             "url_page": "https://auntm.ai/champions/ironman_silvercenturion/tier/6",
             "champid": "ironman_silvercenturion+6+5",
             "abilities": {
-                "abilities": {
-                    "SILVER CENTURION ARMOR": [
-                        "Start the fight with one indefinite Armor Up Buff, increasing Armor rating by +750. If this Buff is removed for any reason it re-triggers after 10 seconds.",
-                        "While the above Armor Up Buff is active, Silver Centurion becomes immune to Bleed and Shock Effects."
-                    ],
-                    "LOCK-ON": [
-                        "To ready Lock-On Silver Centurion must remain near his Opponent for 12 seconds. As an Attacker, moving away from the Opponent before readying the Lock will cause progress to be lost over time.",
-                        "Once Lock-On is ready it can be activated by throwing any Special Attack and is paused while standing near the Opponent.",
-                        "The active Lock-On lasts 2 second(s), but each full Bar of Power adds 1 second(s) to it's duration. This duration is doubled for Defenders.",
-                        "Lock-On lasts 25% longer against Mutants and 25% shorter against Cosmics.",
-                        "Plasma effects are paused while Locked-On."
-                    ],
-                    "ALL ATTACKS": [
-                        "Whenever Silver Centurion would strike with a Critical Hit he instead inflicts a Shock Debuff that lasts for 3 seconds. The Potency scales with Critical Damage Rating.",
-                        "If Lock-On is not active, inflicting Shock into an Incinerated Opponent or vice-versa will fuse those two effects into a Plasma Debuff that has the properties of both. This Plasma lasts for 12 seconds."
-                    ],
-                    "FINISH A COMBO WITH A LIGHT ATTACK - HEAT PUNCH": [
-                        "While Lock-On is not active, inflict an Incinerate Debuff, dealing 589.05 Energy damage over 12 seconds. This effect also removes Perfect Block Chance and reduces Block Proficiency by 50% while it is active. This hit is a projectile and does not make contact with the Opponent."
-                    ],
-                    "SECOND MEDIUM HIT - PLASMA BLAST": [
-                        "While Locked-On, deal a burst of 1178.1 Energy Damage per stack of Plasma."
-                    ],
-                    "HEAVY ATTACKS": [
-                        "Inflict a non-stacking Slow Debuff for 10 seconds."
-                    ],
-                    "SPECIAL ATTACK 1": [
-                        "On activation if Lock-On is active, it is refreshed.",
-                        "Inflict a Heal Block Debuff, preventing the Opponent from recovering Health for 10 seconds.",
-                        "If the Opponent has an Active Regeneration effect the Heal Block is turned into a Passive and lasts for 15 seconds."
-                    ],
-                    "SPECIAL ATTACK 2": [
-                        "On activation if Locked-On, all Plasma effects are refreshed.",
-                        "While Locked-On if the Opponent has 5 stacks or more of Plasma the last hit deals a burst 3927 Energy Damage for each stack of Plasma. If the Opponent is under 5 stacks of Plasma inflict 3 stacks of Plasma instead.",
-                        "If Lock-On is not active, the last hit inflicts a Plasma Debuff dealing Energy Damage based on the last hit landed over 12 seconds. The potency of this effect increases with Critical Damage Rating."
-                    ],
-                    "SPECIAL ATTACK 3": [
-                        "Activate Lock-On even if the conditions are not met.",
-                        "Inflict a Slow Debuff for 28 seconds.",
-                        "Inflict a Power Drain Debuff that removes 1 Bar of Power plus an additional 25% of a Power Bar for each stack of Plasma over 10 second(s)."
-                    ]
-                }
-            }
+                "SILVER CENTURION ARMOR": [
+                    "Start the fight with one indefinite Armor Up Buff, increasing Armor rating by +750. If this Buff is removed for any reason it re-triggers after 10 seconds.",
+                    "While the above Armor Up Buff is active, Silver Centurion becomes immune to Bleed and Shock Effects."
+                ],
+                "LOCK-ON": [
+                    "To ready Lock-On Silver Centurion must remain near his Opponent for 12 seconds. As an Attacker, moving away from the Opponent before readying the Lock will cause progress to be lost over time.",
+                    "Once Lock-On is ready it can be activated by throwing any Special Attack and is paused while standing near the Opponent.",
+                    "The active Lock-On lasts 2 second(s), but each full Bar of Power adds 1 second(s) to it's duration. This duration is doubled for Defenders.",
+                    "Lock-On lasts 25% longer against Mutants and 25% shorter against Cosmics.",
+                    "Plasma effects are paused while Locked-On."
+                ],
+                "ALL ATTACKS": [
+                    "Whenever Silver Centurion would strike with a Critical Hit he instead inflicts a Shock Debuff that lasts for 3 seconds. The Potency scales with Critical Damage Rating.",
+                    "If Lock-On is not active, inflicting Shock into an Incinerated Opponent or vice-versa will fuse those two effects into a Plasma Debuff that has the properties of both. This Plasma lasts for 12 seconds."
+                ],
+                "FINISH A COMBO WITH A LIGHT ATTACK - HEAT PUNCH": [
+                    "While Lock-On is not active, inflict an Incinerate Debuff, dealing 589.05 Energy damage over 12 seconds. This effect also removes Perfect Block Chance and reduces Block Proficiency by 50% while it is active. This hit is a projectile and does not make contact with the Opponent."
+                ],
+                "SECOND MEDIUM HIT - PLASMA BLAST": [
+                    "While Locked-On, deal a burst of 1178.1 Energy Damage per stack of Plasma."
+                ],
+                "HEAVY ATTACKS": [
+                    "Inflict a non-stacking Slow Debuff for 10 seconds."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "On activation if Lock-On is active, it is refreshed.",
+                    "Inflict a Heal Block Debuff, preventing the Opponent from recovering Health for 10 seconds.",
+                    "If the Opponent has an Active Regeneration effect the Heal Block is turned into a Passive and lasts for 15 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "On activation if Locked-On, all Plasma effects are refreshed.",
+                    "While Locked-On if the Opponent has 5 stacks or more of Plasma the last hit deals a burst 3927 Energy Damage for each stack of Plasma. If the Opponent is under 5 stacks of Plasma inflict 3 stacks of Plasma instead.",
+                    "If Lock-On is not active, the last hit inflicts a Plasma Debuff dealing Energy Damage based on the last hit landed over 12 seconds. The potency of this effect increases with Critical Damage Rating."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Activate Lock-On even if the conditions are not met.",
+                    "Inflict a Slow Debuff for 28 seconds.",
+                    "Inflict a Power Drain Debuff that removes 1 Bar of Power plus an additional 25% of a Power Bar for each stack of Plasma over 10 second(s)."
+                ]
+            },
+            "challenger_rating": 150
         }
     }
 }

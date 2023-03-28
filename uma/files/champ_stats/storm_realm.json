@@ -1228,44 +1228,43 @@
             "url_page": "https://auntm.ai/champions/storm_realm/tier/6",
             "champid": "storm_realm+6+5",
             "abilities": {
-                "abilities": {
-                    "PASSIVE": [
-                        "Storm\u2019s basic attacks deal Energy Damage instead of Physical.",
-                        "Storm has 1500 Energy Resistance.",
-                        "If the Opponent Purifies a Stun Debuff it is replaced with a Passive Stun lasting 2 seconds."
-                    ],
-                    "PRE-FIGHT ABILITY - TEMPESTS": [
-                        "By default, Ice Tempest is selected. If selecting a different Tempest in the Pre-Fight Screen, it becomes the new default. Default Tempests can be switched once per Fight.",
-                        "When Power Locked or Power Drained, Tempests are removed for 8 seconds.",
-                        "Activation of Tempests is unaffected by Ability Accuracy.",
-                        "Ice Tempest: Gain Immunity to Coldsnap and Frostbite, and incoming Basic Attacks have a 60% chance to Glance.",
-                        "Lightning Tempest: Decrease the potency of incoming Shock effects by 100% and each active Prowess adds 2% chance to Stun the Opponent on Hit for 0.90 second(s). Max 16% chance."
-                    ],
-                    "WHEN KNOCKED DOWN": [
-                        "When Knocked Down, if not already active, Storm activates her Alternate Tempest for 12 seconds. Duration is paused during Heavy Attacks and Special Attacks."
-                    ],
-                    "PROWESS - WHEN EITHER CHAMPION FILLS A BAR OF POWER:": [
-                        "Each Tempest generates 1 Prowess, increasing the next Special Attacks damage by 40%. The first 3 Prowess Buffs last indefinitely. Additional Prowess Buffs last 10 seconds. Max 12.",
-                        "If Storm has 6 Prowess effects active during a Special Attack, gain a Passive Unblockable for 1.80 second(s)."
-                    ],
-                    "HEAVY ATTACKS": [
-                        "Charging a Heavy Attack creates a dormant Prowess which charges from 0 to 100%.",
-                        "Launching a Special Attack while charging a Heavy Attack converts this dormant Prowess into a Passive Prowess increasing the Special Attacks damage by up to 100% based on how long the Heavy Attack was charged."
-                    ],
-                    "SPECIAL ATTACK 1": [
-                        "Inflict a Passive Slow for the duration of this Special Attack.",
-                        "Ice Tempest: Each Hit that contacts the Opponent generates 1 Prowess Buff increasing Special Attack damage by 10% for the remainder of this Special Attack. Additionally, the final Hit inflicts a Passive Coldsnap dealing 3326.4 Energy Damage over 14 seconds."
-                    ],
-                    "SPECIAL ATTACK 2": [
-                        "Each hit inflicts a Shock Debuff dealing 3326.4 Energy Damage over 9 second(s). If the Opponent Purifies any of these Shock Debuffs, inflict an instant Shock dealing 3326.4 Energy Damage instead.",
-                        "Lightning Tempest: Shock damage is increased by up to 90% based on the Opponent's current Power. Additionally, each Prowess reduces the Opponent's Defensive Power Rate by 25%. This Ability cannot invert the Opponent's Power Rate."
-                    ],
-                    "SPECIAL ATTACK 3": [
-                        "If both Tempests are already active, Storm increases her Attack Rating by 6237 during this Special Attack.",
-                        "After this Special Attack ends, Storm activates her alternate Tempest for 35 seconds. This duration is paused while charging Heavy Attacks and launching Special Attacks."
-                    ]
-                }
-            }
+                "PASSIVE": [
+                    "Storm\u2019s basic attacks deal Energy Damage instead of Physical.",
+                    "Storm has 1500 Energy Resistance.",
+                    "If the Opponent Purifies a Stun Debuff it is replaced with a Passive Stun lasting 2 seconds."
+                ],
+                "PRE-FIGHT ABILITY - TEMPESTS": [
+                    "By default, Ice Tempest is selected. If selecting a different Tempest in the Pre-Fight Screen, it becomes the new default. Default Tempests can be switched once per Fight.",
+                    "When Power Locked or Power Drained, Tempests are removed for 8 seconds.",
+                    "Activation of Tempests is unaffected by Ability Accuracy.",
+                    "Ice Tempest: Gain Immunity to Coldsnap and Frostbite, and incoming Basic Attacks have a 60% chance to Glance.",
+                    "Lightning Tempest: Decrease the potency of incoming Shock effects by 100% and each active Prowess adds 2% chance to Stun the Opponent on Hit for 0.90 second(s). Max 16% chance."
+                ],
+                "WHEN KNOCKED DOWN": [
+                    "When Knocked Down, if not already active, Storm activates her Alternate Tempest for 12 seconds. Duration is paused during Heavy Attacks and Special Attacks."
+                ],
+                "PROWESS - WHEN EITHER CHAMPION FILLS A BAR OF POWER:": [
+                    "Each Tempest generates 1 Prowess, increasing the next Special Attacks damage by 40%. The first 3 Prowess Buffs last indefinitely. Additional Prowess Buffs last 10 seconds. Max 12.",
+                    "If Storm has 6 Prowess effects active during a Special Attack, gain a Passive Unblockable for 1.80 second(s)."
+                ],
+                "HEAVY ATTACKS": [
+                    "Charging a Heavy Attack creates a dormant Prowess which charges from 0 to 100%.",
+                    "Launching a Special Attack while charging a Heavy Attack converts this dormant Prowess into a Passive Prowess increasing the Special Attacks damage by up to 100% based on how long the Heavy Attack was charged."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Inflict a Passive Slow for the duration of this Special Attack.",
+                    "Ice Tempest: Each Hit that contacts the Opponent generates 1 Prowess Buff increasing Special Attack damage by 10% for the remainder of this Special Attack. Additionally, the final Hit inflicts a Passive Coldsnap dealing 3326.4 Energy Damage over 14 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Each hit inflicts a Shock Debuff dealing 3326.4 Energy Damage over 9 second(s). If the Opponent Purifies any of these Shock Debuffs, inflict an instant Shock dealing 3326.4 Energy Damage instead.",
+                    "Lightning Tempest: Shock damage is increased by up to 90% based on the Opponent's current Power. Additionally, each Prowess reduces the Opponent's Defensive Power Rate by 25%. This Ability cannot invert the Opponent's Power Rate."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If both Tempests are already active, Storm increases her Attack Rating by 6237 during this Special Attack.",
+                    "After this Special Attack ends, Storm activates her alternate Tempest for 35 seconds. This duration is paused while charging Heavy Attacks and launching Special Attacks."
+                ]
+            },
+            "challenger_rating": 150
         }
     }
 }

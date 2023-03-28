@@ -1642,61 +1642,60 @@
             "url_page": "https://auntm.ai/champions/mojo/tier/6",
             "champid": "mojo+6+5",
             "abilities": {
-                "abilities": {
-                    "PASSIVE": [
-                        "Mojo gains 30% less Power from landing Hits.",
-                        "Physical Resistance decreased by -397.06."
-                    ],
-                    "AUDIENCE PROMPTS": [
-                        "After the start of the fight, Mojo receives a random Prompt from his adoring audience, who want to see certain actions performed. These Prompts last for 8 second(s).",
-                        "If either Champion does what the audience wants, the Prompt is completed and Mojo gains 1 million Followers.",
-                        "If a Prompt expires without being completed, the Prompt is failed and Mojo loses 5 million Follower(s).",
-                        "When a Prompt is completed, Mojo activates his Anti-Life Field for 7 second(s).",
-                        "Mojo receives a new Prompt when his Anti-Life Field expires or a Prompt is failed.",
-                        "Prompts are paused during any Special Attack.",
-                        "Prompts are unaffected by Ability Accuracy."
-                    ],
-                    "ANTI-LIFE FIELD - PASSIVE": [
-                        "Any Buff triggered on the Opponent has 90% reduced duration.",
-                        "Any time a Buff is Nullified or Expires off the Opponent, Mojo Passively Degenerates them for 3083.08 Damage over 6 second(s).",
-                        "The Anti-Life Field is paused during any Special Attack."
-                    ],
-                    "AUDIENCE ADORATION": [
-                        "Mojo gains additional Passive abilities based on how many Followers he has.",
-                        "1 million - Any time a Buff expires or is Nullified off the Opponent, Mojo heals for 3% of his Missing Health over 2 second(s). This does not stack.",
-                        "3 million - When a Prompt is completed, Mojo gains up to 50% of a Bar of Power based on how many Followers he has.",
-                        "5 million - Completing a Prompt has a 100% chance to place a Hater Buff on the Opponent for 20 second(s). Basic Attacks have a 15% chance to place one. Haters have no effect."
-                    ],
-                    "HEAVY ATTACKS": [
-                        "If a Prompt is active, Mojo replaces it with a new Prompt. This does not affect his Followers."
-                    ],
-                    "SPECIAL ATTACK 1": [
-                        "100% chance on the first hit to Nullify one Buff from the Opponent."
-                    ],
-                    "SPECIAL ATTACK 2": [
-                        "If the Anti-Life Field is not active, trigger its Degeneration.",
-                        "If the Anti-Life Field is active, trigger its Degeneration for every million Followers Mojo has, up to 5 million."
-                    ],
-                    "SPECIAL ATTACK 3": [
-                        "Complete the current Prompt.",
-                        "Trigger the Anti-Life Field Degeneration for every million Followers Mojo has, up to 5 million."
-                    ],
-                    "POSSIBLE AUDIENCE PROMPTS": [
-                        "Activate a Special Attack",
-                        "Charge a Heavy Attack",
-                        "Dash backwards",
-                        "Block a Hit",
-                        "Use Dexterity to avoid a Hit",
-                        "Hold Block for 1.5 second(s)",
-                        "Inflict a Stun",
-                        "When any Buff expires or is Nullified",
-                        "Back into the corner",
-                        "Idle for 1 second(s)",
-                        "Punish a Special Attack, by striking the Opponent while they're recovering from the Attack",
-                        "Knock down a Champion"
-                    ]
-                }
-            }
+                "PASSIVE": [
+                    "Mojo gains 30% less Power from landing Hits.",
+                    "Physical Resistance decreased by -397.06."
+                ],
+                "AUDIENCE PROMPTS": [
+                    "After the start of the fight, Mojo receives a random Prompt from his adoring audience, who want to see certain actions performed. These Prompts last for 8 second(s).",
+                    "If either Champion does what the audience wants, the Prompt is completed and Mojo gains 1 million Followers.",
+                    "If a Prompt expires without being completed, the Prompt is failed and Mojo loses 5 million Follower(s).",
+                    "When a Prompt is completed, Mojo activates his Anti-Life Field for 7 second(s).",
+                    "Mojo receives a new Prompt when his Anti-Life Field expires or a Prompt is failed.",
+                    "Prompts are paused during any Special Attack.",
+                    "Prompts are unaffected by Ability Accuracy."
+                ],
+                "ANTI-LIFE FIELD - PASSIVE": [
+                    "Any Buff triggered on the Opponent has 90% reduced duration.",
+                    "Any time a Buff is Nullified or Expires off the Opponent, Mojo Passively Degenerates them for 3083.08 Damage over 6 second(s).",
+                    "The Anti-Life Field is paused during any Special Attack."
+                ],
+                "AUDIENCE ADORATION": [
+                    "Mojo gains additional Passive abilities based on how many Followers he has.",
+                    "1 million - Any time a Buff expires or is Nullified off the Opponent, Mojo heals for 3% of his Missing Health over 2 second(s). This does not stack.",
+                    "3 million - When a Prompt is completed, Mojo gains up to 50% of a Bar of Power based on how many Followers he has.",
+                    "5 million - Completing a Prompt has a 100% chance to place a Hater Buff on the Opponent for 20 second(s). Basic Attacks have a 15% chance to place one. Haters have no effect."
+                ],
+                "HEAVY ATTACKS": [
+                    "If a Prompt is active, Mojo replaces it with a new Prompt. This does not affect his Followers."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "100% chance on the first hit to Nullify one Buff from the Opponent."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "If the Anti-Life Field is not active, trigger its Degeneration.",
+                    "If the Anti-Life Field is active, trigger its Degeneration for every million Followers Mojo has, up to 5 million."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Complete the current Prompt.",
+                    "Trigger the Anti-Life Field Degeneration for every million Followers Mojo has, up to 5 million."
+                ],
+                "POSSIBLE AUDIENCE PROMPTS": [
+                    "Activate a Special Attack",
+                    "Charge a Heavy Attack",
+                    "Dash backwards",
+                    "Block a Hit",
+                    "Use Dexterity to avoid a Hit",
+                    "Hold Block for 1.5 second(s)",
+                    "Inflict a Stun",
+                    "When any Buff expires or is Nullified",
+                    "Back into the corner",
+                    "Idle for 1 second(s)",
+                    "Punish a Special Attack, by striking the Opponent while they're recovering from the Attack",
+                    "Knock down a Champion"
+                ]
+            },
+            "challenger_rating": 150
         }
     }
 }

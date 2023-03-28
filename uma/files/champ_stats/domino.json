@@ -1780,70 +1780,69 @@
             "url_page": "https://auntm.ai/champions/domino/tier/6",
             "champid": "domino+6+5",
             "abilities": {
-                "abilities": {
-                    "PROBABILITY FIELD PASSIVE": [
-                        "At the start of the fight, opponents lose 250 Critical Rating and Domino gains the same amount.",
-                        "Opponents lose 15% Ability Accuracy. This reduction has no effect against abilities that trigger at the start of a fight.",
-                        "Whenever one of Domino\u2019s abilities fails to trigger, she gains +10% Ability Accuracy for 8 seconds.",
-                        "Domino\u2019s Bleed abilities tend to strike vital points and have a chance to benefit from her Critical Damage bonuses equal to her Critical Chance.",
-                        "Opponents\u2019 Bleed abilities tend to graze and have a 50% chance to expire after only 1 second(s). Whenever a Bleed expires prematurely, Domino is inspired and gains 10% of her maximum Power instantly."
-                    ],
-                    "ALL ATTACKS": [
-                        "Domino uses her pistol for her first Light hit, her second Medium hit, and her final Heavy hit. These hits do not make contact with opponents.",
-                        "Benefit from up to +1716.8 Attack Rating selected at random.",
-                        "Benefit from up to +1500 Critical Damage selected at random.",
-                        "A Critical Hit with a maximum roll in both Attack and Critical Damage Ratings results in a Perfect Critical Hit that inflicts Stun for 1 to 3 second(s)."
-                    ],
-                    "HEAVY ATTACKS": [
-                        "If the opponent is Stunned, Attack Rating is increased by +4292 for this attack."
-                    ],
-                    "BLOCKING": [
-                        "Benefit from up to +1500 Block Proficiency selected at random.",
-                        "A Well-Timed Block with a high roll in Block Proficiency results in a Perfect Block, reducing incoming attack damage to zero and granting 10% maximum Power instantly.",
-                        "While Lucky, a Block with a maximum roll in Block Proficiency also results in a Perfect Block and bonus Power."
-                    ],
-                    "WHEN FILLING A BAR OF POWER": [
-                        "30% chance for Domino to gain a Lucky Passive. 25% of Domino\u2019s current Combo Meter count is added to this chance.",
-                        "30% chance for opponents to suffer an Unlucky Passive. 25% of the opponents\u2019 current Combo Meter count is added to this chance.",
-                        "Lucky and Unlucky effects last for a random duration between 1 and 5 seconds plus 1.50 additional second(s) for each full Bar of Power at the time of activation.",
-                        "Skill Champions are always Unlucky.",
-                        "Tech Champions are never Unlucky."
-                    ],
-                    "LUCKY PASSIVE": [
-                        "+306.82 Critical Rating.",
-                        "+428.57 Critical Damage Rating.",
-                        "+15% Ability Accuracy.",
-                        "+397.06 Block Proficiency.",
-                        "10% chance to Evade attacks.",
-                        "Stun expires 35% faster.",
-                        "Domino is more likely to earn a higher roll when selecting Attack Rating, Critical Damage Rating, and Block Proficiency bonuses at random."
-                    ],
-                    "UNLUCKY PASSIVE": [
-                        "-306.82 Critical Rating.",
-                        "-310.35 Critical Damage Rating.",
-                        "-250 Critical Resistance.",
-                        "-35% Ability Accuracy.",
-                        "-397.06 Block Proficiency.",
-                        "100% chance for Evade or the Dexterity Mastery to fail.",
-                        "Bleed abilities deal 50% less damage."
-                    ],
-                    "SPECIAL ATTACK 1": [
-                        "Each hit has 25% chance to inflict Bleed, dealing 4721.2 Direct Damage over 7 seconds.",
-                        "If Domino is Lucky, this attack refreshes all Stun and Bleed effects on the opponent.",
-                        "If the opponent is Unlucky, this attack has +858.4 Attack Rating for each second that passed since the last time Domino hit with a Special Attack this fight."
-                    ],
-                    "SPECIAL ATTACK 2": [
-                        "Each hit has 25% chance to inflict Bleed, dealing 10300.8 Direct Damage over 7 seconds. This Bleed does not benefit from the Lucky bonus below.",
-                        "If Domino is Lucky, this attack has +4292 Attack Rating if Domino suffered from Bleed at least once this fight.",
-                        "ID_STAT_DOM_SP2_3_V4"
-                    ],
-                    "SPECIAL ATTACK 3": [
-                        "74% chance to inflict Bleed, dealing 10300.8 Direct Damage over 7 seconds.",
-                        "If Domino is Lucky, this attack has +128.76 Attack Rating for every Critical Hit that occured this fight by either Domino or her opponent. (Max: 100 Critical Hits)",
-                        "If the opponent is Unlucky, this attack inflicts Armor Break, removing one Armor Up and reducing Armor by 634.62 for 4 seconds."
-                    ]
-                }
-            }
+                "PROBABILITY FIELD PASSIVE": [
+                    "At the start of the fight, opponents lose 250 Critical Rating and Domino gains the same amount.",
+                    "Opponents lose 15% Ability Accuracy. This reduction has no effect against abilities that trigger at the start of a fight.",
+                    "Whenever one of Domino\u2019s abilities fails to trigger, she gains +10% Ability Accuracy for 8 seconds.",
+                    "Domino\u2019s Bleed abilities tend to strike vital points and have a chance to benefit from her Critical Damage bonuses equal to her Critical Chance.",
+                    "Opponents\u2019 Bleed abilities tend to graze and have a 50% chance to expire after only 1 second(s). Whenever a Bleed expires prematurely, Domino is inspired and gains 10% of her maximum Power instantly."
+                ],
+                "ALL ATTACKS": [
+                    "Domino uses her pistol for her first Light hit, her second Medium hit, and her final Heavy hit. These hits do not make contact with opponents.",
+                    "Benefit from up to +1716.8 Attack Rating selected at random.",
+                    "Benefit from up to +1500 Critical Damage selected at random.",
+                    "A Critical Hit with a maximum roll in both Attack and Critical Damage Ratings results in a Perfect Critical Hit that inflicts Stun for 1 to 3 second(s)."
+                ],
+                "HEAVY ATTACKS": [
+                    "If the opponent is Stunned, Attack Rating is increased by +4292 for this attack."
+                ],
+                "BLOCKING": [
+                    "Benefit from up to +1500 Block Proficiency selected at random.",
+                    "A Well-Timed Block with a high roll in Block Proficiency results in a Perfect Block, reducing incoming attack damage to zero and granting 10% maximum Power instantly.",
+                    "While Lucky, a Block with a maximum roll in Block Proficiency also results in a Perfect Block and bonus Power."
+                ],
+                "WHEN FILLING A BAR OF POWER": [
+                    "30% chance for Domino to gain a Lucky Passive. 25% of Domino\u2019s current Combo Meter count is added to this chance.",
+                    "30% chance for opponents to suffer an Unlucky Passive. 25% of the opponents\u2019 current Combo Meter count is added to this chance.",
+                    "Lucky and Unlucky effects last for a random duration between 1 and 5 seconds plus 1.50 additional second(s) for each full Bar of Power at the time of activation.",
+                    "Skill Champions are always Unlucky.",
+                    "Tech Champions are never Unlucky."
+                ],
+                "LUCKY PASSIVE": [
+                    "+306.82 Critical Rating.",
+                    "+428.57 Critical Damage Rating.",
+                    "+15% Ability Accuracy.",
+                    "+397.06 Block Proficiency.",
+                    "10% chance to Evade attacks.",
+                    "Stun expires 35% faster.",
+                    "Domino is more likely to earn a higher roll when selecting Attack Rating, Critical Damage Rating, and Block Proficiency bonuses at random."
+                ],
+                "UNLUCKY PASSIVE": [
+                    "-306.82 Critical Rating.",
+                    "-310.35 Critical Damage Rating.",
+                    "-250 Critical Resistance.",
+                    "-35% Ability Accuracy.",
+                    "-397.06 Block Proficiency.",
+                    "100% chance for Evade or the Dexterity Mastery to fail.",
+                    "Bleed abilities deal 50% less damage."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Each hit has 25% chance to inflict Bleed, dealing 4721.2 Direct Damage over 7 seconds.",
+                    "If Domino is Lucky, this attack refreshes all Stun and Bleed effects on the opponent.",
+                    "If the opponent is Unlucky, this attack has +858.4 Attack Rating for each second that passed since the last time Domino hit with a Special Attack this fight."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Each hit has 25% chance to inflict Bleed, dealing 10300.8 Direct Damage over 7 seconds. This Bleed does not benefit from the Lucky bonus below.",
+                    "If Domino is Lucky, this attack has +4292 Attack Rating if Domino suffered from Bleed at least once this fight.",
+                    "ID_STAT_DOM_SP2_3_V4"
+                ],
+                "SPECIAL ATTACK 3": [
+                    "74% chance to inflict Bleed, dealing 10300.8 Direct Damage over 7 seconds.",
+                    "If Domino is Lucky, this attack has +128.76 Attack Rating for every Critical Hit that occured this fight by either Domino or her opponent. (Max: 100 Critical Hits)",
+                    "If the opponent is Unlucky, this attack inflicts Armor Break, removing one Armor Up and reducing Armor by 634.62 for 4 seconds."
+                ]
+            },
+            "challenger_rating": 150
         }
     }
 }

@@ -1312,44 +1312,43 @@
             "url_page": "https://auntm.ai/champions/doc_ock/tier/6",
             "champid": "doc_ock+6+5",
             "abilities": {
-                "abilities": {
-                    "SCIENTIFIC METHOD - PASSIVE": [
-                        "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
-                        "Each Category grants a Passive effect which scales as its category builds.",
-                        "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
-                        "When a Breakthrough effect expires all Research Categories are reset to 0."
-                    ],
-                    "PHYSICS - RESEARCH CATEGORY": [
-                        "Builds on Opponent Gaining Power.",
-                        "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
-                        "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
-                    ],
-                    "CHEMISTRY - RESEARCH CATEGORY": [
-                        "Builds on Block or Parry.",
-                        "Scaling Effect: Increase of up to 2250 Block Proficiency.",
-                        "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
-                    ],
-                    "BIOLOGY - RESEARCH CATEGORY": [
-                        "Builds when landing Hits and when being Struck",
-                        "Scaling Effect: Passive Fury, granting up to 3580 Attack Rating.",
-                        "Breakthrough: Applies an Armor Up Buff, granting 2250 Armor for 5 seconds."
-                    ],
-                    "HEAVY ATTACKS": [
-                        "Remove all currently active Breakthroughs dealing 3580 damage per Breakthrough removed."
-                    ],
-                    "SPECIAL ATTACK 1": [
-                        "Reset the duration of any currently active Breakthrough Effect.",
-                        "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
-                    ],
-                    "SPECIAL ATTACK 2": [
-                        "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
-                    ],
-                    "SPECIAL ATTACK 3": [
-                        "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
-                        "This Duration increases by 10 seconds per currently active Breakthrough."
-                    ]
-                }
-            }
+                "SCIENTIFIC METHOD - PASSIVE": [
+                    "Research is built in each Category until it hits 100. If you haven\u2019t gained research in a category for 10 seconds it begins to fall off.",
+                    "Each Category grants a Passive effect which scales as its category builds.",
+                    "When a Category reaches 100 it triggers a Breakthrough, as long as there isn\u2019t one already active.",
+                    "When a Breakthrough effect expires all Research Categories are reset to 0."
+                ],
+                "PHYSICS - RESEARCH CATEGORY": [
+                    "Builds on Opponent Gaining Power.",
+                    "Scaling Effect: Opponent\u2019s Special Attack Damage reduced by up to 50%",
+                    "Breakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds."
+                ],
+                "CHEMISTRY - RESEARCH CATEGORY": [
+                    "Builds on Block or Parry.",
+                    "Scaling Effect: Increase of up to 2250 Block Proficiency.",
+                    "Breakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds."
+                ],
+                "BIOLOGY - RESEARCH CATEGORY": [
+                    "Builds when landing Hits and when being Struck",
+                    "Scaling Effect: Passive Fury, granting up to 3580 Attack Rating.",
+                    "Breakthrough: Applies an Armor Up Buff, granting 2250 Armor for 5 seconds."
+                ],
+                "HEAVY ATTACKS": [
+                    "Remove all currently active Breakthroughs dealing 3580 damage per Breakthrough removed."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Reset the duration of any currently active Breakthrough Effect.",
+                    "If no Breakthroughs are currently active it triggers the Breakthrough of whichever category is currently Highest."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.50 seconds per Category currently at 100."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Duplicate 1 Currently active Breakthrough(s) with a duration of 5 seconds.",
+                    "This Duration increases by 10 seconds per currently active Breakthrough."
+                ]
+            },
+            "challenger_rating": 150
         }
     }
 }

@@ -1198,42 +1198,41 @@
             "url_page": "https://auntm.ai/champions/scorpion/tier/6",
             "champid": "scorpion+6+5",
             "abilities": {
-                "abilities": {
-                    "PRE-FIGHT: STING DEBUFF - MAX 30 STACKS": [
-                        "Sting Debuffs are Damage over Time Debuffs that Scorpion inflicts on Medium Attacks. His default Sting Debuff is a Poison Debuff, but he can choose between Shock and Rupture Debuffs in the Pre-Fight Screen.",
-                        "Poison: inflict 137.43 Direct Damage Damage over 13 seconds and reducing health recovery by 30%.",
-                        "Shock: inflict 320.67 Energy Damage over 13 seconds.",
-                        "Rupture: inflict 320.67 Physical Damage over 13 seconds.",
-                        "On fight entry Scorpion gains Immunity to the Damage over Time effects he did not select with this Pre-Fight, Shock and Rupture Immune by default.",
-                        "If the Opponent triggers a Special Attack while suffering from his personal Sting Debuffs inflict a burst of 1832.4 Sting Debuff Damage per stack of Sting Debuff."
-                    ],
-                    "SCORPION-SENSE": [
-                        "When the Opponent Evades or at the end of their Special Attacks, Scorpion gains a non-stacking Scorpion-Sense Passive, granting 20% chance to Evade for 15 second(s). When Scorpion-Sense expires it goes on a cooldown for 10 seconds.",
-                        "When an Evade would trigger, Scorpion inflicts a Sting Debuff. On a successful Evade, Scorpion counterattacks, consumes Scorpion-Sense and inflicts a burst of Sting Debuff Damage, but this damage scales with Base Attack only. Evade does not trigger while blocking.",
-                        "As a defender, he gains Scorpion-Sense every 15 second(s) unless the Attacker reaches their current Combo count plus 20 Combos by the end of this duration. Reaching the targeted Combo Count removes any existing Scorpion-Sense and triggers its cooldown."
-                    ],
-                    "TORMENT DEBUFF - WHILE HEAVY CHARGING": [
-                        "Charging a Heavy Attack grants a Torment Charge, however holding the Heavy Attack grants a Torment Charge every 0.40 second(s)",
-                        "Landing a Heavy Attack converts all Charges into Torment Debuffs. Landing Special Attack 1 or 2 while charging converts one extra Debuff per Charge.",
-                        "Torment Debuffs lasts for 10 second(s) but pauses during Specials, and causes all damaging Debuffs to last 1 second(s) longer flat."
-                    ],
-                    "SPECIAL ATTACK 1": [
-                        "Each hit inflicts a Sting Debuff. This effect has a 50% chance to go through block.",
-                        "Final Hit: Inflict a Taunt Debuff for 12 seconds, reducing Attack Rating by 15%.",
-                        "If the Opponent fails to launch a Special Attack before the Taunt Debuff expires, Scorpion inflicts a non-stacking Suppression Debuff, reducing Combat Power Rate by 25% for 12 seconds."
-                    ],
-                    "SPECIAL ATTACK 2": [
-                        "All Sting Debuffs are Paused for the duration of the Special, and refreshed by the end of it.",
-                        "Final Hit inflicts 2 Bursts of Sting Debuff Damage per Sting Debuff on the Opponent, and also inflicts a Petrify Debuff of 40% Potency that lasts for 20 seconds. The Petrify can be inflicted through Block.",
-                        "The Potency of the Sting Debuff Bursts are increased by 10% for each stack of Torment Debuff converted during this Special."
-                    ],
-                    "SPECIAL ATTACK 3": [
-                        "Inflict the Opponent with a Stun Debuff, stunning the Opponent for 3 seconds, and inflict 10 Torment Debuffs that last for 15 seconds.",
-                        "While these Torments are active, charging Heavy grants a Fury Charge instead of Torment Charges.",
-                        "Attacking from Heavy Charge grants a Fury Buff per charge, max 20 stacks, increasing Attack Rating by 916.2 for 20 second(s). While charging, Torment and Fury stacks are paused."
-                    ]
-                }
-            }
+                "PRE-FIGHT: STING DEBUFF - MAX 30 STACKS": [
+                    "Sting Debuffs are Damage over Time Debuffs that Scorpion inflicts on Medium Attacks. His default Sting Debuff is a Poison Debuff, but he can choose between Shock and Rupture Debuffs in the Pre-Fight Screen.",
+                    "Poison: inflict 137.43 Direct Damage Damage over 13 seconds and reducing health recovery by 30%.",
+                    "Shock: inflict 320.67 Energy Damage over 13 seconds.",
+                    "Rupture: inflict 320.67 Physical Damage over 13 seconds.",
+                    "On fight entry Scorpion gains Immunity to the Damage over Time effects he did not select with this Pre-Fight, Shock and Rupture Immune by default.",
+                    "If the Opponent triggers a Special Attack while suffering from his personal Sting Debuffs inflict a burst of 1832.4 Sting Debuff Damage per stack of Sting Debuff."
+                ],
+                "SCORPION-SENSE": [
+                    "When the Opponent Evades or at the end of their Special Attacks, Scorpion gains a non-stacking Scorpion-Sense Passive, granting 20% chance to Evade for 15 second(s). When Scorpion-Sense expires it goes on a cooldown for 10 seconds.",
+                    "When an Evade would trigger, Scorpion inflicts a Sting Debuff. On a successful Evade, Scorpion counterattacks, consumes Scorpion-Sense and inflicts a burst of Sting Debuff Damage, but this damage scales with Base Attack only. Evade does not trigger while blocking.",
+                    "As a defender, he gains Scorpion-Sense every 15 second(s) unless the Attacker reaches their current Combo count plus 20 Combos by the end of this duration. Reaching the targeted Combo Count removes any existing Scorpion-Sense and triggers its cooldown."
+                ],
+                "TORMENT DEBUFF - WHILE HEAVY CHARGING": [
+                    "Charging a Heavy Attack grants a Torment Charge, however holding the Heavy Attack grants a Torment Charge every 0.40 second(s)",
+                    "Landing a Heavy Attack converts all Charges into Torment Debuffs. Landing Special Attack 1 or 2 while charging converts one extra Debuff per Charge.",
+                    "Torment Debuffs lasts for 10 second(s) but pauses during Specials, and causes all damaging Debuffs to last 1 second(s) longer flat."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Each hit inflicts a Sting Debuff. This effect has a 50% chance to go through block.",
+                    "Final Hit: Inflict a Taunt Debuff for 12 seconds, reducing Attack Rating by 15%.",
+                    "If the Opponent fails to launch a Special Attack before the Taunt Debuff expires, Scorpion inflicts a non-stacking Suppression Debuff, reducing Combat Power Rate by 25% for 12 seconds."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "All Sting Debuffs are Paused for the duration of the Special, and refreshed by the end of it.",
+                    "Final Hit inflicts 2 Bursts of Sting Debuff Damage per Sting Debuff on the Opponent, and also inflicts a Petrify Debuff of 40% Potency that lasts for 20 seconds. The Petrify can be inflicted through Block.",
+                    "The Potency of the Sting Debuff Bursts are increased by 10% for each stack of Torment Debuff converted during this Special."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Inflict the Opponent with a Stun Debuff, stunning the Opponent for 3 seconds, and inflict 10 Torment Debuffs that last for 15 seconds.",
+                    "While these Torments are active, charging Heavy grants a Fury Charge instead of Torment Charges.",
+                    "Attacking from Heavy Charge grants a Fury Buff per charge, max 20 stacks, increasing Attack Rating by 916.2 for 20 second(s). While charging, Torment and Fury stacks are paused."
+                ]
+            },
+            "challenger_rating": 150
         }
     }
 }

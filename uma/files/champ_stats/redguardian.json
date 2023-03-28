@@ -1161,39 +1161,38 @@
             "url_page": "https://auntm.ai/champions/redguardian/tier/6",
             "champid": "redguardian+6+5",
             "abilities": {
-                "abilities": {
-                    "ABLATIVE SHIELD": [
-                        "Red Guardian is immune to Buffs. Whenever a Buff is prevented by immunity he gains +1 Durability for his Ablative Shield instead. Cooldown: 0.80 seconds.",
-                        "The Ablative Shield starts each fight at 9 Durability and can stack up to a max of 10. Each blocked hit removes 1 Durability.",
-                        "Each Stack of Durability increases Perfect Block chance by 5%. Perfect Blocks reduce incoming damage to 0.",
-                        "While the Shield is intact, Red Guardian can block Heavy and Unblockable Attacks and gains 1500 Block Proficiency.",
-                        "Blocking a Heavy or Unblockable Attack reduces Shield Durability to 0, however all hits of the incoming Attack can be blocked.",
-                        "When reaching 0 Durability the Shield is Fractured, entering cooldown for 8 seconds. This cooldown increases by 300% each time Fracture occurs. When cooldown ends, the Shield is repaired at 7 Durability."
-                    ],
-                    "ON FRACTURE": [
-                        "Carbonadium shards from the Ablative Shield burst onto the Opponent, inflicting a Stun Debuff for 1.90 seconds.",
-                        "Inflict a Trauma Debuff for 3 seconds, Trauma causes each hit to deal an additional 70% of the damage recently dealt as burst Physical Damage. Max Stacks 3."
-                    ],
-                    "HEAVY ATTACKS": [
-                        "Gain +687.15 Attack Rating for each unique Debuff on the Opponent.",
-                        "Refresh all Slow, Fragility and Trauma Debuffs on the Opponent."
-                    ],
-                    "SPECIAL ATTACK 1": [
-                        "On activation inflict a non-stacking Slow Debuff for 12 seconds.",
-                        "While the Opponent is suffering from Slow, Red Guardian\u2019s Combat Power Rate is increased by 25%."
-                    ],
-                    "SPECIAL ATTACK 2": [
-                        "On activation if the Ablative Shield was intact, gain +1465.92 Attack Rating throughout this Special.",
-                        "If this Attack strikes the Opponent the Ablative Shield is Fractured, removing all Durability. Each stack of Durability removed grants an additional +549.72 Attack Rating to each hit of this attack.",
-                        "During this attack any Debuffs inflicted last 100% longer."
-                    ],
-                    "SPECIAL ATTACK 3": [
-                        "If the Ablative Shield is active, it's Durability is set to max. If the Ablative Shield is Fractured its cooldown ends immediately.",
-                        "100% chance to inflict a Stun Debuff for 1.90 seconds.",
-                        "100% chance to inflict a 20 second Fragility Debuff. Attacking a Fragile Opponent grants +1265.63 Critical Damage Rating and reduces Block Proficiency by 50%."
-                    ]
-                }
-            }
+                "ABLATIVE SHIELD": [
+                    "Red Guardian is immune to Buffs. Whenever a Buff is prevented by immunity he gains +1 Durability for his Ablative Shield instead. Cooldown: 0.80 seconds.",
+                    "The Ablative Shield starts each fight at 9 Durability and can stack up to a max of 10. Each blocked hit removes 1 Durability.",
+                    "Each Stack of Durability increases Perfect Block chance by 5%. Perfect Blocks reduce incoming damage to 0.",
+                    "While the Shield is intact, Red Guardian can block Heavy and Unblockable Attacks and gains 1500 Block Proficiency.",
+                    "Blocking a Heavy or Unblockable Attack reduces Shield Durability to 0, however all hits of the incoming Attack can be blocked.",
+                    "When reaching 0 Durability the Shield is Fractured, entering cooldown for 8 seconds. This cooldown increases by 300% each time Fracture occurs. When cooldown ends, the Shield is repaired at 7 Durability."
+                ],
+                "ON FRACTURE": [
+                    "Carbonadium shards from the Ablative Shield burst onto the Opponent, inflicting a Stun Debuff for 1.90 seconds.",
+                    "Inflict a Trauma Debuff for 3 seconds, Trauma causes each hit to deal an additional 70% of the damage recently dealt as burst Physical Damage. Max Stacks 3."
+                ],
+                "HEAVY ATTACKS": [
+                    "Gain +687.15 Attack Rating for each unique Debuff on the Opponent.",
+                    "Refresh all Slow, Fragility and Trauma Debuffs on the Opponent."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "On activation inflict a non-stacking Slow Debuff for 12 seconds.",
+                    "While the Opponent is suffering from Slow, Red Guardian\u2019s Combat Power Rate is increased by 25%."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "On activation if the Ablative Shield was intact, gain +1465.92 Attack Rating throughout this Special.",
+                    "If this Attack strikes the Opponent the Ablative Shield is Fractured, removing all Durability. Each stack of Durability removed grants an additional +549.72 Attack Rating to each hit of this attack.",
+                    "During this attack any Debuffs inflicted last 100% longer."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "If the Ablative Shield is active, it's Durability is set to max. If the Ablative Shield is Fractured its cooldown ends immediately.",
+                    "100% chance to inflict a Stun Debuff for 1.90 seconds.",
+                    "100% chance to inflict a 20 second Fragility Debuff. Attacking a Fragile Opponent grants +1265.63 Critical Damage Rating and reduces Block Proficiency by 50%."
+                ]
+            },
+            "challenger_rating": 150
         }
     }
 }

@@ -1686,66 +1686,65 @@
             "url_page": "https://auntm.ai/champions/airwalker/tier/6",
             "champid": "airwalker+6+5",
             "abilities": {
-                "abilities": {
-                    "PASSIVE": [
-                        "Offensive Combat Power Rate is decreased by 40%."
-                    ],
-                    "POWER COSMIC - PERSISTENT BUFF - MAX 3": [
-                        "Gain 3.5% of a Bar of Power every 1 second(s).",
-                        "+964.29 Armor Rating.",
-                        "+450.45 Attack Rating.",
-                        "Air-Walker starts the quest with 1 Power Cosmic Buff(s), which persists between fights. He gains 1 Power Cosmic Buff(s) when he wins a fight.",
-                        "When Air-Walker has no Power Cosmic Buffs, he will gain one after a 7.50 second cooldown.",
-                        "Special Attack 3 can only be used if Air-Walker has 3 Power Cosmic Buffs or is Defending."
-                    ],
-                    "WHEN POWER DRAINED, POWER LOCKED, OR POWER BURNED": [
-                        "Inflict 3 Dark Tide Debuffs."
-                    ],
-                    "THE DARK TIDE - DEBUFF - MAX 10": [
-                        "Dark Tide Debuffs reduce Block Proficiency by 93.75 during their Opponent's Special Attacks, and last indefinitely.",
-                        "Champions suffering from both Armor Break and Dark Tide take Direct Damage every 0.50 second(s). This damage is equal to 2% of their Opponent's Base Attack per Dark Tide.",
-                        "Opponents remove one Dark Tide Debuff every time they fill a Bar of Power, or whenever the Power Cosmic is Nullified."
-                    ],
-                    "THE DARK TIDE - PASSIVE - CROSS FIGHT - MAX 1": [
-                        "When the Opponent has 10 Dark Tide Debuffs, they are combined into a Passive that lasts for the rest of the fight and the next 2 fights they participate in.",
-                        "The Dark Tide Passive counts as 10 Dark Tide Debuffs for Air-Walker's abilities, and also gains additional effects based on the Opponent\u2019s Class.",
-                        "If the Opponent has a Dark Tide Passive, Air-Walker\u2019s fourth Light Hit refreshes 2 Armor Break Debuff(s) on them."
-                    ],
-                    "WHEN CHARGING A HEAVY ATTACK": [
-                        "Increase Ability Power Rate by 300% and Heavy Charging can be held for an extended duration.",
-                        "75% of any Power Gained while Charging is lost over 0.75 second(s) after the Charge stops.",
-                        "If Air-Walker fills a Bar of Power, he gains an Unblockable Buff for 1 second(s) that is paused during his Special Attacks.",
-                        "If Air-Walker activates a Special Attack, he gains a Fury Buff during that Special Attack, increasing Attack Rating by +3003."
-                    ],
-                    "SPECIAL ATTACKS": [
-                        "Activating a Special Attack Armor Breaks the Opponent, reducing Armor Rating by 2250 for 11 second(s), stacking up to 8 time(s).",
-                        "If the last hit isn\u2019t Blocked, apply 1 Dark Tide Debuff to the Opponent, and an additional one for each Buff on Air-Walker."
-                    ],
-                    "SPECIAL ATTACK 1": [
-                        "The last hit has a 50% chance to inflict a Stun Debuff for 2 second(s). The chance is increased by 50% flat if Air-Walker is Unblockable."
-                    ],
-                    "SPECIAL ATTACK 2": [
-                        "If the Opponent has a Dark Tide Passive, this attack deals an additional 40% of the damage dealt as a burst of Energy Damage."
-                    ],
-                    "SPECIAL ATTACK 3": [
-                        "Air-Walker replaces Power Cosmic with the Power of Galactus Buff for 20 second(s), granting:",
-                        "+4504.5 Attack Rating.",
-                        "Regenerate +8504.4 Health.",
-                        "Gain 10.5% of a Bar of Power every 1 second(s).",
-                        "Gain a Passive Unstoppable effect.",
-                        "Every attack has a 100% chance to deal an additional burst of Direct Damage. The damage is equal to 5% of the damage dealt, per Dark Tide on the Opponent.",
-                        "Power of Galactus sets Air-Walker\u2019s Power to 0 when it ends."
-                    ],
-                    "THE DARK TIDE - CROSS FIGHT CLASS EFFECTS": [
-                        "Tech: Reduces the duration and potency of Power Drain, Lock and Burn effects by 70%.",
-                        "Mutant: Reduces Offensive Ability Accuracy during Special Attacks by 33%.",
-                        "Skill: Critical Rating is reduced by 634.62.",
-                        "Science: Non-Damaging Debuffs have -25% Ability Accuracy.",
-                        "Cosmic: Buffs potency is reduced by 50%.",
-                        "Mystic: Mystical energies resist the Dark Tide, so it has no additional effect."
-                    ]
-                }
-            }
+                "PASSIVE": [
+                    "Offensive Combat Power Rate is decreased by 40%."
+                ],
+                "POWER COSMIC - PERSISTENT BUFF - MAX 3": [
+                    "Gain 3.5% of a Bar of Power every 1 second(s).",
+                    "+964.29 Armor Rating.",
+                    "+450.45 Attack Rating.",
+                    "Air-Walker starts the quest with 1 Power Cosmic Buff(s), which persists between fights. He gains 1 Power Cosmic Buff(s) when he wins a fight.",
+                    "When Air-Walker has no Power Cosmic Buffs, he will gain one after a 7.50 second cooldown.",
+                    "Special Attack 3 can only be used if Air-Walker has 3 Power Cosmic Buffs or is Defending."
+                ],
+                "WHEN POWER DRAINED, POWER LOCKED, OR POWER BURNED": [
+                    "Inflict 3 Dark Tide Debuffs."
+                ],
+                "THE DARK TIDE - DEBUFF - MAX 10": [
+                    "Dark Tide Debuffs reduce Block Proficiency by 93.75 during their Opponent's Special Attacks, and last indefinitely.",
+                    "Champions suffering from both Armor Break and Dark Tide take Direct Damage every 0.50 second(s). This damage is equal to 2% of their Opponent's Base Attack per Dark Tide.",
+                    "Opponents remove one Dark Tide Debuff every time they fill a Bar of Power, or whenever the Power Cosmic is Nullified."
+                ],
+                "THE DARK TIDE - PASSIVE - CROSS FIGHT - MAX 1": [
+                    "When the Opponent has 10 Dark Tide Debuffs, they are combined into a Passive that lasts for the rest of the fight and the next 2 fights they participate in.",
+                    "The Dark Tide Passive counts as 10 Dark Tide Debuffs for Air-Walker's abilities, and also gains additional effects based on the Opponent\u2019s Class.",
+                    "If the Opponent has a Dark Tide Passive, Air-Walker\u2019s fourth Light Hit refreshes 2 Armor Break Debuff(s) on them."
+                ],
+                "WHEN CHARGING A HEAVY ATTACK": [
+                    "Increase Ability Power Rate by 300% and Heavy Charging can be held for an extended duration.",
+                    "75% of any Power Gained while Charging is lost over 0.75 second(s) after the Charge stops.",
+                    "If Air-Walker fills a Bar of Power, he gains an Unblockable Buff for 1 second(s) that is paused during his Special Attacks.",
+                    "If Air-Walker activates a Special Attack, he gains a Fury Buff during that Special Attack, increasing Attack Rating by +3003."
+                ],
+                "SPECIAL ATTACKS": [
+                    "Activating a Special Attack Armor Breaks the Opponent, reducing Armor Rating by 2250 for 11 second(s), stacking up to 8 time(s).",
+                    "If the last hit isn\u2019t Blocked, apply 1 Dark Tide Debuff to the Opponent, and an additional one for each Buff on Air-Walker."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "The last hit has a 50% chance to inflict a Stun Debuff for 2 second(s). The chance is increased by 50% flat if Air-Walker is Unblockable."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "If the Opponent has a Dark Tide Passive, this attack deals an additional 40% of the damage dealt as a burst of Energy Damage."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "Air-Walker replaces Power Cosmic with the Power of Galactus Buff for 20 second(s), granting:",
+                    "+4504.5 Attack Rating.",
+                    "Regenerate +8504.4 Health.",
+                    "Gain 10.5% of a Bar of Power every 1 second(s).",
+                    "Gain a Passive Unstoppable effect.",
+                    "Every attack has a 100% chance to deal an additional burst of Direct Damage. The damage is equal to 5% of the damage dealt, per Dark Tide on the Opponent.",
+                    "Power of Galactus sets Air-Walker\u2019s Power to 0 when it ends."
+                ],
+                "THE DARK TIDE - CROSS FIGHT CLASS EFFECTS": [
+                    "Tech: Reduces the duration and potency of Power Drain, Lock and Burn effects by 70%.",
+                    "Mutant: Reduces Offensive Ability Accuracy during Special Attacks by 33%.",
+                    "Skill: Critical Rating is reduced by 634.62.",
+                    "Science: Non-Damaging Debuffs have -25% Ability Accuracy.",
+                    "Cosmic: Buffs potency is reduced by 50%.",
+                    "Mystic: Mystical energies resist the Dark Tide, so it has no additional effect."
+                ]
+            },
+            "challenger_rating": 150
         }
     }
 }

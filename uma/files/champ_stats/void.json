@@ -1193,40 +1193,39 @@
             "url_page": "https://auntm.ai/champions/void/tier/6",
             "champid": "void+6+5",
             "abilities": {
-                "abilities": {
-                    "PASSIVE": [
-                        "A suffocating, choking, and all-consuming Void provides full immunity to Incinerate effects.",
-                        "Every 10 seconds, Void\u2019s Intimidating Presence inflicts 1 random Debuff. +4 seconds on the timer if at least one Intimidating Presence Debuff is already active."
-                    ],
-                    "WHEN ATTACKED": [
-                        "Opponents can remove one Intimidating Presence Debuff for every 10 hits on their Combo Meter."
-                    ],
-                    "INTIMIDATING PRESENCE": [
-                        "For each Champion alive on the opponent\u2019s team, Intimidating Presence Debuffs have a 0.6 second delay before fully activating.",
-                        "Agility Debuff - Reduces Ability Accuracy of Evade and the Dexterity Mastery by 30%. Max Stacks: 2",
-                        "Fatigue Debuff - Reduces Critical Rating by 1211.54. Max Stacks: 2",
-                        "Petrify Debuff of 50% Potency. Max Stacks: 2",
-                        "When all Intimidating Presence Debuffs are at max stacks, those Debuffs will be removed after 5 seconds."
-                    ],
-                    "WHEN OPPONENTS SUFFER FROM A DEBUFF": [
-                        "For each unique Debuff type, the opponent takes 373.4 Direct Damage per second."
-                    ],
-                    "SPECIAL ATTACK 1": [
-                        "Inflicts 1 Intimidating Presence Debuff."
-                    ],
-                    "SPECIAL ATTACK 2": [
-                        "Inflicts 2 Dark Stings, each lasting for 12 seconds. An opponent with a Dark Sting gains a Weakness or a Degeneration Debuff per Sting when activating a Special Attack.",
-                        "Weakness - Reduces Attack Rating by 25% for 20 seconds.",
-                        "Degeneration - Inflicts 5974.4 Direct Damage over 20 seconds."
-                    ],
-                    "SPECIAL ATTACK 3": [
-                        "The strength of this Special Attack is increased based on how many unique Debuffs types are currently active on the opponent.",
-                        "1 ~ 2 unique Debuffs provide a +20% passive Fury.",
-                        "3 ~ 4 unique Debuffs provide a +50% passive Fury.",
-                        "5+ unique Debuffs provide a +250% passive Fury."
-                    ]
-                }
-            }
+                "PASSIVE": [
+                    "A suffocating, choking, and all-consuming Void provides full immunity to Incinerate effects.",
+                    "Every 10 seconds, Void\u2019s Intimidating Presence inflicts 1 random Debuff. +4 seconds on the timer if at least one Intimidating Presence Debuff is already active."
+                ],
+                "WHEN ATTACKED": [
+                    "Opponents can remove one Intimidating Presence Debuff for every 10 hits on their Combo Meter."
+                ],
+                "INTIMIDATING PRESENCE": [
+                    "For each Champion alive on the opponent\u2019s team, Intimidating Presence Debuffs have a 0.6 second delay before fully activating.",
+                    "Agility Debuff - Reduces Ability Accuracy of Evade and the Dexterity Mastery by 30%. Max Stacks: 2",
+                    "Fatigue Debuff - Reduces Critical Rating by 1211.54. Max Stacks: 2",
+                    "Petrify Debuff of 50% Potency. Max Stacks: 2",
+                    "When all Intimidating Presence Debuffs are at max stacks, those Debuffs will be removed after 5 seconds."
+                ],
+                "WHEN OPPONENTS SUFFER FROM A DEBUFF": [
+                    "For each unique Debuff type, the opponent takes 373.4 Direct Damage per second."
+                ],
+                "SPECIAL ATTACK 1": [
+                    "Inflicts 1 Intimidating Presence Debuff."
+                ],
+                "SPECIAL ATTACK 2": [
+                    "Inflicts 2 Dark Stings, each lasting for 12 seconds. An opponent with a Dark Sting gains a Weakness or a Degeneration Debuff per Sting when activating a Special Attack.",
+                    "Weakness - Reduces Attack Rating by 25% for 20 seconds.",
+                    "Degeneration - Inflicts 5974.4 Direct Damage over 20 seconds."
+                ],
+                "SPECIAL ATTACK 3": [
+                    "The strength of this Special Attack is increased based on how many unique Debuffs types are currently active on the opponent.",
+                    "1 ~ 2 unique Debuffs provide a +20% passive Fury.",
+                    "3 ~ 4 unique Debuffs provide a +50% passive Fury.",
+                    "5+ unique Debuffs provide a +250% passive Fury."
+                ]
+            },
+            "challenger_rating": 150
         }
     }
 }
