@@ -2,6 +2,7 @@ from fastapi import FastAPI, HTTPException, APIRouter
 from ..models.mcoc_db import NewChampsDB
 
 router = APIRouter()
+champ_info = NewChampsDB()
 
 
 @router.get("/champs/")
@@ -11,7 +12,6 @@ def get_champ_data(champ: str, tier: int, rank: int):
     Gives Champ Information by their champname, tier, and rank.
     """
 
-    champ_info = NewChampsDB()
     try:
         champ_info.get_data(champ, tier, rank)
         champs_dict = {
@@ -53,3 +53,13 @@ def get_champ_data(champ: str, tier: int, rank: int):
             raise HTTPException(status_code=400, detail="400: " + champ_info.error)
         else:
             raise e
+
+@router.get("/champs/all")
+def get_all_champs_data():
+    '''
+    Get Information of every tier of every champ present in the database.
+    '''
+    try:
+        return champ_info.get_whole_data()
+    except:
+        raise HTTPException(status_code=404, detail="404")

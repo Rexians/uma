@@ -1,5 +1,6 @@
 import json
 from ..helpers.champurl import champurl_getter
+import os
 
 
 class NewChampsDB:
@@ -35,6 +36,15 @@ class NewChampsDB:
         self.released = None
         self.est_release = None
 
+        filenames = []
+        self.all_champs_dict = {}
+        for (root, dirs, files) in os.walk("./files/champ_stats"):
+            filenames.extend(files)
+        for file in filenames:
+            with open(f"./files/champ_stats/{file}", "r") as f:
+                data = json.load(f)
+            self.all_champs_dict[file.split(".")[0]] = data
+
     def get_data(self, champid: str, tier: int, rank: int):
         if tier > 6:
             self.error = "Tier should not be above 6"
@@ -63,8 +73,7 @@ class NewChampsDB:
         else:
             try:
                 champid = champurl_getter(champid)
-                with open(f"./files/champ_stats/{champid}.json", "r") as f:
-                    data = json.load(f)
+                data = self.all_champs_dict[champid]
                 try:
                     champ_dict = data["data"][f"{tier}+{rank}"]
 
@@ -74,27 +83,30 @@ class NewChampsDB:
                     self.img_portrait = data["img_portrait"]
                     self.name = data["name"]
                     self.tier = tier
-                    self.class_type = data['class']
-                    self.rank = champ_dict['rank']
-                    self.prestige = int(champ_dict['prestige'])
-                    self.hp = int(champ_dict['hp'])
-                    self.attack = int(champ_dict['attack'])
-                    self.crit_rate = int(champ_dict['crit_rate'])
-                    self.crit_dmge = int(champ_dict['crit_dmge'])
-                    self.armor = int(champ_dict['armor'])
-                    self.block_prof = int(champ_dict['block_prof'])
-                    self.energy_resist = int(champ_dict['energy_resist'])
-                    self.physical_resist = int(champ_dict['physical_resist'])
-                    self.crit_resist = int(champ_dict['crit_resist'])
-                    self.sig_info = champ_dict['sig_info']
-                    self.challenger_rating = champ_dict['challenger_rating']
-                    self.contact = data['contact']
-                    self.tags = data['tags']
-                    self.find = data['data']['find']
-                    self.abilities = champ_dict['abilities']
-                except KeyError:
+                    self.class_type = data["class"]
+                    self.rank = champ_dict["rank"]
+                    self.prestige = int(champ_dict["prestige"])
+                    self.hp = int(champ_dict["hp"])
+                    self.attack = int(champ_dict["attack"])
+                    self.crit_rate = int(champ_dict["crit_rate"])
+                    self.crit_dmge = int(champ_dict["crit_dmge"])
+                    self.armor = int(champ_dict["armor"])
+                    self.block_prof = int(champ_dict["block_prof"])
+                    self.energy_resist = int(champ_dict["energy_resist"])
+                    self.physical_resist = int(champ_dict["physical_resist"])
+                    self.crit_resist = int(champ_dict["crit_resist"])
+                    self.sig_info = champ_dict["sig_info"]
+                    self.challenger_rating = champ_dict["challenger_rating"]
+                    self.contact = data["contact"]
+                    self.tags = data["tags"]
+                    self.find = data["data"]["find"]
+                    self.abilities = champ_dict["abilities"]
+                except KeyError as e:
                     self.error = f"{champid} doesnt support tier {tier} of rank {rank}"
                     raise KeyError
             except FileNotFoundError:
                 self.error = f"Data with the champid: {champid} doesn't exist in the API Database!"
                 raise FileNotFoundError
+
+    def get_whole_data(self):
+        return self.all_champs_dict
