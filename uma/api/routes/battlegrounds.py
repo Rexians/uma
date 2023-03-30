@@ -18,7 +18,9 @@ def get_battlegrounds_info(season):
             "end": battlegrounds.end,
             "season": battlegrounds.season,
             "victory_track": battlegrounds.victory_track,
+            "victory_track_nodes": battlegrounds.victory_track_nodes,
             "gladiator_circuit": battlegrounds.gladiator_circuit,
+            "gladiator_circuit_nodes": battlegrounds.gladiator_circuit_nodes,
             "status": 200,
             "detail": "Successful",
         }
