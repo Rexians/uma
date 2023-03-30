@@ -37,11 +37,11 @@
             "node_info": "The Defender begins with 3 Indestructible charge(s). Intercepting the Defender's Attack removes 1 charge."
         },
         "9": {
-            "node_name": "Aggression - Cruelty",
+            "node_name": "Aggression: Cruelty",
             "node_info": "Every 2 seconds on a timer, gain a Cruelty passive increasing Critical Damage by 150% per stack. When struck, reset the timer and remove a Cruelty passive stack."
         },
         "10": {
-            "node_name": "Aggression - Regeneration",
+            "node_name": "Aggression: Regeneration",
             "node_info": "Every 2 seconds on a timer, gain a Regeneration passive that heals 0.25% of Max Health every second per stack. When struck, reset the timer and remove a Regeneration passive stack."
         },
         "11": {
@@ -1489,7 +1489,7 @@
             "node_info": "Defenders under the effect of Unstoppable become Stun Immune, this includes Unstoppable effects triggered outside this node. Every 15 seconds the Defender gains an Unstoppable buff for 5 seconds. The duration of this buff is reduced by 0.5 second(s) for each Prowess Buff or Passive the Attacker has."
         },
         "372": {
-            "node_name": "Personal Space",
+            "node_name": "Personal Space - Fury",
             "node_info": "While the Attacker is close to the Defender, the Defender gains a Fury Buff every 3 seconds, increasing their attack by 10% permanently. Staying far away from the Defender causes these Fury effects to gradually fall off."
         },
         "373": {
@@ -1586,7 +1586,7 @@
         },
         "396": {
             "node_name": "Power Leak",
-            "node_info": "A 50% chance for Critical Hits to cause Power to leak from opponents over time."
+            "node_info": "The Defender's Critical Hits have a 50% chance to Power Drain 1 Bar of Power from the Attacker over 6 seconds."
         },
         "397": {
             "node_name": "Power Play - 3",
@@ -1813,11 +1813,11 @@
             "node_info": "40% chance for the Defender to purify any incoming Shock Debuffs and apply a Shock Debuff to the Attacker dealing 20% Attack over 7 seconds. If this Shock is purified, or prevented by the Attacker's immunities, they instead receive a Passive Degeneration dealing 50% Attack over 7 seconds."
         },
         "453": {
-            "node_name": "Rich get Richer - 1",
+            "node_name": "Rich get Richer (Power) - 1",
             "node_info": "Whichever Champion has more Unique Buffs gains 5% of a bar of Power every second."
         },
         "454": {
-            "node_name": "Rich get Richer - 2",
+            "node_name": "Rich get Richer (Power) - 2",
             "node_info": "Whichever Champion has more Unique Buffs gains 9% of a bar of Power every second."
         },
         "455": {
@@ -1905,8 +1905,8 @@
             "node_info": "Slash through Blocks, inflicting 5 stacks of Bleed. Each Bleed does 10% of Attack over 3 seconds. 3 second delay before applying more stacks of Bleed."
         },
         "476": {
-            "node_name": "Shatter",
-            "node_info": "Nullify abilities shatter their targets, dealing X Direct Damage for each effect Nullified in this way."
+            "node_name": "Shatter - 1",
+            "node_info": "Nullify abilities shatter their targets, dealing 1300 Direct Damage for each effect Nullified in this way."
         },
         "477": {
             "node_name": "Shifting Immunity - Bleed and Poison",
@@ -2457,12 +2457,12 @@
             "node_info": "Whenever any of the Defenders Buffs are Nullified they gain 100% of a bar of Power."
         },
         "614": {
-            "node_name": "Hazard Shift - Shock and Bleed",
-            "node_info": "Striking the Defender has a 40% chance to inflict the Attacker with a Shock Debuff, dealing [30% Attack] Damage over 7 second(s). Every 12 second(s), this is swapped for a chance to inflict Bleed instead."
+            "node_name": "Hazard Shift - Shock, Bleed",
+            "node_info": "Striking the Defender has a 40% chance to inflict the Attacker with a Shock Debuff, dealing 30% Attack Damage over 7 second(s). Every 12 second(s), this is swapped for a chance to inflict Bleed instead."
         },
         "615": {
-            "node_name": "Hazard Shift - Incinerate and Poison",
-            "node_info": "Striking the Defender has a 40% chance to inflict the Attacker with an Incinerate Debuff, dealing [30% Attack] Damage over 7 second(s). Every 12 second(s), this is swapped for a chance to inflict Poison instead."
+            "node_name": "Hazard Shift - Incinerate, Poison",
+            "node_info": "Striking the Defender has a 40% chance to inflict the Attacker with an Incinerate Debuff, dealing 30% Attack Damage over 7 second(s). Every 12 second(s), this is swapped for a chance to inflict Poison instead."
         },
         "616": {
             "node_name": "Insult To Injury - 2",
@@ -2525,7 +2525,7 @@
             "node_info": "When the Defender is knocked down a 4 second timer starts. While active, each time the Defender lands a hit or strikes into the block, they gain 30% of a bar of Power."
         },
         "631": {
-            "node_name": "Rich get Richer - 3",
+            "node_name": "Rich get Richer (Power) - 3",
             "node_info": "Whichever Champion has more Unique Buffs gains 12% of a bar of Power every second."
         },
         "632": {
@@ -2673,7 +2673,7 @@
             "node_info": "When the Defender finishes a Special Attack, they gain an indefinite Armor Up Buff granting +10% Armor."
         },
         "668": {
-            "node_name": "Static Defence",
+            "node_name": "Static Defence - 1",
             "node_info": "If the Attacker strikes the opponent with an active Armor Up Buff, there is 15% chance for the player to be afflicted with a shock debuff, dealing 5% of Modified Attack in Direct Damage over 10 seconds."
         },
         "669": {
@@ -2711,6 +2711,382 @@
         "677": {
             "node_name": "Missing in Action 2",
             "node_info": "Whenever a Buff on the Defender expires, if the Attacker lands a Heavy or Special Attack within 4 seconds the Defender is Faltered for 4 seconds, otherwise, the Attacker is. Faltered Champions have 100% chance for their attacks to miss."
+        },
+        "678": {
+            "node_name": "Electric Defense - 2",
+            "node_info": "Each time the Defender is Struck while under the effect of an Armor Up Buff they will Power Burn the Attacker for 10% of a Bar of Power. Power Burn Damage scales with each Armor Up Buff, as well as the Defender's Base Attack."
+        },
+        "679": {
+            "node_name": "Electric Defense - 3",
+            "node_info": "Each time the Defender is Struck while under the effect of an Armor Up Buff they will Power Burn the Attacker for 18% of a Bar of Power. Power Burn Damage scales with each Armor Up Buff, as well as the Defender's Base Attack."
+        },
+        "680": {
+            "node_name": "Spaced Armor - 3",
+            "node_info": "While the Defender has an active Armor Up Buff, they are immune to the effects of Nullify, Fate Seal, and Stagger. While an Armor up Buff is Active striking the Defender will Special Lock the Attacker for 6 seconds."
+        },
+        "681": {
+            "node_name": "Stalwart Shield",
+            "node_info": "Each Armor Up Buff on the Defender reduces the Duration of Debuffs on them by 15%."
+        },
+        "682": {
+            "node_name": "Stunning Immunity - 3",
+            "node_info": "When the Attacker triggers an Immunity, the Defender becomes Stun Immune for 8 seconds. Max 1 Stack."
+        },
+        "683": {
+            "node_name": "True Focus",
+            "node_info": "Defender's attacks ignore Evade and Miss."
+        },
+        "684": {
+            "node_name": "Second Wind (Damage Reflection) - 3",
+            "node_info": "Whenever the Defender Purifies or Cleanses a Debuff, they gain an Damage Reflection Passive for 8 seconds dealing back 50% of the damage dealt by the Attacker."
+        },
+        "685": {
+            "node_name": "Second Wind (Unblockable) - 3",
+            "node_info": "Whenever the Defender Purifies or Cleanses a Debuff, they gain an Unblockable Charge. If the Defender reaches 3 Unblockable Charges, they gain an Unblockable Passive for 8 seconds."
+        },
+        "686": {
+            "node_name": "Power Creep - 3",
+            "node_info": "Each time the Defender Purifies or Cleanses a Debuff, they gain a Charge that permanently increases their Combat Power Rate by 7%. This goes up to a maximum of 20 Charges."
+        },
+        "687": {
+            "node_name": "Winded - 3",
+            "node_info": "Each time the Defender is knocked down, the Defender suffers an Armor Break Debuff, decreasing their Armor Rating by 50 for 7 seconds."
+        },
+        "688": {
+            "node_name": "Standing in Fear",
+            "node_info": "While close to the Defender, the Defender gains a Fatigue Debuff every 3 seconds, reducing their Critical Rating permanently. Staying far away from the Defender causes these Fatigue effects to gradually fall off."
+        },
+        "689": {
+            "node_name": "Broken Measures",
+            "node_info": "Each time the Attacker inflicts an Armor Break or Shatter Debuff, they gain an Aptitude Buff increasing Fury, Armor Up and Precision buffs by 10% for 10 seconds. While under the effect of this Aptitude, the Attacker gains 5% of a Bar of Power each second."
+        },
+        "690": {
+            "node_name": "Preventative Measures",
+            "node_info": "Each time a Fate Seal, Stagger, or Neutralize effect is applied to the Defender, the Attacker steals 3% of a bar of Power from the Opponent. Whenever the Defender's Buffs are Nullified via Fate Seal or Stagger or fail to trigger due to Neutralize, the Attacker gains a non-stacking Flourish Passive, increasing Combat Power Rate and Ability Power Rate by 10% for 10 seconds."
+        },
+        "691": {
+            "node_name": "Critical Measures",
+            "node_info": "While the Attacker has any Precision effect active, they Passively gain True Accuracy, ignoring Evade and Auto-Block effects. While the Attacker has any True Accuracy effect active, their Damaging Debuffs have a 20% increased potency."
+        },
+        "692": {
+            "node_name": "Hurtful Measures",
+            "node_info": "When an Exhaustion, Fatigue, or Petrify Debuff is applied to the Defender, also apply a Non-Stacking 20% Potency Taunt Debuff, lasting 10 seconds. While the Defender is under the effect of 3 or more Non-Damaging Debuffs, the Attacker gains a Fury Passive, granting a 20% Attack Rating."
+        },
+        "693": {
+            "node_name": "Defensive Measures",
+            "node_info": "While Blocking, the Attacker gains Block Proficiency based on 50% of their Current Armor Rating. While the Attacker has at least one Armor Up Buff, performing a Well-Timed Block Power Burns the Defender for 15% of a Bar of Power, dealing Direct Damage proportionate to the amount of Power lost."
+        },
+        "694": {
+            "node_name": "Prowed Measures",
+            "node_info": "While under the effect of a Regen, Basic Attacks have a 35% Chance to grant a 20% Passive Prowess, Max: 10. These Prowesses are removed after Special Attacks. Activating a Special Attack while under the effect of any Prowess effect inflicts the Defender with a non-stacking 50% potency Concussion Passive for 8 seconds."
+        },
+        "695": {
+            "node_name": "Dawn of Protection",
+            "node_info": "The Defender gains Indefinite Protection Passives every 14 seconds reducing Damage by 30%. Remove one Protection Passive from the Defender when they are struck by a Medium Combo Ender, the final hit of a Heavy Attack, or final hit of a Special Attack. After a Protection Passive has been removed by one of these Attacks they cannot be removed again until reset. Attack actions are reset after completing each one once."
+        },
+        "696": {
+            "node_name": "Dawn of Intensity",
+            "node_info": "The Defender gains Indefinite Fury Passives every 10 seconds increasing Damage by 50%. Remove one Fury Passive from the Defender when they are struck for the first time by a Medium Combo Ender, the final hit of a Heavy Attack, or final hit of a Special Attack. After a Fury Passive has been removed by one of these Attacks they cannot be removed again until reset. Attack actions are reset after completing each one once."
+        },
+        "697": {
+            "node_name": "Piercing Pursuit",
+            "node_info": "When the Attacker Dashes backward the Defender gains a 10% Pierce Passive, Max: 5. Intercepting the Defender removes all Pierces gained by this ability."
+        },
+        "698": {
+            "node_name": "Special Interference",
+            "node_info": "If the Attacker uses the same Special Attack as was last used by the Defender they deal 50% less damage and the Defender becomes Passively Stun Immune for 8 seconds."
+        },
+        "699": {
+            "node_name": "Demigod Essence",
+            "node_info": "Every 14 seconds the Defender gains an Unblockable Passive for 7 seconds. Striking the Defender or hitting into their Block while they don't have Unblockable pauses the cooldown timer for 1 second. This cooldown timer is also paused during the Defender's Special Attacks. This ability is unaffected by Ability Accuracy."
+        },
+        "700": {
+            "node_name": "Keeping Pace - 3",
+            "node_info": "Whenever the Defender activates any Special Attack, they pause their Buffs for 5 second(s)."
+        },
+        "701": {
+            "node_name": "Enhanced Parry - 50% Power Gain",
+            "node_info": "After a successful Parry by the Attacker, the Attacker receives a Power Gain Buff, granting 50% of a Bar of Power over 5 seconds. Does not stack."
+        },
+        "702": {
+            "node_name": "Specialist - 3",
+            "node_info": "The Attacker's Special Attack 3 deals 50% more damage, but their other Special Attacks deal 50% less damage."
+        },
+        "703": {
+            "node_name": "Long Distance Eternity",
+            "node_info": "While far away, the Defender's Fury, Unblockable, True Damage, and Power Gain Buffs are paused."
+        },
+        "704": {
+            "node_name": "Power Through Sickness - 2",
+            "node_info": "Each time the Attacker is inflicted with any Debuff, the Defender gains a Power Gain Passive granting 10% of Max Power over 8 seconds. This Power Gain does not stack multiple times."
+        },
+        "705": {
+            "node_name": "Power Through Sickness - 1",
+            "node_info": "Each time the Attacker is inflicted with any Debuff, the Defender gains a Power Gain Passive granting 5% of Max Power over 8 seconds. This Power Gain does not stack multiple times."
+        },
+        "706": {
+            "node_name": "Debilitating Refund - 1",
+            "node_info": "The Defender's Special Attacks cost 50% less power while the Attacker is suffering from any Debuff."
+        },
+        "707": {
+            "node_name": "Diversion",
+            "node_info": "Every 15 second(s), the Attacker is inflicted with a Falter Passive, causing all their attacks to Miss for 8 second(s). If the Attacker is out of striking range when this timer expires, the Defender is instead afflicted with a Falter Passive for 4 second(s)."
+        },
+        "708": {
+            "node_name": "Vital Strikes - 2",
+            "node_info": "When the Defender strikes the Attacker's Block, the Defender regenerates 500% of damage dealt."
+        },
+        "709": {
+            "node_name": "Bob and Weave - 3",
+            "node_info": "All of the Defender's Attacks are Guaranteed Critical Hits. This is disabled for 6 second(s) if the Attacker Dodges or Intercepts the Defender. The Defender can land Critical Hits through Block."
+        },
+        "710": {
+            "node_name": "No Hit-M...ercy - 2",
+            "node_info": "Each time the Defender is knocked down they gain a Cruelty Passive granting +350% Critical Damage lasting for 7 seconds. While the Defender has a Cruelty effect, they can strike with Critical Hits even while the Opponent is blocking."
+        },
+        "711": {
+            "node_name": "Parry Vulnerability",
+            "node_info": "Each time the Attacker lands a successful Parry they gain a Fury Buff, increasing Attack Rating by 75% for 15 seconds. Additionally, the Attacker gains +200% Attack Rating while the Defender is Stunned by Parry."
+        },
+        "712": {
+            "node_name": "Reinvigorated (Unblockable) - 3",
+            "node_info": "Every time a Regeneration Buff or Passive is activated, if the Defender is not Heal Blocked they gain a dormant Vigor Charge. Once the Defender reaches 10 Vigor Charges they're consumed and the Defender gains a Passive Unblockable for 10 seconds."
+        },
+        "713": {
+            "node_name": "Hale and Hearty - 2",
+            "node_info": "Whenever the Attacker gains a Bar of Power, the Defender gains a Regeneration Buff healing 6% of their max Health over 8 seconds. This Regeneration Buff is removed early if the Defender is knocked down with a Heavy Attack."
+        },
+        "714": {
+            "node_name": "Compelled Duel - Special Attacks",
+            "node_info": "When the Defender activates their Special 1 or Special 2 within striking distance of a Basic Attack, the Attacker is passively Rooted until the final hit of the attack."
+        },
+        "715": {
+            "node_name": "Offensive Specialty - 3",
+            "node_info": "Each Dodged hit during a Special Attack grants the Attacker a Passive Prowess granting 20% increased Special Damage for 10 seconds. While under the effect of a Prowess the Attacker\u2019s Block Proficiency is reduced by 30% per stack."
+        },
+        "716": {
+            "node_name": "While They're Down - 2",
+            "node_info": "Each time the Attacker is inflicted with a Non-Damaging Debuff, the Defender gains a Fury Buff granting 240% Attack Rating for 8 seconds. This Fury effect does not stack multiple times."
+        },
+        "717": {
+            "node_name": "While They're Down - 2",
+            "node_info": "Each time the Attacker is inflicted with a Non-Damaging Debuff, the Defender gains a Fury Buff granting 480% Attack Rating for 8 seconds. This Fury effect does not stack multiple times."
+        },
+        "718": {
+            "node_name": "Right Back At It - 3",
+            "node_info": "When the Defender is knocked down by a Heavy or Special Attack they become Debuff Immune for 8 seconds."
+        },
+        "719": {
+            "node_name": "Reinvigorated (Unblockable) - 2",
+            "node_info": "Every time a Regeneration Buff or Passive is activated, if the Defender is not Heal Blocked they gain a dormant Vigor Charge. Once the Defender reaches 10 Vigor Charges they're consumed and the Defender gains a Passive Unblockable for 7 seconds."
+        },
+        "720": {
+            "node_name": "Reinvigorated (Fury) - 2",
+            "node_info": "Every time a Regeneration Buff or Passive is activated, if the Defender is not Heal Blocked they gain a dormant Vigor Charge. Once the Defender reaches 10 Vigor Charges they're consumed and the Defender gains a Passive Fury granting +100% Attack for 7 seconds."
+        },
+        "721": {
+            "node_name": "Reinvigorated (Fury) - 3",
+            "node_info": "Every time a Regeneration Buff or Passive is activated, if the Defender is not Heal Blocked they gain a dormant Vigor Charge. Once the Defender reaches 10 Vigor Charges they're consumed and the Defender gains a Passive Fury granting +100% Attack for 10 seconds."
+        },
+        "722": {
+            "node_name": "Personal Space - Regeneration",
+            "node_info": "While the Attacker is close to the Defender, the Defender gains a Regeneration Buff every 3 seconds, increasing their regeneration by 0.25% of their Max Health each second. Staying far away from the Defender causes these Regeneration effects to gradually fall off."
+        },
+        "723": {
+            "node_name": "Drip Feed - Placebo - 3",
+            "node_info": "The Attacker gains a 6 second Placebo Buff every 5 seconds. Whenever the Defender is inflicted with a non-Damaging Debuff, except for Stun, resets this Timer."
+        },
+        "724": {
+            "node_name": "Combat Deja Vu - Placebo - 3",
+            "node_info": "Whenever the Attacker lands the same type of Basic Attack twice in a row, the Attacker gains a 5 Second Placebo Buff."
+        },
+        "725": {
+            "node_name": "Personal Space - Placebo",
+            "node_info": "While the Attacker is close to the Defender, the Attacker gains a 5 second duration Placebo Buff every 3 seconds. Staying far away from the Defender causes these Placebo Buffs to gradually fall off."
+        },
+        "726": {
+            "node_name": "Roll With The Punches",
+            "node_info": "Each time the Defender receives a Stun Debuff, they reduce the duration of further Stun Debuffs by 20% unless the Attacker has an active Buff or Prowess Passive when the Stun Debuff is inflicted."
+        },
+        "727": {
+            "node_name": "Shatter - 2",
+            "node_info": "Each time the Attacker has an effect Nullified they receive a burst of Direct Damage equal to 30% of the Defender's Modified Attack Rating. Armor Break Debuffs Nullify Armor Up Buffs."
+        },
+        "728": {
+            "node_name": "Shatter - 3",
+            "node_info": "Each time the Attacker has an effect Nullified they receive a burst of Direct Damage equal to 50% of the Defender's Modified Attack Rating. Armor Break Debuffs Nullify Armor Up Buffs."
+        },
+        "729": {
+            "node_name": "Spaced Armor - 1",
+            "node_info": "While the Defender has an active Armor Up Buff, they are immune to the effects of Nullify, Fate Seal, and Stagger. While an Armor up Buff is Active striking the Defender will Special Lock the Attacker for 2 seconds."
+        },
+        "730": {
+            "node_name": "Spaced Armor - 2",
+            "node_info": "While the Defender has an active Armor Up Buff, they are immune to the effects of Nullify, Fate Seal, and Stagger. While an Armor up Buff is Active striking the Defender will Special Lock the Attacker for 5 seconds."
+        },
+        "731": {
+            "node_name": "Rich get Richer (Fury) - 3",
+            "node_info": "Whichever Champion has more Unique Buffs gains a stacking Passive Fury every 1 second(s), each increasing Attack rating by 15%."
+        },
+        "732": {
+            "node_name": "Rich Get Richer (Fury) - 2",
+            "node_info": "Whichever Champion has more Unique Buffs gains a stacking Passive Fury every 1 second(s), each increasing Attack rating by 10%."
+        },
+        "733": {
+            "node_name": "Masochism Over Time - 1",
+            "node_info": "Whenever the Defender is inflicted with a Debuff, it is immediately Purified and the Defender gains a Regeneration Buff, granting 5% of their Max Health over 7 seconds. This Ability has a 7 second cooldown."
+        },
+        "734": {
+            "node_name": "Masochism Over Time - 2",
+            "node_info": "Whenever the Defender is inflicted with a Debuff, it is immediately Purified and the Defender gains a Regeneration Buff, granting 10% of their Max Health over 7 seconds. This Ability has a 7 second cooldown."
+        },
+        "735": {
+            "node_name": "Masochism Over Time - 3",
+            "node_info": "Whenever the Defender is inflicted with a Debuff, it is immediately Purified and the Defender gains a Regeneration Buff, granting 15% of their Max Health over 7 seconds. This Ability has a 7 second cooldown."
+        },
+        "736": {
+            "node_name": "Hazard Shift - Incinerate, Shock",
+            "node_info": "Striking the Defender has a 40% chance to inflict the Attacker with a Incinerate Debuff, dealing 30% Attack Damage over 7 second(s). Every 12 second(s), this is swapped for a chance to inflict Shock instead."
+        },
+        "737": {
+            "node_name": "Scared Stiff - 1",
+            "node_info": "Every 10 seconds the Attacker is Rooted for 4 seconds. Rooted Champions cannot move, but can still attack, block and dodge. Activating a Special Attack removes Root and prevents it from applying. This Timer is paused while the Attacker is Rooted and is reset if the Attacker lands a hit."
+        },
+        "738": {
+            "node_name": "Scared Stiff - 2",
+            "node_info": "Every 8 seconds the Attacker is Rooted for 4 seconds. Rooted Champions cannot move, but can still attack, block and dodge. Activating a Special Attack removes Root and prevents it from applying. This Timer is paused while the Attacker is Rooted and is reset if the Attacker lands a hit."
+        },
+        "739": {
+            "node_name": "Scared Stiff - 3",
+            "node_info": "Every 6 seconds the Attacker is Rooted for 4 seconds. Rooted Champions cannot move, but can still attack, block and dodge. Activating a Special Attack removes Root and prevents it from applying. This Timer is paused while the Attacker is Rooted and is reset if the Attacker lands a hit."
+        },
+        "740": {
+            "node_name": "Sloped Armor - 3",
+            "node_info": "Each Armor Up Buff gives the Defender a 30% Chance to Glance incoming Attacks."
+        },
+        "741": {
+            "node_name": "Sloped Armor - 2",
+            "node_info": "Each Armor Up Buff gives the Defender a 15% Chance to Glance incoming Attacks."
+        },
+        "742": {
+            "node_name": "Buffet Over Time - 3",
+            "node_info": "Whenever the Attacker triggers a Buff, it is immediately Nullified and the Defender gains a Regeneration Buff, granting 15% of their Max Health over 7 seconds. This Ability has a 7 second cooldown."
+        },
+        "743": {
+            "node_name": "Buffet Over Time - 2",
+            "node_info": "Whenever the Attacker triggers a Buff, it is immediately Nullified and the Defender gains a Regeneration Buff, granting 10% of their Max Health over 7 seconds. This Ability has a 7 second cooldown."
+        },
+        "744": {
+            "node_name": "Buffet Over Time - 1",
+            "node_info": "Whenever the Attacker triggers a Buff, it is immediately Nullified and the Defender gains a Regeneration Buff, granting 5% of their Max Health over 7 seconds. This Ability has a 7 second cooldown."
+        },
+        "745": {
+            "node_name": "One Too Many Hits - 1",
+            "node_info": "When the Defender gains a Bar of Power, the Attacker is inflicted with a Power Sting Debuff for 4 seconds. Power Sting triggers and is removed if the Attacker activates a Special Attack, dealing direct damage equal to 50% of the Defender's Attack."
+        },
+        "746": {
+            "node_name": "Never Back Down - 1",
+            "node_info": "When the Attacker dashes back, they gain a Regeneration Timer for 1.20 second(s). Dashing back again while the Regeneration Timer is active grants the Defender a Regeneration Passive restoring 5% of their Max Health over 5 seconds. Max 1 stack."
+        },
+        "747": {
+            "node_name": "Never Back Down - 3",
+            "node_info": "When the Attacker dashes back, they gain a Regeneration Timer for 1.20 second(s). Dashing back again while the Regeneration Timer is active grants the Defender a Regeneration Passive restoring 10% of their Max Health over 5 seconds. Max 1 stack."
+        },
+        "748": {
+            "node_name": "Never Back Down - 2",
+            "node_info": "When the Attacker dashes back, they gain a Regeneration Timer for 1.20 second(s). Dashing back again while the Regeneration Timer is active grants the Defender a Regeneration Passive restoring 7.50% of their Max Health over 5 seconds. Max 1 stack."
+        },
+        "749": {
+            "node_name": "Subterfuge - Block",
+            "node_info": "Each time the Attacker performs a Well-Timed block they gain a Fury Buff, increasing Attack Rating by 5% for 10 seconds."
+        },
+        "750": {
+            "node_name": "Subterfuge - Special",
+            "node_info": "When the Attacker throws a Special Attack they gain 1 Fury Buff for each full Bar of Power they had, each granting 5% Attack Rating for 10 seconds."
+        },
+        "751": {
+            "node_name": "Power Creep - 1",
+            "node_info": "Each time the Defender Purifies or Cleanses a Debuff, they gain a Charge that permanently increases their Combat Power Rate by 3%. This goes up to a maximum of 20 Charges."
+        },
+        "752": {
+            "node_name": "Power Creep - 2",
+            "node_info": "Each time the Defender Purifies or Cleanses a Debuff, they gain a Charge that permanently increases their Combat Power Rate by 5%. This goes up to a maximum of 20 Charges."
+        },
+        "753": {
+            "node_name": "Enhanced Parry - Armor Up",
+            "node_info": "After a successful Parry by the Attacker, the Attacker gains an Armor Up Buff, granting +1000 Armor Rating for 15 seconds. Does not stack."
+        },
+        "754": {
+            "node_name": "Make A Stand - 2",
+            "node_info": "The Defender has indefinite Protection, reducing all damage received by 75%. This goes onto cooldown for 15 seconds when knocked down."
+        },
+        "755": {
+            "node_name": "Schadenfreude - 3",
+            "node_info": "Each time the Attacker is inflicted with a Debuff, the Defender gains a Fury Buff granting 480% Attack Rating for 8 seconds. This Fury does not stack multiple times."
+        },
+        "756": {
+            "node_name": "Power Snack - 3",
+            "node_info": "Every 7 seconds the next Buff triggered by the Attacker is immediately Nullified. Each time this effect triggers, the Defender gains 75% of a bar of Power."
+        },
+        "757": {
+            "node_name": "Power Snack - 4",
+            "node_info": "Every 7 seconds the next Buff triggered by the Attacker is immediately Nullified. Each time this effect triggers, the Defender gains 100% of a bar of Power."
+        },
+        "758": {
+            "node_name": "Superior Specials - 3",
+            "node_info": "The Defender starts the fight with an indefinite Passive Prowess increasing Special Attack damage by 200%."
+        },
+        "759": {
+            "node_name": "Enhanced Bleed",
+            "node_info": "Bleed abilities are 80% more effective."
+        },
+        "760": {
+            "node_name": "Underhanded Comment - 1",
+            "node_info": "For each Buff on the Defender, the Attacker has their Defensive Ability Accuracy reduced by 10%."
+        },
+        "761": {
+            "node_name": "Underhanded Comment - 2",
+            "node_info": "For each Buff on the Defender, the Attacker has their Defensive Ability Accuracy reduced by 20%."
+        },
+        "762": {
+            "node_name": "Underhanded Comment - 3",
+            "node_info": "For each Buff on the Defender, the Attacker has their Defensive Ability Accuracy reduced by 30%."
+        },
+        "763": {
+            "node_name": "Special Fate Seal Lock Down - 2",
+            "node_info": "Whenever the Defender activates a Special Attack, the Attacker is afflicted with both a Heal Block and a Fate Seal Debuff, each lasting 10 seconds."
+        },
+        "764": {
+            "node_name": "Second Wind (Unblockable) - 2",
+            "node_info": "Whenever the Defender Purifies or Cleanses a Debuff, they gain an Unblockable Charge. If the Defender reaches 4 Unblockable Charges, they gain an Unblockable Passive for 6 seconds."
+        },
+        "765": {
+            "node_name": "Second Wind (Damage Reflection) - 2",
+            "node_info": "Whenever the Defender Purifies or Cleanses a Debuff, they gain an Damage Reflection Passive for 6 seconds dealing back 25% of the damage dealt by the Attacker."
+        },
+        "766": {
+            "node_name": "Winded - 1",
+            "node_info": "Each time the Defender is knocked down, the Defender suffers an Armor Break Debuff, decreasing their Armor Rating by 50 for 3 seconds."
+        },
+        "767": {
+            "node_name": "Winded - 2",
+            "node_info": "Each time the Defender is knocked down, the Defender suffers an Armor Break Debuff, decreasing their Armor Rating by 50 for 5 seconds."
+        },
+        "768": {
+            "node_name": "Drip Feed - Placebo - 2",
+            "node_info": "The Attacker gains a 6 second Placebo Buff every 10 seconds. Whenever the Defender is inflicted with a non-Damaging Debuff, except for Stun, resets this Timer."
+        },
+        "769": {
+            "node_name": "Electric Defense - 1",
+            "node_info": "Each time the Defender is Struck while under the effect of an Armor Up Buff they will Power Burn the Attacker for 5% of a Bar of Power. Power Burn Damage scales with each Armor Up Buff, as well as the Defender's Base Attack."
+        },
+        "770": {
+            "node_name": "Combat Deja Vu - Placebo - 2",
+            "node_info": "Whenever the Attacker lands the same type of Basic Attack twice in a row, the Attacker gains a 8 Second Placebo Buff."
+        },
+        "771": {
+            "node_name": "Sloped Armor - 1",
+            "node_info": "Each Armor Up Buff gives the Defender a 10% Chance to Glance incoming Attacks."
         }
     }
 }
