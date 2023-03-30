@@ -7,8 +7,15 @@ class Battlegrounds:
         self.end = None
         self.season = None
         self.victory_track = None
+        self.victory_track_nodes = None
         self.gladiator_circuit = None
+        self.gladiator_circuit_nodes = None
         self.error = None
+
+    def get_tracks(self):
+        with open(f"./files/battlegrounds/tracks.json", "r") as f:
+            data = json.load(f)['data']
+        return data
 
     def read_battleground_data(self, season: int):
 
@@ -27,10 +34,14 @@ class Battlegrounds:
             with open(f"./files/battlegrounds/battlegrounds_season_{season}.json", "r") as f:
                 data = json.load(f)['data']
 
+            tracks = self.get_tracks()
+
             self.start = data['start']
             self.end = data['end']
             self.season = data['season']
-            self.victory_track = data['victory_track']
-            self.gladiator_circuit = data['gladiator_circuit']
+            self.victory_track = tracks['victory_track']
+            self.victory_track_nodes = data['victory_track_nodes']
+            self.gladiator_circuit = tracks['gladiator_circuit']
+            self.gladiator_circuit_nodes = data['gladiator_circuit_nodes']
         except FileNotFoundError:
             self.error = f"File not found. Please report the bug"
