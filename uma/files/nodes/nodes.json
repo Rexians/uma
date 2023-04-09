@@ -673,7 +673,7 @@
             "node_info": "Armor Up abilities are 40% more effective."
         },
         "168": {
-            "node_name": "Enhanced Bleed",
+            "node_name": "Enhanced Bleed 40%",
             "node_info": "Bleed abilities are 40% more effective."
         },
         "169": {
@@ -717,7 +717,7 @@
             "node_info": "Precision abilities are +X% more effective."
         },
         "179": {
-            "node_name": "Enhanced Shock",
+            "node_name": "Enhanced Shock - 40%",
             "node_info": "Shock abilities are 40% more effective."
         },
         "180": {
@@ -2445,7 +2445,7 @@
             "node_info": "Each time the Defender gains Prowess they also gain a non-stacking Passive Impact charge, granting 60% Block Penetration for 5 seconds."
         },
         "611": {
-            "node_name": "Static Defence - 3",
+            "node_name": "Static Defense - 3",
             "node_info": "If the Attacker strikes the opponent with an active Armor Up Buff, there is 15% chance for the player to be afflicted with a shock debuff, dealing 50% of Modified Attack in Direct Damage over 10 seconds."
         },
         "612": {
@@ -2673,11 +2673,11 @@
             "node_info": "When the Defender finishes a Special Attack, they gain an indefinite Armor Up Buff granting +10% Armor."
         },
         "668": {
-            "node_name": "Static Defence - 1",
+            "node_name": "Static Defense - 1",
             "node_info": "If the Attacker strikes the opponent with an active Armor Up Buff, there is 15% chance for the player to be afflicted with a shock debuff, dealing 5% of Modified Attack in Direct Damage over 10 seconds."
         },
         "669": {
-            "node_name": "Static Defence - 2",
+            "node_name": "Static Defense - 2",
             "node_info": "If the Attacker strikes the opponent with an active Armor Up Buff, there is 15% chance for the player to be afflicted with a shock debuff, dealing 20% of Modified Attack in Direct Damage over 10 seconds."
         },
         "670": {
@@ -3037,7 +3037,7 @@
             "node_info": "The Defender starts the fight with an indefinite Passive Prowess increasing Special Attack damage by 200%."
         },
         "759": {
-            "node_name": "Enhanced Bleed",
+            "node_name": "Enhanced Bleed - 80%",
             "node_info": "Bleed abilities are 80% more effective."
         },
         "760": {
@@ -3119,6 +3119,54 @@
         "779": {
             "node_name": "High Energy Diet",
             "node_info": "The Defender has 99% Energy Resistance, and any Hit that deals Energy Damage Regenerates them for what the damage would have been. While the Defender is affected by an Incinerate, Shock, or Coldsnap Debuff, the Defender gains 100% of a Bar of Power every 10 second(s)."
+        },
+        "780": {
+            "node_name": "Snowballing (Fury) - 3",
+            "node_info": "If the Defender is under the effect of 3 or more Buffs, they gain a Fury Passive that grant 25% attack rating every 2 seconds. Each Fury Passive lasts 15 seconds. The Defender will continue to gain these passives until all Buffs expire or are Nullified."
+        },
+        "781": {
+            "node_name": "Inevitable Power (Power Efficiency) - 3",
+            "node_info": "For each Buff the Defender has gained, they receive a Power Charge. Upon hitting 6 charges, they gain a Power Efficiency Passive for 12 seconds. During this time, all Buffs on the Defender cannot be Nullified or Staggered."
+        },
+        "782": {
+            "node_name": "No Hit-M…ercy (Passive) - 2",
+            "node_info": "Whenever the defender is knocked down, they gain a Cruelty passive increasing Critical Damage rating by 350 for 7 seconds. While this timer Is on, the defender can strike Critical hits through the block."
+        },
+        "783": {
+            "node_name": "No Hit-M…ercy (Buff) - 2",
+            "node_info": "Whenever the defender is knocked down, they gain a Cruelty Buff increasing Critical Damage rating by 350 for 7 seconds. While this timer Is on, the defender can strike Critical hits through the block."
+        },
+        "784": {
+            "node_name": "Inevitable Power (Power Efficiency) - 1",
+            "node_info": "For each Buff the Defender has gained, they receive a Power Charge. Upon hitting 8 charges, they gain a Power Efficiency Passive for 7 seconds. During this time, all Buffs on the Defender cannot be Nullified or Staggered."
+        },
+        "785": {
+            "node_name": "Make A Stand - 1",
+            "node_info": "The Defender has indefinite Protection, reducing all damage received by 50%. This goes onto cooldown for 15 seconds when knocked down."
+        },
+        "786": {
+            "node_name": "Second Wind (Unblockable) - 1",
+            "node_info": "Whenever the Defender Purifies or Cleanses a Debuff, they gain an Unblockable Charge. If the Defender reaches 5 Unblockable Charges, they gain an Unblockable Passive for 4 seconds."
+        },
+        "787": {
+            "node_name": "Reinvigorated (Unblockable) - 1",
+            "node_info": "Every time a Regeneration Buff or Passive is activated, if the Defender is not Heal Blocked they gain a dormant Vigor Charge. Once the Defender reaches 10 Vigor Charges they're consumed and the Defender gains a Passive Unblockable for 5 seconds."
+        },
+        "788": {
+            "node_name": "Reinvigorated (Fury) - 1",
+            "node_info": "Every time a Regeneration Buff or Passive is activated, if the Defender is not Heal Blocked they gain a dormant Vigor Charge. Once the Defender reaches 10 Vigor Charges they're consumed and the Defender gains a Passive Fury granting +100% Attack for 5 seconds."
+        },
+        "789": {
+            "node_name": "Drip Feed - Placebo - 1",
+            "node_info": "The Attacker gains a 6 second Placebo Buff every 15 seconds. Whenever the Defender is inflicted with a non-Damaging Debuff, except for Stun, resets this Timer."
+        },
+        "790": {
+            "node_name": "Combat Deja Vu - Placebo - 1",
+            "node_info": "Whenever the Attacker lands the same type of Basic Attack twice in a row, the Attacker gains a 12 Second Placebo Buff."
+        },
+        "791": {
+            "node_name": "Subterfuge - Knockdown",
+            "node_info": "Each time the Defender is kocked down, the Attacker gains a Fury Buff, increasing Attack Rating by 5% for 10 seconds."
         }
     }
 }
