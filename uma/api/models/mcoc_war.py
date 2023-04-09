@@ -2,43 +2,32 @@ import json
 
 class War:
 
-    tiers = {'Expert':[1,2], 
-             'Challenger':[3,4,5], 
-             'Hard':[6,7,8,9], 
-             'Intermediate':[10,11,12], 
-             'Normal':[13,14,15], 
-             'Easy': [16,17,18,19,20,21,22]}
+    tiers = {'Expert':{1,2}, 
+             'Challenger':{3,4,5}, 
+             'Hard':{6,7,8,9}, 
+             'Intermediate':{10,11,12}, 
+             'Normal':{13,14,15}, 
+             'Easy': {16,17,18,19,20,21,22}}
 
     def __init__(self):
-        self.tier = None
+        self.season = None
+        self.start = None
         self.nodes = None
         self.difficulty = None
+        self.bans = None
+
+        self.tier = None
         self.tier_multiplier = None
         self.tier_rank = None
         self.error = None
 
-
-    def match_nodes(self, diff):
-        """
-        Convert all the ids of the nodes into their corresponding names
-        """
-        try:
-            with open('./files/nodes/nodes.json', 'r') as file:
-                nodes = json.load(file)
-            nodes = nodes['data']
-            with open('./files/war_info/war_info.json', 'r') as file:
-                war = json.load(file)
-            war = war['data'][diff]['nodes']
-        except FileNotFoundError:
-            self.error = f"File not found. Please report the bug"
-
-        for key, value in war.items():
-            node_names = []
-            for node in value:
-                node_names.append(nodes[str(node)]['node_name'])
-            war[key] = node_names
-        
-        return war
+    def get_war_data(self):
+        with open('./files/war_info/war_info.json', 'r') as file:
+            war_data = json.load(file)["data"]
+        self.season = war_data["season"]
+        self.start = war_data["start"]
+        self.nodes = war_data[self.difficulty]["nodes"]
+        self.bans = war_data[self.difficulty]["bans"]
 
     def read_tier(self, tier):
 
@@ -46,11 +35,10 @@ class War:
         Read information about war with specific tier
         """
         found = False
-        diff = None
         try:
             for key, value in War.tiers.items():
                 if int(tier) in value:
-                    diff = key
+                    self.difficulty = key
                     found = True
                     break
         except ValueError as e:
@@ -63,11 +51,11 @@ class War:
                 with open('./files/war_info/tier_info.json', 'r') as file:
                     tier_data = json.load(file)
                 tier_data = tier_data['data'][str(tier)]
-                nodes = self.match_nodes(diff)
                 self.tier = int(tier)
-                self.nodes = nodes
-                self.difficulty = diff
                 self.tier_multiplier = tier_data['tier_multiplier']
-                self.tier_rank = tier_data['tier_rank']    
+                self.tier_rank = tier_data['tier_rank']
+
+                self.get_war_data()
+
             except FileNotFoundError:
                 self.error = f"File not found. Please report the bug"
