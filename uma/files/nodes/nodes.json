@@ -1345,11 +1345,11 @@
             "node_info": "Whenever a Robotic Attacker would gain a Poison Debuff, they instead gain Shock which deals X% of the Defender's attack as direct damage over X seconds."
         },
         "336": {
-            "node_name": "No Hit-M...ercy 1",
+            "node_name": "No Hit-M...ercy 1 (Buff)",
             "node_info": "Each time the Defender is knocked down they gain a Cruelty Buff granting +350% Critical Damage Rating for 5 seconds. While the Defender has a Cruelty Buff, they can strike with Critical Hits even while the Opponent is blocking."
         },
         "337": {
-            "node_name": "No Hit-M...ercy 3",
+            "node_name": "No Hit-M...ercy 3 (Buff)",
             "node_info": "Each time the Defender is knocked down they gain a Cruelty Buff granting +350% Critical Damage Rating for 10 seconds. While the Defender has a Cruelty Buff, they can strike with Critical Hits even while the Opponent is blocking."
         },
         "338": {
@@ -2841,7 +2841,7 @@
             "node_info": "All of the Defender's Attacks are Guaranteed Critical Hits. This is disabled for 6 second(s) if the Attacker Dodges or Intercepts the Defender. The Defender can land Critical Hits through Block."
         },
         "710": {
-            "node_name": "No Hit-M...ercy - 2",
+            "node_name": "No Hit-M...ercy - 2 (Buff)",
             "node_info": "Each time the Defender is knocked down they gain a Cruelty Passive granting +350% Critical Damage lasting for 7 seconds. While the Defender has a Cruelty effect, they can strike with Critical Hits even while the Opponent is blocking."
         },
         "711": {
@@ -3175,6 +3175,26 @@
         "793": {
             "node_name": "One Too Many Hits - 2",
             "node_info": "When the Defender gains a Bar of Power, the Attacker is inflicted with a Power Sting Debuff for 6 seconds. Power Sting triggers and is removed if the Attacker activates a Special Attack, dealing direct damage equal to 50% of the Defender's Attack."
+        },
+        "794": {
+            "node_name": "Snowballing (Fury) - 1",
+            "node_info": "If the Defender is under the effect of 5 or more Buffs, they gain a Fury Passive that grant 15% attack rating every 2 seconds. Each Fury Passive lasts 15 seconds. The Defender will continue to gain these passives until all Buffs expire or are Nullified."
+        },
+        "795": {
+            "node_name": "Second Wind (Damage Reflection) - 1",
+            "node_info": "Whenever the Defender Purifies or Cleanses a Debuff, they gain an Damage Reflection Passive for 4 seconds dealing back 10% of the damage dealt by the Attacker."
+        },
+        "796": {
+            "node_name": "Schadenfreude - 1",
+            "node_info": "Each time the Attacker is inflicted with a Debuff, the Defender gains a Fury Buff granting 120% Attack Rating for 6 seconds. This Fury does not stack multiple times."
+        },
+        "797": {
+            "node_name": "Snowballing (Fury) - 2",
+            "node_info": "If the Defender is under the effect of 4 or more Buffs, they gain a Fury Passive that grant 20% attack rating every 2 seconds. Each Fury Passive lasts 15 seconds. The Defender will continue to gain these passives until all Buffs expire or are Nullified."
+        },
+        "798": {
+            "node_name": "Inevitable Power (Power Efficiency) - 2",
+            "node_info": "For each Buff the Defender has gained, they receive a Power Charge. Upon hitting 7 charges, they gain a Power Efficiency Passive for 10 seconds. During this time, all Buffs on the Defender cannot be Nullified or Staggered."
         }
     }
 }
