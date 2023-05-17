@@ -2,11 +2,14 @@
     <h1>UMA (Unofficial MCOC API)</h1>
   <p align="center">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"/>
-    <img src="https://img.shields.io/static/v1?label=v4.2&message=UMA&color=purple" alt="uma"/>
+    <img src="https://img.shields.io/static/v1?label=v5.2.2&message=UMA&color=purple" alt="uma"/>
   </p>
 </div>
 
 ![UMA Banner](blob/UMA_Banner.png)
+
+## Project Discontinued
+Read more about this [here](https://rexians.tk/the-end/)
 
 ## Overview
 
